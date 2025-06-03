@@ -1,0 +1,1892 @@
+All views expressed in this paper are those of the authors and do not necessarily represent the views of the Hellenic Observatory or the LSE © Stavros Thomadakis, Dimitrios Gounopoulos Christos Nounis, Michalis Riginos
+Financial Innovation and Growth:
+Listings and IPOs from 1880 to World
+War II in the Athens Stock Exchange
+Stavros Thomadakis, Dimitrios Gounopoulos, Christos Nounis and Michalis Riginos
+GreeSE Paper No.86 Hellenic Observatory Papers on Greece and Southeast Europe
+SEPTEMBER 2014
+
+
+ii
+TABLE OF CONTENTS
+ABSTRACT __________________________________________________________ iii
+1. Introduction _____________________________________________________1
+2. Exchange Foundation and Governance________________________________7
+2.1 Unregulated Public Offers, Bubbles and the Genesis of an Organized Market.............................................................................................................. 7
+2.2 Exchange Governance and its Successive Reforms .................................12
+2.3 Listing Requirements.............................................................................16
+3. Exchange Listings and IPOs 1880 to 1940: The Impact of the Environment __19
+3.1 The Sample ...........................................................................................19
+3.2 From development to official bankruptcy and international control: 18801898 23
+3.3 Recovery, War and Expansion: 1899-1922 .............................................25
+3.4 New development, the ‘roaring twenties’, world crisis: 1923-1940 ........28
+4. Listings and IPOs: Frequency, Size and Quasi-IPOs______________________31
+4.1 The size and age of listed companies .....................................................31
+4.2 IPOs and Quasi-IPOs..............................................................................34
+5. The Double Face of IPO Pricing: Overpricing or Underpricing? ____________36
+5.1 The Overall Picture of Public Offerings ..................................................36
+5.2 A Simple Statistical Model of Underpricing ............................................38
+6. Conclusion _____________________________________________________42
+Appendix A: Listings, IPOs, Annual Volume, Mean First Day Prices and Returns, First Trading Day IPO Returns, Proceeds and Money Left on the Table, 1880-1940 ........................................................................................................45 Appendix B: Tables.........................................................................................................49
+References .......................................................................................................58
+
+
+iii
+Financial Innovation and Growth:
+Listings and IPOs from 1880 to World War II
+in the Athens Stock Exchange
+Stavros Thomadakis#, Dimitrios Gounopoulos,
+Christos Nounis†and Michalis Riginos‡
+ABSTRACT
+The study explores the growth of the Athens Stock Exchange through new listings and IPOs over the period 1880-1940. We examine institutional changes in exchange governance and listing requirements. On a theme that has not been addressed before, we find that simple listings were far more numerous than actual IPOs, while even during ‘hot’ listing periods IPO activity was relatively limited. IPOs in Greece remained unregulated throughout the period and there is only sparse evidence on the involvement of professional investment banking services. IPOs over-pricing in the early decades gives way to underpricing in the 1920s. The growth of the Greek stock market was coincident with development episodes in the economy, as well as phases of protectionism. It has been driven by a demand for listings basically serving the liquidity needs of company owners. Finally, the study presents data on "quasi-IPOs" (i.e. capital increases shortly after listing) and shows that they offer a more accurate assessment of the demand for the financing of listing firms.
+Keywords: Listings, Initial public offerings; financial history; financial innovation
+JEL classification: N23, N43, G18
+# University of Athens, School of Economics, Athens, Greece, thomadakis@econ.uoa.gr School of Business, Management and Economics, University of Sussex d.gounopoulos@sussex.ac.uk † University of Athens, School of Economics, Athens, Greece, cnounis@econ.uoa.gr ‡ University of Athens, School of Economics, Athens, Greece
+
+
+
+
+1
+Financial Innovation and Growth:
+Listings and IPOs from 1880 to World War II
+in the Athens Stock Exchange
+1. Introduction
+The object of this paper is the study of listings and public offerings of
+securities in the Athens Stock Exchange (ASE) from its inception in 1880
+to the outbreak of the second war in 1940. No previous comparable
+research exists for the Greek Stock Exchange. This is a first study of
+capital raising in an emerging European Exchange to be juxtaposed to
+several such studies of developed exchanges (e.g. London, Berlin, New
+York) in the late 19th and early 20th centuries.
+Stock exchanges are places of trade but their longer-term significance
+lies in their role as institutions for the funding of public and private
+ventures and thereby the growth of firms and sectors. The impetus for
+the development of exchanges in Europe since the 18th century has
+been furnished by the need to amass capital resources. Exchanges
+combine the collection of capital by security-issuers with the advantage
+of listing of securities for secondary trading. These two fundamental
+aspects of growth are not inseparable. Listing can occur with or without
+a concurrent public offering of securities. Whereas a public offering of
+securities is a direct capital-gathering exercise, listing can make an
+indirect contribution to capital growth by increasing the visibility and the
+reputation of a potential issuer. In developed liquid markets, public
+offers are a very visible activity of capital-raising. In emerging less liquid
+markets however, listings without direct public offerings may be a
+
+
+2
+predominant form of market development. Dealing with such an
+emerging market, the present study focuses on listings and public
+offerings as separable aspects of capital gathering. Our findings
+underpin this separation: public offerings in the Athens Exchange were
+relatively limited, even during periods when listings were in high
+demand. We offer analysis and explanation for this feature.
+The creation of the ASE was the second major financial innovation in 19th
+century Greece, after the establishment of the National Bank in the
+1840s. To place this study in international context, we note that the late
+19th century was a period of ‘emergence’ of many peripheral stock
+markets both in Europe and the rest of the world. These markets grew
+alongside well-established markets in the European centers [Batillosi and
+Matias (2012)]. Their ‘emergence’ was correlated with the rise of
+international capital flows and demand for foreign finance by new
+sovereign states [Bouvier (1977), Eichengreen (1996)]. The ASE was no
+exception to this general finding. Officially chartered over the period
+1876-78, it started operations in 1880. In 1878 the Greek state had
+regained access to foreign finance after an embargo of 45 years. The
+ASE, in which both government bonds and private stocks would trade,
+was a necessary mechanism for capital gathering and trading, and would
+prove to be one of the longest-lived institutions in modern Greece.
+Greek political and economic history has been very turbulent over the
+period 1880-1940. The country’s area and population practically
+doubled. Changes were not gradual but abrupt, mostly outcomes of
+wars that were won and wars that were lost; and there was a succession
+of periods that ranged from sovereign bankruptcy in 1893 to impressive
+
+
+3
+leaps in development in later periods. Over these sixty years, Greece was
+embroiled in six wars, two sovereign bankruptcies and many years of
+military antagonisms. The Exchange and its listed firms lived that history
+and evolved within a path defined by the needs and economic
+conditions of each period. But, arguably, the Exchange offered a fast
+reaction mechanism that facilitated recoveries, mobilization of resources
+and economic modernization through the recapitalization of older firms
+and the emergence of new ventures and new sectors. Recent historical
+research on financial markets has been influenced by prevalent
+institutional theories: the view of the positive impact of ‘common law’
+systems propounded by LaPorta, Lopez-Silanes, Shleifer and Vishny
+(1998) and the view of the positive impact of capital flow liberalization
+argued by Rajan and Zingales (2003). The Greek legal system has been of
+the continental variety throughout the life of the sovereign Greek state
+but, as we will see, the stock market experienced considerable variation
+between periods of development and periods of stagnation. On the
+front of economic openness, Greece also remained an economy
+nominally open to capital flows throughout the period of this study.
+Nevertheless, the actual occurrence and direction of capital flows varied
+greatly, especially as a result of sovereign bankruptcies, domestic
+politics, wars and the collapse of international monetary systems. Thus,
+the variation between stock market development and stagnation cannot
+be prima facie attributed to large shifts in the legal system or the
+institutional arrangements for international capital flows, in the case of
+Greece. We must engage in evaluation of other forces that have
+powered this pendulum. We focus on economic conjuncture and the
+
+
+4
+variation of the size and character of the domestic market which evolved
+significantly over the period of this study.
+Financial theories of capital gathering establish useful propositions that
+can inform historical study. It is generally acknowledged that markets for
+external finance can only function if there is an adequate level of trust
+between investors, issuers and sponsors. In a variety of financial models,
+a specific aspect of trust is represented as informational asymmetry. As
+Myers and Majluf (1984) have argued, such asymmetry can make the
+cost of external finance so high as to be prohibitive. In a theoretical
+context more directly applicable to initial public offerings Rock (1986)
+has argued that asymmetric information among investors leads to
+underpricing of new issues, an effect likened to a ‘winners curse’. A
+considerable strand of subsequent literature ((Beatty and Ritter (1986),
+Loughran and Ritter (2004), Ljunqgvist (2007)) has upheld the notion
+that institutional, regulatory and governance arrangements can mitigate
+asymmetries and improve trust. Extensive empirical work in
+contemporary markets has verified considerable underpricing of new
+equity issues, but with much variation across time and space3.
+Taking the cue from contemporary markets, historical researchers have
+focused on the major European markets (where transactions and data
+are ample) and have examined the underpricing phenomenon in the
+3 There are several studies of public offerings in the ASE but all focus on recent periods beginning with
+the 1980s3 (see e.g., (Kazantzis and Levis Kazantzis, C., and M. Levis, 1995. Price support and initial public offerings: evidence from Athens Stock Exchange, Journal in International Business and Finance 12, 185-200.; Thomadakis, S., D. Gounopoulos, and C. Nounis, 2012. The long term performance of Initial Public Offerings in the Athens Stock Exchange European Financial Management 17, 117-141.; Thomadakis, S., D. Gounopoulos, C. Nounis, and A. Merikas, 2014. Collateral regulation and IPO specific rebelarization: The case or price limits in the Athens Stock Exchange, European Financial Management, Forthcoming.). There are also few, mostly official, histories of the Exchange which do not illuminate sufficiently its fundamental function of capital gathering and company finance. See Platanopoulos M., History of the Athens Stock Exchange, 1876-1976, Athens 1976
+
+
+5
+late 19th or early 20th centuries. Chambers and Dimson (2009), examining
+the track record of the London Exchange, make a remarkable
+observation: a long-term rise in underpricing appears to have occurred
+over time, in spite of improvements in regulation, disclosure, and the
+prestige of IPO underwriters. Working on the Berlin Exchange, Fohlin
+(2010) shows that investors in new stock issues in Germany in the 1880s
+experienced, on the contrary, low spreads between the price they paid
+for stock and the price at which they could sell the stock in the market.
+Burhop et al. (2012) observe that during the early 20th century IPOs
+were regulated more heavily in Germany than in Britain and as a result
+the failure rate of IPOs on the Berlin Stock Exchange was lower than it
+was in London. Lehmann (2014) reports that even though German IPO
+business was in the hands of a small oligopoly, the terms of IPOs has
+been a result of the tight regulation of underwriting, which ensured the
+quality of all firms on the German market.
+A peripheral and emerging stock exchange, as the Athens Exchange was
+in the late 19th century, cannot be approached however on the same
+footing and with the same analytical agenda as developed central
+markets in Europe. Its institutional reputation had to be established and
+its liquidity (i.e. the willingness of savers to place their funds in
+Exchange-traded securities) had to be secured in an environment where
+liquidity was generally scarce and monetary values exhibited great
+fluctuation. It follows that when we examine matters such as listing
+requirements and the growth of the Exchange in terms of listings and
+primary offerings, we must be cognizant of these environmental factors
+and a more general correlation of the path of the Exchange to economic
+and political conditions. Thus, we pay a lot of attention to historical
+
+
+6
+circumstance and the phases followed by the Greek economy over the
+sixty years.
+Differing from studies focusing on developed markets, we have
+expanded the meaning of IPOs to capital increases occurring in the two
+years following listing. We have collected data on these capital increases
+and compare them to actual primary offerings. The view of listings as a
+first step towards the raising of external capital finds support from these
+comparisons. We also undertake analysis of IPO underpricing itself,
+within the confines of our narrow sample of actual IPOs, and find
+significant change over time.
+Besides listing requirements that held for all introductions of new
+shares, IPOs remained unregulated throughout the period and there is
+little evidence about the involvement and role of professional
+investment banking in primary security issues and their pricing. This is a
+major difference from what has been documented in developed markets
+of that period, where IPOs were regulated and investment banking was
+formalised. It does not appear that standardised arrangements of
+investment banking emerged in Greece, although some services of
+investment bankers were provided. This implies that disclosure quality
+remained uneven and low. The population of IPOs was also low. It is
+noteworthy nonetheless that even in this small population both over
+and under-pricing made an appearance over time. We present historical
+conjectures for the timid growth of IPOs and look at possible factors to
+explain IPO pricing in line with the empirical literature.
+The early enlargement of the Greek stock market was clearly driven
+more by a demand for listings than by discreet large offers of new issues
+
+
+7
+for the direct enlargement of company capital. This implies that,
+contrary to what we know of developed markets, the study of listings is
+a major pillar for understanding the evolution of peripheral markets. In
+the Greek case, we document a decisive shift in the character, the size
+and sector of listings and IPOs between the first decades of ASE
+operation and the boom decade of the 1920s. This shift was related to a
+reorientation of economic activity, with emphasis on light domestic
+industry. It also correlated to stock market entries by smaller firms, a
+phenomenon that may be described as a ‘democratisation of market
+finance’. Interestingly, this democratization was evident in the
+population of listings but also implied very visible changes in pricing of
+primary offerings. We provide analysis of these changes.
+The rest of the paper is organized as follows. Section II discusses the
+background to the creation of the ASE, the evolution of its governance
+and listing requirements. Section III presents the periodization of our
+study, the historical features of each sub-period and associated the
+sample of listings and IPOs. In Section IV we present the main statistical
+features of our sample, including the discussion of quasi IPOs. In Section
+V we undertake an analysis of IPO pricing and test a regression model of
+underpricing. Finally, Section VI concludes the paper.
+2. Exchange Foundation and Governance
+2.1 Unregulated Public Offers, Bubbles and the Genesis of an Organized Market
+The birth of the Athens Stock Exchange was doubtlessly conditioned by a
+dramatic precedent: a ferocious cycle of mania and panic that grew out
+
+
+8
+of unregulated public offers of shares in the early 1870s. The mania
+coincided with the first attempts at Greek industrialization, [Agriantoni
+(2014)], focused on mining and metalworking shares primarily, but
+encompassed banking shares as well. This was a time of speculative
+frenzy in other European exchanges. The link of the Athenian
+transactions with those of Europe was forged through the activities of
+Greek ‘diaspora’ financiers, who, during the 1870s were increasingly
+active in Athens along with the Ottoman Empire and other European
+capitals, [Syngros (2012)].
+Citizens of the independent Kingdom of Greece thus had their first
+serious brush with a speculative bubble in 1873. The public offer that
+sparked the mania was of shares in a company running the metal
+processing plant around the mine of Lavrion, a rich silver source in
+ancient times. Rumors and reckless political rhetoric about endless
+riches led to spectacular high prices, succeeded by rapid decline in early
+1874. The buyers of shares were not only the wealthy Athenian elite.
+Small savers and shopkeepers, simple folk from all strata, lured by the
+dream of quick enrichment, were embroiled in the buying mania only to
+experience ultimate loss. Thus, the ‘investor base’ was greatly expanded
+during the mania. The ‘Lavreotika’, as the events were called, would
+remain etched in collective memory for a long time. The inauguration of
+public offers of equity shares in Greece became an occasion of loss, pain
+and social suspicion against financial tycoons. The social mistrust would
+influence proceedings at the stock exchange for at least the early years
+of its operation.
+
+
+9
+The drama of boom and bust of 1873-74 played out in an informal
+market which was operating in and around a popular Athenian coffee
+house. Share sales were conducted literally ‘over the counter’ in coffee
+shops, grocery stores and merchant establishments. The organization of
+new issues, the pricing of the offers, and the details of distribution were
+managed primarily by the issuers and two newly founded merchant
+banks, the Credit Bank established in 1872 and the Industrial Credit Bank
+established in early 1873. The two banks had been launched by
+competing groups of recently arrived Greek ‘diaspora’ financiers and had
+also offered shares to the public. Merchant banking was surely a
+significant innovation in the economy of Greece at the time. The prime
+mover of innovation was Andreas Syngros, a famous financier-tycoon
+who had made a fortune in the Ottoman Empire, trading commodities
+and Ottoman public bonds. As a recent entrant in Greek economic
+affairs, he had acquired earlier in 1873 the ‘Lavrion Metalworks’ after a
+bitter dispute between the Greek government and a Franco-Italian
+group who were the original owners of the Metalworks, [Syngros
+(2008)]. One of the conditions of the purchase was that he put up a
+portion of the shares for public sale.
+In the aftermath of the bust and the political outcry that ensued, the
+creation of an organized market was announced in 1876 with the
+publication of a royal decree that contained the first charter and a body
+of rudimentary rules of the Exchange. The rulebook would be revised in
+1879 and actual operation would be inaugurated in 1880. Operation has
+continued to this day, with several interruptions during wars and crises
+of course, making the Athens Stock Exchange the second longest-lived
+financial institution in the country.
+
+
+10
+Shortly before the official launch of the Exchange, a landmark
+development that would change the course of the Greek market for
+capital had taken place: the government of Greece, which had been
+embargoed for several decades from international markets due to
+sovereign defaults in the 1830s, regained access to international
+borrowing, [Dertilis (2008)]. This was a time in which the international
+markets for bonds were expanding, strong capital exports from the
+developed European economies were directed to the world periphery
+and the role of exchanges was prominent in the process. In that context,
+the prospect of capital inflows to Greece hastened the inauguration of
+the organized Exchange as an official trading venue for government
+paper, company equities or bonds.
+A remarkable aspect of the Exchange as a public market for securities is
+that its charter included no regulation of public offers of shares, nor was
+a public offer required for listing. The absence of such provision appears
+all the more conspicuous considering the traumatic events of 1873-74,
+when the unregulated public offer of shares had been at the centre of a
+big crisis. The continuation of the unregulated status of public offers
+testified to the power of issuers and financiers, especially at a time when
+Greece was reconnecting to the international financial market in which
+entrepreneurs belonging to the Greek Diaspora were already active. In
+our view, the memory of the crisis of the 1870s entrenched an ‘IPO
+aversion’ among the broad investing public, as an initial condition that
+would affect the evolutionary path of the Exchange. It is generally true
+that investors in stock exchanges have short memories and their
+behaviour is determined by the micro and macro-economic conditions
+
+
+11
+that prevail in a given market and by profit considerations, (Eichengreen
+and Linbert (1989)).
+Nevertheless, shocks and crises may shape initial conditions that affect
+later evolution. The only policy that could hope to facilitate IPO growth
+would have been quality regulation of IPOs and especially mandatory
+disclosure rules. Such regulation existed already in developed markets.
+In Greece however it would not be forthcoming for decades. This is a
+puzzling finding, considering that regulation of both listing requirements
+and transaction rules was undertaken during the period. The Exchange
+was not a government operation. It was a self-regulated entity governed
+by its members. It had basic rules of transaction and settlement as well
+as minimum listing requirements. On its first bulletin issued on May 12,
+1880, the 17 securities listed for trading included six government bonds,
+one corporate bond and ten company equities. As we document below,
+listings were far more numerous than initial public offerings. Most
+companies would acquire their first capital before listing by placement
+of shares among narrow groups or even a public offer. They would also
+engage in capital increases after listing. In following sections of the
+paper we will come back to a closer look at governance reforms and the
+analysis of listings and public offerings of private shares.
+The inauguration of organized exchange operation did not subjugate
+legally (or in practice) the pre-existing ‘free market’ for shares, as the
+over-the-counter market was called in 19th century Athens. The two
+coexisted and operated in parallel. Shares listed on the Exchange would
+trade in both markets, but of course many non-listed shares were also
+traded over the counter. In fact, it appears that the ‘free market’ was a
+
+
+12
+very lively one. In the early years, trading on the Exchange would last for
+a half to three quarters of an hour and then the ‘free market’ would
+operate with some exchange members participating. A contemporary
+newspaper reports that the more important transactions were
+conducted in the ‘free market’. In 1884 there was trading in the shares
+of 26 companies (including a few foreign ones) in the ‘free market’, more
+than twice the number of shares listed on the Exchange. Some of the
+shares traded off- market would go on to become listed, having
+presumably proved their tradability, but many never acquired that
+status. It is notable that no foreign company issues were traded on the
+Exchange.
+An early historian of the Athens exchange wrote: “this [‘free market’]
+operated in the streets around the Stock Exchange. It functioned from
+morning till night, often to midnight. It was not organized. Some dealers
+had offices others not. The trading customs followed those of the official
+exchange. Guarantees and sureties required were, as a rule, lower than
+the normal ones” [Keramidas (2013)]. The ‘free market’ was to be
+officially sidelined by the grant of monopoly status to the Exchange in
+1918, 38 whole years after its founding; however evidence of free
+market operations persists in press reports throughout the 1920s.
+2.2 Exchange Governance and its Successive Reforms
+From a governance standpoint, the Exchange remained a self-regulated
+organization until 1918, when a landmark law imposed government
+interventions, additional rules on its operation and a government
+appointed inspector who would oversee their application. Law 1308 of
+
+
+13
+1918 was inspired from analogous legislation of the 1890s and 1900s in
+civil law jurisdictions, mainly Germany, France and Italy; its timing was
+clearly related to the occurrence of a very large Stock Exchange bubble
+in 1918 and the rapid increase in speculation that followed the end of
+the war. The new law brought about an overhaul both of legal status
+and operating procedures. The Exchange became a public legal entity
+and was granted a monopoly on legal transactions of shares, following
+earlier French and German arrangements. Other provisions covered the
+areas of brokers’ duties, clearing and settlement and types of
+transactions, including cash, forward, option and repo-type transactions.
+The law additionally introduced, for the first time, penal sanctions for
+misinformation, frauds and abuse of investors’ trust.
+Law 1308 converted the Exchange to a public legal entity and
+established areas of direct government intervention in Exchange affairs;
+the government retained major powers not only in oversight but also in
+decision-making, as compared to earlier arrangements. A government
+inspector’s office was installed with a duty of general supervision of the
+rules of operation, the power to suspend Exchange operation for up to
+five days and the responsibility of proposing to the Minister of Finance
+longer interruptions. An ‘Exchange Council’, separate from the
+Exchange’s governing board, was constituted; its composition included
+public servants, bank representatives and brokers, the latter being a
+minority. The Council wielded powers over policy, broker licensing,
+listing and delisting proposals (to which we return below). It was chaired
+by the Secretary General of the Ministry of Economy. The creation of the
+Council represented a severe curtailment in the power of brokers,
+
+
+14
+especially as it removed from their control two decisions of strategic
+importance: broker licensing and securities’ listing.
+Ten years later, a new law - Law 3632 of 1928 - was passed revising the
+governance structures, rules and operations. As was true at the time of
+the Exchange’s original founding in 1878, this was also a period of major
+change in financial architecture in Greece and in the country’s
+adherence to international monetary arrangements. In May 1928,
+Greece established a new central bank, the Bank of Greece, which took
+over responsibility for monetary management; Greece committed to the
+gold - exchange standard at the same time, [Bank of Greece (2013)]. The
+prospect of regaining full participation in the international monetary
+system and a new opening to the international economy provided
+significant impetus for modernization of the Exchange.
+The 1928 law maintained the role of a government inspector clarifying
+his responsibilities vis-à-vis the governing board of the Exchange which
+was again a committee of broker-members. Importantly, the Exchange
+Council that had been established in 1918 now assumed powers of final
+decision in matters that had earlier required either Ministerial or Cabinet
+approval. In that sense, the new legislation ‘depoliticized’ the decision
+process and allowed speedier decision-making. In the same spirit, a
+special ‘Exchange Court’ was established which would rapidly adjudicate
+differences, claims and frauds arising from transactions both among
+brokers and between brokers and clients. The explicit justification for
+instituting a special court was the need for speedy resolution of
+disputes, which was impossible to achieve in the regular courts. The
+penal sanctions for market abuse would also come under the jurisdiction
+
+
+15
+of the special court, and this meant a considerable strengthening in
+speed of enforcement. The law rebalanced the earlier regime of
+governance by re-expanding Exchange autonomy in specific areas that
+had been relegated to government decision in 1918, such as licensing,
+listing and brokers’ disputes.
+Furthermore, rules for clearing and settlement were revised, the criteria
+for licensing of brokers, disciplinarian measures for members and
+brokers’ fees were clearly specified. A brokers’ Guarantee Fund, whose
+primary form had been already established in August 1923, was now
+fully organized as a collectively financed self-insurance fund for brokers.
+Its express purpose was to cover obligations to other brokers if one of
+their members defaulted and to compensate investors if the broker - in 
+default left unfulfilled claims. The Guarantee Fund has proved to be a
+very useful and stable arrangement that survives to this day.
+The reform of 1928 sought to improve both the efficiency and the
+credibility of Exchange operation. The provisions on speedier
+enforcement of market abuse prohibitions and of the compensation
+scheme for investor losses due to broker failures formed the first
+cohesive framework for investor protection in Greece.
+Social justice is a powerful but elusive term for social policy analysis, and
+is concerned with the extent to which social arrangements may be
+regarded as fair (e.g. Alcock et al. 2002, Lister 2007) –i.e. who should get
+what, and under what terms- and implies a distributional element. Social
+policies produce vertical and/or horizontal redistribution (Culyer 1980).
+The extent to which such redistribution is justified and which form
+should be given priority, depends on the way of understanding the
+
+
+16
+principle of equality. It particularly reflects the potential belief that
+certain specific scarce commodities –such as healthcare or education
+should be distributed less unequally than the ability to pay for them.
+Social justice legitimizes a principle of ‘redistributive equality’ (e.g. Tobin
+1970) –a fair reallocation of income and wealth. This principle leads to a
+range of equalising policies, which modify initial distribution by the
+provision of welfare benefits. In every respect, a socially just distribution
+is primarily concerned with the provision of adequate material resources
+to live with dignity, to overcome disadvantage and to flourish. The
+principle of equality lies at the root of conflict in politics (Brittan 1968).
+Different meanings of equality reflect equally different understandings
+of social policy (e.g. Weale 1993). The ‘thick’ version of equality has been
+variously called ‘social equality’, ‘equality of status’ or ‘equality of
+regard’ (Alcock et al 2002: 77). It reflects the recognition of the
+fundamental equality of each individual in social relationships, and an
+opposition to social privilege or inequality (e.g. Tawney 1931).
+2.3 Listing Requirements
+At the beginning of its operation the Exchange instituted and followed
+two basic listing conditions for shares of private companies. The first was
+very specific: at least one third of the company capital had to be paid
+up. This was a condition that ensured credibility for the original owners
+but also constituted a rudimentary anti-speculative device against the
+sale of empty shells on the Exchange floor. It was not required to
+conduct a public offer of shares to obtain listing. There was however a
+second condition for listing: a general provision that shares must show
+
+
+17
+potential for trading activity4. The determination of this potential was
+left to the governing board of the Exchange, based on evidence
+furnished by the candidate company. Besides papers certifying its legal
+status and some form of financial statements, tradability would logically
+be established on only two grounds: (a) evidence of the actual dispersion
+of ownership before listing; (b) actual trading in the lively informal
+market which was in operation at least until the 1920s. It is highly
+probable that evidence of off-market trading was acceptable in the early
+years since the ‘free market’ was legitimate until 1918, when the
+Exchange was granted the monopoly of legal transactions in shares.
+One of the far reaching innovations of Law 1308 of 1918 was the change
+in listing requirements and procedures. As compared to the previous
+constraint of a minimum percent of paid up capital, the size of capital
+now became a prerequisite for listing. In addition, companies were
+required to have published at least two annual financial statements prior
+to the time of listing if their capital exceeded 2 million drachmas, but
+only one set of annual financial accounts if their capital exceeded 5
+million5. Thus, larger capital size was taken as a criterion of quality. With
+regard to financial statements, the law made no mention of either
+accounting standards or audits. Nevertheless, the fact itself that financial
+reporting was elevated to a legal prerequisite for listing must have
+boosted both the accounting process and the accounting profession.
+More generally, the criterion of size acted as a double edged instrument:
+it encouraged large firms, even if they were newly formed ventures, to
+seek listing. The earlier requirement of evidence of tradability did not
+4 Stock Exchange Organizational Charter (1879) , article 12, Platanopoulos M., ibid, p.37
+5 Art 18, Law 1308/1918, Papadimos A., ibid, p. 74
+
+
+18
+reappear in Law 1308 of 1918. It would be inconsistent for a law that
+instituted a legal monopoly of Exchange transactions to require evidence
+that implicitly admitted the function of the informal market.
+The law of 1918 took the power of listing (and delisting) decisions away
+from the governing board of the Exchange, i.e. the brokers. The
+Exchange Council (constituted as described in the previous section)
+assumed the responsibility to evaluate applications for listing and make
+proposals to the Minister of Economy who was the final decision-maker.
+This represented a politicization of the process of listing that would be
+severely criticized both in terms of slowness of process and for
+governmental meddling in listings6. In the long parliamentary proposal
+that the Minister had drafted to support this law, it was generally
+accepted that the direct involvement of government would assure
+normal function and the elimination of speculative excess7. This
+presumption was probably related to the serious omissions that we
+noted earlier. It was implied that government’s active involvement and
+the reduction in the power of brokers were deemed sufficient to
+reestablish market credibility, after the speculative excess of 1918.
+Ten years later, law 3632 of 1928 revised again listing requirements for
+shares. The size of capital required for listing was raised to 5 million
+drachmas and published annual financial statements over at least three
+years prior to listing; however it sufficed for companies whose capital
+exceeded 10 million to present only one year’s financial accounts. In
+addition, candidate companies had to provide information about their
+6 See Parliamentary introduction to the later Law 3632/1928
+7 Parliamentary introduction to Law 1308/1918, Papadimos A., ibid
+
+
+19
+shareholdings and their history of capital increases prior to listing8. Thus,
+evidence of dispersion of ownership and tradability made its way back
+onto the complement of listing requirements. The increase in capital size
+did not necessarily represent a tightening of listing requirements.
+Increases in nominal drachma amounts may have simply been an
+adjustment to inflation of the decade since 1918. If we consider the gold
+parity of the drachma (see Figure 1) the change in nominal size actually
+represented a reduction in gold value terms.
+Law 3632 of 1928 rebalanced the power of decision over listings. It
+vested the Exchange Council with decision-making authority for listings
+thus distancing the arrangement from the politicization of direct
+ministerial involvement of 1918, but maintaining at the same time the
+limits on brokers’ influence. The Council became a ‘listing authority’ that
+could act speedily and with adequate expertise on admissions to trading.
+It is worth repeating that, like its predecessors, this more sophisticated
+law included no explicit regulation of public offers of shares. The
+conduct of public offers continued to be unregulated until after the
+Second World War.
+3. Exchange Listings and IPOs 1880 to 1940: The Impact of the Environment
+3.1 The Sample
+Using archival data from the files of the Stock Exchange and the National
+Bank of Greece, press reports and Exchange bulletins we have put
+together Table 1 (in Appendix) which shows new listings and initial
+8 Art. 19 of Law 3632/1928 see, Keramidas T., Stock exchanges, Athens 1929, p.36
+
+
+20
+public offerings of equity shares in the years 1880-1940. Figure 1 shows
+diagrammatically listings and IPOs for the entire period 1880-1940.
+The data in the Figure show two general characteristics. The first is that
+listings by far exceeded IPOs throughout the period. Over the 60 years
+(1880-1940) there are 165 new company listings and of those only 21
+companies conducted concurrent IPOs. Thus, market development was
+based on listings, primarily. The second characteristic is that there is a
+strong movement of ebb and flow over the years in the process of
+gaining access to the Exchange. There are periods of little or no listing
+activity and other periods in which new listings occurred at a rapid pace.
+Figure 1. No of Listings, No of IPOs & Total no of firms launchd on the ASE during the period 1880-1940
+2
+111
+2
+11 1
+33
+2 1
+2
+3 1
+3
+4
+2 1
+3
+4
+33
+4 2
+44
+8
+10
+8 7 5
+9
+1
+22
+6
+2
+5
+6
+8
+3
+13
+11 1
+1
+1 1
+7
+2
+1
+1
+3
+4
+11
+2
+11 11
+3
+1
+3 2
+11
+2
+4
+1
+3
+4
+2 1
+3
+5 4 3
+4
+2
+44
+8
+17
+10
+8
+5
+9
+22 2
+6
+2
+5
+6
+8
+3
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1880
+1881
+1882
+1883
+1884
+1885
+1886
+1887
+1888
+1889
+1890
+1891
+1892
+1893
+1894
+1895
+1896
+1897
+1898
+1899
+1900
+1901
+1902
+1903
+1904
+1905
+1906
+1907
+1908
+1909
+1910
+1911
+1912
+1913
+1914
+1915
+1916
+1917
+1918
+1919
+1920
+1921
+1922
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+1940
+Year
+No of listings, IPOs & totals
+No of listings No IPOs No of listings & IPOs
+In order to separate out those periods more clearly we have constructed
+Figure 2. We show periods in which, in at least two consecutive years,
+the number of new listings exceeded the annual average of the whole
+period 1880-1940 (hot periods of listing activity). That average is 2.70
+per annum and the hot periods are 1911-12, 1916-20, 1922-29, and
+1937-40. Hot periods encompass 21 years. New listings in those years
+
+
+21
+represented 61 percent of all listings in the long 60-year period
+examined here.
+It is important to note that the visible jumps in listing activity did not
+follow but rather preceded the changes in listing requirements in 1918
+and 1928. This is an expected characteristic of the political process as
+decision-makers, business lobbies, the press and the public are not
+prescient about market developments but become energized after
+market activity develops sufficiently to capture attention and to exert
+visible impacts on the economy. So it is significant that legal changes
+occurred in the midst (or towards the end) of periods when listing
+activity was strong and continuous.
+Thus, it appears that the process was not driven by legal change but
+rather by demand for listings. In turn, demand for listings was linked to
+economic conditions and the state of expectations in the Greek
+environment. In fact, the economic and political environment was in
+constant turmoil. Over the sixty years from 1880 to 1940, Greece was
+embroiled in two world wars, four local wars and two sovereign
+bankruptcies. The Exchange and its listed firms lived that history and
+responded to the needs and the conditions of each period. It is
+impossible to gain an understanding of the movement of listings and
+IPOs without a background ‘history tour’, since shifts were not random
+but, to a large extent, historically conditioned.
+
+
+22
+Figure 2. No of companie s liste d in  ̈hot ̈ ye ars whe re the listing activity e xce e d the annual ave rage of 2.70
+3
+4 3
+5 4 3
+4 44
+8
+10
+8
+5
+9
+5
+6
+8
+3
+17
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1884
+1889
+1892
+1894
+1898
+1900
+1905
+1907
+1909
+1911
+1913
+1916
+1918
+1920
+1922
+1924
+1926
+1928
+1930
+1934
+1936
+1938
+1940
+No of Listings in  ̈hot ̈ years
+Before embarking on our brief ‘history tour’ however, we must ponder
+the conceptual distinction between listing with and without a public
+offering of shares, as this is a dominant characteristic of the data in
+Table 1. The question is what incentive was there to list, if immediate
+access to external equity finance was not sought simultaneously. The
+question becomes even sharper if we recall that the Exchange was not a
+monopolistic trading venue but coexisted and competed with the ‘free
+market’ for more than half the period. If listing simply meant access to
+trading liquidity for company owners, the ‘free market’ was available
+and apparently quite active. So what would a firm gain by listing (but not
+raising capital concurrently) on the Exchange?
+Two simple conjectures fit the qualitative evidence. First, the attainment
+of listing requirement was a reputational signal for the company being
+listed, since successful examination by Exchange authorities offered
+‘certification’, something that could not exist for the ‘free market’9.
+Second, companies that obtained listing could exploit their new visibility
+9 The certification function is normally attributed to underwriters in the modern literature. In the context of the Greek market no formal underwriting arrangements have been recorded. Listing and tradability of shares could also increase their value as collateral for borrowing from banks
+
+
+23
+to proceed to later capital increases by secondary offers, after
+establishing a track record on the Exchange. This implies that listings
+were not ‘stand alone’ decisions but part of a process at the end of
+which external equity capital was indeed raised10. Contemporaries also
+noted that listings at times of high inflation enabled inflation adjustment
+to company capital. Indeed, for a large portion of the period under study
+inflation was high. In any case, although listing was not
+contemporaneous to an offer of new shares, it could act as a
+precondition to one. In addition, in a historical context where early
+mistrust for IPOs was high due to the events of the 1870s, the low
+liquidity in the overall economy must have also contributed to this
+result.
+In the next several paragraphs we describe briefly the unfolding
+historical conditions and aim to connect them to the evolution of
+listings. We organize this discussion into three sub-periods which are
+historically cogent11: 1880-1898, 1899-1922 and 1923-1940.
+3.2 From development to official bankruptcy and international control: 1880-1898
+The last twenty years of the 19th century witnessed a great cycle in
+Greek economic fortunes. In 1878 Greece had, as already said, regained
+access to international markets and a large inflow of borrowed funds
+occurred, giving a visible boost to liquidity, investment planning and
+10 See section E below for data on capital increases that took place soon after listing
+11 For general historical references see G. Dertilis, History of the Modern Greek State 1830-1920 (in Greek), Athens 2005 and C. Costis, Les enfants gâtés de l'histoire: The formation of neo-hellenic state (in Greek), Athens 2013, Critical dates are 1898 (the year of Greece’s defeat in war with Turkey and the initiation of International Financial Control), 1922 (the year of the disastrous end to the Asia Minor war with Turkey), 1940 (the beginning of WW2). See below more details in the ‘history tour’
+
+
+24
+general economic activity. The 1880s saw the launching of major
+infrastructural projects, railroads, roads and the Corinth Canal, leading
+to feverish activity of building and construction of public infrastructure.
+Many of these works had long incubation periods and could not help
+service loans in the short term. A worsening balance of payments, the
+increasing burden of public debt and the intensification of military
+spending produced a fiscal crisis in the late 1880s. International lending
+became much restricted after the Baring Crisis and the Argentine default
+in 1892. Greece itself followed with sovereign default in 1893. In the
+ensuing years the drachma devalued substantially and new import tariffs
+were imposed which eventually boosted domestic production and
+exports. However, war with Turkey broke out in 1897 with disastrous
+consequences for Greece: besides the waste and demoralization of
+defeat, Greece was burdened with heavy reparation payments to
+Turkey. The country’s public finances were placed under International
+Financial Control in 189812.
+From being a confident new entrant into international markets in the
+late 1870s, Greece was reduced to the status of a fiscal mendicant
+within twenty years. The cycle of over-indebtedness of the government
+was assisted both by all too-willing lenders and domestic
+mismanagement. The growing share of military expenditures was a
+major reason for over-borrowing and was either directly unproductive
+or, even if interpreted as an ‘investment’ in territorial protection and
+expansion, was heavily damaged in the war of 1897. Practically, this
+entire cycle could also be read as a swing of the pendulum from a stance
+of international economic openness to one of protection and relative
+12 On the IFC see G. Dertilis, ibid
+
+
+25
+isolation. In the latter phase, which set in after the sovereign default,
+protection had a positive impact on domestic production. The reflection
+of these movements is directly observable on the Stock Exchange and
+the evolution of listings in the early years of the twentieth century.
+Admissions onto listing on the Exchange were relatively numerous in the
+1880s and the 1890s with eight listings in the first and ten in the second
+decade. The composition of the companies listed varied considerably
+between the two decades. In the 1880s, it was dominated by the
+quickening pace of infrastructure investments and military production:
+of the eight companies listed, three were railroads two were
+construction firms and one was a powder and explosives company. In
+the 1890s listings were more diversified reflecting the acceleration of
+domestic production under protective tariffs and devaluation: listed
+companies were active in energy, steam-shipping, textiles, machine
+tools. Thus, we observe the first appearance of ‘industrial stocks’ on the
+Exchange. The largest company listed however a bank, the Bank of
+Athens was. Please see Appendix B for Table 1
+In this sub-period, and compared to 15 new listings, there were 5 IPOs.
+They reflected the trends of the time: a munitions manufacturer, two
+railroad companies, a bank and a company managing public land rents.
+3.3 Recovery, War and Expansion: 1899-1922
+The quarter century following Greece’s fiscal subjection to international
+financial control is one of the most dense and turbulent periods in the
+country’s economic history. Fiscal adjustment was gradually achieved
+and the drachma followed a path of revaluation in the early years of the
+
+
+26
+new century, reaching its pre-1893 levels in 1909. The balance of
+payments improved especially with the emergence of remittances from
+emigrants and shipping, which constituted a fresh source of domestic
+liquidity [Repoulis (2010)]. The country regained confidence and
+although traditional industries were hurt by the currency revaluation,
+new and more technologically advanced firms made their appearance,
+with several showing up in Exchange listings, as we explain below. Amid
+this climate, political change was spearheaded by an officers’ revolt, a
+new government with plans for broad modernization was instituted and
+the country’s geographic expansion started with the union of Crete with
+Greece in 1913. Crete was officially annexed to Greece in December
+1913, after the end of the Balkan Wars. It would be fair to characterize
+the first decade of the twentieth century as a period of peace and
+recovery with fiscal and monetary stability. This would soon change
+however.
+With new confidence vis-à-vis the Ottoman Empire which was
+disintegrating, Greece went to war in 1912-13 and the victorious
+outcome saw a doubling of its territory to the north and a near-doubling
+of its population. Greece joined the Entente in World War I and obtained
+further territorial gains. The period of 1916-19 was, despite the war, one
+of economic optimism for the future of an enlarged nation. However,
+the war for Greece did not end in 1918. The country became embroiled
+in war with Turkey in Asia Minor in 1920 ending in defeat for Greece in
+1922. That defeat brought another kind of expansion: almost a million
+and a half of Asia Minor Greeks were uprooted and forced to move to
+Greece as refugees. This huge and sudden ‘population shock’ was
+initially debilitating and had dire fiscal consequences since the country
+
+
+27
+had to cope with a huge resettlement effort. The ten years of almost
+continuous war had, as expected, forced new fiscal imbalances and
+monetary financing of budgets. The resettlement effort made things
+even worse. The period of wars was one of rapid inflation of the order of
+25-55 percent annually.
+The Stock Exchange experienced two distinct booms during this period,
+with new listings and public offerings apparently coalescing around
+these booms. The first occurred in 1904-6, a period when recovery and
+monetary stabilization had entrenched themselves; the second occurred
+in 1916-19, a period when, despite the war, optimism about the
+enlarged Greece was running high but also a time of inflation and large
+business profits. Leading sectors in the listings of these periods were
+banks, steamship companies, cement companies, the first Greek electric
+utility company, foods, chemicals and textiles. Steamship companies
+represented the most export-oriented sector of the time whereas most
+others were oriented to the internal market which, especially during the
+war and with territorial expansion was both protected and considerably
+enlarged. In the first decade of stability (1900-10) larger companies were
+founded that undertook large new investments and sought greater
+efficiency of production. In the second decade, inflation and domestic
+demand dominated the motives for company formations and listings,
+[Agriantoni (2014)]. As noted with regard to the previous period (1880
+98) conditions of trade protectionism boosted the emergence of
+enterprises that catered to the domestic market and this happened
+inevitably during the ten-year period of Greek engagement in wars.
+
+
+28
+One notable feature is that, in every period of quickened listing activity,
+new banks were systematically emerging, both at times of monetary
+stability and at times of inflation. One factor that must have played a
+role in this was the large increase in inflows of foreign exchange in the
+form of remittances from recent Greek emigrants and from shipping.
+These provided a source of liquidity independent of official borrowings
+and were quite dispersed in the population. Furthermore, foreign
+private investments made their appearance during the first decade of
+the twentieth century, directed especially to new banking ventures,
+(Costis (2013)). Arguably, the listing of banks was an indicator of the
+broader entrepreneurial climate in the Exchange and the economy.
+Please see Appendix B for Table 2
+As compared to 54 new listings in this sub-period, only 5 IPOs were
+conducted contemporaneously to listing. Three of these were conducted
+by new banks and occurred before 1910. The remaining two took place
+during the boom years 1917-8 and were conducted by private industrial
+firms. This was the harbinger of the rise of industrial IPOs that would
+bloom in the ensuing decade. On the whole for this sub-period the
+relative role of IPOs in market development was limited.
+3.4 New development, the ‘roaring twenties’, world crisis: 1923-1940
+The ‘population shock’ of 1922 was experienced as a disaster by those
+who were uprooted but became a sort of growth engine for the Greek
+economy. Asia Minor Greeks were skilled and enterprising, and they
+soon sought new ventures in their new home. Furthermore, public
+spending (including foreign aid) on refugee assistance created large
+
+
+29
+domestic demands for food, clothing and housing. The pace of growth
+picked up; 1923-29 was a distinct episode of rapid development in
+recent Greek history. Inflation also continued but was on the whole
+much lower than the earlier decade, averaging an annual rate of 13
+percent in the years 1924-27 . In 1928 Greece, under pressure from
+international donors, undertook monetary stabilization, pegged the
+drachma to the British pound sterling (which adhered to the Gold
+Exchange Standard) and created a central bank, the Bank of Greece, to
+oversee and execute monetary policy . Once again Greece became a full
+participant in the international monetary system, except that the system
+itself proved short-lived.
+The 1929 crash in the New York market ushered in a period of general
+financial crisis and depression. On September 21, 1931 the pound
+sterling went off the gold standard and the Greek government closed
+down the Exchange and all trading in foreign exchange. In April 1932,
+Greece itself abandoned the gold exchange standard and declared
+official default on its public debt. The Exchange did not reopen until
+December of that year. Following most advanced countries Greece
+instituted protectionist measures. The crisis was not as harsh in Greece
+as in most advanced industrial economies. Under the protectionist
+regime, the economy picked up and local manufacturing was once again
+energized, Costis (2013). This moderate but upward economic trend
+would be finally interrupted with the eruption of the Second World War
+in 1939.
+In the 1920s, especially after 1924, the Exchange experienced another
+boom and an unprecedented record in new listings. 71 companies were
+
+
+30
+admitted to trading in this period, of which most prominent were
+banking firms with 15 listings, textiles with 12, construction with 8,
+chemicals and food each with 7 new listings. This listing activity
+represented about 50 percent of all listings since the Exchange’s
+inception and would not be encountered again until postwar booms in
+the 1970s and the 1990s. In the ensuing decade of the 1930s, new
+listings would continue but at a reduced pace, with 33 new admissions
+to trading, with textile firms covering about one third of that number. A
+very interesting feature of the 1930s was that the financial stabilization
+of the late twenties and the financial crisis of the thirties led to the
+failure or merger of many of the new banks that had emerged during the
+boom of the 1920s. Please see Appendix 2 for Table 3.
+As compared to the record 104 new listings in this sub-period, 11 IPOs
+were conducted. All of those took place until 1930 and a long stoppage
+in IPO activity ensued that covered the whole decade of the 1930s. Nine
+IPOs represented offers of industrial stocks, one was conducted by a
+construction company and one by the newly established central bank.
+This is clearly the period of the rise of industrial finance through the
+stock exchange. Aside from this significant sectoral shift however, the
+number of IPOs as a proportion of total listings actually declined as
+compared to earlier periods. The need for visibility and reputation
+during the ‘hot market’ of the 1920s was probably running ahead of
+actual capital needs for new firms seeking to be admitted to Exchange
+trading.
+
+
+31
+4. Listings and IPOs: Frequency, Size and Quasi-IPOs
+In this section we present in more rigorous fashion the features of
+listings and IPOs as they evolved over the long 60-year period under
+study. We address several related research questions. A first one relates
+to size and age of the firms admitted to listing. Whether larger or
+smaller, older or younger companies sought access to the exchange is
+important in itself, as it indicates whether the exchange was, or became
+over time, a trading venue for small and/or young firms. Within a
+broader perspective this is very relevant to the contribution of the
+Exchange to enterprise development and economic change.
+The second question relates to whether simple listings were actually
+‘IPOs in waiting’, i.e. listings that were quickly followed by a capital
+increase. We collect data on all cases where a listing was followed,
+within a period of two years, by an issue of new shares. We consider
+these as “quasi IPOs” and compare them to actual IPOs and their
+features. The inclusion of ‘quasi-IPOs’ offers a more accurate assessment
+of the role of the Exchange in the financing of listed firms, considering
+that pure IPOs may have been avoided due to historical reasons, the
+persistent lack of IPO regulation, or the implied low quality of
+disclosure.
+4.1 The size and age of listed companies
+Given the length of time and the multi-faceted economic conditions
+during the long sixty years that we described, the examination of these
+simple features acquires significance since it allows an evolutionary
+perspective. We saw that in the early decades there was emphasis on
+
+
+32
+infra-structural projects which were necessarily large. Manufacturing
+came later and its growth was largely spurred by expanding domestic
+market potential. This would imply that the size of listed undertakings
+would change over time as the type and scale of undertakings by firms
+also changed.
+In the case of simple listings, size is measured by the nominal value of
+the stock at the time of listing. In the case of IPOs we measure the
+magnitude of the actual offer, which is defined as the number of shares
+offered times the offer price, and indicates the amount of capital raised
+by the IPO. Age is uniformly measured as the number of years between
+the founding of a company and the time of listing.
+Table 4 shows the means of size and age for both simple listings and
+IPOs. In panel A, the estimates are shown for the whole period. In panels
+B-D the estimates are shown for each sub-period discussed in the
+previous section. In panels E-F the sample is decomposed into ‘hot’ and
+‘cold’ listing periods. Please see Appendix B for Table 4
+We first note that the average size of IPO offerings exceeds by far the
+average size of firms that obtain simple listing. This is easy to interpret:
+IPOs were necessarily used when capital needs were high and could not
+be satisfied by recourse to narrow networks of capital providers or
+private resources of original owners. Thus, within the IPO sample there
+are a few very large placements. Yet, as already noted, listings by far
+exceeded IPOs in number, the latter being a small minority. Looking at
+the sub-periods, we note that whereas in the early period 1880-98, IPOs
+represented 33 percent of all new listings, in the subsequent periods the
+share of IPOs fell to only 10 percent of all listings. We conclude that the
+
+
+33
+growth of the primary market was stunted and did not keep pace with
+the general and considerable expansion of the market as a whole.
+It is telling that total capital raised in IPOs throughout this period
+amounted to about 3.5 million gold sovereigns. The aggregate
+capitalization of (non-IPO) listed firms estimated at the time of their first
+trading amounted to about 24 million. The comparison gives a fair idea
+of relative magnitudes and the limited role of IPOs. It also suggests that
+private offerings that occurred before listing were a primary form of
+capital gathering off the Exchange.
+The estimates in Panels B-D show a clear tendency of reduction in size
+over time, both for simple listing and IPOs. This is consistent with the
+conjecture that new sectors and smaller undertakings were gaining
+access to the Exchange over time. At the same time the average and
+especially the median age of listed firms were relatively low (3-5 years)
+and did not show considerable change over time. Thus, we conclude that
+the Exchange was a venue for trading shares of relatively young firms,
+which makes sense in a small and relatively young country which was
+still in an early stage of development.
+In panels E-F we decompose the sample in two segments according to
+our prior definition of ‘hot’ and ‘cold’ periods as shown in Figure 2. We
+recall that we characterized as ‘hot listing periods’ those in which the
+number of listings, for at least two consecutive years, surpassed the
+average for the overall sample. In these panels we show the breakdown
+for simple listings and for IPOs.
+
+
+34
+The estimations in panels E and F reveal that the size of listings during
+the ‘hot’ period was much lower than in the ‘cold’ period: an average of
+66.4 thousand gold sovereigns in the ‘hot period’ versus 110.6 thousand
+in the ‘cold period’. This implies that the ‘hot’ periods were times during
+which a rush for listing took place energizing the supply of shares by
+smaller firms. This is not an unexpected result.
+The comparison is more telling in the case of IPOs. The difference in size
+between the two types of market condition is far more dramatic: the
+average offer was 25.8 thousand gold sovereigns in the ‘hot period’ as
+compared to 352.9 thousand in the ‘cold period’. The total number of
+IPOs, contrary to simple listings, was about evenly divided between the
+two types of periods, so that total capital raised during the ‘cold period’
+(3.2 million) was about 7 times the amount of capital raised in the ‘hot
+period’ (459 thousand). This is a clear indication of a break in the pattern
+of the firms undertaking an IPO in the two periods. An element of
+market timing might have been present with firms preferring to engage
+in IPOs only during times when the supply of shares for new listing was
+restricted, as opposed to ‘hot’ listing periods when both investor and
+entrepreneur sentiment was presumably higher and many
+entrepreneurs preferred simple listing.
+4.2 IPOs and Quasi-IPOs
+We characterize as a ‘quasi-IPO’ the case where a firm announces a
+capital increase soon after listing, offering sale of new shares for cash. If
+the time of the capital increase is indeed close to that of listing, the
+strategy comes close to this being a delayed IPO, rather than a truly
+
+
+35
+‘seasoned’ offering. We must recall that in the Greek context
+underwriting was not a developed institutional arrangement with all the
+regulatory requirements of the present day. The primary sale of shares
+was unregulated and issuers were the main decision-makers. Disclosure
+quality at the time of listing was probably low. The function of
+certification, which in the modern literature is attributed to
+underwriters, was vested in the seal of approval offered by the listing
+authority itself. Thus a quasi-IPO would benefit from both the
+certification of the listing decision and the acquisition of visibility
+through trading. Unfortunately, there is little or no evidence of trading
+activity, so it is not possible to distinguish firms which acquired a trading
+track record quickly after being listed. Instead, we have imposed a
+reasonable time limit of two years as a period during which some trading
+record is acquired but also in which the listing certification retains
+validity as a reputational asset. Listed firms which engaged in capital
+increases within two years of listing are here considered as quasi-IPOs.
+In Table 5 we show a list of quasi-IPOs that took place over the entire
+period. Please see Appendix B for Table 5.
+In Table 6 we show descriptive statistics for quasi-IPOs and IPOs for the
+whole period and by ‘hot’ and ‘cold’ listing period. Size now describes
+the size of the offer in all cases. Data are classified by the date of listing,
+not by the date of the ensuing capital increase in the case of quasi-IPOs.
+Please see Appendix B for Table 6.
+As shown in Table 6, 41‘quasi-IPOs’ were performed over the period,
+almost double the number of IPOs. However, total capital raised through
+these ‘quasi-IPOs’ amounted to about 1.5 million gold sovereigns, less
+
+
+36
+than half the aggregate amount raised by IPOs (3.7 million gold
+sovereigns). Thus, it appears that ‘quasi-IPOs’ were chosen by smaller
+firms and for smaller under-takings; these cases were probably more
+needful of the certification and the visibility provided by an Exchange
+listing, before attempting to raise funds.
+As expected, when we look at the decomposition of the sample between
+‘hot’ and ‘cold’ listing periods, quasi- IPOs far exceed IPOs both in
+number and in capital raised during the ‘hot listing’ periods. The reverse
+holds in the ‘cold’ period.
+The basic conclusion is that especially smaller firms used Exchange listing
+as a precondition for raising funds after having gained access to market
+trading. This implies that the supply of securities in actual IPOs
+understated the true demand for capital by new firms and that this
+demand became manifest shortly after listing, for smaller firms. These
+used listing itself as a ‘certification’ signal that facilitated the supply of
+new capital in an environment in which mandatory and uniform
+disclosure requirements were not enforced.
+5. The Double Face of IPO Pricing: Overpricing or Underpricing?
+5.1 The Overall Picture of Public Offerings
+The modern literature is replete with evidence on IPO under-pricing. This
+appears to be a phenomenon of recent times however. Several historical
+studies of large markets in the 19th or early 20th centuries show that IPO
+under-pricing was either absent or very small in magnitude (Chambers
+and Dimson (2003), Dimson (2007), Fohlin (2000), Biais (2002), Jovanovic
+
+
+37
+and Rousseau (2005), Chambers (2005), Schlag and Wodrich (2005),
+Champers and Dimson (2009), Champers (2009), Marsh (2010), Marsh
+(2011), Burhop (2011), Chambers (2011 ), Burhop et al. (2011))13.
+We use our database to pose the question of pricing to Greek historical
+data for 1880-1940. We measure initial returns (RIR) by observing the
+difference of the first trading price and the offer price of the new shares,
+as a percentage of the offer price. RIR is calculated as follows:
+,0
+,1 ,0
+i
+ii
+i OP
+CP OP
+RIR 
+ (1)
+where, CPi,1 is the price on the first trading day of the newly listed shares
+and OPi,0 is the offering price.
+In Table 7 we show all the IPOs conducted over the period and the
+calculation of associated initial returns. Please see Appendix B for Table
+7. The Table’s basic finding is stark and impressive: a visible and large
+shift in the pricing of IPOs took place during the period of our study.
+Specifically, panel A presents the initial returns for each IPO that took
+place in the Athens Stock Exchange over the period 1880-1940, while in
+Panel B we estimate that the average of initial returns of Greek IPOs was
+114.91%. i.e. offer prices understated prices at first trading by this
+percentage. This high average masks however a very large swing across
+time periods.
+During the period from 1880 to 1898, public offers were overpriced by
+an average of 29.75%, with all five IPOs undertaken being over-priced.
+Overpricing persisted at an average level of 12.20% in the period from
+13 See especially Elroy-Dimson, Burhop [2011], Chambers [2011]
+
+
+38
+1899 to 1922. This meant that the average buyer of shares at these
+primary offerings would experience a loss had they sold at first trading
+prices as compared to the offer price they paid. This picture accords with
+evidence in other European markets for the equivalent period.
+However, the finding is radically reversed in the 1920s. More specifically
+in the period after 1922, IPOs experienced severe underpricing, (i.e.
+severe understatement of trading price by the offer price) with a mean
+value of 238.44%. Especially during 1925 – a boom year in the ‘roaring
+twenties’ – a record annual number of seven IPOs were performed; their
+under-pricing averaged 330 percent. Even the shares of the Bank of
+Greece, Greece’s new Central Bank which were issued in 1927, were
+underpriced by 52%.
+5.2 A Simple Statistical Model of Underpricing
+We formulate a statistical model of underpricing in order to study the
+role of various factors that may have contributed to the phenomenon.
+We undertake regression analysis despite the small size of our IPO
+sample to explore if any significant additional indications can be gained.
+The regression model is specified as follows:
+RIR = a0 + β1 LnSIZE + β2 Ln(1+AGE) + β3 GO + β4 Y + β5 D1925 +εi (2)
+The dependent variable is as defined in (1). The independent variables
+are defined as follows:
+LnSIZE measures (the logarithm of) the size of the offer, i.e. the number
+of issued shares times the offer price. Offer prices are expressed in gold
+sovereigns throughout. This variable is available in our collected data.
+
+
+39
+Extensive prior literature from contemporary markets indicates that
+large companies are associated with a lower level of underpricing
+(Maksimovic and Ural (1993); Brennan and Franks (1997); Heeley,
+Matusik and Jain (2007)). We therefore expect a negative relationship
+between the size of the offering across time and returns.
+Ln (1+AGE) measures (the logarithm of) the age of the company at the
+time of the public offering. This is the difference in years between the
+date of company establishment and the date of the public offering. This
+variable is also available in our collected data. Empirical literature
+indicatew that higher age contributes to lower underpricing (i.e
+Muscarella and Vetsuypens (1989); Loughran and Ritter (2004)). Thus,
+we hypothesize a negative relationship between the age of the offering
+and returns.
+GO measures the percentage of equity ownership offered to the public
+at the time of the public offering. This variable is also available in our
+collected data. Chambers and Dimson (2009) in their historical study on
+LSE indicate that underpricing systematically decreases as the
+proportion of shares sold increases; Contemporary studies and evidence
+(Habib and Ljungqvist (2001), Sherman and Titman (2002)), highlight a
+trade-off between the proportion of post-issue voting equity sold in the
+offering and the extent to which shares are underpriced. Thus we
+hypothesize a positive relationship between given ownership and
+underpricing. This effect may in fact be stronger in the Greek historical
+context of low disclosure. It is likely that a higher percentage of given
+ownership may require the attraction of a broader pool of initial
+
+
+40
+investors who are less informed, and therefore be positively associated
+with stronger under-pricing.
+Y is the number of non-IPO listings during the year of the IPO, measured
+as a percentage of total listings. This variable serves to indicate the
+pressure of supply of listings and capture the impact of ‘hot’ listing
+periods.
+D1925 is a dummy variable taking the value of 1 only for year 1925 when
+the number of IPOs reached an all-time high (7 IPOs within that year). By
+this variable we seek to single out effects of extreme supply pressure
+which was specifically observed in that particular year.
+In Table 8 we show the results of estimation of the regression model (2).
+Please see Appendix B for Table 8.
+We estimate regression (2) in three ways: first, we include both variables
+Y and D1925 (column 1) and then we use them as alternatives (columns
+(2) and (3)).
+Looking first at the results with firm-level variables we note in Table 8
+that the effect of size is strongly negative and significant, whereas the
+measure of age is not. The latter result is probably due to the fact that
+intra-sample variation of the age variable is small. The percent of given
+ownership is strongly and positively associated with under-pricing. These
+findings are consistent with international evidence from more developed
+markets but also reflect characteristically the low disclosure regime of
+the Greek market. In our view, variables such as size and given
+ownership served as signals to investors who, at the time, could not
+easily assess a company’s prospects because of uneven disclosure
+
+
+41
+requirements. Hence, the effects of size and given ownership are so
+clearly discernible even in a small sample.
+Coming now to market-level variables, the supply of non-IPO listings (Y)
+appears to exercise a positive and significant effect on underpricing. This
+implies that during ‘hot’ listing periods IPOs were more severely
+underpriced, as theory and empirical evidence from other markets also
+indicate.
+When the dummy variable for year 1925 is used, it appears to be also a
+significant, strong and positive influence on underpricing. In fact, when it
+is used jointly with the supply variable Y, the latter loses all significance.
+Thus, during 1925 we note not only the largest number of IPOs in any
+single year for our sample, but also the highest level of underpricing.
+Whereas, the intensity of underpricing can be explained by supply
+pressure, it is also necessary to ask what was so special about 1925, so
+as to have such a high supply of IPOs.
+In our sample, we note that 1925 was the first year of IPO activity after a
+long pause. It was also a year in which stock prices peaked. The last IPO
+had taken place 7 years before, in a year (1918) when the Stock market
+had also boomed. Several historical sources indicate that the post 1922
+period was one of inflation which led to decreases in both the real wage
+and the real interest rate, thus enabling higher profitability
+(Christodoulaki (2001). Increasing profitability was one of the causes of
+the IPO boom of 1925. Furthermore, 1926 marked a sharp turn towards
+restrictive monetary and fiscal policies. As Christodoulaki (2001) notes
+“The timing of this change in economic performance is located in late
+1925 and early 1926 when pressure to improve the fiscal performance of
+
+
+42
+the government and to follow contractionary monetary policies in order
+to stabilize the drachma was increased”14. The peak in IPO activity
+observed in 1925 was therefore attributable to a confluence of factors:
+long pent up demand, high stock market valuations and expansionary
+monetary and fiscal policy.
+6. Conclusion
+The development of the Athens Stock Exchange from its inception (1880)
+to the outbreak of the Second World War (1940) was an active process.
+It came to include 166 new listings of private companies, besides the
+mandatory listing of government bonds. The Stock market experienced
+several ‘hot’ periods of listing activity and peaking prices. In the first
+three decades of its operation as a trading venue, the Exchange
+competed with a free market which operated informally alongside the
+official function.
+However, the Exchange’s role as a primary market for capital-rising
+through IPOs was limited. Only 13 percent of the firms that attained
+listing over this long period actually performed IPOs. Another 25 percent
+however chose to increase their capital by public offers shortly after
+acquiring the status of listed firms. In part, the explanation of low IPO
+activity, especially in the early period of Stock Exchange operations,
+must be sought in the traumatic effects of a bubble in the 1870s, before
+a formal Exchange had been organized. In later times, when the effects
+of the early bubble had been forgotten, IPO activity would still remain
+sparse. This could be the result of insufficient liquidity in an emerging
+14 Christodoulaki, O. “Industrial growth in Greece between the wars: A new perspective” European Review of Economic History, 5, p. 80
+
+
+43
+economy but could also be related to the lack of regulation, especially
+adequate provisions for disclosure and IPO quality that could inspire
+trust to investors.
+Our analysis shows that the parallel activity of quasi-IPOs (capital raising
+performed within two years of listing) was much more fervent, especially
+in the 1920s, and during ‘hot’ periods, generally. The difference between
+IPOs and quasi-IPOs was that the latter had already obtained the
+certification of the listing authority and had established a track record of
+trading. Hence, whereas the same amount of capital raised in an IPO or a
+quasi-IPO made the same demands on liquidity, they offered differential
+levels of information about the issuer and met with different levels of
+investor trust.
+It is notable that despite several public interventions in the early
+twentieth century on the governance structure of the Exchange, IPOs
+remained unregulated, investment banking services were not
+standardized and the quality of disclosure was low and uneven. This is
+probably the longer-term explanation of the relative weakness of the
+primary market. It must be clarified that there was no general absence
+of regulatory activity. Significant regulatory changes did take place from
+1918 to 1928, but they were focused on listing requirements, secondary
+trading and the duties of brokers, but not on IPOs and investment
+banking.
+Examining the sample of 21 IPOs that did take place over the period
+1880-1940, we note a significant change in character and composition.
+Whereas banking IPOs appeared throughout the period, non-financial
+issues shifted from infrastructure-related projects and few heavy
+
+
+44
+industry undertakings to light industry ventures mainly oriented to the
+satisfaction of domestic demand. A notable reduction in the average size
+over time and a visible shift from over- to under-pricing around the
+second decade of the twentieth century are evident trends. Analysis of
+pricing revealed that size, the percent of given ownership and the
+pressure of supply of securities were associated with under-pricing.
+In a more general historical assessment it appears that the Athens Stock
+Exchange responded to two major aspects of economic developments in
+Greece. The first was the large expansion of the domestic market that
+resulted from substantial changes both in the country’s area and
+population. This eventually shifted the focus of listing activity to firms
+catering to the domestic market. This was also a response to protracted
+war conditions which created a de facto protectionism of the enlarged
+domestic market. The second aspect was the emergence of inflation and
+monetary instabilities, especially in the period after the decade of wars
+(1912-1922). Our evidence shows a large increase in listing activity and
+IPOs in the 1920s when inflationary profits were making an appearance.
+These phenomena would come to an abrupt stop with restrictive policies
+enacted from 1926.
+
+
+45
+Appendix A: Listings, IPOs, Annual Volume, Mean First Day Prices and Returns, First Trading Day IPO Returns, Proceeds and Money Left on the Table, 1880-1940
+The study starts from 1880 when Athens Stock Exchange officially started
+its operations. Both IPOs and listings are included in the table. Listing
+price is the nominal stock price of listings or the offer price of IPOs’ new
+stocks offered during the public offering procedure. First trading price is
+the first closing price of IPOs or listing in the A.S.E. on the first trading
+day. First day returns for IPOs are the change from the offer (or listing)
+price to the closing price on the first day of trading and are equally
+weighted (EW). First day returns for listings are the change from the
+nominal price to the first closing price on the first or following day of
+trading and are equally weighted (EW). Raised Funds and money left on
+the table are in Gold Sovereign prices. The amount of money left on the
+table by IPOs is defined as the difference between the closing price on
+the first day and the listing price, multiplied by the number of shares sold
+to the public (new investors). In other words, this is the first-day profit
+received by investors who were allocated IPO shares at the offer price. It
+represents a wealth transfer from the shareholders of the issuing firm to
+these investors.
+
+
+46
+Panel A: No of Listings, No of IPOs & Mean Prices (Trading, Listing, Offer) Period15 Number of IPOs + Listings
+Number of Listings
+Mean Listing Price
+Mean First Trading Price
+Number of IPOs16,17
+Mean Offer Price
+Mean First Trading Price
+1884 3 2 3.91 3.07 1 3.82 3.06 1887 4 1 3.00 2.97 3 8.66 4.76 1889 1 1 6.52 9.13 0 - 1891 1 1 6.23 6.69 0 - 1892 2 2 5.74 5.51 0 - 1893 1 1 14.64 12.24 0 - 1894 1 1 2.26 3.05 0 - 1897 1 1 5.89 2.47 0 - 1898 1 0 - - 1 3.48 2.28 1899 3 3 6.01 4.51 0 - 1900 1 0 - - 1 4.88 4.90 1903 3 3 5.67 5.04 0 - 1905 2 2 6.90 7.35 0 - 1906 1 0 - - 1 5.58 5.65 1907 1 1 3.69 3.98 0 - 1908 2 2 3.68 3.25 0 - 1909 4 3 1.95 2.20 1 3.82 3.82 1910 1 1 16.12 17.74 0 - 1911 3 3 4.03 4.83 0 - 1912 4 4 3.97 4.35 0 - 1913 2 2 3.97 4.37 0 - 1914 1 1 3.97 4.13 0 - 1916 3 3 4.04 5.11 0 - 1917 5 4 4.06 5.72 1 4.07 5.29 1918 4 3 4.00 6.23 1 5.27 5.68 1919 3 3 4.06 4.96 0 - 1920 4 4 4.38 5.40 0 - 1921 2 2 2.94 5.30 0 - 1922 4 4 0.52 1.09 0 - 1923 4 4 0.31 0.69 0 - 1924 8 8 0.44 1.10 0 - 1925 17 10 0.54 1.49 7 0.30 1.31 1926 10 8 0.68 1.72 2 0.51 0.67 1927 8 7 0.40 0.63 1 0.26 0.69 1928 5 5 0.53 1.06 0 - 1929 9 9 1.28 2.59 0 - 1930 2 1 0.26 0.29 1 13.33 20.26 1931 2 2 0.8 1.23 0 - 
+15 No listing or IPO launched on the ASE in years not included in the table
+16 The annual distribution of the new issues of common stocks in this table became according to the first date of entrance of a firm in the A.S.E. and not according to the time period of public offerings
+17 The IPOs concern listings of only common stocks in the Greek stock market
+
+
+47
+1934 2 2 0.11 0.38 0 - 1935 6 6 0.40 0.62 0 - 1936 2 2 0.34 0.47 0 - 1937 5 5 0.39 1.06 0 - 1938 6 6 0.44 1.58 0 - 1939 8 8 0.70 1.81 0 - 1940 3 3 0.88 1.11 0 - Total 165 144 21 Panel B: First Day IPO Returns, Raising Funds and Money Left on the Table for IPOs, 1880 to 1940
+Period18 Number of IPOs19,20
+Mean Rate of 1st Day Returns (%)
+Raised Funds (in Gold Sov.)
+Money left on the Table (in Gold Sov.) 1884 1 -0.20 61.255 306.28 1887 3 -0.38 625.104 0 1898 1 -0.34 111.451 0 1900 1 0.49 195.333 0 1906 1 0.01 223.357 2.919 1909 1 0.00 133.740 0 1917 1 0.30 56.980 17.094 1918 1 0.77 158.279 12.175 1925 7 331.42 123.455 439.602 1926 2 0.45 83.715 31.790 1927 1 1.60 39.966 63.947 1930 1 0.52 1.066.666 554.666
+18 No IPO took place in years not included in the table
+19 The annual distribution of the new issues of common stocks in this table became according to the first date of entrance of a firm in the A.S.E. and not according to the time period of public offerings
+20 The IPOs concern listings of only common stocks in the Greek stock market
+
+
+48
+Parity of gold sovereign-drachma in 1880-1940 period
+1,0
+10,0
+100,0
+1000,0
+10000,0
+100000,0
+1000000,0
+1880
+1883
+1886
+1889
+1892
+1895
+1898
+1901
+1904
+1907
+1910
+1913
+1916
+1919
+1922
+1925
+1928
+1931
+1934
+1937
+1940
+Year
+Parity in drachmas
+(Logarithmic scale)
+Parity of gold sovereign -drachma
+Sources: For 1880-1912 see Μ. Riginos, The movement of foreign exchange and monetary values in Greek Markets (in Greek) Athens 1997 For 1913-1940: The Stock Exchange Yearbook 1974, Athens 1974
+
+
+49
+Appendix B: Tables
+Table 1: Listings and IPOs by Sector during the sub-period 1880-1898
+Year Number of Listings & IPOs
+Banks Railways Construction Firms
+Chemicals Textiles Beverages
+Other
+1884 3 1 1 11
+1887 4 1 2 1
+1889 1 1
+1891 1 11
+1892 2 1 1
+1893 1 1
+1894 1 1
+1897 1 1
+1898 1 1
+Total 15 2 4 2 1 6
+
+
+50
+Table 2: Listings and IPOs by Sector during the sub-period 1899-1922
+Year Number of Listings & IPOs
+Banks Railways Construction Firms
+Chemicals Textiles Beverages Other
+1899 3 1 2
+1900 1 1
+1903 3 1 1 1
+1905 2 2
+1906 1 1
+1907 1 1
+1908 2 1 1
+1909 4 1 2 1
+1910 1 1
+1911 3 1 2
+1912 4 1 3
+1913 2 1 1
+1914 1 1
+1916 3 1 2
+1917 5 1 4
+1918 4 1 1 1 1
+1919 3 1 1 1
+1920 4 2 1 1
+1921 2 1 1
+1922 4 1 1 2
+Total 53 10 3 1 3 4 7 25
+
+
+51
+Table 3: Listings and IPOs by Sector during the sub-period 1923-1940
+Year Number of Listings & IPOs
+Banks Railways Construction Firms
+Chemicals Textiles Beverages Other
+1923 4 1 1 1 1
+1924 8 3 3 1 1
+1925 17 2 2 4 2 7
+1926 10 2 2 1 1 4
+1927 8 2 3
+1928 5 1 1 3 1
+1929 9 2 2 4 1 2
+1930 2 1 1
+1931 2 1 1
+1934 2 1 1
+1935 6 2 1 3
+1936 2 1 1
+1937 5 4 1
+1938 6 3 1 2
+1939 8 3 1 4
+1940 3 1 2
+Total 97 13 1 9 11 21 9 33
+
+
+52
+Table 4: Descriptive statistics for Listings and IPOs
+Simple Listings IPOs Panel A: Whole Period, 1880-1940 Variable Age (years)
+Size (Gold Sov.)
+Age (years)
+Size (Gold Sov.)
+GO (%) Mean 6.72 82,916 6 166,061 38 Median 3.5 34,578 3 16,634 33 Sample 144 144 21 21 21 Panel B: Sub-Period, 1880-1898 Variable Age (years)
+Size (Gold Sov.)
+Age (years)
+Size (Gold Sov.)
+GO (%) Mean 3.8 70,214 5.6 509,206 63 Median 3 56,678 5 103,734 50 Sample 10 10 5 5 5 Panel C: Sub-Period, 1899-1922 Variable Age (years)
+Size (Gold Sov.)
+Age (years)
+Size (Gold Sov.)
+GO (%) Mean 6.79 169,374 2.2 67,942 24 Median 2.5 80,988 2 40,273 25 Sample 48 48 5 5 5
+Panel D: Sub-Period, 1923-1940 Variable Age (years)
+Size (Gold Sov.)
+Age (years)
+Size (Gold Sov.)
+GO (%) Mean 7.03 36,676 7.27 54,684 33 Median 4 19,094 3 6,574 29 Sample 86 86 11 11 11
+Panel E: Division by ‘Hot’ and ‘Cold’ Listings ‘Hot’ Period Variable Age (years)
+Size (Gold Sov.)
+Age (years)
+Size (Gold Sov.)
+GO (%) Mean 7.48 110,681 6.8 25,888 30 Median 3 59,665 2.5 6,618 23 Sample 54 54 12 12 12
+‘Cold’ Period Variable Age (years)
+Size (Gold Sov.)
+Age (years)
+Size (Gold Sov.)
+GO (%) Mean 6.27 66,441 4.1 352,957 48 Median 4 24,229 5 48,833 38 Sample 90 90 9 9 9
+Panel F: t-stat for difference on mean
+0.465 1.785 0.880 -1.717 -0.909 (0.725) (0.090)* (0.408) (0.094)* (0.390)
+
+
+53
+Table 5: List of Quasi IPOs
+Panel A: All Quasi IPOs case by case Quasi IPO Year Offer Price Trading Price Raising Funds (in Gold Sov.) Public and Municipal Workings 1880 3.01 2.98 34482
+Hellenic Metal Company 1887 3.21 3.30 112179
+Company of Wine and Alcohol 1905 3.96 4.26 226415
+Company of Chemicals 1909 3.97 4.64 79365
+Gr National Stream Navigation 1911 4.17 5.67 79365 Titan 1911 3.97 4.85 79365 Aliveri Mining 1912 4.04 4.81 121163 Agyra General Commerce 1917 4.10 4.42 81900 Piraeus Bank 1917 3.90 6.09 117050 Hellenic Mining Company 1918 4.06 5.72 66152 Piraeus Business Company 1918 4.06 6.90 81168 Industrial Company 1918 2.96 4.43 103427 General Bank of Greece 1920 4.88 8.79 88652.48 Hellenic Tobacco Company 1921 1.02 1.83 71058 Central Bank of Greece 1921 0.78 1.44 27273 Oropos Mining 1922 0.30 0.65 9047 Hellenic Olive Oil 1922 0.70 1.09 28085 Kosmadopoulos Bank 1922 0.34 0.85 10208 Tekton Construction 1923 0.34 0.61 17013 Avezap 1923 0.34 0.88 6805 Agricultural Industry 1923 0.45 0.91 1360 Bank of Thessaly 1924 0.46 1.23 190114 Bank of Hellenic Securities 1924 0.40 0.70 30173 Maritime Bank 1924 0.60 0.68 34398 Vermion 1924 0.40 2.04 11988 Hellenic Silk 1924 0.39 1.55 50303 Naoussa Fabrics 1924 0.39 0.87 38695 Atlas Construction 1924 0.32 3.24 38834 Hlios Sugar Company 1925 0.33 0.48 16435 Ergon Technical Construction 1925 0.33 0.66 16435 Pharmaceutical Union 1925 0.30 0.82 15105 Piraeus Refridgerators 1925 0.28 0.72 5849 Anatoli 1926 0.26 0.58 13157 Olympos Concrete 1926 0.66 1.07 65866 Akte Technical Company 1927 0.27 0.50 27322 Ertha Sea Construction 1927 0.83 1.20 25874 Electric Lamp 1928 0.57 0.69 8600 Trikala Fabrics 1935 0.11 0.14 9174 Naoussa Lanara Oil 1935 0.11 1.98 10989 Etma Silk 1937 0.60 0.91 93475 Iris Chocolate 1938 0 - 6578
+
+
+54
+Table 6: Descriptive statistics for Quasi IPOs and IPOs
+Descriptive statistics for Quasi IPOs vis a vis IPOs are included in this Table. Quasi IPOs or ‘Delayed’ IPOs are characterized those cases of listings where firms obtain listing for trading and soon afterwards (in time close to that of listing day) announce a capital increase, offering sale of new shares for cash. AGE, Ln (1+AGE) the log of the total of one plus the age of the company in years on the listing date, Size counts the number of new issued shares offered to the public during the IPO or the Right Offering procedure multiplied with their offer price.
+Panel A: Comparison Quasi IPOs with IPOs (The Whole Period) Quasi IPOs IPOs Variable Quasi IPOs
+Age (years)
+Size (Gold Sov.)
+GO Age (years)
+Size (Gold Sov.)
+GO
+Mean 6.90 38,472 38.34 6 166,061 38 Median 3 20,325 34.74 3 16,634 33 Min 0 517 0.63 1 1,697 6 Max 64 208,501 87.42 46 1,564,661 100
+Sample 41 41 41 21 21 21 Panel B: Sub-Period, 1880-1898
+Quasi IPOs IPOs Variable Quasi IPOs
+Age (years)
+Size (Gold Sov.)
+GO Age (years)
+Size (Gold Sov.)
+GO
+Mean 5 49,158 83.10 5.6 509,206 62.5 Median - - 5 103,734 50 Min - - 2 22,667 100 Max - - 11 1,564,661 25
+Sample 2 2 2 5 5 5 Panel C: Sub-Period, 1899-1922
+Quasi IPOs IPOs Variable Quasi IPOs
+Age (years)
+Size (Gold Sov.)
+GO Age (years)
+Size (Gold Sov.)
+GO
+Mean 5.64 59,592 59.51 2.2 67,942 23.8 Median 3 44,271 62.07 2 40,273 25 Min 0 6,746 18.36 1 8,140 33 Max 48 208,501 87.42 5 223,357 14
+Sample 16 16 16 5 5 5 Panel D: Sub-Period, 1923-1940
+Quasi IPOs IPOs Variable Quasi IPOs
+Age (years)
+Size (Gold Sov.)
+GO Age (years)
+Size (Gold Sov.)
+GO
+Mean 5.46 23,947 23.26 7.27 54,684 33 Median 4 15,086 21.60 3 6,574 29 Min 2 517,45 0.64 2 1,697 6 Max 14 95,963 48.12 46 533,333 63
+Sample 24 24 24 11 11 11
+Panel E: Comparison of Quasi IPOs with IPOs (Hot Listing Periods) Quasi IPOs IPOs
+
+
+55
+Variable Quasi IPOs
+Age (years)
+Size (Gold Sov.)
+GO Age (years)
+Size (Gold Sov.)
+GO
+Mean 5.76 33,381 34.86 7.27 25,888 30 Median 3 17,210 33.33 3 6,618 23 Min 0 517 1.02 2 1,697 6 Max 48 208,501 85.39 46 223,358 63
+Sample 30 30 30 12 12 12 Panel F: Comparison Quasi IPOs with IPOs (Cold Listing Periods) Quasi IPOs IPOs Variable Quasi IPOs
+Age (years)
+Size (Gold Sov.)
+GO Age (years)
+Size (Gold Sov.)
+GO
+Mean 4.81 52,357 43.07 4.11 352,957 48 Median 3 44,515 40.29 5 48,833 38 Min 2 3,158 0.64 1 8,140 14 Max 10 131,181 87.42 11 1,564,661 100
+Sample 11 11 11 9 9 5 Panel G: Panel F: t-stat for difference on mean
+Quasi IPOs IPOs 0.350 0.364 0.519 0.880 -1.717 0.909
+(0.734) (0.724) (0.611) (0.408) (0.094)* (0.390)
+
+
+56
+Table 7: List of IPOs
+Panel A: All IPOs case by case IPO Year Offer Price Trading Price Mean Rate of Initial Returns (%)
+Raising Funds (in Gold Sov.)
+Money left on the Table (in Gold Sov.)
+Powder Co. 1884 3.78 3.02 -20 22,667 0 Hpiro-Thessaly Bank 1887 10.37 9.00 -13.33 103,734 0 Thessaly Railways 1887 9.00 5.01 -44.23 827,109 0 S. P.A.P. Railways 1887 8.64 5.46 -36.8 1,564,661 0
+Public Mortgage Mgt. Co. 1898 3.48 2.28 -34.4 27,862 0 Bank of Crete 1900 4.88 4.21 -13.79 48,833 0 Bank of Anatolia 1906 5.58 5.66 1.30 223,357 2.919
+Commercial Bank 1909 3.82 3.82 0 19,105 0 Ermis Industrial 1917 4.07 5.29 30 8,140 2,442 Isaias – Megaris 1918 5.24 5.64 7.69 40,273 3,097
+United Distilleres Corp. 1925 0.33 1.31 300 6,574 19,722 Kekrops Construction 1925 0.33 2.01 510 2,794 14,249 Athena Car Company 1925 0.32 1.75 450 9,547 42,963 Sanitas 1925 0.30 0.91 200 2,113 4,227 Georgiadis – Sekeris 1925 0.28 0.95 240 4,212 10,110 Commericial Credit Bank 1925 0.28 1.25 350 16,634 58,220 Kyklops Pottery 1925 0.28 1.03 270 2,356 6,362 Hellenic Carpet Factory 1926 0.78 0.94 20.91 15,605 3,263 Chemical Industries 1926 0.24 0.41 70 1,697 1,188 Diamantopoulos Constr. 1927 0.27 0.69 160 6,661 10,657 Bank of Greece 1930 13.33 20.27 52 533,333 277,333 Panel B: Initial Returns (IR) of IPOs
+Period Whole (1880-1940) 1880-1898 1899-1922 1923-1940
+Mean 114.91 -29.75 -12.20 238.44 Median 30 -34.4 1.30 240 Min -44.23 -44.23 -100 20.91 Max 510 -20 7.69 510
+Sample 21 5 5 11
+
+
+57
+Table 8: Results of multiple regressions for IPOs of period 1880-1940
+This table reports the results of multiple regressions using a sample of 21 IPOs listed in Athens Stock Exchange in the period 1880-1940. IR is IPOs initial returns in the end of first days of trading defined as IR= (EPi,t- OPi,0)/OPi AGE, Ln (1+AGE) the log of the total of one plus the age of the company in years on the listing date, Size is the number of new issued shares offered to the public during the IPO, multiplied with their offer price (measured by the natural logarithm), GO identifies the rate of stocks offered by listing firms to new shareholders during the public offering procedure. Y identifies the number of listings that were launched on ASE without public offering procedure. Dum 1925 is a dummy variable that counts all IPOs listed in ASE on 1925. We insert the value ‘1’ for IPOs listed in 1925 and ‘0’ for the rest IPOs.
+***Significance at the one per cent level. **Significance at the five per cent level *Significance at the ten per cent level.
+Variables IR IR IR
+Constant 427.7** 422.7*** 349.3
+(0.0230) (0.006) (0.125)
+AGE 1.680 1.662 1.785
+(0.140) (0.110) (0.120)
+SIZE -46.45** -46.06*** -44.28*
+(0.016) (0.006) (0.054)
+GO 1.887** 1.878** 2.091**
+(0.028) (0.018) (0.029)
+Y -1.061 - 46.10**
+(0.960) - (0.031)
+Dum1925 187.0** 184.4*** 
+(0.025) (0.007) 
+Obs. 21 21 21
+Adj R-squared 0.843 0.852 0.808
+
+
+58
+References
+Allen, F., F. Capie, C. Fohlin, H. Miyajima, R. Sylla, G. Wood, and Y. Yafeh, 2010. How Important Historically Were Financial Systems for Growth in the U.K., U.S., Germany, and Japan?, Working Paper.
+Beatty, R., and J. Ritter, 1986. Investment banking, reputation, and the underpricing of initial public offerings, Journal of Financial Economics 15, 213-232.
+Belousova, J., and G. Dorfleitner, 2012. On the diversification benefits of commodities from the perspective of euro investors, Journal of Banking & Finance 36, 2455-2472.
+Biais, B., and E. Perotti, 2002. Machiavellian Privatization, American Economic Review 92, 240-258.
+Boulton, T. J., S. B. Smart, and C. J. Zutter, 2011. Earnings quality and international IPO underpricing, The Accounting Review 86, 483-505.
+Bouvier, J., 1977. Iinitiation au vocabulaire et aux mécanismes économiques contemporains(Paris).
+Brennan, M., and J. Franks, 1997. Underpricing, ownership and control in initial public offerings of equity securities in the UK, Journal of Financial Economics 45, 391-413.
+Burhop, C., 2008. Initial public offerings during Germany’s first capital market boom, 1870–79, Working paper, Max Planck Institute for Research of Collective Goods.
+Burhop, C., 2011. The underpricing of Initial Public Offerings at the Berlin Stock Exchange, 1870–96, German Economic Review 12 11-32.
+Burhop, C., D. Chambers, and B. Cheffins, 2012. Is regulation essential to stock market development? Going public in London and Berlin, 1900-1913, University of Cambridge Faculty of Law Research Paper No. 2/2012.
+Chambers, D., 2009. Gentlemanly capitalism revisited: A case study of underpricing of initial public offerings on the London Stock Exchange, 19461986, Economic History Review, 62, 31-56.
+Chambers, D., 2010. Going public in Interwar Britain, Financial History Review 17, 51-71.
+
+
+59
+Chambers, D., 2011. IPOs on the London Stock Exchange since 1900 Working Paper.
+Chambers, D., and E. Dimson, 2009. IPO underpricing over the very long run, Journal of Finance 64, 1407-1443.
+Christodoulaki, O., 2001. Industrial growth in Greece between the wars: A new perspective, European Review of Economic History 5, 61-89.
+Eichengreen, B., 1996. On the links between monetary and political integration Working Paper, University of Berkley.
+Eichengreen, B., and P. H. Lindert, 1989. Overview(MIT Press).
+Fohlin, C., 2000. IPO Underpricing in Two Universes: Berlin 1882-1892, and New York, 1998-2000, Social Science Working Paper 1088, California Institute of Technology.
+Fohlin, C., 2001. The balancing act of German universal banks and english deposit banks, 1880-1913, Business History 43, 1-24.
+Fohlin, C., 2010. Asymmetric information, market power, and the underpricing of new stock issues in Germany, 1882-1892, Journal of Economic History 70, 630-656.
+Fohlin, C., 2013. Creating modern venture capital: Institutional design and performance in the early years, Working Paper.
+Fohlin, C., and T. Gehrig, 2006. Trading costs in early securities markets: The case of the Berlin Stock Exchange, 1880-1910, Review of Finance 10, 585610.
+Gerber, A., T. Hens, and B. Vogt, 2010. Rational investor sentiment in a repeated stochastic game with imperfect monitoring, Journal of Economic Behavior & Organization 76, 669-704.
+Habib, M., and A. Ljungqvist, 2001. Underpricing and entrepreneurial wealth losses in IPOs: theory and evidence, Review of Financial Studies 14, 433458.
+Harris, R. A., 1933. A re-analysis of the 1928 new issue boom, Economic Journal 43, 453–459.
+Heeley, M., S. Matusik, and N. Jain, 2007. Innovation, appropriability, and the underpricing of Initial Public Offerings, Academy of Management Journal 50, 209-225.
+
+
+60
+Issler, J. V., C. Rodrigues, and R. Burjack, 2014. Using common features to understand the behavior of metal-commodity prices and forecast them at different horizons, Journal of International Money and Finance 42, 310-335.
+Jovanovic, B., and P. Rousseau, 2001. Why wait? A century of life before IPO, American Economic Review 91, 336-341.
+Kahleman, D., and T. A., 1979. Prospect theory: An analysis of decision under risk, Econometrica 47, 263-291.
+Kanatas, G., and J. Qi, 2003. Integration of lending and underwriting: Implication of scope economics, Journal of Finance 58, 1167-1191.
+Kazantzis, C., and M. Levis, 1995. Price support and initial public offerings: evidence from Athens Stock Exchange, Journal in International Business and Finance 12, 185-200.
+Laporta, R., F. Lopez-de-Silanes, A. Shleifer, and R. Vishny, 1998. Law and Finance, Journal of Political Economy 106, 1113-1155.
+Lehmann, S., 2010. Underwriter activity and performance of Initial Public Offerings in Imperial Germany between 1897-1914: The role of reputation, Working Paper.
+Lehmann, S., 2014. Taking firms to the stock market: IPOs and the importance of large banks in imperial Germany, 1896–1913, Economic History Review 67, 92-122.
+Ljungqvist, A., 2007. IPO underpricing(Elsevier Amsterdam).
+Loughran, T., and J. Ritter, 2002. Why don't issuers get upset about leaving money on the table of IPOs?, Review of Financial Studies 15, 413-443.
+Loughran, T., and J. Ritter, 2004. Why has IPO underpricing changed over time?, Financial Management 33, 5-37.
+Maksimovic, V., and H. Unal, 1993. Issue size choise and underpricing in thrift mutual to stock conversions, Journal of Finance 48, 1659-1692.
+Malloy, C., 2005. The geography of equity analysis, Journal of Finance 60, 719755.
+Muscarella, C., and M. Vetsuypens, 1989. A simple test of Baron's model of IPO underpricing, Journal of Financial Economics 24, 125-135.
+
+
+61
+Myers, S., and N. Majluf, 1984. Corporate financing and investment decisions when firms have information that investors do not have, Journal of Financial Economics 13, 187–221.
+Portes, R., and H. Rey, 2005. The determinants of cross-border equity flows, Journal of International Economics 65 269-296.
+Rajan, R. G., and L. Zingales, 2003. The great reversals: the politics of financial development in the twentieth century, Journal of Financial Economics 69, 5-50.
+Rock, K., 1986. Why new issues are underpriced, Journal of Financial Economics 15, 187-212.
+Schlag, C., and A. Wodrich, 2005. Has there always been underpricing and long-run underperformance? - IPOs in Germany before World War I, Goethe University Center for Financial Studies Working Paper No. 2000/12.
+Thomadakis, S., D. Gounopoulos, and C. Nounis, 2012. The long term performance of Initial Public Offerings in the Athens Stock Exchange European Financial Management 17, 117-141.
+Thomadakis, S., D. Gounopoulos, C. Nounis, and A. Merikas, 2014. Collateral regulation and IPO specific rebelarization: The case or price limits in the Athens Stock Exchange, European Financial Management, Forthcoming.
+
+
+
+
+Recent Papers in this Series
+85. Papandreou, Nick, Life in the First Person and the Art of Political Storytelling: The Rhetoric of Andreas Papandreou, May 2014
+84. Kyris, George, Europeanisation and 'Internalised' Conflicts:
+The Case of Cyprus, April 2014
+83. Christodoulakis, Nicos, The Conflict Trap in the Greek Civil War 19461949: An economic approach, March 2014
+82. Simiti, Marilena, Rage and Protest: The case of the Greek Indignant movement, February 2014
+81. Knight, Daniel M, A Critical Perspective on Economy, Modernity and Temporality in Contemporary Greece through the Prism of Energy Practice, January 2014
+80. Monastiriotis, Vassilis and Martelli, Angelo, Beyond Rising
+Unemployment: Unemployment Risk Crisis and Regional Adjustments in Greece, December 2013.
+79. Apergis, Nicholas and Cooray, Arusha, New Evidence on the Remedies of the Greek Sovereign Debt Problem, November 2013
+78. Dergiades, Theologos, Milas, Costas and Panagiotidis, Theodore, Tweets, Google Trends and Sovereign Spreads in the GIIPS,
+October 2013
+77. Marangudakis, Manussos, Rontos, Kostas and Xenitidou, Maria,
+State Crisis and Civil Consciousness in Greece, October 2013
+76. Vlamis, Prodromos, Greek Fiscal Crisis and Repercussions for the Property Market, September 2013
+75. Petralias, Athanassios, Petros, Sotirios and Prodromídis, Pródromos, Greece in Recession: Economic predictions, mispredictions and policy implications, September 2013
+74. Katsourides, Yiannos, Political Parties and Trade Unions in Cyprus, September 2013
+73. Ifantis, Kostas, The US and Turkey in the fog of regional uncertainty, August 2013
+72. Mamatzakis, Emmanuel, Are there any Animal Spirits behind the Scenes of the Euro-area Sovereign Debt Crisis?, July 2013
+71. Etienne, Julien, Controlled negative reciprocity between the state and
+
+
+civil society: the Greek case, June 2013
+70. Kosmidis, Spyros, Government Constraints and Economic Voting in Greece, May 2013
+69. Venieris, Dimitris, Crisis Social Policy and Social Justice: the case for Greece, April 2013
+68. Alogoskoufis, George, Macroeconomics and Politics in the Accumulation of Greece’s Debt: An econometric investigation 1974-2009, March 2013
+67. Knight, Daniel M., Famine, Suicide and Photovoltaics: Narratives from the Greek crisis, February 2013
+66. Chrysoloras, Nikos, Rebuilding Eurozone’s Ground Zero - A review of the Greek economic crisis, January 2013
+65. Exadaktylos, Theofanis and Zahariadis, Nikolaos, Policy Implementation and Political Trust: Greece in the age of austerity, December 2012
+64. Chalari, Athanasia, The Causal Powers of Social Change: the Case of Modern Greek Society, November 2012
+63. Valinakis, Yannis, Greece’s European Policy Making, October 2012
+62. Anagnostopoulos, Achilleas and Siebert, Stanley, The impact of Greek labour market regulation on temporary and family employment Evidence from a new survey, September 2012
+61. Caraveli, Helen and Tsionas, Efthymios G., Economic Restructuring, Crises and the Regions: The Political Economy of Regional Inequalities in Greece, August 2012
+60. Christodoulakis, Nicos, Currency crisis and collapse in interwar Greece: Predicament or Policy Failure?, July 2012
+59. Monokroussos, Platon and Thomakos, Dimitrios D., Can Greece be saved? Current Account, fiscal imbalances and competitiveness, June 2012
+58. Kechagiaras, Yannis, Why did Greece block the Euro-Atlantic integration of the Former Yugoslav Republic of Macedonia? An Analysis of Greek Foreign Policy Behaviour Shifts, May 2012
+57. Ladi, Stella, The Eurozone Crisis and Austerity Politics: A Trigger for Administrative Reform in Greece?, April 2012
+56. Chardas, Anastassios, Multi-level governance and the application of the partnership principle in times of economic crisis in Greece, March 2012
+55. Skouroliakou, Melina, The Communication Factor in Greek Foreign
+
+
+Policy: An Analysis, February 2012
+54. Alogoskoufis, George, Greece's Sovereign Debt Crisis: Retrospect and Prospect, January 2012
+53. Prasopoulou, Elpida, In quest for accountability in Greek public administration: The case of the Taxation Information System (TAXIS), December 2011
+52. Voskeritsian, Horen and Kornelakis, Andreas, Institutional Change in Greek Industrial Relations in an Era of Fiscal Crisis, November 2011
+51. Heraclides, Alexis, The Essence of the Greek-Turkish Rivalry: National Narrative and Identity, October 2011
+50. Christodoulaki, Olga; Cho, Haeran; Fryzlewicz, Piotr, A Reflection of History: Fluctuations in Greek Sovereign Risk between 1914 and 1929, September 2011
+49. Monastiriotis, Vassilis and Psycharis, Yiannis, Without purpose and strategy? A spatio-functional analysis of the regional allocation of public investment in Greece, August 2011
+SPECIAL ISSUE edited by Vassilis Monastiriotis, The Greek crisis in focus: Austerity, Recession and paths to Recovery, July 2011
+48. Kaplanoglou, Georgia and Rapanos, Vassilis T., The Greek Fiscal Crisis and the Role of Fiscal Government, June 2011
+47. Skouras, Spyros and Christodoulakis, Nicos, Electoral Misgovernance Cycles: Evidence from wildfires and tax evasion in Greece and elsewhere, May 2011
+46. Pagoulatos, George and Zahariadis, Nikolaos, Politics, Labor, Regulation, and Performance: Lessons from the Privatization of OTE, April 2011
+45. Lyrintzis, Christos, Greek Politics in the Era of Economic Crisis: Reassessing Causes and Effects, March 2011
+44. Monastiriotis, Vassilis and Jordaan, Jacob A., Regional Distribution and Spatial Impact of FDI in Greece: evidence from firm-level data, February 2011
+43. Apergis, Nicholas, Characteristics of inflation in Greece: mean spillover effects among CPI components, January 2011
+42. Kazamias, George, From Pragmatism to Idealism to Failure: Britain in the Cyprus crisis of 1974, December 2010
+41. Dimas, Christos, Privatization in the name of ‘Europe’. Analyzing the telecoms privatization in Greece from a ‘discursive institutionalist’
+
+
+perspective, November 2010
+40. Katsikas, Elias and Panagiotidis, Theodore, Student Status and Academic Performance: an approach of the quality determinants of university studies in Greece, October 2010
+39. Karagiannis, Stelios, Panagopoulos, Yannis, and Vlamis, Prodromos, Symmetric or Asymmetric Interest Rate Adjustments? Evidence from Greece, Bulgaria and Slovenia, September 2010
+38. Pelagidis, Theodore, The Greek Paradox of Falling Competitiveness and Weak Institutions in a High GDP Growth Rate Context (1995-2008), August 2010
+37. Vraniali, Efi, Rethinking Public Financial Management and Budgeting in Greece: time to reboot?, July 2010
+36. Lyberaki, Antigone, The Record of Gender Policies in Greece 1980-2010: legal form and economic substance, June 2010
+35. Markova, Eugenia, Effects of Migration on Sending Countries: lessons from Bulgaria, May 2010
+34. Tinios, Platon, Vacillations around a Pension Reform Trajectory: time for a change?, April 2010
+33. Bozhilova, Diana, When Foreign Direct Investment is Good for Development: Bulgaria’s accession, industrial restructuring and regional FDI, March 2010
+32. Karamessini, Maria, Transition Strategies and Labour Market Integration of Greek University Graduates, February 2010
+31. Matsaganis, Manos and Flevotomou, Maria, Distributional implications of tax evasion in Greece, January 2010
+Online papers from the Hellenic Observatory
+All GreeSE Papers are freely available for download at http://www2.lse.ac.uk/ europeanInstitute/research/hellenicObservatory/pubs/GreeSE.aspx
+Papers from past series published by the Hellenic Observatory are available at http://www.lse.ac.uk/collections/hellenicObservatory/pubs/DP_oldseries.htm

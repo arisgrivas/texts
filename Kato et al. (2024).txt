@@ -1,0 +1,240 @@
+L(u)PIN: LLM-based Political Ideology Nowcasting
+Ken Katoa, Annabelle Purnomob, Christopher Cochrane∗c, Raeid Saqur∗d
+aDivison of Engineering Science, University of Toronto, bDepartment of Linguistics, University of British Columbia, cDepartment of Political Science, University of Toronto Scarborough, dVector Institute, Department of Computer Science, University of Toronto,
+Abstract
+AI and LLMs have seen a drastic development over the past few years. Powerful LLMs such as GPT-4 by OpenAI became available to the public, irreversibly changing the world in various fields. However, the application of LLMs in the field of quantitative political science remains limited. At the time of writing this paper, we are only aware of a few papers making use of LLMs to analyze political speech data. The quantitative analysis of political ideological positions is a difficult task. In the past, various literature focused on parliamentary voting data of politicians, party manifestos and parliamentary speech to estimate political disagreement and polarization in various political systems. However previous methods of quantitative political analysis suffered from a common challenge which was the amount of data available for analysis. Also previous methods frequently focused on a more general analysis of politics such as overall polarization of the parliament or party-wide political ideological positions. In this paper, we present a method to analyze ideological positions of individual parliamentary representatives by leveraging the latent knowledge of LLMs. The method allows us to evaluate the stance of politicians on an axis of our choice allowing us to flexibly measure the stance of politicians in regards to a topic/controversy of our choice. We achieve this by using a fine-tuned BERT classifier to extract the opinion-based sentences from the speeches of representatives and projecting the average BERT embeddings for each representative on a pair of reference seeds. These reference seeds are either manually chosen representatives known to have opposing views on a particular topic or they are generated sentences which where created using the GPT-4 model of OpenAI. We created the sentences by prompting the GPT-4 model to generate a speech that would come from a politician defending a particular position. We validate the obtained results in two ways. First, we analyze the semantics of different projection segments by using the topic modelling technique of BERTopic to ensure that the segments are aligned with what we would expect the segments to represent. Second, we compare the obtained projections against expert estimations from Mielka, a NPO in Japan aiming to make Japanese politics more transparent to the public. They have looked at official party manifestos and policy summaries to produce an estimate of how the parties are positioned in regards to various topics. We find that our method yields an estimation of ideological positions that align with expert estimations from Mielka with significantly less human intervention. We show that LLMs are a great tool to empower political scientists aiming to quantitatively analyze political ideologies of representatives.
+Keywords: LLM, Quantitative Political Methods, Text as Data, NLP, Japanese Politics, AI, Document embedding
+1. Introduction
+Estimation and comparison of ideological position of politicians is a difficult task. Previously, political scientists have looked at roll-call voting data and word-embedding techniques to analyze individual or party-wide relative ideological positions. (Rheault and Cochrane, 2020; Poole and Rosenthal, 1985) However, the previous papers often have the following two limitations:
+• There is not enough speech data per individual representative usually to learn a latent representation for individual politicians.
+*These authors contributed equally to this work
+• In some parliaments, not all roll-vote data is collected and recorded and instead, only the final result of whether a bill was passed or rejected is recorded. This limits the amount of data available to create representations for individual politicians.
+Instead of learning representations for individual representatives from parliamentary speeches or looking at roll-call voting data which is limited for the Japanese diet, this paper uses the latent knowledge of LLMs to create representations for individual representatives based on their parliamentary speeches. LLMs are AI models that are trained on learning the relationships between words. During the training phase, the LLM tries to predict the next word token given a window of previous word tokens and adjusting the parameters using the backpropagation method. After the training phase, the LLM is able
+Preprint submitted to arxiv May 14, 2024
+arXiv:2405.07320v1 [cs.CL] 12 May 2024
+
+
+to embed words to vectors in a meaningful manner and these embeddings can be used to embed entire documents consisting of multiple words.(Reimers and Gurevych, 2019) LLMs can also be used to classify sentences. For our research, we have fine-tuned a BERT classifier originally created by Tohoku University(Tohoku NLP Group, 2023) using our own self-labelled dataset to classify opinion-based sentences. This allows us to apply a filter to the large amount of speech data available for each representative and to create a more refined set of speeches to analyze. Our method first collects the speeches of politicians for various topics using multiple query words for each topic. We then proceed to classify speech segments using our fine-tuned BERT classifier to extract the opinion-based sentences for each politician for each topic. Then we embed all of the opinion-based sentences and create an average embedding for each politician to create an ideological representation of the representative in regard to various topics of interest. This ideological embedding vector is then collapsed onto a reference axis that is created by either taking the difference of manually picked representatives or the difference of generated speeches defending a particular position. To measure the validity of our research, we compared the scalar values obtained after collapsing the representatives onto the reference axis with expert estimations. Namely, we looked at the evaluation of the party positions by Mielka which is a NPO operating in Japan aiming to make Japanese politics more transparent to the public. We find that the scalar evaluation of the ideological positions obtained with our method aligns with the expert estimations from Mielka, verifying that our method is able to yield valid estimations with significantly less manual human intervention. We also looked at the projection of the ideological embedding in a lower dimension. Using the UMAP package(McInnes et al., 2018) we can reduce the dimensions of the embedding from 768 to 2 while minimizing information loss and generate plots for the reduced dimensions on a 2D plane. This allows us to analyze the relative ideological positions of politicians and the generated reference sentences. We believe that our method is a good reference for political scientists looking to use LLMs in their own works to obtain quantitative analysis of ideological positions.
+2. Related Work
+In this section we present a variety of related works ranging from earlier methods to quantitatively express political ideological positions to modern methods using neural networks and LLMs. We also cover a range of works that analyze parliamentary speech data in general.
+2.1. Earlier methods:Roll call analysis
+The Dynamically Weighted Nominal Three-step Estimation (DW-NOMINATE) scores developed by Poole and Rosenthal remains the benchmark to compare the spatial orientation of the legislator ideologies until today. It is the extension of the
+NOMINATE score (Poole and Rosenthal, 1985) developed by the same authors a few years earlier and they are based on the roll-call votes of the representatives. Their algorithm aims to estimate the parameters of a utility function for each representative and expresses each representative as a point on the Euclidean space. Their work laid the foundation of spatial expression of legislator ideologies and is used as a gold-standard reference for political scientists today. There are however limitations with their approach. The method depends heavily on the availability of the roll-call votes data which in the case for Japanese politics, is only available for a limited number of bills. It also places the politicians on a left-right singular dimension which might not be appropriate for all democracies. As Poole and Rosenthal explain, in the US political system issues can be ’bundled’ together. For example, a legislator who opposes gun-regulation most likely is pro-life in regards to abortion and likely is against affirmative action. This interpretation of politics is however not applicable to all democracies. In Japanese politics, knowing that a politician is against the acknowledgement of the Japanese Self-Defence Force(JSDF) in the Japanese constitution does not always tell you how the politician stands in regards to other topics. Therefore, the DW-NOMINATE score cannot be used when we are seeking a more granular analysis of political stance.
+2.2. Earlier methods:Word frequency based approach
+2.2.1. Wordscores - Laver et al. 2003
+One of the earlier methods utilizing text data to position political parties was developed by Laver et al.. Their method was one of the first to treat text data not as a discourse to be read, interpreted and understood but as a collection of word data. Their method focused specifically on the frequency of the words in documents where the political positions were known (reference texts) and documents where political positions were unknown.(virgin texts) Their method used a 3 step process where: 1) They collected reference texts of which the political positions were known; 2) They generated word scores which represented the probability that we are reading a specific reference text given only that word; 3) Score the virgin texts using the word scores generated. In their work, they show that the position estimations for British and Irish parties they obtain from the party manifestos are in agreement with previous position estimations and they export this methodology to the German political system as well. Furthermore, they apply the word scores they obtained from the reference party manifestos to legislative speeches to estimate the positions of individual Irish politicians as well as parties.
+2.2.2. Wordfish - Slapin and Proksch 2008
+Another early word-frequency based approach is the wordfishing approach developed by Slapin and Proksch which is still widely used among political scientists to estimate policy positions from text data. It was created to overcome the limitations of the Wordscores approach such as: 1) The need for reference texts that can be difficult to be agreed upon among political scientists; 2) Its limited applicability to time-series estimation as
+2
+
+
+the political lexicon is constantly changing. To overcome the aforementioned limitations of the Wordscore approach, the authors use a statistical model of word counts by assuming a Poisson distribution for word frequencies. This allows them to estimate the policy positions of text data without having to prepare anchor/reference texts. Their method has been used by various authors such as Diaf et al.,Curini et al. and Catalinac and has allowed political scientists to analyze policy positions from text data in various forms and languages. However, recent works have pointed out the limitations of the word frequency based approaches. For example, Nanni et al. point out that using frequency based approaches for text analysis, semantically similar words can be treated as dissimilar words hence semantically similar sentences being treated as dissimilar sentences.
+2.3. Embedding-based methods
+In the past, researchers have used embedding based methods to analyze and spatially position legislative speeches. For example, van Lange and Futselaar used the Word2Vec algorithm developed by Google to analyze legislative speeches that deal with war criminals and Nazi collaborators in post-war Netherlands. They analyzed how the conversations evolved from focusing on the crimes these individuals had committed against the nation to the suffering of the victims during the time period. They also analyzed how the conversations shifted from focusing on death penalties to focusing on imprisonment. In their work, van Lange and Futselaar come up with a workaround to use multiple word2vec models trained on different corpora to conduct a diachronic analysis between different time periods. Another example of a text embedding-based approach to political positioning would the the work of Nanni et al.. In their work, they combined a symbolic text representation such as tfidf or a semantic text representation such as word embeddings with an unsupervised, graph-based clustering algorithm such as PageRank or HFLP. Through this method, they challenge the traditional word frequency-based approaches discussed earlier and validate that their method is able to position political text better than the frequency-based methods in multiple languages. Rashed et al. use a different algorithm to embedding political text. They use Google’s Convolutional Neural Network (CNN) based multilingual text encoder to analyze the tweets of the Turkish public during the presidential and parliamental election of 2018 in regards to various topics. They undergo a multi-step process of manual labelling, label propagation, embedding and clustering to reveal significant degree of polarization of the public in regards to topics such as Trump, Syria and Erdogan. They also reveal the correlation across topics by looking at the mutual information metric between the clusters for different topics. Instead of focusing on the embeddings of the text data such as legislative speech or party manifesto, Rheault and Cochrane focuse on the embeddings of the indicator variables which represent the party affiliation of the text. They call this the party embeddings. In their work, they implement a shallow neural network consisting of one hidden layer that aims to predict the
+word at position t given words appearing in a window ∆ before and after the word. The model input consists of these surrounding words as well as the party indicator variable. After fitting the model to the parliamentary speech corpora, they got a model that is capable of embedding the party indicator variables in a meaningful manner. They then reduce the dimension of the embeddings using the PCA method and analyze the what the dimensions semantically represent. They also verify that the political positioning they retrieved are aligned with the previous methods such as DW-NOMINATE and other expert surveys.
+2.4. Use of LLMs
+At the time of writing this paper, we are only aware of a few works that explore the application of LLMs in political ideology positioning. This section will introduce these works and their contributions. Wu et al. use a pair-wise comparison approach of senators to position them on a liberal-conservative scale or on topics such as abortion and gun-control. In their method, they provide the GPT-3.5 model by OpenAI with two senators to compare and prompt it to give the senator who is more pro-choice, conservative or supporting of gun-control. By repeating this match up between senators, they are able to position the senators on a spectrum using the Bradley-Terry model. They show that while the LaMP(Language Model Pairwise comparison) scores obtained highly correlate with the DW-NOMINATE scores, the scores do not simply parrot the DW-NOMINATE scores. They argue that as LaMP scores are more aligned with surveyed political scientists as LaMP scores do not solely rely on roll-call votes like DW-NOMINATE scores do, but take into account how the politicians are depicted on main stream media and other sources that were used to train the GPT-3.5 model. In their work, Mens and Gallego use a prompt engineering approach to spatially position British parties and US senators on a left-right scale. They feed in British party manifestos or tweets from US senators into the GPT-4 model using the API service provided by OpenAI and task the LLM to score the given text from 0 to 100 on a left-right scale. They verify that the scores they obtained using this method correlate extensively with existing expert estimates as well as past research. The authors mention the benefit of their methodology over the work of Wu et al. as their method does not require the LLM to ’know’ the political actors to estimate their political ideological position as they are provided the tweets/manifestos of the political actors. So far, the works introduced have mainly focused on one source of text data such as tweets, parliamentary speeches or manifestos. Pujari and Goldwasser extends this approach by suggesting a framework to combine political text from multiple sources. They suggest a unique neural architecture, ”Compositional Reader”, capable of processing multiple sources of text in one shot and successfully training it on two major tasks of Authorship prediction and Referenced Entity Prediction. They show that this architecture is able to outperform the previous BERT-based architectures. They also show that the representations of politicians learned by the model is capable of capturing a greater depth of political context compared to previous
+3
+
+
+methodologies as their representation do not simply capture the linguistic context but a broader political context.
+3. Parliamentary Speech Data
+In this study, we utilized the Japanese government’s API to acquire parliamentary speech data, specifically focusing on the main political parties in Japan, namely the Liberal Democratic Party, National Democratic Party, Constitutional Democratic Party, Japanese Communist Party, Komeito, and Japan Restoration Party, each with a membership of more than four parliamentary representatives. Our analysis centered on a total of 464 representatives in the Japanese lower house, who were actively serving as of May 2023. To narrow our focus, we collected speeches pertaining to key topics of Defense and Nuclear Power. To facilitate this process, we defined multiple keywords for each topic to query the speeches API. These query words are summarized in tables A.3 and A.4 in the appendix. Employing a refined approach, we fine-tuned a BERT classifier model based on the cl-tohoku/bert-base-japanese-v3 (Tohoku NLP Group, 2023) model, utilizing a self-labeled dataset comprising 1,439 speech segments. The classifier was specifically designed to identify various sentence types, including opinion-based sentences, fact-based sentences, questions, descriptive sentences, and others. However, for the purpose of our analysis, we exclusively extracted opinion-based sentences to create a more nuanced and focused dataset for further examination.
+4. Methodology
+Sentence Segment Dataset
+BERT Classifier
+SBERT Embedder
+Raw Sentence Segments
+Supervised Fine-tuning
+Opinion-based sentence embeddings
+Japanese Legislative Speech API
+● JSDF ● Defence ● Security ●...
+Query Words
+Figure 1: Graphical representation of the embedding phase of the parliamentary speeches
+The methodology employed in this research involved a multistep process for the analysis of parliamentary speeches which are graphically shown in figure 1 and 2. Initially, we collected representatives’ speeches on targeted topics by employing various query words, subsequently refining the dataset by isolating opinion-based speech segments. To gauge the ideological stance of each politician on specific topics, we created an average opinion-based embedding for each representative
+Method 1:Reference Representatives Method 2: Generated References
+Politician embedding space
+Manually Selected Politician 1
+Manually Selected Politician 2
+GPT-4
+SBERT Embedder
+Generate a speech that would come from a Japanese politician who....
+Generated Sentence Embeddings
+Generated Sentence Embedding 2
+Generated Sentence Embedding 2
+Politician embedding space
+Speech Generation Prompt
+Figure 2: Graphical representation of the projection phase of the parliamentary speech embeddings
+for each topic. This involved utilizing the cl-tohoku/bert-basejapanese-v3(Tohoku NLP Group, 2023) model and the SBERT method.(Reimers and Gurevych, 2019)
+To collapse the embedding into a singular dimension, two distinct methods were pursued. In the first approach, we manually selected a representative pair known to hold opposing stances on the topic of interest. Subsequently, we projected all other opinion-based embedding onto the vector extending from one representative in the pair to the other. This method provided a scalar measurement of the ideological proximity of each representative to the reference points.
+In the second method, we leveraged the GPT-4 model by OpenAI. We prompted it to generate 5 speeches that would come from a representative who are for/against the topic of interest(e.g. should Japan keep using nuclear power) and computed the average embedding of the generated sentences for each position. Then, similarly to the previous method, we projected all other opinion-based embedding for each representative onto the vector extending from one reference point to the other.
+Additionally, an analysis of the latent space was conducted by reducing the dimensions of the embedding using the UMAP software. (McInnes et al., 2018) This allowed us to visualize the distribution of opinion-based embedding and generated sentence embedding on a 2D plane. By doing so, we gained insights into the spatial relationships between reference representatives, generated sentences, and the broader dataset, providing a comprehensive understanding of the ideological landscape within the Japanese parliamentary context.
+And finally, we also conducted a qualitative semantic analysis by using the BERTopic method.(Grootendorst, 2022) We first split the projections of the opinion-based embeddings into three groups. These groups were then subjected to BERTopic which allowed us to conduct a detailed examination of the content discussed by different clusters within the dataset. This provided a nuanced understanding of the semantic variations among the groups, offering a qualitative validation of the model’s ability to discern and categorize speeches based on underlying topics.
+4
+
+
+5. Results
+For this study, we explored two contentious issues in Japanese politics. Firstly, we looked at the discussions surrounding the necessity of conducting a public vote to determine whether the constitution should be amended to explicitly acknowledge the existence of the Japan Self-Defense Forces (JSDF). Following Japan’s defeat in WWII, the Japanese constitution has explicitly stated that Japan cannot possess a military power which has become less aligned with reality over the past 80 years. The amendment to the constitution has been supported by right-leaning parties like the LDP and NDP, but opposed by left-leaning parties such as the Japanese Communist Party. The second focal point revolves around the question of whether Japan should re-start nuclear power plants that are deemed safe to operate. Following the nuclear disaster of Fukushima in 2011, the Japanese public has been skeptical of the safety of the plants in an event of natural disaster. At the same time, Japan’s over-reliance on coal and natural gas instead of clean-energy has also sparked discussions in the Japanese political world. Right-leaning parties have been supporting the decision to re-start plants that are deemed to be safe but leftleaning parties have been against it.
+5.1. Projections
+Figure 3 and 4 below show the box plots of politicians collapsed onto the references which are either manually picked or generated. For the topic of defence, we chose politician Tomomi Inada and Akira Kasai who we found to be for and against the acknowledgement of the JSDF in the constitution respectively after manual investigation. For the generated sentences, we prompted GPT-4 to generate a speech that would come from a politician who is for/against the acknowledgement of the JSDF in the Japanese constitution. Similarly, on the topic of nuclear power, we manually picked politician Fumio Kishida and Kazuo Shii who we found to be for and against the re-starting of the nuclear power plants in Japan respectively. We also prompted GPT-4 to generate speeches that would come from a politician who is for/against this point. The exact prompts used can be found in Appendix B.
+(a) Defence collapsed on generated reference points
+(b) Defence collapsed on reference politicians
+Figure 3: Representatives positioned on a pro-contra scale in regards to acknowledgement of the JSDF in the Japanese Constitution
+(a) Nuclear collapsed on generated reference points
+(b) Nuclear collapsed on reference politicians
+Figure 4: Representatives positioned on a pro-contra scale in regards to restarting the NPPs in Japan
+5.2. UMAP analysis
+See figure 5 and 6 for lower the dimension visualizations of the opinion-embeddings. We also have visualized the location of the references with larger circles colored blue and red representing the reference points for and against the topic of interest respectively with a black line joining the reference points. On the plots, we notice that the lines connecting the representative references and the generated references are parallel to each other, indicating that along the displayed line, politician stances change from favourable to unfavourable in regards to the respective topics. More specifically, we see that for the topic of defence the bottom right segment of the plot are representatives who are against the acknowledgement of the JSDF in the constitution and the top left segment are representatives who are for the acknowledgement. Similarly for the topic of nuclear power, we see that politicians who are against the use of nuclear power are on the upper side of the plot and politicians who are for it are on the bottom side.
+(a) Defence collapsed on generated reference points
+(b) Defence collapsed on reference politicians
+Figure 5: UMAP plot of the opinion embeddings of representatives on the topic of acknowledgement of JSDF in the constitution
+5.3. BERTopic results
+In this section we present the interpretations of the BERTopic results we applied on the 3 group segments which are summarized in Table 1 and 2. Here we point out some noticeable observations. The raw Japanese BERTopic results are shown in tables D.6 and D.7 in the appendix.
+5
+
+
+(a) Nuclear collapsed on generated reference points
+(b) Nuclear collapsed on reference politicians
+Figure 6: UMAP plot of the opinion embeddings of representatives on the topic of restarting of NPPs
+• Acknowledgement of JSDF in constitution
+– We see that the group that is against this topic emphasize US bases in Okinawa. This is a common topic that is raised by the group as parties such as the JCP have been advocating for the removal of US bases from Japanese soil.
+– We observe that the group that is favourable of this mentions the risk that surrounds Japan by mentioning the Taiwan strait crisis and the Russian invasion of Ukraine.
+• Restarting of NPPs
+– We notice that the group against the restart of NPPs emphasize the safety and responsibility of operating NPPs as well as the accident.
+– While the group favourable of the restart also talk about the accident and the risks associated with the NPPs, they shift their attention more towards moving forward from the accident
+6. Comparison to the estimations of Mielka
+In this section, we will be discussing the results obtained by our analysis by comparing it to the estimations of Mielka (see Figure 7 and 8 for the policy position estimations of the parties by Mielka(Mielka, 2023). In the process of this research, we reached out to the organization to inquire about their methodology of estimation. They replied that this is done by 3 experts discussing the policy position of the parties by looking at party manifestos and policy summaries and positioning the party upon mutual agreement of the estimation. Note that while their estimation includes all the parties, we have focused on the 6 major parties in Japan. Comparing the estimations of Mielka to our estimations, there are a few observations to be made. Below we summarize these observations for each of the topics.
+6.1. Comparison of Policy Positions - JSDF
+• Our estimations capture the overall positions of the parties.
+Table 1: English Interpretation of BERTopic Results for Defence
+Topics Group 0 Group 1 Group 2 (Left) (Centered) (Right) Topic 0 Japanese Government’s relationship with the US
+Japanese government and people
+US-Japan Relationship and Diplomacy
+Topic 1 US-bases in Okinawa
+Issues surrounding US deployment in Japan
+Taiwan Strait Risk
+Topic 2 Parties in Japanese Diet
+International Condition Surrounding Japan
+Accidents caused by helicopters of JSDF Topic 3 Selfsustainability of Japan and Diplomacy
+Funding of JSDF
+Ukraine Aid and Natural disaster aid
+Topic 4 Increased funding of JSDF
+Japanese law and limits of JSDF activities
+Diplomacy and Military Deterrent
+Table 2: English Interpretation of BERTopic Results for Nuclear Power
+Topics Group 0 Group 1 Group 2 (Left) (Centered) (Right) Topic 0 Accident of Power Plant
+Accident and Electricity Supply
+Accident and Energy
+Topic 1 Fukushima Accident and Responsibilities
+Damages caused by Fukushima accident
+Damages of Fukushima Disaster
+Topic 2 Government and Enterprises
+Accident, Chenobyl and the learnings
+Fukushima Disaster and Challenges
+Topic 3 Assurance of Safety
+3.11 Earthquake and Responses
+Local area of Fukushima and longterm solution Topic 4 (Uninterpretable)
+(Uninterpretable)
+Russian Invasion of Ukraine and attack on Zaporizhzhya NPP
+6
+
+
+– The JCP and CDP who are estimated by Mielka to be against the acknowledgement of JSDF are also positioned on the left side by our estimation.
+– The LDP, Komeito, JRP, and NDP who are estimated by Mielka to be relatively pro-acknowledgement of JSDF are positioned on the right side by our estimation.
+6.2. Comparison of Policy Positions - NPP
+• Our estimations capture the overall positions of the parties.
+– JCP and CDP who are estimated by Mielka to be against the re-starting of NPPs are positioned on the left side as well by our estimation.
+– Komeito, JRP, and NDP who are estimated to be relatively neutral in regards to restart of NPPs are positioned centrally by our estimation.
+– LDP who are known to be favourable of restarting the NPPs are placed to the right.
+7. Limitation of our findings
+In this section, we discuss some limitations of our methodology and validation process.
+7.1. Representing each legislator as a single embedding
+In our methodology, we are representing each representative as a single embedding by taking the average of the embeddings of the opinion-based sentences spoken by the representative in the past. Therefore in this methodology, if a representative changes their political stance suddenly, their stance-embedding is going to be skewed by their speeches from the past. This could be improved by weighting the more recent speeches more compared to the older speeches but this is something to be explored by future research.
+7.2. Discrepancy to the estimations of Mielka
+By comparing the estimations by Mielka to our estimations, we notice that they do not mirror each other perfectly despite being generally similar in terms of party positions. Here we discuss possible explanations for this discrepancy.
+7.2.1. Parties paint a specific picture about themselves
+We notice that there are some discrepancies on the relative positions of the parties between our estimations and the estimations by Mielka. For example for the topic of acknowledgement of the JSDF, while Komeito is positioned more centrally by Mielka, by our estimation it is positioned more proacknowledgement. This discrepancy suggests that some parties are advertising themselves in a certain way through mediums which are more visible to the public (e.g., party manifestos, policy summaries) which might not necessary be aligned with their utterances in the diet. Since the estimations of Mielka are based on the party manifestos and policy summaries published by the parties themselves, their estimations might not accurately reflect the stances taken by the representatives in the diet.
+7.2.2. Legislators are not created equally
+Members of parties do not have an equal say in the manifestos and policies published by the parties. Parties follow a strict hierarchical structure based on the number of elections of representatives and the positions held by members. However, our box plots do not take this into account and treat all representative equally. Since the Mielka estimations are based on the party manifestos, it is possible that their estimations are skewed towards representatives with more influence in the party.
+7.3. LLMs are black-boxes
+We do not know the text corpora that was used to train the LLM and the bias introduced during the training process. This is an inevitable issue that comes with using a third-party pretrained LLM in any research. However during our research, we have made the effort to visualize the embeddings of the LLM and interpret how the LLM is embedding the documents. We believe that through this effort, we were able to present the embeddings in a human-understandable manner.
+Figure 7: Policy Position Estimations By Mielka on Acknowledgement of JSDF in Constitution (Mielka, 2023)
+Figure 8: Policy Position Estimations by Mielka on Restarting NPPs (Mielka, 2023)
+7
+
+
+8. Conclusion
+Methods leveraging the latent knowledge of LLMs are most likely going to be the main methodology going forward to analyze political text due to their accessibility and reliability for political scientists. This paper showcased that we are able to retrieve political ideological scaling purely from the utterances of individual politicians in the parliament that align with preexisting expert predictions. This makes the research of political text significantly easier for researchers as they no longer need to fit their own model to political text which will require computational power and high level programming knowledge. In the future, we see this methodology being extended in two directions. The first is to analyze the change in ideological stance of politicians over-time, similar to the works of Rheault and Cochrane and Gentzkow et al.. Being able to quantitatively express the shift in political ideology is going to be a valuable measure for the public and researchers. In this paper, we have only shown our methodology in the context of Japanese politics. But applying and verifying our result in other parliamentary systems would help validate our methodology further.
+Appendix A. Query words
+Table A.3: English translations of query words
+Topic Query Words Defence JSDF, Defence, Security, Collective Self-Defence, Military Power Nuclear Power Nuclear, Nuclear Power Plant, Decommissioning, Restarting, Baseload
+Table A.4: Japanese query words
+Topic Query Words
+防衛 自衛隊,集団的自衛権,安全保障,軍事力,防 衛
+原発 原子,原発, 廃炉,再稼働,ベースロード
+Appendix B. GPT-prompts
+自衛隊を憲法に明記することに賛成な政治家の 答弁を作ってください。
+English Translation: Please write a response from a politician who is in favor of acknowledging the SelfDefense Forces in the Constitution.
+原発の再稼働に賛成な政治家の答弁を作ってく ださい。
+English Translation: Please write a response from a politician who is in favor of restarting nuclear power plants.
+Appendix C. Party Names and Abbreviations
+Table C.5: Party names and abbreviations
+Party Name(JP) Party Name(EN) Abbreviation 自由民主党 Liberal Democratic Party
+LDP
+国民民主党 National Democratic Party
+NDP
+立憲民主党 Constitutional Democratic Party
+CDP
+日本共産党 Japanese Communist Party
+JCP
+公明党 Komeito Komeito 日本維新の会 Japan Restoration Party
+JRP
+8
+
+
+Appendix D. Raw BERTopic results
+Table D.6: BERTopic Results for Defence
+Topics Group 0 Group 1 Group 2 (Left) (Centered) (Right) Topic 0 ’わけ’, ’国’, ’大臣’, ’法’, ’政 府’, ’ア メ リ カ’, ’庁’, ’国民’, ’場合’, ’話’
+’日本’, ’国’, ’中’, ’国民’, ’大 臣’, ’問 題’, ’御’, ’庁’, ’状況’, ’性’
+’国’, ’大臣’, ’中’, ’省’, ’環境’, ’御’, ’国 際’, ’国 務’, ’国 民’, ’日米’ Topic 1 ’国’, ’理事’, ’沖 縄’, ’早 期’, ’環 境’, ’不’, ’体制’, ’等’, ’改革’, ’性’
+’法’, ’日本’, ’問 題’, ’自 民’, ’案’, ’ア メ リ カ’, ’基 地’, ’米 軍’, ’項’, ’大臣’
+’台 湾’, ’社 会’, ’海 峡’, ’国 際’, ’挑 発’, ’全 体’, ’脅威’, ’国’, ’行 為’, ’一 連’ Topic 2 ’党’, ’自民’, ’政 権’, ’維 新’, ’民 主’, ’民進’, ’会’, ’立 場’, ’安 倍’, ’法’
+’環境’, ’国’, ’課 題’, ’同 盟’, ’国 際’, ’地 域’, ’体 制’, ’中’, ’化’, ’ア ジ ア’
+’事 故’, ’再 発’, ’存 立’, ’住 民’, ’職 責’, ’省’, ’原 因’, ’重 み’, ’墜 落’, ’ヘ リ コ プ ター’ Topic 3 ’食 料’, ’自 給’, ’政 策’, ’責 任’, ’前 進’, ’大 臣’, ’率’, ’外交’, ’王道’, ’性’
+’財源’, ’省’, ’年度’, ’御’, ’庁’, ’国民’, ’予算’, ’円’, ’施 設’, ’収 入’
+’所 存’, ’課 題’, ’全 力’, ’省’, ’災害’, ’ウ ク ラ イ ナ’, ’救 援’, ’大 臣’, ’援 助’, ’コ ロ ナ’ Topic 4 ’費’, ’財源’, ’%’, ’予算’, ’剰 余’, ’決 算’, ’円’, ’増’, ’歳出’, ’予備’
+’場合’, ’国’, ’要件’, ’法’, ’最 小’, ’目 的’, ’第’, ’大 臣’, ’限 度’, ’行為’
+’能 動’, ’分 野’, ’外 交’, ’未 然’, ’国 力’, ’危 機’, ’交 渉’, ’最 大’, ’国 際’, ’帰属’
+Table D.7: BERTopic Results for Nuclear Power
+Topics Group 0 Group 1 Group 2 (Left) (Centered) (Right) Topic 0 ’問題’, ’中’, ’力’, ’本当’, ’ふ う’, ’わ け’, ’事 故’, ’話’, ’大臣’, ’法’
+’力’, ’事 故’, ’ふ う’, ’わ け’, ’日 本’, ’エネル ギ ー’, ’国’, ’性’, ’政策’, ’電力’
+’エ ネ ル ギ ー’, ’御’, ’中’, ’大臣’, ’性’, ’わけ’, ’国’, ’問題’, ’事 故’, ’国 務’ Topic 1 ’事 故’, ’エ ネ ル ギ ー’, ’力’, ’国民’, ’第’, ’国’, ’大’, ’責任’, ’福 島’, ’東 京’
+’力’, ’者’, ’事故’, ’国’, ’事 業’, ’損 害’, ’会’, ’政府’, ’性’, ’法’
+’等’, ’国’, ’者’, ’会’, ’性’, ’事故’, ’損 害’, ’研 究’, ’所’, ’政策’
+Topic 2 ’声’, ’中’, ’世 界’, ’政 府’, ’極 論’, ’基’, ’頭’, ’経 営’, ’2’, ’企業’
+’事故’, ’力’, ’人 類’, ’パ ネ ル’, ’国 家’, ’チェル ノ ブ イ リ’, ’工 程’, ’日 本’, ’教 訓’, ’イギリス’
+’福島’, ’最’, ’第’, ’経済’, ’水’, ’課題’, ’事 故’, ’産 業’, ’全 力’, ’所’
+Topic 3 ’長’, ’力’, ’田’, ’更’, ’当 時’, ’現 実’, ’機 構’, ’神話’, ’会’, ’保安’
+’第’, ’事故’, ’震災’, ’水’, ’東’, ’日本’, ’電 力’, ’東 京’, ’取 扱 い’, ’対策’
+’地 域’, ’災 害’, ’福 島’, ’中 長 期’, ’者’, ’本 格’, ’事 故’, ’方 々’, ’被 害’, ’県’ Topic 4 ’法’, ’案’, ’一 気’, ’前 回’, ’回 帰’, ’イ エ ス’, ’は ず’, ’与 党’, ’ノ ー’, ’審議’
+’中 長 期’, ’方 向’, ’対 立’, ’項’, ’最大’, ’脱’, ’性’, ’力’, ’基 本’, ’過 半’
+’ロ シ ア’, ’攻 撃’, ’ウ ク ラ イ ナ’, ’ザ ポ リ ー ジ ャ’, ’即 座’, ’行 為’, ’施 設’, ’暴 挙’, ’一 連’, ’所’
+9
+
+
+References
+Catalinac, A., 2018. Positioning under alternative electoral systems: Evidence from japanese candidate election manifestos. American Political Science Review 112, 31–48. doi:10.1017/S0003055417000399.
+Curini, L., Hino, A., Osaka, A., 2020. The intensity of government–opposition divide as measured through legislative speeches and what we can learn from it: Analyses of japanese parliamentary debates, 1953–2013. Government and Opposition 55, 184–201. doi:10.1017/gov.2018.15. Diaf, S., Do ̈pke, J., Fritsche, U., Rockenbach, I., 2022. Sharks and minnows in a shoal of words: Measuring latent ideological positions based on text mining techniques. European Journal of Political Economy 75, 102179. doi:https://doi.org/10.1016/j.ejpoleco.2022.102179.
+Gentzkow, M., Shapiro, J.M., Taddy, M., 2019. Measuring group differences in high-dimensional choices: Method and application to congressional speech. Econometrica 87, 1307–1340. URL: https://onlinelibrary.wiley. com/doi/abs/10.3982/ECTA16566, doi:https://doi.org/10.3982/ ECTA16566.
+Grootendorst, M., 2022. Bertopic: Neural topic modeling with a class-based tf-idf procedure. arXiv preprint arXiv:2203.05794 . van Lange, M., Futselaar, R., 2019. Debating evil: Using word embeddings to analyze parliamentary debates on war criminals in the netherlands. Contributions to Contemporary History 59, 140–156. doi:10.51663/pnz.59.1. 07.
+Laver, M., Benoit, K., Garry, J., 2003. Extracting policy positions from political texts using words as data. American Political Science Review 97, 311–331. doi:10.1017/S0003055403000698.
+McInnes, L., Healy, J., Saul, N., Grossberger, L., 2018. Umap: Uniform manifold approximation and projection. The Journal of Open Source Software 3, 861. Mens, G.L., Gallego, A., 2023. Scaling political texts with chatgpt. arXiv:2311.16639.
+Mielka, 2023. Policy Comparison. URL: https://japanchoice.jp/ policy-comparison.
+Nanni, F., Glavas, G., Rehbein, I., Ponzetto, S.P., Stuckenschmidt, H., 2021. Political text scaling meets computational semantics. arXiv:1904.06217. Poole, K.T., Rosenthal, H., 1985. A spatial model for legislative roll call analysis. American Journal of Political Science 29, 357–384. URL: http://www.jstor.org/stable/2111172.
+Poole, K.T., Rosenthal, H., 2001. D-nominate after 10 years: A comparative update to congress: A political-economic history of roll-call voting. Legislative Studies Quarterly 26, 5–29. URL: http://www.jstor.org/stable/ 440401.
+Pujari, R., Goldwasser, D., 2021. Understanding politics via contextualized discourse processing. arXiv:2012.15784. Rashed, A., Kutlu, M., Darwish, K., Elsayed, T., Bayrak, C., 2022. Embeddings-based clustering for target specific stances: The case of a polarized turkey. arXiv:2005.09649.
+Reimers, N., Gurevych, I., 2019. Sentence-bert: Sentence embeddings using siamese bert-networks. arXiv:1908.10084. Rheault, L., Cochrane, C., 2020. Word embeddings for the analysis of ideological placement in parliamentary corpora. Political Analysis 28, 112–133. doi:10.1017/pan.2019.26.
+Slapin, J.B., Proksch, S.O., 2008. A scaling model for estimating time-series party positions from texts. American Journal of Political Science 52, 705722. URL: http://www.jstor.org/stable/25193842.
+Tohoku NLP Group, 2023. tohoku-nlp/bert-base-japanese-v3. URL: https: //huggingface.co/tohoku-nlp/bert-base-japanese-v3.
+Wu, P.Y., Nagler, J., Tucker, J.A., Messing, S., 2023. Large language models can be used to estimate the latent positions of politicians. arXiv:2303.12057.
+10

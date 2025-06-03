@@ -1,0 +1,706 @@
+Reassessing the Role of Chain-of-Thought in
+Sentiment Analysis: Insights and Limitations
+Kaiyuan Zheng1, Qinghua Zhao2,3, and Lei Li3,4
+1 Beijing Normal University, Zhuhai Campus, Zhuhai, China zhky@mail.bnu.edu.cn
+2 SAIBD, Hefei University, Hefei, China SKLSDE, Beihang University, Beijing, China zhaoqh@buaa.edu.cn
+3 University of Washington, Seattle, USA University of Copenhagen, Copenhagen, Denmark lilei@di.ku.dk
+Abstract. The relationship between language and thought remains an unresolved philosophical issue. Existing viewpoints can be broadly categorized into two schools: one asserting their independence, and another arguing that language constrains thought. In the context of large language models, this debate raises a crucial question: Does a language model’s grasp of semantic meaning depend on thought processes? To explore this issue, we investigate whether reasoning techniques can facilitate semantic understanding. Specifically, we conceptualize thought as reasoning, employ chain-of-thought prompting as a reasoning technique, and examine its impact on sentiment analysis tasks. The experiments show that chain-of-thought has a minimal impact on sentiment analysis tasks. Both the standard and chain-of-thought prompts focus on aspect terms rather than sentiment in the generated content. Furthermore, counterfactual experiments reveal that the model’s handling of sentiment tasks primarily depends on information from demonstrations. The experimental results support the first viewpoint.
+Keywords: Language Models · Sentiment Analysis · Chain-of-Thought.
+1 Introduction
+In the realms of linguistics and cognitive science, the relationship between language and thought has long been a subject of profound inquiry and debate. Two contrasting viewpoints have emerged in this discourse. [4] argues for the independence of language and thought, positing that language serves merely as a vessel for thought, with each entity distinct and separate. In stark contrast, [22] proposes a more intricate relationship, suggesting that “the limits of my language mean the limits of my world”. This perspective implies that the scope of our thoughts is fundamentally constrained by the language we possess to express them. The tension between these divergent views raises a critical question in the context of contemporary artificial intelligence: To what extent a language model’s capacity is to grasp semantic meaning underlying thought processes?
+arXiv:2501.08641v1 [cs.CL] 15 Jan 2025
+
+
+2 K. Zheng et al.
+philosophy
+language
+experiment
+result
+semantic
+thought
+sentiment <-> reasoning
+SA COT
+pos
+debate
+question
+small (2b)
+large (7b、8b、27b)
+COT vs standard
+neu neg
+shifts varities
+Language and thought are independent of each other (Fedorenko,2024)
+The limits of language are the limits of thought (Wittgenstein,2023)
+Does a language model’s grasp of semantic meaning depend on thought processes?
+<->
+language
+thought
+<->
+Fig. 1: The framework of our work.
+To answer the aforementioned question, we propose an experimental approach that examines tasks not explicitly reliant on reasoning abilities and evaluates whether providing additional reasoning information enhances model performance. The overall framework of our work is shown in Figure 1. We focus on aspect-based sentiment analysis (ABSA), a task that requires predicting the sentiment of specific aspect terms within reviews containing multiple aspect terms with varying sentiments. We integrate the chain-of-thought (CoT) prompting method to stimulate the model’s reasoning capabilities in this context. Our approach conceptualizes sentiment evolution as the reasoning path and the overall sentiment of the review as the reasoning outcome. Through this lens, we explore the relationship between language and thought. This indirect exploration is grounded in the following interconnections:
+• Sentiment Analysis and Language: Sentiment analysis (SA) tasks fundamentally rely on the direct comprehension of language. • Reasoning and Thought: The CoT method guides the model to generate answers through step-by-step reasoning, thereby stimulating the model’s reasoning ability. We posit that this reasoning ability is a concrete manifestation of thought. • Sentiment Analysis and Reasoning: Drawing from psychological “Cognitive Load Theory”, we hypothesize that activating reasoning abilities helps achieve a deeper sentiment understanding.
+We selected two widely-used public ABSA datasets. Recognizing the limitations of these datasets in terms of emotional complexity, granularity, and dynamism, we also manually constructed a more nuanced emotion dataset. We designed three CoT formats, incorporating both natural language and symbolic language. After analyzing the adaptation of CoT for SA tasks, we constructed a more complex dataset with diverse emotions and shifts to explore CoT’s role in semantic understanding. We found that CoT has minimal impact on sentimentoriented semantic tasks. To gain deeper insights, we further analyzed the attention changes between model inputs and outputs and explored whether the
+
+
+Reassessing the Role of CoT in SA: Insights and Limitations 3
+model’s semantic understanding of sentiments stems from pre-training or demonstrations.
+2 Related work
+This paper involves analyzing SA tasks using CoT to determine whether the task leverages the model’s reasoning ability, touching on reasoning (one kind of thought) and language. Therefore, the related work includes language and thought, chain-of-thought, and sentiment analysis.
+Language and Thought. [4] found that language and thought are dissociated in the human brain. They discovered a schematic representation of the response profile of the language network (for example, as measured by fMRI). This network responds strongly to language comprehension and production but not to non-linguistic tasks that require thinking and reasoning. Therefore, they argue that language is a tool for communication, not for thinking, and that there is a clear distinction between the language system and various systems involved in thinking and reasoning. However, according to Wittgenstein, his famous idea, “The limits of my language mean the limits of my world”, can be interpreted as thought being constrained by the structure and scope of language [22]. If we cannot express something in language, we cannot fully grasp or conceptualize it in thought. This notion implies that language doesn’t just communicate thoughts but also forms the boundaries of our cognitive processes.
+Chain-of-Thought. CoT is an advanced form of in-context learning [1], designed to guide language models in generating coherent sequences of intermediate reasoning steps [20]. By providing step-by-step problem-solving processes in exemplars, CoT aims to lead models towards more accurate and justifiable answers to complex questions. This approach is particularly relevant to tasks requiring higher-level cognitive abilities, bridging the gap between language processing and thought-based reasoning.
+Interpretability in Sentiment Analysis. Recent research has extensively explored the performance of large language models (LLMs) in SA tasks. [25] highlighted the critical role of emotionally charged adjectives in determining overall sentiment, while [21] investigated whether LLMs rely more on pre-trained knowledge or in-context exemplars when addressing SA tasks. [8] utilized the SST-2 sentiment analysis benchmark to elucidate in-context learning mechanisms through the construction of contrastive examples. Notably, [5] pioneered the application of CoT to implicit SA, demonstrating the significant role of reasoning in this domain. Further applications of CoT in SA include the work of [14], who employed CoT to address emotion states and causes in conversations using six basic emotions. Similarly, [6] integrated CoT-style prompts into ABSA, consolidating reasoning steps within single exemplars. Despite these advancements, intriguing findings by [19] and [26] revealed that shuffling word order in SA tasks results in only marginal performance drops. This also raises another critical question: if word order has limited impact on SA, to what extent is reasoning ability necessary for these tasks?
+
+
+4 K. Zheng et al.
+Table 1: Illustrative examples from the Laptop dataset. Italics represent the aspect, and green highlight represents its sentiment. Laptop Examples
+Explicit Sentence: Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work. Overall Sentiment: Negative
+Implicit Sentence: Also, in using the built-in camera, my voice recording for my vlog sounds like interplanetary transmissions in the “Star Wars” saga. Overall Sentiment: Negative
+3 Experimental Setup
+This section outlines the LLMs, datasets, and prompts employed in our experimental framework.
+3.1 Models
+Our experiments utilize a range of models varying in size and architecture, including Gemma-2 (2B, 9B, 27B) [18] and LLaMA-3 8B [3]. These models were deployed on two A800 GPUs, each equipped with 80GB of memory, and operated in float32 precision to ensure optimal performance and accuracy.
+3.2 Datasets
+For our analysis, we selected two widely recognized ABSA datasets from SemEval2014 [13]: the Laptop and Restaurant datasets. Refer to Table 1 for examples. To align more closely with our research objectives, we applied a set of criteria to select test samples.
+• Text length: We prioritized longer text samples to ensure comprehensive semantic expression and sufficient scope for sentiment shifts. • Sentiment dynamics: Selected samples exhibit sentiment changes to assess the model’s capacity for understanding aspect sentiment. • Complexity: Each sample contains a minimum of two aspects and two sentiment changes to ensure sufficient complexity. • Sentiment split: Following [7], we categorized the samples into explicit and implicit splits. Explicit data contains direct expressions of sentiment or emotion, where the sentiment is clearly articulated (e.g., “Just ten minutes away from you makes me want to cry”). In contrast, implicit data captures more nuanced cues where sentiment is indirectly conveyed through context or subtler language (e.g., “I miss you”).
+3.3 CoT-style prompts
+For standard prompts, we directly construct it by concatenating the input question and answers. For CoT-style prompts, we require them to describe each
+
+
+Reassessing the Role of CoT in SA: Insights and Limitations 5
+aspect sentiment one by one. Different CoT-style prompts can lead to significant performance differences. Even when prompts are semantically similar, LLMs may generate vastly different responses [9,11]. Therefore, to avoid the experimental conclusions being biased by a specific prompt,we tested three different versions of the CoT strategy, covering various levels from natural language expression to symbolic representation. Specifically, the first version we used is a purely natural language-based CoT, which relies entirely on natural language to express the reasoning process for sentiment polarity. This version aims to simulate the sentiment reasoning process used in everyday human language, emphasizing the naturalness and coherence of language, called CoT-v1. The third version is a symbol-based CoT, where symbols and logical expressions are used to describe sentiment polarity shifts, reducing the reliance on natural language and placing a stronger emphasis on the logical aspects, named CoT-v3. Additionally, we employed a hybrid CoT, which strikes a balance between the two approaches, combining natural and symbolic language to balance the naturalness of language expression with the logical rigor of reasoning, named CoT-v2. Examples of the different versions are shown in Table 2.
+4 Experiments
+This section delineates our experimental framework designed to address four pivotal research questions:
+• RQ-1: What is the adaptation of CoT on SA? • RQ-2: Is it conflict or consistency with more complex emotions? • RQ-3: How does CoT affect the correlation between input questions and output tokens? • RQ-4: Does the model rely on knowledge acquired during the pre-training or in the CoT exemplars?
+4.1 RQ-1: Adaptation of CoT in SA
+To investigate whether reasoning techniques can enhance semantic understanding, we examined the impact of CoT on SA tasks. As shown in Figure 2, we reported results of CoT-v1 across four models, six shot settings, and two datasets with explicit and implicit splits. Our findings reveal that: CoT yields improvements for the smallest model (Gemma2-2b) and in 1-shot scenarios. For instance, on the implicit split of Laptop dataset with Gemma2-2b and 1-shot, accuracy increased from 0.24 (standard prompt) to 0.62 (CoT-v1). However, for larger models, CoT’s impact on SA is minimal. This limited improvement may be attributed to the relative simplicity of SA tasks for current LLMs, which already achieve high accuracy (>0.95) with standard prompts. Besides, as the number of demonstrations increases, CoT’s effectiveness diminishes. For example, the improvement for Gemma2-27b on the explicit split of Restaurant dataset drops from 0.18 (1-shot) to 0.0 (18-shot).
+
+
+6 K. Zheng et al.
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.70
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.70
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+2b 8b 9b 27b
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+Base(explicit) CoT-v1(explicit)
+Base(implicit) CoT-v1(implicit)
+Fig. 2: Overall accuracy across datasets and shots. The top row presents results for the Laptop, while the bottom row shows the Restaurant. Each row displays accuracy values for 1-, 4-, 8-, 12-, 15-, and 18-shot settings, respectively.
+2b 8b 9b 27b Truth
+Truth 27b 9b 8b 2b
+1.00
+0.01 1.00
+0.01 0.52 1.00
+0.01 0.72 0.44 1.00
+0.01 0.48 0.58 0.73 1.00 2b 8b 9b 27b Truth
+Truth 27b 9b 8b 2b
+1.00
+0.01 1.00
+0.05 0.26 1.00
+0.01 0.20 0.64 1.00
+0.02 0.22 0.36 0.65 1.00 2b 8b 9b 27b Truth
+Truth 27b 9b 8b 2b
+1.00
+0.10 1.00
+0.26 0.44 1.00
+0.01 0.31 0.25 1.00
+0.07 0.53 0.58 0.55 1.00 2b 8b 9b 27b Truth
+Truth 27b 9b 8b 2b
+1.00
+0.01 1.00
+0.41 0.27 1.00
+0.08 0.07 0.16 1.00
+0.02 0.13 0.19 0.41 1.00
+Fig. 3: Agreement (Cohen’s Kappa value, treated as weights for majority voting) between model predictions and ground truth across datasets and sentiment types (1-shot setting). From left to right: Laptop (explicit), Laptop (implicit), Restaurant (explicit), and Restaurant (implicit).
+It is important to note that our experimental design required an additional step due to the absence of ground-truth overall sentiment in the Laptop and Restaurant datasets. To address this, we implemented a post-hoc analysis using a weighted majority voting method to establish proxy ground-truths. Figure 3 shows the agreements. It can be observed that larger models (such as Gemma2-27b) show higher agreement with true labels, whereas smaller models (such as Gemma2-2b) exhibit lower agreement, e.g, 0.73 vs. 0.01. Furthermore, across different model sizes, implicit sentiment generally shows lower agreement with ground-truth compared to explicit sentiment, based on the agreement results from the above experiments, a weight is assigned to each model’s voting.
+4.2 RQ-2: Conflict or consistency?
+To further test the impact of CoT on SA tasks, we constructed a emotional analysis dataset with higher emotional complexity, yielding results consistent with the Laptop and Restaurant datasets. Additionally, we explored the effect of the number of emotion categories and the count of emotional shifts on model performance.
+Construction of multi-emotion shift dataset. To facilitate this investigation, we manually constructed a novel multi-emotion shift dataset (MES) featuring fine-grained emotional expressions. This dataset is characterized by texts containing multiple emotion types and frequent emotional shifts within single narratives. Given the complexity and often overlapping nature of human
+
+
+Reassessing the Role of CoT in SA: Insights and Limitations 7
+emotions, we focused on six distinct major emotional categories: fear, happiness, anxiety, jealousy, loneliness, and shame. These emotions were contextualized within various scenarios including work environments, public transportation, entertainment activities, social interactions, and dining experiences. We created 100 emotion-shift texts, each incorporating at least two emotional transitions. These narratives were crafted to reflect real-life situations, maintaining a balance between scenario continuity and cross-scenario coherence. This approach ensures both the representativeness of the dataset and its suitability for exploring the impact of emotional complexity on model reasoning capabilities. Conflict increases difficulty. Figure 4 illustrates the relationship between overall accuracy and emotional complexity, considering both the number of emotion categories and the frequency of emotional shifts within texts. Our findings reveal a consistent trend across most models:
+• Models demonstrate lower accuracy when texts contain more frequent emotional shifts. For instance, Gemma2-9b’s accuracy decreases from 0.92 to 0.78 as the number of emotional shifts increases from 2 to 3. • Similarly, accuracy declines with an increase in the number of emotion categories present in a text. Gemma2-9b shows a drop in accuracy from 0.81 to 0.73 when the number of emotion categories increases from 3 to 4.
+These results suggest both the frequency of emotional shifts and the diversity of emotion categories contribute to the complexity of SA tasks. Texts with fewer emotional shifts and a more limited range of emotion categories (i.e., exhibiting greater emotional consistency) appear to be more manageable for the models.
+2 Turns 3 Turns
+Number of Turns
+0.60
+0.65
+0.70
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+2b 8b 9b 27b
+3 Emotions 4 Emotions
+Number of Emotions
+0.60
+0.65
+0.70
+0.75
+0.80
+0.85
+0.90
+0.95
+1.00
+Overall Accuracy
+2b 8b 9b 27b
+Fig. 4: Model accuracy as a function of emotion shifts and categories. Results shown for 4-shot CoT-v1 on the MES dataset.
+4.3 RQ-3: Correlation between Input and Output Tokens
+This section further explores how input interacts with output tokens when using CoT. We approach this question by analyzing the similarities between input questions and generated answers. Figures 5 and 6 illustrate our findings, which reveal several key insights: Firstly, the explicit split demonstrates a stronger similarity between sentiment words in the output and input text. In contrast, the implicit split does not exhibit
+
+
+8 K. Zheng et al.
+such clear patterns. Moreover, the similarity between input text and aspect words is generally higher than the similarity between input text and corresponding aspect sentiments. Additionally, the standard prompt and various CoT versions maintained a generally consistent similarity between the overall sentiment of the output and the input text. This suggests that CoT may not have substantially influenced the model’s interpretation of sentiment in the input text.
+Becausethe
+speed is
+positive , the light is
+positive , and the
+simplicityis
+positive ,
+thereforethe
+overall
+sentimentis
+positive . Output Text
+it ' s fast , light , and simple to use .
+Input Text
+0.75 0.79 0.78 0.68 0.70 0.69 0.75 0.75 0.66 0.71 0.69 0.74 0.79 0.75 0.71 0.71 0.66 0.70 0.70 0.67 0.62 0.70 0.70 0.66 0.69 0.76 0.75 0.69 0.69 0.69 0.74 0.74 0.68 0.72 0.71 0.73 0.77 0.73 0.71 0.71 0.67 0.68 0.70 0.65 0.62 0.71 0.69 0.68 0.67 0.71 0.70 0.64 0.67 0.66 0.71 0.69 0.61 0.69 0.68 0.70 0.72 0.68 0.66 0.69 0.65 0.68 0.67 0.63 0.61 0.65 0.67 0.65 0.65 0.73 0.75 0.66 0.67 0.65 0.71 0.73 0.64 0.69 0.66 0.69 0.74 0.71 0.67 0.68 0.63 0.64 0.65 0.61 0.58 0.66 0.66 0.62 0.57 0.69 0.69 0.71 0.61 0.65 0.66 0.68 0.64 0.60 0.65 0.64 0.67 0.64 0.63 0.59 0.62 0.59 0.60 0.54 0.51 0.62 0.59 0.61 0.61 0.73 0.75 0.69 0.65 0.66 0.73 0.74 0.64 0.66 0.66 0.69 0.73 0.70 0.65 0.65 0.62 0.63 0.62 0.56 0.53 0.62 0.63 0.62 0.57 0.68 0.69 0.65 0.59 0.65 0.67 0.70 0.81 0.63 0.68 0.65 0.69 0.67 0.64 0.60 0.62 0.58 0.59 0.53 0.52 0.59 0.58 0.61 0.63 0.73 0.75 0.68 0.66 0.67 0.75 0.76 0.71 0.69 0.70 0.74 0.75 0.73 0.67 0.67 0.64 0.65 0.64 0.59 0.56 0.63 0.64 0.62 0.61 0.71 0.73 0.65 0.65 0.64 0.71 0.74 0.67 0.67 0.67 0.70 0.74 0.72 0.66 0.66 0.63 0.63 0.63 0.58 0.55 0.62 0.64 0.61 0.60 0.71 0.72 0.66 0.61 0.66 0.68 0.71 0.68 0.63 0.69 0.67 0.73 0.73 0.74 0.64 0.65 0.61 0.62 0.57 0.55 0.63 0.62 0.65 0.57 0.66 0.68 0.59 0.59 0.58 0.64 0.69 0.60 0.61 0.61 0.64 0.69 0.70 0.66 0.61 0.58 0.58 0.58 0.55 0.52 0.58 0.59 0.56 0.63 0.70 0.69 0.67 0.63 0.67 0.67 0.67 0.65 0.64 0.70 0.69 0.72 0.70 0.70 0.65 0.67 0.64 0.64 0.58 0.57 0.66 0.63 0.69
+0.55
+0.60
+0.65
+0.70
+0.75
+0.80
+The
+sentiment
+polarityof (
+speed,
+light ,
+simple) goes
+through(
+positive,
+positive,
+positive) in
+sequence. Andthe
+overall
+sentimentis
+positive. Output Text
+it ' s fast , light , and simple to use .
+Input Text
+0.76 0.60 0.43 0.65 0.74 0.59 0.65 0.73 0.62 0.71 0.61 0.62 0.61 0.69 0.52 0.61 0.68 0.64 0.69 0.60 0.66 0.61 0.65 0.70 0.70 0.62 0.59 0.67 0.68 0.64 0.71 0.58 0.44 0.66 0.72 0.58 0.65 0.71 0.63 0.69 0.61 0.63 0.62 0.69 0.53 0.63 0.67 0.66 0.68 0.61 0.66 0.62 0.67 0.68 0.70 0.60 0.58 0.68 0.67 0.66 0.67 0.56 0.42 0.61 0.67 0.59 0.61 0.67 0.58 0.65 0.58 0.61 0.59 0.66 0.57 0.61 0.65 0.63 0.66 0.58 0.63 0.61 0.61 0.63 0.65 0.57 0.56 0.62 0.63 0.62 0.67 0.55 0.41 0.61 0.68 0.57 0.62 0.72 0.60 0.69 0.58 0.58 0.57 0.64 0.47 0.58 0.64 0.60 0.64 0.55 0.60 0.58 0.61 0.63 0.65 0.57 0.55 0.62 0.63 0.60 0.58 0.49 0.36 0.56 0.62 0.52 0.70 0.65 0.60 0.60 0.56 0.51 0.52 0.57 0.42 0.57 0.57 0.59 0.57 0.54 0.57 0.51 0.58 0.57 0.59 0.50 0.48 0.58 0.56 0.58 0.63 0.51 0.37 0.57 0.68 0.61 0.66 0.73 0.60 0.69 0.56 0.56 0.56 0.62 0.50 0.57 0.63 0.59 0.63 0.55 0.60 0.54 0.59 0.61 0.63 0.53 0.51 0.59 0.61 0.59 0.57 0.47 0.35 0.53 0.60 0.54 0.64 0.68 0.81 0.64 0.59 0.50 0.49 0.56 0.44 0.57 0.57 0.60 0.56 0.53 0.54 0.50 0.57 0.56 0.57 0.48 0.48 0.55 0.55 0.57 0.66 0.53 0.39 0.59 0.68 0.61 0.65 0.75 0.68 0.74 0.59 0.57 0.56 0.63 0.50 0.58 0.65 0.61 0.65 0.56 0.61 0.55 0.61 0.65 0.65 0.55 0.53 0.60 0.62 0.59 0.64 0.52 0.40 0.58 0.66 0.57 0.63 0.73 0.64 0.71 0.57 0.56 0.56 0.61 0.47 0.57 0.64 0.60 0.63 0.55 0.58 0.54 0.59 0.62 0.64 0.55 0.53 0.59 0.62 0.58 0.62 0.52 0.37 0.58 0.64 0.55 0.64 0.69 0.65 0.68 0.72 0.55 0.52 0.59 0.45 0.59 0.60 0.62 0.60 0.57 0.58 0.54 0.62 0.58 0.61 0.52 0.52 0.59 0.59 0.62 0.59 0.49 0.35 0.54 0.59 0.50 0.56 0.67 0.57 0.67 0.61 0.52 0.49 0.56 0.41 0.51 0.56 0.54 0.57 0.50 0.53 0.51 0.54 0.56 0.58 0.50 0.49 0.54 0.56 0.54 0.62 0.53 0.39 0.59 0.63 0.50 0.65 0.66 0.63 0.66 0.64 0.57 0.54 0.60 0.45 0.61 0.61 0.64 0.61 0.59 0.60 0.55 0.65 0.60 0.63 0.54 0.54 0.62 0.60 0.66
+0.4
+0.5
+0.6
+0.7
+0.8
+positive ->
+positive ->
+positive ->
+positive Output Text
+it ' s fast , light , and simple to use .
+Input Text
+0.74 0.61 0.72 0.64 0.73 0.66 0.74 0.72 0.62 0.70 0.65 0.72 0.67 0.72 0.69 0.60 0.67 0.63 0.68 0.65 0.69 0.67 0.56 0.66 0.59 0.67 0.61 0.67 0.60 0.56 0.59 0.57 0.60 0.59 0.60 0.65 0.54 0.64 0.58 0.65 0.59 0.65 0.59 0.52 0.58 0.55 0.59 0.56 0.59 0.66 0.54 0.65 0.58 0.66 0.60 0.66 0.65 0.52 0.64 0.56 0.65 0.58 0.65 0.63 0.58 0.63 0.61 0.64 0.63 0.64 0.59 0.51 0.59 0.54 0.60 0.55 0.59 0.65 0.62 0.65 0.65 0.66 0.67 0.66
+0.55
+0.60
+0.65
+0.70
+Because the food is
+positive , the
+service is
+negative ,
+therefore the
+overall
+sentiment is
+negative . Output Text
+Great food but the service was dreadful !
+Input Text
+0.72 0.79 0.77 0.70 0.70 0.66 0.72 0.75 0.64 0.63 0.66 0.66 0.69 0.65 0.57 0.66 0.65 0.65 0.56 0.68 0.71 0.60 0.59 0.59 0.60 0.65 0.55 0.52 0.58 0.54 0.59 0.56 0.49 0.57 0.54 0.58 0.57 0.70 0.69 0.72 0.63 0.67 0.66 0.68 0.61 0.56 0.64 0.57 0.62 0.56 0.51 0.59 0.57 0.62 0.63 0.78 0.76 0.67 0.67 0.67 0.75 0.81 0.67 0.67 0.67 0.63 0.69 0.62 0.56 0.64 0.67 0.62 0.62 0.77 0.80 0.68 0.66 0.65 0.71 0.84 0.65 0.63 0.64 0.61 0.66 0.65 0.57 0.64 0.64 0.62 0.59 0.71 0.70 0.70 0.63 0.67 0.69 0.74 0.78 0.67 0.66 0.60 0.64 0.59 0.55 0.67 0.64 0.62 0.58 0.70 0.69 0.62 0.65 0.64 0.69 0.76 0.68 0.71 0.64 0.59 0.64 0.58 0.52 0.62 0.66 0.59
+0.63 0.74 0.71 0.67 0.65 0.72 0.71 0.73 0.68 0.65 0.75 0.65 0.68 0.61 0.57 0.65 0.64 0.73 0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+0.80
+The
+sentiment
+polarityof (
+food ,
+service ) goes
+through(
+positive,
+negative) in
+sequence, And the
+overall
+sentimentis
+negative. Output Text
+Great food but the service was dreadful !
+Input Text
+0.72 0.57 0.45 0.63 0.72 0.61 0.61 0.74 0.60 0.51 0.56 0.67 0.54 0.60 0.63 0.59 0.63 0.57 0.63 0.69 0.67 0.61 0.57 0.64 0.65 0.64 0.55 0.48 0.40 0.55 0.62 0.55 0.56 0.65 0.50 0.44 0.50 0.54 0.44 0.53 0.52 0.50 0.54 0.49 0.54 0.54 0.57 0.53 0.49 0.56 0.55 0.58 0.58 0.49 0.40 0.57 0.61 0.57 0.74 0.68 0.58 0.46 0.50 0.58 0.50 0.60 0.56 0.55 0.57 0.50 0.59 0.58 0.60 0.53 0.51 0.57 0.56 0.61 0.64 0.54 0.42 0.62 0.68 0.59 0.62 0.78 0.59 0.50 0.56 0.65 0.50 0.58 0.64 0.57 0.61 0.55 0.59 0.63 0.67 0.58 0.56 0.62 0.66 0.61 0.63 0.57 0.43 0.61 0.68 0.59 0.62 0.80 0.57 0.49 0.55 0.63 0.49 0.57 0.63 0.57 0.60 0.56 0.58 0.62 0.64 0.61 0.57 0.62 0.64 0.61 0.59 0.51 0.44 0.60 0.63 0.52 0.61 0.71 0.66 0.51 0.53 0.62 0.47 0.58 0.62 0.58 0.60 0.53 0.60 0.60 0.62 0.56 0.54 0.64 0.62 0.60 0.60 0.50 0.39 0.58 0.61 0.53 0.58 0.73 0.58 0.49 0.55 0.63 0.48 0.55 0.64 0.54 0.59 0.52 0.57 0.59 0.62 0.55 0.52 0.59 0.65 0.57
+0.62 0.54 0.43 0.62 0.66 0.58 0.65 0.72 0.64 0.50 0.55 0.64 0.52 0.64 0.63 0.63 0.63 0.54 0.67 0.63 0.65 0.58 0.56 0.63 0.63 0.72 0.40
+0.45
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+0.80
+positive ->
+negative ->
+negative ->
+negative ->
+negative Output Text
+Great food but the service was dreadful !
+Input Text
+0.70 0.59 0.70 0.61 0.68 0.62 0.68 0.63 0.67 0.56 0.51 0.58 0.52 0.56 0.53 0.56 0.53 0.54 0.61 0.57 0.62 0.57 0.61 0.57 0.60 0.58 0.59 0.68 0.55 0.69 0.60 0.68 0.59 0.67 0.60 0.65 0.67 0.54 0.68 0.58 0.66 0.58 0.65 0.59 0.64 0.63 0.55 0.65 0.58 0.63 0.58 0.63 0.59 0.61 0.64 0.51 0.66 0.55 0.64 0.55 0.63 0.56 0.61 0.65 0.62 0.68 0.66 0.67 0.66 0.66 0.67 0.64 0.525
+0.550
+0.575
+0.600
+0.625
+0.650
+0.675
+0.700
+Fig. 5: Similarity between input and output tokens. Top row (Laptop) and bottom row (Restaurant) showing prompts for CoT-v1, -v2, and -v3 (Gemma2-2b with 18-shot on explicit split is reported).
+Because the XP
+drivers are
+neutral , the Vista is
+positive ,
+therefore the
+overall
+sentiment is
+positive . Output Text
+It seems they could have
+updated XP and done without
+creating
+Vista .
+Input Text
+0.75 0.77 0.75 0.62 0.71 0.71 0.69 0.75 0.75 0.61 0.69 0.64 0.71 0.73 0.71 0.63 0.70 0.69 0.56 0.66 0.72 0.71 0.62 0.70 0.69 0.66 0.69 0.71 0.62 0.67 0.62 0.66 0.69 0.66 0.61 0.69 0.66 0.65 0.68 0.77 0.74 0.60 0.70 0.72 0.67 0.73 0.72 0.60 0.69 0.63 0.66 0.70 0.67 0.61 0.68 0.68 0.63 0.63 0.71 0.70 0.60 0.69 0.71 0.65 0.68 0.68 0.61 0.66 0.61 0.63 0.66 0.64 0.56 0.64 0.64 0.60 0.62 0.72 0.70 0.60 0.69 0.70 0.65 0.70 0.68 0.60 0.66 0.62 0.64 0.66 0.63 0.57 0.63 0.64 0.60 0.61 0.69 0.68 0.58 0.67 0.67 0.63 0.67 0.66 0.58 0.64 0.60 0.61 0.64 0.61 0.55 0.61 0.62 0.59 0.63 0.78 0.79 0.67 0.70 0.69 0.66 0.74 0.77 0.65 0.65 0.61 0.62 0.66 0.64 0.57 0.63 0.61 0.59 0.54 0.68 0.71 0.80 0.63 0.60 0.58 0.65 0.71 0.72 0.56 0.56 0.52 0.55 0.55 0.48 0.53 0.52 0.53 0.60 0.74 0.77 0.68 0.66 0.68 0.60 0.72 0.78 0.66 0.63 0.58 0.59 0.61 0.62 0.53 0.58 0.59 0.53 0.62 0.75 0.76 0.67 0.69 0.69 0.65 0.73 0.76 0.67 0.66 0.61 0.63 0.64 0.64 0.57 0.62 0.62 0.59 0.58 0.74 0.73 0.65 0.65 0.66 0.62 0.72 0.73 0.64 0.61 0.57 0.59 0.61 0.60 0.52 0.58 0.57 0.55 0.60 0.73 0.74 0.66 0.67 0.69 0.64 0.70 0.74 0.65 0.63 0.59 0.59 0.63 0.63 0.56 0.60 0.60 0.58
+0.56 0.65 0.66 0.69 0.64 0.61 0.63 0.63 0.66 0.78 0.59 0.61 0.56 0.58 0.56 0.51 0.58 0.56 0.61
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+0.80
+The
+sentiment
+polarityof ( XP ,
+Vista ) goes
+through(
+negative,
+negative) in
+sequence. And the
+overall
+sentimentis
+negative. Output Text
+It seems they could have
+updated XP and done without
+creating
+Vista .
+Input Text
+0.75 0.65 0.52 0.66 0.74 0.50 0.63 0.75 0.64 0.64 0.63 0.69 0.54 0.63 0.70 0.64 0.68 0.64 0.67 0.72 0.74 0.68 0.64 0.69 0.69 0.68 0.67 0.61 0.51 0.64 0.70 0.50 0.62 0.70 0.63 0.64 0.63 0.67 0.54 0.62 0.68 0.64 0.65 0.63 0.66 0.66 0.71 0.64 0.62 0.68 0.68 0.67 0.68 0.63 0.52 0.64 0.71 0.48 0.61 0.72 0.63 0.60 0.62 0.66 0.51 0.63 0.70 0.63 0.64 0.62 0.64 0.65 0.70 0.65 0.62 0.66 0.68 0.65 0.63 0.58 0.46 0.59 0.66 0.42 0.58 0.65 0.59 0.57 0.59 0.63 0.48 0.57 0.66 0.59 0.60 0.57 0.60 0.62 0.65 0.61 0.57 0.61 0.64 0.60 0.63 0.58 0.47 0.61 0.67 0.47 0.61 0.67 0.60 0.58 0.59 0.63 0.51 0.59 0.66 0.60 0.62 0.59 0.61 0.63 0.66 0.61 0.58 0.61 0.63 0.61 0.63 0.58 0.47 0.59 0.64 0.43 0.59 0.65 0.58 0.56 0.58 0.61 0.47 0.58 0.64 0.59 0.60 0.57 0.60 0.62 0.65 0.59 0.57 0.59 0.61 0.60 0.63 0.58 0.45 0.59 0.70 0.52 0.66 0.73 0.63 0.58 0.57 0.61 0.45 0.57 0.62 0.57 0.59 0.57 0.58 0.60 0.64 0.59 0.57 0.60 0.60 0.58 0.53 0.49 0.38 0.51 0.62 0.47 0.75 0.67 0.62 0.50 0.48 0.52 0.36 0.50 0.54 0.50 0.51 0.48 0.52 0.51 0.54 0.50 0.48 0.51 0.52 0.51 0.57 0.53 0.39 0.52 0.65 0.45 0.63 0.72 0.58 0.51 0.50 0.54 0.36 0.48 0.57 0.49 0.53 0.50 0.51 0.54 0.58 0.54 0.50 0.52 0.54 0.50 0.63 0.58 0.45 0.58 0.70 0.49 0.65 0.72 0.64 0.59 0.59 0.63 0.46 0.58 0.64 0.58 0.61 0.58 0.59 0.62 0.66 0.60 0.58 0.61 0.61 0.59 0.57 0.52 0.39 0.54 0.66 0.46 0.62 0.69 0.60 0.53 0.52 0.57 0.41 0.53 0.59 0.53 0.54 0.51 0.55 0.56 0.59 0.54 0.52 0.57 0.58 0.55 0.59 0.56 0.42 0.56 0.66 0.45 0.63 0.69 0.60 0.55 0.54 0.59 0.42 0.54 0.61 0.53 0.56 0.53 0.56 0.58 0.60 0.56 0.55 0.59 0.61 0.56 0.55 0.49 0.38 0.53 0.60 0.44 0.65 0.64 0.71 0.52 0.52 0.55 0.40 0.55 0.58 0.55 0.54 0.48 0.59 0.54 0.56 0.51 0.50 0.55 0.56 0.60
+0.40
+0.45
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+neutral ->
+neutral ->
+neutral ->
+neutral Output Text
+It seems they could have updated XP and done without
+creating Vista .
+Input Text
+0.73 0.63 0.72 0.63 0.73 0.64 0.72 0.70 0.63 0.70 0.63 0.71 0.65 0.70 0.70 0.60 0.71 0.60 0.71 0.61 0.70 0.66 0.56 0.67 0.57 0.67 0.58 0.66 0.66 0.57 0.67 0.58 0.68 0.60 0.66 0.62 0.54 0.63 0.55 0.64 0.57 0.62 0.61 0.53 0.63 0.54 0.64 0.55 0.62 0.56 0.50 0.57 0.50 0.58 0.51 0.56 0.58 0.48 0.58 0.49 0.60 0.51 0.59 0.63 0.54 0.64 0.56 0.65 0.57 0.64 0.57 0.49 0.58 0.50 0.59 0.51 0.58 0.59 0.49 0.60 0.50 0.60 0.52 0.60 0.56 0.51 0.58 0.52 0.58 0.53 0.57
+0.50
+0.55
+0.60
+0.65
+0.70
+Because the
+servers are
+negative , the food is
+neutral ,
+therefore the
+overall
+sentiment is
+neutral . Output Text
+Some
+servers
+make
+you feel like
+they
+are
+doing
+you a favor to bring
+you the
+food .
+Input Text
+0.73 0.79 0.77 0.70 0.71 0.68 0.77 0.78 0.67 0.72 0.70 0.74 0.73 0.68 0.61 0.69 0.70 0.67 0.63 0.73 0.74 0.65 0.67 0.63 0.70 0.74 0.63 0.66 0.64 0.66 0.67 0.62 0.55 0.63 0.64 0.61 0.64 0.77 0.76 0.77 0.72 0.69 0.73 0.75 0.68 0.69 0.69 0.69 0.70 0.64 0.58 0.67 0.67 0.65 0.62 0.76 0.76 0.69 0.69 0.65 0.71 0.75 0.64 0.67 0.65 0.68 0.69 0.65 0.59 0.66 0.67 0.61 0.59 0.70 0.70 0.64 0.65 0.61 0.67 0.70 0.60 0.65 0.62 0.65 0.66 0.60 0.54 0.61 0.64 0.58 0.56 0.69 0.67 0.61 0.64 0.58 0.64 0.65 0.57 0.65 0.59 0.61 0.63 0.57 0.53 0.60 0.63 0.57 0.53 0.67 0.65 0.59 0.61 0.57 0.63 0.64 0.56 0.61 0.58 0.60 0.61 0.55 0.50 0.58 0.59 0.55 0.61 0.72 0.71 0.69 0.69 0.63 0.68 0.70 0.63 0.67 0.64 0.66 0.68 0.62 0.56 0.65 0.66 0.62 0.50 0.65 0.64 0.56 0.62 0.52 0.59 0.61 0.54 0.61 0.53 0.57 0.58 0.52 0.46 0.54 0.57 0.50 0.52 0.66 0.63 0.58 0.59 0.56 0.61 0.62 0.57 0.58 0.57 0.59 0.59 0.54 0.49 0.58 0.56 0.54 0.52 0.64 0.62 0.57 0.57 0.55 0.60 0.61 0.55 0.57 0.57 0.58 0.60 0.53 0.49 0.57 0.56 0.54 0.53 0.63 0.62 0.56 0.58 0.54 0.59 0.62 0.54 0.57 0.56 0.58 0.58 0.55 0.51 0.56 0.57 0.53 0.57 0.69 0.65 0.62 0.60 0.63 0.66 0.66 0.62 0.61 0.66 0.63 0.65 0.57 0.54 0.62 0.59 0.64 0.56 0.67 0.67 0.60 0.59 0.57 0.63 0.67 0.60 0.60 0.59 0.61 0.61 0.57 0.53 0.57 0.58 0.56 0.53 0.66 0.65 0.61 0.58 0.57 0.64 0.68 0.60 0.60 0.60 0.61 0.61 0.56 0.53 0.59 0.57 0.57 0.51 0.64 0.63 0.58 0.55 0.55 0.60 0.66 0.57 0.58 0.57 0.57 0.59 0.52 0.50 0.56 0.55 0.54 0.53 0.63 0.67 0.57 0.56 0.54 0.59 0.70 0.58 0.59 0.56 0.57 0.57 0.55 0.51 0.55 0.56 0.53 0.57 0.69 0.66 0.64 0.61 0.64 0.66 0.66 0.72 0.63 0.67 0.63 0.65 0.57 0.54 0.63 0.61 0.66
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+The
+sentiment
+polarityof (
+servers ,
+food ) goes
+through(
+neutral ,
+neutral ) in
+sequence, And the
+overall
+sentimentis
+neutral . Output Text
+Some
+servers
+make
+you feel like
+they
+are
+doing
+you a favor to bring
+you the
+food .
+Input Text
+0.74 0.60 0.49 0.69 0.75 0.54 0.69 0.71 0.65 0.58 0.61 0.69 0.55 0.65 0.72 0.67 0.71 0.64 0.68 0.72 0.73 0.65 0.62 0.69 0.66 0.67 0.63 0.54 0.43 0.65 0.69 0.50 0.64 0.67 0.61 0.53 0.56 0.63 0.50 0.58 0.65 0.59 0.63 0.57 0.62 0.62 0.66 0.60 0.56 0.63 0.61 0.60 0.65 0.56 0.47 0.66 0.71 0.51 0.75 0.71 0.66 0.55 0.58 0.65 0.52 0.64 0.69 0.64 0.67 0.60 0.67 0.66 0.68 0.62 0.59 0.66 0.64 0.64 0.64 0.57 0.47 0.65 0.70 0.47 0.67 0.70 0.64 0.54 0.58 0.65 0.50 0.60 0.67 0.61 0.65 0.61 0.62 0.64 0.67 0.62 0.59 0.55 0.63 0.60 0.60 0.52 0.41 0.62 0.64 0.47 0.60 0.65 0.59 0.52 0.56 0.61 0.48 0.55 0.62 0.56 0.61 0.57 0.58 0.60 0.63 0.56 0.53 0.60 0.59 0.56 0.56 0.52 0.42 0.58 0.62 0.43 0.58 0.61 0.56 0.49 0.53 0.58 0.45 0.53 0.60 0.54 0.59 0.54 0.56 0.58 0.61 0.54 0.53 0.59 0.58 0.55 0.54 0.48 0.39 0.56 0.59 0.43 0.56 0.60 0.55 0.47 0.50 0.55 0.43 0.50 0.57 0.52 0.56 0.51 0.54 0.55 0.59 0.52 0.49 0.56 0.54 0.52 0.63 0.55 0.45 0.63 0.67 0.48 0.64 0.66 0.61 0.54 0.58 0.64 0.51 0.59 0.66 0.61 0.65 0.59 0.63 0.64 0.67 0.60 0.57 0.65 0.63 0.61 0.52 0.45 0.36 0.53 0.57 0.40 0.53 0.59 0.52 0.45 0.49 0.52 0.40 0.47 0.55 0.47 0.53 0.47 0.51 0.52 0.56 0.49 0.46 0.53 0.52 0.48 0.53 0.47 0.40 0.56 0.58 0.40 0.58 0.62 0.57 0.45 0.51 0.55 0.41 0.51 0.56 0.51 0.56 0.51 0.55 0.55 0.58 0.52 0.50 0.57 0.53 0.53 0.54 0.48 0.40 0.56 0.59 0.40 0.57 0.61 0.57 0.47 0.51 0.55 0.41 0.51 0.55 0.51 0.56 0.51 0.55 0.55 0.58 0.52 0.50 0.55 0.53 0.53 0.54 0.50 0.42 0.55 0.58 0.39 0.56 0.62 0.56 0.45 0.49 0.54 0.43 0.51 0.57 0.52 0.53 0.52 0.53 0.54 0.57 0.53 0.51 0.54 0.53 0.52 0.57 0.50 0.42 0.60 0.62 0.45 0.64 0.64 0.64 0.48 0.52 0.57 0.45 0.59 0.59 0.59 0.61 0.54 0.64 0.59 0.62 0.54 0.54 0.61 0.55 0.63 0.56 0.51 0.40 0.57 0.62 0.47 0.60 0.65 0.61 0.48 0.51 0.55 0.45 0.54 0.59 0.54 0.58 0.53 0.56 0.55 0.60 0.54 0.53 0.57 0.55 0.55 0.55 0.49 0.42 0.58 0.61 0.43 0.60 0.64 0.62 0.47 0.53 0.56 0.41 0.54 0.57 0.55 0.58 0.55 0.58 0.55 0.60 0.54 0.53 0.58 0.54 0.56 0.53 0.47 0.39 0.55 0.59 0.42 0.58 0.61 0.59 0.46 0.51 0.54 0.39 0.51 0.54 0.52 0.55 0.52 0.55 0.53 0.57 0.50 0.50 0.55 0.52 0.53 0.53 0.49 0.39 0.55 0.59 0.40 0.56 0.62 0.57 0.46 0.49 0.53 0.39 0.49 0.55 0.50 0.54 0.52 0.54 0.53 0.55 0.51 0.50 0.54 0.52 0.52 0.58 0.51 0.43 0.61 0.63 0.47 0.65 0.64 0.72 0.49 0.54 0.60 0.48 0.60 0.61 0.61 0.62 0.57 0.67 0.61 0.63 0.55 0.54 0.62 0.57 0.64
+0.40
+0.45
+0.50
+0.55
+0.60
+0.65
+0.70
+0.75
+neutral ->
+neutral ->
+neutral ->
+neutral Output Text
+Some
+servers
+make
+you feel like they are
+doing
+you a favor to bring
+you the food .
+Input Text
+0.73 0.63 0.73 0.63 0.73 0.65 0.72 0.66 0.57 0.66 0.56 0.65 0.57 0.65 0.68 0.61 0.70 0.62 0.69 0.62 0.69 0.65 0.56 0.67 0.56 0.66 0.57 0.65 0.62 0.53 0.63 0.53 0.63 0.54 0.62 0.60 0.51 0.62 0.51 0.61 0.52 0.61 0.56 0.48 0.58 0.49 0.58 0.50 0.58 0.66 0.56 0.66 0.57 0.66 0.58 0.66 0.55 0.44 0.55 0.44 0.55 0.45 0.55 0.54 0.49 0.55 0.48 0.55 0.50 0.55 0.53 0.48 0.54 0.48 0.54 0.50 0.54 0.56 0.49 0.57 0.49 0.57 0.50 0.57 0.59 0.57 0.60 0.58 0.60 0.59 0.60 0.58 0.52 0.59 0.52 0.59 0.53 0.59 0.55 0.53 0.57 0.53 0.58 0.54 0.57 0.52 0.50 0.54 0.50 0.54 0.51 0.54 0.54 0.48 0.55 0.48 0.55 0.49 0.55 0.60 0.59 0.63 0.60 0.62 0.60 0.62 0.45
+0.50
+0.55
+0.60
+0.65
+0.70
+Fig. 6: Similarity between input and output tokens. Top row (Laptop) and bottom row (Restaurant) showing prompts for CoT-v1, -v2, and -v3 (Gemma2-2b with 18-shot on implicit split is reported).
+4.4 RQ-4: Pre-training knowledge vs. demonstration information
+Prior research on models like BERT has shown that word order shuffling in SA tasks has minimal impact on model performance [12,17]. Given that CoT is designed to reduce reasoning complexity through step-by-step processing, we investigate the extent to which the model’s sentiment analysis relies on pre-training knowledge versus information provided in few-shot demonstrations, by examining whether word order disruption affects SA results undering CoT prompting. Word order disruption test. We employed the word order disruption method from [24], sequentially swapping adjacent words to disrupt both local
+
+
+Reassessing the Role of CoT in SA: Insights and Limitations 9
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+Base(explicit) Base(implicit)
+2b 8b 9b 27b
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Cohen's Kappa
+CoT-v1(ex) CoT-v1(im)
+CoT-v2(ex) CoT-v2(im)
+CoT-v3(ex) CoT-v3(im)
+Fig. 7: Model output agreement before and after input shuffling (upper part), and output agreement before and after sentiment reversal (lower part). Results for Laptop (top row) and Restaurant (bottom row). Due to space constraints, only the results for 1-, 4-, 8- and 12-shot scenarios are shown.
+and global word positions. This process was applied only to the input question, leaving the demonstrations unchanged. To assess the impact of this disruption, we measured the agreement between predictions of disturbed and original inputs. Results, as shown in the upper part of Figure 7. After perturbing the input text, model size positively correlates with agreement: Gemma-27b achieves higher mean agreement (0.79) compared to the Gemma-2b (0.58) on the explicit split of Laptop dataset. Moreover, the agreement strengthens with an increasing number of few-shot examples, as demonstrated by the Gemma-2b’s performance on the explicit split of the Laptop dataset (1-shot: 0.0, 12-shot: 0.70). Additionally, explicit splits show higher mean agreement than implicit splits (0.67 vs. 0.54). Taking Gemma-27b as an exemplar, the model exhibited relatively small variations in its generated content (i.e., higher agreement), with mean agreement values of 0.80 and 0.61 for explicit and implicit splits, respectively.
+Counterfactual demonstration test. To further investigate the model’s utilization of demonstration information, we adopted the counterfactual method proposed by [10]. This approach involves creating a deliberate conflict between the knowledge in demonstrations and the presumed factual knowledge from the pre-training corpus. We reversed the sentiment of aspects in the demonstrations, randomly replacing original sentiments with their opposites (positive with negative, negative with positive, and neutral with either positive or negative). The input questions remained unchanged. We also report the agreement between predictions of original and modified demonstrations. Results, presented in the lower part of Figure 7: When perturbing demonstrations, model size again correlates positively
+
+
+10 K. Zheng et al.
+with agreement: Gemma-27b shows higher mean agreement (0.71) compared to Gemma-2b (0.46) on the explicit split of Laptop dataset. However, unlike input perturbation, increasing the number of few-shot examples leads to lower agreement, as evidenced by Gemma-27b’s performance on the explicit split of Laptop dataset (4-shot: 0.81, 12-shot: 0.69). These results indicate that modifications in demonstrations significantly influenced the model’s decisions, suggesting that the model relies on demonstration information in SA tasks.
+5 Discussion of Language and Thought
+Our findings challenge Wittgenstein’s view that “language limits the boundaries of thought” and support the independence of language and thought. However, the authors still align with Wittgenstein’s perspective. Our results prompt deeper reflection: language may serve merely as a tool, whose role is to propagate and communicate abstract concepts, and these concepts must exist first before language can express them. Language is like a quantitative metric used to reflect the level of thinking ability. From a static perspective, language cannot convey ideas beyond the scope of cognition. However, from a dynamic viewpoint, the progression of thought drives language evolution, while the expansion of language, in turn, facilitates deeper thinking. The following examples illustrate this perspective:
+Cultural differences shape language interpretation. For instance, “Nobody loves you” carries a negative connotation in Western cultures, often inducing psychological distress [15]. Language can convey the concept of childbirth pain but cannot fully replicate the experience [16]. Similarly, the Yang-Mills equations, though containing complex formulas, require deep understanding to grasp their true meaning [23]. The emergence of new concepts like “autonomous driving” or “Mars colonization” has led to corresponding terms, expanding language boundaries [2].
+Language development promotes Thought development. The progress of language also promotes the development of thought. This is reflected in the communication function of language, where new thoughts are spread to others who do not possess them, thereby enabling those people to acquire the corresponding thinking ability through understanding language.
+6 Conclusion
+This paper refines the “language and thought” debate by framing language as sentiment understanding and thought as chain-of-thought. Experiments on two public datasets and one constructed emotional dataset show that chain-of-thought has limited impact on sentiment analysis, supporting Fedorenko’s view on the independence of language and thought.
+
+
+Reassessing the Role of CoT in SA: Insights and Limitations 11
+References
+1. Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., et al.: Language models are few-shot learners. Advances in neural information processing systems 33, 1877–1901 (2020) 2. Chomsky, N.: On Nature and Language. Cambridge University Press (2002) 3. Dubey, A., Jauhri, A., Pandey, A., Kadian, A., Al-Dahle, A., Letman, A., Mathur, A., Schelten, A., Yang, A., Fan, A., et al.: The llama 3 herd of models. arXiv preprint arXiv:2407.21783 (2024) 4. Fedorenko, E., Piantadosi, S.T., Gibson, E.A.: Language is primarily a tool for communication rather than thought. Nature 630(8017), 575–586 (2024) 5. Fei, H., Li, B., Liu, Q., Bing, L., Li, F., Chua, T.S.: Reasoning implicit sentiment with chain-of-thought prompting. In: The 61st Annual Meeting Of The Association For Computational Linguistics (2023) 6. Lai, W., Xie, H., Xu, G., Li, Q.: Rvisa: Reasoning and verification for implicit sentiment analysis. arXiv preprint arXiv:2407.02340 (2024) 7. Li, Z., Zou, Y., Zhang, C., Zhang, Q., Wei, Z.: Learning implicit sentiment in aspect-based sentiment analysis with supervised contrastive pre-training. arXiv preprint arXiv:2111.02194 (2021) 8. Liu, F., Xu, P., Li, Z., Feng, Y., Song, H.: Towards understanding in-context learning with contrastive demonstrations and saliency maps. arXiv preprint arXiv:2307.05052 (2023) 9. Lu, Y., Bartolo, M., Moore, A., Riedel, S., Stenetorp, P.: Fantastically ordered prompts and where to find them: Overcoming few-shot prompt order sensitivity. arXiv preprint arXiv:2104.08786 (2021) 10. Madaan, A., Hermann, K., Yazdanbakhsh, A.: What makes chain-of-thought prompting effective? a counterfactual study. In: Findings of the Association for Computational Linguistics: EMNLP 2023. pp. 1448–1535 (2023) 11. Perez, E., Kiela, D., Cho, K.: True few-shot learning with language models. Advances in neural information processing systems 34, 11054–11070 (2021) 12. Pham, T., Bui, T., Mai, L., Nguyen, A.: Out of order: How important is the sequential order of words in a sentence in natural language understanding tasks? In: Zong, C., Xia, F., Li, W., Navigli, R. (eds.) Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021. pp. 1145–1160. Association for Computational Linguistics, Online (Aug 2021). https://doi.org/10.18653/v1/ 2021.findings-acl.98, https://aclanthology.org/2021.findings-acl.98
+13. Pontiki, M., Galanis, D., Papageorgiou, H., Androutsopoulos, I., Manandhar, S., Al-Smadi, M., Al-Ayyoub, M., Zhao, Y., Qin, B., De Clercq, O., et al.: Semeval-2016 task 5: Aspect based sentiment analysis. In: ProWorkshop on Semantic Evaluation (SemEval-2016). pp. 19–30. Association for Computational Linguistics (2016) 14. Rusnachenko, N., Liang, H.: nicolay-r at semeval-2024 task 3: Using flan-t5 for reasoning emotion cause in conversations with chain-of-thought on emotion states. arXiv preprint arXiv:2404.03361 (2024) 15. Sapir, E.: Language: An Introduction to the Study of Speech. Harcourt, Brace and World (1921) 16. Scarry, E.: The Body in Pain: The Making and Unmaking of the World. Oxford University Press (1985) 17. Sinha, K., Jia, R., Hupkes, D., Pineau, J., Williams, A., Kiela, D.: Masked language modeling and the distributional hypothesis: Order word matters pre-training for little. In: Moens, M.F., Huang, X., Specia, L., Yih, S.W.t. (eds.) Proceedings of the
+
+
+12 K. Zheng et al.
+2021 Conference on Empirical Methods in Natural Language Processing. pp. 28882913. Association for Computational Linguistics, Online and Punta Cana, Dominican Republic (Nov 2021). https://doi.org/10.18653/v1/2021.emnlp-main.230, https://aclanthology.org/2021.emnlp-main.230
+18. Team, G., Mesnard, T., Hardin, C., Dadashi, R., Bhupatiraju, S., Pathak, S., Sifre, L., Rivière, M., Kale, M.S., Love, J., et al.: Gemma: Open models based on gemini research and technology. arXiv preprint arXiv:2403.08295 (2024) 19. Wang, A.: Glue: A multi-task benchmark and analysis platform for natural language understanding. arXiv preprint arXiv:1804.07461 (2018) 20. Wei, J., Wang, X., Schuurmans, D., Bosma, M., Xia, F., Chi, E., Le, Q.V., Zhou, D., et al.: Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems 35, 24824–24837 (2022) 21. Wei, J., Wei, J., Tay, Y., Tran, D., Webson, A., Lu, Y., Chen, X., Liu, H., Huang, D., Zhou, D., Ma, T.: Larger language models do in-context learning differently (2023), https://arxiv.org/abs/2303.03846
+22. Wittgenstein, L.: Tractatus logico-philosophicus (2023) 23. Yang, C.N., Mills, R.L.: Conservation of isotopic spin and isotopic gauge invariance. Physical Review 96(1), 191–195 (1954) 24. Zhao, Q., Li, J., Liu, J., Kang, Z., Zhou, Z.: Is word order considered by foundation models? a comparative task-oriented analysis. Expert Systems with Applications 241, 122700 (2024). https://doi.org/https://doi.org/10.1016/ j.eswa.2023.122700, https://www.sciencedirect.com/science/article/pii/ S0957417423032025
+25. Zhao, Q., Liu, J., Kang, Z., Zhou, Z.: Tracenet: Tracing and locating the key elements in sentiment analysis. Knowledge-Based Systems 277, 110792 (2023). https://doi.org/https://doi.org/10.1016/j.knosys.2023.110792, https:// www.sciencedirect.com/science/article/pii/S0950705123005427
+26. Zhao, Q., Ravishankar, V., Garneau, N., Søgaard, A.: Word order and world knowledge (2024), https://arxiv.org/abs/2403.00876
+A Supplement
+Table 2: CoT Prompts Examples
+Input Battery life could be better but overall for the price and Toshiba’s reputation for laptops it’s great!
+Type Content
+CoT-v1 Because the Battery life is negative, the price is positive, therefore the overall sentiment is positive.
+CoT-v2 The sentiment polarity of (Battery life, price) goes through (negative, positive) in sequence. And the overall sentiment is positive. CoT-v3 negative -> positive -> positive

@@ -1,0 +1,343 @@
+arXiv:2412.01020v1 [cs.DC] 2 Dec 2024
+AI Benchmarks and Datasets for LLM
+Evaluation
+Todor Ivanov and Valeri Penchev
+November 2024 v1.0
+1 Introduction
+In the age of Artificial Intelligence, large language models (LLMs) have become the preferred tool for many everyday tasks. As multi-functional and multimodal LLMs, they can process diverse data formats, including images, audio, and video. Typical tasks encompass text generation, logical reasoning, machine translation, summarization, and multimodal support [25]. As a class of deep learning models, LLMs contain billions to trillions of parameters and are trained on vast datasets using complex, multi-layered neural network architectures, surpassing other neural network approaches. Nevertheless, their development and supervision remain challenging. LLMs demand significant computational resources for both pre-training and fine-tuning, requiring distributed computing capabilities due to their large model sizes [24]. Their complex architecture poses challenges throughout the entire AI lifecycle, from data collection to deployment and monitoring [20]. Addressing critical AI system challenges, such as explainability, corrigibility, interpretability, and hallucination, necessitates a systematic methodology and rigorous benchmarking [8]. To effectively improve AI systems, we must precisely identify systemic vulnerabilities through quantitative evaluation, bolstering system trustworthiness. The Z-Inspection [45] represents a pioneering, comprehensive approach to these challenges. This methodology assesses AI system trustworthiness through a holistic, participatory framework that integrates ethical principles from the EU guidelines [7] and other sources. By employing socio-technical scenarios, it systematically identifies potential risks and ethical tensions inherent in AI systems. The enactment of the EU AI Act [6] by the European Parliament on March 13, 2024, establishing the first comprehensive EU-wide requirements for the development, deployment, and use of AI systems, further underscores the importance of tools and methodologies such as Z-Inspection. It highlights the need to enrich this methodology with practical benchmarks to effectively address the technical challenges posed by AI systems. To this end, we have launched a
+1
+
+
+project that is part of the AI Safety Bulgaria initiatives [1], aimed at collecting and categorizing AI benchmarks. This will enable practitioners to identify and utilize these benchmarks throughout the AI system lifecycle. The recently introduced COMPL-AI framework [3, 8] underscores the importance of our project. This open-source, compliance-centered evaluation framework for generative AI models provides the first comprehensive technical interpretation of the EU AI Act [6] in the context of LLMs. By proposing the first LLM benchmarking suite based on the EU requirements for Trustworthy AI [7], COMPL-AI highlights the significant gap in LLM compliance. As observed by the framework’s authors, no popular LLM currently adheres to the non-technical requirements of the EU AI Act, and several regulatory requirements, such as explainability and corrigibility, lack adequate technical evaluation tools. The remainder of the paper elaborates on Z-Inspection, the EU AI Act, and the COMPL-AI framework, followed by a comprehensive list of AI benchmarks and dataset summaries.
+2 Related Work
+2.1 Z-Inspection
+The Z-Inspection® [45, 53, 35] is a novel process grounded in applied ethics to evaluate the trustworthiness of AI systems. It uses a holistic, participatory approach, incorporating ethical principles from the EU framework and other sources, and employing socio-technical scenarios to identify potential risks and ethical tensions. The process involves assembling an interdisciplinary team, analyzing claims and evidence, and mapping issues to ethical principles. Finally, Z-Inspection offers recommendations for mitigating risks and promoting responsible AI development and deployment, with several case studies demonstrating its application. Z-inspection can be applied to a variety of domains such as business, healthcare, public sector, among many others. It leverages the definition of trustworthy AI provided by the European Union’s High-Level Expert Group on Artificial Intelligence. The 7 Key EU requirements for Trustworth AI [7] defined as follows:
+• Human Agency and Oversight [HAO]: AI systems should empower human beings, allowing them to make informed decisions and fostering their fundamental rights. At the same time, proper oversight mechanisms need to be ensured, which can be achieved through human-in-the-loop, human-on-the-loop, and human-in-command approaches.
+• Technical Robustness and Safety [TRS]: AI systems need to be resilient and secure. They need to be safe, ensuring a fall back plan in case something goes wrong, as well as being accurate, reliable and reproducible. That is the only way to ensure that also unintentional harm can be minimized and prevented.
+2
+
+
+• Privacy and Data Governance [PDG]: besides ensuring full respect for privacy and data protection, adequate data governance mechanisms must also be ensured, taking into account the quality and integrity of the data, and ensuring legitimised access to data.
+• Transparency [T]: the data, system and AI business models should be transparent. Traceability mechanisms can help achieving this. Moreover, AI systems and their decisions should be explained in a manner adapted to the stakeholder concerned. Humans need to be aware that they are interacting with an AI system, and must be informed of the system’s capabilities and limitations.
+• Diversity, Non-discrimination and Fairness [DNF]: Unfair bias must be avoided, as it could could have multiple negative implications, from the marginalization of vulnerable groups, to the exacerbation of prejudice and discrimination. Fostering diversity, AI systems should be accessible to all, regardless of any disability, and involve relevant stakeholders throughout their entire life circle.
+• Societal and Environmental Well-being [SEW]: AI systems should benefit all human beings, including future generations. It must hence be ensured that they are sustainable and environmentally friendly. Moreover, they should take into account the environment, including other living beings, and their social and societal impact should be carefully considered.
+• Accountability [A]: Mechanisms should be put in place to ensure responsibility and accountability for AI systems and their outcomes. Auditability, which enables the assessment of algorithms, data and design processes plays a key role therein, especially in critical applications. Moreover, adequate an accessible redress should be ensured.
+2.2 EU AI Act
+The EU AI Act [6], passed by the European Parliament on March 13, 2024, represents the first comprehensive regulatory framework for artificial intelligence, establishing EU-wide requirements for the development, deployment, and use of AI systems. The regulation seeks to ensure that the benefits of these technologies outweigh potential risks by mandating safe, reliable, transparent, and sustainable practices. The Act categorizes AI systems into four risk levels:
+• Prohibited AI systems
+• High-risk AI systems
+• Limited-risk AI systems
+• Minimal-risk AI systems
+3
+
+
+The majority of regulatory obligations are imposed on providers (developers) of high-risk AI systems. In this context, users are defined as natural or legal persons who deploy an AI system in a professional capacity, distinct from endusers who are ultimately affected by the system. Regarding General Purpose AI (GPAI) model providers, the Act mandates:
+• For all GPAI model providers:
+– Provide comprehensive technical documentation
+– Supply detailed instructions for use
+– Comply with the Copyright Directive
+– Publish a summary of training content
+• For free and open-source GPAI model providers:
+– Comply with copyright requirements
+– Publish a summary of training data
+– Exempt from additional requirements unless presenting a systemic risk
+• For GPAI models presenting a systemic risk (whether open or closed):
+– Conduct thorough model evaluations
+– Perform adversarial testing
+– Track and report serious incidents
+– Implement robust cybersecurity protections
+2.3 COMPL-AI Framework
+The COMPL-AI framework [3, 8] is an open-source, compliance-centered evaluation framework for generative AI models. It aims to bridge an existing gap by providing the first comprehensive technical interpretation of the EU AI Act [6] in the context of LLMs, and by proposing the first regulation-oriented LLM benchmarking suite. The COMPL-AI approach first extracts the legal requirements that the EU AI Act imposes across the seven EU requirements for Trustworthy AI [7] listed above, and translates them into a comprehensive set of technical requirements. The interpretation relies on the terminology and focus of state-of-the-art technical AI research to guide its analysis. The result is a hierarchical benchmarking suite that closely follows the structure of the EU AI Act, enabling practitioners to easily interpret their results within the Act’s context. The benchmarking suite, comprising approximately 27 benchmarks, was executed across 12 state-of-the-art LLMs in relation to the criteria imposed by the EU AI Act. Notably, none of the examined models are fully compliant with the Act’s requirements. Moreover, certain technical requirements remain
+4
+
+
+Table 1: Benchmark Suite of COMPL-AI framework [3, 8] Ethical Technical Benchmarks Principle Requirement Human Agency No Technical and Oversight Requirements
+MMLU Robustness Technical Robustness and BoolQ Contrast Set Robustness Predictability IMDB Contrast Set and Safety Monotonicity Checks Self-Check Consistency Cyberattack Goal Hijacking: TensorTrust Resilience Rule Following: LLM RuLES Training Data Toxicity and Bias in Privacy and Suitability Training Data Data No Copyright Copyrighted Material Governance Infringement Memorization User Privacy Protection PII Extraction by Association MMLU [9] Capabilities and AI2 Reasoning Challenge Limitations HellaSwag [47] TruthfulQA MC2 Transparency HumanEval Interpretability TriviaQA [11] Logit Calibration: Big-Bench Disclosure of Denying Human Presence AI Presence Traceability Watermark Presence and Robustness Absence of Income Fairness Diversity Discrimination Recommendation Consistency and Fairness RedditBias
+Absence of Bias Prejudiced Answers: BBQ Biased Completions: BOLD Societal Environmental Impact Environmental Assessment Well-being Harmful Content Toxic Completions Control Harmful Instructions Prevention
+5
+
+
+challenging to assess due to current limitations in tools and benchmarks - either because of an incomplete understanding of relevant model aspects (such as explainability) or due to inadequacies in existing benchmarking methodologies (particularly in areas like privacy assessment).
+3 Benchmarks and Datasets
+3.1 The Adversarial Natural Language Inference (ANLI)
+The Adversarial Natural Language Inference (ANLI) [19] is an iterative, adversarial human-and-model-in-the-loop enabled training (HAMLET) solution for natural language understanding (NLU) dataset collection that addresses both benchmark longevity and robustness issues. The dataset used here comprises approximately 100 000 samples for the training set, 1200 for the development set, and 1200 for the test set, with each sample containing a context, a hypothesis, and a label. The goal is to determine the logical relationship between the context and the hypothesis by using the label, which is the assigned category indicating that relationship. Finally, ANLI makes available a reason (provided by the HAMLET), explaining why a sample was misclassified.
+Tags: # Dataset # Technical Robustness and safety
+3.2 HellaSwag
+HellaSwag [47] is a benchmark for commonsense natural language inference (NLI), comprising 70,000 question instances. For each question, a model is given a context from a video caption and four ending choices for what might happen next with only one correct choice representing the actual next caption of the video. The dataset, covering diverse domains of world knowledge and logical reasoning for successful interpretation, employs Adversarial Filtering to incorporate machine-generated incorrect responses, which humans can easily solve (95.6% accuracy), yet challenging for machines (<50% accuracy).
+Tags: # Transparency
+3.3 CommonsenseQA
+CommonsenseQA [32] is a multiple-choice question-answering dataset that contains 12,247 questions and aims to test commonsense knowledge by predicting the correct answers (1 correct and 4 distractor answers). The questions are crowdsourced and based on knowledge encoded in CONCEPTNET [26], covering a wide range of topics from real-life situations, elementary science, and social skills.
+Tags: # Dataset
+6
+
+
+3.4 CNN/Daily Mail
+The CNN/Daily Mail [18] is a widely used dataset based on human generated abstractive summary bullets from new-stories in CNN and Daily Mail websites as questions (with one of the entities hidden), and stories as the corresponding passages from which the system is expected to answer the fill-in-the-blank question. In total, the corpus contains 286,817 training, 13,368 validation, and 11,487 test pairs.
+Tags: # Dataset
+3.5 Massive Multitask Language Understanding
+The Massive Multitask Language Understanding (MMLU) [9] benchmark is a comprehensive evaluation framework designed to test the knowledge and problem-solving capabilities of large language models across a wide range of academic and professional domains. Created to provide a more rigorous and diverse assessment than previous benchmarks, MMLU covers 57 different subjects including elementary mathematics, US history, computer science, law, and many scientific disciplines. The MMLU benchmark consists of multiple-choice questions that require both broad knowledge and the ability to apply that knowledge to solve complex problems. It tests models not just on factual recall, but on their ability to reason, analyze, and draw conclusions across different fields of study.
+Tags: # Transparency
+3.6 Massive Multitask Language Understanding - Pro
+Massive Multitask Language Understanding-Pro (MMLU-Pro) [40] is a comprehensive benchmark enhancing and extending the mostly knowledge-driven MMLU [9] benchmark by integrating more challenging, reasoning-focused questions and expanding the choice set from 4 to 10 options. It spans 14 diverse domains including mathematics, physics, chemistry, law, engineering, psychology, and health, encompassing over 12,000 questions and thus meeting the breadth requirement for evaluation of multi-task language understanding capabilities in LLMs.
+Tags: # Transparency
+3.7 Google-Proof Q&A Benchmark
+Google-Proof Q&A Benchmark (GPQA) [22] is a challenging dataset 448 multiplechoice questions written by domain experts in biology, physics, and chemistry. The questions are high-quality and extremely difficult, with 74% estimated objectivity on the basis of expert assessment, and 34% accuracy by highly skilled,
+7
+
+
+resourced, and motivated non-experts.
+Tags: # Transparency # Diversity, non-discrimination and fairness
+3.8 Multistep Soft Reasoning
+Multistep Soft Reasoning (MuSR) [27] is a reasoning dataset for evaluating LLMs on multistep soft reasoning tasks specified in a natural language (from either murder mysteries, object placement questions, or team allocation domains) using a novel neurosymbolic synthetic-to-natural generation algorithm,which can be scaled in complexity as more powerful models emerge.
+Tags: # Transparency
+3.9 Mathematics Aptitude Test of Heuristics
+Mathematics Aptitude Test of Heuristics (MATH) [10] is a benchmark/dataset consisting of 12 500 problems from high school math competitions that measures the problem-solving ability of LLMs. Each problem has a step-by-step solution, final boxed answer, a difficulty tag from 1 to 5, and is one of the 7 subjects like Prealgebra, Algebra, Number Theory, Counting and Probability, Geometry, Intermediate Algebra, and Precalculus.
+Tags: # Technical Robustness and Safety # Transparency
+3.10 Instruction Following Evaluation
+Instruction Following Evaluation (IFEval) [51] is a benchmark for evaluating the proficiency of large language models in instruction following. It consists of a list of 25 verifiable instructions and a set of 541 prompts, with each prompt containing one or multiple verifiable instructions. Also 4 strict accuracy scores are defined to evaluate each model.
+Tags: # Technical Robustness and Safety # Transparency
+3.11 Big Bench Hard
+Big Bench Hard (BBH) [31] is a diverse evaluation suite of 23 challenging tasks (27 sub-tasks and in total 6511 evaluation examples) in different categories such as traditional NLP, mathematics, commonsense reasoning, and questionanswering with the goal to test the capabilities of large language models using objective metrics.
+Tags: # Technical Robustness and Safety # Transparency
+8
+
+
+3.12 Cord-19
+CORD-19 [39] is a large collection of publications and pre-prints on COVID-19 and related historical coronaviruses such as SARS and MERS. It now consists of over 140K papers with over 72K full texts, with papers in Medicine (55%), Biology (31%), and Chemistry (3%), which together constitute almost 90% of the corpus. CORD-19 was designed to facilitate the development of text mining and information retrieval systems over its rich collection of metadata and structured full text papers.
+Tags: # Dataset
+3.13 LAMBADA
+LAMBADA dataset [21] is a dataset to evaluate the capabilities of computational models for text understanding by means of a word prediction task. It consists of 10,022 passages, divided into 4,869 development and 5,153 test passages with an average passage consisting of 4.6 sentences in the context plus 1 target sentence, for a total length of 75.4 tokens (dev)/ 75 tokens (test). Preliminary experiments suggest that even some cutting-edge neural network approaches that are in principle able to track long-distance effects are far from passing the LAMBADA challenge.
+Tags: # Technical Robustness and Safety # Transparency
+3.14 TriviaQA
+TriviaQA [11] is a reading comprehension dataset consisting of high percentage of challenging questions with substantial syntactic and lexical variability and often requiring multi-sentence reasoning. TriviaQA contains over 650K question-answer-evidence triples, that are derived by combining 95K Trivia enthusiast authored question-answer pairs with on average six supporting evidence documents per question coming from two domains - Web search results and Wikipedia pages. TriviaQA also provides a benchmark for a variety of other tasks such as IR-style question answering, QA over structured KBs and joint modeling of KBs and text, with much more data than previously available.
+Tags: # Transparency
+3.15 WinoGrande
+WinoGrande [23] is a large-scale dataset of 44k problems, inspired by the original Winograd Schema Challenge (WSC) design (a set of 273 expert-crafted pronoun resolution problems originally designed to be unsolvable for statistical models that rely on selectional preferences or word associations), but adjusted to improve both the scale and the hardness of the dataset. The key steps of
+9
+
+
+the dataset construction consist of (1) a carefully designed crowdsourcing procedure, followed by (2) systematic bias reduction using a novel AFLITE algorithm that generalizes human-detectable word associations to machine-detectable embedding associations. WINOGRANDE as a resource, demonstrates effective transfer learning and achieve state-of-the-art results on several related benchmarks.
+Tags: # Technical Robustness and Safety # Transparency # Diversity, non-discrimination and fairness
+3.16 CausalBench
+CausalBench [41] is a comprehensive benchmark for evaluating the causal reasoning capabilities of LLMs. It comprises four perspectives of causal reasoning for each scenario: cause-to-effect, effect-to-cause, cause-to-effect with intervention, and effect-to-cause with intervention. CausalBench includes a diverse set of problem types spanning textual, mathematical, and coding domains, enabling a comprehensive assessment of causal reasoning abilities across different modalities. The benchmark consists of more than 60,000 problems and employs six evaluation metrics to measure LLMs’ causal reasoning performance.
+Tags: # Technical Robustness and Safety # Transparency # Diversity, non-discrimination and fairness
+3.17 CausalBench (2)
+CasulaBench(2) [52] is a comprehensive benchmark that encompasses three causal learning-related tasks: to identify correlation, causal skeleton, and causality. It incorporates 15 commonly used real-world causal learning datasets of diverse sizes, enabling comprehensive comparisons of LLMs’ performance with the classic causal learning algorithms. CausalBench uses four distinct prompt formats, which include one or more elements of variable names, background knowledge, and structured data and covers causal discovery datasets of various scales, ranging from 5 to 109 nodes, far exceeding what current evaluation works have explored.
+Tags: # Technical Robustness and Safety # Transparency # Diversity, non-discrimination and fairness
+3.18 BackdoorLLM
+BackdoorLLM [13] is a comprehensive benchmark for studying backdoor attacks on LLMs with a repository designed to facilitate research on backdoor attacks in LLMs. It includes a standardized pipeline for training backdoored LLMs with diverse strategies, such as data poisoning, weight poisoning, hidden state steering, and chain-of-thought attacks. The study (with over 200 experiments
+10
+
+
+on 8 attacks across 7 scenarios and 6 model architectures) provides new insights into the nature of backdoor vulnerabilities in LLMs, which will aid in developing future defense methods against LLM backdoor attacks.
+Tags: # Technical Robustness and Safety # Transparency
+3.19 ConflictBank
+ConflictBank [28] is a novel and comprehensive developed to systematically evaluate knowledge conflicts from three aspects: (i) conflicts encountered in retrieved knowledge, (ii) conflicts within the models’ encoded knowledge, and (iii) the interplay between these conflict forms. It contains a large diverse dataset of 553K QA pairs and 7M knowledge conflict evidence in high quality. The study also presents in-depth pilot experiments on twelve LLMs across four model series and provide comprehensive analyses about model scales, conflict causes, and conflict types.
+Tags: # Diversity, non-discrimination and fairness
+3.20 Reefknot
+Reefknot [49] is a comprehensive benchmark called Reefknot to evaluate and mitigate relation hallucinations in multimodal large language models (MLLMs). Its dataset is constructed from over 20k data through a scene graph-based construction pipeline, covering two discriminative tasks (Y/N and MCQ) and one generative task (VQA). The paper also proposes a Detect-then-Calibrate method to mitigate the relation hallucination via entropy threshold, with an average reduction of 9.75% in the hallucination rate across Reefknot and two other representative relation hallucination datasets.
+Tags: # Technical Robustness and safety # Diversity, non-discrimination and fairness
+3.21 DQA
+DQA [50] is the first comprehensive database Q&A benchmark (DQA) consisting of a large-scale dataset with 240,000 Q&A pairs. It also proposes a plug-andplay testbed encapsulating all components potentially involved in the database Q&A, such as Question-Categorization Routing (QCR), Prompt-Template Engineering (PTE), Retriever-Augmented Generation (RAG) and Tool-Invocation Generation (TIG). Using DQA, the study also conducted a comprehensive evaluation to showcase DB Q&A ability of seven general-purpose LLMs and two variants based on pre-training and fine-tuning evaluates.
+Tags: # Dataset # Transparency
+11
+
+
+3.22 MultiTrust
+MultiTrust [48] is a comprehensive benchmark designed to evaluate the trustworthiness of Multimodal Large Language Models (MLLMs). The benchmark covers five key aspects of trustworthiness: truthfulness, safety, robustness, fairness, and privacy. It employs a rigorous evaluation strategy that addresses both multimodal risks (new risks introduced by the visual modality) and crossmodal impacts (how the visual modality affects the performance on original text tasks). The authors conducted extensive experiments on 21 MLLMs, revealing that open-source models, despite their progress in general capabilities, still lag behind proprietary models in trustworthiness. The benchmark also highlights the detrimental effects of multimodality on MLLMs’ trustworthiness, emphasizing the need for further research to enhance their reliability. To facilitate future research, the authors release a scalable toolbox for standardized trustworthiness evaluation.
+Tags: # Technical Robustness and safety # Privacy and data governance # Transparency # Diversity, non-discrimination and fairness
+3.23 LTLBench
+LTLBench [33] is a benchmark designed to evaluate the temporal reasoning capabilities of Large Language Models (LLMs). Temporal reasoning, crucial for AI understanding of event sequences and relationships, is assessed in LLMs using various datasets. The authors propose a novel pipeline for constructing such datasets, leveraging random directed graphs, Linear Temporal Logic (LTL) formulas, and the NuSMV model checker. This approach allows for the generation of diverse and scalable temporal reasoning problems. The authors used this pipeline to create LTLBench, a dataset of 2,000 temporal reasoning challenges, and evaluated six LLMs on it. Results show LLMs exhibit promise in handling temporal reasoning but still struggle with complex scenarios. The work contributes a valuable tool for evaluating and improving the temporal reasoning abilities of LLMs and other AI systems.
+Tags: # Technical Robustness and Safety # Transparency # Accountability Kewords: Large Language Models, Temporal Logic, Reasoning
+3.24 Large Langugage Model in the Clinic
+ClinicBench [14] is a comprehensive benchmark designed to evaluate large language models (LLMs) in clinical settings. The benchmark includes a diverse set of tasks, including both traditional machine learning tasks and novel, clinically relevant tasks such as referral question answering, treatment recommendation, and patient education generation. The authors evaluate a range of LLMs on these tasks, finding that while models like GPT-4 show promising performance on certain tasks, there remains a significant gap between current LLM capa
+12
+
+
+bilities and the requirements for real-world clinical application. The paper also explores the impact of different types of fine-tuning data on model performance, highlighting the potential benefits of incorporating clinical-standard knowledge bases into the training process.
+Tags: # Technical Robustness and Safety # Transparency
+3.25 High-Quality Hallucination Benchmark
+The High-Quality Hallucination (HQH) [44] Benchmark addresses the problem of hallucination in Large Vision-Language Models (LVLMs), where models generate text that’s inconsistent with the visual input. The authors point out that existing benchmarks for evaluating this issue suffer from varying quality, impacting the reliability of model assessments. To tackle this, they propose a framework called HQM to measure the quality of these benchmarks based on reliability and validity. Their analysis reveals that current benchmarks have limitations in both aspects.
+In response, they develop a new benchmark, HQH, which uses free-form Visual Question Answering and a simplified evaluation metric to enhance its quality. Their evaluation on various LVLMs demonstrates that hallucination remains a challenge, particularly with certain types like existence, OCR, and comparison. The paper concludes by emphasizing the need for further research to mitigate hallucination in LVLMs and advocating for the use of their HQM framework to improve the quality of future benchmarks.
+Tags: # Technical Robustness and Safety # Transparency # Accountability
+3.26 AI Benchmarking for Science
+The MLCommons Science Working Group [34] is creating science-specific AI benchmarks to advance AI’s application in scientific research. They’ve developed four benchmarks so far, each with datasets and reference implementations, covering areas like atmospheric science, material science, healthcare, and earth science.
+• Cloud Masking (cloud-mask): Classifies pixels in satellite images as containing cloud or clear sky, crucial for estimating sea surface temperature.
+• Space Group Classification of Solid State Materials (stemdl): Classifies the space group of solid-state materials from electron diffraction patterns, aiding in understanding material properties.
+• Time Evolution Operator (tevelop): Predicts the evolution of time series data, exemplified by earthquake forecasting.
+13
+
+
+• Predicting Tumor Response to Single and Paired Drugs (candleuno): Predicts tumor response to drug treatments based on molecular features.
+These benchmarks help evaluate AI/ML techniques for scientific problems, considering factors like performance, explainability, and scalability. The group emphasizes clear benchmarking policies and plans to expand its benchmark collection, ensuring datasets are FAIR compliant and encouraging community contributions. The goal is to facilitate AI adoption in science, aiding algorithm selection, fostering collaboration, and accelerating discoveries.
+Tags: # Technical Robustness and Safety # Transparency # Societal and Environmental Well-being # Accountability
+3.27 TPCx-AI
+TPCx-AI [2] is an industry-standard benchmark designed to evaluate the endto-end performance of artificial intelligence (AI) and machine learning (ML) systems. It emphasizes that TPCx-AI is unique in its focus on evaluating the entire ML pipeline, from data ingestion to model serving and post-processing, unlike other benchmarks that primarily focus on model training. TPCx-AI is built on a retail scenario and includes ten diverse use cases, covering both traditional ML and deep learning models. It provides a comprehensive toolkit with implementations in Python and Apache Spark, making it readily usable for evaluating ML/AI systems on standard hardware. The benchmark also includes a scalable dataset and a well-defined performance metric, ensuring fair and meaningful comparisons between different systems.
+Tags: # Technical Robustness and Safety # Transparency # Accountability
+3.28 RobustBench
+RobustBench [5] is a standardized benchmark for evaluating the adversarial robustness of machine learning models. It emphasizes the need for accurate and reliable robustness evaluations, addressing the challenge of robustness overestimation that often hinders progress in the field. RobustBench focuses on image classification tasks and establishes restrictions on the allowed models to ensure meaningful comparisons. It utilizes AutoAttack, an ensemble of white- and black-box attacks, as the standard evaluation method. The benchmark also encourages external evaluations using adaptive attacks to further enhance its reliability. RobustBench provides a leaderboard showcasing the performance of various models on well-defined tasks in different threat models and on common corruptions. Additionally, it offers a Model Zoo, a collection of robust models readily available for downstream applications. Overall, RobustBench aims to accelerate progress in adversarial robustness research by providing a standardized and reliable benchmark, facilitating the identification of the most promising
+14
+
+
+ideas in training robust models.
+Tags: #Technical Robustness and Safety #Accountability #Transparency
+3.29 MetaBox
+MetaBox [16] is the first benchmark platform specifically designed for MetaBlack-Box Optimization with Reinforcement Learning (MetaBBO-RL). MetaBBORL aims to automate the fine-tuning of black-box optimizers, thereby enhancing their performance across various problem instances. The platform offers a flexible algorithmic template, a diverse collection of over 300 problem instances, and an extensive library of 19 baseline methods. It also introduces three standardized performance metrics for a more comprehensive evaluation of MetaBBO-RL methods. MetaBox is open-source and accessible on GitHub, contributing to the advancement of research in this field.
+Tags: #Technical Robustness and Safety #Accountability #Transparency
+3.30 SUC
+Structural Understanding Capabilities (SUC) [30] is a comprehensive benchmark consisting of seven tasks, each with its own unique challenges, e.g., cell lookup, row retrieval, and size detection. The authors try to answer the following questions: 1) What input designs and choices are most effective in enabling LLMs to understand tables?; 2) To what extent do LLMs already possess structural understanding capabilities for structured data? The comparison reveals that LLMs have the basic capabilities towards understanding structural information of tables and to further improve it propose self-augmentation for effective structural prompting, such as critical value / range identification using internal knowledge of LLMs.
+Tags: # Technical Robustness and Safety # Transparency
+Kewords: Large Language Models, Semi-structured Data, Structural Understanding Capabilities
+3.31 LogicVista
+LogicVista [42] is a benchmark designed to assess the logical reasoning skills of Multimodal Large Language Models (MLLMs). It focuses on evaluating how well these models can reason and solve problems based on visual information. The benchmark uses a variety of visual inputs, including diagrams, text, patterns, graphs, tables, 3D shapes, puzzles, and sequences. LogicVista tests five types of logical reasoning: deductive, inductive, numerical, spatial, and mechanical. It provides a tool for evaluating how well these models can apply logical reasoning skills across different types of visual data. The project is open source
+15
+
+
+and available on GitHub.
+Tags: # Technical Robustness and Safety
+3.32 RelevAI-Reviewer
+RelevAI-Reviewer [4] is a new AI tool for automatically reviewing scientific papers. The tool is designed to overcome the limitations of traditional peer review processes, which can be slow, biased, and inconsistent. RelevAI-Reviewer specifically focuses on evaluating the relevance of survey papers based on a given prompt, similar to a "call for papers." The authors created a dataset of over 25,000 survey papers from 22 different fields, categorized into four relevance levels. They tested various machine learning models, including Support Vector Machines (SVM) and BERT, to determine the most effective approach. The results showed that BERT models, particularly with a specific encoding method called "thermometer encoding," outperformed other methods in accurately ranking papers by relevance.
+Tags: # Technical Robustness and Safety # Accountability # Transparency
+3.33 AI Safety Benchmark v0.5
+The AI Safety Benchmark v0.5 [36] is a proof-of-concept for evaluating the safety risks of AI systems, specifically chat-tuned language models. It presents a taxonomy of 13 hazard categories and includes tests for seven of them, using over 43,000 test items (prompts) to assess model responses. The benchmark aims to provide a standardized and interpretable evaluation of AI safety, addressing a critical need as AI systems become increasingly integrated into various domains. The authors acknowledge limitations in the current version and welcome feedback for the development of the full v1.0 benchmark planned for the end of 2024.
+Tags: # Technical Robustness and Safety # Accountability # Diversity, non-discrimination and fairness
+3.34 Dataset OpenAssistant Conversations
+OpenAssistant Conversations [12] is a large collection of human-generated and human-annotated assistant-style conversations. This dataset was created by over 13,500 volunteers with the goal of democratizing research on large-scale language model alignment. The dataset consists of 161,443 messages in 35 different languages, annotated with 461,292 quality ratings, resulting in over 10,000 complete conversation trees. The authors used this dataset to fine-tune several language models and found that they show consistent improvements on standard benchmarks over their respective base models. The dataset is released under a fully permissive license and is available on the Hugging Face Hub.
+16
+
+
+Tags: # Dataset
+3.35 ZebraLogic
+ZebraLogic Benchmark [46] is based on Logic Grid Puzzles, to test how well LLMs can reason. The puzzles involve houses with distinct features that need to be deduced from clues. The article also explores different metrics for evaluating the LLMs’ performance, including puzzle-level accuracy and cell-wise accuracy. It was found that LLMs struggle with complex logical reasoning tasks, particularly those that require counterfactual thinking, reflective reasoning, and structured memorization. The article also provides an example of a 2x3 puzzle and explains the evaluation method. Some of the important points are that LLMs are still weak in logical reasoning tasks.
+Tags: # Technical Robustness and Safety # Transparency
+3.36 GLoRE Benchmark
+GLoRE [15] is a benchmark for evaluating the logical reasoning abilities of LLMs, comprising 12 datasets over three types of tasks, including Multi-choice Reading Comprehension, Natural Language Inference (NLI), and True-or-False (TF) questions. Using GLoRE, the authors evaluate the logical reasoning abilities of several LLMs, including ChatGPT, GPT-4, and open-source LLMs based on LLaMA and Falcon. The results indicate that both ChatGPT and GPT-4 outperform open-source LLMs and traditional supervised fine-tuned models in most tasks. However, the performance of these models is not consistent across datasets, indicating their sensitivity to data distribution. The paper also proposes a self-consistency probing method to enhance the accuracy of ChatGPT and a fine-tuned method to boost the performance of an open LLM.
+Tags: # Technical Robustness and Safety
+Kewords: Large Language Model, Logical Reasoning
+3.37 General Language Understanding Evaluation
+The General Language Understanding Evaluation (GLUE) [38] benchmark provides a comprehensive platform for evaluating and analyzing natural language understanding (NLU) systems. Designed to foster the development of generalizable and robust NLU models, GLUE offers a suite of nine tasks, including single-sentence classification, similarity and paraphrase detection, and natural language inference. The tasks were selected to cover a range of genres, dataset sizes, and challenges. GLUE also features a diagnostic dataset for analyzing specific linguistic capabilities of models, including lexical semantics, logical reasoning, and predicate-argument structure. The GLUE benchmark is model-agnostic, allowing the use of any architecture capable of processing single sentences or sentence pairs. Its primary
+17
+
+
+evaluation relies on performance across all tasks, encouraging the development of models that effectively transfer knowledge and perform well even with limited training data. To ensure fairness and prevent overfitting, test labels for some tasks are privately held and results must be submitted to an online platform for evaluation.
+Tags: # Technical Robustness and Safety # Transparency # Diversity, non-discrimination and fairness
+3.38 A Stickier Benchmark for General-Purpose Language Understanding Systems
+SuperGLUE (A Stickier Benchmark for General-Purpose Language Understanding Systems) [37] is a benchmark designed to address the limitations of its predecessor, GLUE [38], by introducing more challenging natural language understanding (NLU) tasks. The motivation for SuperGLUE stems from significant advances in NLU models, such as BERT and OpenAI GPT, which have largely surpassed human performance on GLUE tasks. This progress highlighted the need for a more robust and challenging evaluation framework to continue driving innovation. Key Features of SuperGLUE:
+• Task Design: SuperGLUE consists of eight tasks that emphasize reasoning, understanding, and contextual comprehension. These tasks include:
+– BoolQ: Yes/no question answering from text. – CB: CommitmentBank for entailment in embedded clauses. – COPA: Choice of plausible alternatives requiring causal reasoning.
+– MultiRC: Multi-sentence reading comprehension with multiple correct answers. – ReCoRD: Cloze-style questions demanding commonsense reasoning. – RTE: Recognizing textual entailment. – WiC: Word-in-context sense disambiguation. – WSC: The Winograd Schema Challenge for coreference resolution.
+• Diversity in Task Formats: Unlike GLUE, which primarily involved sentence and sentence-pair classification, SuperGLUE incorporates formats like coreference resolution and multi-answer question answering to challenge existing models.
+• Human Baselines: SuperGLUE provides comprehensive human performance baselines for all tasks, ensuring clear headroom for machine models to improve.
+• Diagnostic Tools: Includes a diagnostic dataset to assess linguistic, commonsense, and world knowledge.
+18
+
+
+• Software and Leaderboard: Offers a modular toolkit built around PyTorch and AllenNLP for easy use and an online leaderboard for tracking progress.
+• Scoring and Evaluation: Combines performance on all tasks into a single score, balancing metrics to provide a holistic view of system capabilities.
+Tags: # Technical Robustness and Safety # Transparency # Diversity, non-discrimination and fairness
+3.39 AI2 Reasoning Challenge
+The AI2 Reasoning Challenge (ARC) [43] dataset is a benchmark designed to assess and advance the capabilities of question-answering (QA) systems in handling scientific reasoning. It includes multiple-choice questions sourced from U.S. grade-school science exams, split into two partitions:
+• Easy Set: Contains questions that can be answered by simple retrieval or basic reasoning.
+• Challenge Set: Features more complex questions that require reasoning across multiple sentences or external knowledge sources.
+Key Features:
+• Complexity: The Challenge Set requires multi-hop reasoning, commonsense knowledge, and understanding of scientific principles, posing a significant difficulty for existing QA models.
+• Scale: The ARC dataset includes thousands of questions, with four answer choices per question, covering grades 3 to 9 science topics.
+• Knowledge Base: Accompanying the dataset is a corpus of 14.3 million unstructured text passages, intended as a resource for models to retrieve evidence for answering questions.
+• Evaluation Metrics: Standard accuracy metrics are used to evaluate QA performance.
+Tags: # Transparency
+3.40 Natural Language for Visual Reasoning for Real
+The Natural Language for Visual Reasoning for Real (NLVR2) [29] benchmark introduces a dataset designed for joint reasoning about natural language and images, focusing on semantic diversity, compositionality, and visual reasoning challenges. Comprising 107,292 examples of English sentences paired with web photographs, the task requires determining whether a caption is true for a given pair of images. This dataset was crowd-sourced using visually rich images and a compareand-contrast task, ensuring diverse linguistic output. Unlike previous resources
+19
+
+
+that often relied on synthetic data, NLVR2 emphasizes real-world images, which enhances the complexity and richness of the language used. NLVR2 demonstrates significant challenges for state-of-the-art visual reasoning methods, as evaluations showed relatively low performance on this benchmark, indicating its robustness. The dataset includes 29,680 unique sentences and 127,502 images, and is structured to facilitate various reasoning tasks, making it a valuable resource for advancing research in natural language understanding and visual reasoning.
+Tags: # Transparency
+3.41 Visual Question Answering
+The Visual Question Answering (VQA) [17] is benchmark that emphasizes knowledge-based reasoning beyond visual content. OK-VQA comprises over 14,000 questions that necessitate external knowledge for accurate answers, thereby encouraging the development of models capable of reasoning and retrieving information from outside sources. The dataset includes a diverse range of questions across various knowledge categories such as history, science, and geography. The authors detail their methodology for dataset creation, which involves filtering low-quality questions and ensuring a uniform distribution of answers to mitigate biases present in previous datasets. OK-VQA is designed to challenge existing VQA systems by requiring them to integrate visual understanding with external knowledge retrieval, thus promoting advancements in the field.
+Tags: # Technical Robustness and Safety # Transparency
+4 Summary
+Table 2 presents a comprehensive list of AI benchmarks and datasets, along with the seven EU requirements for Trustworthy AI that each addresses: Human Agency and Oversight [HAO], Technical Robustness and Safety [TRS], Privacy and Data Governance [PDG], Transparency [T], Diversity, Non-discrimination and Fairness [DNF], Societal and Environmental Well-being [SEW] and Accountability [A].
+20
+
+
+Table 2: Overview of Benchmarks and Datasets
+Benchmark / Dataset HAO TRS PDG T DNF SEW A ANLI [19] y HellaSwag [47] y CommonsenseQA [32] MMLU [9] y MMLU-Pro [40] y GPQA [22] y y MuSR [27] y MATH [10] y y IFEval [51] y y BBH [31] y y CORD-19 [39] LAMBADA [21] y y TriviaQA [11] y WinoGrande [23] y y y CausalBench [41] y y y CasulaBench(2) [52] y y y BackdoorLLM [13] y y ConflictBank [28] y Reefknot [49] y y DQA [50] y MultiTrust [48] y y y y LTLBench [33] y y y ClinicBench [14] y y HQH [44] y y y MLCommons Science WG [34] y y y y TPCx-AI [2] y y y RobustBench [5] y y y MetaBox [16] y y y SUC [30] y y LogicVista [42] y RelevAI-Reviewer [4] y y y AI Safety Benchmark v0.5 [36] y y y OpenAssistant Conversations [12] ZebraLogic [46] y y GLoRE [15] y GLUE [38] y y y SuperGLUE [37] y y y ARC [43] y NLVR2 [29] y VQA [17] y y
+21
+
+
+References
+[1] Ai safety bulgaria, 2024. https://aisafetybulgaria.com/.
+[2] Christoph Brücke, Philipp Härtling, Rodrigo Escobar Palacios, Hamesh Patel, and Tilmann Rabl. Tpcx-ai - an industry standard benchmark for artificial intelligence and machine learning systems. Proc. VLDB Endow., 16(12):3649–3661, 2023.
+[3] Compl-ai framework, 2024. https://compl-ai.org/.
+[4] Paulo Henrique Couto, Quang Phuoc Ho, Nageeta Kumari, Benedictus Kent Rachmat, Thanh Gia Hieu Khuong, Ihsan Ullah, and Lisheng Sun-Hosoya. Relevai-reviewer: A benchmark on AI reviewers for survey paper relevance. CoRR, abs/2406.10294, 2024.
+[5] Francesco Croce, Maksym Andriushchenko, Vikash Sehwag, Edoardo Debenedetti, Nicolas Flammarion, Mung Chiang, Prateek Mittal, and Matthias Hein. Robustbench: a standardized adversarial robustness benchmark. In Joaquin Vanschoren and Sai-Kit Yeung, editors, Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks 1, NeurIPS Datasets and Benchmarks 2021, December 2021, virtual, 2021.
+[6] Eu ai act, 2024. https://artificialintelligenceact.eu/the-act/.
+[7] Ethics guidelines for trustworthy ai, 2019. https://digitalstrategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai.
+[8] Philipp Guldimann, Alexander Spiridonov, Robin Staab, Nikola Jovanović, Mark Vero, Velko Vechev, Anna Gueorguieva, Mislav Balunović, Nikola Konstantinov, Pavol Bielik, Petar Tsankov, and Martin Vechev. Compl-ai framework: A technical interpretation and llm benchmarking suite for the eu artificial intelligence act, 2024.
+[9] Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. In 9th International Conference on Learning Representations, ICLR 2021, Virtual Event, Austria, May 3-7, 2021. OpenReview.net, 2021.
+[10] Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, and Jacob Steinhardt. Measuring mathematical problem solving with the MATH dataset. In Joaquin Vanschoren and Sai-Kit Yeung, editors, Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmarks 1, NeurIPS Datasets and Benchmarks 2021, December 2021, virtual, 2021.
+22
+
+
+[11] Mandar Joshi, Eunsol Choi, Daniel S. Weld, and Luke Zettlemoyer. Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension. In Regina Barzilay and Min-Yen Kan, editors, Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics, ACL 2017, Vancouver, Canada, July 30 - August 4, Volume 1: Long Papers, pages 1601–1611. Association for Computational Linguistics, 2017.
+[12] Andreas Köpf, Yannic Kilcher, Dimitri von Rütte, Sotiris Anagnostidis, Zhi-Rui Tam, Keith Stevens, Abdullah Barhoum, Nguyen Minh Duc, Oliver Stanley, Richárd Nagyfi, Shahul ES, Sameer Suri, David Glushkov, Arnav Dantuluri, Andrew Maguire, Christoph Schuhmann, Huu Nguyen, and Alexander Mattick. Openassistant conversations - democratizing large language model alignment. CoRR, abs/2304.07327, 2023.
+[13] Yige Li, Hanxun Huang, Yunhan Zhao, Xingjun Ma, and Jun Sun. Backdoorllm: A comprehensive benchmark for backdoor attacks on large language models, 2024.
+[14] Andrew Liu, Hongjian Zhou, Yining Hua, Omid Rohanian, Anshul Thakur, Lei Clifton, and David A. Clifton. Large language models in the clinic: A comprehensive benchmark, 2024.
+[15] Hanmeng Liu, Zhiyang Teng, Ruoxi Ning, Jian Liu, Qiji Zhou, and Yue Zhang. Glore: Evaluating logical reasoning of large language models. CoRR, abs/2310.09107, 2023.
+[16] Zeyuan Ma, Hongshu Guo, Jiacheng Chen, Zhenrui Li, Guojun Peng, YueJiao Gong, Yining Ma, and Zhiguang Cao. Metabox: A benchmark platform for meta-black-box optimization with reinforcement learning. In Alice Oh, Tristan Naumann, Amir Globerson, Kate Saenko, Moritz Hardt, and Sergey Levine, editors, Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 - 16, 2023, 2023.
+[17] Kenneth Marino, Mohammad Rastegari, Ali Farhadi, and Roozbeh Mottaghi. Ok-vqa: A visual question answering benchmark requiring external knowledge, 2019.
+[18] Ramesh Nallapati, Bowen Zhou, Cícero Nogueira dos Santos, Çaglar Gülçehre, and Bing Xiang. Abstractive text summarization using sequenceto-sequence rnns and beyond. In Yoav Goldberg and Stefan Riezler, editors, Proceedings of the 20th SIGNLL Conference on Computational Natural Language Learning, CoNLL 2016, Berlin, Germany, August 11-12, 2016, pages 280–290. ACL, 2016.
+[19] Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, and Douwe Kiela. Adversarial NLI: A new benchmark for natural language understanding. In Dan Jurafsky, Joyce Chai, Natalie Schluter, and Joel R.
+23
+
+
+Tetreault, editors, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, ACL 2020, Online, July 5-10, 2020, pages 4885–4901. Association for Computational Linguistics, 2020.
+[20] Ai system lifecycle, 2024. https://oecd.ai/en/ai-principles.
+[21] Denis Paperno, Germán Kruszewski, Angeliki Lazaridou, Quan Ngoc Pham, Raffaella Bernardi, Sandro Pezzelle, Marco Baroni, Gemma Boleda, and Raquel Fernández. The LAMBADA dataset: Word prediction requiring a broad discourse context. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, ACL 2016, August 712, 2016, Berlin, Germany, Volume 1: Long Papers. The Association for Computer Linguistics, 2016.
+[22] David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani, Julian Michael, and Samuel R. Bowman. GPQA: A graduate-level google-proof q&a benchmark. CoRR, abs/2311.12022, 2023.
+[23] Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, and Yejin Choi. Winogrande: An adversarial winograd schema challenge at scale. In The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Conference, IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2020, New York, NY, USA, February 7-12, 2020, pages 8732–8740. AAAI Press, 2020.
+[24] Girish Sastry, Lennart Heim, Haydn Belfield, Markus Anderljung, Miles Brundage, Julian Hazell, Cullen O’Keefe, Gillian K. Hadfield, Richard Ngo, Konstantin Pilz, George Gor, Emma Bluemke, Sarah Shoker, Janet Egan, Robert F. Trager, Shahar Avin, Adrian Weller, Yoshua Bengio, and Diane Coyle. Computing power and the governance of artificial intelligence, 2024.
+[25] Minghao Shao, Abdul Basit, Ramesh Karri, and Muhammad Shafique. Survey of different large language model architectures: Trends, benchmarks, and challenges. IEEE Access, 2024.
+[26] Robyn Speer, Joshua Chin, and Catherine Havasi. Conceptnet 5.5: An open multilingual graph of general knowledge. In Satinder Singh and Shaul Markovitch, editors, Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence, February 4-9, 2017, San Francisco, California, USA, pages 4444–4451. AAAI Press, 2017.
+[27] Zayne Sprague, Xi Ye, Kaj Bostrom, Swarat Chaudhuri, and Greg Durrett. Musr: Testing the limits of chain-of-thought with multistep soft reasoning. In The Twelfth International Conference on Learning Representations, ICLR 2024, Vienna, Austria, May 7-11, 2024. OpenReview.net, 2024.
+24
+
+
+[28] Zhaochen Su, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, and Yu Cheng. Conflictbank: A benchmark for evaluating the influence of knowledge conflicts in llm, 2024.
+[29] Alane Suhr, Stephanie Zhou, Ally Zhang, Iris Zhang, Huajun Bai, and Yoav Artzi. A corpus for reasoning about natural language grounded in photographs, 2019.
+[30] Yuan Sui, Mengyu Zhou, Mingjie Zhou, Shi Han, and Dongmei Zhang. Table meets llm: Can large language models understand structured table data? a benchmark and empirical study, 2024.
+[31] Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, and Jason Wei. Challenging big-bench tasks and whether chain-of-thought can solve them. In Anna Rogers, Jordan L. Boyd-Graber, and Naoaki Okazaki, editors, Findings of the Association for Computational Linguistics: ACL 2023, Toronto, Canada, July 9-14, 2023, pages 1300313051. Association for Computational Linguistics, 2023.
+[32] Alon Talmor, Jonathan Herzig, Nicholas Lourie, and Jonathan Berant. Commonsenseqa: A question answering challenge targeting commonsense knowledge. In Jill Burstein, Christy Doran, and Thamar Solorio, editors, Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL-HLT 2019, Minneapolis, MN, USA, June 2-7, 2019, Volume 1 (Long and Short Papers), pages 4149–4158. Association for Computational Linguistics, 2019.
+[33] Weizhi Tang and Vaishak Belle. Ltlbench: Towards benchmarks for evaluating temporal logic reasoning in large language models. CoRR, abs/2407.05434, 2024.
+[34] Jeyan Thiyagalingam, Gregor von Laszewski, Junqi Yin, Murali Emani, Juri Papay, Gregg Barrett, Piotr Luszczek, Aristeidis Tsaris, Christine R. Kirkpatrick, Feiyi Wang, Tom Gibbs, Venkatram Vishwanath, Mallikarjun Shankar, Geoffrey C. Fox, and Tony Hey. AI benchmarking for science: Efforts from the mlcommons science working group. In Hartwig Anzt, Amanda Bienz, Piotr Luszczek, and Marc Baboulin, editors, High Performance Computing. ISC High Performance 2022 International Workshops Hamburg, Germany, May 29 - June 2, 2022, Revised Selected Papers, volume 13387 of Lecture Notes in Computer Science, pages 47–64. Springer, 2022.
+[35] Dennis Vetter, Julia Amann, Frédérick Bruneault, Megan Coffee, Boris Düdder, Alessio Gallucci, Thomas Krendl Gilbert, Thilo Hagendorff, Irmhild van Halem, Eleanore Hickman, Elisabeth Hildt, Sune Holm, Georgios Kararigas, Pedro Kringen, Vince I. Madai, Emilie Wiinblad Mathez,
+25
+
+
+Jesmin Jahan Tithi, Magnus Westerlund, Renee Wurth, and Roberto V. Zicari. Lessons learned from assessing trustworthy AI in practice. Digit. Soc., 2(3):35, 2023.
+[36] Bertie Vidgen, Adarsh Agrawal, Ahmed M. Ahmed, Victor Akinwande, Namir Al-Nuaimi, Najla Alfaraj, Elie Alhajjar, Lora Aroyo, Trupti Bavalatti, Borhane Blili-Hamelin, Kurt D. Bollacker, Rishi Bomassani, Marisa Ferrara Boston, Siméon Campos, Kal Chakra, Canyu Chen, Cody Coleman, Zacharie Delpierre Coudert, Leon Derczynski, Debojyoti Dutta, Ian Eisenberg, James Ezick, Heather Frase, Brian Fuller, Ram Gandikota, Agasthya Gangavarapu, Ananya Gangavarapu, James Gealy, Rajat Ghosh, James Goel, Usman Gohar, Subhra S. Goswami, Scott A. Hale, Wiebke Hutiri, Joseph Marvin Imperial, Surgan Jandial, Nick Judd, Felix JuefeiXu, Foutse Khomh, Bhavya Kailkhura, Hannah Rose Kirk, Kevin Klyman, Chris Knotz, Michael Kuchnik, Shachi H. Kumar, Chris Lengerich, Bo Li, Zeyi Liao, Eileen Peters Long, Victor Lu, Yifan Mai, Priyanka Mary Mammen, Kelvin Manyeki, Sean McGregor, Virendra Mehta, Shafee Mohammed, Emanuel Moss, Lama Nachman, Dinesh Jinenhally Naganna, Amin Nikanjam, Besmira Nushi, Luis Oala, Iftach Orr, Alicia Parrish, Cigdem Patlak, William Pietri, Forough Poursabzi-Sangdeh, Eleonora Presani, Fabrizio Puletti, Paul Röttger, Saurav Sahay, Tim Santos, Nino Scherrer, Alice Schoenauer Sebag, Patrick Schramowski, Abolfazl Shahbazi, Vin Sharma, Xudong Shen, Vamsi Sistla, Leonard Tang, Davide Testuggine, Vithursan Thangarasa, Elizabeth Anne Watkins, Rebecca Weiss, Chris Welty, Tyler Wilbers, Adina Williams, Carole-Jean Wu, Poonam Yadav, Xianjun Yang, Yi Zeng, Wenhui Zhang, Fedor Zhdanov, Jiacheng Zhu, Percy Liang, Peter Mattson, and Joaquin Vanschoren. Introducing v0.5 of the AI safety benchmark from mlcommons. CoRR, abs/2404.12241, 2024.
+[37] Alex Wang, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, and Samuel R. Bowman. Superglue: A stickier benchmark for general-purpose language understanding systems, 2020.
+[38] Alex Wang, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, and Samuel R. Bowman. Glue: A multi-task benchmark and analysis platform for natural language understanding, 2019.
+[39] Lucy Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang, Darrin Eide, Kathryn Funk, Rodney Kinney, Ziyang Liu, William Merrill, Paul Mooney, Dewey A. Murdick, Devvret Rishi, Jerry Sheehan, Zhihong Shen, Brandon Stilson, Alex D. Wade, Kuansan Wang, Chris Wilhelm, Boya Xie, Douglas Raymond, Daniel S. Weld, Oren Etzioni, and Sebastian Kohlmeier. CORD-19: the covid-19 open research dataset. CoRR, abs/2004.10706, 2020.
+[40] Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, Ziyan Jiang, Tianle
+26
+
+
+Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, and Wenhu Chen. Mmlu-pro: A more robust and challenging multi-task language understanding benchmark. CoRR, abs/2406.01574, 2024.
+[41] Zeyu Wang. CausalBench: A comprehensive benchmark for evaluating causal reasoning capabilities of large language models. In Kam-Fai Wong, Min Zhang, Ruifeng Xu, Jing Li, Zhongyu Wei, Lin Gui, Bin Liang, and Runcong Zhao, editors, Proceedings of the 10th SIGHAN Workshop on Chinese Language Processing (SIGHAN-10), pages 143–151, Bangkok, Thailand, August 2024. Association for Computational Linguistics.
+[42] Yijia Xiao, Edward Sun, Tianyu Liu, and Wei Wang. Logicvista: Multimodal LLM logical reasoning benchmark in visual contexts. CoRR, abs/2407.04973, 2024.
+[43] Vikas Yadav, Steven Bethard, and Mihai Surdeanu. Quick and (not so) dirty: Unsupervised selection of justification sentences for multi-hop question answering. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). Association for Computational Linguistics, 2019.
+[44] Bei Yan, Jie Zhang, Zheng Yuan, Shiguang Shan, and Xilin Chen. Evaluating the quality of hallucination benchmarks for large vision-language models. CoRR, abs/2406.17115, 2024.
+[45] Z-inspection, 2024. https://z-inspection.org/.
+[46] Zebralogic: Benchmarking the logical reasoning ability of language models, 2024. https://huggingface.co/blog/yuchenlin/zebra-logic.
+[47] Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, and Yejin Choi. Hellaswag: Can a machine really finish your sentence? In Anna Korhonen, David R. Traum, and Lluís Màrquez, editors, Proceedings of the 57th Conference of the Association for Computational Linguistics, ACL 2019, Florence, Italy, July 28- August 2, 2019, Volume 1: Long Papers, pages 4791–4800. Association for Computational Linguistics, 2019.
+[48] Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, and Jun Zhu. Benchmarking trustworthiness of multimodal large language models: A comprehensive study. CoRR, abs/2406.07057, 2024.
+[49] Kening Zheng, Junkai Chen, Yibo Yan, Xin Zou, and Xuming Hu. Reefknot: A comprehensive benchmark for relation hallucination evaluation, analysis and mitigation in multimodal large language models, 2024.
+27
+
+
+[50] Yihang Zheng, Bo Li, Zhenghao Lin, Yi Luo, Xuanhe Zhou, Chen Lin, Jinsong Su, Guoliang Li, and Shifu Li. Revolutionizing database q&a with large language models: Comprehensive benchmark and evaluation, 2024.
+[51] Jeffrey Zhou, Tianjian Lu, Swaroop Mishra, Siddhartha Brahma, Sujoy Basu, Yi Luan, Denny Zhou, and Le Hou. Instruction-following evaluation for large language models. CoRR, abs/2311.07911, 2023.
+[52] Yu Zhou, Xingyu Wu, Beicheng Huang, Jibin Wu, Liang Feng, and Kay Chen Tan. Causalbench: A comprehensive benchmark for causal learning capability of large language models. CoRR, abs/2404.06349, 2024.
+[53] Roberto V. Zicari, John Brodersen, James Brusseau, Boris Düdder, Timo Eichhorn, Todor Ivanov, Georgios Kararigas, Pedro Kringen, Melissa McCullough, Florian Möslein, Naveed Mushtaq, Gemma Roig, Norman Stürtz, Karsten Tolle, Jesmin Jahan Tithi, Irmhild van Halem, and Magnus Westerlund. Z-inspection®: A process to assess trustworthy ai. IEEE Transactions on Technology and Society, 2(2):83–97, 2021.
+28

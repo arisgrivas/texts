@@ -1,0 +1,1702 @@
+Concept Navigation and Classification via Open
+Source Large Language Model Processing
+Maël D. Kubli∗
+Department of Political Science
+University of Zurich
+kubli@ipz.uzh.ch
+February 10, 2025
+Abstract
+This paper presents a novel methodological framework for detecting and classifying latent constructs, including frames, narratives, and topics, from textual data using Open-Source Large Language Models (LLMs). The proposed hybrid approach combines automated summarization with human-in-the-loop validation to enhance the accuracy and interpretability of construct identification. By employing iterative sampling coupled with expert refinement, the framework guarantees methodological robustness and ensures conceptual precision. Applied to diverse data sets, including AI policy debates, newspaper articles on encryption, and the 20 Newsgroups data set, this approach demonstrates its versatility in systematically analyzing complex political discourses, media framing, and topic classification tasks.
+Keywords: Artificial intelligence Information Extraction Quantitative Text Analysis Machine Learning Latent Construct Extraction Large Language Model
+∗https://www.maelkubli.ch
+1
+arXiv:2502.04756v1 [cs.CL] 7 Feb 2025
+
+
+1 Introduction
+The advent of Large Language Models (LLMs) has significantly altered the landscape of
+natural language processing (NLP) and computational linguistics. These models, trained
+on extensive data sets, exhibit remarkable capabilities in understanding and generat
+ing human-like text. LLMs such as GPT-4, Gemini, and LLaMA have demonstrated
+proficiency in various tasks such as summarization, translation, and text classification,
+fundamentally changing the way textual data are processed and analyzed (Törnberg,
+2023; Gilardi et al., 2023; Alizadeh et al., 2023; Lam et al., 2024). This transformative
+potential is particularly relevant for extracting and classifying latent constructs, which
+are abstract, unobservable concepts inferred from textual data. Examples include frames,
+which shape how issues are understood; narratives, which structure events or arguments
+into coherent meaning; and topics, which group semantically related words to reflect re
+curring themes in a text. These constructs are essential for understanding political and
+social discourses. They reveal patterns in framing strategies, ideological bias, and issue
+salience, thus clarifying how information is structured to influence audiences or shape
+policy debates. They also uncover patterns in extensive textual corpora—for example,
+by showing how news outlets frame political debates, identifying recurring narratives
+in social media discussions, or spotlighting emerging topics in legislative proceedings.
+However, extracting such information remains a traditionally difficult task laden with
+difficulties in interpretability, adaptability, and scalability.
+Identifying and analyzing latent constructs in the social sciences and humanities is
+critical to understanding complex discourses and narratives. Focusing on frames, narra
+tives, and topics specifically enables researchers to address key questions in communica
+tion and political science, such as how different groups define problems, justify solutions,
+and influence public opinion. However, the framework could potentially be extended
+to study other constructs (e.g., rhetorical strategies) that require similarly nuanced in
+terpretive approaches. Although widely used, traditional quantitative methods such as
+Latent Dirichlet Allocation (LDA), Structural Topic Models (STM), and Bertopic often
+2
+
+
+fail to capture the nuanced and dynamic nature of textual data. While earlier transformer
+models can address challenges like semantic ambiguity (e.g., bank referring to a financial
+institution versus a riverbank) and contextual nuances (e.g., liberal signifying either a
+political ideology or an open-minded attitude), Large Language Models (LLMs) excel in
+applying these capabilities at scale, integrating larger segments of text to discern un
+derlying meanings, storylines, sentiments, rationales, arguments, and perspectives. This
+broader interpretive capacity makes LLMs a promising avenue for more robust and scal
+able text analysis, reducing the need for extensive manual refinement (Huang et al., 2023;
+Xu et al., 2024).
+This study aims to harness the capabilities of LLMs to propose a hybrid approach.
+This iterative process merges automated text analysis with human-in-the-loop validation
+to balance efficiency and conceptual soundness. Although LLMs demonstrate capability
+in analyzing extensive textual segments, especially by identifying nuanced narratives or
+sentiments within entire paragraphs, the expertise of domain specialists is crucial for
+refining and validating the constructs that arise. By integrating LLM-driven generation
+of frames, topics, or narratives with expert review, this hybrid methodology ensures
+both scalability and theoretical robustness. For illustration, the model might generate
+an initial set of frames from a large news corpus, grouping articles by themes such as
+economic impact or political blame. Human experts would then refine or merge these
+themes based on domain-specific knowledge before feeding them back into the model for
+final classification.
+This hybrid framework integrates LLM-driven text summarization and concept gener
+ation with a human-in-the-loop validation process to improve interpretability compared
+to purely automated approaches in quantitative text analysis. The approach proceeds in
+an iterative cycle. First, the LLM generates concise summaries and tentative conceptual
+categories (e.g. potential frames, topics, or narratives). The researchers then refined
+and validated these results, ensuring alignment with domain expertise and theoretical
+constructs. By merging computational efficiency with expert oversight, the framework
+3
+
+
+addresses one of the most significant challenges in computational social science: achieving
+both conceptual precision and scalability in text analysis (Gilardi et al., 2023).
+Together, this paper introduces one of the first frameworks that systematically inte
+grates LLM-based analysis with structured human input at each stage of concept iden
+tification. This synergy improves adaptability and robustness, enabling a more com
+prehensive identification of frames, topics, and narratives. Researchers can thus move
+beyond the limitations of classical models and capture the complexities present in large
+and evolving corpora of textual data (Törnberg, 2023; Alizadeh et al., 2023).
+The following sections detail the theoretical foundations of the approach and review
+the current state of NLP techniques for concept classification. The hybrid framework
+is then presented—including data sources, the specifics of LLM implementation, and
+the staged classification process with human-in-the-loop refinement. Subsequent sections
+report empirical applications in multiple data sets and discuss implications for research
+in digital democracy, political communication, and computational social sciences (Gilardi
+et al., 2023; Lam et al., 2024). The conclusion reflects on the benefits and limitations
+of the framework, as well as potential avenues for further refinement, including domain
+specific fine-tuning and more sophisticated active learning strategies to enhance validity,
+interpretability, and robustness.
+2 Theoretical Framework
+2.1 Current State of NLP Techniques for concept classification
+Applying natural language processing (NLP) techniques to measure classification con
+structs such as topics, frames, and narratives has seen significant advancements. Tradi
+tional methods like Latent Dirichlet Allocation (LDA), Structural Topic Models (STM),
+and Bertopic have been extensively used. These methods utilize statistical approaches
+to identify latent structures in text data, enabling the extraction of themes and topics.
+LDA, introduced by Blei et al. (2003), is a generative probabilistic model that assumes
+4
+
+
+documents are mixtures of topics and topics are mixtures of words. It has been widely
+applied in various domains but has crucial limitations, including difficulty interpreting
+topics and sensitivity to the number of topics specified a priori.
+Structural Topic Models (STM), proposed by Roberts et al. (2014), extend LDA by
+incorporating document-level covariates to improve the model’s interpretability and flex
+ibility. STM allows researchers to analyze how topics correlate with metadata, providing
+a more nuanced understanding of the text. However, STMs still face challenges in terms
+of scalability, computational complexity, and topic stability. Bertopic, a recent develop
+ment by Grootendorst (2022), leverages BERT embeddings and clustering algorithms to
+generate topic models. While it improves topic coherence and interpretability, Bertopic’s
+reliance on pre-trained embeddings limits its adaptability to domain-specific language nu
+ances. For instance, recent studies have highlighted the potential of prompt engineering
+techniques in LLMs to address some of these limitations, allowing for more flexible and
+domain-specific adaptations (Vatsal & Dubey, 2024).
+Despite these advancements, traditional topic-modeling techniques face several prob
+lems. They often produce results that require substantial manual refinement to ensure
+interpretability. Moreover, these models struggle with semantic ambiguity and contex
+tual nuances, leading to topics that may not align well with the intended constructs of
+interest. Furthermore, these methods typically do not account for the temporal dynam
+ics of topics, frames, or narratives, which are crucial to understanding the evolution of
+discourse over time.
+In addition to LDA, STM, and Bertopic, other methods, such as cluster analysis and
+network analysis, are increasingly used to improve the classification and interpretation of
+textual data. Cluster analysis groups similar data points according to their attributes,
+uncovering hidden patterns within large data sets (Jain, 2010; Jain et al., 1999). This
+method helps identify distinct groups or segments within text corpora, providing insight
+into varying themes or opinions. For example, clustering algorithms such as K-means or
+hierarchical clustering can be applied to text data to reveal subgroups of documents with
+5
+
+
+similar thematic content (Aggarwal & Zhai, 2012).
+Network analysis examines relationships between entities within a data set, visualizing
+these connections as networks or graphs. This approach is instrumental in understand
+ing the dynamics and structures of social interactions, information flow, and influence
+patterns (Borgatti & Li, 2009). Researchers can explore connections between different
+topics, actors, or concepts by applying network analysis to text data. This offers a deeper
+understanding of the complex interrelations in political discourse and digital communi
+cation (Milojević, 2014). However, these methods also have limitations, such as the need
+for high-quality data and significant computational resources. Furthermore, classifying
+complex constructs like frames and narratives often requires nuanced interpretation and
+a deep understanding of the context, which can be challenging to achieve purely through
+automated methods without significant human oversight.
+2.2 Capabilities of Large Language Models
+Large Language Models (LLMs) such as chatGPT and its successors and counterparts
+have revolutionized the field of natural language processing (NLP). These models, trained
+in vast amounts of text data, demonstrate remarkable abilities in understanding and
+generating human-like text (Brown et al., 2020; Zhu et al., 2023). One of the critical
+capabilities of LLMs is their proficiency in summarization and information extraction. As
+noted in McCoy et al. (2024), this proficiency is shaped by the autoregressive nature of
+LLMs, which focus mainly on the prediction of the next word. LLMs can distill lengthy
+documents into concise summaries, effectively capturing the core information. This is
+achieved through techniques such as few-shot learning, where the model is provided with
+examples to guide its output (Zhu et al., 2023; Tai et al., 2024).
+In addition to few-shot learning, LLMs can also perform zero-shot learning, handling
+entirely new tasks without any explicit training examples by relying on general textual
+prompts or instructions (Brown et al., 2020; Chew et al., 2023). These approaches enable
+LLMs to perform complex tasks with greater accuracy and adaptability, making them
+6
+
+
+powerful tools in various applications, from customer service to academic research (Yang
+et al., 2024). Specifically, McCoy et al. (2024) contend that although the training of LLMs
+is structured around high-probability next-word prediction, this characteristic facilitates
+their efficient adaptation to tasks characterized by identifiable probabilistic structures.
+In cases where the task can be framed as a sequence of high-probability linguistic or con
+ceptual steps, the autoregressive model excels, supporting the rationale behind leveraging
+LLMs for complex and nuanced tasks like frame and narrative extraction. However, the
+approach proposed by McCoy et al. (2024) also suggests that LLM success in zero-shot
+and few-shot tasks might be limited when faced with low-probability scenarios, which do
+not align with their training data distributions. In these instances, the model’s internal
+heuristics may fail to generate coherent or accurate outputs, leading to “surprising failure
+modes”. Such failures are especially prone to occur in out-of-distribution tasks where
+the required reasoning or domain knowledge goes beyond the patterns captured during
+training. In addition, prompt engineering methods have been explored to enhance the
+adaptability and specificity of LLMs for various NLP tasks, demonstrating improved per
+formance in extracting and classifying complex constructs such as frames and narratives
+(Vatsal & Dubey, 2024).
+The summarization by LLMs takes advantage of several advanced mechanisms. First,
+they utilize attention mechanisms that allow the model to focus on the relevant parts of
+the text while ignoring the less essential details (Vaswani et al., 2017). These mechanisms
+are deeply influenced by the LLM’s internal structure, where the autoregressive model’s
+reliance on next-token prediction can bias outputs towards high-probability continuations,
+as evidenced by McCoy et al. (2024). This selective attention ensures that the generated
+summary encapsulates the most significant points of the source material (Zhang et al.,
+2024). Second, the models are pre-trained in vast and diverse corpora, providing them
+with extensive background knowledge and contextual understanding, which enhances
+their ability to generate accurate and coherent summaries (Dagdelen et al., 2024). Third,
+fine-tuning specific summarization tasks further enhances their ability to create precise
+7
+
+
+and contextually appropriate summaries (Pilault et al., 2020).
+LLMs excel at zero-shot, few-shot, and chain-of-thought tasks, performing new tasks
+with little to no task-specific training. This is particularly beneficial in extracting relevant
+information from text, as demonstrated in clinical meta-analyses studies. For instance,
+Kartchner et al. (2023) explored the use of ChatGPT for zero-shot information extraction
+from clinical trials, finding that it could accurately identify and extract pertinent data
+with minimal manual intervention. This ability to generalize across tasks makes LLMs
+handy tools in text analysis (Chew et al., 2023).
+The effectiveness of LLMs in summarization tasks can be understood through sev
+eral methodological lenses. First, from a machine learning perspective, LLMs employ a
+transformer architecture that excels at handling sequential data and capturing long-range
+dependencies. Incorporating prompt engineering techniques within this architecture can
+further enhance the ability of the model to generate more precise and relevant summaries
+(Vatsal & Dubey, 2024; Vaswani et al., 2017). The transformer architecture, combined
+with an autoregressive model’s probabilistic approach, provides a framework that inher
+ently favors high-probability coherent outputs, with this alignment between architecture
+and training objective underpinning LLM success in summarization and information ex
+traction tasks (McCoy et al., 2024). Moreover, the self-attention mechanism allows the
+model to weigh the importance of different words in the input text, ensuring that the
+summary captures essential information while omitting irrelevant details (Vaswani et al.,
+2017). Recent advances in transformer models, which are also used by LLMs in general,
+such as the introduction of sparse attention and memory-augmented transformers, have
+further enhanced their capability to manage large-scale and complex data sets efficiently
+(Zaheer et al., 2020; Lewis et al., 2020).
+Second, from a natural language processing standpoint, LLMs’ ability to understand
+and generate human-like text is rooted in their extensive pre-training on large text cor
+pora. This pre-training phase equips the models with a deep understanding of language
+syntax, semantics, and pragmatics, enabling them to generate summaries that are not
+8
+
+
+only concise but also coherent and contextually appropriate (Dagdelen et al., 2024). Using
+masked language modeling and next-sentence prediction during pre-training significantly
+improves the models’ contextual prediction and coherence generation capabilities (Devlin
+et al., 2018; Radford et al., 2019). This is particularly important in domains such as
+clinical meta-analysis, where the precision and clarity of the extracted information are
+paramount (Kartchner et al., 2023).
+Third, LLMs’ generative nature allows them to produce flexible and adaptable sum
+maries to various contexts. Unlike rule-based or template-based summarization methods,
+which can be rigid and limited in scope, LLMs can generate summaries tailored to the
+specific needs of the task at hand. This adaptability is crucial in dynamic fields, where
+the ability to quickly and accurately summarize new findings can significantly impact
+decision making and policy formulation (Pilault et al., 2020).
+2.3 Identifying Frames, Topics, Narratives and more with LLMs
+LLMs’ advanced language understanding capabilities make them well suited for identify
+ing latent constructs such as frames, topics, and narratives. As defined by Entman (1993,
+2007), frames involve selecting certain aspects of reality to make them more salient in
+communication, thereby promoting specific interpretations and evaluations. Topics rep
+resent the thematic content of discourse, while narratives encompass structured coherent
+sequences of events or arguments within the text.
+LLMs can efficiently detect these constructs due to their deep contextual understand
+ing (Lam et al., 2024). By leveraging the extensive pre-training on diverse text corpora,
+LLMs can discern subtle linguistic cues that indicate the presence of frames, topics, or
+narratives. For example, an LLM can identify framing effects by recognizing patterns
+in how problems are defined, causes are attributed, and solutions are proposed. Simi
+larly, the model can extract topics by clustering semantically related content and detect
+narratives by following the logical flow of events or arguments.
+Beyond frames, topics, and narratives, LLMs can also identify other constructs such
+9
+
+
+as sentiment, stance, and rhetorical strategies. Sentiment analysis involves determining
+the emotional tone of the text, while stance detection assesses the author’s position on a
+given issue. Rhetorical strategies encompass the use of language to persuade or influence
+the audience, including techniques such as metaphors, analogies, and appeals to emotion.
+The flexibility of LLMs in capturing these diverse constructs enhances their utility in
+comprehensive text analysis.
+These mechanisms collectively enable LLMs to perform advanced summarization
+tasks, capturing the essence of the text while maintaining coherence and relevance. LLMs’
+efficiency in summarization significantly reduces the manual effort required in processing
+large data sets, making them invaluable in various domains such as healthcare, finance,
+and legal research.
+2.4 Generative Framework for Construct Identification and Clas
+sification
+Given LLMs’ capabilities, I propose a generative framework to identify latent constructs
+from textual data. The process begins with the extraction and summarization of relevant
+information from the text using LLMs. This involves generating concise summaries that
+capture the core arguments, perspectives, or thematic elements present in the data. These
+summaries serve as the basis for further analysis, facilitating the identification of frames,
+topics, and narratives.
+The generative approach involves creating potential target classes for the constructs
+of interest from the generated summaries. For example, in analyzing European Parlia
+mentary Debates on AI, the LLM first produces concise summaries of each sentence, then
+generates potential frame classes such as AI Benefits, AI Impact, AI Impact on Society,
+or AI Impact on Work. The researchers subsequently refine these automatically pro
+posed classes through an iterative process that combines automated model evaluations
+and human-in-the-loop validation. By reviewing the generated classes, experts ensure
+alignment with theoretical constructs and empirical relevance, merging or discarding cat
+10
+
+
+egories as necessary. This iterative refinement improves accuracy and interpretability,
+yielding a distilled set of frames that better capture the nuances of the underlying data.
+This framework leverages LLMs’ strengths in understanding and generating text while
+incorporating human expertise to fine-tune the final output. Integrating LLMs with hu
+man oversight ensures that the constructs identified are theoretically sound and practi
+cally meaningful. Moreover, this approach allows for dynamic adaptation of construct
+identification to evolving textual data, making it particularly useful in longitudinal stud
+ies or real-time text analysis.
+To conclude, traditional NLP techniques for measuring classification constructs have
+advanced significantly but face many limitations regarding interpretability, adaptability,
+and scalability. Large Language Models offer a promising alternative due to their supe
+rior contextual understanding and generative capabilities. Using LLMs in a generative
+framework, researchers can efficiently extract and identify frames, topics, narratives, and
+other constructs from textual data. This approach combines the strengths of machine
+learning and human expertise, ensuring robust and nuanced text analysis.
+3 Methods
+This paper aims to extract and classify latent constructs, including frames, narratives, and
+topics, from large textual corpora. By leveraging the capabilities of an Open-Source LLM,
+this approach integrates automated NLP techniques with humans in the loop validation,
+ensuring a comprehensive and reliable extraction process. The general framework is
+depicted in Figure 1.
+The proposed methodological framework leverages Open Source LLMs, such as the
+LLaMA 3 model, to extract and classify latent constructs such as frames, narratives, and
+topics from large textual corpora. The methodology is designed to address the limitations
+of traditional topic modeling methods, such as Latent Dirichlet Allocation (LDA) and
+Structural Topic Models (STM), which often struggle with interpretability, adaptability,
+and scalability (Blei et al., 2003; Roberts et al., 2014; Grootendorst, 2022).
+11
+
+
+Figure 1: Frame Generation Framework
+12
+
+
+3.1 Construct Identification and Summarization
+The process begins with extracting relevant information from textual data using the
+generative capabilities of LLMs. This involves generating concise summaries that en
+capsulate the core arguments, perspectives, or thematic elements present in the data.
+Summarization is crucial, as it distills complex texts into manageable and interpretable
+units, facilitating the subsequent identification of latent constructs (Zhu et al., 2023).
+The LLM employs a transformer architecture that utilizes self-attention mechanisms to
+focus on the most relevant parts of the text, enabling it to distill critical information from
+lengthy texts while preserving essential context and meaning (Vaswani et al., 2017). At
+this stage, researchers iteratively refine the prompts used for summarization by testing
+them on representative portions of the data, ensuring that the outputs align with both
+theoretical and empirical objectives. This process, guided by human intervention, directs
+the LLM to prioritize salient constructs while reducing unnecessary details during sub
+sequent analyses. This process is particularly suitable for identifying latent constructs
+because it reduces the cognitive load on subsequent analytical processes and improves
+the interpretability of complex data (Nenkova & McKeown, 2012). Several vital compu
+tational mechanisms underpin the effectiveness of summarization in this context.
+First, the Transformer Architecture and Attention Mechanisms introduced by Vaswani
+et al. (2017) form the backbone of modern LLMs like LLaMA 3. This architecture employs
+self-attention mechanisms that allow the model to weigh the importance of different
+words and phrases within a text. By focusing on the most relevant parts of the text, the
+model can generate summaries that capture the core arguments and thematic elements
+efficiently. The self-attention mechanism is mathematically represented as:
+Attention(Q, K, V ) = softmax QKT
+√dk
+V (1)
+Where Q, K, and V are the query, key, and value matrices, respectively, and dk is the
+dimensionality of the keys. This mechanism ensures that the model considers contextual
+dependencies throughout the text, leading to more coherent and contextually appropriate
+13
+
+
+summaries (Vaswani et al., 2017).
+Second, LLMs excel in few-shot and zero-shot learning scenarios, where they can
+perform new tasks with minimal task-specific training. This capability is particularly
+beneficial for summarization, as it allows the model to adapt to different textual domains
+and styles without requiring extensive retraining, as shown by various researchers (Ko
+jima et al., 2022; Gilardi et al., 2023; Törnberg, 2023; Alizadeh et al., 2023). For example,
+in clinical meta-analyses, LLMs can accurately identify and extract pertinent informa
+tion with minimal manual intervention, demonstrating their versatility and adaptability
+(Kartchner et al., 2023). Moreover, prompt engineering methods can be utilized to re
+fine LLM outputs, ensuring that the summaries are more aligned with specific research
+objectives and theoretical frameworks (Vatsal & Dubey, 2024).
+Thirdly, LLMs are pre-trained on vast and diverse corpora, providing extensive back
+ground knowledge and contextual understanding. This pre-training equips the models
+with a good sense of language syntax, semantics, and pragmatics, enabling them to gen
+erate summaries that are not only concise but also coherent and contextually relevant
+(Devlin et al., 2018). Further fine-tuning of specific summarization tasks can further
+enhance their ability to produce accurate summaries tailored to the needs of particular
+domains or data sets, with relatively small amounts of labeled training data (Alizadeh et
+al., 2023)
+The methodological implementation of summarization for construct identification in
+volves several steps, each leveraging LLMs’ computational strengths. It starts with text
+segmentation into manageable units, typically sentences or paragraphs. Thus, it facili
+tates detailed analysis and ensures that the summarization process can focus on discrete
+text elements. Each segment of the text undergoes a summarization using the LLM. The
+model generates concise summaries that encapsulate the core arguments or perspectives
+present in the text. The summary thus serves as the basis for identifying the latent con
+structs. By distilling the text, the identification of constructs is guided by pre-defined
+theoretical frameworks, ensuring that the extracted constructs are aligned with the re
+14
+
+
+search objectives and empirical relevance.
+3.2 Frame Generation and Concept Class Creation
+Once the summaries are generated, the next phase involves the iterative generation of po
+tential target classes for the constructs of interest. For example, based on the summarized
+content, the model might propose frames centered on ethical debates, economic concerns,
+or regulatory perspectives. This generative approach leverages the LLM’s ability to un
+derstand and synthesize text, producing various candidate frames that are relevant to
+the research objectives. The iterative process ensures comprehensive exploration of the
+corpus’s conceptual space, meaning that all salient constructs are progressively identified.
+After this stage, the researchers systematically evaluate the list of suggested classes pro
+duced by the LLM, drawing on relevant theoretical frameworks and the specific scope of
+the study. Guided by domain expertise and empirical knowledge, they refine and finalize
+which classes to include, ensuring that each category reflects a conceptually sound and
+meaningful construct class, as explained in the following section.
+Mathematically, the frame generation process can be represented as follows:
+Fi = g
+n
+X
+j=1
+Sj
+!
+where Fi denotes the generated frame class, Sj represents individual summaries, and
+g is the generative function of the LLM. The iterative nature of this process involves
+generating multiple sets of the construct of interest (e.g., frames or topics), examining
+them against domain-specific criteria, and refining them repeatedly, thereby exhaustively
+mapping the relevant conceptual space in the corpus.
+3.3 Human-in-the-Loop Validation and Refinement
+The generated concept classes then undergo a critical human-in-the-loop validation to
+ensure conceptual soundness and empirical relevance. The researchers review the gen
+erated classes, refining them to align with theoretical constructs and research questions.
+15
+
+
+This validation step is critical to maintain the precision and interpretability of the iden
+tified constructs, addressing one of the primary limitations of fully automated methods
+(Kartchner et al., 2023; Gilardi et al., 2023; Alizadeh et al., 2023). The iterative re
+finement process enhances the model output by integrating domain expertise, thereby
+improving the reliability of the classification. Prompt engineering can play an expanded
+role in this process by providing structured prompts that not only guide the LLM to
+ward generating outputs aligned with the theoretical constructs but also incorporate
+domain-specific details, key definitional elements, or examples. Through such tailored
+instructions, the model can be nudged to focus on the most relevant aspects of the text
+and generate more conceptually precise frames, topics, or narratives (Vatsal & Dubey,
+2024).
+3.4 Construct Classification
+Following the generation and validation of concept classes, the methodology employs
+a staged chain-of-thought approach for classification. This involves multiple stages in
+which the model evaluates the fit of each concept class for a given sentence or paragraph
+depending on the unit of analysis. Initially, the model generates a summary to encapsulate
+the core argument or perspective of the concept. This is followed by evaluating how well
+the summary aligns with the humanly validated concept classes. The model rates the fit
+on a scale from 1 (strongly disagree) to 7 (strongly agree) based on the coherence and
+relevance of the concept class to the text at hand.
+The fit evaluation can be formally expressed as:
+Fit(S, F ) = 1
+m
+m
+X
+k=1
+Rating(S, Fk)
+where Fit(S, F ) denotes the fit score, m is the number of frames evaluated, and
+Rating(S, Fk) is the rating given to the frame Fk based on its fit to the summary S. The
+final selection of frames for each sentence involves choosing the frame(s) with the highest
+fit scores, ensuring a nuanced and accurate classification.
+16
+
+
+The iterative and staged nature of the method ensures more robustness and reliability
+in identifying and classifying latent constructs. Furthermore, the inclusion of steps where
+the LLM is allowed to freely give reasoning should overall increase the performance of
+the frameworks, as shown by Tam et al. (2024). By combining automated summarization
+and frame generation with human validation, the approach mitigates misclassification
+risks and enhances the interpretability of the results. Integrating human expertise at
+multiple stages of the process ensures that the final result is both theoretically sound
+and empirically relevant, addressing the challenges faced by traditional NLP methods
+(Chew et al., 2023). It is also critical to ensure the interpretability and transparency
+of the summarization process, particularly in domains where the accuracy and clarity of
+extracted information are paramount (Pilault et al., 2020).
+4 Data
+4.1 Frame Analysis on European Parliamentary Speeches
+To illustrate and assess the effectiveness of the proposed methodology, this study uses
+a comprehensive data set of EU Parliamentary debates that mention “AI” or “Artificial
+intelligence” in the title or within the content of the debate. The data set comprises
+133 debates that took place between 2000 and 2023. The debates were collected using
+a web scraper that extracted relevant data from official parliamentary records. The EU
+Parliamentary data set was selected because it provides detailed and highly structured
+debates, making it well suited for testing frame and narrative identification. The data
+set allows for fine-grained analysis at the sentence level, capturing subtle differences in
+framing within the same debate. However, the data set focuses on a specific institutional
+and political context, which can limit the generalizability of the findings to other types of
+political discourse, such as informal or less structured discussions on social networks. The
+analysis is performed at the sentence level. This level of granularity ensures that each
+statement can be classified independently, allowing the detection of subtle differences
+17
+
+
+in framing that might otherwise be overlooked when analyzing entire paragraphs or full
+speeches.
+For linguistic processing, I translated speeches in Polish, Czech, Greek, Dutch, Roma
+nian, Hungarian, Danish, Swedish, Slovakian, Finnish, Croatian, Lithuanian, Bulgarian,
+Estonian and Slovenian into English using the Google Translation API. Google Translate
+is a statistical translation tool that calculates the probabilities of various correct phrase
+translations rather than focusing on word-for-word translation (Johnson et al., 2017).
+Speeches originally in English, Spanish, French, Italian, German, and Portuguese were
+analyzed in their native languages. Languages with less than 0.5% representation in the
+data set and those presenting translation challenges with the Google Translation API
+- Bosnian, Irish, Latvian, Maltese, Slovenian, Estonian, Bulgarian, Lithuanian, Finnish
+and Croatian - were excluded from the analysis.
+The final data set contains 133 debates and 5,019 speeches with 19,538 sentences.
+This comprehensive data set enables an in-depth analysis of parliamentary debates on
+artificial intelligence in multiple languages and years within the European Parliament.
+The primary data set serves exclusively for the frame classification and generation
+process. To evaluate the validity of the frame detection methods, I conducted a validation
+process using a random sample of 1,250 texts stratified by frame classes. Two coders
+independently coded this validation subset, ensuring high reliability by only including
+cases where both coders agreed on the label. This rigorous approach ensures that our
+methods are robust and reliable for detecting and classifying frames within the data set.
+After coding, the validation data set contains 996 sentences, and the intercoder agree
+ment between the two research assistants is 0.83. This shows that human coders can
+sufficiently classify the different frames.
+4.2 Frame Analysis on Newspaper Articles on Encryption
+To demonstrate the generalizability of the proposed methodological framework, I also
+applied it to a data set of US newspaper articles that are relevant to the discussion
+18
+
+
+concerning encryption. This data set, drawn from multiple major outlets over 23 years
+(2000–2023), comprises 10,954 articles that collectively capture the discourse on encryp
+tion in US news media. The encryption data set was chosen for its rich and diverse
+coverage of a contested policy issue over a long period of time, enabling exploration of
+evolving narratives and frames. However, as a media-based data set, it can be biased by
+editorial perspectives and news selection processes, potentially limiting its representative
+ness of public opinion. Moreover, its focus on US media limits cross-national comparisons,
+which could be an area for future work. The entire corpus was used to generate frames
+and narratives, while a sample of 1,000 paragraphs spanning different articles and out
+lets was selected for manual validation. Two research assistants independently coded
+these paragraphs, following the same human-in-the-loop refinement process used in the
+EU Parliamentary Debates case: first identifying potential frames and then iteratively
+refining them with domain expertise.
+After coding, the validation data set contains 600 paragraphs, and the two research
+assistants achieve an intercoder agreement of 0.56. Although this indicates moderate
+reliability among human coders, it also serves as a benchmark to evaluate how well
+machine-based classification aligns with human judgments. Since the proposed approach
+is iterative and combines human expertise with automated methods, the goal is not to
+outperform human coders outright, but rather to harness the best of both approaches for
+more reliable frame classification.
+4.3 Topic Modeling with 20 Newsgroup data set
+For the topic modeling aspect of this study, the widely recognized 20 Newsgroup data set
+is used as a benchmark to evaluate the quality of the topic modeling algorithms. This
+data set contains 18,846 news articles, evenly distributed across 20 different categories,
+providing balanced coverage ideal for validating topic models at scale.
+While inspecting the corpus, I discovered 115 articles exceeding 4,096 tokens, partly
+due to extensive code, HTML fragments, XML headers, or other non-standard text ele
+19
+
+
+ments. Since LLaMA 3 has a maximum context window of 4,096 tokens, summarization
+could not be guaranteed for texts that surpass this limit. Moreover, 53 of these long
+articles originate from the category “comp” (computer), featuring large sections of raw
+hex code or HTML artifacts that contribute little to meaningful textual content. As a
+result, these 115 articles were excluded from the analysis.
+Unlike the frame analysis data set, the 20 Newsgroup data set allows for validation
+using the entire data set due to its comprehensive labeling and established use as a
+benchmark for topic modeling. This enables a thorough evaluation of the topic mod
+eling methods without the constraints of sample-based validation, thus enhancing the
+robustness and credibility of my findings.
+5 Results
+5.1 Frame Classification on European Parliamentary Debates
+The proposed methodology was applied to European Parliamentary Debates on artifi
+cial intelligence (AI), which included 133 debates, 5,019 speeches, and 19,538 sentences.
+The Open Source Large Language Model (LLM) generated concise summaries for each
+sentence to capture critical themes.
+Initially, LLM identified 83 potential frames related to AI, such as AI Benefits, AI
+Risks, and AI Ethics. Recognizing overlaps and less relevant frames, a refinement process
+was conducted through human review, focusing on theoretical relevance and clarity. This
+led to a distilled list of 11 distinct frames: AI Benefits, AI Risks, AI Ethics, AI Regulation,
+AI Impact, AI Innovation, AI Development, AI Potential, AI Limitations, AI Concerns,
+and No Frame.
+To assess the reliability and validity of the classification approach, I performed a
+validation using a random sample of 1200 sentences from the data set. Two research
+assistants coded the sentences independently, achieving an intercoder agreement (Krip
+pendorff’s Alpha) of 0.73 for detecting the presence of any frame and 0.6 for classifying
+20
+
+
+specific frames. These metrics indicate acceptable reliability, providing a benchmark
+for evaluating the LLM’s performance. This results in 996 usable sample sentences to
+validate the LLM on 1.
+Accuracy Holsti’s CR Krippendorff’s Alpha
+Frame Presence 0.89 0.89 0.73 Frame Classes 0.83 0.83 0.66
+Table 1: Performance metrics of human coders in the frame classification task for both detecting the presence of any frame and classifying specific frame classes in the data set of European Parliamentary debates.
+The LLM was then applied to classify the same sentences. The performance metrics of
+the model are shown in Table 2. The LLM achieved an accuracy of 0.87 for detecting the
+presence of any frame, which closely matches human performance. For classifying specific
+frames, the model reached an accuracy of 0.82 and an F1 score of 0.78. These results
+indicate that the LLM effectively identified and classified frames within the debates.
+Accuracy F1 Score Precision Recall
+Frame Presence 0.84 0.88 1.00 0.78 Frame Classes 0.79 0.73 0.40 0.74
+Table 2: LLM performance metrics in classifying frames within the debates. The table presents accuracy, F1 score, precision, and recall for detecting the presence of any frame and classifying specific frame classes, demonstrating the model’s effectiveness compared to human coders.
+The integration of human experience in the refinement of the frame classes proved cru
+cial. The LLM’s performance can be improved significantly after the frames are refined.
+This reduces ambiguity and overlap. This underscores the importance of combining auto
+mated LLM capabilities with human-in-the-loop validation to enhance both the accuracy
+and interpretability of classification results.
+These findings support the theory that the integration of LLM with human exper
+tise improves the extraction of construction materials. The human-in-the-loop process
+21
+
+
+improved the clarity of frames, boosting the LLM’s classification performance. This ap
+proach addresses challenges in traditional NLP methods by combining scalability with
+conceptual soundness.
+In summary, the methodology demonstrates for this first example that LLMs, when
+guided by human validation, can effectively extract and classify frames from large textual
+data sets like parliamentary debates. This offers a valuable tool for researchers analyzing
+complex policy discussions.
+5.2 Frame Classification on News Articles covering Encryption
+The second data set focuses on how encryption is framed within the US, providing a
+second opportunity to test the effectiveness of the proposed method in a different setting.
+The initial output of the model includes an extensive list of frames, some of which over
+lap or are not directly relevant to the focus on encryption as a single issue topic. This
+underscores the need for careful human oversight to ensure that the selected frames are
+conceptually distinct and relevant to the debate on encryption. Through iterative refine
+ment, one can distill the list down to a set of mostly mutually exclusive frames, avoiding
+redundancy while capturing the diverse ways encryption is discussed in the media. The
+main advantage of this frame-generation process is that it provides a researcher with an
+exhaustive list of possible frames measured in the data. This allows for a more manage
+able selection of a set of frame classes without missing important frames that could be
+left out.
+This refinement process leads to the selection of frame classes that are both theoreti
+cally grounded and empirically relevant. Enabling a nuanced analysis of how encryption
+is framed in the news landscape of the USA. The final set of frame classes provides a
+coherent structure for examining encryption’s competing narratives and priorities, in
+cluding security, privacy, ethics, public safety, and moral evaluations. The generation of
+generative frames suggests all of these frames to a great degree, as they are found over
+many sampling iterations.
+22
+
+
+Building on the model’s suggestions and refining them further, I identified eleven
+keyframe classes to analyze how encryption is portrayed in the news media. Governmen
+tal Control, Corporate Power, Accountability Issues, Privacy vs. Security, Privacy, Se
+curity, Surveillance Concerns, National Security, Encryption Risks, Encryption Threats,
+and Other Frames. These categories capture the range of perspectives and narratives
+surrounding encryption, allowing a systematic examination of media frames that reflects
+the complexities and nuances of public discourse on this topic.
+To assess the quality of the classification, I once again rely on human validation. Two
+research assistants were tasked with annotating the frame classes of 600 paragraphs from
+news articles about encryption, with the same instruction as was given to the LLM, with
+the slight change that instead of telling them to rate the fit for each class individually and
+then picking the best fitting one or two frames, they were asked to select the best or two
+best-fit frames directly. Overall, they achieved an intercoder agreement (Krippendorff’s
+Alpha) of 0.65 for detecting the presence of any frame and 0.51 for classifying specific
+frames. These metrics indicate acceptable reliability, providing a benchmark for evalu
+ating the LLM’s performance. This results in 335 usable sample paragraphs to validate
+the LLM on 3.
+Accuracy Holsti’s CR Krippendorff’s Alpha
+Frame Class Present 0.90 0.90 0.65 Frame Classes 0.56 0.56 0.51
+Table 3: Performance metrics of human coders in the frame classification task for both detecting the presence of any frame and classifying specific frame classes in the data set of news articles regarding the issue of encryption in the US.
+With this validation set, I can measure the quality of the LLM (LLaMA 3) for clas
+sifying frames in news article paragraphs. The LLM achieved an accuracy of 0.92 for
+detecting the presence of any frame, which closely matches human performance. For
+classifying specific frames, the model reached an accuracy of 0.66 and an F1 score of 0.68.
+These results indicate that the LLM effectively identified and classified frames within the
+23
+
+
+debates.
+Accuracy F1 Score Precision Recall
+Frame Class Present 0.92 0.70 0.75 0.66 Frame Classes 0.66 0.68 0.61 0.52
+Table 4: LLM performance metrics in classifying frames within the paragraphs. The table presents accuracy, F1 score, precision, and recall for detecting the presence of any frame and classifying specific frame classes, demonstrating the model’s effectiveness compared to human coders.
+These findings further support the theory that the integration of LLMs with human
+expertise enhances construct extraction and classification.
+5.3 Topic Classification
+To evaluate the reliability of the method beyond frame analysis, I applied it to the 20
+Newsgroups data set. This data set enables me to assess the method’s capability to
+classify documents into distinct topics. Similarly to the other data sets, the primary
+output of interest is the generated list of concepts, which in this context corresponds to
+topics. The generation process identified a total of 20 unique topics. As with the other
+data sets, many of these topics are closely related. This allows for a thorough evaluation
+of the method’s ability to detect all the topics and the frequency with which each topic
+is identified in the samples.
+Of the 20 annotated topics, the generative process successfully identified 11 topics, the
+most frequently observed being Christianity, Cryptography, Hockey, Space Exploration,
+Baseball, Motorcycles, Politics, Medicine, Religion, Automotive, and Technology. Several
+other topics, such as Social Issues, International Relations, Military and Defense, Law,
+Gaming, Philosophy, Education, Business, Science, Health, History, and general Sports
+were not directly identified. However, these topics could be partially inferred through
+closely related categories identified in the extended list of generated topics.
+The additional topics generated, such as “Law,” “Gaming,” “Philosophy,” “Education,”
+“Business,” “Science,” and “Health,” were categorized under broader headings like “Politics
+24
+
+
+and Government,” “Technology and Computing,” and “Religion and Philosophy.” This
+highlights the method’s ability to capture nuanced variations within broader thematic
+areas. For example, "Military and Defense" could be inferred under "Security," and
+"International Relations" might be partially represented by topics such as "Conflict and
+War" or "International Relations" in the generated list.
+Overall, the method demonstrates a solid ability to identify most topics, although it
+encounters some difficulty with closely related topics that may function as subtopics of
+others. However, the topic-generation process is effective and even proposes additional
+sensible topics that extend the initial set, enhancing the overall comprehensiveness of the
+topic-identification process. Ultimately, I settled on 25 topics, including a miscellaneous
+one to catch all texts that my selection could not classify. Below are the topics and their
+corresponding explanations, along with the original topics from the 20 Newsgroups data
+set they are related to:
+• SOCIAL ISSUES (Related to: talk.politics.misc, talk.politics.guns)
+• INTERNATIONAL RELATIONS (Related to: talk.politics.mideast)
+• MILITARY AND DEFENSE (No direct match, partly from talk.politics.guns and
+talk.politics.mideast)
+• CHRISTIANITY (Direct match: soc.religion.christian)
+• LAW (No direct match, partly from talk.politics.misc and talk.politics.guns)
+• GAMING (No direct match)
+• CRYPTOGRAPHY (Direct match: sci.crypt)
+• PHILOSOPHY (No direct match, partly from alt.atheism and talk.religion.misc)
+• HOCKEY (Direct match: rec.sport.hockey)
+• SPACE EXPLORATION (Direct match: sci.space)
+• BASEBALL (Direct match: rec.sport.baseball)
+• MOTORCYCLES (Direct match: rec.motorcycles)
+• EDUCATION (No direct match, partly from sci.med and sci.electronics)
+• POLITICS (Direct match: talk.politics.misc)
+25
+
+
+• MEDICINE (Direct match: sci.med)
+• BUSINESS (No direct match, partly from misc.forsale and some discussions in
+rec.autos and rec.motorcycles)
+• SCIENCE (No direct match, partly from sci.electronics, sci.med, and sci.space)
+• HEALTH (No direct match, partly from sci.med and misc.forsale)
+• HISTORY (No direct match)
+• RELIGION (Direct match: talk.religion.misc, alt.atheism)
+• AUTOMOTIVE (Direct match: rec.autos)
+• SPORTS (No direct match, but partly from rec.sport.xy classes)
+• TECHNOLOGY (Direct match: all comp.xy classes)
+• MISCELLANEOUS (No direct match)
+To assess the classification performance, two human coders independently classified a
+random sample of articles into the 25 generated topics, achieving an accuracy of 0.68 and
+a Krippendorff’s Alpha of 0.66, as shown in Table 5. These metrics indicate moderate
+agreement among human coders, reflecting the inherent challenges in classifying topics
+that may overlap or function as subtopics.
+Accuracy Holsti’s CR Krippendorff’s Alpha
+Topics 0.68 0.68 0.66
+Table 5: Performance metrics of human coders in the topic classification task. The metrics indicate agreement and reliability in assigning articles to the 25 generated topics.
+The LLM was then applied to classify the paragraphs from the articles into 25 topics.
+The model achieved an accuracy of 0.65 and an F1 score of 0.68, as presented in Table 6.
+While the accuracy is slightly lower than that of the human coders, the F1 score indi
+cates that the model has a comparable balance of precision and recall. The precision of
+0.33 suggests that the model was conservative in its classifications, possibly due to the
+complexity of distinguishing closely related topics.
+26
+
+
+Accuracy F1 Score Precision Recall
+Topics 0.65 0.68 0.33 0.60
+Table 6: LLM performance metrics in classifying articles into the 25 generated topics. The metrics demonstrate the model’s effectiveness and comparability to human coders in the topic classification task.
+These results indicate that the LLM effectively classifies topics even when using a set
+of topics generated by the method itself. The moderate agreement levels suggest that the
+task is inherently challenging due to the nuanced and overlapping nature of some topics.
+Nonetheless, the LLM’s performance is comparable to that of human coders, highlighting
+its potential as a valuable tool for topic classification in large textual data sets.
+In the classification process, the LLM employs a staged chain-of-thought approach as
+outlined in the methodology. Initially, it generates a concise summary of each article or
+paragraph to distill the essential content related to potential topics. This summarization
+captures the core arguments and thematic elements of the text. The LLM then evaluates
+the fit of each possible topic class to the summarized content by rating the coherence
+and relevance of each topic class on a scale from 1 (strongly disagree) to 7 (strongly
+agree). The model selects the topic class with the highest fit score as the best-fitting
+topic for that text segment. This systematic approach enhances classification accuracy
+by focusing on the most relevant aspects of the text and leveraging the LLM’s contextual
+understanding.
+Applying the methodology to the 20 Newsgroups data set demonstrates its adaptabil
+ity and effectiveness in topic classification tasks. By integrating LLM-generated topics
+with human validation, we ensure both the comprehensiveness and relevance of the topic
+categories. Despite the inherent challenges of nuanced and overlapping topics, the LLM
+performs comparably to human coders. This underscores the benefit of combining auto
+mated processing with human expertise in text analysis, offering a robust framework for
+topic classification in large and complex data sets.
+27
+
+
+6 Comparison of Classification Results Across Datasets
+This section compares the performance of LLM in three classification tasks, as summa
+rized in Table 7. Each data set features a different structure and content type, which
+influences the accuracy, precision, recall, and F1 scores of the LLM.
+The European Parliamentary Debates dataset consists of speeches analyzed at the
+sentence level for frame classification. As shown in Table 7, LLM achieved its highest
+precision (0.79) and a solid F1 score (0.73). These results suggest that the formal and
+policy-focused nature of parliamentary speeches helps the model identify frames more
+consistently. However, precision (0.40) was significantly lower than recall (0.74), indicat
+ing that the model occasionally overgeneralized and conflated overlapping categories.
+Data Set Accuracy F1 Score Precision Recall
+European Parliamentary Debates 0.79 0.73 0.40 0.74 US News Articles on Encryption 0.66 0.68 0.61 0.52 20 Newsgroups (Topic Classification) 0.65 0.68 0.33 0.60
+Table 7: Performance metrics of the LLM across different classification tasks. The table presents accuracy, F1 score, precision, and recall for frame classification in European Parliamentary Debates and US News Articles on Encryption, as well as topic classification in the 20 Newsgroups dataset.
+In contrast, classifying frames in the US News Articles on Encryption dataset proved
+to be more challenging. This task involved a paragraph-level classification of a topic that
+tends to be more fragmented and varied in tone. The model achieved moderate accu
+racy (0.66) and an F1 score of 0.68, reflecting decent but not outstanding performance.
+Unlike parliamentary debates, news coverage can merge different viewpoints in a single
+paragraph, which contributed to the slightly higher precision of the model (0.61) but a
+lower recall (0.52). Essentially, the model became more selective in assigning frames and
+risked missing some relevant cases.
+Finally, the 20 Newsgroups dataset required topic (rather than frame) classification
+across entire texts. According to Table 7, LLM scored an accuracy of 0.65 and an F1
+score of 0.68 - comparable to the encryption data set. However, the precision dropped
+28
+
+
+substantially to 0.33, highlighting the difficulty in distinguishing semantically similar top
+ics. Because each text often touched on multiple themes, the model sometimes struggled
+to reliably assign the correct topic category.
+These findings generally emphasize that LLM-based classification is strongly influ
+enced by text structure and granularity. Sentence-level tasks in structured political
+speeches offer the most reliable results, whereas paragraph-level journalistic content and
+full-text topical discussions introduce additional ambiguity. Further refining frame and
+topic definitions, along with domain-specific fine-tuning and human validation, can help
+address challenges like conceptual overlaps and multi-theme texts. Although LLM demon
+strates considerable promise in automated classification, Table 7 highlights how perfor
+mance varies when faced with different linguistic and contextual complexities.
+7 Conclusion
+This study introduces a novel hybrid framework for latent construct extraction and clas
+sification, leveraging the capabilities of open source Large Language Models (LLMs)
+such as LLaMA 3. This framework combines generative capabilities with human-in-the
+loop validation to overcome key limitations of existing techniques like Latent Dirichlet
+Allocation (LDA) and Bertopic. Unlike these traditional methods, it is better suited
+for extracting and classifying latent constructs, such as frames, topics, and narratives,
+while offering greater conceptual alignment and adaptability to specific research ques
+tions. This flexibility allows researchers to measure precise constructs tailored to a given
+study’s theoretical and empirical needs, advancing the analytical rigor of computational
+social science.
+The framework’s application to data sets spanning European Parliamentary debates,
+US news articles on encryption, and a benchmark topic modeling corpus demonstrates its
+robustness and versatility. The framework improves scalability and accuracy by generat
+ing explicit, consistent constructs while performing well in frame- and topic-classification
+tasks. While other methods often struggle with interpretability, ambiguous word mean
+29
+
+
+ings, and the evolving nature of textual data, the LLM-based approach addresses these
+challenges by using contextual embeddings and iterative refinement processes. This po
+sitions the framework as a valuable tool for addressing complex political communication,
+media studies, and public policy discourses.
+However, it is important to acknowledge the trade-offs inherent in this approach. De
+spite its scalability and adaptability, the method still does not fully match the precision
+of expert human coders. Human validation remains crucial to ensure conceptual validity
+and resolve uncertainties in construct identification, underscoring the current limitations
+of automated processes. Although some researchers may rely on dedicated research assis
+tants for this validation step, crowd-sourcing platforms (e.g., Amazon Mechanical Turk,
+Prolific) also offer feasible alternatives for recruiting human annotators at scale (Gilardi
+et al., 2023). This flexibility in how human validation is conducted broadens the feasibil
+ity of the method. Overall, the framework represents a significant step toward balancing
+scalability with accuracy, making it particularly useful for large-scale studies where ex
+clusively manual coding would be prohibitively resource-intensive.
+Future research should enhance the framework’s performance by integrating fine
+tuning techniques with small, domain-specific training sets. Fine-tuning open-source
+LLMs to align more closely with the constructs and contexts of interest can significantly
+improve classification outcomes while retaining the adaptability of the generative ap
+proach. This refinement could mitigate performance gaps between machine-driven and
+human coding, enabling more reliable and nuanced analysis across diverse data sets.
+Additionally, the methodology’s reliance on LLMs underscores the importance of eth
+ical and epistemological considerations. Ensuring transparency in decision making, ad
+dressing potential biases in pretrained models, and maintaining interpretability are crucial
+for upholding scientific rigor. Future advancements should explore semiautomated vali
+dation mechanisms and active learning strategies to further streamline human-in-the-loop
+processes without compromising conceptual integrity.
+In summary, this study demonstrates that combining the scalability and adaptability
+30
+
+
+of LLMs with human expertise represents a transformative advancement over traditional
+methods such as LDA and Bertopic modeling. By enabling tailored and precise construct
+identification and classification, the framework offers researchers a powerful tool for an
+alyzing large and complex textual data sets. Although not yet a complete replacement
+for expert human coders, its scalability and conceptual alignment make it an invaluable
+addition to the methodological toolkit of computational social scientists. With continued
+refinement and integration of fine-tuning techniques, this hybrid approach holds great
+promise for advancing our understanding of the nuanced layers of meaning embedded in
+textual discourses, ultimately broadening the scope and depth of social science research.
+Acknowledgement I thank Daria Stetsenko, Dina Della Casa, and Benjamin Streiff
+for their excellent research assistance.
+Funding Statement This project received funding from the European Research Coun
+cil (ERC) under the European Union’s Horizon 2020 research and innovation program
+(grant agreement nr. 883121).
+References
+Aggarwal, C. C., & Zhai, C. (2012). A survey of text clustering algorithms. Mining text
+data, 77–128.
+Alizadeh, M., Kubli, M., Samei, Z., Dehghani, S., Bermeo, J. D., Korobeynikova, M., &
+Gilardi, F. (2023). Open-source llms for text annotation: A practical guide for model
+setting and fine-tuning. arXiv preprint arXiv:2307.02179v2 .
+Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of
+machine Learning research, 3 (Jan), 993–1022.
+Borgatti, S. P., & Li, X. (2009). On social network analysis in a supply chain context.
+Journal of supply chain management, 45 (2), 5–22.
+31
+
+
+Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., . . .
+Amodei, D. (2020). Language models are few-shot learners. In H. Larochelle,
+M. Ranzato, R. Hadsell, M. Balcan, & H. Lin (Eds.), Advances in neural infor
+mation processing systems (Vol. 33, pp. 1877–1901). Curran Associates, Inc. Re
+trieved from https://proceedings.neurips.cc/paper_files/paper/2020/file/
+1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
+Chew, R., Bollenbacher, J., Wenger, M., Speer, J., & Kim, A. (2023). Llm-assisted
+content analysis: Using large language models to support deductive coding. arXiv
+preprint arXiv:2306.14924 .
+Dagdelen, J., Dunn, A., Lee, S., Walker, N., Rosen, A. S., Ceder, G., . . . Jain, A.
+(2024). Structured information extraction from scientific text with large language
+models. Nature Communications, 15 (1), 1418.
+Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training
+of deep bidirectional transformers for language understanding. arXiv preprint
+arXiv:1810.04805 .
+Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal
+of communication, 43 (4), 51–58.
+Entman, R. M. (2007). Framing bias: Media in the distribution of power. Journal of
+communication, 57 (1), 163–173.
+Gilardi, F., Alizadeh, M., & Kubli, M. (2023). Chatgpt outperforms crowd workers
+for text-annotation tasks. Proceedings of the National Academy of Sciences, 120 (30),
+e2305016120.
+Grootendorst, M. (2022). Bertopic: Neural topic modeling with a class-based tf-idf
+procedure. arXiv preprint arXiv:2203.05794 .
+32
+
+
+Huang, Y., Xu, J., Lai, J., Jiang, Z., Chen, T., Li, Z., . . . others (2023). Advancing trans
+former architecture in long-context large language models: A comprehensive survey.
+arXiv preprint arXiv:2311.12351 .
+Jain, A. K. (2010). Data clustering: 50 years beyond k-means. Pattern recognition letters,
+31 (8), 651–666.
+Jain, A. K., Murty, M. N., & Flynn, P. J. (1999). Data clustering: a review. ACM
+computing surveys (CSUR), 31 (3), 264–323.
+Johnson, M., Schuster, M., Le, Q. V., Krikun, M., Wu, Y., Chen, Z., . . . Dean, J.
+(2017). Google’s multilingual neural machine translation system: Enabling zero-shot
+translation. Transactions of the Association for Computational Linguistics, 5 , 339
+351.
+Kartchner, D., Ramalingam, S., Al-Hussaini, I., Kronick, O., & Mitchell, C. (2023). Zero
+shot information extraction for clinical meta-analysis using large language models..
+Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). Large language
+models are zero-shot reasoners. Advances in neural information processing systems,
+35 , 22199–22213.
+Lam, M. S., Teoh, J., Landay, J. A., Heer, J., & Bernstein, M. S. (2024). Concept induc
+tion: Analyzing unstructured text with high-level concepts using lloom. In Proceedings
+of the chi conference on human factors in computing systems (pp. 1–28).
+Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., . . . Douwe, K.
+(2020). Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances
+in Neural Information Processing Systems, 33 , 9459–9474.
+McCoy, R. T., Yao, S., Friedman, D., Hardy, M. D., & Griffiths, T. L. (2024). Em
+bers of autoregression show how large language models are shaped by the problem
+they are trained to solve. Proceedings of the National Academy of Sciences, 121 (41),
+e2322420121.
+33
+
+
+Milojević, S. (2014). Network analysis and indicators. In Measuring scholarly impact:
+Methods and practice (pp. 57–82). Springer.
+Nenkova, A., & McKeown, K. (2012). A survey of text summarization techniques. Mining
+text data, 43–76.
+Pilault, J., Li, R., Subramanian, S., & Pal, C. (2020). On extractive and abstractive
+neural document summarization with transformer language models. In Proceedings of
+the 2020 conference on empirical methods in natural language processing (emnlp) (pp.
+9308–9319).
+Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language
+models are unsupervised multitask learners. OpenAI blog, 1 (8), 9.
+Roberts, M. E., Stewart, B. M., Tingley, D., Lucas, C., Leder-Luis, J., Gadarian, S. K.,
+. . . Rand, D. G. (2014). Structural topic models for open-ended survey responses.
+American Journal of political science, 58 (4), 1064–1082.
+Tai, R. H., Bentley, L. R., Xia, X., Sitt, J. M., Fankhauser, S. C., Chicas-Mosier, A. M.,
+& Monteith, B. G. (2024). An examination of the use of large language models
+to aid analysis of textual data. International Journal of Qualitative Methods, 23 ,
+16094069241231168.
+Tam, Z. R., Wu, C.-K., Tsai, Y.-L., Lin, C.-Y., Lee, H.-y., & Chen, Y.-N. (2024). Let
+me speak freely? a study on the impact of format restrictions on performance of large
+language models. arXiv preprint arXiv:2408.02442 .
+Törnberg, P. (2023). Chatgpt-4 outperforms experts and crowd workers in annotating
+political twitter messages with zero-shot learning. arXiv preprint arXiv:2304.06588 .
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., . . . Polo
+sukhin, I. (2017). Attention is all you need. Advances in neural information processing
+systems, 30 .
+34
+
+
+Vatsal, S., & Dubey, H. (2024). A survey of prompt engineering methods in large language
+models for different nlp tasks. arXiv preprint arXiv:2407.12994 .
+Xu, D., Chen, W., Peng, W., Zhang, C., Xu, T., Zhao, X., . . . Chen, E. (2024). Large lan
+guage models for generative information extraction: A survey. Frontiers of Computer
+Science, 18 (6), 186357.
+Yang, J., Jin, H., Tang, R., Han, X., Feng, Q., Jiang, H., . . . Hu, X. (2024). Harnessing
+the power of llms in practice: A survey on chatgpt and beyond. ACM Transactions on
+Knowledge Discovery from Data, 18 (6), 1–32.
+Zaheer, M., Guruganesh, G., Dubey, K. A., Ainslie, J., Alberti, C., Ontanon, S., . . .
+Ahmed, A. (2020). Big bird: Transformers for longer sequences. Advances in neural
+information processing systems, 33 , 17283–17297.
+Zhang, T., Ladhak, F., Durmus, E., Liang, P., McKeown, K., & Hashimoto, T. B. (2024).
+Benchmarking large language models for news summarization. Transactions of the
+Association for Computational Linguistics, 12 , 39–57.
+Zhu, Y., Yuan, H., Wang, S., Liu, J., Liu, W., Deng, C., . . . Wen, J.-R. (2023). Large
+language models for information retrieval: A survey. arXiv preprint arXiv:2308.07107 .
+35
+
+
+S1 Human-in-the-Loop Protocol
+Human input remains central to this framework for both conceptual and practical pur
+poses. On a theoretical level, it helps confirm that the concepts identified by the LLM
+match the foundational principles and empirical objectives of the project. Although au
+tomated systems are powerful, they can overlook subtle distinctions, merge overlapping
+categories, or miss context-specific insights. By relying on expert judgment, researchers
+maintain the clarity and thematic consistency that fully automated methods often strug
+gle to maintain. From a practical point of view, this involvement occurs through a
+step-by-step process in which the researcher iteratively refines the questions, reviews the
+outputs, and adjusts both the definition of these constructs and the classification guide
+lines.
+During the first phase, the researcher focuses on prompt engineering for the detection
+of constructions. This entails drafting and revising prompts to direct the LLM to surface
+relevant frames, topics, or narratives. Textual samples from the corpus are analyzed one
+at a time, and the researcher systematically adjusts instructions or reformulates queries
+based on whether the LLM’s responses match the intended conceptual boundaries. If the
+model misses pertinent constructs or conflates distinct concepts, the researcher refines
+the language of the prompts, taking into account both the theoretical framework and
+the observed behavior of the model. In practice, this could mean repeatedly testing and
+updating prompts until the output begins to consistently capture the latent constructs
+essential to the study.
+Once the model reliably identifies the constructs, the researcher introduces an addi
+tional layer of prompt engineering aimed at producing coherent and concise summaries
+of each detected concept. Here, human oversight is crucial for checking whether these
+summaries highlight key arguments, omit extraneous detail, and preserve contextual ac
+curacy. The researcher may compare multiple versions of a summary generated with
+different prompts, decide which one best captures the theoretical core of the construct,
+and then finalize the template prompt. This iterative approach helps ensure that the
+36
+
+
+results are both comprehensible and aligned with the analytical objectives of the study.
+With the constructs clearly identified and summarized, the final step involves creating
+a stable set of classes for large-scale classification. At this stage, the LLM first produces
+a comprehensive list of candidate classes by systematically scanning the entire corpus
+of texts which exhibit the construct of interest, whether a frame, narrative, or topic.
+This exhaustive survey yields a table that shows each proposed category, illustrated with
+example IDs, and an indication of how frequently that category occurs. The researcher
+then reviews these conceptual suggestions, checking that each class aligns with the the
+oretical framework of the project and does not overlap excessively with other classes. If
+certain categories are ambiguous, too narrowly defined, or conceptually redundant, the
+researcher merges or discards them. After selecting the most coherent set of categories,
+the researcher refines the prompts once again so that the LLM can consistently rate if a
+construct class fits to the text instances that exhibit the construct in question. Before
+finalizing the pipeline, the researcher tests this classification approach on a smaller sam
+ple of texts, examining both the assigned labels and any systematic errors that emerge.
+If necessary, further adjustments are made to the prompt or the class structure. These
+refinements are based on the in-depth understanding of the researcher’s corpus, ensuring
+that the final classification scheme accurately represents the complexity and thematic
+diversity of the analyzed texts.
+Following these iterative refinements, the last safeguard is a pass of verification by
+RAs. Their review takes place only after the classification pipeline is fully developed,
+introducing a new set of eyes and minimizing any bias introduced by the iterative partic
+ipation of the researcher. RAs assess a sample of classifications to confirm that it meets
+established conceptual standards and genuinely represents the constructs defined earlier
+in the process. By combining in-depth theory-driven prompt development with an impar
+tial final validation, the framework balances specialized domain expertise against the need
+for independent quality assurance, ultimately delivering more reliable and interpretable
+results at scale.
+37
+
+
+S2 Prompts
+S2.1 Prompts Frame Analysis I
+This section outlines the framework used for frame generation and classification in the
+context of parliamentary speeches on artificial intelligence. The process uses an LLM in a
+sophisticated chain of functions filtering sentences with frames, summarizing the frames,
+generating frame classes out of these summaries, and finally labeling the frames within
+the sentences after evaluating and selecting suggested frame classes by the author.
+S2.1.1 Frame Detection
+The first stage of the framework is identifying the frames in sentences. This involves a
+chain-of-thought interaction with the LLM, resulting in a binary classification that labels
+the presence or absence of a frame.
+Interaction One:
+System:
+Determine whether the following sentence (not the title) from a parliamentary speech
+on artificial intelligence exhibits a frame (framing effect).
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Assess if specific language choices, focus points, or implied assumptions in the sentence
+promote a distinct perspective or argument, indicative of a frame.
+User:
+Debate Title: [Title ]
+Text: [SENTENCE]
+Is a frame present regarding artificial intelligence (yes, no)? Provide some thoughts.
+LLM Answer:
+[THOUGHTS]
+38
+
+
+Interaction Two:
+System:
+Determine whether the following sentence (not the title) from a parliamentary speech
+on artificial intelligence exhibits a frame (framing effect).
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Assess if specific language choices, focus points, or implied assumptions in the sentence
+promote a distinct perspective or argument, indicative of a frame.
+User:
+Debate Title: [Title]
+Text: [SENTENCE]
+Is a frame present regarding artificial intelligence (yes, no)? Provide some thoughts.
+Assistant:
+[THOUGHTS]
+User:
+Now answer with just the correct category (yes, no). Please answer with just Yes or
+No.
+LLM Answer:
+[LABEL] (Yes, or No)
+S2.1.2 Frame Summarizing
+All sentences with a frame are then summarized with the LLM via Zero-Shot. This
+involves a system prompt and a user prompt, which guide the large language model
+to generate concise summaries of the frames found in a sentence. The system prompt
+includes a definition of a frame and an explanation of the task, instructing the LLM to
+summarize the sentence with a frame in no more than ten words.
+39
+
+
+System:
+Analyze the sentence provided and identify any frame present.
+According to Robert Entman’s definition where, framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Assess if specific language choices, focus points, or implied assumptions in the sentence
+promote a distinct perspective or argument, indicative of a frame.
+Summarize the identified frame in no more than 10 words.
+User:
+Please write a summary of the argumentative, indicative, and or conceptual frame
+about AI present in the following sentence in 3 to 10 words: [SENTENCE]
+Make sure to ensure the summary captures the core argument or perspective high
+lighted in the sentence.
+LLM Answer:
+[FRAME SUMMARY]
+S2.1.3 Frame Generation
+To generate all possible frame classes, the frame generation process uses a series of zero
+shot interactions together with the previously obtained frame summaries to generate
+frame class suggestions. This involves exhaustively drawing 50 summaries simultane
+ously and generating a maximum of 9 frame classes per call. This approach ensures a
+comprehensive list of possible frames, as each frame summary is seen at least once, with
+20 % of the 50 retained for the next call, while 40 new ones are added. Hence, the
+process begins by initializing the necessary variables and setting configurations for the
+LLM. Then, the loop iterates over the data frame containing frame summaries, selecting
+and sampling summaries to generate frame class suggestions. Thus, the system prompt
+includes the task and a definition of the framing concept, instructing the LLM to catego
+rize the frame summaries into no more than 9 classes. The prompt provides the specific
+instructions and the summaries to the LLM, ensuring the response includes the frame
+class name and count of summaries in a machine-readable JSON format.
+40
+
+
+System:
+Categorize the following set of frame summaries from a set of sentences with a frame
+present. According to Robert Entman’s definition, framing involves selecting and
+emphasizing aspects of a situation or issue to promote specific problem definitions,
+causal interpretations, moral evaluations, and treatment recommendations.
+This shapes the social reality and guides the audience’s understanding.
+Please come up with a set of categories but no more than 1 to 9 for these examples.
+User:
+I have these frame summaries:
+[FRAME SUMMARIES]
+Please come up with a maximum 9 frame classes and write a 2-4 word name for
+the frame category, the number of times this frame occurs in this sample, and an
+associated chatGPT Prompt that can serve as an instruction to determine if a new
+sentence contains this frame (framing effect) or not.
+Please respond ONLY with a valid JSON in the following format (No yapping!):
+{
+"frame-categories": [
+{
+"frame": "<FRAME_NAME_1>",
+"prompt": "<FRAME_NAME_PROMPT_1>",
+"Count": "<NUMBER_OF_SUMMARIES_1>",
+"Example IDs": "<URN_ID_1_1, URN_ID_1_2, URN_ID_1_3>"
+},
+{
+"frame": "<FRAME_NAME_2>",
+"prompt": "<FRAME_NAME_PROMPT_2>",
+"Count": "<NUMBER_OF_SUMMARIES_2>",
+"Example IDs": "<URN_ID_2_1, URN_ID_2_2, URN_ID_2_3>"
+},
+{...}
+]
+}
+LLM Answer:
+[FRAME CATEGORIES ]
+41
+
+
+Lastly, all the outputted joint files are combined into one large set of generated frames
+while merging duplicates. This is then used to build the final list of selected frame classes
+to be used for frame classification of the formed sentences.
+S2.1.4 Frame Classification
+This section details the final step of the framework, which is the actual classification of the
+frames, after selecting the frames and their respective commands. In the first step, we ask
+the LLM to summarize the sentence frame once more. Then, we use a chain-of-thought
+loop to assess how well each possible frame fits the sentence on a 7-point Likert scale
+using the frame summary from the first step to increase the quality of the fit assessment.
+After the LLM returns all the fit values, we filter for the highest fit values. The labels
+with the highest fit are then shown to the LLM again together with the sentence, and
+where we task the LLM to return the final frame label for the sentence or frame labels if
+the two are equally well fitting.
+Step One:
+System: Read the sentence provided from a speech on artificial intelligence and sum
+marize the frame present.
+According to Robert Entman’s definition where, framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Summarize the identified frame in no more than two sentences.
+User:
+Please write a summary of the argumentative, indicative and or conceptual frame
+about AI present in the following sentence:
+[SENTENCE]
+Make sure the summary captures the core argument or perspective highlighted in the
+sentence and is no longer than two sentences.
+LLM Answer:
+[Frame Summary]
+42
+
+
+Step Two:
+System:
+Read the sentence provided from a speech on artificial intelligence and summarize the
+frame present.
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Determine if the frame could be classified as a [FRAME CATEGORY] frame.
+User:
+Sentence: [SENTENCE]
+Please decide if the [FRAME CATEGORY] frame is present in the sentence or not?
+Assistant:
+[Frame Summary]
+User:
+CONTEXT:
+I have the following SENTENCE:
+[SENTENCE]
+I also have a frame named [FRAME CATEGORY] with the following PROMPT:
+[FRAME CATEGORY PROMPT]
+TASK:
+How well does the above SENTENCE fit with the presented frame PROMPT?
+Formulate a one-sentence RATIONALE of your thought process and provide a re
+sulting ANSWER of ONE of the following multiple-choice options, including just the
+NUMBER:
+- 1: Strongly Disagree
+- 2: Disagree
+- 3: Slightly Disagree
+- 4: Neither Agree nor Disagree
+- 5: Slightly Agree
+- 6: Agree
+- 7: Strongly Agree
+Respond with ONLY the RATIONALE and the NUMBER in a VALID JSON For
+mat structured like this: {"Rationale": "<one-sentence rationale>", "Fit": "<Num
+ber>","Frame": "<Frame Name>"}
+LLM Answer:
+[FRAME FIT JSON] 43
+
+
+Step Three:
+System:
+Read the sentence provided from a speech on artificial intelligence and select the most
+prominent and best-fitting frame from a given list of Frames.
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Determine which of the following frames fits best for the sentence (You can choose up
+to two frames): [FINAL FRAME CATEGORIES]
+User:
+Sentence: [SENTENCE]
+Please decide which of the following frames is the most prominent one in the sentence:
+[FINAL FRAME CATEGORIES]
+Assistant:
+Some Thoughts for the different Frames regarding the Sentence:
+[FINAL FRAME RATIONALE SENTENCES]
+User:
+CONTEXT:
+I have the following SENTENCE:
+[SENTENCE]
+TASK:
+Please decide which of the following FRAMES is the most prominent/fitting one in
+the sentence:
+[FINAL FRAME CATEGORIES]
+Respond with ONLY the FRAMES that fit best.
+You are allowed to return either ONE or TWO frames (preferably one) in the following
+format: <FRAME> OR <FRAME 1 | FRAME 2>
+LLM Answer:
+[FRAME LABEL]
+44
+
+
+S2.2 Prompts Frame Analysis II
+This outlines the framework used for frame generation and classification in the context of
+parliamentary speeches on artificial intelligence. The process uses an LLM in a sophisti
+cated chain of functions to filter sentences with frames, summarize the frames, generate
+frame classes out of these summaries, and finally label the frames within the sentences
+after evaluating and selecting suggested frame classes by the author.
+S2.2.1 Frame Detection
+The first stage of the framework is identifying the frames in sentences. This involves a
+chain-of-thought interaction with the LLM, resulting in a binary classification that labels
+the presence or absence of a frame.
+Interaction One:
+System:
+Determine whether the following paragraph from a newspaper about encryption ex
+hibits a frame (framing effect) on/about encryption.
+According to Robert Entman’s definition where, framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Assess if specific language choices, focus points, or implied assumptions in the sentence
+promote a distinct perspective or argument, indicative of a frame.
+User:
+Article Title: [Title]
+Text: [Paragraph]
+Is a frame present regarding encryption (yes, no)? Provide some thoughts.
+LLM Answer:
+[THOUGHTS]
+45
+
+
+Interaction Two:
+System:
+Determine whether the following paragraph from a newspaper about encryption ex
+hibits a frame (framing effect) on/about encryption.
+According to Robert Entman’s definition where, framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Assess if specific language choices, focus points, or implied assumptions in the sentence
+promote a distinct perspective or argument, indicative of a frame.
+User:
+Article Title: [Title]
+Text: [Paragraph]
+Is a frame present regarding encryption (yes, no)? Provide some thoughts.
+Assistant:
+[THOUGHTS]
+User:
+Now answer with just the correct category (yes, no). Please answer with just Yes or
+No.
+LLM Answer:
+[LABEL] (Yes, or No)
+S2.2.2 Frame Summarizing
+All sentences with a frame are then summarized with the LLM via Zero-Shot. This
+involves a system prompt and a user prompt, which guide the large language model
+to generate concise summaries of the frames found in a sentence. The system prompt
+includes a definition of a frame and an explanation of the task, instructing the LLM to
+summarize the sentence with a frame in no more than ten words.
+46
+
+
+System:
+Analyze the newspaper paragraph provided and identify any frame present.
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Assess if specific language choices, focus points, or implied assumptions in the sentence
+promote a distinct perspective or argument, indicative of a frame.
+Summarize the identified frame in no more than 16 words.
+User:
+Please write a summary of the argumentative, indicative and or conceptual frame
+about encryption/cryptography present in the following newspaper paragraph in 8 to
+16 words: [Praragraph]
+Make sure to ensure the summary captures the core argument and perspective high
+lighted in the sentence.
+LLM Answer:
+[FRAME SUMMARY]
+S2.2.3 Frame Generation
+To generate all possible frame classes, the frame generation process uses a series of zero
+shot interactions together with the previously obtained frame summaries to generate
+frame class suggestions. This involves exhaustively drawing 100 summaries simultane
+ously and generating a maximum of 9 frame classes per call. This approach ensures a
+comprehensive list of possible frames, as each frame summary is seen at least once, with
+20 % of the 100 retained for the next call, while 80 new ones are added. Hence, the
+process begins by initializing the necessary variables and setting configurations for the
+LLM. Then, the loop iterates over the data frame containing frame summaries, selecting
+and sampling summaries to generate frame class suggestions. Thus, the system prompt
+includes the task and a definition of the framing concept, instructing the LLM to catego
+rize the frame summaries into no more than 9 classes. The prompt provides the specific
+instructions and the summaries to the LLM, ensuring the response includes the frame
+47
+
+
+class name and count of summaries in a machine-readable JSON format.
+48
+
+
+System:
+Categorize the following set of frame summaries from a set of newspaper paragraphs
+with encryption frames present. According to Robert Entman’s definition where fram
+ing involves the selection and emphasis of aspects in a situation or issue to promote
+specific problem definitions, causal interpretations, moral evaluations, and treatment
+recommendations.
+This shapes the social reality and guides the audience’s understanding.
+Please come up with a set of categories but no more than 1 to 9 for these examples.
+User:
+I have these frame summaries:
+[FRAME SUMMARIES]
+Please come up with a maximum 9 frame classes and write a 2-4 word name for the
+frame category, the number of times this frame occurs in this sample and an associated
+chatGPT Prompt that can serve as an Instruction to determine if a new sentence
+contains this frame (framing effect) or not.
+Please respond ONLY with a valid JSON in the following format (No yapping!):
+{
+"frame-categories": [
+{
+"frame": "<FRAME_NAME_1>",
+"prompt": "<FRAME_NAME_PROMPT_1>",
+"Count": "<NUMBER_OF_SUMMARIES_1>",
+"Example IDs": "<URN_ID_1_1, URN_ID_1_2, URN_ID_1_3>"
+},
+{
+"frame": "<FRAME_NAME_2>",
+"prompt": "<FRAME_NAME_PROMPT_2>",
+"Count": "<NUMBER_OF_SUMMARIES_2>",
+"Example IDs": "<URN_ID_2_1, URN_ID_2_2, URN_ID_2_3>"
+},
+{...}
+]
+}
+LLM Answer:
+[FRAME CATEGORIES ]
+49
+
+
+Lastly, all the outputted files are combined into one large set of generated frames
+while merging duplicates. This is then used to build the final list of selected frame classes
+to be used for frame classification of the formed sentences.
+S2.2.4 Frame Classification
+This section details the final step of the framework, which is the actual classification of the
+frames, after selecting the frames and their respective commands. In the first step, we ask
+the LLM to summarize the sentence frame once more. Then, we use a chain-of-thought
+loop to assess how well each possible frame fits the sentence on a 7-point Likert scale
+using the frame summary from the first step to increase the quality of the fit assessment.
+After the LLM returns all the fit values, we filter for the highest fit values. The labels
+with the highest fit are then shown to the LLM again together with the sentence, where
+we task the LLM to return the final frame label for the sentence or frame labels if the
+two are equally well fitting.
+Step One:
+System: Read the paragraph provided from a news paper article and summarize the
+frame present.
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Summarize the identified frame in no more than two sentences.
+User:
+Please write a summary of the argumentative, indicative and or conceptual frame
+about encryption/cryptography present in the following paragraph:
+[Paragraph]
+Make sure the summary captures the core argument or perspective highlighted in the
+paragraph and is no longer than two sentences.
+LLM Answer:
+[Frame Summary]
+50
+
+
+Step Two:
+System:
+Read the paragraph provided from a newspaper article and summarize the frame
+present.
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Determine if the frame could be classified as a [FRAME CATEGORY] frame.
+User:
+Please write a summary of the argumentative, indicative and or conceptual frame
+about encryption/cryptography present in the following paragraph:
+[Paragraph]
+Please decide if the [FRAME CATEGORY] frame is present in the sentence or not?
+Assistant:
+[Frame Summary]
+User:
+CONTEXT:
+I have the following PARAGRAPH: [PARAGRAPH]
+I also have a frame named [FRAME CATEGORY] with the following PROMPT:
+[FRAME CATEGORY PROMPT]
+TASK:
+How well does the above PARAGRAPH fit with the presented frame PROMPT?
+Formulate a one-sentence RATIONALE of your thought process and provide a re
+sulting ANSWER of ONE of the following multiple-choice options, including just the
+NUMBER:
+- 1: Strongly Disagree
+- 2: Disagree
+- 3: Slightly Disagree
+- 4: Neither Agree nor Disagree
+- 5: Slightly Agree
+- 6: Agree
+- 7: Strongly Agree
+Respond with ONLY the RATIONALE and the NUMBER in a VALID JSON For
+mat structured like this: {"Rationale": "<one-sentence rationale>", "Fit": "<Num
+ber>","Frame": "<Frame Name>"}
+LLM Answer:
+[FRAME FIT JSON]
+51
+
+
+Step Three:
+System:
+Read the paragraph provided from a news paper article on encryption / cryptography
+and select the most prominent and best-fitting frame from a given list of Frames.
+According to Robert Entman’s definition where framing suggests that frames select
+some aspects of a perceived reality and make them more salient in a communicating
+text, in such a way as to promote a particular problem definition, causal interpretation,
+moral evaluation, and/or treatment recommendation for the item described.
+Determine which of the following frames fits best for the paragraph (You can choose
+up to two frames): [FINAL FRAME CATEGORIES]
+User:
+Paragraph: [SENTENCE]
+Please decide which of the following FRAMES is the most prominent/fitting one in
+the paragraph:
+[FINAL FRAME CATEGORIES]
+Assistant:
+Some Thoughts for the different Frames regarding the sentence:
+[FINAL FRAME RATIONALE SENTENCES]
+User:
+CONTEXT:
+I have the following PARAGRAPH:
+[PARAGRAPH]
+TASK:
+Please decide which of the following FRAMES is the most prominent/fitting one in
+the paragraph:
+[FINAL FRAME CATEGORIES]
+Respond with ONLY the FRAMES that fit best.
+You are allowed to return either ONE or TWO frames (preferably one) in the following
+format: <FRAME> OR <FRAME 1 | FRAME 2>
+LLM Answer:
+[FRAME LABEL]
+52
+
+
+S2.3 Prompts Topic Modeling
+S2.3.1 Topic Summarizing
+All articles are first summarized with the LLM via Zero-Shot. This involves a system
+prompt and a user prompt, which guide the LLM to generate concise summaries of the
+main topic found in the article. The system prompt includes a definition of a topic and
+an explanation of the task, instructing the LLM to summarize the sentence with a frame
+in no more than ten words.
+System:
+Analyze the text provided and identify the topic.
+For this task, a ’topic’ is understood as the main subject or theme discussed in an ar
+ticle, encapsulating the core ideas and issues being addressed. Each topic corresponds
+to a specific category that best describes the content of the article.
+Summarize the identified topic in no more than two sentences.
+User:
+Please write a summary of the main subject or theme discussed in the following article
+in one to two sentences: [ARTICLE]
+Make sure to ensure the summary captures the core subject or theme discussed in a
+detailed manner.
+LLM Answer:
+[FRAME SUMMARY]
+S2.3.2 Frame Generation
+To generate all possible topic categories, the topic generation process uses a series of
+zero-shot interactions alongside previously obtained topic summaries to produce category
+suggestions. This involves simultaneously selecting 100 summaries and generating up to
+21 topic categories per iteration. By doing so, each topic summary is encountered at
+least once, with 20 % of the current set retained for continuity, and 80 new summaries
+introduced in each subsequent iteration.
+The procedure starts with initializing the necessary variables and configuring the
+53
+
+
+LLM. The interaction then proceeds over a data frame of topic summaries, systematically
+sampling these summaries to generate topic category proposals. To guide the model,
+the system prompt outlines the task and includes a definition of the ’topic’ concept,
+instructing the LLM to group the topic summaries into no more than 21 categories. The
+prompt includes explanatory instructions and choice summaries, ensuring that the LLM
+response provides category names along with the count of summaries for each category
+in machine-readable JSON format.
+54
+
+
+System:
+Categorize the following set of topic summaries from a set of news articles. For this
+task, a ’topic’ is understood as the main subject or theme discussed in an article,
+encapsulating the core ideas and issues being addressed. Each topic corresponds to a
+specific category that best describes the content of the article.
+Please come up with a set of topic categories but no more than 10 to 21 for these
+examples. Ensure the categories are comprehensive enough to cover closely related
+subtopics but specific enough to maintain clear and distinct themes/topics. This means
+topics should be identified based on themes that can encompass related subtopics
+without being overly general or narrowly specific.
+User:
+I have these topic summaries:
+[TOPIC SUMMARIES]
+Please come up with a maximum 21 topic categories and write a 1 to 4 word title
+for the topic category, the total count of this topic in this sample and an associated
+chatGPT PROMPT that can serve as an Instruction to determine if a new article is
+about this topic or not. Always add a MISCELLANEOUS class for uncategorizable
+topics.
+Please respond ONLY with a VALID JSON in the following format (No yapping!):
+{
+"frame-categories": [
+{
+"topic": "<TOPIC_NAME_1>",
+"prompt": "<TOPIC_NAME_PROMPT_1>",
+"Count": "<NUMBER_OF_SUMMARIES_1>",
+"Example IDs": "<URN_ID_1_1, URN_ID_1_2, URN_ID_1_3>"
+},
+{
+"topic": "<TOPIC_NAME_2>",
+"prompt": "<TOPIC_NAME_PROMPT_2>",
+"Count": "<NUMBER_OF_SUMMARIES_2>",
+"Example IDs": "<URN_ID_2_1, URN_ID_2_2, URN_ID_2_3>"
+},
+{...}
+]
+}
+LLM Answer:
+[FRAME CATEGORIES ] 55
+
+
+Lastly, all the outputted joint files are combined into one large set of generated topics
+while merging duplicates. This is then used to build the final list of selected topic classes
+to be used for the topic classification of the articles.
+S2.3.3 Frame Classification
+This section details the final step of the framework, which is the actual classification of
+the topics, after selecting the topics and their respective commands. In the first step,
+we ask the LLM to summarize the article once more. Then, we use a chain-of-thought
+loop to assess how well each possible topic fits the article on a 7-point Likert scale using
+the topic summary from the first step to increase the quality of the fit assessment. After
+the LLM returns all the fit values, we filter for the highest fit values. The labels with
+the highest fit are then shown to the LLM again together with the article, and where we
+task the LLM to return the final topic label for the article or frame labels if the two are
+equally well fitting.
+Step One:
+System: Analyze the text provided and identify the topic.
+For this task, a ’topic’ is understood as the main subject or theme discussed in an ar
+ticle, encapsulating the core ideas and issues being addressed. Each topic corresponds
+to a specific category that best describes the content of the article.
+Summarize the identified topic in no more than two sentences.
+User:
+Please write a summary of the main subject or theme discussed in the following article
+in one to two sentences:
+[ARTICLE]
+Make sure to ensure the summary captures the core subject, topic or theme discussed
+in a detailed manner and is no longer than two sentences.
+LLM Answer:
+[Frame Summary]
+56
+
+
+Step Two:
+System:
+Analyze the text provided and identify the topic.
+For this task, a ’topic’ is understood as the main subject or theme discussed in an ar
+ticle, encapsulating the core ideas and issues being addressed. Each topic corresponds
+to a specific category that best describes the content of the article.
+Determine if the topic could be classified with the following topic name: [TOPIC
+CATEGORY]
+User:
+Article: [ARTICLE]
+Please decide if the [TOPIC CATEGORY] TOPIC is present in the ARTICLE or not?
+Assistant:
+[Frame Summary]
+User:
+CONTEXT:
+I have the following ARTICLE:
+[ARTICLE]
+I also have a TOPIC named [TOPIC CATEGORY] with the following PROMPT:
+[TOPIC CATEGORY PROMPT]
+TASK:
+How well does the above ARTICLE fit with the presented topic PROMPT?
+Formulate a one-sentence RATIONALE of your thought process and provide a re
+sulting ANSWER of ONE of the following multiple-choice options, including just the
+NUMBER:
+- 1: Strongly Disagree
+- 2: Disagree
+- 3: Slightly Disagree
+- 4: Neither Agree nor Disagree
+- 5: Slightly Agree
+- 6: Agree
+- 7: Strongly Agree
+Respond with ONLY the RATIONALE and the NUMBER in a VALID JSON For
+mat structured like this: {"Rationale": "<one-sentence rationale>", "Fit": "<Num
+ber>","Topic": "<Topic Name>"}
+LLM Answer:
+[FRAME FIT JSON] 57
+
+
+Step Three:
+System:
+Read the article provided from a news paper and select the most prominent and best
+fitting topic from a given list of possible topics.
+For this task, a ’topic’ is understood as the main subject or theme discussed in an ar
+ticle, encapsulating the core ideas and issues being addressed. Each topic corresponds
+to a specific category that best describes the content of the article.
+Determine if the topic could be classified with the following topic name (You can
+choose up to two topics): [FINAL TOPIC CATEGORIES]
+User:
+Article: [ARTICLE]
+Please decide which of the following TOPICS is the most prominent/fitting one in the
+article:
+[FINAL TOPIC CATEGORIES]
+Assistant:
+Some Thoughts for the different Topics regarding the Article:
+[FINAL TOPIC RATIONALE SENTENCES]
+User:
+CONTEXT:
+I have the following ARTICLE:
+[ARTICLE]
+TASK:
+Please decide which of the following TOPICS is the most prominent/fitting one in the
+article:
+[FINAL TOPIC CATEGORIES]
+Respond with ONLY the TOPIC that fit best.
+You are allowed to return either ONE or TWO topics (preferably one) in the following
+format: <TOPIC> OR <TOPIC 1 | TOPIC 2>
+LLM Answer:
+[TOPIC LABEL]
+58

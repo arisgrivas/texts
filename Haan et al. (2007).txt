@@ -1,0 +1,822 @@
+THE IMPORTANCE OF BEING VIGILANT:
+HAS ECB COMMUNICATION INFLUENCED
+EURO AREA INFLATION EXPECTATIONS?
+DAVID-JAN JANSEN
+JAKOB DE HAAN
+CESIFO WORKING PAPER NO. 2134
+CATEGORY 6: MONETARY POLICY AND INTERNATIONAL FINANCE
+OCTOBER 2007
+PRESENTED AT CESIFO AREA CONFERENCE ON MACRO, MONEY & INTERNATIONAL FINANCE, FEBRUARY 2007
+An electronic version of the paper may be downloaded •from the SSRN website: www.SSRN.com •from the RePEc website: www.RePEc.org •from the CESifo website: Twww.CESifo-group.org/wpT
+
+
+CESifo Working Paper No. 2134
+THE IMPORTANCE OF BEING VIGILANT:
+HAS ECB COMMUNICATION INFLUENCED
+EURO AREA INFLATION EXPECTATIONS?
+Abstract
+Using daily data on inflation-indexed bonds, we find evidence of a negative relationship between ECB communication regarding risks to price stability - measured on the basis of the frequency and strength of the keyword ‘vigilance’ - and changes in euro area break-even inflation. However, this result is only found for the second half of 2005. At that time, the start of a tightening of ECB monetary policy was increasingly likely. This suggests that communication should be closely in line with policy actions before it can be effective. Still, we also find that the economic significance of this type of communication has been small.
+JEL Code: E52, E58.
+Keywords: central bank communication, ECB, inflation expectations.
+David-Jan Jansen De Nederlandsche Bank Economics and Research Division P.O. Box 98 1000 AB Amsterdam The Netherlands d.jansen@dnb.nl
+Jakob de Haan University of Groningen Faculty of Economics P.O. Box 800 9700 AV Groningen The Netherlands jakob.de.haan@rug.nl
+October 1, 2007 We thank Janko Gorter and Peter Keus for excellent research assistance. We received helpful comments from participants in a seminar at de Nederlandsche Bank, the CESifo Macro, Money and International Finance area conference (February 2007), the Benomics/KOF workshop on monetary policy (May 2007) and the 82nd Western Economic Association conference (June 2007). In particular, we thank Meredith Beechey, Jan Marc Berk, John Carlson and Michael Ehrmann for useful suggestions. Any errors and omissions are our own responsibility. Views expressed in this article do not necessarily coincide with those of de Nederlandsche Bank.
+
+
+‘Importantly, signalling vigilance proved instrumental in reaching a common
+understanding with the markets: the ECB, though observationally inactive,
+was at any time ready to start action’
+Jean-Claude Trichet (2006), p. 9.
+1 Introduction
+Expectations are key for macroeconomic developments. The importance of this
+insight is widely recognized by central banks. For example, the European Cen
+tral Bank (ECB) recently wrote: ‘Stabilising the private sector’s inflation ex
+pectations is a prerequisite for monetary policy to be able efficiently to achieve
+the objective of price stability.’ ECB (2006) (p.59). The determinants of ex
+pectations are less well understood. This paper investigates whether it is pos
+sible for central banks to influence private sector expectations through commu
+nication.
+There is, by now, compelling evidence that central bank communication af
+fects developments in financial markets. Ehrmann and Fratzscher (2007), for
+instance, find that communications by the Federal Reserve, the ECB, and the
+Bank of England have been an important driver of financial markets. This
+suggests that communication affects, in some way, the expectations of private
+agents. However, their is still little direct on the effects of communication on
+expectations. Therefore, this paper uses the concept of break-even inflation
+to measure the impact of central bank communication on private sector ex
+pectations.
+In particular, we study the relationship between euro area inflation ex
+pectations and ECB communications regarding risks to price stability in recent
+years. This sample period is particularly interesting as it contains two distinct
+episodes. Between June 2003 and December 2005, the ECB maintained its main
+refinancing rate at a level of 2%. However, during this period inflation worries
+frequently arose. For example, inflation expectations as derived from inflation
+indexed bonds showed sharp increases at times. This has lead the ECB to voice
+its concerns by signalling that it was ‘vigilant’ regarding upward risks to price
+1
+
+
+stability. As ‘vigilance’ is a clear keyword to communicate concerns to financial
+markets, we use its occurrence to identify the effects of communication on infla
+tion expectations.1 From Autumn-2005 onwards, markets observers regarded a
+change in the ECB’s policy stance increasingly likely given the incoming macro
+economic data.2 As it thus became more likely that words would be followed
+by deed, the effects of the ECB’s communications may have been different than
+earlier during this period. Finally, from December 2005 onwards, the ECB has
+raised the main refinancing rate a number of times. Interestingly, the keyword
+‘vigilance’ continued to be used in ECB communication. It was, however, used
+less frequently. Also, its interpretation has changed. It can still be seen as an
+indication of the ECB’s unease regarding risks to price stability, but it is also
+strongly perceived by market participants as an indicator of upcoming policy
+changes.3 This raises the question of whether this type of ECB communication
+has had similar effects on inflation expectations in this period as in the period
+2003 - 2005.
+Our key finding is that the relationship between the ECB’s signalling of
+inflation risks (through the use of ‘vigilance’) and euro area break-even inflation
+has been varying over time. We only find evidence for a significant relationship
+between communication and changes in break-even inflation during October
+and November 2005. This suggests that communication should be closely in
+line with policy actions before it can be effective. Still, we also find that the
+economic significance of this type of communication has been small.
+The remainder of this paper is structured as follows. Section 2 discusses the
+relationship between central bank communication and inflation expectations.
+1ECB president Trichet (2005) has noted: ‘Our concern ..... was signalled to the market
+from autumn 2003 in the press conference. Over time, our communication became increasingly
+‘alert’, signalling our vigilance to the upside risks to inflation which grew at the time.’ 2For instance, the Consensus survey on 14 November indicated that almost 40% of the
+respondents expected a rate increase within 30 days. 3According to Bloomberg, ‘ECB President Jean-Claude Trichet has used the word “vig
+ilant” to flag each of the six rate increases since late 2005’ (Bloomberg News, 15 February
+2007). Likewise, according to UBS: ‘Trichet has made a practice of effectively pre-announcing
+hikes at the prior meeting with the use of the key ”vigilant” phrase’ (UBS FX Trade and
+Research, 9 January 2007).
+2
+
+
+Section 3 outlines how we obtained data on communication and inflation ex
+pectations, while section 4 shortly describes this data. Section 5 presents our
+empirical model, while section 6 shows the estimation results. Section 7 consid
+ers the robustness of our findings. Finally, section 8 offers our conclusions.
+2 Communication and inflation expectations
+Why is influencing private sector expectations useful from the perspective of
+the central bank? It is important to realize that the control of the central bank
+over its ultimate goals, be it solely price stability or also output stabilization,
+is very indirect. Most central banks try to influence economic developments by
+changing borrowing conditions at the short end of the yield curve. Changes in
+the policy rate then feed through into long-term interest rates, exchange rates,
+asset prices and credit conditions, thus influencing, in the end, spending and
+pricing decisions of private agents. However, it is not only the current policy
+stance, but also the expected path of future interest rates that matters for
+decisions of private agents. This expected path is crucially dependent on the
+outlook for price developments and economic growth. Therefore, this opens the
+possibility for central banks to affect current decisions by steering expectations
+for these variables through communication.4
+At the same time, it is possible to argue, from a theoretical perspective, that
+communication has no value added with respect to expectations. If the central
+bank has committed to a policy rule, if there are no information asymmetries,
+and if economic agents have rational expectations, the private sector would be
+able to infer the systemic part of policy from the central bank’s actions, thus
+rendering communication superfluous (see also Woodford (2006)). From a prac
+tical point of view, however, these conditions may be questioned. Interest rate
+decision-making is often highly discretionary, information asymmetries between
+4See also Blinder, Goodhart, Hildebrand, Lipton and Wyplosz (2001) or Woodford (2006).
+Theoretically, Morris and Shin (2002) have argued that more public information is not neces
+sarily welfare-enhancing. Svensson (2006) has argued that this result holds only in very special
+circumstances, which makes it empirically less relevant.
+3
+
+
+the central bank and the private sector exist when central banks are less than
+perfectly transparent, and empirical evidence on inflation expectations has often
+been in conflict with the rational expectations hypothesis. Moreover, as noted,
+empirical evidence strongly suggests that central bank communications affect
+developments in financial markets.5
+With respect to central bank communication on inflation, a distinction should
+be made between i) the announcement of a target for inflation and ii) commu
+nication on inflationary developments. Nowadays, many central banks have
+publicly announced a target for inflation. In the case of the ECB, this target is
+specified as a year-on-year change in euro area HICP inflation below, but close
+to 2%. In general, if the public perceives the central bank as credible, long-run
+inflation expectations would be anchored around this target. Transitory shocks
+may cause inflation to differ from this target, but should not necessarily af
+fect long-run expectations. G ̈urkaynak, Levin, and Swanson (2006) find, in this
+context, that a well-known and credible inflation target can help in anchoring
+private sector views regarding long-run inflation outcomes.6
+How could the central bank then gain from regularly publishing its views
+on expected economic developments, notably future inflation? First, clear and
+consistent communication may contribute to building reputation, in particular
+if the track-record of the central bank concerned is short. Second, the cen
+tral bank can use communication in a situation in which inflation expectations
+deviate from target. Communication explaining the deviation and perhaps sug
+gesting possible policy reactions could guide expectations back to target. If
+agents perceive the comments as new information, they accordingly adjust their
+expectations, which would be reflected in market prices. Given the develop
+ments over the sample period in this study, the latter mechanism is particularly
+relevant.
+5See Eijffinger and Geraats (2006) for recent evidence on central bank trans
+parency. Mankiw, Reis, and Wolfers (2004) and Conlisk (1996) discuss rationality in survey
+data of inflation expectations. 6 Eusepi and Preston (2007) argue that announcing the inflation target is not enough
+for expectations stabilization: the central bank must also announce the associated values for
+nominal interest rates and the output gap.
+4
+
+
+3 Measuring communication and inflation ex
+pectations
+Financial markets are continuously flooded with information. It seems likely
+that analysts and traders employ filtering mechanisms to process the incoming
+data.7 Central banks may, in turn, revert to a strategy of using keywords and key
+phrases in their communication. In this paper, we focus on the use of ‘vigilance’,
+‘vigilant’ or variations thereof as an indicator of the ECB’s perception of risks
+to price stability.8
+The ECB uses four main communication instruments. Firstly, there are the
+press conferences given by the ECB president and vice-president after meetings
+of the ECB’s Governing Council. A second instrument is the publication of the
+Monthly Bulletin of which in particular the editorial is scrutinised by analysts.
+A third instrument are the testimonial hearings by the ECB president (or vice
+president) at the European Parliament. Finally, Governing Council members
+often present their views in speeches and interviews. To search for the occurrence
+of ‘vigilance’ in communication, we use two main data sources: Bloomberg and
+the ECB web-site. For the period between 2 June 2003 and 30 November 2005,
+we searched the archive of Bloomberg News for ECB communications, yielding
+a comprehensive data-set of over 2,000 news reports. For the period starting in
+December 2005 we used the ECB web-site. In this latter case, we include i).
+the ECB press conference, ii). the editorial of the ECB Monthly Bulletin, iii).
+speeches by Trichet and Papademos.
+Table 1 reports the list of people and keywords that were included in the
+Bloomberg search. We included news reports if i). the comment referred to
+7Mervyn King (2005), for instance, suggests how the public could use rules-of-thumb:‘we
+do not know whether - and, if so, to what extent - people use heuristics to make real economic
+decisions. But a central bank should be alert to the possibility of their doing so.’ (p. 12). 8There may be an issue of reverse causality, as the ECB’s communications may be a
+reaction to developments in (expected) inflation. However, our identification strategy is based
+on daily data. Although the ECB may very well use ‘vigilance’ in reaction to a series of
+upward changes in (expected) inflation, it is less likely that each and every positive change in
+break-even inflation will entice the ECB to mention ‘vigilance’.
+5
+
+
+Table 1: Key topics used in searching Bloomberg News
+People Topics
+Executive Board Tenure Decisions
+Duisenberg (p) t 31/10/03 interest rates Trichet (p) f 01/11/03
+Papademos (vp) Economic analysis Issing
+Tumpel-Gugerell inflation Domingo Solans t 31/05/04 prices Gonz ́alez-P ́aramo f 01/06/04 GDP Padoa Schioppa t 31/05/05 economic growth Bini Smaghi f 01/06/05 unemployment
+confidence indicators
+consumer spending
+investment
+NCB presidents Country trade
+Liebscher Austria Monetary analysis Quaden Belgium Vanhala Finland t 01/04/04 M3 (growth) Louekoski f 01/04 t 12/07/04 money supply Liikanen f 12/07/04 liquidity Trichet France t 31/10/03 Noyer f 01/11/03 Exchange rate Welteke Germany t 27/04/04 Weber f 30/04/04 euro
+Garganas Greece euro-dollar
+Hurley Ireland fx intervention
+Fazio Italy
+Mersch Luxembourg
+Wellink Netherlands
+Constˆancio Portugal
+Caruana Spain
+Notes: p = president/ vp= vice-president/ f = start date of tenure/ t = end date of tenure.
+6
+
+
+euro area (as opposed to national) economic conditions, ii). concerned economic
+issues as specified in the second column of table 1, and iii). contained new infor
+mation. This latter point implies that updates of news reports are only included
+as far as they contain more detailed comments or comments on new issues. To
+analyse this data, we performed keyword in context (KWIC) searches for occur
+rences of the words ‘vigilance’ and ‘vigilant’.9 These KWIC searches generated
+several useful pieces of information. Apart from knowing who made the com
+ments, and when, we also recorded how the term ‘vigilance’ was used. For
+example, some comments used ‘vigilance’, while others used the terms ‘strong
+vigilance’ or ‘very strong vigilance’. We will further investigate the effects of
+these different formulations in section 5. The KWIC searches also reported the
+topics to which ‘vigilance’ referred. We will return to this information as part
+of our robustness checks in section 7.
+Research on inflation expectations has so far mainly relied on survey data.
+For our purposes, inflation-indexed bonds are more suited as data is available
+on a daily basis.10 This is useful in estimating the high-frequency impact of
+communication. At the moment, few countries have issued bonds linked to euro
+area inflation which, as a consequence, somewhat limits us in our analysis. This
+paper uses data on the OATei instrument: a French inflation-indexed bond,
+first issued by the Agency France Tr ́esor (AFT) in November 2001. The OATei
+instrument is linked to the euro area HICP index (exclusive of tobacco prices)
+and is best suited for our purposes as it is the longest time-series available.
+We downloaded yields for the OATei 2012 series and the regular OAT 2012
+from the AFT web-site (www.aft.gouv.fr). The difference in the yield of the
+OAT and OATei, the so-called break-even inflation, is often used as a proxy for
+medium-term inflation expectations.
+However, some caution is needed in using break-even inflation. The main
+9We have used the computer program WordStat Version 5.0. This program has been
+developed by Provalis Research as an add-on feature of the statistical program SimStat. For
+more information, see www.provalisresearch.com. 10The key characteristic of inflation-indexed bond is that, over time, the principal value and
+the coupon payments are adjusted on the basis of a measure of inflation. Cukierman (1977)
+is one of the earliest contributions using inflation-indexed bonds.
+7
+
+
+reason is that break-even inflation may also pick up other factors than expected
+inflation, in particular a liquidity and an inflation risk premium. This is illus
+trated by the following two equations:
+it = rt + πte + ρt (1)
+iitnd = rt + λt (2)
+where i denotes the yield on a conventional bond, iind denotes the yield on an
+indexed bond, r denotes the real interest rate, πe denotes expected inflation,
+ρ denotes an inflation risk premium and λ denotes a liquidity premium. As
+noted, inflation-indexed bonds were only recently introduced in the euro area.
+Investors may have demanded a liquidity premium for holding these bonds, to
+compensate for their relative illiquidity. Secondly, investors may require a risk
+compensation for holding conventional bonds as actual inflation may differ from
+expected inflation.11 Subtracting (2) from (1) shows that break-even inflation
+in this case equals:
+BEI = πte + ρt − λt (3)
+Initially, a liquidity premium may well have been an important component
+in break-even inflation. However, turnover in the markets for the OATei 2012
+security has strongly increased since 2001. The instrument has by now estab
+lished itself and the AFT has since then successfully introduced other issues of
+the OATei instrument. For the US, Sack (2000) finds that most of the bias in
+break-even inflation can be attributed to the liquidity premium. He also reports
+that changes in break-even inflation and ‘corrected’ measures of break-even in
+flation are highly correlated.
+Greater clarity regarding future monetary policy could reduce the uncer
+tainty regarding future levels of inflation and therefore reduce the inflation risk
+11Two other factors affecting break-even inflation are differences in duration (due to differ
+ences in the payment structure) and declining time to maturity. Recently, the ECB (2006)
+investigated the effects of these issues for French inflation-indexed bonds and concluded that
+‘break-even inflation rates .. seem to be rather good approximations of the preferable zero
+coupon constant maturity measures and are little biased by potential distortions due to du
+ration mismatching (p. 31).’ See also Sack (2000) or Kwan (2005) for a discussion of these
+issues.
+8
+
+
+premium. This would be reflected in a lower level of break-even inflation. How
+ever, H ̈ordahl and Tristani (2007) find that, on average, the inflation risk pre
+mium calculated using OATei data has not differed significantly from zero over
+the EMU sample.
+4 Data description
+Figure 1 shows ten-year euro area break-even inflation (solid line) and the oc
+currence of vigilance (the grey diamonds) between June 2003 and March 2007.
+The dotted line denotes the ECB’s main refinancing rate. There are steep up
+ward movements in expected inflation in late 2003 and early 2004. Starting in
+March 2004, the term ’vigilance’ is used extensively in communication. After
+December 2005, the term is used less often. To be precise, it occurs only six
+teen times in communication. This decline would be in line with the different
+interpretation of this keyword after 2005.
+Figure 1: ‘Vigilance’ in ECB communication (2003 - 2007)
+1.5
+1.6
+1.7
+1.8
+1.9
+2.0
+2.1
+2.2
+2.3
+2.4
+2.5
+02/06/2003
+01/10/2003
+01/01/2004
+08/03/2004
+01/07/2004
+01/10/2004
+03/01/2005
+01/04/2005
+01/07/2005
+03/10/2005
+01/12/2005
+03/07/2006
+02/10/2006
+01/01/2007
+09/03/2007
+1.75
+2
+2.25
+2.5
+2.75
+3
+3.25
+3.5
+3.75
+4
+Occurrences of `vigilance' Break-even inflation (left axis) Main refinancing rate (right axis)
+This figure shows euro area break-even inflation (solid line) and the use of ‘vigilance’ in
+ECB communications (the grey diamonds) between June 2003 and March 2007. The dotted
+line denotes the ECB policy rate. Dates are denoted in DD/MM/YYYY.
+9
+
+
+In comparison, table 2 shows that between March 2004 and November 2005
+vigilance was used some 200 times. The second column shows that in 58 cases,
+‘vigilance‘ was mentioned without any further qualification. In about a quarter
+of the cases, the term ‘strong vigilance’ was used. Qualifications with probable
+high impact, such as ‘very strong vigilance’ or ‘extremely vigilant’ are seldom
+used. We will examine the effects of these differences in qualifications in the
+remainder of this paper. To this end, the third and fourth column of table 2 show
+two classifications of ‘vigilance’. Column 3 outlines an a priori classification of
+our reading of ECB code words. The scale is between 1 and 4, where the scale
+is increasing in the intensity of the terminology. The scale ranges from the
+occurrences of ‘vigilance’ (value 1) through to the transition to ‘more vigilance’
+(value 2) to phases with ‘high’ (value 3) or ‘very high vigilance’ (value 4) or
+equivalents of these four cases. The last column presents a scale that ex post
+aims to capture the news component in ECB communication by measuring
+observations according to the inverse of their relative occurrence. If a particular
+term is often used in communication, its occurrence may not be considered as
+news anymore. In contrast, if a term is used that has never been used before,
+markets will probably react strongly to its occurrence.
+5 Empirical model
+In the spirit of the ‘news approach’, we model daily changes in break-even infla
+tion as a linear function of lagged dependents, a dummy variable that measures
+the occurrence of ‘vigilance’ and a set of control variables.12 As we find evidence
+of clustered volatility we use a GARCH model. We estimate this model using a
+normal distribution or, alternatively, a t-distribution in cases where the Jarque
+Bera statistic rejected normality in the residuals. Our baseline regression model
+12Another motivation for looking at changes rather than levels is that unit root tests could
+not conclusively dismiss the hypothesis that break-even inflation is an I(1) series.
+10
+
+
+Table 2: ‘Vigilance’: occurrences and two classifications (2003-2005)
+Scale 1: Scale 2:
+No. of occurrences Keywords News value
+n (Scale 1 to 4) (200/n)
+Vigilance 58 1 3.4
+Qualifications:
+Strong 46 3 4.3
+Continued 28 1 7.1
+Remain 19 1 10.5
+Particularly 12 3 16.7
+Ongoing 9 1 22.2
+Very 7 3 28.6
+Especially 3 3 66.7
+Increased 3 2 66.7
+Extremely 2 4 100
+Very strong 2 4 100
+Warrants 2 1 100
+Emphasizes 1 3 200
+Enhanced 1 2 200
+Heightened 1 2 200
+More 1 2 200
+Particularly strong 1 4 200
+Reinforcing 1 2 200
+Special 1 3 200
+Stepping up 1 2 200
+Still 1 1 200
+TOTAL 200
+Note: This table describes the qualifications used by the ECB when stating the words ‘vigilance’ and ‘vigilance’. The last two columns outline two classifications of vigilance which are used in the regression analysis. This table is for the period between 2 June 2003 and 30 November 2005.
+11
+
+
+Table 3: Overview of control variables
+Macroeconomic releases (surprise component of:)
+Euro area
+HICP y-o-y growth Gross domestic product q-o-q growth Industrial production m-o-m growth Producer prices index y-o-y growth
+Germany
+HICP y-o-y growth Gross domestic product q-o-q growth IFO indicator level Industrial production m-o-m growth Producer price inflation y-o-y growth
+France
+HICP y-o-y growth Gross domestic product q-o-q growth Industrial production m-o-m growth Producer price inflation y-o-y growth
+Financial variables
+Oil futures Brent crude, log difference Dollar/euro exchange rate log difference FTSE100 log difference Dow Jones Industrial Avg log difference Eurostoxx50 log difference US T-bill 3 months, first difference US Treasury note 7years, first difference
+12
+
+
+is as follows:
+∆πte = β0 + βv Vt +
+n ∑
+i=1
+βi ∆πte−i +
+k ∑
+m=1
+βm ztm + βtt + ≤t, ≤t|Ψt ∼ (0, σt2) (4)
+σt2 = α0 +
+p ∑
+i=1
+δi ≤t2−i +
+q ∑
+i=1
+αi σt2−i (5)
+where πte denotes the break-even inflation rate, Vt is a dummy variable mea
+suring the use of ‘vigilance’, and the zt denotes control variables. Our main
+interest is in βv as it captures the relationship between ECB communications
+and changes in inflation expectations. We test whether βv is significantly dif
+ferent from zero.
+Table 3 describes the control variables. Firstly, we include the surprise com
+ponent for releases of various macroeconomic series. These are taken from
+Bloomberg surveys. We include variables for the euro area, France and Ger
+many. Secondly, we take up daily returns on a number of financial variables,
+such as oil futures, stock market indices, the dollar/euro exchange rate and US
+T-bills and T-bonds. We use lagged values to circumvent endogeneity problems.
+These series are taken from Datastream.13
+6 Results
+Table 4 shows estimation results for a number of specifications. Column 1
+shows a baseline estimation for the period 2 June 2003 to 9 March 2007. On the
+basis of the Akaike information criterion, the model is specified as an AR(1)
+GARCH(1,1) without a constant and trend term. Inflation expectations react
+to news on prices and the IFO indicator, and oil futures. Next, we focus on the
+period between 2003 and 2005 when ‘vigilance’ was most actively used. Columns
+2 to 4 show three estimation results which include measures of ‘vigilance’. In
+all three cases, the coefficient related to vigilance is negative. Column 2 shows
+13We also ran regressions with controls for weekdays, the timing of ECB Governing Council
+meetings and FOMC meetings and decisions. This did not lead to any qualitative changes in
+our conclusions.
+13
+
+
+the results if we use a dummy variable which has the value 1 when ‘vigilance’
+is used in communication, and the value 0 otherwise. The conditional effect
+of using ‘vigilance’ is a decline of inflation expectations by a fifth of a basis
+point (0.0021). The coefficient is, however, only significant at the 10% level
+(p = 0.08). The results for the two alternative classifications are presented in
+columns 3 and 4. Using the classification based on our keyword scale, we find a
+coefficient for the effect of ’vigilance’ equal to -0.001%. This coefficient is also
+significantly different from zero at the 10% level (p= 0.07). For the model using
+the second classification, based on the news value of a statement, we find that
+the coefficient for the ‘vigilance’ variable is strongly significant (p=0.01).
+However, as discussed in section 1, the period between June 2003 and Novem
+ber 2005 was not a homogenous period. From Autumn-2005 onwards, it was
+increasingly considered likely that the ECB would start to tighten monetary
+policy. Incoming macroeconomic data suggested and ECB communication sig
+nalled a change in the policy stance.14 We therefore investigate whether the
+effects of communication were different in this period by estimating rolling
+window regressions for the model in (4) and (5) using the (0,1) ‘vigilance’
+dummy. Each window includes 180 days. We start on 1 March 2004, so that the
+end-point of the first sample is 5 November 2004. The last estimation sample
+ends at 30 November 2005. The estimated coefficient βv in each of these re
+gressions is shown in figure 2. Diamonds are used to denote that the coefficient
+is significantly different from zero at the 5% level. Figure 2 clearly shows that
+timing is important for the results. Initially, the estimated βv is not signifi
+cantly different from zero. Once the estimation window includes the months of
+October and November 2005 the coefficient is significant. The estimated effects
+of vigilance range roughly between 0.0035% and 0.0045%. We conclude that
+14For example, during the press conference on 1 September 2005, the wording was changed
+from ‘ongoing vigilance’ to ‘particular vigilance’, followed by ‘strong vigilance’ at the October
+and November press conferences. According to Consensus Forecast, in September only 4.9%
+of the respondents expected a rate increase in the next 30 days. In October, this figure was
+up to 11.3% and in November it was up to 37.4%, the highest number in 2.5 years.
+14
+
+
+Table 4: The importance of being vigilant: regression results
+2003 - 2007 2003 - 2005 2006 - 2007
+(1) (2) (3) (4) (5)
+Baseline (0,1) Keyword News (0,1) dummy scale scale dummy
+Mean equation
+Vigilance -0.0021* -0.001* -0.00004** -0.0010 (0.00) (0.00) (0.00) (0.00)
+∆πte−1 0.12*** 0.19*** 0.19*** 0.19*** -0.03
+(0.03) (0.04) (0.04) (0.04) (0.05)
+∆πte−2 -0.06 -0.06 -0.06 -0.03
+(0.04) (0.04) (0.05) (0.05) Consumer prices (G) 0.03*** 0.06*** (0.01) (0.02) IFO indicator (G) 0.004*** 0.005** 0.005** 0.005** 0.005*** (0.00) (0.00) (0.00) (0.00) (0.00) Consumer prices (F) 0.01*** 0.06*** 0.06*** 0.05*** (0.00) (0.02) (0.02) (0.02) GDP (F) 0.05*** 0.04*** 0.04** (0.01) (0.01) (0.02) Producer prices (F) 0.04*** 0.04*** 0.04*** (0.01) (0.01) (0.01) Brent futures 0.12*** 0.08*** 0.08*** 0.08*** 0.24*** (0.02) (0.02) (0.02) (0.02) (0.04) US T bond 0.03*** 0.03*** 0.03*** 0.03*** (0.01) (0.00) (0.01) (0.01)
+Variance equation
+α0 0.00** 0.00* 0.00* 0.00* 0.00
+(0.00) (0.00) (0.00) (0.00) (0.00) δ1 0.08*** 0.07** 0.07** 0.07** 0.05
+(0.02) (0.03) (0.03) (0.03) (0.04) α1 0.87*** 0.88*** 0.88*** 0.88*** 0.84***
+(0.04) (0.05) (0.05) (0.05) (0.12)
+Adjusted R2 6.8% 5.7% 5.7% 5.7% 14.8% Log likelihood 2897.07 1897.82 1897.86 1898.28 1030.45 Akaike IC -5.85 -5.76 -5.76 -5.76 -6.04 ARCH(2) 0.52 0.00 0.00 0.04 0.94 (0.59) (0.99) (0.99) (0.96) (0.39)
+Notes: This table presents the results for the regression in equations (1) and (2) in the main text. (E) denotes euro area, (G) denotes Germany and (F) denotes France. For control variables, we only report coefficients significant at the 5% level. */**/*** denotes significance at the 10/5/1 % level. Standard errors are in parentheses. ARCH (2) denotes the F-statistic for the ARCH LM test with the p-values shown in parentheses.
+15
+
+
+the effectiveness of communication with respect to influencing expectations is
+strongly related to the perception of upcoming changes in the monetary policy
+stance.
+Figure 2: The coefficient for ‘vigilance’ in rolling window regressions
+-0.0050
+-0.0025
+0.0000
+0.0025
+0.0050
+05/11/04
+05/12/04
+04/01/05
+03/02/05
+05/03/05
+04/04/05
+04/05/05
+03/06/05
+03/07/05
+02/08/05
+01/09/05
+01/10/05
+31/10/05
+30/11/05
+Coefficient Significant at 5 %
+This figure shows the estimated βv using 180 days moving windows. The dates are de
+noted in DD/MM/YYYY and represent the endpoint of the sample. The estimations start
+at 1 March 2004, so that the first endpoint is 5 November 2004. The last endpoint is 30
+November 2005. Diamonds denote that the coefficient is significantly different from zero at
+the 5% level.
+This raises an interesting issue: did this type of ECB communication con
+tinue to have these effects on expectations during the period when the ECB
+continued to tighten monetary policy in 2006 and 2007? The answer is ‘no’, as
+can be seen in the last column of table 4. The coefficient βv is negative, but
+not significantly different from zero (p=0.71).15 One reason for this result has
+already suggested itself: ‘vigilance’ was used less frequently, making it harder
+15For this analysis, we have also performed rolling-window regressions. The coefficient for
+16
+
+
+to pick up any effect in the estimation. But, the absence of reactions in ex
+pectations also suggests that communication may be most effective in shaping
+expectations at the turning-points in monetary policy, in this case, the start of
+tightening after a prolonged period of constant policy rates.
+7 Robustness
+We have argued that occurrences of ‘vigilance’ are an adequate representation
+of the ECB’s assessment of risks to price stability. By focusing on this single
+concept, we may be missing important elements of ECB communication. Per
+haps ECB communication has contained other signals that markets have reacted
+to. These signals would not be incorporated in our ‘vigilance’ measure which
+could lead to biased estimates. To study this, we first assess whether the use
+of ‘vigilance’ in ECB communications was related to inflationary developments.
+Between June 2003 and November 2005, when ‘vigilance’ most often occurred,
+it was used in connection with 21 different topics. On 46 occasions, ‘vigilance’
+did not explicitly refer to a certain topic. Out of 197 occurrences of the topics,
+‘vigilance’ referred to ‘risks to price stability’ 48 times. Other topics that were
+often mentioned were ‘inflation expectations’ (24 times), ‘2nd round effects’ (23
+times), ‘oil prices’ (22 times), ‘inflation’ (21 times), ‘M3’ (17 times) and ‘infla
+tion risks’ (8 times). In all, this analysis supports our use of ‘vigilance’ as a
+signal of risks to price stability.
+We also tested for the effects of ECB communications when ‘vigilance’ is not
+used. To this end, we include in our baseline regression a variable that is equal to
+one if the ECB communicated on a particular day without using ‘vigilance’ and
+equal to zero otherwise. The result for the 2003 - 2005 sample is shown in column
+1 of table 5. We find that the absence of ‘vigilance’ in ECB communication
+actually coincided with higher levels of break-even inflation. Further evidence
+is provided in figure 3. When incorporating the second half of 2005 in the
+the ‘vigilance’ variable was in no case significant. Results available upon request from the
+corresponding author.
+17
+
+
+Table 5: Robustness
+(1) (2)
+Communication, No ECB no vigilance communication (2003-2005) (2003-2005)
+Mean equation
+No vigilance 0.0002 (0.00) No communication 0.0006 (0.00)
+∆πte−1 0.19*** 0.19***
+(0.04) (0.04)
+∆πte−2 -0.06 -0.06
+(0.04) (0.04) IFO indicator (G) 0.004** 0.004** (0.00) (0.00) Consumer prices (F) 0.05*** 0.05*** (0.01) (0.01) GDP (F) 0.04*** 0.04*** (0.01) (0.01) Producer prices (F) 0.04*** 0.04*** (0.01) (0.01) Brent futures 0.08*** 0.08*** (0.02) (0.03) US T-bond 0.03*** 0.03*** (0.01) (0.01)
+Variance equation
+α0 0.00* 0.00*
+(0.00) (0.00) δ1 0.07*** 0.08***
+(0.03) (0.03) α1 0.88*** 0.87***
+(0.05) (0.04)
+Adjusted R2 5.4% 5.4% Log likelihood 1895.65 1895.46 Akaike IC -5.75 -5.75 ARCH(2) 0.00 0.01 (0.99) (0.99)
+Notes: For the mean equation, we only report coefficients significant at the 5% level. */**/*** denotes significance at the 10/5/1 % level. In parentheses, standard errors are reported.
+18
+
+
+estimation, we find evidence of a conditional impact of close to a half basis point.
+At the same time, there is evidence of a negative reaction earlier in 2005. It is
+possible, therefore, that other aspects of communication have been important.
+Nevertheless, the effects in this case are less marked. On balance, the focus
+on ‘vigilance’ seems justified. Another robustness test is to see what happens
+when the ECB does not communicate at all. Perhaps inflation expectations
+would have decreased regardless of whether communication took place. In that
+case, we would wrongly attribute the negative change in expectations to central
+bank communication. However, as column 2 of table 5 shows, this is not the
+case. Between 2003 and 2005, changes in break-even inflation on days without
+communication were slightly positive.16
+Figure 3: Robustness: absence of ‘vigilance’ in communication
+-0.0050
+-0.0025
+0.0000
+0.0025
+0.0050
+05/11/2004
+05/12/2004
+04/01/2005
+03/02/2005
+05/03/2005
+04/04/2005
+04/05/2005
+03/06/2005
+03/07/2005
+02/08/2005
+01/09/2005
+01/10/2005
+31/10/2005
+30/11/2005
+Coefficient Significant at 5 %
+Note: This figure shows the estimated coefficient for the ‘communication, no vigilance’
+dummy using 180 days moving windows. The dates are denoted in DD/MM/YYYY and
+represent the endpoint of the sample. The estimations start at 1 March 2004, so that the first
+endpoint is 5 November 2004. The last endpoint is 30 November 2005. Diamonds denote
+that the coefficient is significantly different from zero at the 5% level.
+16Rolling window regressions were also performed in this case without finding significant
+results. Results available upon request.
+19
+
+
+Finally, so far we have not addressed the fact that the OATei2012 security
+has been off-the-run since the OATei2015 series was issued in November 2004.
+Therefore, we also estimated rolling-window regressions using break-even infla
+tion derived from the OATei2015 and the OAT2014 series. As figure 4 shows,
+the results are very similar to those for the OATei2012 series.
+Figure 4: Robustness: results for OATei2015 series
+-0.0050
+-0.0025
+0.0000
+0.0025
+0.0050
+26/07/2005
+20/08/2005
+14/09/2005
+09/10/2005
+03/11/2005
+28/11/2005
+Coefficient Significant at 5 %
+Note: This figure shows the estimated βv using 180 days moving windows and OATei2015
+series. The dates are denoted in DD/MM/YYYY and represent the endpoint of the sample.
+The first endpoint is 26 July 2005. The last endpoint is 30 November 2005. Diamonds denote
+that the coefficient is significantly different from zero at the 5% level.
+20
+
+
+8 Conclusions
+Our key finding is that the ECB’s signalling of discomfort with inflationary
+developments through communication has had a negative relationship with
+changes in euro area break-even inflation even during a period when the in
+terest rate instrument was not used. However, this type of communication has
+only led to responses in financial markets when it closely coincided with the
+perception of upcoming changes in the ECB’s monetary policy stance. Even
+more so, the effects are found at the start of a tightening phase, but not during
+this period. Despite its statistical significance, the economic significance of this
+type of communication has been small.
+There are a number of questions that future research may address. To start
+with, it may be worthwhile to investigate this issue at lower frequencies. Perhaps
+a series of comments may have a stronger impact on expectations than isolated
+statements. It would also be interesting to investigate the high-frequency re
+lationship between communications and inflation expectations for a number of
+other central banks, such as the Bank of England or the Federal Reserve. Fi
+nally, it would be instructive to further explore the possibility of a connection
+between communication and the different components of break-even inflation.
+21
+
+
+References
+Blinder, A., C.A.E. Goodhart, P. Hildebrand, D. Lipton and C.
+Wyplosz (2001): How do central banks talk?, Geneva Reports on the World
+Economy, Vol. 3, International Center for Monetary and Banking Studies /
+Centre for Economic Policy Research.
+Conlisk, J. (1996): Why bounded rationality? Journal of Economic Literature
+34(2), 669–700.
+Cukierman, A. (1977): ‘A test of expectational processes using information
+from the capital markets - the Israeli case.’ International Economic Review,
+18(3), 737–753.
+ECB (2006): ‘Measures of inflation expectations in the euro area.’ Monthly
+Bulletin, July.
+Ehrmann, M. and M. Fratzscher (2007): ‘Communication by central bank
+committee members: different strategies, same effectiveness?’ Journal of
+Money, Credit and Banking, 39(2-3), 509–541.
+Eijffinger, S. C. W. and P. M. Geraats (2006): ‘How transparent are
+central banks?’ European Journal of Political Economy, 22(1), 1–21.
+Eusepi, S. and B. Preston (2007): ‘Central bank communication and ex
+pectations stabilization.’ National Bureau of Economic Research, Working
+Paper no. 13259.
+G ̈urkaynak, R. S., A. T. Levin and E. T. Swanson (2006): ‘Does inflation
+targeting anchor long-run inflation expectations? Evidence from long-term
+bonds in the U.S., U.K. and Sweden.’ Federal Reserve Bank of San Francisco,
+Discussion Paper no. 2006-09.
+H ̈ordahl, P. and O. Tristani (2007): ‘Inflation risk premia in the term
+structure of interest rates.’ European Central Bank, Working Paper no. 734.
+22
+
+
+King, M. A. (2005): ‘Monetary policy: practice ahead of theory.’ Mais Lecture
+delivered on 17 May at the Cass Business School, City University, London.
+Kwan, S. H. (2005): ‘Inflation expectations: how the market speaks.’ Federal
+Reserve Bank of San Fransisco Economic Letter, 2005-25.
+Mankiw, N. G., R. Reis and J. Wolfers (2004): ‘Disagreement about infla
+tion expectations.’ in NBER Macroeconomics Annual 2003, ed. by M. Gertler,
+and K. Rogoff, vol. 18. Cambridge (MA) and London: MIT Press.
+Morris, S. and H.S. Shin (2002): ‘Social value of public information’, Amer
+ican Economic Review 92(5), 1521–1534.
+Sack, B. P. (2000): ‘Deriving inflation expectations from nominal and
+inflation-indexed Treasury yields.’ Journal of Fixed Income, 10(2), 6–17.
+Svensson, L.E.O. (2006): ‘Social value of public information: Morris and Shin
+(2002) is actually pro transparency, not con’, American Economic Review,
+96(1), 448–452.
+Trichet, J. C. (2005): ‘Monetary policy and ‘credible alertness’.’ Intervention
+by Jean-Claude Trichet at the panel discussion ‘Monetary policy strategies:
+a central bank panel’ at the Jackson Hole Conference, 27 August.
+Trichet, J. C. (2006): ‘Activism and alertness in monetary policy.’ Lecture by
+Jean-Claude Trichet at the conference on ‘Central banks in the 21st Century’
+organised by the Banco de Espana, 8 June.
+Woodford, M. (2006): ‘Central bank communication and policy effectiveness.’
+in The Greenspan era: Lessons for the future. Kansas City: Federal Reserve
+Bank of Kansas City.
+23
+
+
+CESifo Working Paper Series
+for full list see Twww.cesifo-group.org/wpT (address: Poschingerstr. 5, 81679 Munich, Germany, office@cesifo.de) ___________________________________________________________________________
+2068 Alessandro Balestrino and Cinzia Ciardi, Social Norms, Cognitive Dissonance and the Timing of Marriage, August 2007
+2069 Massimo Bordignon, Exit and Voice. Yardstick versus Fiscal Competition across Governments, August 2007
+2070 Emily Blanchard and Gerald Willmann, Political Stasis or Protectionist Rut? Policy Mechanisms for Trade Reform in a Democracy, August 2007
+2071 Maarten Bosker and Harry Garretsen, Trade Costs, Market Access and Economic Geography: Why the Empirical Specification of Trade Costs Matters, August 2007
+2072 Marco Runkel and Guttorm Schjelderup, The Choice of Apportionment Factors under Formula Apportionment, August 2007
+2073 Jay Pil Choi, Tying in Two-Sided Markets with Multi-Homing, August 2007
+2074 Marcella Nicolini, Institutions and Offshoring Decision, August 2007
+2075 Rainer Niemann, The Impact of Tax Uncertainty on Irreversible Investment, August 2007
+2076 Nikitas Konstantinidis, Gradualism and Uncertainty in International Union Formation, August 2007
+2077 Maria Bas and Ivan Ledezma, Market Access and the Evolution of within Plant Productivity in Chile, August 2007
+2078 Friedrich Breyer and Stefan Hupfeld, On the Fairness of Early Retirement Provisions, August 2007
+2079 Scott Alan Carson, Black and White Labor Market Outcomes in the 19th Century American South, August 2007
+2080 Christian Bauer, Paul De Grauwe and Stefan Reitz, Exchange Rates Dynamics in a Target Zone – A Heterogeneous Expectations Approach, August 2007
+2081 Ana Rute Cardoso, Miguel Portela, Carla Sá and Fernando Alexandre, Demand for Higher Education Programs: The Impact of the Bologna Process, August 2007
+2082 Christian Hopp and Axel Dreher, Do Differences in Institutional and Legal Environments Explain Cross-Country Variations in IPO Underpricing?, August 2007
+2083 Hans-Werner Sinn, Pareto Optimality in the Extraction of Fossil Fuels and the Greenhouse Effect: A Note, August 2007
+
+
+2084 Robert Fenge, Maximilian von Ehrlich and Matthias Wrede, Fiscal Competition, Convergence and Agglomeration, August 2007
+2085 Volker Nitsch, Die Another Day: Duration in German Import Trade, August 2007
+2086 Kam Ki Tang and Jie Zhang, Morbidity, Mortality, Health Expenditures and Annuitization, August 2007
+2087 Hans-Werner Sinn, Public Policies against Global Warming, August 2007
+2088 Arti Grover, International Outsourcing and the Supply Side Productivity Determinants, September 2007
+2089 M. Alejandra Cattaneo and Stefan C. Wolter, Are the Elderly a Threat to Educational Expenditures?, September 2007
+2090 Ted Bergstrom, Rod Garratt and Damien Sheehan-Connor, One Chance in a Million: Altruism and the Bone Marrow Registry, September 2007
+2091 Geraldo Cerqueiro, Hans Degryse and Steven Ongena, Rules versus Discretion in Loan Rate Setting, September 2007
+2092 Henrik Jacobsen Kleven, Claus Thustrup Kreiner and Emmanuel Saez, The Optimal Income Taxation of Couples as a Multi-Dimensional Screening Problem, September 2007
+2093 Michael Rauber and Heinrich W. Ursprung, Life Cycle and Cohort Productivity in Economic Research: The Case of Germany, September 2007
+2094 David B. Audretsch, Oliver Falck and Stephan Heblich, It’s All in Marshall: The Impact of External Economies on Regional Dynamics, September 2007
+2095 Michael Binder and Christian J. Offermanns, International Investment Positions and Exchange Rate Dynamics: A Dynamic Panel Analysis, September 2007
+2096 Louis N. Christofides and Amy Chen Peng, Real Wage Chronologies, September 2007
+2097 Martin Kolmar and Andreas Wagener, Tax Competition with Formula Apportionment: The Interaction between Tax Base and Sharing Mechanism, September 2007
+2098 Daniela Treutlein, What actually Happens to EU Directives in the Member States? – A Cross-Country Cross-Sector View on National Transposition Instruments, September 2007
+2099 Emmanuel C. Mamatzakis, An Analysis of the Impact of Public Infrastructure on Productivity Performance of Mexican Industry, September 2007
+2100 Gunther Schnabl and Andreas Hoffmann, Monetary Policy, Vagabonding Liquidity and Bursting Bubbles in New and Emerging Markets – An Overinvestment View, September 2007
+
+
+2101 Panu Poutvaara, The Expansion of Higher Education and Time-Consistent Taxation, September 2007
+2102 Marko Koethenbuerger and Ben Lockwood, Does Tax Competition Really Promote Growth?, September 2007
+2103 M. Hashem Pesaran and Elisa Tosetti, Large Panels with Common Factors and Spatial Correlations, September 2007
+2104 Laszlo Goerke and Marco Runkel, Tax Evasion and Competition, September 2007
+2105 Scott Alan Carson, Slave Prices, Geography and Insolation in 19th Century AfricanAmerican Stature, September 2007
+2106 Wolfram F. Richter, Efficient Tax Policy Ranks Education Higher than Saving, October 2007
+2107 Jarko Fidrmuc and Roman Horváth, Volatility of Exchange Rates in Selected New EU Members: Evidence from Daily Data, October 2007
+2108 Torben M. Andersen and Michael Svarer, Flexicurity – Labour Market Performance in Denmark, October 2007
+2109 Jonathan P. Thomas and Tim Worrall, Limited Commitment Models of the Labor Market, October 2007
+2110 Carlos Pestana Barros, Guglielmo Maria Caporale and Luis A. Gil-Alana, Identification of Segments of European Banks with a Latent Class Frontier Model, October 2007
+2111 Felicitas Nowak-Lehmann D., Sebastian Vollmer and Immaculada Martínez-Zarzoso, Competitiveness – A Comparison of China and Mexico, October 2007
+2112 Mark Mink, Jan P.A.M. Jacobs and Jakob de Haan, Measuring Synchronicity and Comovement of Business Cycles with an Application to the Euro Area, October 2007
+2113 Ossip Hühnerbein and Tobias Seidel, Intra-regional Tax Competition and Economic Geography, October 2007
+2114 Christian Keuschnigg, Exports, Foreign Direct Investment and the Costs of Corporate Taxation, October 2007
+2115 Werner Bönte, Oliver Falck and Stephan Heblich, Demography and Innovative Entrepreneurship, October 2007
+2116 Katrin Assenmacher-Wesche and M. Hashem Pesaran, Assessing Forecast Uncertainties in a VECX Model for Switzerland: An Exercise in Forecast Combination across Models and Observation Windows, October 2007
+2117 Ben Lockwood, Voting, Lobbying, and the Decentralization Theorem, October 2007
+
+
+2118 Andrea Ichino, Guido Schwerdt, Rudolf Winter-Ebmer and Josef Zweimüller, Too Old to Work, too Young to Retire?, October 2007
+2119 Wolfgang Eggert, Tim Krieger and Volker Meier, Education, Unemployment and Migration, October 2007
+2120 Stefan Napel and Mika Widgrén, The European Commission – Appointment, Preferences, and Institutional Relations, October 2007
+2121 Bertil Holmlund and Martin Söderström, Estimating Income Responses to Tax Changes: A Dynamic Panel Data Approach, October 2007
+2122 Doina Maria Radulescu, From Separate Accounting to Formula Apportionment: Analysis in a Dynamic Framework, October 2007
+2123 Jelle Brouwer, Richard Paap and Jean-Marie Viaene, The Trade and FDI Effects of EMU Enlargement, October 2007
+2124 Kurt R. Brekke, Luigi Siciliani and Odd Rune Straume, Competition and Waiting Times in Hospital Markets, October 2007
+2125 Alexis Direr, Flexible Life Annuities, October 2007
+2126 Johannes Becker and Clemens Fuest, Quality versus Quantity – The Composition Effect of Corporate Taxation on Foreign Direct Investment, October 2007
+2127 Balázs Égert, Real Convergence, Price Level Convergence and Inflation Differentials in Europe, October 2007
+2128 Marko Koethenbuerger, Revisiting the “Decentralization Theorem” – On the Role of Externalities, October 2007
+2129 Axel Dreher, Silvia Marchesi and James Raymond Vreeland, The Politics of IMF Forecasts, October 2007
+2130 Andreas Knabe and Ronnie Schöb, Subsidizing Extra Jobs: Promoting Employment by Taming the Unions, October 2007
+2131 Michel Beine and Bertrand Candelon, Liberalization and Stock Market Co-Movement between Emerging Economies, October 2007
+2132 Dieter M. Urban, FDI Technology Spillovers and Wages, October 2007
+2133 Valentina Bosetti, Carlo Carraro, Emanuele Massetti and Massimo Tavoni, Optimal Energy Investment and R&D Strategies to Stabilise Greenhouse Gas Atmospheric Concentrations, October 2007
+2134 David-Jan Jansen and Jakob de Haan, The Importance of Being Vigilant: Has ECB Communication Influenced Euro Area Inflation Expectations?, October 2007
