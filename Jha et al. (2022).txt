@@ -1,0 +1,2188 @@
+Markets under Siege:
+How Political Beliefs Move Financial Markets
+Saumitra Jha Stanford GSB
+Peter Koudijs Erasmus School of Economics
+Marcos Salgado∗ FGV EPGE
+June 18, 2024
+Please click here for the latest version.
+Abstract
+Can political beliefs, particularly about benefits of war versus peace, move thick financial markets? We document that following an unlikely victory by French citizensoldiers during the German Siege of Paris (1870), prices of the highly liquid French sovereign bond diverged substantially and persistently there versus elsewhere. While France resisted, Parisian prices were higher and responded more to war events. However after the ceasefire, price differences reversed dramatically until peace terms were revealed. Difficult to reconcile otherwise, these patterns match the predictions of a simple model with different political beliefs in Paris and elsewhere about the benefits of war versus peace.
+1 Introduction
+Can political beliefs move financial markets? More specifically, can beliefs about the costs
+and benefits of continuing war versus making peace impact equilibrium prices, even for
+∗saumitra@stanford.edu; koudijs@ese.eur.nl; marcos.salgado@fgv.br. We are grateful to Je ́re ́my Ducros, Pierre-Cyrille Hautcoeur and Angelo Riva for sharing data from the Data for Financial History (DFIH) database. We thank Patrice Babeau, Bruno Barsanetti, Fabio Braggion, Rik Frehen, Roberto Galbiati, Sergei Guriev, Emeric Henry, Philip Hoffman, Stefan Huber, Matti Keloharju, Elisabeth Kempf, Samuli Kn ̈upfer, Arvind Krishnamurthy, Matt Lowe, Alessandro Riboni, Jean-Laurent Rosenthal, Sarah Thompson, Oliver Vanden Enyde, Edward Watts, Chenzi Xu, Charles Zhang, Katia Zhuravskaya and seminar participants at the NBER Pol. Econ. meeting, ENS de Lyon,  ́Ecole Polytechnique, Sciences-Po/PSE, the CEPR Pol. Econ. of Finance conference, PUC Rio, FGV-EPGE, UNNE, the Stanford GSB, the Monetary and Fin. History Workshop, the Erasmus Fin. History Brown Bag, LACEA RIDGE, UChile FEN and Economics, and the Helsinki Finance Seminar for useful feedback. Many thanks also to Sam Asher, Long Do, Christlee Elmera, Andrew Matejka, David Rathmann-Bloch, Lucas Salgado, Simon Salgado, Haviland Sheldahl-Thomason, Roxane Somda, and Mariann Varga for excellent research assistance. We gratefully acknowledge support from the King Center on Global Development, CIRCLE, the Behavioral Lab at Stanford GSB and from Coordena ̧c ̃ao de Aperfeic ̧oamento de Pessoal de N ́ıvel Superior - Brasil (CAPES), Finance Code 001.
+1
+
+
+highly traded and liquid assets such as sovereign bonds? Or will the actions of politically
+unbiased investors drive prices back to fundamentals? Recent research establishes that
+political views can shape individual investment choices. However, much less is known about
+how, if at all, political beliefs can shape real-world equilibrium prices in thick markets.
+The question of whether political beliefs can shape aggregate market outcomes has proven
+thus far hard to answer, arguably because we typically observe only one price for each asset.
+Even if we observe prices for the exact same asset in multiple markets, which might reflect
+the beliefs of different investors, arbitrage leads prices to converge rapidly. At least since
+the introduction of the telegraph, thick financial markets have been characterized by the
+law of one price.
+Further, it is often difficult to attribute the actual prices that are realized by that market
+to political beliefs rather than endowments or the information that those investors may
+possess. Though financial asset prices often move following major political events, it is much
+less clear whether these shifts stem from political beliefs rather than from discount rates,
+anticipated changes in profitability due to new policies, or other macroeconomic changes
+that accompany political events. To answer the question of whether political beliefs can
+shape equilibrium prices, an ideal setting would involve the same asset being traded by
+different marginal investors with different political views and with the possibility of different
+equilibrium prices. In this paper, we exploit a historical episode that is a close approximation
+to that ideal.
+In 1870, French financial markets, along with Paris itself, came under siege. The besieg
+ing Prussian army cut the telegraph lines out of the city, leaving communications entrusted
+to carrier pigeons and gas balloons. However, despite the Siege, both the main Bourse in
+beleaguered Paris and other French stock exchanges, including in Lyon and Bordeaux, con
+tinued to function. In particular, the most liquid French asset, the three percent sovereign
+bond—henceforth the rente—continued to be actively traded in each exchange. The tem
+porary disruption of arbitrage during the Siege allows us to observe three time series of
+prices for the same actively traded asset. This provides a unique opportunity to document
+to what extent equilibrium prices diverge in response to different prevailing local political
+perspectives on the costs and benefits of continued conflict, and whether and how they
+converge as different necessary conditions for arbitrage were sequentially restored. We use
+voting data inside and outside Paris to document these local political differences. We fur
+ther gather detailed novel data not only on prices but also on other features of the Siege,
+which allows us to evaluate the potential role of alternative explanations, including different
+information sets, discount rates, and liquidity preferences, among others. These include
+detailed information flows documented by 29,903 pigeon messages, 66 balloon departures,
+daily newspaper reports, and local food prices as recorded in the contemporary diaries of
+the besieged.
+2
+
+
+Figure 1: Price ratio of the 3% sovereign bond (rente) inside and outside Paris.
+This figure shows the ratio of the price of 3% rente in Paris to the Lyon and Bordeaux prices for that same asset (7-day moving average). Notice: (1) the price was very similar in Paris and elsewhere (a 1:1 ratio) before the start of the war and after the Paris Commune; (2) during the Siege, the Parisian price deviated and tended to be consistently higher, particularly after the battle of Coulmiers that led to the recapture of Orl ́eans; (3) this pattern dramatically reverses, with higher prices outside Paris between the Armistice and the peace treaty.
+Figure 1 previews the main results. We first document that price differences for the
+rente between Paris and elsewhere in the early phases of the war (before the Siege) and in
+peacetime are close to zero and transitory. This is consistent with the law of one price and
+the rente’s status as the most widely-held financial asset in France and the most actively
+traded in continental Europe. However, during the Siege, the price of the rente differed
+persistently between markets in Paris and elsewhere in France. From the start of the Siege
+in September 1870 until the ceasefire 131 days later, the rente price in Paris was on average
+0.93% higher than elsewhere. This overall difference mainly reflects the persistently higher
+price in Paris (an average premium of 1.80%) after an unlikely victory of hastily drafted
+French conscripts over Prussian regular troops at Coulmiers, which led to the recapture of
+the strategic city of Orl ́eans.
+Importantly, as the figure reveals, however, the price differences for the rente inside
+and outside Paris are not monotonic: instead, we document that as soon as the ceasefire
+was declared and peace negotiations began, these differences were dramatically reversed.
+Between the Armistice and the signing of the peace treaty (on 26 February 1871), prices in
+Paris were, on average, 2.59% lower than elsewhere.
+These price differences—for the identical thickly traded asset—were not only persistent
+over time, they are also large in economic terms. They imply a different aggregate evaluation
+3
+
+
+of the value of French government debt equivalent to 0.30% of French GDP during the Siege
+overall, 0.58% in the Siege following the battle of Coulmiers, and 0.85% during the peace
+negotiations. In terms of yields, these differences are respectively equivalent to -6.26%,
+-12.01%, and 17.14% of the pre-war spread over British consols.
+What explains these patterns? In this paper, we show how these large-scale differences
+and dramatic reversals in the value of French sovereign debt inside and outside Paris can be
+reconciled using a simple model that highlights a basic political disagreement that citizens
+often face in war-time: whether it makes more sense to seek peace today in order to avoid
+the destructive costs of conflict, or to remain at war in hopes of securing better peace
+terms tomorrow. Such disagreements find modern resonance in differing policy perspectives
+on whether to continue the so-called forever conflicts in Afghanistan and Iraq. They are
+even more likely to emerge as a central political cleavage when nations are mobilized for
+large-scale war or are facing invasion, as in contemporary Ukraine and 1870 France.1
+While the current costs of war are more concrete and apparent to many2, we argue that a
+key likely source of political disagreement that often emerges is about the continuation value:
+citizen-investors may disagree about the relative value of negotiating peace immediately
+versus staying in conflict in the hopes of changing the facts on the ground : i.e. securing
+redeeming victories that may improve the terms of a future peace settlement.3 We model
+this political disagreement in a simple way: we present a dynamic asset pricing model of
+sovereign debt where marginal investors in different markets may have different prevailing
+beliefs about the sensitivity of the final peace terms to the flow of battle victories and
+defeats.
+As we describe below, in the French context, it was uncertain how success on the battle
+field would translate into better final peace terms. This was particularly the case following
+an initial series of disastrous defeats that led to the envelopment and surrender of most of
+France’s professional troops. With the capture of the French Emperor himself, many thought
+the war was already lost and hoped that a rapid cessation of hostilities would lead to a less
+punitive treaty. In contrast, members of the newly constituted Republican government in
+Paris pushed for mass mobilization and a continuation of the war, believing that the raw
+citizen-soldiers of France might win redeeming victories that could yet improve the terms of
+1The same person may disagree on these tradeoffs, depending on the context. For example, in a speech on March 22, 2022, US President Biden spoke of the war in Ukraine: “We must commit now to be in this fight for the long haul. We must remain unified today and tomorrow, and the day after, and for the years and decades to come. It will not be easy. There will be costs. But it’s a price we have to pay . . . ”. However, less than seven months earlier, on August 31, 2021, Biden had remarked while withdrawing US troops from Afghanistan “I was not going to extend this forever war, and I was not going to extend this forever exit. ” See https://www.whitehouse.gov/briefing-room. 2For example, by October 1870, the French newspaper Pays estimated that the war had already cost the French people 12 billion francs (about $ 31 billion in modern terms), due to lost battles, mobilization costs, property damage and business losses (Wawro, 2003, pg.256). 3Given that individual investors within a country rarely (if ever) experience multiple wars occurring in a stable environment, the convergence of beliefs through iterative processes seem much less likely than might occur with repeated experiences of phenomena in more stable environments, such as firms’ dividend streams.
+4
+
+
+the peace. Of course, this disagreement would only be material if the raw citizen levees could
+demonstrate that they could defeat regular Prussian troops, which they were able to do at
+Coulmiers on 9th November 1870. We show that this basic political disagreement—about
+the extent to which battle events could influence the terms of the peace—can generate the
+large differences in the valuations of sovereign debt inside and outside Paris that we observe
+following that battle and that would persist for the remainder of the Siege.
+The model further allows us to make a series of testable predictions that we take to
+the data. First, we can test our basic assumption that marginal investors in Paris believe
+that battle outcomes can have a greater influence on the ultimate peace terms. If true,
+and despite being the thicker market, Parisian prices should react more to battle outcomes:
+more positively to victories and more negatively to defeats. Second, the model predicts
+that the Parisian market should implicitly value the option of continuing the war more,
+as it allows the chance of future redeeming battle victories. A ceasefire that removes such
+an option, locking in the expected terms at a time when France has experienced multiple
+defeats and scarce victories, should lead the Paris price to react more negatively and hold
+that relatively pessimistic valuation until peace terms are announced. Lastly, when the
+very punishing terms of the treaty were revealed, confirming Parisian pessimism, the model
+predicts that the Parisian price should move less, while the rest of France should have a
+more dramatic negative response.
+We show that each of these predictions of our simple model are confirmed in the data.
+The rente price in Paris responds 1.183pp more to the arrival of news of war events than in
+Lyon and Bordeaux. In particular, prices fall more in Paris in response to defeats and rise
+more in response to the unlikely victory of French citizen-soldiers at Coulmiers. Further,
+with the declaration of an Armistice leading to a ceasefire, prices outside Paris show a
+dramatic rise of 4.89%, compared to a 0.54% price decrease in Paris. The resultant large
+price differences are maintained despite the improving conditions for arbitrage. Finally,
+when the onerous terms of the peace treaty are revealed— including the loss of Alsace
+Moselle and an indemnity equivalent to 25% of French GDP— prices outside Paris fall
+precipitously by 4.09%, converging to the prices inside the capital city, which decline only
+slightly (by 0.64%).
+Naturally, one may be concerned that even though we are examining the price for the
+same widely-held and traded asset, differences other than political beliefs may explain the
+price patterns for that asset we observe inside and outside the Siege, including information
+sets, discount factors, market thickness, need for liquidity, among others. We draw upon a
+series of supplemental data sources to show that such differences are difficult to reconcile
+with the patterns we observe in the absence of differential political beliefs.
+First, we show that different information environments cannot explain the price patterns
+we observe. The Siege limited communication between Paris and the rest of the world but did
+5
+
+
+not completely stop information sharing. We exploit detailed data on news flows, including
+pigeons messages, balloon departures, and newspaper reports to examine how the arrival of
+news impacted prices in these different markets. We do not find abnormal returns on days
+with information inflows. Further, we track when Paris prices are reported in Bordeaux and
+find little convergence by Bordeaux prices in response to this information. Neither do prices
+in Paris converge when news from outside enters the city. In fact, the price divergence is
+even more pronounced during the peace negotiations, when the exchange of information was
+more regular than during the Siege. Thus, the markets appear to be agreeing to disagree on
+the price.
+Our results are also not explained by differences in liquidity or discount rates. We
+calculate price differences for four of the most liquid assets (other than the rente) that
+were dual-listed inside and outside Paris. We show that none of these assets present the
+same patterns as the rente. Since price differences are unrelated across assets, market
+wide differences in liquidity or discount rates cannot explain the rente price differences we
+observe. Nor do the rente price differences track the ten-fold rise in staple or luxury food
+prices in Paris as the Siege continued.
+Our results are also inconsistent with short-term fluctuations due to political beliefs
+moving thin markets in the regional exchanges. Paris had the deepest financial market in
+France, and one might expect belief shocks to have less of an effect there. However, as
+mentioned above, we document instead that during the Siege, the opposite was true, with
+Paris responding more strongly to war news than elsewhere.
+Wealth inequality makes our results more striking. Even though the rente was widely
+held, the wealthiest held disproportionate amounts.4 One might expect economic elites all
+over France to broadly share similar political beliefs and attitudes. Nonetheless, we find
+that the different prevailing political views of the broader Parisian public and that of others
+elsewhere began to translate into substantially and persistently different equilibrium prices
+as the Siege progressed.
+To the best of our knowledge, this is the first paper to document the presence of price dis
+parities due to differences in political beliefs. We argue that the key source of disagreement
+that many in France faced was a dynamic trade-off common to many decision-makers facing
+the prospect of defeat in war-time: between continuing fighting today to secure a better
+peace in the future or negotiating peace immediately to avoid the costs of continued con
+flict.5 Our paper is closely related to a growing literature showing that political views affect
+people’s investment decisions, giving rise to heterogeneous beliefs in the market. Investors
+of different political leanings often disagree about which policies give them the largest eco
+437% of Parisians who died with positive wealth held French government bonds, but the wealthiest 5% owned 84% of those bonds (see Appendix A.4.1). 5For a broader discussion of dynamic trade-offs leading to war see Fearon (1996).
+6
+
+
+nomic benefits. For example, U.S. investors from Democrat- and Republican-leading ZIP
+codes invest more in (risky) equities when their party is in power, suggesting investors think
+the market will do better when there are economic policies in place that are consistent with
+their own beliefs (Bonaparte et al. (2017) and Meeuwis et al. (2022)).6 There is also a
+growing literature showing that political beliefs affect the actions of financial professionals,
+which in turn affect investor behavior (see Hong and Kostovetsky, 2012; Hutton et al., 2014;
+Kempf and Tsoutsoura, 2018; Goldman et al., 2020; Cassidy and Vorsatz, 2021; Kempf et
+al., 2023).7
+At the same time, it has thus far remained an open question whether such differences
+of beliefs affect market-wide pricing—and thereby aggregate investment allocations.8 In
+particular, prior research finds that the effects of beliefs on investment decisions tend to
+be driven by a small sub-sample of investors who actively rebalance their portfolio, are
+economically small on average, and can take months to materialize (Meeuwis et al. (2022)).
+Particularly in thick markets, one might expect cooler (less-partisan) heads to prevail and
+to arbitrage away any partisan impact on prices such that, in equilibrium, asset prices are
+unbiased.
+Further, as noted above, an important body of research shows that the share prices
+of companies that are politically affiliated or that may benefit from the policies of a new
+regime often do move with political events such as elections (e.g. Fisman, 2001; Faccio, 2006;
+Mattozzi, 2008; Addoum and Kumar, 2016; Girardi, 2020).9 However, it remains extremely
+challenging to distinguish whether such price changes result from political belief disagree
+ment or instead reflect news that also directly influences future cash flows. Compared to this
+literature, by exploiting the existence of three concurrent price series for the same asset in
+locations with different prevailing political views, our paper provides evidence linking large
+and persistent equilibrium price-differences in a liquid and actively traded asset directly to
+differences in political beliefs.10
+Our paper is also related to an established literature on the importance of differences of
+beliefs for investment decisions (see, among others, Miller, 1977; Harrison and Kreps, 1978;
+6Relatedly, Cookson et al. (2020) use an investor social media platform to show that Republican investors were less pessimistic during the Covid-19 pandemic, Bernstein et al. (2020) show that Republican-leaning voters are more likely to own houses exposed to sea level rises, and Laudenbach et al. (2020) show that investors in former East Germany, who have grown up with a Communist ideology, invest less in the stock market than investors in West Germany. 7Another literature establishes this for economic forecasts, but effects on individual consumption decisions are mixed (Conover et al., 1987; Gerber and Huber, 2009; Mian et al., 2017; Gillitzer and Prasad, 2018). 8Two papers show price effects of different political beliefs: Dagostino et al. (2020) on loan pricing and Baldauf et al. (2020) on real estate. In contrast, our findings apply to a homogeneous and highly liquid asset. 9In France, in particular, Do et al. (2020) provide compelling evidence that the campaign to undo the unjust court-martial of the Jewish officer Dreyfus led to abnormal returns for other firms with Jewish board members. 10Further, the existing empirical evidence is predominantly based on the recent increase in U.S. political polarization. We show economically meaningful effects in a different setting in response to political disagreement related to the costs and benefits of war and peace.
+7
+
+
+Jarrow, 1980; Harris and Raviv, 1993; Kandel and Pearson, 1995; Hong et al., 2006; Hong
+and Stein, 2007). Recent empirical work suggests that differences in beliefs are significantly
+related to trading activity but that the economic effects are small (e.g., Ameriks et al. (2020),
+Giglio et al. (2021), and Cookson et al. (2020)). Further, the evidence that differences in
+beliefs have aggregate (pricing) implications is limited. There are some exceptions. There is
+evidence from (non-fungible) dual-listed shares that is at least consistent with differences of
+beliefs affecting equilibrium prices (e.g. Rosenthal and Young (1990) and Froot and Dabora
+(1999)).11 Compared to this literature, our paper provides direct evidence that differences
+of political beliefs can have economically significant equilibrium pricing effects.
+Our paper also relates to literature that examines how differences in beliefs emerge.
+There is growing evidence that personal experience is important (e.g. Bordalo et al., 2022;
+Vissing-Jorgensen, 2003; Greenwood and Nagel, 2009; Choi et al., 2009; Malmendier and
+Nagel, 2011, 2016; Koudijs and Voth, 2016). There is also evidence that social networks
+and peer effects matter (e.g., Hong et al. (2004, 2005), Bursztyn et al. (2014), Bailey et al.
+(2018, 2019)). Burnside et al. (2016) provide a theoretical model in which investors can
+get infected by others’ beliefs. In our setting, negative war experiences notwithstanding,
+many on the Parisian street perceived continued French resistance as preferable for securing
+a better peace. Compared to this literature, our evidence suggests that these popular beliefs
+in Paris weighed upon the trading decisions of local (mainly elite) marginal investors as well.
+Our paper also builds upon a literature that explores the relationship between war and
+finance (see Jha and Van Rensselaer (2021) for an overview). On the one hand, war and
+finance can be complements. Often seen as the sinews of power in international rela
+tions (Brewer, 2002), the ability of governments to access cheap finance has historically
+been crucial for supporting war in many settings. Financial markets can also allow individ
+uals to potentially profit from the fortunes of war as well (Guidolin and La Ferrara, 2010;
+DellaVigna and La Ferrara, 2010). At the same time, financial markets, by aggregating the
+beliefs of investors, can provide important information to political decision-makers.12 We
+contribute to this literature by demonstrating how the ‘smart money’ may actively and per
+sistently disagree, and such responses can be significantly influenced by the changing beliefs
+of the marginal investor rather than necessarily reflecting a broader consensus. As conflict,
+and particular defeat and its aftermath, is economically destructive and can lead to increased
+11For example, Baker et al. (2012) show that price differences between dual-listed shares are correlated with differences in the principal components of a number of local sentiment proxies. Jia et al. (2017) show that dual-listed shares in Hong Kong and mainland China respond differently to analyst forecasts depending on their location. Moreover, firms that more analysts cover see a lower return correlation between the two share classes. In addition, Koudijs and Voth (2016) show that different experiences of margin-lenders during the Panic of 1773 differentially affected haircuts on future margin-loans in an over-the-counter setting with search frictions. This appears to have had implications for market-wide haircuts. 12For example, Willard et al. (1996) and Calomiris and Pritchett (2016) examine how currency and slave prices in the US Civil War responded to war events as means to gauge public opinion of the chances of Union victory. Mitchener et al. (2015) use bond prices to predict victories in civil wars. Frey and Kucher (2000) and Ferguson (2006) look at bond prices around WWII and WWI, respectively.
+8
+
+
+risk and uncertainty (e.g. Barro, 2006; Besley and Mueller, 2012; Verdickt, 2020; Wang and
+Young, 2020), broad asset prices can drop substantially in the face of conflict (Rigobon and
+Sack, 2005; Schneider and Troeger, 2006; Zussman et al., 2008).13 The informative aspect of
+financial markets can be further reinforced when decision-makers are themselves invested in
+broad financial assets, aligning their interests with the broader economy as well.14 Both of
+these effects may lead asset price responses to moderate the political behavior of individuals
+and the passions associated with conflict (Hirschman, 2013; Jha, 2012), including those of
+elites. Our paper shows, however, that this potential moderating effect depends importantly
+on the political views of marginal investors.
+Section 2 provides the essential historical background on the Franco-Prussian War and
+the different prevailing political beliefs inside and outside Paris. Section 3 then provides a
+parsimonious theoretical model to better understand price differences in and outside Paris
+and to derive additional empirical predictions. Section 4 presents the main empirical re
+sults testing the implications of the model. We then evaluate alternative explanations in
+Section 5, including the role of different information sets and liquidity shocks. We conclude
+by discussing our findings and avenues for future research.
+The Appendix provides formal proofs (in Section A.1), further historical context on the
+financial markets and default risk (A.2), simulations quantifying the bounds on arbitrage
+during the Siege (A.3), and further supportive material on the rente (A.4), the political
+situation (A.5), war events (A.6), information flows and price responses (A.7), liquidity
+shocks (A.8), along with a detailed Data Appendix (A.9).
+2 Historical Background
+The War: The Franco-Prussian War of 1870-71 was the greatest conflict in Europe between
+the Battle of Waterloo and the First World War, with two million soldiers mobilized and
+180,000 fatalities (Clodfelter, 2017). Though the war lasted less than half a year, it was
+a turning point in European history. France saw the death of an empire and the birth
+of a republic, Germany emerged as a unified state, and the stage was set for more global
+conflicts to come (Horne, 2012). In short, the Prussian premier, Otto von Bismarck, sought
+to provoke the French into declaring war by manipulating the language of a diplomatic
+communication, the so-called Ems telegram, into a seeming insult. He aimed to use French
+aggression to help unite the German lands (Chrastil, 2023).
+Bismarck proved successful. With fears of a rising Germany coupled with “war fever ”
+spreading on the Paris streets, all but 16 of the 260 members of the imperial legislature
+13Jha and Van Rensselaer (2021) take a sample of all inter-state wars in which at least one participant had an active stock market with daily returns between 1900-2020. They find that, on average, there is a 2.5% fall in the three-day cumulative abnormal returns when a war begins in the countries involved. 14See Jha (2012, 2015); Jha and Shayo (2019); Jha et al. (2020)).
+9
+
+
+rose to acclaim 50 million francs for a punitive war against Prussia (Wawro, 2003, p.38).15
+Importantly, the French rente price did not reflect these passions, and the rente fell a
+dramatic 9.97% both in and outside Paris in the lead-up to the war (Figure A.2).16
+Indeed, France was ill-prepared for war, both diplomatically and militarily. France failed
+to secure commitments from key potential allies before going to war. The French imperial
+army was made up of a cadre of highly experienced professional soldiers – les grognards
+(the grumblers). Prussia, in contrast, had universal conscription, which allowed it to access
+younger and more literate soldiers. This also meant that if the war endured and the reservist
+troops were mobilized, they would have a large numerical advantage (Wawro, 2003).
+Though not inevitable ex ante, two strategic missteps ensured a French defeat. First,
+French imperial forces squandered their early numerical advantages by failing to seize the
+initiative, relying too much on fortified strongpoints such as at Wissenbourg that were
+unable to withstand the far superior Prussian artillery. Second, Emperor Napoleon III
+split his army, allowing the Prussians to surround them separately. Marshal Bazaine’s force
+contested a major battle at Gravelotte before he withdrew to the fortress-city of Metz, where
+he was besieged. Napoleon III’s own corps withdrew towards Mars-la-Tour and ultimately
+Sedan, where it was also surrounded. After a disastrous battle there on September 1st,
+1870, leading to around 122,031 French deaths, wounded, or captured (Clodfelter, 2017),
+the French Emperor rode alone through the Prussian lines to surrender.
+Citizen-Soldiers of the New Republic: The capture of the Emperor and the loss
+of almost his entire professional army delegitimized the remaining Imperial regime. Buoyed
+by popular Parisian sentiment, a group of pro-Republican deputies stepped out onto the
+balcony of the Hotel de Ville in Paris to declare the end of the Empire and the birth of the
+Third Republic. Again, the rente price tumbled (Figure A.3). Political veteran Adolphe
+Thiers, a former prime minister under King Louis-Philippe, declined a position in the newly
+established Republican leadership, advising against any new offensives in favor of overtures
+for peace (Brogan, 1940, pg. 43-44). However, the Republican leadership had different views
+on the war. Among its leaders was Leon Gambetta, who believed that despite the defeat
+and capture of almost all of France’s professional army, there continued to be hope for the
+war. He pushed for a levee en masse – the raising of raw but fervent citizen-soldiers like
+15The call to arms was greeted by crowds in the streets of Paris shouting “a ́ Berlin!. . . a ́ bas Bismarck! [To Berlin!. . . Down with Bismarck!]” (Wawro, 2003, p.38). These sentiments were not confined to the streets. Summarizing the debates in the legislature, Wawro writes: “What actually transpired revealed just how far [Napoleon’s ministers] had drifted from sensible opinion in their rush to war (pg. 38).”
+16The six-week Austro-Prussian War four years earlier (in 1866) had culminated in the encirclement of the Austrian forces at the battle of K ̈oniggratz. Prussia’s battlefield success was seen as a threat to France and was accompanied by a large fall in the French sovereign bond as well (Figure A.2). Prussia’s victory removed its key rival to leadership in the German lands but also left a set of very restive south German states that did not wish to cede autonomy to Prussia.
+10
+
+
+the fabled saviors of the Great Revolution (Ferguson, 2000).17 New forces hastily mustered
+around France, including the Army of the North around Amiens, and the Army of the Loire
+to the South, near Orl ́eans (see map in Appendix A.6). A citizen-volunteer force of 300,000
+also rallied to man the strong fortifications of the city of Paris. However, these new forces
+lacked both training and discipline. To put pressure on the French republican authorities
+to negotiate terms, Prussia laid Siege to Paris itself on September 19, 1870.
+Apart from the surrender of the remaining professional forces still holding out in Metz,
+Strasbourg, Belfort, and other fortress towns, the critical war events during the Siege of Paris
+largely centered around attempts to coordinate with French forces near Orl ́eans. With its
+bridge across the Loire and rail connections, Orle ́ans could promise resupply to the capital.
+Importantly, in the first clear victory of French arms during the war, the Army of the Loire,
+consisting primarily of raw French levees, defeated seasoned Prussian regulars at Coulmiers
+on November 9, 1870, leading to the recapture of Orl ́eans.
+The news of the victory at Coulmiers arrived in Paris via pigeon on November 14, 1870.
+“The city exploded into a delirium of joy . . . Strangers kissed each other on the boulevard;
+. . . ‘We have passed from the lowest depths of despair to the wildest confidence’, exclaimed
+[English diplomat] Henry Labouchere”(Horne, 2012, pg. 142). Le Figaro reported:
+This good news caused great and healthy emotions in Paris: enormous crowds gathered . . . ; readers of the dispatch were interrupted by frenetic hurrahs; it was an enthusiasm as sincere as it was perfectly justified. Since the beginning of the Siege this is the only real good news that has finally reached us (16 November 1870).
+The Parisian stockbroker Jacques-Henri Paradis, commented in his journal that day:
+The victory of Orle ́ans changed the public mind— forever so easy to train— and today the newspapers speak no more of an armistice. That affair is finished; we now speak of battle, and the daily news sheets present campaign plans. Everyone has their own. . . . Everyone wants something, but no one worries if what he dreams is achievable (Paradis, 1872, pg. 367-369).18
+According to the historian Denis Brogan (1940, pg. 45-46), “at the moment, the prudence
+and pessimism of [Thiers] was at a discount; Gambetta and his armies must be given a chance
+to succeed where Thiers and his diplomacy had failed.” Indeed, as we show, Coulmiers and
+the recapture of Orl ́eans was followed by the emergence of large and persistent rente price
+17The left-wing icon, Victor Hugo, newly returned to Paris from political exile in Brussels, proclaimed in September 1870 that 10 million Frenchmen were “burning to join the fight”. As Wawro (2003, pg.257) notes, if so,‘they were burning slowly.’
+18Translation ours. Paradis’ own view was more circumspect: “Finally, all this shows us that we at least can believe the existence of the Army of the Loire. Now let’s see in what conditions this army won the victory of Orle ́ans. How many were we? How many were the enemy? . . . M. Gambetta forgets to inform us on this subject, and this is, however, very important. If the Prussians fought one against ten, the matter loses all its importance - and does not enlighten us.” Indeed, the French outnumbered the Bavarian regulars at Coulmiers by 3:1.
+11
+
+
+differences inside and outside Paris that would last for the rest of the Siege and beyond (see
+also Figure 1).
+The French ability to coordinate attacks from the South with a sortie from Paris was
+hampered by Prussian forces who cut the telegraph lines at the beginning of the Siege in
+order to control the flow of information into the city. The French improvised, sending out
+baskets of homing pigeons in gas balloons and developing a new miniaturization technology
+to maximize the information a pigeon could carry (see Appendix A.2.1). Among those sent
+aloft to rally France in the name of the Republic was Gambetta himself, who would run a
+parallel administration from Tours and later Bordeaux. The balloons could be dispatched
+from Paris, but once aloft, their trajectories were unpredictable and determined by air
+currents, making it hard to return– hence the need for the homing pigeons born and raised
+in Paris.19 Using the universe of balloon departures and pigeon arrivals during the Siege,
+Table A.1 shows that balloons landed outside Paris every 2.71 days, while from October
+1870 onwards, pigeons arrived in Paris every 3.32 days on average.
+Though information was shared, these delays limited arbitrage between Paris and other
+financial markets. Section A.3 provides evidence from about thirty thousand pigeon mes
+sages that arbitrage instructions were very uncommon (with only 22 potential mentions in
+the entire corpus). We also estimate modest Sharpe ratios (0.471 and 0.848, respectively)
+from simulated trading strategies in Bordeaux and Paris, consistent with the fact that due to
+price volatility and uncertainty in the information flows, risk-free arbitrage was not possible.
+Coulmiers would turn out to be the only major victory by France’s new citizen armies.
+Lacking training and discipline, they faced a series of further defeats (see also Appendix A.6.).20
+Attempts to break the Siege of Paris from the inside were also repelled. Eventually, with
+starvation in the offing, a breakdown of military discipline, and the threat of revolution,
+Parisian authorities agreed to an Armistice and the calling of elections on January 28, 1871.
+Differences in Political Beliefs over War and Peace:
+“The obstacle to peace is Paris”’ - Emilio Visconti-Venosta, Italian foreign min
+ister, October 22, 1870.21
+The Republican government in Paris and non-Republicans elsewhere held fundamentally
+different beliefs about the benefits of war and peace. Gambetta and other prominent voices
+19The balloon carrying the critical message to coordinate a ‘Great Sortie’ from Paris with forces in Orle ́ans ended up in Norway (Figure A.19). Two crews were also lost in the Atlantic Ocean. The pigeons voyageurs were each baptized and honored as heroes of France (Paradis, 1872).
+20“Even by French standards, the [Army of the Loire draftees] were breathtakingly undisciplined. They elected their own officers- having ousted their Bonapartist ones on 4 September– and frequently refused direct orders from the war ministry or regular army headquarters.” (Wawro, 2003, pg.265), citing Garde Mobile de la Sarthe to XV Corps, Blois, 19 Oct 1870.
+21He continued his dispatch arguing that the politicians there will not “accept certain conditions that the French nation might be disposed to accept.” Emilio Visconti-Venosta, UK Public Records Office: FO 425,98,89, Florence, 22 Oct. 1870.
+12
+
+
+in the Republican government wanted to prolong the war, hoping that continued resistance
+would lead Prussia to moderate their harsh proposals, despite France’s devastating defeats.
+Further, they believed that without military victories, the French would lack any bargaining
+power in the negotiations (Brogan 1940, pg. 52; Wawro 2003, pg. 288, 304).22 Even after the
+failure of the Great Sortie, and the Armistice itself, Gambetta wanted to resume the conflict
+(Brogan 1940, pg. 52; Wawro 2003, pg. 251). He was not alone – on the Parisian street,
+ardent left-wing demonstrators, many now armed as part of the defense of the city, also
+pressured the Republican government to continue the war.23 On the eve of the armistice,
+the French negotiator Jules Favre exclaimed: “God only knows what the Parisian populace
+will do to us when we are compelled to tell them the truth” (Horne, 2012, pg. 239). Indeed,
+Section A.5 shows that Parisians elected representatives who voted overwhelmingly against
+ratifying the treaty.
+In contrast, in much of the rest of France, ‘from the very first, the war was markedly
+less popular than in Paris” (Horne, 2012, pg. 39). According to Wawro (2003, pg. 232,
+256), “the provisional government was little more than the pre-war republican delegation
+from Paris, a small political faction atop a vast country that was not very republican at all ”
+and “outside Paris, there was deep hostility to the Republic and the ‘balloon government’ at
+Tours, which the peasants and provincial bourgeois increasingly identified with taxes, war
+mongering, and ‘red revolution’.” A prevailing fear was that continuing the war would only
+lead the Prussians to ask for a higher indemnity to cover their war costs (Horne, 2012,
+pg. 91). Some also believed that the Prussians would resist the temptation to over-exploit
+their bargaining power and instead provide more reasonable peace terms.24 The remaining
+officers of the old Empire, including Marshal Bazaine and General Bourbaki, were also
+unenthusiastic about the new Republican government and the war effort (Horne, 2012, pg.
+207). As we return to below, after surrendering himself and the last major concentration
+of 179,000 French professional troops at Metz to the Prussians, Bazaine remarked to his
+entourage: “This sad affair will have at least one good result: it will force Paris to cease its
+22According to Horne (2012, pg. 91), “for France, with her back pinned to the wall by the rapacity of the Prussian General Staff, it now seemed there was no option but to fight tooth and nail. . . . Henceforth, warfare would no longer be a polite contest between professional armies on the eighteenth-century model, but a jungle-law ‘survival of the fittest’ struggle between peoples.” 23They viewed the war “as a struggle between proletarian virtue and thieving monarchy.” Many thought that Gambetta and the Republican government were even too moderate and “had only one thought: peace. Not a victorious peace, not even an honorable peace, but peace at any price. . . . It does not believe in resistance” (Horne, 2012, pg. 92). There were protests in front of the Hotel de Ville or in the Place de la Concorde every day to maintain a hard line against the Prussians (Wawro, 2003, pg. 234, 253). 24In fact, Bismarck himself believed that onerous peace conditions would humiliate France and lead to future war. But he was overruled by the generals (Dehdari and Gehring, 2022). Similarly, the Economist noted that harsh peace terms “may excite France to continue the war, and may cause her to elect an Assembly inflamed with war passion”. After the signing of the final peace treaty, independent observers were shocked by the outcome, with the Economist and the British prime minister respectively observing that “to exact huge sums of money as the consequence of victory suggests a belief that money may next time be the object as well as the actual reward of battle ” and “there is not a diplomatic tradition which has not been swept away. You have a new world, new influences at work. . . . The balance of power has been entirely destroyed.” (Wawro, 2003, pg. 305-306).
+13
+
+
+resistance and restore peace to our country” (Wawro, 2003, pg. 251).25
+A possible solution to this political stalemate was new elections. Bismarck realized
+that the French provinces were more conservative than Paris and more inclined to sue for
+peace. However, afraid of a “pacifist landslide,” the Republican government postponed the
+elections indefinitely: “the greater worry was that France’s war-weary peasant voters would
+return pragmatic conservatives, or even monarchists, to make peace at any price” (Wawro,
+2003, pg. 247, 256).
+After the armistice was signed, however, national elections finally took place in February
+1871. The results unambiguously show the large divide between Parisian arrondissements
+and the rest of France (see Section A.5). Thiers, the big winner, and soon-to-become the new
+prime minister, headed the pro-peace list, which essentially consisted of conservatives from
+rural France. Gambetta headed the list for the continuation of the war, which primarily
+consisted of left-leaning Republicans from Paris. The former won an overwhelming majority
+with 500 of 676 seats in the new assembly (Wawro 2003, p. 303; Horne 2012, p. 254).
+As Section A.5 details, Paris has a long and consistent history of electing more left-wing
+representatives, but the left-right vote gap was especially large in the war-time February
+1871 election, where the key issue was whether or not to accept the terms of the peace.
+As Figure 2 shows, these political differences are apparent even when we only compare the
+voting behavior of Parisian arrondissements to other urban communes with similar levels of
+wealth. The differences are also particularly marked when comparing Parisian vote patterns
+to the city with the next thickest financial market after Paris, Lyon.26
+The Treaty of Versailles was announced on February 28, 1871. The conditions were
+extremely harsh: the loss of Alsace-Moselle and payment of a five billion francs indemnity.
+This sum was equal to 25% of France’s GDP and 2.5 times its yearly government budget,
+to be paid over five years. Nevertheless, on March 1, the Assembly voted to ratify the
+peace treaty. Table A.8 confirms that, apart from one abstention, all the representatives
+elected in Bordeaux (Gironde) and Lyon (Rhone) voted in favor, while a majority of the
+representatives elected in Paris (Seine) voted against.
+25Similarly, Adolphe Thiers, the moderate politician favored by the provincial bourgeoisie (Brogan, 1940, pg. 55-56), “was dedicated to concluding peace at almost any price with Germany”, drawing outrage from the then Mayor of Montmartre, Georges Clemenceau, who would devote much of his career to reversing the terms of the treaty and restoring Alsace-Moselle to France (Horne, 2012, pg. 107, 256-257). Commenting on the disagreement between Paris and the rest of France, Catholic politician Vicomte de Meaux noted that “we provincials were unable to come to an understanding with the Parisians. It seemed as if we did not even speak the same language, and that they were prey to a kind of sickness” (Horne, 2012, pg. 259-260). 26Figure A.9 shows votes for the Left in the 1871 election in each Parisian arrondissement separately, and the distribution of votes for each income percentile for the communes in the rest of France. For example, in the richest Parisian arrondissement (the 16th), the left got 70% of the vote, compared to a median of 0% in the richest 1% of communes in the rest of France (if we include the center-left, those vote shares are 74% and 19% respectively).
+14
+
+
+Figure 2: Elections results in February 1871 by income percentile, in Parisian arrondissements and major urban communes in the rest of France
+This graph shows the election results in each one of the 20 Parisian arrondissements (circles, numbered) and the 20 biggest urban communes in the rest of France by their income percentile (from those with available voting data, triangles). N.B. The returns for Bordeaux are not included due to missing data.
+3 Model
+In this section, we introduce a simple dynamic asset pricing model to understand how
+political beliefs about the gains of continued war can affect security price differences in
+different markets.27 We include one crucial distinction: we allow investors in different
+markets to have different political beliefs about the benefits of battlefield victories and
+defeats in influencing the terms of the peace.
+3.1 Setup
+Individual investors i price debt securities. Each perceives the following value functions
+while beginning a period t in a state of war (V w
+i,t) or peace (V p
+i,t):
+Vw
+i,t = −Ω + δ πEtV w
+i,t+1 + (1 − π) EtV p
+i,t , (1)
+Vp
+i,t = Γi,t
+1 − δ , (2)
+where Ω is the flow cost of war, δ < 1 investors’ discount rate, and π the probability of
+transitioning from a state of war to a state of peace. For simplicity, we assume that the
+parameters are the same in each period, and are taken as given from the perspective of each
+27This model is inspired in part by DellaVigna and La Ferrara (2010), who provide a valuable framework for analyzing the effects of war events on financial market responses for detecting illegal arms trade.
+15
+
+
+individual investor i. We assume peace to be an absorbing state.28
+In every period, there is a battle that can be won or lost. The probability of a win is given
+by Pr w
+t which is again perceived to be the same by all i. Importantly, we allow investors
+to disagree about how these war events affect the peace terms that would materialize if
+the war ends in t, denoted Γi,t.29 Peace terms are a function of past wins and losses. For
+tractability, we assume that
+Γi,t ≡ αWt−Lt
+i , (3)
+with Wt =
+t
+X
+τ =1
+wτ and Lt =
+t
+X
+τ =1
+lτ , (4)
+where wτ indicates a win and lτ a loss, and thus Wt − Lt is the current tally of victories
+over defeats, or the war score. We assume that αi ⩾ 1 such that wins improve and losses
+worsen peace terms.30 Therefore, αi captures the expected sensitivity of peace terms to the
+war score. Crucially, we allow this parameter to differ between investors. Before fighting
+starts, the peace terms are normalized to Γ0 ≡ 1. This implies that Ω can be thought of as
+the flow costs of war relative to the initial flow benefits of peace.
+Depending on the number of wins and losses, and their impact on peace terms, Γi,t
+can become bigger or smaller than 1. For example, if investor j thinks that results on the
+battlefield have no effect on the terms of peace, then αj = 1 and Γt = Γ0 = 1. If investor
+i ̸= j believes that war events can change the peace terms, then αi > 1. As long as wins
+exceed losses (i.e. Wt > Lt), Γi,t > 1.
+3.2 Results
+We first establish predictions for price valuation levels. We then derive additional testable
+predictions regarding valuation changes (please see Section A.1 for formal proofs). Intu
+itively, as long as the probability of scoring wins is high enough (Pr w
+t is large) and there
+have not yet been too many losses, investors that perceive a high sensitivity of peace condi
+tions to the war score—i.e., a high αi—will assign a higher value to the security in the state
+of war. Further, this effect will flip if the end of hostilities comes after a string of losses: the
+accumulated losses will be expected to worsen the final peace terms and there are no more
+opportunities for redeeming victories. Further, in this situation, investors with the highest
+αi will be most pessimistic about the value of the security.
+28More generally, we can allow the period gain to peace to be discounted by some exogenous probability of transition back to war without changing the results substantively. 29Specifically, Γi,t are the flow benefits of being at peace net of transfers or reparation payments. 30This can be thought of as a reduced form way of capturing a more complex bargaining process where war victories and losses accumulate in shaping peace terms.
+16
+
+
+For simplicity, we assume that losses (wins) are i.i.d.31 Then, expectations are given by:
+Ei,tΓi,t+1 = Pr w
+t αi + (1 − Pr w
+t)
+αi
+Γi,t ≡ γiΓi,t, (5)
+where the parameter γi can be thought of as the expected change in peace terms from
+continuing to fight.
+Lemma 1. If αj = 1, we have γj = 1. If αi > 1 and Pr w
+t >1
+2 , γi > 1.
+Lemma 2. As long as Pr w
+t >1
+2 , ∂γi
+∂αi > 0 and ∂γ2
+i
+∂αi∂Pr w
+t
+> 0.
+Lemmas 1 and 2 establish that as long as the probability of a future battle victory is
+perceived to be sufficiently large, a larger αi implies that continuing to fight will lead to
+better expected peace terms. Further, the sensitivity of the expected peace terms with
+respect to αi increases in Pr w
+t . That is, the higher the perceived probability of a battle
+success, the greater the impact of αi on the expected peace terms.
+Proposition 1. The security’s value at time t while in a state of war is given by:
+Vw
+i,t = −Ω
+1 − δπ + (1 − π) δγi
+(1 − δ) (1 − δπγi) αWt−Lt
+i (6)
+The solution is well-defined as long as γi < 1/δπ. The value after the end of hostilities in
+period t is given by Eqn. (2).
+Proposition 2. If markets are fully integrated and there are no short-selling constraints,
+the equilibrium value of the security in period t while at war or after the end of hostilities
+is given by:
+Vw
+t=
+X
+i
+ωiV w
+i,t ; V p
+t=
+X
+i
+ωiV p
+i,t (7)
+with ωi the weight of each investor i.
+If two markets with respective investors i ∈ I and j ∈ J are not integrated, local prices
+will reflect local beliefs:
+Vw
+I,t =
+X
+i∈I
+ωiV w
+i,t ; V p
+I,t =
+X
+i∈I
+ωiV p
+i,t (8)
+Vw
+J,t =
+X
+i∈J
+ωj V w
+j,t ; V p
+J,t =
+X
+j∈J
+ωj V p
+j,t (9)
+31This assumption can also be motivated by the selection of conditions under which two opposing armies will be willing to join battle, as in the canonical Priest and Klein (1984) analysis of litigation disputes: as they establish, due to selection, the outcome of cases that actually come to court should be hard to predict, with a benchmark expectation of about 50% plaintiff victories. The framework can also, in principle, incorporate a string of multiple serially correlated victories– we can redefine the duration of each period such that these are considered a single victory.
+17
+
+
+3.3 Empirical Predictions
+We assume that investors in different markets can have different beliefs about how success or
+failure on the battlefield shaped peace conditions. For simplicity, we assume that investors
+in a particular market all share the same beliefs.32 In particular, we assume αC > αR,
+where in our case, C denotes the capital (Paris) and R the Rest of France. We will test this
+assumption below.
+Corollary 1. As long as the count of battle victories versus losses exceeds a (negative)
+threshold level: Wt − Lt > (Wt − Lt)∗, with (Wt − Lt)∗ < 0, the market with the largest α
+will have the highest valuation while in a state of war. The difference in valuations while at
+war increases in the probability of victories Pr w
+t.
+This corollary suggests the following interpretation of events. Initially, investors in both
+locations perceive the probability of a battle victory Pr w
+t to be small. As a result, price
+differences between the two locations are limited. After the first citizen-soldier victory at
+Coulmiers, there was a nationwide upward reevaluation of victories to come (i.e. Pr w
+t ↑).33
+Even though the battle itself did not dramatically change France’s position in the war, this
+was the first time in the conflict that a citizen army had demonstrated that it could be
+victorious against regulars on the battlefield. Given existing differences in beliefs about the
+gains to future peace terms from future victories should the war continue (i.e. αC > αR), a
+substantial price difference between Paris and the Rest of France emerges.
+The next corollaries establish three additional predictions from this framework for how
+we expect prices in Paris and the Rest of France to respond to war and peace events.
+Corollary 2. Suppose hostilities end in t. If Lt > Wt, the market with the highest α will
+have the lowest valuation. Further, it will have a more negative (less positive) response to
+the end of hostilities.
+Ending hostilities also removes the chance of future redeeming victories. In the model,
+this implies that the current count of battlefield victories over defeats pins down the peace
+terms. If there were more losses than wins, the market with the highest α will then have
+the lowest valuation, and a more negative (less positive) response to the news. Further,
+valuations will not immediately converge as the true value of α has not yet been revealed.
+Indeed, as we show below, not only do the price differences flip with the end of hostilities,
+32If we allow beliefs within a given location to differ, we can apply log-linear approximations to Eqns. (2) and (6) to still arrive at a closed-form solution. This leads to qualitatively equivalent results as long as the weighted average of beliefs in Paris and the Rest of France differ in a systematic way. 33Though the quotes in Section 2 document the reception of the news of Coulmiers in Paris, outside observers also reevaluated Pr tw. In London, The Economist wrote “The history of the last few weeks shows an immense recovery in the position and prospects of the French armies. . . the history of the maneuvers and fighting since the battle of Coulmiers has decidedly, we think, been in favor of the French” (1870-12-03). In Le Salut Public (Lyon, 1870-11-12): “RECOVERY OF ORLEANS. Will fortune, in the end, do without persecuting us?... The dawn of better days is dawning over France.”
+18
+
+
+but the valuations remain lower inside versus outside Paris between the end of hostilities
+(the Armistice) and the release of the treaty terms. Importantly, this continues despite the
+gradual restoration of information flows and other conditions that should facilitate arbitrage,
+as long as the final terms of the peace remain uncertain.
+Corollary 3. The response to news about the final peace terms will be negative if battle
+defeats exceed victories Lt > Wt and a market’s perceived α is smaller than the one realized.
+With the establishment of peace terms with the ratification of the treaty, the true sen
+sitivity of the terms to battlefield events, α, is revealed. If the marginal investors in either
+market had believed in a lower sensitivity than the true α, this will lead to an abrupt reval
+uation downward. Indeed, as we document below, markets outside Paris, which had shown
+a lower price responsiveness to war events (consistent with a lower sensitivity parameter α),
+also over-valued the rente after the Armistice. This continued until the moment the treaty
+terms were revealed, when their prices did indeed drop towards Parisian levels.
+Corollary 4. As long as Wt − Lt > (Wt − Lt)∗∗, with (Wt − Lt)∗∗ < 0, the market with
+the largest α will have the strongest response to wins or losses on the battlefield.
+We can use this result to directly test our assumption that Parisians did indeed perceive
+a higher sensitivity of peace terms to battlefield events, α. If so, battlefield victories during
+wartime should elicit more positive (and defeats more negative) price responses in Paris
+compared to other markets.
+4 Empirical Results
+In this section, we first document Corollary 1: that large and persistent price divergences in
+French sovereign debt emerge between Paris and the Rest of France during the Siege, and
+particularly so after the success of citizen-soldiers against Prussian regulars at Coulmiers.
+Next, we provide formal tests of the model’s additional predictions, formalized in Corollaries
+2 through 4. Finally, we explore a number of alternative explanations for our findings.
+4.1 Persistent Price Differences during the Siege
+We focus our analysis on the 3% rente: the most liquid security in France and the most
+actively traded asset in continental Europe (please see the Historical Appendix A.2 for more
+context). Rentes represented 7.7 million francs of the capitalization of the Paris Bourse in
+1870 compared to 5 million for stocks (Viaene, 2002). Paris itself was “the leading financial
+center in continental Europe throughout the nineteenth century” (Hautcoeur and Riva, 2012,
+pg.7). Even though Paris came under Siege in September 1870, and the cutting of the
+telegraph wires limited arbitrage (see Section A.3), the Paris Bourse continued to operate,
+19
+
+
+Figure 3: Density of price differences of the 3% rente between Paris and other French exchanges
+This graph shows the distributions of daily price differences between Paris and the average of Lyon and Bordeaux prices for four periods: the Siege prior to Coulmiers (September 18 to November 15, 1870), the Siege after Coulmiers (November 15, 1870 to January 28, 1871), the peace negotiations (January 28, 1871, to March 1, 1871), and peacetime (January 1, 1870 to July 15, 1870, and May 31, 1871 to December 31, 1871). Epanechikov kernel with Silverman rule-of-thumb bandwidth.
+and incentives were such that the Bourse was often where rumors and news (both real and
+fake) would first be disseminated in the beleaguered city.
+We hand-collected daily prices for the rente for 1870 and 1871 for Paris and for the
+second and third longest-established and thickest stock exchanges in France: Lyon and
+Bordeaux.34 Our sources are the Cours Authentique (Paris), the Cours Officiel (Bordeaux),
+and the newspaper La Salut Public (Lyon) (please see details in the Data Appendix A.9.)
+We always use the first price of the day. All price differences are calculated as the Paris
+price minus the price in the other exchange on the same day.
+Figure 3 establishes the basic patterns that are consistent with the model, while Table 1
+provides formal non-parametric tests (Kolmogorov-Smirnov and Wilcoxon rank-sum) and
+parametric tests for differences in the distributions of prices (Welch t-tests of equality of
+means allowing unequal variances, see also Table A.7 for one-sample tests of daily price
+differences). As Figure 3 suggests, during peacetime, the distribution of differences between
+the rente prices inside and outside Paris was tight and centered almost perfectly around a
+34The Lyon exchange was the first exchange outside of Paris to gain the right to establish a trading floor in 1845 (Ducros and Riva (2014),6-7). Bordeaux did so in 1846. Using commissions as a measure of transaction volumes, Ducros and Riva suggest that the Lyon stock exchange had about 1/10 of the trading volume of Paris in 1870 (Ducros and Riva (2014), p.34). Bordeaux was the thinnest market of the three.
+20
+
+
+Table 1: 3% Rente Price Differences between Paris and Other Markets: Two-sample tests
+Paris - Rest Paris - Paris - Lyon - Average N of France Lyon Bordeaux Bordeaux Paris price
+Entire Siege 0.515 0.384 0.655 0.271 55.327 110 Welch SE (0.129) (0.156) (0.135) (0.173)
+Welch p-values 0.000 0.015 0.000 0.119 K-S p-values 0.000 0.008 0.000 0.196 Wilcoxon p-values 0.000 0.009 0.000 1.000
+Diff as % price 0.93% 0.69% 1.18% 0.49%
+Siege after Coulmiers 0.997 1.167 0.825 -0.342 55.309 64 Welch SE (0.150) (0.160) (0.160) (0.185)
+Welch p-values 0.000 0.000 0.000 0.066 K-S p-values 0.000 0.000 0.000 0.101 Wilcoxon p-values 0.000 0.000 0.000 0.055
+Diff as % price 1.80% 2.11% 1.49% -0.62%
+Peace Negotiations -1.409 -1.199 -1.676 -0.477 54.426 23 Welch SE (0.165) (0.159) (0.202) (0.213)
+Welch p-values 0.000 0.000 0.000 0.030 K-S p-values 0.000 0.000 0.000 0.007 Wilcoxon p-values 0.000 0.000 0.000 0.015
+Diff as % price -2.59% -2.20% -3.08% -0.88%
+Peacetime pre-war 0.054 0.071 0.027 -0.045 74.358 155 Welch SE (0.107) (0.113) (0.110) (0.118)
+Welch p-values 0.611 0.529 0.809 0.705 K-S p-values 0.962 0.924 1.000 0.982 Wilcoxon p-values 0.597 0.587 0.833 0.729
+Diff as % price 0.07% 0.10% 0.04% -0.06%
+Peacetime post-war -0.062 -0.066 -0.033 0.033 60.764 181 Welch SE (0.190) (0.113) (0.196) (0.190)
+Welch p-values 0.745 0.727 0.866 0.864 K-S p-values 0.974 0.751 0.959 0.914 Wilcoxon p-values 0.816 0.816 0.837 0.984
+Diff as % price -0.10% -0.11% -0.05% 0.05%
+This table tests whether the prices in Paris and the Rest of France (the average between Lyon and Bordeaux) come
+from the same distributions. The main coefficient is a difference in means, for which we performed a Welch’s t-test (SE
+and p-values reported), which allows for unequal variances across distributions. We also implement nonparametric tests
+comparing the distributions and report the p-values: the Kolmogorov-Smirnov test and the Wilcoxon rank-sum test. The
+last row for each period reports the average difference as a percentage of the average Paris price (in the last column).
+For tests of the distribution of the price differences themselves, see Table A.7.
+21
+
+
+zero mean. Further, the non-parametric tests in Table 1 fail to reject that the distributions
+of daily prices are the same before the war (with Kolmogorov-Smirnov p-values: 0.962 and
+Wilcoxon: 0.597) and afterward as well (Kolmogorov-Smirnov: 0.974. Wilcoxon: 0.816).
+Similarly, we fail to reject that price differences in Paris and elsewhere are zero (with p
+values of 0.611 before the Siege and 0.745 after). These patterns are consistent with the
+presence of the telegraph and the law of one price.
+Further, as Figure 3 suggests, early in the Siege, there is much greater volatility in the
+price differences.35 The mean price difference, however, remains centered around zero. This
+changes after the Battle of Coulmiers and the resultant recapture of Orle ́ans, when Paris
+begins to overvalue the rente by 1.80% (consistent with Corollary 1). Further, with the
+cessation of hostilities, between the Armistice and the declaration of the peace terms in
+the Versailles Treaty, the price differences flip (consistent with Corollary 2). During that
+period, Parisian traders undervalue the rente by 2.59%. The non-parametric and parametric
+tests of these differences are all highly statistically significant (p-values less than 0.001; see
+Table 1).36
+Figure 4 shows the time series of the price differences in Paris versus Lyon and Bor
+deaux. The figure shows that the rente not only had a higher price overall in Paris after
+Coulmiers, but these differences are persistent and present at almost all trading days over
+the nearly three months remaining of the Siege. Similarly, immediately following the ces
+sation of hostilities with the Armistice, the markets outside Paris persistently over-value
+the rente relative to Paris. The prices then begin to converge only after the treaty terms
+are revealed (consistent with Corollary 3). Importantly, as we document below, this lack of
+convergence (in fact, increased price divergence) occurred despite the period of peace nego
+tiations between the Armistice and the Treaty being one where information flows became
+more rapid, and the flow of goods and people into and out of Paris was gradually restored,
+facilitating arbitrage.
+The differences are also economically meaningful. They imply a different aggregate val
+uation of the value of French government debt equivalent to 0.30% of French GDP during
+the Siege overall, 0.58% after Coulmiers and 0.85% during the peace negotiations, or differ
+35The periods of analysis are (1) The entire Siege, from 1870-09-18 to 1871-01-28. (2) The Siege from its start until the news was declared in Paris of the French victory at Coulmiers on 1870-11-15. (3) The Siege after the news of Coulmiers was announced in Paris (3) The peace negotiations from the announcement of the Armistice (in Paris, on 1871-01-29) until the announcement of the Peace Treaty (in Paris, on 1871-0228). (4) Peacetime includes two periods: before the war (1870-01-01 to 1870-07-13, the date of the Ems Dispatch) and after the restoration of the telegraph (1871-05-28 to 1871-12-31). 36In contrast, the differences between the next thickest market, Lyon, and Bordeaux, which became home to the Republic’s government in exile, are not as pronounced in both magnitude and statistical significance, despite also facing some disruptions in communications. In fact, we fail to reject that the distributions are the same during the entire Siege (Kolmogorov-Smirnov p-value 0.196, Wilcoxon p-value about 1). As we describe below, we can exploit the fact that during the Siege, the Bordeaux newspaper La Gironde published both Lyon and Paris prices. We show that the Bordeaux market price ceases to converge to Parisian prices during the Siege (Table 5) but does converge strongly to the prices in Lyon when the Bordeaux newspaper La Gironde publishes information about Lyonnais rente prices (Table A.13). See also Section A.7.
+22
+
+
+Figure 4: Prices of the 3% rente in Paris versus Lyon and Bordeaux between the Siege and Treaty.
+This graph shows the prices of the 3% rente inside and outside Paris between September 18, 1870 (the start of the Siege) and April 1, 1871. The outside price is an average between Lyon and Bordeaux. Parisian prices were persistently higher during the Siege, particularly after Coulmiers and the recapture of Orle ́ans, but the situation reversed with the end of hostilities. Prices converged again when the terms of the peace treaty became public.
+ences in yields of French sovereign debt of 5.14 bps, 9.87bps and 14.08 bps respectively. We
+can also compare the difference in yields to the pre-war spread over British consols: The
+difference between Paris and the rest of France is equivalent to -6.26% of the pre-war spread
+throughout the entire Siege, -12.01% during the Siege following the battle of Coulmiers, and
++17.14% during the peace negotiations (see Table A.6 and Figure A.6 in Section A.4.2).
+4.2 Differential Responses to War and Peace
+We have so far shown how a model with a single source of political disagreement inside and
+outside Paris about the gains from redeeming victories can reconcile the broad patterns of
+the emergence, persistence, and two reversals of large price differences for sovereign debt
+visible in the different markets. We now provide more precise evidence that the timing of
+the emergence and these reversals also correspond to the moments when investors became
+aware of the two peace events: the announcements of the Armistice on January 28 and
+the Versailles Peace Treaty on February 26, 1871. Importantly, we can also directly test
+23
+
+
+the key assumption of the model stated in Corollary 4. Despite being the thickest market,
+we would expect Parisians to react more strongly to war events (more positive in response
+to battlefield victories and more negative in response to defeats) if they indeed held the
+political belief that peace terms would be highly sensitive to battle victories or defeats.
+This is not straightforward, since the war and the Siege meant that the different markets
+often learned about the news at different times. Figure A.4 shows how rente prices change in
+the immediate aftermath of war events in each market. Paris prices do respond differently,
+though, not surprisingly given the information flows, the responses sometimes appear with
+a lag. Thus, to measure the reaction to specific events, we reconstruct when each city was
+first documented to have received knowledge of each news event. We again do this by hand
+coding daily data from contemporary newspapers from each city and the daily Journal du
+Siege, kept by the Parisian stockbroker, Jacques-Henri Paradis (1872), who also provides
+very valuable insight into how informed Parisian investors thought of events (see Section
+A.9). We classify each war event as a major and minor victory or defeat for French arms,
+following Wawro (2003) and Clodfelter (2017) (see Section A.9.5 for details).37 We focus
+on two-day returns for the rente. Returns on day t are calculated as: log(pt) − log(pt−2).
+We choose a two-day window as that is the shortest period within which we can place the
+arrival of a specific piece of news with confidence.38
+Figure 5 illustrates the methodology for two major war events and two peace events.
+Figure 5(A) shows rente prices respond as news arrives in the three markets after a ma
+jor defeat— the surrender of Metz— and a major citizen-soldier victory—Coulmiers (both
+discussed above). The fall of Metz was a terrible loss, as 179,000 of France’s remaining
+professional soldiers under Marshal Bazaine surrendered (Clodfelter, 2017). Thus in order
+to lower Parisian morale, the Prussians allowed reports of the event to rapidly leak into
+Paris. These were initially denied by the government, but were officially confirmed days
+later (see specific news entries in Tables A.18 and A.20). For this and other events, we
+therefore record both the date of the first rumor and the confirmation. We provide both
+the price responses to the confirmation, and in a robustness specification, effects that add
+up the responses after the first rumor and the confirmation of each event.
+As Figure 5(A) illustrates, Parisian prices did tend to react more negatively to the
+major defeat at Metz and more positively to the major victory at Coulmiers, consistent
+with Corollary 4. The French surrender at Metz decreased the Paris price by a dramatic
+37Data Appendix A.9.5 describes the data collection and event classification. Table A.17 provides descriptive statistics of the delays between the events and report date for each city. It validates our dates: battle news took much longer to reach Paris during the Siege (of course, apart from sorties to attack the besiegers from within Paris). Tables A.18 to A.20 provide the (translated) quotes of news of each event news each newspaper or source. 38The stock market traded from noon to 2 pm, Monday to Saturday, with newspapers distributed early in the morning. For example, the details of the Treaty of Versailles were printed in Lyon on Wednesday, March 1, 1871. Since there is uncertainty about whether the news arrived before or after Tuesday’s market hours, we compare Monday’s price to Wednesday’s price.
+24
+
+
+3.89% (3.42% after the first mention and 0.47% after the confirmation). In contrast, the
+prices in Lyon and Bordeaux were less negative: in fact, they actually rose– by 1.90% and
+0.45%, respectively– as news arrived of the French defeat at Metz. These patterns are
+consistent with marginal investors in these markets being more skeptical than Parisians of
+the gains to be had from continued war.39
+Similarly, the lower panel shows the price responses as news arrived of the major French
+citizen-soldier victory at Coulmiers. Paris prices responded most positively (increasing by
+0.88%) to the news confirmation (as did, to a slightly lesser extent, the prices in Bordeaux).
+However, in the thickest market outside Paris, Lyon, the rente prices actually fell by 0.89%
+in response to the French victory. Further, as discussed above, after Coulmiers, Parisian
+prices would remain persistently higher for the rest of the Siege.
+Figure 5 (Column B) further confirms that the two price difference reversals predicted
+by Corollaries 2 and 3 also correspond to the specific timing of news arriving about the end
+of the hostilities (the Armistice) and the terms of the peace (in the Treaty). The price in
+Paris fell by -0.54% just as the Armistice was confirmed. Lyon and Bordeaux, in contrast,
+saw huge gains (4.27% and 5.51%). In contrast, when the details of the Versailles treaty
+became public, the price of the rente in Lyon and Bordeaux dropped by 4.75% and 3.43%,
+respectively. The Paris price, on the other hand, barely moved, with a fall of just 0.64%.
+Table 2 lists price responses for all major war and peace news events during the Siege.
+For each event and market, it reports the two-day return for on the rente on the day
+in which news was printed in a particular city. Responses that are consistent with the
+model’s predictions are in bold. Overall, of the 14 war events during the Siege, the model’s
+predictions are borne out in 11 of them, including the much more positive response during
+the one victory at Coulmiers, and the strong differential responses to the two peace events
+the Armistice and the Treaty. Further, of the eleven major defeats during the Siege, Parisian
+prices responded more negatively than both other markets to news confirmation in seven
+cases: Chevilly, First Orl ́eans, Metz, Le Bourget, Beaune-la-Rolande, Villiers and Buzenval.
+In one more case–Beaugency– it is tied as the most negative, with more negative Parisian
+prices emerging when summing up both rumor and confirmation.40
+Table 3 provides formal tests to document that, consistent with the model, Paris reacted
+more to war events on average, as well as checking for robustness. We again compute
+differences in the direction our hypothesis predicts, i.e. higher (lower) returns in Paris for
+victories (defeats). As the table suggests, the average difference in returns between Paris
+and the Rest of France (over 12 events) is 1.183 percentage points (se = 0.481) over all
+major battles during the Siege. The average differences are somewhat larger (1.27pp) when
+39As noted above, the war skeptics included the commander at Metz, Marshal Bazaine himself. Bazaine would be tried for treason after the war. 40It is also notable that the three events where the model’s predictions do not hold—the battles of Bellevue, Loigny and Le Mans—also tend to be those where the information arriving in Paris more old and arguably more stale.
+25
+
+
+Figure 5: Rente price changes (in francs) with news arrivals of war and peace events.
+(a) War events (b) Peace events
+Column (a) shows the stronger (and even conflicting) responses of rente prices in Paris versus elsewhere around two major war events for France– the
+surrender of 179K professional troops at Metz and the victory of citizen levees at Coulmiers. The Prussians allowed news of Metz’s fall to leak into Paris,
+though it was officially denied for several days. The Parisian government learned of Coulmiers by carrier pigeon and siege runner on 14 Nov 1870, and it
+was publicly announced on 15 Nov 1870. In contrast, Column (b) shows greater price responses outside Paris- rising with the Armistice and falling with the
+declaration of peace terms. The shaded area covers the two-day window when the published news most likely arrived.
+26
+
+
+Table 2: Two day rente returns for major war and peace events
+Days for news to arrive Two-day returns to rentes, in %
+Positive First rumor Confirmation First rumor Confirmation
+Date news? Paris Lyon Bord Paris Lyon Bord Paris Lyon Bord Paris Lyon Bord
+War events
+Chevilly 1870-09-30 No 2 4 2 -2.33 -0.79 1.83
+Bellevue 1870-10-07 No 11 2 1 0.45 0.00 -0.89
+First battle of Orl ́eans 1870-10-11 No 0 1 4 3 3 -1.79 -0.90 -0.90 0.45 -0.45
+Metz 1870-10-27 No 1 4 4 5 -3.42 -0.47 0.45 1.90
+Le Bourget 1870-10-30 No 1 6 5 -0.47 5.38 3.76
+Coulmiers 1870-11-09 Yes 6 3 3 0.88 -0.89 0.83
+Beaune-la-Rolande 1870-11-28 No 19 4 2 -0.81 3.26 0.00
+Loigny 1870-12-02 No 2 5 5 5 -0.54 -1.43 -2.27 -1.08
+Villiers 1870-12-03 No 3 2 2 -0.89 -0.54 -1.33
+Beaugency 1870-12-10 No 7 -1 0 11 4 4 -0.81 0.46 -0.91 0.00 0.00 0.91
+Le Mans 1871-01-12 No 9 2 1 -0.92 -0.47 -2.14
+Buzenval 1871-01-19 No 3 3 3 -1.48 0.38 -0.28
+Average (signed) 2.11 0.62 0.91 0.84 -0.56 -0.11
+Peace events
+Armistice 1871-01-28 Yes 1 2 3 -0.54 5.51 4.27
+Treaty of Versailles 1871-02-26 No 2 3 4 -0.64 -3.43 -4.75
+Average (signed) 0.05 4.47 4.51
+This table shows the two-day returns in the three markets to war and peace events. Returns are calculated as: log(pt) −
+log(pt−2), for news printed on day t. Since news arrived on different days to each market, they do not necessarily correspond
+to the same calendar date. In bold, the events for which our hypothesis holds: stronger negative (positive) responses to
+French defeats (victories) in Paris, and a stronger response to both the Armistice and Peace treaty in the Rest of France. To
+calculate the averages we multiply the returns to defeats and the negative peace event by -1. More events, including minor
+and inconclusive battles are listed in Table A.11 in Online Appendix Section A.6.
+27
+
+
+we include battles deemed minor by Clodfelter (2017) and Wawro (2003), and when we
+cumulate price responses to rumors and initial (unconfirmed) mentions as well (1.44 pp).
+They are also robust to adding inconclusive battle events (as either victories or defeats).41
+Importantly, the price responses are specific to the arrival of war news rather than due
+to other events occurring close in time: in Section A.6, we report placebo specifications
+(Table A.9), where we arbitrarily shift the windows of the report both by 2, 4, or 6 days
+before or after the actual report, and we do not observe significant differences during these
+other windows. The results are further robust to dropping any particular major battle, one
+by one (Table A.10).
+Table 3: Price response differences by event type
+Differences in two-day returns to rentes, in pp Average abs return, Paris v Rest of France Paris v Lyon Paris v Bordeaux N in pp
+Major battles 1.183 1.408 0.959 12 1.148 (0.481) (0.550) (0.525) p-values [0.032] [0.027] [0.095]
+Major battles 1.382 1.603 1.160 12 1.166 (with rumor reports) (0.602) (0.627) (0.668) p-values [0.042] [0.027] [0.110]
+Major + minor battles 1.270 1.518 1.023 14 1.123 (0.417) (0.486) (0.449) p-values [0.009] [0.008] [0.040]
+Major + minor battles 1.441 1.686 1.195 14 1.143 (with rumor reports) (0.517) (0.548) (0.570) p-values [0.015] [0.009] [0.056]
+Major + minor + 1.123 1.417 0.829 17 1.084 inconclusive (as defeats) (0.416) (0.473) (0.433) p-values [0.016] [0.009] [0.074]
+Major + minor + 0.969 1.083 0.856 17 1.084 inconclusive (as victories) (0.440) (0.525) (0.430) p-values [0.043] [0.056] [0.064]
+This table shows that differences in responses to reports of war events between Paris and the outside are statistically significant. Each coefficient represents a one-sample t-test. We compute returns as: R = log(pt) − log(pt−2), for news printed on day t. We set up differences as RP aris − Routside for victories and Routside − RP aris for defeats, so positive coefficients confirm the model’s predictions. To facilitate interpretation, the last column reports the average absolute returns for events of each class across the three cities.
+41See Table A.11. One reason to classify inconclusive battles as defeats is that France was losing and needed decisive victories. Classifying them as victories however may also be justifiable since the French press tended to spin those events favorably.
+28
+
+
+4.3 Which financial market correctly priced the terms of peace?
+The muted response in Paris to the details of the Versailles treaty suggests that beliefs in
+Paris ended up being more “correct”. We further explore this in Figure 6. The Figure shows
+daily rente price frequencies for January (the last month of the war, during which, as we
+describe below, food prices in Paris appear to already show anticipation of an Armistice),
+February (the month of negotiations, as it starts with the Armistice and it ends with the
+peace treaty), and March 1871. The figure is consistent with Parisians more accurately
+pricing the terms of the peace treaty into their valuations of the rente. During January
+and February, the average Parisian market rente price already closely predicts post-treaty
+prices. The average difference between Parisian January and March prices is 0.10 francs
+(p-value = 0.50), and the difference between Parisian February and March prices is 0.08
+francs (p-value = 0.54). Outside Paris, in contrast, investors first greatly undervalued the
+rente (the average difference between January and March outside prices was -1.41 francs,
+p-value = 0.00), and then greatly overvalued it relative to its post-treaty price (the average
+difference between February and March outside prices was 1.03 francs, p-value = 0.00).
+Figure 6: Rente price frequencies in Paris and outside right before, during, and right after the peace negotiations
+This figure shows rente price frequencies in Paris and outside for January, February, and March 1871. Therefore, it includes the month of peace negotiations (February) and the months before and after. It shows that Parisians more accurately priced the costs of peace. Outside investors, on the other hand, experienced high volatility, undervaluing the rente before the end of the war, and overvaluing it during peace negotiations, relative to its post-treaty price.
+5 Alternative explanations
+In this section, we evaluate the merits of a series of natural potential alternative explanations
+for our results. We first consider whether price differences inside and outside Paris were
+29
+
+
+driven by differential information sets induced by the Siege. In particular, we use detailed
+data on information flows to provide evidence that prices did not converge even on days when
+the different markets received news from one another. Second, we consider whether different
+discount rates, liquidity shocks or demands for hedging risk in each market could be driving
+the observed price differences. In particular, we provide evidence that other liquid cross
+listed assets do not exhibit the same price differences, and evaluate the relationship with
+food prices in Paris. Finally, we consider explanations related to differential preferences for
+holding the rente. In sum, we find that none of these alternative explanations can explain
+our full set of empirical results on their own, even though they may each contribute to
+specific pieces of the patterns we observe when in conjunction with political beliefs.
+5.1 Different information sets?
+As described above, when the Siege of Paris started, the Prussians cut off information flows
+in and out of Paris. The telegraph lines were cut, and neither people nor goods were allowed
+to pass through the Siege lines.42 However, Parisians did successfully manage to smuggle
+information into and out of the city by turning to the air: via balloon and carrier pigeon
+(see also Section A.2). These two were sometimes supplanted with runners who dared to
+dodge the Prussians.
+Given that these means of communication were of course relatively unreliable and slow, a
+natural question is whether the difference in prices we observe may be explained by different
+information sets. In other words, Parisians or those outside its walls may have been ignorant
+about facts that influenced the price of the rente. We argue, in contrast, that price differences
+are explained by differences in political beliefs and not purely by differences in information.
+That is, that even when investors inside and outside Paris were in possession of the same
+facts about the world, they began to agree to disagree. We have three pieces of evidence to
+support this claim.
+First, rather than being ignorant, contemporary observers in Paris and elsewhere had
+full knowledge that their prices were systematically different. In Bordeaux, Parisian (and
+Lyonnais) prices were printed often (see below). Those within the Parisian siege cordon
+were also well-aware of the persistent differences that had emerged.43 Yet, there nonetheless
+remained large and persistent price differences.
+42The one main exception was that, as thanks for his care of the destitute Germans caught in Paris by the war, the American ambassador, Elihu Washburne, was allowed to receive the Times through diplomatic pouch, on condition that he did not share information within it. 43For example, a financial analyst noted how much lower the prices were outside: “The departmental stock exchanges have, moreover, been sending us, for two days, prices significantly higher than those quoted here...” (Le Temps, February 15, 1871). See also the Parisian newspaper, Le Figaro, on November 19, 1870: “the French Rente was: In Lyon, at 50 francs; In Bordeaux, at 51 francs; In Paris, at 53 fr.” In London, a Times financial analyst also noted the difference: “It is worth noting that during the time Paris was [surrounded], prices ruled higher than those in the principal provincial bourses... But since the capitulation the Bordeaux prices have been better that those of Paris...” (The Times, February 15, 1871).
+30
+
+
+Second, the price differences were even more stable and accentuated in magnitude during
+the period of peace negotiations despite more regular information flows. After the Armistice,
+telegraph service was still not restored, and mail was slow and unreliable due to the accu
+mulated backlog and continued Prussian restrictions.44 However, Prussians allowed people
+to leave and enter the city. As Section A.2.1 details, Paris rente prices reported in Bordeaux
+fell from a median delay of 6 days during the Siege to 4 days during the peace negotiations.
+In Paris, the delay in the reporting of outside news fell from a median of 4 days during
+the Siege to 3 days during the peace negotiations. However, prices in these markets failed
+to converge (instead they diverged even further) during the period from the signing of the
+Armistice until after peace terms were announced.
+Third, we use the universe of balloon departures and pigeon arrivals, as well as the timing
+of news reports in each market, to show that information flows between Paris and the other
+markets do not significantly drive prices closer to each other. The Bordeaux rente prices
+do not converge to those of Paris when balloons are dispatched or Parisian rente prices are
+printed in their local newspaper, La Gironde. In turn, Paris rente prices do not converge to
+external prices when news from the outside are printed in Le Figaro. Further, Paris does
+not experience abnormal returns on days with incoming news– either from pigeon arrivals
+or news from outside reported by Le Figaro.
+Lack of convergence of external exchanges to Paris: Because of data restrictions,
+we focus on Bordeaux. When a newspaper there printed the price of the rente in Paris, we
+show that the rente price in Bordeaux did not converge. Before the Siege, the Bordeaux
+newspaper La Gironde printed daily prices of the most liquid securities in the Paris and
+Bordeaux markets. During the war, Paris prices were printed less regularly: 32 times
+during the Siege and 18 during the negotiations. The longest spell without printed prices
+was 14 days during the Siege and 6 days during the negotiations (see Table A.1).
+We measure the Bordeaux market response to these printed prices. We once again focus
+on two-day changes in prices.45 We calculate the changes in price difference for each instance
+of a printed price as:
+∆price differencet = |pB
+t − pP
+print,t| − |pB
+t−2 − pP
+print,t|
+where p denotes the rente price, the superscripts P and B denote Paris and Bordeaux,
+and the subscript print, t denotes that the Paris price was printed in Bordeaux on day t.
+The first term captures the difference after the price was reported, and the second term the
+difference before. Thus, if the price in Bordeaux converges to the reported Paris price after
+receiving news, the change in price difference should be negative since the prices would be
+44Le Figaro: 1871-01-31, p. 4; 1871-02-07, p. 4; 1871-02-13, p.4; 1871-02-18, p.5, among others. 45For a price printed on a newspaper in day t, we know that it arrived before the market opened in t, since trading hours started at noon. However, we do not know whether it arrived before or after trading on t − 1. Therefore, we compare prices in t to prices in t − 2.
+31
+
+
+moving closer to each other.
+Table 4(A) shows that the average change in the price differencet in Bordeaux during the
+Siege and the peace negotiations equals -0.026 francs in response to Parisian prices, a very
+slight and statistically insignificant convergence effect (p-value: 0.772). In fact, the lower
+bound of the 95% CI (an upper bound for convergence) is -0.205 francs, which is only 14%
+of the average price difference between the Bordeaux and Paris during the Siege. Further,
+as the table reveals, there is even less convergence (in fact the prices diverge by 0.114 francs
+on average) during the peace negotiations, despite the more rapid flows of information.
+Table 4: Lack of price convergence after incoming information in Paris and Bordeaux
+Panel A Panel B
+Bordeaux prices after Paris prices after receiving the Paris price receiving news from outside
+Siege Peace All Siege Peace All negotiations negotiations
+∆price difference -0.105 0.114 -0.026 -0.035 -0.336 -0.113 (0.121) (0.120) (0.089) (0.087) (0.129) (0.074) p-values [0.393] [0.355] [0.772] [0.689] [0.022] [0.134]
+Lower bound 95% CI -0.351 -0.139 -0.205 -0.211 -0.615 -0.262
+Mean absolute 0.977 2.261 1.439 0.957 1.716 1.154 price difference
+∆price difference -10.72% 5.04% -1.81% -3.65% -19.56% -9.79% as % of abs price diff
+Observations 32 18 50 40 14 54 Median delay 6 days 4 days 5 days 4 days 3 days 4 days
+This table shows the absence of significant price convergence after incoming news. In Panel A, we study whether the price difference between Bordeaux and Paris decreased after the Bordeaux newspaper La Gironde printed Paris prices. In Panel B, we study whether the price difference between markets inside and outside Paris decreased after the Parisian newspaper Le Figaro printed news from the outside. Standard errors are calculated from a t-test that compares the sample of changes in price differences to zero. We also report the lower bound of the 95% CI (an upper bound for convergence). The upper bound for convergence is never more than 36% of the mean absolute price difference.
+Lack of convergence of Paris to the external exchanges: Similarly, we show
+that when Paris received news from the outside world, prices do not converge. Unlike in
+Bordeaux, the major Parisian newspapers did not systematically report outside prices for
+the rente, likely reflecting the fact that rente price discovery tended to happen in its thickest
+market: Paris itself. Instead, we collected every piece of news from outside the Siege cordon
+printed in Le Figaro during the Siege and the peace negotiations (see Section A.9.4). We
+classify a day with news as one in which events outside the Siege cordon reported by Le
+Figaro were more recent than any event reported before. We find 54 days with news. We
+then measure the Paris market response to the incoming news. In particular, we test whether
+32
+
+
+prices converge to the external price (i.e. the average of Lyon and Bordeaux). We perform
+the same test as above.
+As Table 4(B) reveals, during the Siege, the average change in the price differencet in
+Paris in response to outside news is a very slight and statistically insignificant -0.035 francs,
+or 3.65% of the mean absolute price difference inside and outside Paris (p-value = 0.689).
+We do, however, detect more meaningful (but still very far from complete) convergence
+during the peace negotiations. On days with news from the outside, the Paris price moves
+0.336 francs closer to the average outside price (p-value: 0.022). However, this represents
+only 19.56% of the mean absolute difference, which had itself increased by 80% (from 0.957
+to 1.716 francs) during the peace negotiations relative to the time of Siege.
+Lack of abnormal returns on days with incoming information: Finally, we show
+that the rente did not experience abnormal returns on days with incoming news. In Section
+A.7, we illustrate how the time series of the rente price difference does not appear to respond
+to arrivals of balloons, pigeons or other information flows. Table 5 tests whether such
+incoming information generates abnormal rente returns. To do so, we construct indicators
+for whether Le Figaro reported a pigeon arrival on that day, whether Le Figaro printed
+news from outside the Siege cordon, whether there was a balloon landing on that day, and
+indicators for whether La Gironde printed Parisian or Lyonnais prices. We account for the
+fact that information flows were not necessarily uniform during the Siege by adding week
+fixed effects.46 We again calculate two-day returns, but since we are specifically interested
+in abnormal volatility (without expectation of direction), we take the absolute value.47
+Table 5 reveals that for each type of information flow between Paris and Bordeaux,
+there are no meaningful abnormal returns. For example, in Paris (Panel A), the increase in
+the absolute value of the two-day rente return is close to zero (0.02pp, p-value: 0.923) on
+days when a carrier pigeon arrived. This is consistent with our text analysis of the 29,903
+incoming pigeon messages themselves, which reveal that though they often provided both
+personal and general news, there were only 22 with speculative trading instructions, and
+even these yielded only modest returns (see Section A.3.) Furthermore, as the table reveals,
+even when Le Figaro printed fresh news from outside, whether derived from pigeons or other
+sources, the volatility of two-day returns was not greater – in fact, if anything, it was slightly
+lower than other trading days in that same week (-0.203pp, p-value: 0.242).
+The response of rente price volatility in Bordeaux to information flows from Paris paints
+the same picture (Panel B). There are no abnormal returns on days when the Paris rente
+price was printed in La Gironde or when a balloon with Paris mail landed (if anything,
+again, the volatility is slightly lower). Thus in both Paris and Bordeaux, we do not find
+46For example, the early days of the Siege were a period of high price volatility, but there were no pigeon arrivals because the service had not yet been established. 47Therefore, returns on day t are calculated as | log(pt) − log(pt−2)|, where pt is the Paris or Bordeaux price on day t.
+33
+
+
+that the volatility of the rente price increased when news arrived from the other side of
+the Siege cordon, whether regarding prices or more generally. Therefore, we can rule out
+the possibility that the differences in prices were fully explained by some investors knowing
+more than others.
+In contrast to flows across the Siege cordon, however, we find a different pattern when
+information flowed between the external exchanges (Panel B, bottom right). When Lyonnais
+prices are printed in Bordeaux, rente prices in the latter have higher average absolute
+returns (of 0.517 pp, p-value 0.09). Further, in Section A.7, Table A.13 documents that,
+particularly during the Siege, the Bordeaux rente price does converge significantly to the
+Lyonnais price when the latter was reported in Bordeaux. Together, these two results suggest
+that unlike the persistent price differences with Paris, the smaller and more transitory
+price differences between the two external exchanges of Lyon and Bordeaux may indeed
+reflect temporary differences in information sets.48 And unlike in peace-time, the Siege saw
+Bordelais traders begin to disregard the price signals originating with Parisian marginal
+investors, while placing greater trust in those sent from Lyon.
+5.2 Different discount rates, liquidity shocks or hedging demand?
+Another set of natural alternative explanations focuses on the possibility that investors
+in Paris and the outside had different needs for liquidity or may have developed different
+discount rates during the Siege, particularly as food became scarce and individuals focused
+on the needs of the present. Further, money could not move freely between Paris and the
+outside in this period and the demand and supply of money (francs) could have affected the
+demand and supply of traded securities. Relatedly, there may be differences in demand for
+liquid assets as a hedge against risks to physical property inside and outside Paris, perhaps
+in anticipation of Prussian bombardment or civil unrest within Paris.49
+Dual-listed financial assets: If the rente price differences were driven by different
+market-wide discount rates, liquidity shocks or demand for hedging physical property risks,
+we should see that the price differences of other liquid publicly traded assets display similar
+behavior inside and outside Paris. We therefore examine the price differences between Paris
+and Lyon/Bordeaux for four assets that are the most liquid during our period of interest, as
+reflected in having the most days with prices reported in Paris and either Lyon or Bordeaux
+after the rente itself. Dual-listed prices inside and outside Paris for the rente itself were
+reported on 133 days out of 140 possible business days. The top four assets after the rente
+include two private domestic assets and two foreign assets (see Table A.16 in Section A.8 for
+48In Section A.7, we show that the results in Table 4 are robust to using an alternative coding of pigeon arrivals documented by a historian (Hayhurst (1970)) instead of Le Figaro, and to use the number of external news reports featured by Le Figaro instead of an indicator variable (Table A.12). 49Indeed, Prussian shells began to fall on Paris in January 1871, the last month of the Siege. The Paris Commune saw extensive arson as well. The Commune is a focus of our ongoing research.
+34
+
+
+Table 5: Incoming information and abnormal returns in Paris and Bordeaux
+Absolute value of two-day rente returns, in percentage points Panel A: Paris Panel B: Bordeaux (1) (2) (3) (4) (5) Pigeon arrival 0.020 in Paris (0.209) p-values [0.923]
+Outside news −0.203 printed in Paris (0.172) p-values [0.242]
+Paris prices printed −0.166 −0.304 in Bordeaux (0.209) (0.224) p-values [0.429] [0.178]
+Balloon landing 0.016 (0.189) p-values [0.933]
+Lyon prices printed 0.517 in Bordeaux (0.302) p-values [0.090]
+Fixed effects Week Week Week Week Week Mean DV 1.003 0.954 1.000 0.937 0.937 Observations 133 164 164 133 133 Sample Siege Siege and Siege and Siege Siege negotiations negotiations
+This table shows the relationship between incoming information and abnormal returns in Paris and Bordeaux. The dependent variable is the absolute value of the two-day rente return in Paris/Bordeaux: | log(pt) − log(pt−2)|. The independent variables are dummies that equal one if: Le Figaro reported a pigeon arrival, Le Figaro printed recent news from the outside, La Gironde printed Paris or Lyon prices, there was a balloon landing. For more specifications, see Table A.12 in Online Appendix Section A.7.
+35
+
+
+the full list). The domestic assets include the bond for the Midi railroad, which connected
+the Atlantic to the Mediterranean through Bordeaux in the Southwest (116 dual-listed
+days, quoted in Paris and Bordeaux) and shares in the Lyon et Mediterranee railroad that
+connected Paris to Lyon and the South (108 dual-listed days, quoted regularly in Paris and
+Lyon along with 48 days in Bordeaux). The foreign assets include shares in an Austrian
+railroad (the Societe Autrichienne, which linked Vienna to Trieste: 115 days of dual prices
+again quoted regularly in Paris and Lyon, with 38 days in Bordeaux) and the 5% Italian
+sovereign bond (56 days, quoted in Paris and Bordeaux).50
+The price differences for the liquid foreign assets are particularly valuable for testing
+the importance of market-wide differences in discount rates and liquidity shocks etc. in
+explaining our findings, since those factors should also affect their price differences inside
+and outside Paris even while their fundamental values are considerably less likely to be
+affected by the fortunes of the war itself (see Figure 7). In contrast, the French private
+railroads were of course also exposed to the war, both through the destruction of capital,
+the challenges of operating in a war zone and through their relationships with the French
+government (see Figure A.15 in Section A.8). Different beliefs about war and peace could
+also lead to disagreements inside and outside Paris about their profitability. Regardless, if
+market-wide differences in discount rates or liquidity shocks were first order explanations of
+our results, the patterns of price differences of all four assets should both mimic each other
+and be similar to the rente itself.
+Table 6 shows the results of comparing the price differences inside and outside Paris for
+the four assets using specifications analogous to Tables 1 and A.7. As the table shows, none
+of the price series differences of each of these four liquid assets match the patterns displayed
+by the rente. Among the foreign assets, the 5% Italian bond does not reveal a consistent
+(or significant) overall price difference during the Siege, and it has a higher price in Paris
+during the peace negotiations (a pattern opposite to the rente). The Austrian railroad has
+a lower price in Paris during the Siege (again, an opposite pattern to the rente) as well as
+no significant price difference during the peace negotiations.
+Neither do we find the same patterns as the rente for either of the domestic railroads we
+analyze as well. The Lyon railroad stock matches the rente in that the prices are higher in
+Paris during the Siege, but, unlike the rente they reveal no significant differences inside and
+outside Paris during the peace negotiations. Similarly, Midi bond prices match the rente in
+being lower in Paris during the peace negotiations, but, unlike the rente, Midi bond prices
+are also lower in Paris during the Siege.
+In summary, the price dynamics of both liquid foreign and private domestic assets are
+50The next most liquid shares, as measured by their dual-listing in Paris and elsewhere had considerably fewer trading days. These include the Orle ́ans railroad (equity: 42 days), Midi railroad (equity: 38 days), Suez Canal (equity: 38 days), Credit Mobilier Espagnol (equity: 16 days). Est railroad (equity: 15 days) and Credit Mobilier (equity: 10 days): see Table A.16.
+36
+
+
+Figure 7: Price differences of liquid foreign assets do not match the rente
+These graphs show the prices in side and outside Paris for two liquid foreign assets: the Italian 5% bond and the Societe Autrichienne (Austrian railroad) stock. For the Italian bond, we use prices in Bordeaux. For the Austrian railroad, we use the average of Lyon and Bordeaux.
+37
+
+
+Table 6: Price differences inside and outside Paris for the four most liquid dual-listed assets after the rente
+Italian bond Lyon et Med RR Midi RR bond Austrian RR
+Entire Siege 0.183 9.822 -1.238 -57.271 (0.238) (3.737) (0.534) (2.480) p-values [0.447] [0.010] [0.023] [0.000] as % of price 0.34% 1.19% -0.43% -8.16% N 46 85 94 94
+Siege after 0.240 9.422 -2.485 -52.059 Coulmiers (0.308) (5.6550) (0.744) (3.135) p-values [0.442] [0.102] [0.002] [0.000] as % of price 0.44% 1.16% -0.86% -7.39% N 30 47 55 59
+Peace 1.695 6.772 -7.447 -2.22 Negotiations (0.190) (4.060) (0.768) (1.653) p-values [0.000] [0.110] [0.000] [0.194] as % of price 2.97% 0.83% -2.61% -0.29% N 10 23 22 21
+Peacetime 0.207 -1.311 0.014 -1.042 (0.123) (0.336) (0.107) (0.504) p-values [0.142] [0.000] [0.897] [0.040] as % of price 0.35% -0.14% 0.004% -0.13% N 7 306 317 209
+This table shows the average daily price difference (in francs) between Paris and the rest of France (the average between the Lyon and Bordeaux price when both are available). The standard errors (in parentheses) are the result of a one-sample t-test comparing the sample of daily differences to zero, p-values in brackets. The last row for each period reports the average difference as a percentage of the average Paris price. In bold, assets-periods for which the differences are statistically significant and in the same direction as the differences in rente prices.
+38
+
+
+very different from that of the rente. This is inconsistent with market-wide discount rates,
+liquidity shocks or demand for liquid assets as hedges against risks to physical property
+driving our results, which should cause the changes in the different price series to coincide
+instead.
+Staple and luxury food prices in besieged Paris: Another approach is to see
+whether factors that should lead individuals to discount the future relative to immediate
+needs, or generate a specific need for liquidity, explain the rente price differences. Of course,
+with Paris under Siege, a proximate concern for many was the availability of food, including
+both staples like butter, potatoes and eggs, and luxuries in the beleaguered city, such as
+rabbits and fowl. The prices of many of these items rose by tenfold during the course of
+the Siege (Figure 8).51 If the rente price differences we document are explained by such
+discounting of the future or the resultant demands for liquidity, we should also expect these
+differences to correlate with the dramatic rises in Parisian food prices. However, as Figure 8
+suggests and Table A.14 in Section A.8 confirms, the differences in rente price between Paris
+and elsewhere are not strongly correlated with food prices in Paris, whether it be for staples,
+luxuries or the introduction of markets for particularly exclusive (e.g. elephant trunk) or
+otherwise unusual (and likely inferior) meats, like cat. Thus, the rente price differences do
+not seem to reflect arguably the most direct reason Parisians might have for liquidity or to
+discount the future relative to the present: fear of starvation and the need for food.
+Interestingly, food prices in Figure 8 arguably do tell us something about beliefs about
+the war in Paris. In particular, as mentioned above, prices started to decrease around mid
+January, as Parisians began to anticipate the Armistice and hoarders released their supply
+(Sheppard (1874), pg. 229). Around the same time, rente prices decreased in Paris, with
+prices converging towards their ultimate post-treaty levels (see Section 4.3.) These patterns
+are consistent with Parisian pessimism about the peace terms in light of the relative absence
+of battlefield successes (Corollary 3).
+5.3 Patriotic fervor and different preferences?
+A final set of likely alternative explanations for the patterns we observe stems from the
+possibility that there might be different preferences for holding rentes in Paris relative to
+elsewhere. The simplest form of this is that there might have been basic differences in
+innate preferences for holding the rente inside and outside Paris (as in Hong and Kacper
+czyk (2009)). However, since we observe the price differences switching signs in large and
+persistent ways, this cannot explain our results.
+Nevertheless, a more nuanced variant of this that could explain the switch in sign is that
+some Parisians invested in the rente in order to signal patriotic fervor or to influence policy
+51Importantly, Paris never ran out of wine (Horne, 2012). Tastes also mattered. Unlike most Parisians, Elihu Washburne, the American ambassador, had an abundant stockpile of canned food, allowing him to support others until relatively late in the Siege (McCullough, 2011).
+39
+
+
+Figure 8: Rente price differences do not correlate with the dramatic food price rises for staples and luxuries in Paris during the Siege
+Prices rose close to tenfold for for both food staples (top) and luxuries (below) in Paris. However, rente price differences do not correlate strongly with these food price rises in Paris, whether it be staples (butter: ρ = 0.277, potatoes: −0.135, eggs: 0.123) luxuries in besieged Paris (rabbit: ρ = 0.073, fowl: 0.355) or the introduction of unusual (cats) and extra rare meats (e.g. zoo elephant trunk). See also Section A.8.
+40
+
+
+in favor of continuing the war by reducing the cost of borrowing, and this raised the rente
+price in a persistent way. They then divested after the Armistice as they had a preference
+for the rente only during the war.
+Notice that this explanation also involves a form of differences in political beliefs (though
+somewhat different to the specific disagreement we incorporate in our model). Yet, even this
+is an unlikely explanation for the persistent price differences we observe. First, recall that
+the rente was the most liquid and widely held asset in continental Europe: this explanation
+would require individuals to bear potentially very high costs for a public aim, knowing that
+other Parisians would have incentives to profit by trading against them. Second, there
+was no concerted attempt by the French government to lower yields on existing debt with
+patriotic appeals – instead, the French government issued new sterling-denominated debt
+in London, not Paris.52 Finally, as discussed above and documented in Section 4.3, the
+basic timing of rente price convergence is inconsistent with this explanation: Parisian prices
+converge towards their post-treaty prices weeks before the Armistice, rather than thereafter.
+In sum, we examine alternative explanations for the patterns we observe based upon dif
+ferential information sets, discount rates, needs for liquidity, or preferences between investors
+in the rente inside and outside Paris. We provide evidence that none of these alternative
+explanations can explain our full set of empirical results on their own, though each could
+contribute to specific pieces of the patterns we observe in conjunction with differences in
+political beliefs.
+6 Discussion
+To the best of our knowledge, this is the first paper to document that the presence of
+persistent differences in equilibrium market prices can arise due to differences in political
+beliefs and can do so even in thick markets. With increasing political polarization and the
+emergence of echo chambers in news provision and social interactions (e.g., Flaxman et al.
+(2016); Gentzkow and Shapiro (2010)), market prices have the potential to provide much
+needed non-partisan metrics of the effects of political decisions on the economy. Our results
+point to both the possibilities but also the limitations of this approach. When the French
+declared war on Prussia, there was much support, both on the street and among political
+elites. Nevertheless, the price of the French rente plummeted, consistent with the smart
+52Further even if such patriotic appeals had existed, there are good reasons to doubt they would have had such an effect. Even during World War I, when the United States government employed massive bond rallies, widespread advertising and celebrity endorsements, their efforts had little effect on lowering yields (Kang and Rockoff, 2015).
+41
+
+
+money, both in Paris and around the world, providing a corrective to “war fever ”.53
+Yet, our results suggest that, as Paris and other markets were separated by the Siege,
+the marginal trader began to see war news through the political perspective of those around
+her. For example, traders in Bordeaux could read Parisian prices printed in their newspa
+pers, but these prices were largely ignored in favor of differing political beliefs, leading to
+misperceptions and misalignment with respect to the outcome of the peace. This suggests
+an under-explored but potentially important social value to the dual listing of financial as
+sets across borders. As conduits of information themselves, these assets may be particularly
+relevant for aligning expectations among economic and political decision-makers in countries
+perceived to be in emergent great power competition.54 Though it caused the deaths of more
+than 180,000 soldiers, contributed to the deaths of more than 250,000 civilians, and created
+lasting animosities that would make the great conflicts of the twentieth century more likely,
+the Franco-Prussian War may still have lessons to teach us that might help support peace.
+53Such patterns can exist even in a highly-controlled information environment. For example, following Russia’s invasion of Ukraine, on March 18, 2022, Vladimir Putin held a choreographed rally with bussed-in crowds of employees at Moscow’s Luzhniki stadium, proclaiming: “We know what we should do now and how we should do it and we will implement all our plans.” (The Independent, March 19, 2022). In contrast, however, investors in Russian sovereign debt appear to have had a different perspective of the war than that espoused by state propaganda: Russian 10 year bond yields immediately doubled (from 9.75% to close to 20%) with news of the invasion (investing.com: RU:10YT). 54Indeed, much like many in France viewed a rising Germany with grave concern in the 1860s, a focal contemporary example of the so-called Thucydides trap is that of the United States, where concerns exist about a rising China. Such a trap is seen as commonplace in international relations, where incumbent powers see advantages in economic decoupling and even pre-emptive war to check the rise of other states perceived to pose future threats.
+42
+
+
+Bibliography
+Addoum, Jawad M and Alok Kumar, “Political Sentiment and Predictable Returns,” The Review of Financial Studies, 2016, 29 (12), 3471–3518.
+Ameriks, John, G ́abor Ke ́zdi, Minjoon Lee, and Matthew D Shapiro, “Heterogeneity in Expectations, Risk Tolerance, and Household Stock Shares: The Attenuation Puzzle,” Journal of Business & Economic Statistics, 2020, 38 (3), 633–646.
+Bailey, Michael, Eduardo D ́avila, Theresa Kuchler, and Johannes Stroebel, “House Price Beliefs and Mortgage Leverage Choice,” The Review of Economic Studies, 2019, 86 (6), 2403–2452.
+, Rachel Cao, Theresa Kuchler, Johannes Stroebel, and Arlene Wong, “Social Connectedness: Measurement, Determinants, and Effects,” Journal of Economic Perspectives, 2018, 32 (3), 259–80.
+Baker, Malcolm, Jeffrey Wurgler, and Yu Yuan, “Global, Local, and Contagious Investor Sentiment,” Journal of Financial Economics, 2012, 104 (2), 272–287.
+Baldauf, Markus, Lorenzo Garlappi, and Constantine Yannelis, “Does Climate Change Affect Real Estate Prices? Only if You Believe in It,” The Review of Financial Studies, 2020, 33 (3), 1256–1295.
+Bank of England, “Consol (Long-term Bond) Yields in the United Kingdom,” 2023. Retrieved April 17, 2023, from FRED, Federal Reserve Bank of St. Louis.
+Barro, Robert J., “Rare Disasters and Asset Markets in the Twentieth Century,” Quarterly Journal of Economics, 2006, 121 (3), 823—-866.
+Bernstein, Asaf, Stephen B Billings, Matthew Gustafson, and Ryan Lewis, “Voting with their Sandals: Partisan Residential Sorting on Climate Change Risk,” Technical Report, National Bureau of Economic Research 2020.
+Besley, Timothy and Hannes Mueller, “Estimating the Peace Dividend: The Impact of Violence on House Prices in Northern Ireland,” American Economic Review, 2012, 102 (2), 810–833.
+Bonaparte, Yosef, Alok Kumar, and Jeremy K Page, “Political Climate, Optimism, and Investment Decisions,” Journal of Financial Markets, 2017, 34, 69–94.
+Bordalo, Pedro, Giovanni Burro, Katherine B Coffman, Nicola Gennaioli, and Andrei Shleifer, “Imagining the future: memory, simulation and beliefs about COVID,” Technical Report, National Bureau of Economic Research 2022.
+Brewer, John, The Sinews of Power: War, Money and the English State 1688-1783, Routledge, 2002.
+Brogan, D.W., France Under the Republic: The Development of Modern France (1870-1939), Harper & Brothers, 1940.
+Burnside, Craig, Martin Eichenbaum, and Sergio Rebelo, “Understanding Booms and Busts in Housing Markets,” Journal of Political Economy, 2016, 124 (4), 1088–1147.
+Bursztyn, Leonardo, Florian Ederer, Bruno Ferman, and Noam Yuchtman, “Understanding Mechanisms Underlying Peer Effects: Evidence from a Field Experiment on Financial Decisions,” Econometrica, 2014, 82 (4), 1273–1301.
+Cag ́e, Julia and Thomas Piketty, Une histoire du conflit politique: Elections et in ́egalit ́es sociales en France, 1789-2022, Seuil, 2023.
+Calomiris, Charles W and Jonathan Pritchett, “Betting on Secession: Quantifying Political Events Surrounding Slavery and the Civil War,” American Economic Review, 2016, 106 (1), 1–23.
+Cassidy, Will and Blair Vorsatz, “Partisanship and Portfolio Choice: Evidence from Mutual Funds,” Available at SSRN 3977887, 2021.
+Choi, James J, David Laibson, Brigitte C Madrian, and Andrew Metrick, “Reinforcement Learn
+43
+
+
+ing and Savings Behavior,” Journal of Finance, 2009, 64 (6), 2515–2534.
+Chrastil, Rachel, Bismarck’s War: The Franco-Prussian War and the Making of Modern Europe, Hachette UK, 2023.
+Clodfelter, Micheal, Warfare and Armed Conflicts: A Statistical Encyclopedia of Casualty and Other Figures, 1492-2015, McFarland, 2017.
+Coates, John M and Lionel Page, “A Note on Trader Sharpe Ratios,” PloS One, 2009, 4 (11), e8036.
+Conover, Pamela Johnston, Stanley Feldman, and Kathleen Knight, “The Personal and Political Underpinnings of Economic Forecasts,” American Journal of Political Science, 1987, pp. 559–583.
+Cookson, J Anthony, Joseph E Engelberg, and William Mullins, “Does Partisanship Shape Investor Beliefs? Evidence from the COVID-19 Pandemic,” The Review of Asset Pricing Studies, 2020, 10 (4), 863–893.
+Dagostino, Ramona, Janet Gao, and Pengfei Ma, “Partisanship in Loan Pricing,” Available at SSRN 3701230, 2020.
+Dehdari, Sirus H and Kai Gehring, “The Origins of Common Identity: Evidence from Alsace-Lorraine,” American Economic Journal: Applied Economics, 2022, 14 (1), 261–92.
+DellaVigna, Stefano and Eliana La Ferrara, “Detecting Illegal Arms Trade,” American Economic Journal: Economic Policy, 2010, 2 (4), 26–57.
+Devereux, Michael B and Gregor W Smith, “Transfer Problem Dynamics: Macroeconomics of the Franco-Prussian War Indemnity,” Journal of Monetary Economics, 2007, 54 (8), 2375–2398.
+Do, Quoc-Anh, Roberto Galbiati, Benjamin Marx, and Miguel Ortiz Serrano, “J’Accuse! Antisemitism and Financial Markets in the time of the Dreyfus Affair,” discussion paper 14826, CEPR May 2020.
+Ducros, Je ́re ́my and Angelo Riva, “The Lyon Stock Exchange: A Struggle for Survival (1866-1914),” 2014.
+Faccio, Mara, “Politically Connected Firms,” American Economic Review, 2006, 96 (1), 369–386.
+Fearon, James D, “Bargaining over Objects hat Influence Future Bargaining Power,” 1996.
+Ferguson, Niall, The House of Rothschild: The World’s Banker, 1849-1999, Penguin, 2000.
+, “Political Risk and the International Bond Market between the 1848 Revolution and the Outbreak of the First World War,” The Economic History Review, 2006, 59 (1), 70–112.
+Fisman, Raymond, “Estimating the Value of Political Connections,” American Economic Review, 2001, 91 (4), 1095–1102.
+Flaxman, Seth, Sharad Goel, and Justin M. Rao, “Filter Bubbles, Echo Chambers, and Online News Consumption,” Public Opinion Quarterly, 03 2016, 80 (S1), 298–320.
+Frey, Bruno S. and Marcel Kucher, “History as Reflected in Capital Markets: The Case of World War II,” The Journal of Economic History, 2000, 60 (2), 468–496.
+Froot, Kenneth A and Emil M Dabora, “How are Stock Prices Affected by the Location of Trade?,” Journal of Financial Economics, 1999, 53 (2), 189–216.
+Gentzkow, Matthew and Jesse M Shapiro, “What Drives Media Slant? Evidence from US Daily Newspapers,” Econometrica, 2010, 78 (1), 35–71.
+Gerber, Alan S and Gregory A Huber, “Partisanship and Economic Behavior: Do Partisan Differences in Economic Forecasts Predict Real Economic Behavior?,” American Political Science Review, 2009, 103 (3), 407–426.
+44
+
+
+Giglio, Stefano, Matteo Maggiori, Johannes Stroebel, and Stephen Utkus, “Five Facts about Beliefs and Portfolios,” American Economic Review, 2021, 111 (5), 1481–1522.
+Gillitzer, Christian and Nalini Prasad, “The Effect of Consumer Sentiment on Consumption: CrossSectional Evidence from Elections,” American Economic Journal: Macroeconomics, 2018, 10 (4), 234–69.
+Girardi, Daniele, “Partisan Shocks and Financial Markets: Evidence from Close National Elections,” American Economic Journal: Applied Economics, 2020, 12 (4), 224–52.
+Goldman, Eitan, Nandini Gupta, and Ryan D Israelsen, “Political Polarization in Financial News,” Available at SSRN 3537841, 2020.
+Greenwood, Robin and Stefan Nagel, “Inexperienced Investors and Bubbles,” Journal of Financial Economics, 2009, 93 (2), 239–258.
+Guidolin, Massimo and Eliana La Ferrara, “The Economic Effects of Violent Conflict: Evidence from Asset Market Reactions,” The Journal of Peace Research, 2010, 47 (6), 671–684.
+Harris, Milton and Artur Raviv, “Differences of Opinion make a Horse Race,” The Review of Financial Studies, 1993, 6 (3), 473–506.
+Harrison, J Michael and David M Kreps, “Speculative Investor Behavior in a Stock Market with Heterogeneous Expectations,” The Quarterly Journal of Economics, 1978, 92 (2), 323–336.
+Hautcoeur, Pierre-Cyrille, Le March ́e Financier Franc ̧ais au XIXe si`ecle: R ́ecit, Vol. 1, Publications de la Sorbonne, 2007.
+and Angelo Riva, “The Paris Financial Market in the Nineteenth Century: Complementarities and Competition in Microstructures,” The Economic History Review, 2012, 65 (4), 1326–1353.
+Hayhurst, John D., “The Pigeon Post into Paris 1870-1871,” 1970.
+Hirschman, Albert O, The passions and the interests: Political arguments for capitalism before its triumph, Vol. 2, Princeton university press, 2013.
+Hong, Harrison and Jeremy C Stein, “Disagreement and the Stock Market,” Journal of Economic Perspectives, 2007, 21 (2), 109–128.
+and Leonard Kostovetsky, “Red and Blue investing: Values and Finance,” Journal of Financial Economics, 2012, 103 (1), 1–19.
+and Marcin Kacperczyk, “The Price of Sin: The Effects of Social Norms on Markets,” Journal of Financial Economics, 2009, 93 (1), 15–36.
+, Jeffrey D Kubik, and Jeremy C Stein, “Social Interaction and Stock-Market Participation,” The Journal of Finance, 2004, 59 (1), 137–163.
+, , and , “Thy Neighbor’s Portfolio: Word-of-Mouth Effects in the Holdings and Trades of Money Managers,” The Journal of Finance, 2005, 60 (6), 2801–2824.
+, Jose Scheinkman, and Wei Xiong, “Asset Float and Speculative Bubbles,” The Journal of Finance, 2006, 61 (3), 1073–1117.
+Horne, Alistair, The Fall of Paris: The Siege and the Commune 1870-71, Pan Macmillan, 2012.
+Hutton, Irena, Danling Jiang, and Alok Kumar, “Corporate Policies of Republican Managers,” Journal of Financial and Quantitative Analysis, 2014, 49 (5-6), 1279–1310.
+Jarrow, Robert, “Heterogeneous Expectations, Restrictions on Short Sales, and Equilibrium Asset Prices,” The Journal of Finance, 1980, 35 (5), 1105–1113.
+Jha, Saumitra, “Sharing the Future: Financial Innovation and Innovators in Solving the Political Economy Challenges of Development,” in “Institutions and Comparative Economic Development,” Springer, 2012, pp. 131–151.
+45
+
+
+, “Financial Asset Holdings and Political Attitudes: Evidence from Revolutionary England,” Quarterly Journal of Economics, August 2015, 103 (3), 1485–1545.
+and Kyle Van Rensselaer, “Profiteers or Peacemakers: Financial Market Responses to War,” 2021. mimeo, Stanford.
+and Moses Shayo, “Valuing Peace: The Effects of Financial Market Exposure on Votes and Political Attitudes,” Econometrica, 2019, 87 (5), 1561–1588.
+, Kris Mitchener, and Masanori Takashima, “Swords into Bank Shares: Finance, Conflict and Political Reform in Meiji Japan,” 2020. mimeo.
+Jia, Chunxin, Yaping Wang, and Wei Xiong, “Market Segmentation and Differential Reactions of Local and Foreign Investors to Analyst Recommendations,” The Review of Financial Studies, 2017, 30 (9), 2972–3008.
+Kandel, Eugene and Neil D Pearson, “Differential Interpretation of Public Signals and Trade in Speculative Markets,” Journal of Political Economy, 1995, 103 (4), 831–872.
+Kang, Sung Won and Hugh Rockoff, “Capitalizing Patriotism: the Liberty Loans of World War I,” Financial History Review, 2015, 22 (1), 45–78.
+Kempf, Elisabeth and Margarita Tsoutsoura, “Partisan Professionals: Evidence from Credit Rating Analysts,” Technical Report, National Bureau of Economic Research 2018.
+, Mancy Luo, Larissa Sch ̈afer, and Margarita Tsoutsoura, “Political Ideology and International Capital Allocation,” Journal of Financial Economics, 2023, 148 (2), 150–173.
+Koudijs, Peter, “Those Who Know Most: Insider Trading in Eighteenth-Century Amsterdam,” Journal of Political Economy, 2015, 123 (6), 1356–1409.
+, “The Boats that did not Sail: Asset Price Volatility in a Natural Experiment,” The Journal of Finance, 2016, 71 (3), 1185–1226.
+and Hans-Joachim Voth, “Leverage and Beliefs: Personal Experience and Risk-Taking in Margin Lending,” American Economic Review, 2016, 106 (11), 3367–3400.
+la Follye, De, Recueil des de ́pˆeches te ́l ́egraphiques reproduites par la photographie et adresse ́es a` Paris au moyen de pigeons voyageurs pendant l’investissement de la capitale, L’inspecteur des Te ́le ́graphes, 1871.
+Laudenbach, Christine, Ulrike Malmendier, and Alexandra Niessen-Ruenzi, “The Long-Lasting Effects of Experiencing Communism on Attitudes Towards Financial Markets,” 2020.
+L ́evy-Leboyer, M. and F. Bourguignon, The French Economy in the Nineteenth Century: An Essay in Econometric Analysis, Cambridge University Press, 1990.
+Malmendier, Ulrike and Stefan Nagel, “Depression Babies: do Macroeconomic Experiences Affect Risk Taking?,” The Quarterly Journal of Economics, 2011, 126 (1), 373–416.
+and , “Learning from Inflation Experiences,” The Quarterly Journal of Economics, 2016, 131 (1), 53–87.
+Mattozzi, Andrea, “Can we Insure against Political Uncertainty? Evidence from the US Stock Market,” Public Choice, 2008, 137 (1-2), 43–55.
+McCullough, David, The Greater Journey: Americans in Paris, Simon and Schuster, 2011.
+Meeuwis, Maarten, Jonathan A Parker, Antoinette Schoar, and Duncan Simester, “Belief disagreement and portfolio choice,” The Journal of Finance, 2022, 77 (6), 3191–3247.
+Mian, Atif, Amir Sufi, and Nasim Khoshkhou, “Partisan Bias, Economic Expectations, and Household Spending,” The Review of Economics and Statistics, 2017, pp. 1–46.
+Miller, Edward M, “Risk, Uncertainty, and Divergence of Opinion,” The Journal of Finance, 1977, 32
+46
+
+
+(4), 1151–1168.
+Mitchener, Kris James, Kim Oosterlinck, Marc D Weidenmier, and Stephen Haber, “Victory or Repudiation? Predicting Winners in Civil Wars Using International Financial Markets,” Journal of Banking & Finance, 2015, 60, 310–319.
+Morlaix, Recueil des d ́epˆeches t ́el ́egraphiques officielles publi ́ees pendant la dur ́ee de la guerre 1870-1871 1871.
+Officer, Lawrence H, “Gold-point Arbitrage and Uncovered Interest Arbitrage under the 1925-1931 DollarSterling Gold Standard,” Explorations in Economic History, 1993, 30 (1), 98–127.
+Paradis, Jacques-Henry, Journal du Si`ege, 1870 -1871, par un Bourgeois de Paris 1872.
+Piketty, Thomas, Gilles Postel-Vinay, and Jean-Laurent Rosenthal, “Inherited vs Self-made Wealth: Theory & Evidence from a Rentier Society (Paris 1872–1927),” Explorations in Economic History, 2014, 51, 21–40.
+Priest, George L and Benjamin Klein, “The selection of disputes for litigation,” The journal of legal studies, 1984, 13 (1), 1–55.
+Reinhart, Carmen M and Kenneth S Rogoff, This Time Is Different, Princeton University Press, 2009.
+Rigobon, Roberto and Brian Sack, “The Effects of War Risk on U.S. Financial Markets,” The Journal of Banking and Finance, 2005, 29, 1769–1789.
+Rosenthal, Leonard and Colin Young, “The seemingly anomalous price behavior of Royal Dutch/Shell and Unilever NV/PLC,” Journal of Financial Economics, 1990, 26 (1), 123–141.
+Schneider, Gerald and Vera E. Troeger, “War and the World Economy: Stock Market Reactions to International Conflicts,” The Journal of Conflict Resolution, 2006, 50 (5), 623–645.
+Sheppard, Nathan, Shut up in Paris, Vol. 1175, B. Tauchnitz, 1874.
+Verdickt, Gertjan, “The Effect of War Risk on Managerial and Investor Behavior: Evidence from the Brussels Stock Exchange in the Pre-1914 Era,” The Journal of Economic History, 2020, 80 (3).
+Viaene, Alex, “L’Efficience de la Bourse de Paris au 19e`me sie`cle: une Confrontation The ́orique Face aux Donn ́ees Empiriques des Marche ́s a` Terme et `a Prime.” PhD dissertation, Orle ́ans 2002.
+Vissing-Jorgensen, Annette, “Perspectives on Behavioral Finance: Does “Irrationality” Disappear with Wealth? Evidence from Expectations and Actions,” NBER macroeconomics annual, 2003, 18, 139–194.
+Wang, Albert Y and Michael Young, “Terrorist Attacks and Investor Risk Preference: Evidence from Mutual Fund Flows,” Journal of Financial Economics, 2020, 137 (2), 491–514.
+Wawro, Geoffrey, The Franco-Prussian War: The German Conquest of France in 1870-1871, Cambridge University Press, 2003.
+Willard, Kristen L., Timothy W. Guinnane, and Harvey S. Rosen, “Turning Points in the Civil War: Views from the Greenback Market,” American Economic Review, 1996, 86 (4), 1001–1018.
+Zussman, Asaf, Noam Zussman, and Morten Ørregaard Nielsen, “Asset Market Perspectives on the Israeli–Palestinian Conflict,” Economica, 2008, 75, 84–115.
+47
+
+
+A Supplemental Appendix: Markets under Siege
+For Online Publication
+A.1 Formal Proofs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+A.2 Historical Context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+A.2.1 French Financial Markets and Information Flows during the Siege. . . 51
+A.2.2 War and default in the nineteenth century . . . . . . . . . . . . . . . . 53
+A.3 Quantifying Arbitrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+A.3.1 Was there arbitrage? Evidence from pigeon messages . . . . . . . . . . 54
+A.3.2 Why was there no arbitrage? Simulation exercises . . . . . . . . . . . 58
+A.4 The rente . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+A.4.1 Rente ownership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+A.4.2 Price differences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+A.5 The political situation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+A.6 War events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+A.7 Information flows and price responses . . . . . . . . . . . . . . . . . . . . . . 72
+A.8 Liquidity shocks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+A.9 Data Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+A.9.1 Price data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+A.9.2 Who owned the rente? . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+A.9.3 Episodes of default . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+A.9.4 Data on information flows during the Siege . . . . . . . . . . . . . . . 80
+A.9.5 Events related to war and peace . . . . . . . . . . . . . . . . . . . . . 82
+A.9.6 Election results and income . . . . . . . . . . . . . . . . . . . . . . . . 83
+A.9.7 Legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+A.9.8 Ratification of the peace treaty . . . . . . . . . . . . . . . . . . . . . . 87
+A.9.9 Food prices in the besieged city . . . . . . . . . . . . . . . . . . . . . . 88
+48
+
+
+A.1 Formal Proofs
+Proof of Lemma 1. If αj = 1, it directly follows from Eqn. (5) that γj = 1. Further, Eqn.
+(5) indicates that γi > 1 if
+Pr w
+t> 1
+1 − α.
+Therefore, αi > 1 and Pr w
+t > 1/2 guarantee that γi > 1.
+Proof of Lemma 2. The derivative and cross-derivative are given by
+∂γi ∂αi
+= Pr w
+t− 1
+α2
+i
+(1 − Pr w
+t ) (10)
+∂γ2
+i
+∂αi∂Pr w
+t
+= 1+ 1
+α2
+i
+> 0 (11)
+As long as Pr w
+t > 1/ 1 + α2
+i , ∂γi/∂αi > 0. Given that Pr w
+t > 1/2 , this holds for the
+smallest possible value of αi = 1 and therefore for all αi.
+Proof of Proposition 1. Equation (6) follows directly from iterating forward Eqns. (1) and
+(2).
+Proof of Proposition 2. This follows directly from market clearing. At the equilibrium price
+an equal weight of investors should be willing to sell or buy the security. If markets are
+integrated, this should hold globally. Otherwise, this will hold locally.
+Proof of Corollary 1 . We first transform the valuation expressions, adding a constant:
+Vb w
+C/R,t = V w
+C/R,t + Ω
+1 − δπ ,
+from where we can write
+Vb w
+C,t
+Vb w
+R,t
+= γC
+γR
+1 − δπγR 1 − δπγC
+αC
+αR
+Wt −Lt
+(12)
+Lemma 2 implies that γC > γR if αC > αR. Therefore, we also have that 1 − δπγR >
+1 − δπγC . That means that there exists some (Wt − Lt)∗ < 0 at which Vb w
+C,t = Vb w
+R,t. For any
+Wt − Lt > (Wt − Lt)∗, Vb w
+C,t > Vb w
+R,t.
+The fact that difference in valuations while at war increases in Pr w
+t follows directly from
+Lemma 2 which indicates that γ is more sensitive to α for larger values of Pr w
+t.
+49
+
+
+Proof of Corollary 2. This follows directly from Eqns. (2) and (4). Formally,
+Vp
+C,t
+Vp
+R,t
+= αC
+αR
+Wt −Lt
+< 1.
+After the end of hostilities, valuations are given by
+Vp
+t = αWt−Lt
+1−δ
+If Lt > Wt, this expression is decreasing in α.
+Proof of Corollary 3. This follows directly from Proposition 1. Formally, the return to news
+about an Armistice (end of hostilities; realization of Wt − Lt) is given by:
+Vp
+t+1 − V w
+t= Ω
+1 − δπ − δγ − 1
+(1 − δ) (1 − δπγ) Γt. (13)
+The first element is positive: the Armistice means that further costs of war are avoided. As
+long as δγ > 1 (the expected payoff from a win γ is larger than 1/δ), the second element
+is negative. This element captures the lost benefits of war, which, in expectation, should
+lead to more wins than losses as long as α > 1. This second element is increasing in γ and
+therefore in α.
+Proof of Corollary 4 . The change in valuation after a win, conditional on remaining in war,
+is given by:
+Vw
+t+1|wt − V w
+t = (α − 1)
+| {z }
+A
+(1 − π) γδ (1 − δ) (1 − δπγ)
+| {z }
+B
+Γi,t
+|{z}
+C
+. (14)
+Parts A and B are both strictly increasing in γ and therefore in α. Part C is increasing in α
+if Wt ≥ Lt. Therefore, there exists some (Wt − Lt)∗∗ < 0 at which ∂ Vtw+1|wt − Vtw /∂α =
+0. For any Wt − Lt > (Wt − Lt)∗∗, ∂ Vtw+1|wt − Vtw /∂α > 0 . Results for losses are
+symmetric.
+A.2 Historical Context
+Twenty years ago a war might have been proclaimed without causing any great
+perturbation. Hardly anybody but the bankers held stock exchange or commercial
+securities, but today everybody has his railway coupons or his three per cents
+[rentes]. The Emperor was right when he said “The Empire meant peace,” but
+what he does not know is that the Empire is done for if we have a war. — James
+de Rothschild, 1859 (quoted in Ferguson (2000, pg.91))
+50
+
+
+A.2.1 French Financial Markets and Information Flows during the Siege.
+During the nineteenth century, the 3% rente was the most liquid security in France and the
+most actively traded asset in continental Europe.55 Rentes represented 7.7 million francs
+of the capitalization of the Paris Bourse in 1870 compared to 5 million for stocks (Viaene
+(2002)). Further, the rente was broadly held.56 In 1872, 37% of all Parisians who died with
+positive wealth held French government debt (comprising 10% of all Parisians who died
+that year). The total value of those bonds was equivalent to 12% of all inherited wealth.
+However, ownership was concentrated among richer individuals. The richest 5% held 84%
+of French public bonds. For more details, please see Section A.4.57
+The Bourses and information flows The Paris financial market was itself “the leading
+financial center in continental Europe throughout the nineteenth century” (Hautcoeur and
+Riva, 2012, pg. 3). We compare asset prices in Paris to that of two regional exchanges, Lyon
+and Bordeaux, which were the longest-established stock exchanges in France after Paris.58
+During normal times, there was real-time information sharing and active arbitrage via
+telegraph between Paris and the regional exchanges. Information delays were minimal,
+and arbitrageurs could take opposite positions in different markets that would clear within
+minutes. This was further facilitated by the presence of futures markets that obviated the
+need for arbitrageurs to take expensive spot positions. However, with the start of the Siege
+and the cutting of telegraph connections between Paris and the rest of the world, real
+time information sharing disappeared. Instead, news now depended upon balloons, carrier
+pigeons (carrying micro-filmed messages), and smugglers crossing enemy lines.59 After the
+Siege ended, telegraph connections were not reintroduced, though the Prussians did allow
+people in and out of the city. It would only be on May 28, 1871, that the telegraph lines
+55The rente had a nominal value of 100 francs, and its interest was 3% annually, paid quarterly. For an excellent overview of French sovereign debt, see Hautcoeur (2007) and other volumes in that series. 56Hautcoeur (2007) points to the “democratization of the rente” over the 19th century (p.331), as successive governments reduced the minimum denomination that could be registered from 50 Francs in 1831 to merely 3 Francs according to the Finance Law of July 1870. 57Another way to approximate the rente’s popularity is by looking at subscriptions. The number of primary subscriptions to the last-prewar rente issuance (1868) was 832,798 (having risen from 99,224 in 1854). Further, the number of separate registrations of rentes (inscriptions) in the General Ledger in 1870 was 1,254,040, reflecting a sum of 358,087,510 Francs (Hautcoeur (2007) p.333-34). Naturally, both these figures could, to some extent, reflect large investors making multiple subscriptions and registrations, and as Hautcoeur argues, the actual number of individual proprietaries is hard to know for sure. However, LeroyBeaulieu suggests a ballpark of 550,000 or 600,000 individual investors before 1870. (Hautcoeur (2007), p.335). 58The Lyon exchange was the first exchange outside of Paris to gain the right to establish a trading floor in 1845 (Ducros and Riva (2014),6-7). Bordeaux did so in 1846. Using commissions as a measure of transaction volumes, Ducros and Riva suggest that the Lyon stock exchange had about 1/10 of the volume of trading of the exchange of Paris in 1870 (Ducros and Riva (2014), p.34) 59Even for the Rothschilds besieged in Paris, communications were extremely difficult, and they depended on the balloons as well, with significant delays. For example, on December 10, Alphonse de Rothschild received a letter dated October 21 (Ferguson (2000), pg 203). The Rothschilds were only able to restore regular letter correspondence even between their constituent banking households from February 3, 1871 onward (Ferguson (2000), pg 203).
+51
+
+
+were repaired and restored.60
+Table A.1: Information flows between Paris and the outside world, during the Siege
+Spells without news, Delay, in days in days Mean Max 25 pc Median 75 pc
+Balloons 2.71 6 Siege Paris price printed in Bordeaux 4.15 14 5 6 7 Pigeons 3.32 14 Outside news printed in Paris 3.32 13 3 4 6
+Peace Paris price printed in Bordeaux 1.72 6 4 4 6 negotiations Outside news printed in Paris 1.57 5 3 3 4
+This table shows the (inverse) frequency and delay of information flows in and out of Paris. During the Siege, gasfilled balloons left Paris with mail, official communications, and homing pigeons. Those pigeons were sent back to Paris with private mail and official communications. Both during the Siege and subsequent peace negotiations, a Bordeaux newspaper printed Paris prices, and a Parisian newspaper printed news from the outside. Spell without news measures the average amount of days between incoming information. The maximum is the largest time interval without news from that source. ‘Delay’ measures how old were the prices and news observed at the time they arrived in Bordeaux and Paris, respectively.
+In Table A.1, we show the amount of time between instances in which news from out
+side the Prussian cordon was reported in Paris (and vice versa) during the Siege and the
+subsequent peace negotiations. During the Siege, on average, balloons landed outside Paris
+every 2.71 days. Starting in October, pigeons arrived in Paris every 3.32 days on average.
+We also report how often the Bordeaux newspaper La Gironde printed the prices of the
+Paris Bourse: every 4.15 days during the Siege and every 1.72 days during peace negotia
+tions. Lastly, we report how often Le Figaro, a Parisian newspaper, printed news from the
+outside world: also every 3.32 days during the Siege, falling to every 1.57 days during peace
+negotiations.
+More importantly, we can establish the average delay in information transmission from
+the Bordeaux and Paris newspapers. During the Siege, the median price printed in Bordeaux
+was six days old, with the 25th and 75th percentiles at five and seven days. The median
+news from outside reported in Paris was four days old, with the 25th and 75th percentiles
+at three and six days. The delays were shorter during peace negotiations, with a median of
+four days for Paris prices in Bordeaux and three days for outside news in Paris.
+Though Paris and the outside world continued sharing information, significant informa
+tion delays did limit arbitrage between Paris and the regional markets.61 Moreover, the
+60Private telegraphic communication between Paris and Bordeaux was restored on June 25 and between Paris and Lyon on June 23 (La Gironde, 1871/06/23-25, Le Salut Public 1871/06/23). 61For example, take a symmetric information delay of five days. An arbitrageur would have to use fiveday-old information from the other market to take a position that he could only offload five days into the future. Such a “round-trip” of ten days was risky, especially during the Siege and its aftermath as prices were volatile. Indeed, during the 18th century, when information traveled by sailing boats, similar delays led to substantial price differences between cross-listed assets (Koudijs (2015, 2016)).
+52
+
+
+physical clearing of accounts was likely restricted in the absence of reliable information
+channels. These limits to arbitrage implied an upper and lower bound in cross-market price
+differences.62 Within these bounds, prices in Paris and elsewhere could differ to reflect the
+beliefs (and other conditions) of the marginal investor in those markets specifically.
+In Section A.3, we provide more evidence and a deeper analysis of the possibilities for and
+limits of arbitrage during the Siege. In particular, Section A.3.1 provides a detailed analysis
+of the micro-filmed messages transported by carrier pigeons into Paris. We provide evidence
+that though some agents do appear to attempt to arbitrage, this activity was minimal. This
+suggests that there was little pressure in Paris and the regional markets to push prices even
+further away from one another and that belief disagreement largely remained within the
+arbitrage bounds.
+Further, in Section A.3.2, we simulate a trading strategy that aims to exploit price dif
+ferences. Due to price volatility and uncertainty in the information flows, risk-free arbitrage
+was not possible. Even with assumptions very favorable to traders, they only obtain moder
+ate Sharpe ratios, between 0.47 and 0.85 (today’s traders in the city of London get a Sharpe
+ratio of 0.7 on average (Coates and Page (2009)). This suggests that arbitrageurs could
+have acted to bring prices closer together but stopped when risk and uncertainty started to
+dominate arbitrage opportunities.
+A.2.2 War and default in the nineteenth century
+In this paper, we show that after four months of persistent price differences between Paris
+and the rest of France, prices mostly converged when the peace terms were announced.
+We argue that peace conditions (and, in particular, the size of the indemnity) were a key
+source of disagreement. The sheer size of the indemnity supports this view: the payment
+was equivalent to 25% of French GDP, and Devereux and Smith (2007) called it “the biggest
+transfer in history.” The most famous case of defeat, reparations, and default is Germany
+after World War I. However, this example was unavailable to contemporaries.
+Table A.2 lists the cases of European defaults between 1800 and 1870 in Reinhart and
+Rogoff (2009) dataset. With the exception of Greece, Portugal, and Spain, they are all
+associated with international wars. Most of them date to the Napoleonic wars. There are
+two relevant and more recent examples. Prussia defaulted on its debt in 1850 following
+its defeat in the First Schleswig War. The Peace of Prague stipulated that Prussia had to
+pay reparations worth 20 million thalers. Austria defaulted on its debt in 1868 following
+its defeat in the Austro-Prussian War. Austria suspended debt amortization, wrote down
+its debt by 5%, and further imposed a permanent tax on coupon payments of 16% (Dinger
+1870, p. 89). Not listed by Reinhart and Rogoff (2009) is Italy in 1868, when a permanent
+62This is similar to the so-called “gold points” during the Classical Gold Standard period, see Officer (1993) for example.
+53
+
+
+tax of 8.8% was levied on coupon payments, which constitutes default (Dinger 1870, p. 122).
+This was in response to financial difficulties brought about by the war with Austria in 1866
+(Houghton 1889).
+In sum, it must have been well known to investors at the time that military defeat could
+lead to problems with debt repayment and subsequent writedowns on sovereign bonds, even
+by relatively developed countries.
+Table A.2: List of European default episodes between 1800 and 1870
+Country Start End International war? Austria 1802 1816 Napoleonic Wars Netherlands 1802 1814 Napoleonic Wars Germany 1807 1807 Napoleonic Wars France 1812 1812 Napoleonic Wars Germany 1812 1814 Napoleonic Wars Sweden 1812 1812 Napoleonic Wars Spain 1820 1820 Spain 1824 1834 Greece 1826 1874 Portugal 1828 1828 Portugal 1837 1841 Spain 1837 1867 Russia 1839 1839 Germany 1850 1850 Defeat in the First Schleswig War Portugal 1850 1856 Austria 1868 1870 Defeat in the Austro-Prussian War
+This table lists every episode of sovereign default by a European nation between 1800 and 1870 in the Reinhart and Rogoff (2009) dataset.
+A.3 Quantifying Arbitrage
+A.3.1 Was there arbitrage? Evidence from pigeon messages
+To study the prevalence of arbitrage, we take advantage of the fact that pigeon messages
+were photographed and their text is known today (Hayhurst (1970)). In order to look for
+messages that may include either trading instructions or confirmations, we digitized the
+messages included in a published collection of messages63 We searched the messages for
+seventeen words that were likely to be included in trading messages.64 Out of a total of
+almost thirty thousand digitized messages, we found 902 that included one of our keywords.
+We read those 902 messages and found that only 22 were speculative trading instructions
+63Recueil des de ́pˆeches te ́l ́egraphiques reproduites par la photographie et adresse ́es a` Paris au moyen de pigeons voyageurs pendant l’investissement de la capitale, available at https://gallica.bnf.fr/ark: /12148/bpt6k5499951n.texteImage.
+64The seventeen words are: action, obligations, int ́erˆet, march ́e,  ́echange, vend, impot, paiement, banque, offre, credit, Rothschild, compagnie, rente, achet, terme et comptant. In English: stock, obligation, interest, market, exchange, sell, tax, payment, bank, offer, credit, Rothschild, company, rente, buy, term, and spot.
+54
+
+
+or confirmations.65 Of those 22 messages, 14 concerned French government bonds.
+We only found 10 messages that both concerned French government bonds and were
+specific enough as to allow us to evaluate the profitability of trades.66 The trading profits
+were modest: only half of them had a positive return, with an average return of 0.13%.
+We cannot rule out speculative trading messages that were cryptic enough to hide from
+our analysis. After all, investors had an incentive to keep their trades secret. However, it
+is clear that trading was not a common topic and that arbitrage attempts were rare. The
+word cloud of private messages in Figure A.1 shows that messages were chiefly concerned
+with reassuring family or inquiring about the health of loved ones.
+65A typical example of a message that we did not classify as speculative trading was: “send news olivier take care of your cash if you need money could sell part of the loan annuities” (our translation).
+66Two examples of specific trading instructions/confirmations were: “buy rents with all available funds”, and “just bought an annuity to the value of fifty thousand francs at fifty-three and three-quarters”.
+55
+
+
+Figure A.1: Word Clouds of Pigeon Correspondence
+(a) Private messages (b) Public messages
+These two word clouds feature the most common words in private (panel a) and public (panel b) correspondence during the Siege. All the private messages
+were sent by carrier pigeons. Notice that private communications by carrier pigeon chiefly concerned reassuring family or inquiring about the health of
+loved ones (bien [N=14733], sante [N=4580]), acknowledging receipt of previous messages (e.g., rec ̧u, recevons, lettre(s)) and other basic questions. Though
+argent (money) appears 1134 times, rente only appears 28 times in the private corpus. The rente was not mentioned in government-to-government Pigeon
+communications during the Siege.
+56
+
+
+Table A.3: All messages with identified arbitrage orders or reports (out of 29,903)
+From a total of 29,903 messages, we selected the 902 that contained one of our keywords. This table shows every message with trading instructions or reports we were able to find among those 902. The first ten concern the rente and have enough information so we could calculate returns. The next four concern the rente but we could not compute the trade. The last eight do not concern the rente.
+57
+
+
+A.3.2 Why was there no arbitrage? Simulation exercises
+In this section, we ask why the price differences remained despite the fact that they were
+known both within and outside Paris. We simulate a trading strategy that aims to exploit
+price differences. We compute two strategies: that of a trader residing in Paris, who receives
+Bordeaux prices via pigeon and sends trading orders via balloon, and that of a trader residing
+in Bordeaux, who reads Paris prices in the local newspaper and sends trading orders via
+pigeon.
+Simulation of arbitrage from Bordeaux:
+1. We randomly draw one of the 38 Paris prices printed in the Bordeaux newspaper La
+Gironde. This price is n1 days old.
+2. If P riceP aris −P riceBord > t, the investor buys rentes in Bordeaux and sends a pigeon
+message to Paris ordering to sell an equal amount of bonds there.
+3. If P riceBord − P riceP aris > t, the investor sells rentes in Bordeaux and sends a pigeon
+message to Paris ordering to buy an equal amount of bonds there.
+4. We randomly draw a pigeon travel time to capture uncertainty in how long it would
+take, n2 days.
+5. To capture the ex-ante uncertainty associated with returns, we draw returns from a
+random n1 + n2 days period.
+The investor faces three sources of uncertainty: What happened to the Paris price in
+the n1 until reported, how long would it take to reach Paris n2, and the return over n1
++ n2 days. We assume investors form beliefs from past returns, so we draw returns from
+the past for each iteration of the simulation. After repeating this procedure 10,000 times,
+we calculate the average return and its standard deviation to calculate the Sharpe ratio as
+E(return)/sd(return), as a measure of the performance of the investment.
+Simulation of arbitrage from Paris:
+1. We randomly draw one of the 41 pigeon arrivals in Paris. Despite scant evidence of
+arbitrage in these messages, we assume that they contain Bordeaux prices. This price
+is n′1 days old.
+2. If P riceP aris − P riceBord > t, the investor sells rentes in Paris and sends a message
+via balloon to Bordeaux ordering to sell an equal amount of bonds there.
+3. If P riceBord − P riceP aris > t, the investor buys rentes in Paris and sends a pigeon
+message to Bordeaux ordering to buy an equal amount of bonds there.
+58
+
+
+4. We randomly draw a balloon travel time to capture uncertainty in how long it would
+take, n′2 days.
+5. To capture the ex-ante uncertainty associated with returns, we draw returns from a
+random n′1 + n′2 days period.
+Investors in Paris face the same three sources of uncertainty as investors in Bordeaux,
+and we run the same simulation to get a Sharpe ratio. In our simulation, it seems safer to
+trade from Paris than from Bordeaux since balloons are much more reliable than pigeons.
+However, it should be noted that the first exercise is grounded on actual Paris prices printed
+in a Bordeaux newspaper, while in the second one, we are only assuming that pigeons carried
+prices. We were not able to find a systematic report of outside prices in Paris.
+Table A.4 reports results from our simulation exercise. Taking all possible trades, in
+vestors in Bordeaux and Paris get Sharpe ratios of 0.471 and 0.848, respectively. The ratios
+become higher if investors only trade when price differences are sufficiently high, 1.066 and
+1.368 from Bordeaux and Paris, respectively. These numbers do not take into account trans
+action costs (such as brokerage or pigeon fees) and assume that investors had a complete
+understanding of the pigeon and balloon systems (including expected travel times) from the
+start.
+For comparison, today’s traders in the city of London get a Sharpe ratio of 0.7 on average
+(Coates and Page (2009)), and experienced traders get 1.02. In summary, our simulation
+shows that risk-free arbitrage was not possible, and investors would have taken a considerable
+risk to make a profit out of it. We cannot rule out all trades, and it is possible that inter-city
+trade made the price differences smaller.
+59
+
+
+Table A.4: Simulation of a trading strategy that exploits price differences
+Min price diff From Bordeaux From Paris to make a trade Sharpe Number of days Sharpe Number of days (in francs) ratio with trades ratio with trades
+0 0.471 38 0.848 41
+0.25 0.599 31 1.057 35
+0.5 0.685 27 1.111 34
+0.75 0.991 20 1.240 30
+1 1.066 19 1.368 24
+This table shows the results of a simulation of an arbitrage strategy. For example, if a Parisian investor receives news of lower prices in Bordeaux, she can sell rentes in Paris and send a balloon message to Bordeaux to buy rentes there. The simulation randomly draws news from the outside (either a pigeon in Paris or a Paris price printed in Bordeaux, n1 days old), a travel time for the trading order (n2 days), and returns from a random n1 + n2 day period, for 10,000 iterations. We then compute the Sharpe ratio as E(return)/sd(return). If investors only make trades for bigger price differences, Sharpe ratios are higher, but they also have fewer opportunities to make trades.
+A.4 The rente
+In this subsection, we provide more information about the French rente. We first provide
+more information about who held the rente, we then provide various ways to quantify or
+visualize the price differences between different markets.
+A.4.1 Rente ownership
+Table A.5: The ownership of the French rente and other assets
+French Equity Real Estate Foreign French gov bonds gov bonds priv bonds % of Parisians who 10 10 5 3 8 owned... % of Parisians with positive 37 36 17 10 29 wealth who owned... ... as % of 12 17 34 3.1 10 total wealth % of ... owned 84 88 92 88 85 by richest 5% % of ... owned 95 97 99 97 96 by richest 10% % of ... owned 41 38 44 31 45 by women
+This table reports basic descriptive statistics about French rente and other assets. It uses a stratified sample of wills of people who died in 1872. Data source: Piketty et al. (2014).
+60
+
+
+A.4.2 Price differences
+Table A.6: Four ways to quantify the price differences
+Price differences between Paris and the rest of France
+Entire Siege Second half of the Siege Peace negotiations
+As a % of price 0.92% 1.77% -2.63% As a % of GDP 0.30% 0.58% -0.85% Difference in yields (in bps) -5.14 -9.87 14.08 As a % of the pre-war spread -6.26% -12.01% 17.14% over British consols
+This table shows three ways to quantify the price differences between the rest of France and Paris (always as Paris minus the rest of France). First, as a percentage of the price. Second, as a percentage of GDP, we calculate that the French debt-to-GDP ratio in 1870 was 59.63% (Source for debt: Annuaire Statistique de la France 1966, source for GDP: L ́evy-Leboyer and Bourguignon (1990)). Third, the difference in yields as a percentage of the pre-war spread over British consols. We calculate this spread as the difference in yields between French and British debt on June 30th, 1870 (82.1 bps).
+Table A.7: 3% Rente Price Differences between Paris and Other Markets
+Paris - Rest Paris - Paris - Lyon - Average N of France Lyon Bordeaux Bordeaux Paris price
+Entire Siege 0.511 0.325 0.679 0.326 55.327 110 (0.111) (0.135) (0.118) (0.135) p-values [0.000] [0.018] [0.000] [0.017] as % of price 0.92% 0.58% 1.22% 0.59%
+Siege after 0.981 1.137 0.803 -0.328 55.309 64 Coulmiers (0.088) (0.082) (0.119) (0.092) p-values [0.000] [0.000] [0.000] [0.001] as % of price 1.77% 2.05% 1.45% -0.59%
+Peace -1.430 -1.213 -1.691 -0.436 54.426 23 Negotiations (0.133) (0.108) (0.200) (0.162) p-values [0.000] [0.000] [0.000] [0.013] as % of price -2.62% -2.22% -3.10% -0.80%
+Peacetime -0.008 -0.017 -0.005 0.013 67.142 336 (0.013) (0.017) (0.015) (0.019) p-values [0.528] [0.319] [0.733] [0.478] as % of price -0.01% -0.02% -0.00% 0.02%
+As a robustness check on Table 1, this table shows the average daily price difference between Paris,
+Bordeaux, and Lyon prices. Rest of France is calculated as the average between Lyon and Bordeaux.
+The standard errors (in parentheses) are the result of a one-sample t-test comparing the sample of daily
+differences to zero, p-values in brackets. The last row for each period reports the average difference as a
+percentage of the average Paris price (in the last column).
+61
+
+
+Figure A.2: Prices of the 3% rente in Paris, 1865-1875
+This graph shows the prices of the 3% French rente in Paris between 1865 and 1876. In blue, bimonthly prices from DFIH. In red, daily prices collected by
+us (for 1870 and 1871). Notice (1) the 10% dip in the French rente during the Prussian victory in the Austro-Prussian war in 1866. (2) the dramatic fall
+during the Franco-Prussian war, (3) the post-war recovery as France pays off its reparation debts in 1874.
+62
+
+
+Figure A.3: Prices of the 3% rente in Bordeaux, Lyon, and Paris, 1870-1872
+This graph shows the prices of the 3% French rente inside and outside Paris between 1870-01-01 and 1871-12-31. The outside prices are an average between
+Lyon and Bordeaux. The shaded area corresponds to the period we analyze (zoomed in in Figure A.4). The events depicted are, in chronological order: the
+Ems telegram (a diplomatic incident), the start of the war (the French declaration of war), three French defeats that happened within three days (W ̈orth,
+Spicheren, and Wissembourg), the inconclusive Battle of Gravelotte, the Battle of Sedan (where Napoleon III got captured), the declaration of the Third
+Republic in Paris (and the accession of the Government of National Defense), the start of the Siege of Paris, the French surrender with the signature of the
+Armistice (and end of the Siege), the February elections to the National Assembly, the signature of the Treaty of Versailles (which was ratified four days
+later), and the beginning and end of the Paris Commune.
+63
+
+
+Figure A.4: Prices of the 3% rente in Bordeaux, Lyon, and Paris with major war events
+This graph shows the prices of the 3% French rente inside and outside Paris between 1870-09-01 and 1871-12-31. Outside prices are an average between
+Lyon and Bordeaux. All the events we use in section 4 are depicted here.
+64
+
+
+Figure A.5: Prices of the 3% rente in Bordeaux, Lyon, and Paris
+This graph shows the prices of the 3% French rente in Paris, Bordeaux, and Lyon between 1870-09-10 and 1871-04-01. The differences between Lyon, the thickest market after Paris, and Bordeaux, which became the seat of the Republican government in exile, are smaller and not as persistent as the differences with Paris.
+Figure A.6: Bond yields in France and Great Britain
+This graph shows the yields for the 3% French government bond in Paris (green) and in the rest of France (blue, average of Lyon and Bordeaux). It also shows the yields for the British 3% consol (red). The British consol, on the other hand, was only minimally impacted by the war. Source for British consol yields: Bank of England (2023).
+65
+
+
+A.5 The political situation
+Here we look more closely at the political differences between Paris and the rest of France.
+We first show long-term trends in voting behavior, then additional figures from the February
+1871 election, and finally, detailed outcomes of the vote ratifying the Versailles treaty.
+Figure A.7: Proportion of republican, liberal, or leftist deputies in the National Assembly from Paris and the rest of France.
+Paris consistently elected more leftist deputies than the rest of France. Each observation corresponds to an election year (every post-Napoleonic election of the 19th century is included).
+Figure A.8: Votes for the left in all communes and arrondisements
+This graph shows the percentage of votes that left parties obtained in each (free) election.
+66
+
+
+Figure A.9: Elections results in February 1871, in Paris and the rest of France
+This graph shows election results in each Parisian arrondissement (circles) and the distribution for each income percentile for communes in the rest of France (horizontal lines).
+Table A.8: Votes for the Ratification of the Peace Treaty
+Paris Lyon Bordeaux France
+Left Center-Left Right Left Center-Left Right Left Center-Left Right Yes 1 5 3 3 6 3 11 546 No 31 107 Did not vote 4 1 1 1 23
+This table shows the number of deputies in the National Assembly voting for and against the ratification of the peace treaty on March 4, 1871. The treaty was supported by the conservative, rural and provincial majority. The Parisian Republican left opposed.
+67
+
+
+A.6 War events
+Here we provide additional placebo and robustness tests documenting that Paris responded
+more to war events (see Section 4.2). Table A.9 provides placebo tests, arbitrarily shifting
+the news reports by 2,4 or 6 days before or after the actual event, and finds no significant
+returns in these placebo windows. Table A.10 show the results are robust to dropping
+major battles one by one. Table A.11 shows responses for all war events, including minor
+and inconclusive battles as well as pre-Siege events. We also provide a map of the major
+battles (Figure A.10).
+Table A.9: Placebos: Price response differences, arbitrarily shifting news windows
+Differences in two-day returns to rentes, in pp Real date Placebos, date of report changed by: (Table 3) -6 -4 -2 2 4 6
+Major battles 1.183 0.032 0.311 -0.367 -0.746 -1.393 0.324 (0.481) (0.278) (0.498) (0.317) (0.802) (0.913) (0.850) [0.032] [0.910] [0.544] [0.271] [0.372] [0.155] [0.711]
+Major battles 1.382 0.074 -0.007 -0.301 -0.941 -1.754 -0.104 (with rumor reports) (0.602) (0.316) (0.568) (0.396) (0.766) (1.206) (0.621) [0.042] [0.819] [0.990] [0.463] [0.245] [0.174] [0.870]
+Major + minor battles 1.270 -0.071 -0.099 -0.234 -0.313 -1.011 -0.097 (0.417) (0.315) (0.576) (0.285) (0.819) (0.822) (0.782) [0.009] [0.825] [0.866] [0.426] [0.708] [0.241] [0.903]
+Major + minor battles 1.441 -0.035 -0.373 -0.178 -0.480 -1.302 -0.464 (with rumor reports) (0.517) (0.341) (0.608) (0.348) (0.801) (1.070) (0.588 [0.015] [0.919] [0.550] [0.618] [0.559] [0.239] [0.444]
+Major + minor + 1.123 0.060 -0.118 -0.107 -0.238 -1.314 -0.625 inconclusive (as defeats) (0.416) (0.279) (0.482) (0.245) (0.672) (0.753) (0.817) [0.016] [0.833] [0.809] [0.669] [0.728] [0.100] [0.456]
+Major + minor + 0.969 -0.178 -0.045 -0.279 -0.278 -0.351 0.464 inconclusive (as victories) (0.440) (0.276) (0.483) (0.236) (0.671) (0.817) (0.824) [0.043] [0.530] [0.926] [0.255] [0.684] [0.674] [0.581]
+This table reports placebo specifications of Table 3 (Column 1, Paris - Rest of France). The differences in responses to reports of war events are not statistically significant if we arbitrarily shift the windows in which the events were reported in each city, by -6 to +6 days. Each coefficient represents a one-sample t-test. We compute returns as: R = log(pt) − log(pt−2), for news printed on day t. We set up differences as RP aris − Routside for victories and Routside − RP aris for defeats, so positive coefficients confirm the model’s predictions.
+68
+
+
+Table A.10: Robustness to dropping individual battles, one-by-one
+Event dropped Major battles Major battles (with rumor reports)
+All 1.183 1.382 (Table 3) (0.481) (0.602) [0.032] 0.042
+First battle of Orl ́eans 1.208 1.547 (0.526) (0.634) [0.045] [0.035] Loigny 1.313 1.554 (0.508) (0.632) [0.027] [0.034] Beaugency 1.249 1.413 (0.522) (0.658) [0.038] [0.057] Metz 1.141 1.047 (0.525) (0.548) [0.055] [0.085] Coulmiers 1.208 1.424 (0.526) (0.657) [0.045] [0.056] Villiers 1.295 1.511 (0.513) (0.644) [0.030] [0.041] Bellevue 1.372 1.589 (0.484) (0.619) [0.018] [0.028] Chevilly 1.032 1.249 (0.500) (0.643) [0.066] [0.081] Le Bourget 0.833 1.049 (0.361) (0.549) [0.044] [0.085] Beaune-la-Rolande 1.069 1.285 (0.512 (0.651) [0.063] [0.076] Le Mans 1.325 1.542 (0.503) (0.635) [0.025] [0.036] Buzenval 1.152 1.369 (0.526) (0.659) [0.053] [0.065]
+This table reports placebo specifications of Table 3 (Column 1, Paris - Rest of
+France). The differences in responses to reports of war events remain statistically
+significant if we drop any major event. Each coefficient represents a one-sample
+t-test. We compute returns as: R = log(pt) − log(pt−2), for news printed on day
+t. We set up differences as RP aris − Routside for victories and Routside − RP aris
+for defeats, so positive coefficients confirm the model’s predictions.
+69
+
+
+Table A.11: All war events and rente returns in three cities
+Positive Days for news to arrive Two-day returns to events, in %
+Pre-siege news? First rumor Confirmation First rumor Confirmation
+battles Date Paris Lyon Bord Paris Lyon Bord Paris Lyon Bord Paris Lyon Bord
+Weissenburg 1870-08-04 No 3 2 4 -2.59 -0.51 -3.72
+Froeschwiller/Worth 1870-08-06 No 3 2 2 -2.71 -2.82 -3.72
+Spicheren 1870-08-06 No 3 2 2 -2.71 -2.82 -3.72
+Borny (Colombey) 1870-08-14 No 2 2 2 -2.13 -3.97 -1.81
+Vionville-Mars-la-Tour 1870-08-16 Yes 3 3 3 -0.31 2.22 0.83
+Gravelotte-St. Privat 1870-08-18 No 3 3 6 -3.19 -3.79 -2.72
+Beaumont 1870-08-30 No 5 5 5 -7.52 -8.5 -12.33
+Noisseville 1870-08-31 No 5 1 6 -6.78 0.8 -11.85
+Sedan 1870-09-01 No 1 3 3 5 0.16 -7.52 -8.5 -11.85
+Minor battles
+Strasbourg 1870-09-28 No 4 3 3 -2.33 0.88 -0.94
+Thionville 1870-11-24 No 13 4 6 -1.43 -0.27 0
+Inconclusive battles
+Chateaudun 1870-10-18 Inconclusive 10 7 3 -3.42 0.88 -0.81
+Hallue River 1870-12-24 Inconclusive 16 3 2 0.64 -0.18 -0.27
+Bapaume 1871-01-03 Inconclusive 6 3 3 0.64 0 -1.28
+Battles reported after the Armistice
+Lisaine River 1871-01-17 No 9 3 3 2.77 0 -0.47
+St Quentin 1871-01-19 No 7 6 2 2.77 -0.09 0.56
+Belfort 1871-02-15 No 5 3 2 0.46 1.79 1.33
+This table shows the two-day returns in the three markets to pre-siege and minor and inconclusive battles, and battles that were
+not known in Paris before the end of the war (it is an extension of Table 2). Returns are calculated as: log(pt) − log(pt−2),
+for news printed on day t. Since news arrived on different days to each market, they do not necessarily correspond to the same
+calendar date.
+70
+
+
+Figure A.10: Carte d’invasion allemande en France by Charles de Mazade, Plon 1875.
+This map shows the major battles (as crossed swords), as well as the path of the German advance in France. source: Bibliotheque nationale de France: Ge
+C 9319
+71
+
+
+A.7 Information flows and price responses
+In this subsection, we provide further information about how prices responded to the arrival
+of information. We first show that there are no (large) price changes after the arrival of
+balloons, carrier pigeons, or other news reports. We then look at return volatility in response
+to news traveling between Paris and Bordeaux. Finally, we investigate to what degree prices
+converged in Bordeaux after receiving information from Lyon.
+Figure A.11: Balloon arrival dates and Prices
+This figure shows the price of the rente inside and outside Paris during the Siege. Gas-filled balloons traveled from Paris to the rest of France, the dots represent days with balloon landings.
+Figure A.12: Pigeon arrival dates and Prices
+This figure shows the price of the rente inside and outside Paris during the Siege. Carrier pigeons traveled from the outside to Paris with both official correspondence and private mail, the dots represent days with pigeon landings.
+72
+
+
+Table A.12: Incoming information and abnormal returns in Paris
+Absolute value of two-day rente returns, in percentage points Panel (a): Paris Panel (b): Bordeaux (1) (2) (3) (4) (5) Pigeon arrival reported −0.033 in historical source (0.254) [0.897]
+Any outside news −0.192 printed in Paris (0.182) [0.297]
+Number of outside news 0.005 printed in Paris (0.016) [0.727]
+Paris price printed −0.166 −0.277 in Bordeaux (0.209) (0.218) [0.429] [0.218]
+Lyon price printed 0.376 in Bordeaux (0.271) [0.168]
+Fixed effects Week Week Week Week Week Mean DV 1.003 1.003 1.003 0.956 0.956 Observations 133 164 164 164 164 Sample Siege Siege and peace negotiations
+This table shows the relationship between incoming information and abnormal returns in Paris, as a robustness check of Table 5. The dependent variable is the absolute value of the two-day rente return in Paris/Bordeaux: | log(pt) − log(pt−2)|. The independent variables are: a dummy that equal one if a historical source documented a pigeon arrival (from Hayhurst (1970)), a dummy that equals one if Le Figaro reported news from the outside (regardless of how old), the number of outside news reported by Le Figaro, and dummies that equal one if La Gironde printed Paris and Lyon prices. Robust standard errors in parenthesis.
+73
+
+
+Figure A.13: Days with Paris prices printed in Bordeaux and Prices
+This figure shows the price of the rente inside and outside Paris during the Siege. The dots denote the days when the Bordeaux newspaper La Gironde printed the Paris prices.
+Figure A.14: Days with news from the outside in Paris and Prices
+This figure shows the price of the rente inside and outside Paris during the Siege. The Parisian newspaper Le Figaro often printed news from outside. The dots represent the “day with news”, i.e. days when the events reported by Le Figaro were more recent than any event reported before.
+74
+
+
+Table A.13: Price convergence after Lyon prices are printed in Bordeaux
+Bordeaux prices after receiving the Lyon price
+Siege Peace All negotiations
+∆price difference -0.200 -0.002 -0.137 (0.100) (0.143) (0.082) p-values [0.050] [0.988] [0.098]
+Lower bound 95% CI -0.400 -0.230 -0.301
+Mean absolute 0.897 0.935 0.909 price difference
+∆price difference -22.29% -0.22% -15.12% as % of mean diff
+Observations 55 24 79 Median delay 4 days 4 days 4 days
+In this table we study whether the price difference between Lyon and Bordeaux decreased after the Bordeaux newspaper La Gironde printed Lyon prices. Standard errors are calculated from a t-test that compares the sample of changes in price differences to zero. We also report the lower bound of the 95% CI (an upper bound for convergence).
+75
+
+
+A.8 Liquidity shocks
+Here we supplement Section 5 by providing additional information comparing drivers of
+demand for liquidity (particularly food prices in the besieged city of Paris– see Table A.14)
+and the price differences for other liquid domestic assets with the rente price differences
+between Paris and the rest of France (see Figure A.15.)
+As described in Section A.9, the food prices come from the weekly diaries of Nathan
+Shepphard, who was present within the Siege. They include both staples (butter, potatoes,
+eggs) and luxuries in the besieged city (rabbit and fowl). He also records three weekly prices
+for cat meat that appeared on the market later in the Siege as well as intermittent unusual
+luxuries such as elephant trunks (see Figure 8.)
+Table A.14: Lack of consistent correlations between food price rises in Paris under Siege and rente price differences
+Butter Potatoes Eggs Rabbit Fowl Cat
+Correlation between 0.277 -0.135 0.123 0.073 0.355 0.554 rente price (0.248) (0.330) (0.299) (0.332) (0.331) (0.832) difference and ... [0.282] [0.693] [0.688] [0.830] [0.315] [0.626]
+This table shows the absence of a strong correlation between food prices for staples, luxuries and unusual meats in Paris and the difference between rente prices in Paris and outside. Coefficients are correlation coefficients. Standard errors in parentheses and p-values in brackets.
+76
+
+
+Figure A.15: Prices of non-governmental French financial assets in Paris and Elsewhere
+These graphs show the price series for two other liquid assets: the Lyon et Mediterranee railroad stock and the Midi railroad bond. For the Midi bond, we use prices in Bordeaux (as it was only reported there and in Paris), for the Lyon et Mediterranee stock, we use the average of Lyon and Bordeaux, similar to our main comparison of the rente.
+77
+
+
+A.9 Data Appendix
+A.9.1 Price data
+We hand-collected daily prices for the 3% rente for 1870 and 1871 in three cities: Paris,
+Lyon, and Bordeaux. Our sources are the Cours Authentique (Paris), the Cours Officiel
+(Bordeaux), and the newspaper La Salut Public (Lyon) (see Figures A.16, A.17, and A.18
+for examples of the original sources).We always use the first price of the day.
+Figure A.16: Original Source: the published Paris rente price in the daily Cours Authentique, Dec 1st, 1870.
+Figure A.17: Original Source: the published Bordeaux rente price in the daily Cours Officiel, Dec 1st, 1870.
+Figure A.18: Original Source: the published Paris rente price in the daily newspaper Le Salut Public, Dec 1st, 1870.
+78
+
+
+Accounting for coupon payments: The rente was an annuity that paid three percent
+annually. The nominal value of the bond was 100 francs, and coupons were paid quarterly
+on April 1st, July 1st, October 1st, and January 2nd (0.75 francs each time). They were
+“considered detached” for listing purposes two weeks before. The sources were always
+explicit about the last attached coupon. In Paris, they were always detached on the 16th.
+In the rest of France, it was slightly later (on average 1.6 days later in Bordeaux and 3.1 days
+later in Lyon).In Table A.15 we confirm that the markets expected the detached coupons
+to be paid by calculating the price drops on coupon detachment days.
+Table A.15: Average rente price change on coupon detachment days
+Paris Bordeaux Lyon Number of coupons
+Entire Sample -0.719 -0.612 -0.687 8 (0.196) (0.570) (0.392)
+Siege and Negotiations -0.783 -0.733 -0.817 3 (0.225) (0.321) (0.115)
+This table shows that raw rente prices fell by (approximately) 0.75 francs on the days coupons were considered detached.
+Table A.16 lists a subset of the most liquid assets and the number of days in which their
+prices are reported in both Paris and Bordeaux, Paris and Lyon, or either. The sample
+goes from the start of the Siege to the end of the peace negotiations. The “Either” column
+is always close to the maximum of Lyon and Bordeaux, which indicates that Paris almost
+always has prices. The table shows that the 3% rente was by far the most liquid asset.
+There were 133 trading days in Paris during this period, all with rente prices (out of 140
+business days). Therefore, we can conclude that the hardships of the Siege did not prevent
+business as (almost) usual. We used this table to choose the four assets for section 5.4.
+Yields: Since the rente is an annuity that pays three percent per year, we calculate the
+yield as 3
+price . We obtained yields for UK consols from FRED.67 We calculated the country
+risk as the difference between the rente yield and the consol yield.
+A.9.2 Who owned the rente?
+Table A.5 uses Piketty et al. (2014)’s replication data to report basic descriptive statistics
+about French government bonds and other assets. It uses a stratified sample of wills of
+people who died in 1872. Their data includes the amount in francs in each will for each
+asset category (French and foreign, equity and bonds, public and private, and all their
+67Available at https://fred.stlouisfed.org/series/LTCYUK
+79
+
+
+Table A.16: Number of days with prices both in Paris and another city
+Number of days with Paris price and... Asset Type Bordeaux Lyon Either
+3% Rente French gov bond 121 126 133 Midi Railroad French private bond 116 0 116 Soc Autrichienne Railroad Foreign equity 38 112 115 Lyon et Mediterranee Railroad French equity 41 104 108 Italian 5% Foreign gov bond 56 0 56 Orl ́eans Railroad French equity 42 0 42 Midi Railroad French equity 38 0 38 Suez Canal French equity 1 37 38 Credit Mobilier Espagnol Foreign equity 0 16 16 Est Railroad French equity 15 0 15 Credit Mobilier French equity 12 0 12 Ouest Railroad French equity 10 0 10 Espagne 3% Foreign gov bond 9 0 9
+This table shows the number of days when we observe a price in Paris and a price in either Bordeaux or Lyon. We focus on the period from the start of the Siege on September 18th, 1870 to the announcement of the peace treaty on February 28th, 1871. The assets in this list were pre-selected based on their apparent liquidity.
+combinations, plus real estate).68
+A.9.3 Episodes of default
+In section A.5 (“War and Default in the Nineteenth Century”) we use episodes of default
+mainly drawn from Reinhart and Rogoff (2009).69 Not listed by them, we also include
+an entry for Italy in 1868, when a permanent tax of 8.8% was levied on coupon payments,
+which constitutes default (Dinger 1870, p. 122). This was in response to financial difficulties
+brought about by the war with Austria in 1866 (Houghton 1889).
+A.9.4 Data on information flows during the Siege
+In the paper, we use five sources of data to account for information flows: balloons, pigeons,
+prices printed in La Gironde (Bordeaux), news from the outside printed in Le Figaro (Paris),
+and news about war and peace events in Le Figaro, La Gironde70, and Le Salut Public
+(Lyon).
+Balloons: Our source for balloon departures and arrivals is the map in Figure A.19.71
+We always assume that news arrived at Bordeaux or Lyon at least twenty-four hours after
+68Their anonymized data does not include the top 1%. Therefore, we approximate the portfolio composition of those in the 99th percentile with those in the 98th percentile. 69Available at: https://carmenreinhart.com/this-time-is-different/ 70Available at https://gallica.bnf.fr/ark:/12148/cb32782567n 71Map published by the Freres Mangin et Goddard, Bibliotheque nationale de France: Ge C 2743. Available at https://gallica.bnf.fr/ark:/12148/btv1b53029817h
+80
+
+
+Figure A.19: Original Source: Tableau des Ballons Sortis de Paris Pendant le Siege, 1870-1871
+Source: Freres Mangin et Goddard, Biblioth ́eque nationale de France: Ge C 2743.
+the balloon landed. Therefore if a balloon landed in the afternoon of day t, we assume it
+arrived in Bordeaux or Lyon before trading day t + 2 (trading hours were a couple of hours
+around noon). If it landed in the morning, we assume it arrived before trading day t + 1.
+We discard three balloons that were lost at sea, five that were captured by the Prussians,
+and one that landed in Norway.
+Carrier Pigeons: We have two sources. First, we looked for all mentions of pigeons
+in Le Figaro and recorded their arrival dates in Paris. The second source for pigeon data
+is Hayhurst (1970), who reports arrival and departure dates separately, but does not link
+them.
+We also digitized the text of pigeon communications starting on November 30th, 1870,
+from an official report of the Direction of Mail and Telegraphs (la Follye (1871)).72. Then,
+after applying both optical character recognition and human inspection, we performed the
+analysis described in A.3.1 (“Was there arbitrage? Reading pigeon messages”). We also
+used these messages for the word cloud A.1. The second world cloud uses official messages,
+72Available at https://gallica.bnf.fr/ark:/12148/bpt6k5499951n
+81
+
+
+also from an official report (Morlaix (1871)) 73.
+Newspapers: The Bordeaux newspaper, La Gironde, reports Parisian and Lyonnais
+prices, which comprise our most direct measure of information flows. We checked that
+prices printed in Bordeaux coincide with those originally reported in Paris and Lyon. We
+also added coupon payments to these prices.
+Similarly, we collected news from the outside reported by Le Figaro with the help of a
+team of research assistants.74 The city and the date were often stated in the byline. We
+needed to rule out stories that debated or analyzed events long past (for example, the blame
+for the defeats in August or for the surrender of Metz was debated for our entire period).
+In order to identify the days with new information, we classify a day as a “day with news”
+if the events reported by Le Figaro were more recent than any event reported before. We
+used these data in Section 5.1.
+Further, for a pre-defined list of war and peace events, we searched local newspapers (Le
+Figaro in Paris, La Gironde in Bordeaux, and Le Salut Public in Lyon for the first mention
+and the confirmation, which we used in section 4.2.
+A.9.5 Events related to war and peace
+In Section 4.2 (“Different Responses to War and Peace”) we study price reactions to events.
+To achieve this, we first needed a list of relevant events and when the news of each event
+arrived in each city.
+To compile the list, we start with the two peace events: the Armistice and the announce
+ment of the Treaty of Versailles. Our list of main battle includes those listed as “major”
+by Clodfelter (2017) or with their own chapter or section in Wawro (2003). We exclude
+from the main list of major battles those that were inconclusive, lacking a clear winner
+(but we include them in robustness checks).75 In some specifications, we also include two
+“minor battles”, Strasbourg (mentioned by both sources) and Thionville (only mentioned
+by Wawro). These events, despite not involving significant casualties, consisted in the sur
+render of two strategic French fortresses under siege, freeing up large numbers of German
+troops.
+From all specifications, we exclude battles that happened before the start of the Siege
+and the cutting of the telegraph lines (this includes Sedan and Gravelotte). We also exclude
+battles whose outcomes were not known in Paris by the date of the Armistice. We ended up
+with two peace events, twelve major battles, two minor battles, three inconclusive battles
+73Available at https://gallica.bnf.fr/ark:/12148/bpt6k54385608 74All issues available at https://gallica.bnf.fr/ark:/12148/cb34355551z/date 75These include the battles of Bapaume and Hallue River, both referred to by Clodfelter (2017, pg 186) as ‘draws’. We also include the battle of Chateaudun, which led to the reduction of the city into “smoking ashes” (Wawro, 2003, pg.265) by the Prussians and did not stop their offensive but was seen as a heroic stand that temporarily slowed the Prussian advance by some French observers.
+82
+
+
+(draws), nine pre-siege battles, and three battles reported after the Armistice (see Tables 2
+and A.11).
+To measure the reaction to events, we need to know when each city found out about each
+news event. Our sources are the newspapers Le Figaro (Paris), La Gironde (Bordeaux), and
+Le Salut Public (Lyon).76 We also used the journal of a Parisian stockbroker, Jacques-Henri
+Paradis (1872), who kept and published a detailed account of life in Paris and the markets
+during the Siege.
+Table A.17: Delay for war events to be reported in newspapers
+Paris Lyon Bordeaux N
+All Siege battles 9.077 3.615 3.154 13 (1.347) (0.368) (0.421)
+Main Siege battles 8.625 3.375 3.000 8 (1.802 (0.375) (0.567)
+Siege breakout attempts 2.25 3.750 3.000 4 (0.479) (0.854) (0.707)
+Presiege battles 3.333 2.556 3.889 9 (0.333) (0.377) (0.564)
+This table shows the average time (in days) it took for news about the war to be reported in each city. Standard deviation in parentheses. It shows that news about battles fought in the provinces took longer to arrive in Paris. Siege breakout attempts were reported in Paris first. Also, pre-Siege battles were reported first in Lyon, then in Paris, and lastly in Bordeaux (consistent with the fact that they were fought in Eastern France).
+A.9.6 Election results and income
+We obtain election results and income from Cag ́e and Piketty (2023).77 We assemble results
+for every election they have during the Second and Third Republics (eighteen elections
+between 1848 and 1936). We used their classification of parties, and in the figures, we
+report the percentage of votes that go to the left (Figure A.8). We obtain similar results
+when we also include votes going to the center-left. We also use Cag ́e and Piketty (2023)’s
+income percentiles of each commune in graphs of the 1871 election (Figures 2 and A.9).
+76These newspapers were chosen because they were available in a digital format for the entire period. A few editions of Le Figaro are missing in early March, and Paradis’ journal ends with the Armistice, so we obtain the date for the report of the Treaty in Paris from a different newspaper, Le Temps. 77Available at unehistoireduconflitpolitique.fr.
+83
+
+
+Table A.18: Quotes from newspapers reporting major battles
+The sources are Le Figaro, La Gironde, and Le Salut Public for Paris, Bordeaux, and Lyon respectively, unless otherwise specified. 84
+
+
+Table A.19: Quotes from newspapers reporting peace events as well as minor and inconclusive battles
+The sources are Le Figaro, La Gironde, and Le Salut Public for Paris, Bordeaux, and Lyon respectively, unless otherwise specified.
+85
+
+
+Table A.20: Quotes from newspapers: rumors and first mentions of war events
+The sources are Le Figaro, La Gironde, and Le Salut Public for Paris, Bordeaux, and Lyon respectively, unless otherwise specified.
+86
+
+
+Figure A.20: Examples of the sources for two events
+To the left is the report of the Fall of Metz in Paradis’ journal. Note that every day he wrote down the price of the rente, which underscores the importance of the asset. To the right is the news of the Armistice, printed in Le Figaro on January 29, 1871.
+A.9.7 Legislators
+We further collect the political affiliation and department of each representative to the
+National Assembly from 1816 to 1893. The source is the Assembl ́ee nationale.78 It should be
+noted that this period encompasses many different regimes, with and without free elections,
+and with different extensions of the franchise. Also, even though the electoral rule allowed
+for candidates to run in more than one district, the database only lists one per candidate,
+which we use. The legislators classified as Parisians are those from the Seine departments.
+For party affiliation, we classified “leftists” and “conservatives”, and discarded those who
+we could not classify. We calculated the ratio in Figure A.7 as the number of leftists over
+the sum of leftists and conservatives. The left affiliations are: leftist, republican, socialist,
+liberal, Mountain, Danton, and opposition (to Napoleon III). The conservative affiliations
+are: right, monarchist, Bonapartist, legitimist, and conservative. Therefore, the graph shows
+the ratio of leftists to conservatives, excluding moderates. The graph looks very similar if
+we depict leftists as a percentage of the total.
+A.9.8 Ratification of the peace treaty
+Votes for ratification of the peace treaty (table A.8). We assemble data on votes and votaries
+for the following three departments: Seine (Paris), Gironde (Bordeaux) and Rhone (Lyon).
+Our sources are La Gironde, 1871-03-03 (roll-call), and Journal Officiel, 1871-02-14 and 19th
+(representatives and their districts). Table A.21 lists every deputy from those departments
+and their votes. The political affiliations are from the Assembl ́ee nationale79.
+78Available at https://www2.assemblee-nationale.fr/sycomore/recherche 79Available at https://www2.assemblee-nationale.fr/sycomore/recherche
+87
+
+
+Table A.21: Votes for ratification of the Peace Treaty
+Seine (Paris) Gironde (Bordeaux) Rhone (Lyon)
+Yes Frebault, Leon Say, Pothuau, Saisset, Thiers, Vacherot
+Adrien Bonnet, Adrien Leon, Changarnier, Aurelle de Paladines, Martin des Palieres, J. Princeteau, Jos De Caeayon-La-tour, Jules Dufaure, Le Duc Decazes, Marquis de Lur-Saluces, Nath. Johnston, Paul Journu, Richier, Thiers
+Berenger, De Laprade, De Mortemart, De Saint-Victor, Ducarre, Flotard, Glas, Leroyer, Mangini, Morel, Perret, Trochu
+No Arnaud, Clemenceau, Cournet, Delescluze, Dorian, Edmond Adam, Farcy, Felix Pyat, Floquet, Gambetta, Gambon, Greppo, Henri Brisson, Henri Martin, Joigneaux, Langlois, Lockroy, Louis Blanc, Malon, Mar Dufraisse, Martin Benard, Milliere, Peyrat, Quinet, Ranc, Razoua, Rochefort, Schoelcher, Tirard, Tolain, Victor Hugo
+Did not vote
+Garibaldi, Jean Brunet, Favre, Ledru-Rollin, Littre, Sauvage
+Favre
+Source of deputies by department: Journel Officiel 1871-02-14 for Gironde and Rhone, and 1871-02-19 for Seine (some representatives were elected in more than one department). Source of votes: La Gironde 1871-03-02. Notable representatives in bold (Favre was in favor, but not present. Garibaldi was against, but not allowed to vote).
+A.9.9 Food prices in the besieged city
+We obtain food prices from the besieged city of Paris from the contemporary journal of an
+American, Nathan Sheppard: Shut up in Paris, published in 1874. Sheppard recorded prices
+of food items with a weekly frequency. We used the items with the most observations for
+both staples ( butter, potatoes, and eggs), luxuries (fowl and rabbit), and, for illustration
+two unusual meats: elephant (which appeared when fodder for the zoo animals ran out at
+the Jardin des Plantes, at Christmas 1870) and cat, for which a market developed only late
+in the Siege (3 observations). We use these data in Section 5.
+88

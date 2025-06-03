@@ -1,0 +1,1077 @@
+The Spread of Modern Industry to the Periphery since 1871
+Kevin Hjortshøj O'Rourke (ed.), Je rey Gale Williamson (ed.)
+https://doi.org/10.1093/acprof:oso/9780198753643.001.0001
+Published: 2017 Online ISBN: 9780191815232 Print ISBN: 9780198753643
+Search in this book
+CHAPTER
+https://doi.org/10.1093/acprof:oso/9780198753643.003.0004 Pages 63–90
+Published: February 2017
+Abstract
+Keywords: Habsburg Empire, manufacturing, economic geography, state socialism, regional inequality,
+economic policy, economic history
+Subject: Economic History, Modern History (1700 to 1945)
+Collection: Oxford Scholarship Online
+4 How Peripheral was the Periphery? Industrialization in East Central Europe since 1870 
+Alexander Klein, Max-Stephan Schulze, Tamás Vonyó
+This chapter explores the timing, pace, and spatial di usion of modern industry in the former
+Habsburg Empire and its successor states. The regions adjacent to Western Europe, Alpine Austria, and
+the Czech lands shifted from proto-industrial to modern manufacturing rst, followed by the western
+parts of Hungary. Though well advanced in the western and northwestern regions, industry di used
+only slowly to the east and southeast, with profound implications for East Central European economies
+throughout the twentieth century. It is argued that this part of Europe stepped into the industrial age
+before most of the global periphery; that economic growth was mainly driven by industry from the late
+nineteenth century to the collapse of state socialism; and that the contribution of industry to aggregate
+value added was associated with a growing share of ‘modern’ manufacturing in industrial production.
+However, post-war interventionist policies failed to erase relative backwardness in East Central
+Europe.
+4.1 Introduction
+The origins of industrialization in Central and East Central Europe reach back into the eighteenth century
+(Good, 1984; Komlos 1983, 1989). Much of this part of Europe was under Habsburg rule until the demise of
+the Austro-Hungarian Empire at the end of the First World War. The Habsburg realm’s geographical
+location at the crossroads of Europe’s west and east meant that the timing and spatial di usion of
+industrialization mirrored the broader European experience. It was in the regions adjacent to western
+1
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Europe, Alpine Austria and the Czech lands that ‘the growth impulses from England and of the continental
+northwest found fertile ground rst’ (Good, 1984, p. 15), and where the shift from proto-industrial to
+modern forms of manufacturing began in the late eighteenth and early nineteenth centuries.
+By the early 1870s, Austrian industrialization was well beyond the transitional phase that according to
+Komlos (1983) lasted to the mid-1820s, and was thus well into the ‘machine-industrial phase’ proper.
+However, as elsewhere in Europe, industrialization in the Habsburg lands, its timing and pace, was a
+process characterized by pronounced regional di erences (Pollard, 1986). These gaps initially widened over
+the course of the nineteenth century, as industrial activity in Alpine Austria and the Czech lands gathered
+momentum. The western parts of Hungary followed signi cantly later with a rst wave of industrial
+expansion in the late 1860s and early 1870s. Industrialization, though by 1913 well advanced in the western
+and northwestern regions of the empire, di used only slowly to its most eastern and southeastern regions.
+This had profound implications for the structure and growth of the East Central European economies
+throughout the late nineteenth and twentieth centuries. It is the stark unevenness in the extent of
+industrial activity across the regions of East Central Europe that prompts the question of how peripheral
+this periphery was. We suggest that, at least in a European context, the imaginary line between the ‘core’
+and ‘the periphery’ ran through the Habsburg economy—from the west/northwest to the east/southeast,
+re ecting the pattern of di usion of modern economic growth emphasized in the historiography (Good,
+1984; Pollard, 1986). The empire’s unique position—being both close to and at the same time far away from
+the European industrial core—is, on the one hand, demonstrated by its prominent rank among the world’s
+leading machinery producers: by 1913, Austria-Hungary’s mechanical engineering industry, located mainly
+around Vienna and in the Czech lands, was in terms of output surpassed only by the United States, Britain,
+and Germany (Schulze, 1996). Yet, on the other hand, the Habsburg economy included large, populous
+regions in the east where industrialization had made little, if any, headway by the time of the First World
+War. Galicia, for example, accounted for about 28 per cent of Imperial Austria’s population in 1910, but
+contributed less than 6 per cent of manufacturing output.
+p. 64
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+In the early nineteenth century, the western half of the Habsburg Empire was economically in as promising
+a position as the territories of Germany proper (Freudenberger, 2003). Around 1820, per capita GDP was
+about 7 per cent higher than in Germany; the comparative income lead was even larger for the regions that
+form present-day Austria. That lead, though, was to disappear fast over the following decades. In this
+sense, then, the evidence lends some support to Alexander Gerschenkron’s pessimistic assessment of
+nineteenth-century Austria as a case of ‘failure’ (Gerschenkron, 1977, p. 54). Table 4.1 reports GDP per
+capita for Central Europe, expressed in percentages of the German level. Four initial, general observations
+stand out. First, in the late nineteenth century, the Habsburg Empire, especially its Austrian half, became
+considerably poorer in terms of per capita income than its newly uni ed German neighbour. To a large
+extent, this falling-behind was an outcome of lower output and productivity growth in Cisleithanian
+industry which, in turn, was linked to signi cantly lower levels of human capital than in Germany (Schulze,
+2007a). Second, for the late nineteenth century, there is a large development gap between Imperial Austria
+and Imperial Hungary (in pre-1918 borders) on the one hand, and the empire’s economically most advanced
+regions located in what today constitute Austria and the Czech Republic, on the other. This is a re ection of
+the comparatively late onset of industrialization in Hungary and the eastern regions of the empire. Third,
+there is some evidence of modest intra-empire catching-up before 1914: the income gap between
+Cisleithania and Transleithania declined and so did the di erentials between the territories of modern
+Austria, Czechoslovakia, and Hungary. Fourth, over the long run there is a remarkable absence of signi cant
+changes in the relative levels of economic development within the broader region that we study,
+including Poland for comparison. Though her initial income lead turned into a lag between 1870 and 1913,
+Austria was broadly on a par in level terms with the German economy (in its 1990 borders) throughout most
+of the modern era, with the notable exception of the disastrous episode of the 1930s. The East Central
+European economies, on the other hand, lagged behind both Germany and Austria and, although the size of
+this developmental gap did not remain constant over time, it is today astonishingly similar to what it was
+more than a hundred years ago.
+2
+p. 65
+Table 4.1. GDP per capita in Central Europe (Germany = 100)
+Sources: (a) Imperial Austria, Imperial Hungary: Schulze (2000), with some revisions; (b) Austria, Czechoslovakia, Hungary for 1870–1913: preliminary new estimates based on revisions of regional GDPs from Schulze (2007b) and border adjustments; (c) all other: Maddison Project (http://www.ggdc.net/maddison/maddison-project/home.htm). The percentages are calculated from figures expressed in 1990 GK dollars and, except for Imperial Austria and Imperial Hungary, refer to 1990 borders.
+1870 1890 1913 1929 1937 1950 1973 1989 2008
+Imperial Austria 77 66 60
+Imperial Hungary 52 51 46
+Austria 111 95 86 91 67 95 94 99 108
+Czechoslovakia 81 73 67 75 62 90 59 53 64
+Hungary 59 58 54 61 54 64 47 42 52
+Poland 51 53 48 52 41 63 45 34 49
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+If there is one message to take away from studying the economic history of East Central Europe in the era of
+modern economic growth, then it is this absence of cross-country convergence in levels of economic
+development over the long run. East Central Europe had begun to industrialize before the rest of the global
+periphery, and thus it is better described as ‘half-periphery’. However, it has remained a half-periphery and
+has failed to catch up to, or even signi cantly narrow the gap vis-à-vis, the European core of advanced
+economies. East Central Europe thus failed to take advantage of its relative economic backwardness
+(Gerschenkron, 1962) and to exploit its catch-up potential (Abramovitz, 1986). After the collapse of the
+Soviet bloc and the following sharp depression that lasted into the mid-1990s, the income gap began to
+decline gradually, but so far this convergence has only just su ced to make up for the ground lost during
+the socialist era.
+While some of the general patterns we describe prevailed in the wider region of East Central Europe, the
+geographical focus is limited to the Austro-Hungarian Monarchy and its three main successor states, whose
+post-1918 territory remained entirely within the borders of the Habsburg Empire. The aim here is to
+quantify the level, structure, and trajectory of industrial development between 1870 and 2005 within, as far
+as possible, the borders of current-day Austria, Hungary, and the Czech and Slovak Republics. The latter two
+will be referred to, for the most part, as Czechoslovakia. Throughout the chapter, industry is de ned as the
+sum of mining, manufacturing, and public utilities, except when otherwise stated. For the inter-war period,
+in particular, currently available data do not allow us to separate manufacturing from the rest of the
+industrial sector. For the years between 1950 and 1989, substantial di erences in industry classi cation
+between the three countries make such distinction similarly di cult. However, it is not just classi cation
+issues that pose a problem when it comes to setting out long-term patterns of industrial development: state
+borders changed after the First World War and with the formation of the three main successor states. In
+most cases, the new state-level borders were not drawn along pre-war region boundaries that typically
+identify the contemporary statistical units of observation.
+p. 66
+Quantitatively, we have three speci c aims. First, we present near-complete time series on industrial
+production and compare them to the growth of gross domestic product (GDP). Second, we account for the
+level of industrialization by establishing the share of industry and other major sectors of economic activity
+in the labour force. Third, we gather evidence on the changing composition of industrial output to show how
+the role of modern manufacturing industries evolved over time. In this third task, we have to rely on data
+not entirely consistent between the pre-1914, inter-war, and post-1950 periods. This limitation is
+determined by post-1918 border changes, inter-temporal changes in industry classi cations, and, in
+general, by the extent to which disaggregated data on industrial production are available. Our discussion of
+the evidence is, therefore, structured chronologically focusing on three main periods: 1870–1914, 1920–38,
+and 1950–89. In the nal section we brie y consider the years following the fall of Communism and draw
+general conclusions about the achievements of industrialization in East Central Europe.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+4.2 Industrialization in the Habsburg Empire: Di usion and Concentration in the Late Nineteenth Century
+The process of industrialization in the Habsburg lands after 1870 evolved within the context of an empire
+wide customs and monetary union and against the background of the 1867 constitutional settlement that
+established the Dual Monarchy. An increasingly dense railway network connected the regional centres of
+economic activity, stretching from the empire’s western border with Switzerland to its eastern border with
+Russia, and from its northern border with Germany to the Mediterranean. The sheer geographical expanse
+of the empire brought with it a large degree of regional di erence in broadly conceived resource
+endowments and in access to both domestic and foreign markets. These di erences had a major impact on
+the location of industry and manufacturing in the empire and, by extension, its successor states. The
+broader outlines of the spatial pattern of industrial activity that came to characterize the second half of the
+nineteenth century emerged over the previous hundred years or so. Four factors, in particular, shaped this
+regional pattern and its concomitant di erentials in manufacturing activity. First, the western and
+northwestern regions of the empire, i.e. those broadly corresponding with the territories of modern Austria
+and the Czech Republic, experienced the weakening of feudal institutions earlier than the more eastern
+regions, creating room for the rise of non-agricultural activity. It was here that domestic industry took hold
+rst, that an entrepreneurial class emerged comparatively early, that foreign capital and expertise was
+attracted to, and where, eventually, modern forms of manufacturing began to develop (Good, 1984, pp. 14
+24). In 1790, 280 manufacturing rms were counted in the empire (excluding Galicia, Vorarlberg, and
+Tyrol). Of these, 50 per cent were located in Lower Austria and 30 per cent in Bohemia (ibid.)
+foreshadowing the two regions’ pre-eminence in Austro-Hungarian manufacturing through to 1914,
+notwithstanding the changing composition of regional output over time. Second, at the time of initial
+industrialization the western and northwestern regions of the empire were already signi cantly more
+urbanized than the rest of the country (ibid.), entailing agglomeration economies that were to intensify over
+the course of the nineteenth century. Third, by 1870 the Alpine and Czech lands had a huge lead in the stock
+of human capital, built up over the preceding decades: new estimates suggest that the di erence in average
+years of schooling compared to the least advanced regions in the empire was equivalent to about two and a
+half years, or 60 (75) per cent of the average years of schooling for Imperial Austria (Hungary) as a whole.
+Finally, access to domestic and foreign purchasing power was crucial for the development of
+manufacturing, and in this respect, too, industry in Alpine Austria and the Czech lands held an advantage
+over the more remote regions in the empire’s east.
+p. 67
+3
+4
+5
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Manufacturing in both halves of the empire expanded at signi cantly higher rates than the aggregate
+economy. Table 4.2 shows that by 1913, almost one-quarter of Imperial Austria’s GDP was generated in
+manufacturing, while in Imperial Hungary the proportion more than doubled from less than 7 per cent in
+1870 to 14 per cent in 1913. This rise in manufacturing’s relative importance was the outcome of an uneven
+process of accelerations and decelerations in industrial activity and investment as well as changes in the
+output composition broadly in favour of ‘modern’ sectors such as metal-making, engineering, and (petro-)
+chemicals. Between 1870 and 1913, manufacturing output in Austria grew by about 2.3 per cent per
+annum compared with 4.0 per cent for the much less industrialized Hungary. Yet the growth rates of
+manufacturing (or, more broadly, industrial) output in Austria and Hungary were out of phase with one
+another over the period (Table 4.3): this had to do with the e ects of the 1873 Vienna stock market crash.
+The crash led to an out ow of Austrian capital to Hungary and was a key factor in prolonging sluggish
+growth in Austria whilst stimulating the rst major wave of industrialization in the Hungarian lands
+(Komlos, 1983). The repatriation of capital to Austria in the early 1890s sustained the resumption of
+manufacturing and aggregate growth there and was associated with a slowdown in the Hungarian half of
+the empire. This pattern of deceleration and acceleration was closely associated with changes in investment
+demand for plant and equipment, which are apparent in the temporal evolution of domestic machinery
+output and changes in the gross stock of machinery (Schulze, 1997, 2007a).
+p. 68
+Table 4.2. Share of manufacturing in industrial, sectoral, and aggregate gross value added (per cent)
+Note: Gross value added in constant 1913 prices. Industry: manufacturing, mining, utilities. Secondary sector: industry, construction, cra s.
+Source: Schulze (2000), with some revisions.
+Imperial Austria Imperial Hungary
+Industry Secondary sector GDP Industry Secondary sector GDP
+1870 96.0 63.9 19.2 89.0 58.6 6.5
+1890 93.1 65.5 21.0 90.8 59.5 9.7
+1913 91.9 66.6 24.8 89.2 62.3 14.1
+Table 4.3. Annual growth, gross valued added (per cent)
+Note: Gross value added in constant 1913 prices. Peak-to-peak measurement. Since peaks in the individual series do not necessarily correspond exactly with one another, the periods of measurement are not always identical.
+Source: Appendix, Table A4.1.
+Imperial Austria Imperial Hungary
+Manufacturing Industry Secondary sector
+GDP Manufacturing Industry Secondary sector
+GDP
+18711912
+2.34 2.44 2.21 1.81 4.05 4.00 3.77 2.14
+1871–95 1.71 1.84 1.55 1.37 4.42 4.30 4.21 2.21
+18951912
+3.23 3.29 3.16 2.43 3.48 3.53 3.08 2.02
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+The pre-1873 upswing in Habsburg manufacturing was fuelled by an expansion in the money supply to
+nance the wars with Prussia and Italy and a record Hungarian harvest in 1867/8 coming at a time of poor
+harvests elsewhere in Europe (Matis, 1972, pp. 153–61). Buoyant cereal and our exports initiated a
+dramatic expansion in the empire’s railway network, providing a major stimulus to the domestic producer
+and capital goods industries that had developed in the western and northwestern regions since the late
+eighteenth century. These industries—engineering and iron and steel, in particular—were located primarily
+in Alpine Austria and the Czech lands. As rural incomes rose in response to increasing grain and land prices,
+demand for consumer goods expanded and led to the installation of new productive capacity in
+manufacturing. The associated growth in empire-wide demand for machinery provided a llip not just to
+Austrian producers but also to Budapest’s nascent engineering industry.
+p. 69
+6
+Austrian manufacturing output peaked in 1871. Yet what started out as the downswing following the
+expansionary phase of a regular business cycle was transformed into a major recession in industry by the
+impact of the 1873 crash, which changed longer-term expectations and investment decisions. From the late
+1870s Austrian investors, seeking safe assets, engaged in large-scale purchases of new Hungarian debt. The
+Hungarian government was thus able to nance its regular expenditure and investment in infrastructure
+without crowding out private domestic investors (as much of the new debt was held in Austria). Further, the
+growth in Hungarian disposable incomes and in consumer demand was not constrained as the government
+was able to meet its scal targets without recourse to excessive taxation. This provided a major stimulus to
+both consumer and capital goods producers in a still largely agricultural economy. Hence, in Hungary the
+signs of depression were almost absent (despite a modest dip in activity in the 1870s). In Austria, though,
+the e ects were rather di erent: ‘the diminished stock of venture capital had a negative impact on
+industrial production until the 1890s. By attracting large amounts of Austrian capital, the Hungarian
+economy was therefore in uential in prolonging the depression in Austria’ (Komlos, 1983, p. 218). The
+overall outcome was a painfully sluggish recovery in Austrian manufacturing from the 1873 trough through
+to the mid-1880s and rapid expansion in Hungarian manufacturing into the late 1880s and early 1890s
+(Schulze, 2000).
+7
+As domestic demand began to pick up again in the second half of the 1880s, Austrian industrialists started
+installing new capacity again, going beyond mere replacement investment which had been characteristic of
+the preceding decade and a half. The beginning of this upturn in the late 1880s and early 1890s coincided
+with the reversal of intra-empire capital ows. Austrian investors turned to domestic industrial equity
+again (Somary, 1902, Table II, p. 39) and investment in industrial machinery was aided by a fall in Austrian
+long-term interest rates (Schulze, 1997). While the repatriation of Austrian capital was associated with a
+signi cant increase in Austrian manufacturing (GDP) growth of about 1.5 (1.1) percentage points over 1871
+95, Hungary ‘su ered less’ than ‘Austria gained’: growth in manufacturing declined by less than 1
+percentage point and the observed decrease in GDP growth is probably within the margin of error (0.2
+percentage points). We hypothesize that this had to do with, rst, a much deeper and more sophisticated
+Hungarian domestic capital market than there had been in the early 1870s, as a result of signi cantly higher
+per capita incomes after more than twenty years of relatively fast economic growth; second, a shift into
+higher value-added manufacturing branches; and, third, comparatively high productivity growth in
+agriculture that sustained disposable income growth and demand for manufactured goods in a still largely
+agricultural economy. Throughout the late nineteenth century, agriculture in Hungary had a substantial
+revealed comparative advantage in crop production. The sector bene ted from ready access to the higher
+income markets in Austria that were largely uncontested by foreign importers due to the Habsburg customs
+union’s external tari (Katus, 1970; Komlos, 1983). In addition, not only did crop production lend itself
+more readily to mechanization and machinery investment in Hungary than in most parts of the overall more
+mountainous and rugged Austria, but Hungary ran a trade surplus in both crops and livestock products with
+her customs union partner (Eddie, 1989).
+p. 70
+8
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+While textiles and iron were at the centre of early industrialization in the Alpine and Czech lands, the
+process of industrialization in Hungary was driven initially by the agricultural processing industries,
+especially our milling (Good, 1984, pp. 125–48), which drew on a productive domestic rural sector as the
+main source of its inputs. Yet the structure of manufacturing changed signi cantly in the later decades of
+the century in both parts of the empire and became more diversi ed. This raises the question of to what
+extent shifts to ‘modern’ industries were associated with changes in overall manufacturing growth. Here we
+consider iron and steel production, engineering (including mechanical and electrical engineering as well as
+transport equipment) and chemicals as representative of the ‘modern sector’. Of course, this is a
+simpli cation—technical change, product and process innovations occurred in other sectors, too. Table 4.4
+sets out the comparative growth rates and the relative contributions to manufacturing growth made by the
+‘modern sector’ compared to other manufacturing branches. Three observations can be made. First, the
+‘modern sector’ grew signi cantly faster than the rest of manufacturing in both Austria and Hungary.
+Second, this held over both periods under review. Third, the evidence for Austria-Hungary conforms
+broadly with the general nding that industrialization typically involved a growing share not only of
+manufacturing in aggregate output, but also of a rising weight of the ‘modern sectors’ in manufacturing as
+a whole. In Austria, the proportion of manufacturing growth attributable to the rise of the ‘modern sectors’
+went up from less than 23 per cent (1871–95) to almost 40 per cent at a time of overall accelerating
+manufacturing growth. For Hungary, the corresponding gures are 17 per cent and 25 per cent, re ecting
+the overall less advanced state and structure of manufacturing in Transleithania.
+9
+Table 4.4. Modern manufacturing: relative contributions to manufacturing growth (per cent, per annum)
+Note: Measurement from peak to peak in total manufacturing output. For each period, relative contributions to manufacturing growth are computed as each sectorʼs growth rate weighted by that sectorʼs share in manufacturing at the start of the period.
+Sources: See Table 4.2.
+Modern manufacturing
+Other manufacturing
+Modern growth contribution
+Other growth contribution
+Total manufacturing
+Imperial Austria
+187195
+2.73 1.51 0.39 1.32 1.72
+18951912
+6.51 2.46 1.26 1.97 3.23
+Imperial Hungary
+187195
+7.57 4.08 0.77 3.65 4.42
+18951912
+5.35 3.13 0.86 2.63 3.48
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Table 4.5 reveals some key structural characteristics of the Habsburg economy. First, throughout the period
+under review the empire as a whole remained a largely agricultural economy, especially so in its eastern,
+Hungarian half. In comparison, less than half of the labour force in Germany was employed in agriculture in
+1871 and by 1910 this proportion had fallen to less than 36 per cent, while manufacturing’s share had risen
+to more than 29 per cent (Ho mann, 1965). Note, however, that Imperial Austria had a signi cantly
+higher share of manufacturing (or, more broadly, industrial) employment in 1870 than its southern
+neighbour Italy and maintained a slight lead until the First World War (cf. Chapter 6, Table 6.2). Second,
+the picture looks distinctly di erent if the focus is on those territories that after the First World War became
+parts of either the Austrian Republic or Czechoslovakia. Here the shares of industry and manufacturing in
+total employment were far higher than on average across the empire, on a par with those prevalent in
+Germany and well above the corresponding gures for Italy. These data, then, con rm the notion of the
+Alpine and Czech regions as the industrial heartlands of the empire and as regions of industrial activity
+close to the European core.
+p. 71
+10
+p. 72
+11
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Table 4.5. Sectoral composition of labour force (per cent)
+Source: Schulze (2007a) with some revisions.
+1869/70 1890 1910
+Imperial Austria Imperial Hungary Imperial Austria Imperial Hungary Imperial Austria Imperial Hungary
+Agriculture 62.7 78.3 61.5 79.5 54.0 73.4
+Industry 18.1 7.1 19.9 8.0 22.6 11.8
+Manufacturing 17.4 6.6 18.9 7.4 21.3 11.0
+Mining 0.8 0.6 1.1 0.6 1.2 0.8
+Utilities 0.1
+Construction 2.2 2.4 0.9 3.3 1.5
+Services 17.0 14.6 16.1 11.6 20.1 13.3
+Labour force (000s) 10,848.28 8,248.48 12,203.67 9,121.60 14,051.33 10,732.56
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+The level di erences in manufacturing and industrial employment shares within Austria-Hungary re ect
+the regional di erentials in the timing and sectoral basis of industrialization across the empire. Hungary
+—whether in its imperial or modern guise—came late to the game. Here, industrialization in earnest had
+started only during the 1860s and 1870s, aided by the in ow of Austrian funds after the 1873 stock market
+crash. Budapest (in the central Danube–Tisza Basin), in particular, but also the Hungarian regions on the
+Danube Left and Right Banks as well as the Tisza Right Bank became progressively more engaged in
+manufacturing over time. However, compared to Austria or Czechoslovakia, and even Imperial Austria as a
+whole, manufacturing played a markedly less prominent role in the Hungarian economy right up to the First
+World War. This is borne out by the evidence on both regional shares in manufacturing output and regional
+manufacturing output per head (Table 4.6).
+12
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Table 4.6. Manufacturing gross value added by region (1990 Geary–Khamis dollars)
+Source: Revised estimates based on sources and methods documented in Schulze (2007b).
+Output (m.) Regional share Output per capita
+1870 1910 1870 1910 1870 1910
+Lower Austria 1,295 3,634 0.20 0.18 644.3 1,028.9
+Upper Austria 209 471 0.03 0.02 280.7 552.5
+Salzburg 41 111 0.01 0.01 266.6 516.6
+Styria 243 822 0.04 0.04 211.3 569.3
+Carinthia 52 154 0.01 0.01 152.9 389.9
+Carniola 47 154 0.01 0.01 98.8 293.0
+Littoral 101 423 0.02 0.02 166.2 473.2
+Tyrol/Vorarlberg 172 500 0.03 0.03 191.8 458.0
+Bohemia 2,266 5,499 0.34 0.28 436.7 812.3
+Moravia 710 1,844 0.11 0.09 348.7 703.1
+Silesia 180 496 0.03 0.03 347.7 655.7
+Galicia 264 852 0.04 0.04 48.0 106.2
+Bukovina 24 79 0.00 0.00 47.2 99.1
+Dalmatia 7 60 0.00 0.00 15.1 92.4
+Danube Le Bank 138 542 0.02 0.03 79.8 249.2
+Danube Right Bank 178 585 0.03 0.03 73.3 189.8
+Danube–Tisza Basin 198 1,379 0.03 0.07 91.5 365.9
+Tisza Right Bank 105 408 0.02 0.02 69.9 230.4
+Tisza Le Bank 85 372 0.01 0.02 44.7 143.3
+Tisza–Maros Bank 93 394 0.01 0.02 52.9 184.0
+Transylvaina 105 482 0.02 0.02 48.5 180.1
+Croatia–Slavonia 62 418 0.01 0.02 33.1 156.6
+Imperial Austria 5,610 15,101 0.85 0.77 272.5 540.7
+Imperial Hungary 964 4,581 0.15 0.23 62.1 219.3
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Clearly, the spatial distribution of manufacturing across the Habsburg Empire changed over time, broadly in
+line with the gradual intra-empire catching-up of the Hungarian on the Austrian economy. By 1910,
+Budapest was rmly on the map as a major manufacturing location. Yet just as striking as this is
+persistence: in terms of manufacturing output per capita, the most industrialized regions in 1910 were still,
+by a large margin, Lower Austria and the Czech lands—just as they had been forty years earlier. In absolute
+terms, the per capita output lead of the established manufacturing regions over the others increased, even if
+it had marginally declined in percentage terms. Following New Economic Geography reasoning, regions’
+access to domestic and foreign markets (here: transport and tari -cost weighted GDPs of main trading
+partners) is a central candidate factor accounting for a good deal of inter-regional di erences in
+manufacturing activity. Habsburg regions’ manufacturing output per head over 1870 to 1910 is indeed
+strongly associated with access to the home and European markets. Further, regional di erences in
+human capital endowments (average years of schooling) are strongly associated with regional di erences in
+manufacturing output per head. The critical issue here is the interaction between the two. The evidence
+suggests that those regions that were comparatively well endowed with human capital were in a
+signi cantly better position to exploit their market potential, i.e. to realize bene ts of economies of scale
+and specialization related to market size. The regions in the landlocked and remote east of the empire (e.g.
+Galicia, the Bukovina or Transylvania) were not only disadvantaged in terms of their limited access to
+Habsburg or foreign markets, but also constrained by previous generations’ lack of investment in schooling.
+The southern coastal regions had a large market potential because of their cost advantages of sea
+transportation to growing foreign markets but, in the case of Dalmatia or Croatia–Slavonia, su ered from a
+poorly educated labour force. There was, then, little incentive for manufacturers to locate in these regions
+despite their favourable position in terms of market access. Where the human capital stock was higher, the
+response to the opportunities a orded by better market access was stronger, as demonstrated by the
+region around Trieste (Littoral). Although enrolment rates rose faster in the least developed parts of the
+empire than in the more advanced regions (where levels were, by Habsburg standards, already relatively
+high), it took considerable time before this fed into increases in average years of schooling. Those parts of
+the Habsburg Empire that were characterized by initially high levels of schooling, Alpine Austria and the
+Czech lands, were still well in the lead by 1910. Stark inter-regional di erences in education investment
+prior to the 1870s had a lasting impact on regions’ relative performance in manufacturing up to the First
+World War.
+13 p. 73
+14
+p. 74
+4.3 Industrialization on Hold: Central Europe Between the Wars
+If John Maynard Keynes was correct in arguing that the economic consequences of the peace after the First
+World War were detrimental for Germany, then their impact beyond Germany’s eastern borders can be
+branded catastrophic. Unlike the territory of post-war Poland, Austria, Czechoslovakia and Hungary
+witnessed little, if any, destruction due to war activity. The only exception is the brief con ict between the
+short-lived Bolshevik regime in Hungary and the Petite Entente formed by Czechoslovakia, Yugoslavia, and
+Romania, that ended with the Romanian occupation of most of Hungary in 1920. Still, the post-war
+settlement dislocated the economies of Central Europe. The dissolution of the Habsburg Empire severely
+limited access to markets and resources for industrial rms both within and beyond the pre-1914 borders
+(Teichova, 1985, pp. 223–7).
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Di erent regions of the empire di ered not only in their level of industrialization, but also in what branches
+of manufacturing they had specialized in. Thus the new borders, coupled with the animosity of the new
+nation states towards their neighbours, implied much-reduced market potential for many industries and
+the breakdown of crucial input–output linkages between rms. The milling industry of Budapest, the textile
+and clothing industry in Austria, or machine-tool producers in Bohemia and Moravia not only faced
+di culties in accessing their once most important markets, but also in securing necessary intermediate
+inputs. While recent research has revealed that the negative impact of economic nationalism on market
+integration was already felt before the First World War, it became devastating after 1918 (Schulze and Wolf,
+2011, pp. 652–73). As shown in Table A.4.2 in the appendix, the decline in industrial output across the war
+was comparable to, and in the case of Austria was even greater than, that of GDP—in a period when the rate
+of industrialization was on the rise in rest of the global periphery.
+Between the wars, industrial expansion was very moderate in Central Europe, following a path quite similar
+to that of Germany and most of the advanced Western economies. Following a relatively successful
+stabilization that brought an end to hyperin ation in Austria and Hungary and restored state nances by
+1924, all three countries recovered quickly up until 1929. Industrial production grew by 4.5 per cent annually
+in Austria, and by 8 per cent in Czechoslovakia and Hungary. However, approximately half of this growth
+was lost during the Great Depression, which in both Austria and Czechoslovakia a ected the manufacturing
+sector more strongly than the rest of the economy. In both countries, political forces prolonged the slump.
+While extreme political fractionalization leading to civil war tormented Austria, the government in Prague
+tried policies of import substitution while maintaining the gold standard, which continued to have a
+de ationary e ect until the mid-1930s. Furthermore, the export-oriented nature of Czech industry, and its
+relative success during the 1920s in replacing exports to the former empire with exports to other markets,
+made it more susceptible to international trade shocks (Drabek, 1985, pp. 408, 429–30). Czech industry was
+hit hard by the rising tari s and administrative trade barriers that emerged across Europe during and after
+the Great Depression (Pryor et al., 1971, pp. 35–59; Drabek, 1985, pp. 432–33). As a result, industrial output
+remained well below 1929 levels until 1937.
+p. 75
+Between 1938 and 1943, the expansion of the Nazi war economy gave a large impetus to industrial growth in
+Central Europe, particularly in the territories annexed by Hitler in 1938. In the rst two years after the
+Anschluss, the Austrian economy grew by more than 30 per cent, and industry by more than a half,
+re ecting the priority given to war preparations (Butschek, 1978, p. 65). After the announcement of
+rearmament in 1938, Hungary also experienced a growth spurt driven by industrial expansion. While total
+employment in the economy remained constant until 1943, it climbed from 330,000 to 451,000 in
+manufacturing, leading to a 37 per cent increase in industrial production (Ránki, 1964, p. 225; Berend and
+Ránki, 1960, p. 140). Recent research has revealed the staggering growth of German imports from the region
+after 1939, with particularly large increases from Austria and the annexed Czech lands (Scherner, 2011, pp.
+79–113). Consequently, wartime industrial expansion focused primarily on mining and the primary metal
+industries as well as machinery and armaments.
+In terms of structural development, the region did not witness much action during the inter-war period.
+Industrialization was put on hold; the occupational distribution of the labour force remained almost
+unchanged in all three countries, as reported in Table 4.7. The most important factor holding back
+structural modernization was the fact that agricultural productivity remained very modest, due to the lack
+of technological innovation, the slow spread of chemical fertilizers, and low mechanization. Thus, the
+farming sector had only a limited potential to release labour, which was further aggravated by the pro
+agrarian political radicalization of the 1930s.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+The literature, however, has pointed to several other constraints on industrial expansion. Teichova
+emphasized the shortage of skilled labour, which was a crucial factor limiting manufacturing growth in a
+period when European industry still relied heavily on craft production methods (Teichova, 1988, pp. 21–2).
+Eckstein stressed the decline in capital investment from the pre-1914 period, and more so after 1929, which
+increased the technological lag vis-à-vis advanced Western nations (Eckstein, 1955, p. 220). As shown in
+Figs 4.1 and 4.2 respectively, without su cient investment in new equipment the main drivers of
+technological modernization in the inter-war period, electri cation and motorization, made very little
+progress in Central Europe. This relative backwardness was noticeable in comparison not only with the
+United States, but also with Germany, and it became more pronounced during the 1930s.
+p. 76
+Fig. 4.1. Installed capacity in electrical power generation per head of the population
+Source: Hidvégi and Vonyó (2012).
+Fig. 4.2. Number of residents in the country per registered automobile in 1935
+Source: Data from Hidvégi and Vonyó (2012).
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+In an environment increasingly characterized by resource scarcity and trade protectionism,
+industrialization had several common features across Central Europe: industrial concentration to achieve
+economies of scale, cartelization to secure preferential access to markets and foreign technology, and
+product specialization to exploit market potential in niche areas. Both in Czechoslovakia and Hungary, the
+growth of industrial production was driven by the expansion of large-scale enterprise in primary metals,
+chemicals, and engineering. The three largest metallurgical companies in Czechoslovakia increased their
+share in steel production from 65 per cent in 1921 to 90 per cent by 1936, and owned all the export quotas
+allocated to the country in the International Steel Cartel (Teichova, 1988, pp. 40–1). In Hungary, the leading
+rms in the electro-technical industry and railway engineering managed to increase their global market
+share despite shrinking domestic demand. They achieved this by integrating into German-led international
+cartels and by concentrating on very specialized products, such as lamp and radio parts, or diesel multiple
+units used on small railways in remote regions around the world (Hidvégi and Vonyó, 2012, pp. 61–2). By
+contrast, the more traditional branches of manufacturing, such as the milling industry in Hungary, or the
+sugar industry in Bohemia, faced relative decline. Between 1924 and 1937, the share of metals, chemicals,
+and engineering products in total industrial output in Czechoslovakia increased from 22.6 per cent to 31.7
+per cent (Teichova, 1988, p. 34). The same level of disaggregation is not possible for Hungary, but the
+statistical evidence shows that while the contribution of mining, smelting, handicraft production, and
+construction to national product did not change between 1924 and 1938, the share of manufacturing (which
+did not
+include metallurgy or construction materials) increased from 15.5 per cent to 21.4 per cent (Eckstein, 1955,
+p. 171).
+p. 77
+p. 78
+Despite the overall sluggish industrialization of East Central Europe, the region recorded some examples of
+the implementation of modern productivity-enhancing technologies, though these were exceptions rather
+than the general rule. The best-known case is the Baťa works in Zlín, the leading concern in the
+Czechoslovak shoe-making industry. The introduction of advanced American mass production techniques
+between 1924 and 1927 achieved a dramatic productivity increase that lasted into the early 1930s. Shoe
+production jumped from 8.9 million pairs in 1926 to 15.2 million pairs in 1927, while employment expanded
+by ‘only’ 35 per cent in the same year. Between 1930 and 1933, average weekly output per worker increased
+from 37 to 48 pairs and Czechoslovakia became one of the world’s leading exporters of footwear (Teichova,
+1985, pp. 275–6).
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+4.4 Planned Industrialization in a State-Managed Economy
+If the consequences of the First World War were catastrophic for Central Europe, the impact of the Second
+World War was apocalyptic. Hostilities on the eastern front brought unprecedented destruction. The
+temporary demise of the German economy and the East–West tensions emerging from the post-war
+settlement untied the input–output linkages between the region’s industries. These were still partially the
+legacy of industrial development in the Habsburg Empire before 1914, but even more so the product of Nazi
+economic imperialism. From the mid-1930s, German foreign policy considered the region as its natural
+backwater and increasingly tied its economies to the Third Reich via bilateral trade agreements. The
+economic dependence on Germany increased further during the war, especially for the territories
+temporarily annexed by the Third Reich. By late 1945, in Austria and Hungary, industrial production
+plummeted to levels that had already been surpassed by 1900 (see Tables A4.1 and A4.2 in the appendix).
+However, the most detrimental economic outcome of the war was the immense loss it caused in human
+resources. Besides the innumerable military and civilian casualties, more than a million Jews who had
+resided in the three countries before 1939 perished in the Holocaust. Lastly, one needs to account for the
+expulsion of minority Germans from East and Central Europe after 1945, in accordance with the Potsdam
+Agreement. Of the 16 million who voluntarily ed or were uprooted between 1944 and 1950, 3 million were
+expelled from Czechoslovakia and 210,000 from Hungary. Most of the expellees were deported to post-war
+Germany, many dying in the process, and 370,000 settled in Austria (Reichling, 1989, p. 26).
+15
+While these deportations have featured prominently in the literature on the post-war West German
+economy, their impact has been largely ignored in the economic history of Eastern Europe. The combined
+e ect of wartime casualties, including the permanently wounded and the mentally debilitated, and the
+post-war settlement, was enormous. Austria and Hungary witnessed practically no population growth
+between 1939 and 1950. During the same period the population of Czechoslovakia within its post-1945
+borders declined from 14.7 million to 12.4 million (Maddison, 2006, pp. 416, 474–5). The Sudetenland was
+largely depopulated, and important industrial districts thus lost a vast share of their pre-war labour force.
+Across Central Europe, the war had left behind an ill-balanced demographic structure with a notable
+shortage of able-bodied young and middle-aged men, who traditionally constituted the backbone of the
+industrial workforce. The Holocaust and the expulsion of minority Germans, in particular, together with
+substantial emigration among the bourgeois middle class, bequeathed to the tormented nations of Central
+Europe a plethora of industrial and commercial assets without owners, and without the necessary skills and
+entrepreneurial know-how to operate them.
+p. 79
+16
+To rebuild and re-organize the war-shattered and dislocated economies required state management, which
+already materialized under the national-unity governments during the late 1940s, and under Allied military
+occupation in Austria. Popular land reforms were followed by large-scale nationalization in industry. By
+1948, all large enterprises and most middle-size rms were brought under state control; private property
+only continued to prevail in handicraft production. The state-managed economy operated with xed prices
+and wages, and the centralized allocation of resources, including both material inputs and investment. Even
+in Austria, most assets in heavy industry, public transport, and utilities were publicly owned, and the rest of
+the economy was subjected to tremendous red tape. From the immediate post-war years, governments in all
+three countries pursued autarkic industrialization policies with extensive planning. While central planning
+was never introduced in Austria, she served as the canonical example of a managed mixed economy
+(Berend, 1997, pp. 72–82; Seidel, 2005).
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+In many ways, during the early post-war period Central Europe followed a similar path to that of Latin
+American countries during their irtation with import-substituting industrialization. In Austria, multiple
+exchange rates and targeted industrial subsidies were used to improve the competitiveness of domestic
+manufacturing. Although forced industrialization in socialist command economies applied other tools to
+steer economic development that often re ected military-strategic motives, it also aimed at creating
+industrial self-su ciency and accelerating the process of structural change. However, from the late 1950s,
+industrialization in Central Europe owed much less to the East–West arms race than was the case in the
+Soviet Union. According to data published by the Stockholm International Peace Research Institute (SIPRI),
+military spending in Czechoslovakia and Hungary rarely surpassed 3 per cent of GDP between 1957 and
+1989.17
+In establishing the quantitative record of socialist industrialization we need to treat o cial output data with
+more than a modicum of suspicion. Government statistics were distorted to a large but non-quanti able
+extent. Physical output indicators are considered comparatively trustworthy, but aggregates expressed in
+value terms re ect unrealistic producer prices, incorrect weighting inasmuch as industry was always
+attributed a higher than actual share in net material product, and inappropriate methods employed in the
+computation of index numbers. Thankfully, independent Western research revised o cial gures using
+data on physical output indicators exclusively, and applying Western accounting standards. The most
+substantial work was carried out by the Research Project on National Income in East Central Europe under the
+leadership of Thad P. Alton. A long series of publications report index numbers on GNP by sector of origin of
+product, and industrial value added, for six countries including Czechoslovakia and Hungary. We use these
+data to determine the composition of gross value added and of industrial production using the same
+industry classi cations and compare these results with statistics for Austria and Germany.
+p. 80
+18
+Economic growth in Central Europe after 1945 was industry-driven. From its post-war nadir, industrial
+production recovered to pre-1939 levels by 1950 and grew rapidly for another two decades, signi cantly
+faster than the rest of the economy. In all three countries, industrial value added measured in constant
+prices doubled during the 1950s and tripled between 1950 and 1970 (see Table A4.2 in the appendix). In fact,
+industrialization reached its peak only in the 1960s and 1970s when industry and construction employed
+well over 40 per cent of the labour force. By contrast, the share of agricultural employment declined to less
+than half of its initial level during the post-war golden age. In Czechoslovakia and Hungary, industry
+remained the largest sector of the economy until the late 1980s.
+Table 4.8 demonstrates the impact of forced industrialization in the 1950s and early 1960s in a comparative
+perspective. The share of industrial value added in GDP increased signi cantly faster in Czechoslovakia and
+Hungary than in Austria and Germany (GDR and Federal Republic combined). After 1968, when moderate
+economic reforms relaxed authoritarian controls and introduced greater exibility for enterprise
+management, industrial growth slowed down considerably. However, while the rate of industrialization was
+declining in Germany after the oil shocks, it continued to increase until the mid-1980s in Central Europe.
+East of the Iron Curtain, this was largely the consequence of the slow development of the service sector. In
+Austria, it re ected more the overheating of industrial growth by ever-increasing state subsidies that began
+to rock the federal budget by the 1980s and forced the government to begin privatizing state assets.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Table 4.8. Share of industry* in gross value added in 1975 prices (per cent)
+* Mining, manufacturing and utilities.
+Source: Own calculations based on data from G. Lazarcik (1969), Czirják (1973), Alton et al. (1982), Alton et al. (1991), DIW (Germany), WIFO (Austria), and EU KLEMS (www.euklems.net).
+1955 1965 1975 1985 1995 2005
+Austria 27.3 28.7 29.2 30.0 28.7 31.5
+Czechoslovakia 26.4 35.9 38,6 40.7 34.6 37.1
+Hungary 24.8 32.4 32.4 33.8 35.0 39.6
+Germany 32.5 34.9 35.2 33.4 27.5 27.1
+Post-war data give us a deeper insight into the structural development of the economy and the nature of
+industrialization than what we have been able to establish for earlier periods. Table 4.9 shows that the share
+of heavy industry and of modern manufacturing in gross industrial value added was similar across the
+region, but mining and the production of basic materials remained more important in Czechoslovakia and
+Hungary than in Austria and Germany. Whereas the share of modern manufacturing increased throughout
+the period in Austria and Germany, it stagnated in the two socialist countries from the late 1960s onward.
+This accords with the existing evidence pointing towards a growing technological lag between Western
+nations and centrally planned economies after the golden age. This pattern is commonly attributed to
+ine cient resource allocation and the ideologically driven preference for material production over
+services. Additionally, the austerity policies introduced to combat the budgetary e ects of rising oil prices
+and the debt crises that emerged in the 1980s (as a consequence of lavish borrowing during the 1970s and
+the worsening terms of trade after 1980) also led to a reduction in investment levels, particularly
+investment in new machinery.
+p. 81
+19
+20
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Table 4.9. The composition of gross industrial value added* in current prices (per cent)
+* Mining and manufacturing
+Note: Heavy industry includes mining, construction materials, chemicals, primary metals, and engineering products. Modern manufacturing includes only chemicals, primary metals, and engineering products.
+Source: Own calculations based on data from Staller (1975), Czirják (1968), Alton et al. (1991), DIW (Germany), WIFO (Austria), and EU KLEMS (www.euklems.net).
+1955 1965 1975 1985 1995 2005
+Heavy industry
+Austria 27.3 28.7 29.2 30.0 28.7 31.5
+Czechoslovakia 26.4 35.9 38.6 40.7 34.6 37.1
+Hungary 24.8 32.4 32.4 33.8 35.0 39.6
+Germany 32.5 34.9 35.2 33.4 27.5 27.1
+Modern manufacturing
+Austria 48.3 52.6 54.5 61.2
+Czechoslovakia 56.3 58.4 57.4 63.8 53.4 62.4
+Hungary 47.5 53.8 52.4 57.5 55.0 72.2
+Germany 52.8 59.3 64.3 68.8 68.4 75.4
+In terms of growth, Central European economies performed similarly to other peripheral regions in Europe,
+with some notable exceptions. As in Southern Europe and as in other countries within the Soviet bloc, the
+growth of industrial production slowed considerably from the 1970s and was disrupted by a temporary
+slump in the early 1980s. From the 1960s onwards, Central Europe was lagging behind Southern Europe in
+terms of average growth rates, and from the mid-1970s Austria was also pulling away from Hungary and
+Czechoslovakia. During the golden age, average rates of industrial expansion were also lower than in
+Southeast Europe, which provides evidence for convergence within the Soviet bloc. After 1980, however, this
+process of convergence broke down: typically the most advanced socialist economies performed best, in
+terms of both aggregate growth and industrial development.
+p. 82
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+In Russia (not the whole Soviet Union), the increased price of hydrocarbons created new opportunities for
+growth in heavy industry, not least thanks to investment in natural gas exploration and in new
+transcontinental pipelines. In Czechoslovakia and Hungary, growth could be maintained because the
+relatively more advanced economic structure of both countries made them more resistant to (although by
+no means una ected by) the exogenous shocks of the early 1980s. Given that modern branches of
+manufacturing, such as electrical engineering, and services accounted for a relatively larger share of their
+GDP, they were hit less severely by the oil shocks than the less developed socialist economies.
+Czechoslovakia and Hungary were also much less a ected by the debt crises of the 1980s than Poland or
+Southeast Europe. Since, unlike virtually every other socialist country, Czechoslovakia did not borrow
+extensively during the 1970s, it did not need to tighten the belt after borrowing costs rocketed following the
+second oil shock. Hungary would have had to, but joined the IMF in 1982 (in a secret operation without the
+prior knowledge of the Soviet leadership), which improved her position as a debtor. By contrast, Poland
+and Romania su ered prolonged depressions under severe austerity imposed by the repressive
+governments of General Jaruzelski and Nicolae Ceaușescu respectively; and, even if to a lesser extent,
+austerity also had harsh economic consequences in Bulgaria and Yugoslavia.
+21
+22
+4.5 The Legacy of Industrialization: Central Europe A er 1990
+The collapse of the Soviet bloc and the socialist economic system caused a major depression in Eastern
+Europe, a ecting both Czechoslovakia and Hungary. Between 1987 and 1992, industrial production declined
+by 37 per cent and 28 per cent in the two countries respectively. In Czechoslovakia, the reduction in value
+added was more than twice as large in mining and manufacturing as in the entire economy. Austrian
+industry initially received a boost from the opening of Eastern markets and German reuni cation, in
+particular, but this boom was short lived and turned into recession in 1991. From the mid-1990s, Central
+Europe enjoyed strong growth that, not unlike in earlier periods, was propelled by industrial expansion (see
+Table A4.2 in the appendix).
+p. 83
+Transition to a market economy delivered rst a killer blow to and then a blessing on Central European
+industry. The liberalization of markets, the removal of import restrictions, and the introduction of hard
+budget constraints nally exposed the ine ciency of state industries, leading to a sharp fall in output and
+employment. In subsequent years, however, privatization and a massive in ow of foreign direct investment
+(FDI) led to technological modernization and the rationalization of production. Industry-level data reported
+by the EU KLEMS project shows that productivity growth since 1995 has stemmed largely from modern
+manufacturing, the strongly export-oriented engineering industries in particular, where most FDI has been
+concentrated. Since the launching of the euro, comparative advantage in manufacturing has shifted from
+Southern to Central Europe. The growth impact of FDI was most noticeable in the automobile industry and
+electrical engineering, in which the Czech and Slovak Republics as well as Hungary emerged as major
+exporters within just a few years.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+The quantitative evidence on structural change also reveals the relative importance of manufacturing in the
+growth of Central European economies. Albeit declining since the late 1980s, the share of industry in the
+labour force has remained considerably higher in the former Czechoslovakia and Hungary than in Austria
+(see Table 4.7). As shown in Table 4.8, industry’s share in gross value added even increased in Hungary,
+where privatization and the liberalization of capital markets was completed much faster than in the Czech
+and Slovak Republics. The latter pursued more gradual reform programmes, and thus did not attract as
+much manufacturing FDI before the late 1990s. In recent years, Central Europe has experienced a period of
+re-industrialization and, in fact, has become proportionally more industrialized than Germany. Table 4.9
+also reveals the impact of shifting comparative advantages on the structure of industrial production. The
+share of heavy industry and, to a lesser extent, of modern manufacturing in gross industrial value added
+declined sharply following the fall of Communism. By 2005, these shares had recovered, or even surpassed,
+their highest previous levels; nevertheless the share of modern manufacturing in Central Europe has
+continued to lag behind Germany.
+Although transition to a market economy radically improved the development prospects of manufacturing
+in both Hungary and the former Czechoslovakia, the countries are still tormented by various legacies of
+socialism. The weakness of domestic small and medium-sized enterprises remains the main problem for
+industrial policy. Whereas FDI helped modernize, restructure, and often reposition large rms, small
+companies have had limited access to credit to nance investment in new equipment, and lack both the
+technical and industry-speci c entrepreneurial know-how necessary to face up to the challenges of a newly
+globalized market environment. The legacy of state management has also been manifest in the typical
+responses of governments to this key problem. Tax concessions and direct subsidies to small enterprises,
+alongside strategic agreements with foreign multinationals o ering indirect subsidies in exchange for self
+imposed limitations on the share of imported inputs, did not reduce the technological backwardness and
+lack of know-how that still limit the growth potential of domestic rms.
+p. 84
+Nevertheless, Central European economies weathered the storms of the transition shock more successfully
+than most other post-socialist countries, particularly the former Soviet and Yugoslav Republics. This can be
+explained by the con uence of several factors. Both their geographical vicinity to core European markets,
+particularly Germany, and their relatively rich endowments of skilled labour, but also their strong
+commitments to market reforms from the early 1990s, made Central European countries initially more
+attractive to Western investors than East and Southeast Europe. Czechoslovakia and Hungary, together with
+Poland, had already been way ahead of most other socialist countries in terms of economic reforms during
+the 1970s and 1980s. However, the comparatively much larger negative impact that the disintegration of the
+Soviet Union and the violent break-up of the former Yugoslavia had on Eastern and Southeast Europe
+during the early 1990s cannot be overlooked.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+The quantitative evidence presented in this chapter allows us to derive several conclusions about the history
+of industrialization in Central Europe. First, the region stepped into the industrial age before most of the
+global periphery, but has not been able to narrow the developmental gap vis-à-vis the West European core.
+Second, economic growth in the region has been and still is industry-driven: periods of strong growth were
+marked by even faster industrial expansion, whereas the major calamities of the twentieth century, the
+world wars and the collapse of state socialism, dislocated industry more than other sectors of economic
+activity. Economic development in Central European countries during the last one hundred years has been
+shaped by these major calamities, and their response was always strongly linked to industrialization and
+industrial modernization. Third, growth in the contribution of industry to gross value added was strongly
+correlated with a rising share of heavy industry, and especially modern manufacturing, in industrial
+production. Finally, industrialization has always been characterized by more direct state involvement in
+Central Europe than in the most advanced Western economies. In this respect, Gerschenkron was right:
+under relative backwardness the state had to substitute for the lacking prerequisites. However,
+interventionist policies did not help Central European nations exploit the advantages of their relative
+backwardness. Falling behind the European core, not catching-up, was the experience during periods of
+strong state management.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Appendix
+p. 85
+Table A.4.1. Indices of gross value added (constant 1913 prices, 1913 = 100)
+Imperial Austria Imperial Hungary
+Manufacturing Industry Secondary sector
+GDP Manufacturing Industry Secondary sector
+GDP
+1870 35.4 33.9 36.9 45.8 19.0 19.1 20.3 41.4
+1871 41.1 39.2 42.8 48.7 20.6 20.8 23.1 40.5
+1872 40.4 38.6 41.9 48.4 19.4 19.8 22.4 40.1
+1873 36.4 35.0 37.5 46.4 19.6 19.9 21.3 39.7
+1874 36.9 35.6 37.5 48.2 20.1 20.1 20.2 39.3
+1875 37.5 36.2 39.0 48.7 18.3 18.5 17.9 39.7
+1876 37.4 36.0 38.6 48.8 17.5 18.0 17.4 38.4
+1877 38.2 36.9 39.4 50.2 19.5 19.8 19.2 42.5
+1878 38.4 37.1 38.6 51.3 24.7 24.5 23.3 43.3
+1879 38.8 37.6 39.4 49.7 22.9 22.8 21.9 43.5
+1880 37.8 36.8 38.6 49.9 22.3 22.6 23.2 45.8
+1881 42.2 41.0 42.8 52.4 26.9 26.7 28.0 49.8
+1882 44.0 42.7 44.6 53.0 33.0 32.3 34.7 55.8
+1883 45.7 44.5 46.2 54.1 37.2 36.3 41.1 54.9
+1884 46.7 45.4 48.7 56.0 37.3 36.5 41.5 56.6
+1885 43.2 42.3 44.0 54.7 37.7 36.8 41.2 56.9
+1886 43.3 42.4 44.6 55.3 36.2 35.4 40.8 55.5
+1887 47.5 46.4 49.0 58.0 37.0 36.2 39.9 58.1
+1888 46.6 45.9 48.9 58.0 41.8 40.7 44.9 60.1
+1889 48.2 47.5 49.7 58.0 39.1 38.5 43.5 56.8
+1890 51.0 50.3 51.8 60.3 41.2 40.4 43.1 59.9
+1891 53.1 52.3 54.2 61.4 47.1 45.9 48.5 62.6
+1892 54.1 53.1 54.3 62.9 47.6 46.5 47.2 61.6
+1893 56.9 56.0 57.7 63.3 56.4 54.6 57.6 66.4
+1894 59.6 58.6 60.2 66.6 56.9 55.4 59.2 64.7
+1895 61.8 60.7 61.9 67.5 59.8 58.3 63.6 71.6
+1896 62.1 61.1 63.1 68.2 60.9 59.7 64.6 71.1
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Source: Schulze (2000), with minor corrections.
+1897 64.6 63.7 66.1 69.4 57.2 56.6 62.3 65.9
+1898 68.3 67.3 70.1 73.4 57.5 57.2 60.8 70.8
+1899 69.3 68.4 70.9 75.0 62.0 61.4 65.2 73.9
+1900 69.4 68.5 70.8 74.6 61.8 61.5 65.0 75.0
+1901 70.4 69.7 71.7 76.4 56.4 56.6 58.2 72.7
+1902 74.0 73.0 75.1 78.4 60.8 60.4 62.0 77.1
+1903 74.6 73.7 75.7 78.8 64.2 63.6 64.8 80.7
+1904 76.7 76.0 77.6 80.1 62.8 62.6 64.2 70.8
+1905 79.3 78.5 79.9 84.4 67.1 67.0 68.7 80.2
+1906 85.4 84.5 86.6 88.5 76.7 76.0 77.3 89.1
+1907 92.0 91.4 91.7 91.7 78.6 77.9 80.2 84.7
+1908 94.5 94.3 94.7 93.9 79.7 79.4 82.0 86.2
+1909 95.4 95.4 96.2 95.1 84.6 84.3 86.6 89.4
+1910 94.4 94.3 95.2 94.8 89.3 89.0 90.3 95.3
+1911 99.5 98.9 98.8 96.6 95.9 95.4 94.8 94.2
+1912 106.1 105.3 105.1 101.5 105.3 104.0 105.0 100.7
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Table A.4.2. Indices of gross value added (constant prices, 1950 = 100)
+Hungary Austria Czechoslovakia
+Industry GDP Industry GDP Industry GDP
+1913 37.1 71.0 84.3 91.2 48.7 64.0
+1920 30.0 58.7 49.4 60.6 42.5 57.9
+1921 30.0 54.4 67.1 45.5 62.5
+1922 60.0 73.1 43.1 60.9
+1923 59.9 72.4 47.5 65.9
+1924 35.2 68.0 68.6 80.7 60.3 72.8
+1925 38.5 73.1 75.3 86.2 69.3 81.3
+1926 42.2 78.3 77.0 87.7 68.6 81.0
+1927 47.2 81.7 78.6 90.3 76.5 87.1
+1928 51.2 88.9 83.8 94.5 84.8 94.8
+1929 51.2 91.8 85.6 95.9 90.3 97.4
+1930 48.3 89.8 79.9 93.2 86.2 94.2
+1931 44.5 85.4 71.9 85.8 80.1 91.0
+1932 41.2 83.2 63.8 76.9 67.7 87.4
+1933 43.5 90.7 60.7 74.4 64.0 83.6
+1934 49.5 91.3 62.5 75.0 64.9 80.4
+1935 56.8 95.9 64.7 76.5 66.9 79.7
+1936 64.6 102.3 65.7 78.7 73.6 86.2
+1937 67.0 100.0 70.2 82.9 84.3 95.9
+1938 70.5 105.2 82.8 93.5
+1939 80.3 113.1 107.6 106.0
+1946 32.3 67.2 47.2 53.3
+1947 49.3 69.5 54.3 58.8
+1948 66.3 87.0 72.4 74.8 88.3 87.9
+1949 78.1 94.0 86.6 89.0 91.9 92.7
+1950 100.0 100.0 100.0 100.0 100.0 100.0
+1951 113.1 109.7 114.5 106.8 102.8 101.8
+1952 129.9 113.4 115.2 106.9 104.3 105.2
+1953 136.9 115.4 117.2 111.6 105.2 104.8
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+1954 141.8 119.5 133.8 123.0 109.3 109.1
+1955 152.4 130.3 161.4 136.6 122.7 118.4
+1956 139.3 124.4 174.7 146.0 133.3 125.4
+1957 154.6 134.7 183.7 154.9 146.8 133.1
+1958 170.3 143.7 187.0 160.6 162.9 143.2
+1959 183.2 149.5 195.8 165.1 175.7 149.5
+1960 198.9 157.3 216.8 178.7 191.6 160.8
+1961 216.8 165.3 227.3 188.2 203.9 167.2
+1962 232.0 172.2 232.8 192.8 213.3 169.5
+1963 243.1 181.6 241.7 200.6 212.3 166.3
+1964 261.1 191.8 260.5 212.7 217.3 174.1
+1965 275.9 193.3 271.2 218.8 230.7 180.5
+1966 295.6 204.3 284.3 231.1 234.1 188.3
+1967 305.3 216.1 287.5 238.1 249.1 196.4
+1968 311.3 218.7 305.7 248.7 253.3 205.5
+1969 314.5 225.2 342.1 264.4 257.7 209.3
+1970 327.7 224.4 371.7 283.2 283.0 213.5
+1971 333.0 234.4 394.7 297.7 290.4 220.8
+1972 337.2 239.5 420.6 316.1 303.3 228.6
+1973 351.0 251.9 443.5 331.6 315.1 236.2
+1974 359.2 258.5 462.2 344.7 326.6 244.8
+1975 372.9 264.0 436.1 343.4 342.2 252.0
+1976 385.2 264.8 460.2 359.1 356.6 256.1
+1977 403.1 281.4 481.0 375.9 369.3 267.6
+1978 417.6 288.2 484.0 374.6 378.2 270.9
+1979 421.7 288.8 511.4 395.0 384.0 273.2
+1980 416.1 291.7 528.0 404.1 393.6 280.8
+1981 422.4 293.8 509.5 403.7 401.1 279.4
+1982 427.7 304.3 510.7 411.4 406.2 284.8
+1983 431.8 301.2 530.3 423.0 413.8 289.1
+1984 444.1 309.1 533.4 424.4 419.6 295.9
+1985 444.4 301.5 560.6 433.9 427.5 298.2
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Sources: GDP from Maddison (2006), industrial value added from: WIFO [Austria]; Eckstein (1955), p. 171, Czirják (1973), and Alton et al. (1982) [Hungary]; Pryor et al. (1971), Lazarcik (1969), and Alton et al. (1982) [Czechoslovakia]; a er 1975, from Alton et al. (1991) and EU KLEMS (www.euklems.net).
+1986 454.5 307.5 579.5 444.1 432.9 303.7
+1987 460.9 312.3 575.2 451.5 439.8 305.2
+1988 457.5 317.0 595.4 465.8 445.2 312.0
+1989 442.6 309.9 619.3 485.5 445.2 314.6
+1990 424.4 289.3 655.4 507.6 429.9 305.7
+1991 377.7 254.9 668.3 524.6 362.6 267.3
+1992 344.9 247.0 665.9 534.5 343.8 261.3
+1993 356.2 245.6 654.5 536.5 306.4 262.8
+1994 380.2 252.9 668.3 548.4 314.7 271.7
+1995 410.2 256.6 694.7 563.7 350.1 287.7
+1996 424.2 257.0 708.7 577.6 380.4 302.9
+1997 466.4 265.1 734.7 590.9 365.7 305.2
+1998 496.6 275.9 765.0 613.3 346.7 308.9
+1999 516.6 284.7 806.2 635.0 369.3 312.4
+2000 556.2 296.7 855.5 658.3 386.1 322.7
+2001 557.9 307.7 882.6 664.0 391.1 333.1
+2002 570.7 321.6 893.7 675.2 405.0 342.8
+2003 607.9 334.0 900.6 681.1 419.8 356.8
+2004 629.7 350.0 926.0 698.7 474.2 374.1
+2005 657.2 363.9 949.6 715.5 520.6 399.2
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Table A.4.3. Branch shares in total manufacturing gross value added (per cent)
+Note: Gross value added in constant 1913 prices.
+Source: Schulze (2000), with minor corrections.
+Food and beverages Textiles and clothes Iron and steel Metal- working Engineering Brick, clay, glass Petrochemicals
+1870
+Imperial Austria 29.2 31.6 2.0 2.8 2.9 14.2
+Imperial Hungary 56.8 0.6 2.9 1.7 2.6 10.7
+1890
+Imperial Austria 31.1 30.4 3.0 3.4 4.4 9.9 0.5
+Imperial Hungary 46.8 3.6 5.9 3.2 5.3 10.5
+1913
+Imperial Austria 25.0 22.0 5.5 8.6 11.1 7.4 3.0
+Imperial Hungary 34.4 7.5 8.0 7.0 11.1 6.8 1.4
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+p. 86 p. 88
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+References
+Abramovitz, M. (1986). Catching up, forging ahead and falling behind. Journal of Economic History 46, 385–406. Google Scholar WorldCat
+Alton, T. P., Badach, K., Bakondi, K., Bass, E. M., Brumaru, A., Bombelles, J. T., Lazarcik, G. and Staller, G. J. (1991). Economic growth in Eastern Europe, 1975–1990. Occasional Papers of the Research Project on National Income in East Central Europe No. 115. New York: L. W. International Financial Research, Inc. Google Scholar Google Preview WorldCat COPAC
+Alton, T. P., Bass, E. M., Lazarcik, G. and Staller, G. J. (1982). Economic growth in Eastern Europe, 1965, 1970, and 1975–1981. Occasional Papers of the Research Project on National Income in East Central Europe No. 70. New York: L. W. International Financial Research, Inc. Google Scholar Google Preview WorldCat COPAC
+Berend, I. T. (1997). Central and Eastern Europe 1944–1993: Detour from the Periphery to the Periphery. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Berend, I. T. and Ránki, G. (1960). The Development of the Manufacturing Industry in Hungary, 1900–1944. Budapest: Akadémiai Kiadó. Google Scholar Google Preview WorldCat COPAC
+Bolognese-Leuchtenmüller, B. (1978). Bevölkerungsentwicklung und Berufsstruktur, Gesundheits- und Fürsorgewesen in Österreich, 1750–1918. Munich: Oldenburg.
+Google Scholar Google Preview WorldCat COPAC
+Broadberry, S. N. and Klein, A. (2011). When and why did eastern European economies begin to fail: lessons from a Czechoslovak/UK productivity comparison, 1921–1991. Explorations in Economic History 48, 37–52. Google Scholar WorldCat
+Butschek, F. (1978). The Österreichische Wirtscha 1938 bis 1945. Stuttgart: Gustav Fischer. Google Scholar Google Preview WorldCat COPAC
+Butschek, F. (2011). Österreichische Wirtscha sgeschichte: von der Antike bis zur Gegenwart. 2nd Rev. Ed. Vienna: Böhlau. Google Scholar Google Preview WorldCat COPAC
+Czirják, L. (1968). Indexes of Hungarian industrial production, 1938 and 1945–65. Occasional Papers of the Research Project on National Income in East Central Europe No. 16. New York: Columbia University. Google Scholar Google Preview WorldCat COPAC
+Czirják, L. (1973). Hungarian GNP by sectors of origin of product and end uses, 1938 and 1946–1967. Occasional Papers of the Research Project on National Income in East Central Europe No. 43. New York: Riverside Research Institute. Google Scholar Google Preview WorldCat COPAC
+Drabek, Z. (1985). Foreign trade performance and policy. In The Economic History of Eastern Europe 1919–1975, Vol. I (Eds, Kaser, M. C. and Radice, E. A.). Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Eckstein, A. (1955). National income and capital formation in Hungary, 1900–1950. In Income and Wealth, Series V. (Ed., Kuznets, S.). London: Bowes & Bowes. Google Scholar Google Preview WorldCat COPAC
+Eddie, S. (1989). Economic policy and economic development in Austria-Hungary, 1867–1913. In The Cambridge Economic
+p. 89
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+History of Europe, Vol. 8 (Eds, Mathias, P. and Pollard, S.). Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Freudenberger, H. (2003). Lost Momentum: Austrian Economic Development 1750s–1830s. Vienna: Böhlau. Google Scholar Google Preview WorldCat COPAC
+Gerschenkron, A. (1962). Economic Backwardness in Historical Perspective: A Book of Essays. Boston, MA: Harvard University Press. Google Scholar Google Preview WorldCat COPAC
+Gerschenkron, A. (1977). An Economic Spurt that Failed: Four Lectures in Austrian History. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Good, D. F. (1984). The Economic Rise of the Habsburg Empire, 1750–1914. Berkeley, CA: University of California Press. Google Scholar Google Preview WorldCat COPAC
+Grenzebach, W. S. (1988). Germanyʼs Informal Empire in East Central Europe: German Economic Policy toward Yugoslavia and Rumania, 1933–1939. Stuttgart: Steiner. Google Scholar Google Preview WorldCat COPAC
+Hidvégi, M. and Vonyó, T. (2012). Nationalism and falling behind: the failure of national industrialization. Korunk 23, 56–65 [in Hungarian]. Google Scholar WorldCat
+Hirschman, A. O. (1945). National Power and the Structure of Foreign Trade. Berkeley, CA: California University Press. Google Scholar Google Preview WorldCat COPAC
+Ho mann, W. G. (1965). Das Wachstum der deutschen Wirtscha seit Mitte des 19. Jahrhunderts. Berlin: Springer Verlag. Google Scholar Google Preview WorldCat COPAC
+International Labour O ice (1986). Economically Active Population Estimates and Projections 1950–2025, di . vols. Geneva: ILO.
+Kalecki, M. (1993). Socialism: Economic Growth and E iciency of Investment. Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Katus, L. (1970). Economic growth in Hungary during the age of dualism (1867–1913): a quantitative analysis. In Sozialökonomische Forschungen zur Geschichte von Ost-Mitteleuropa (Ed., E. Pamlényi). Budapest: Akadémiai Kiadó. Google Scholar Google Preview WorldCat COPAC
+Kausel, A. (1979). Österreichs Volkseinkommen 1830 bis 1913. In Geschichte und Ergebnisse der zentralen amtlichen Statistik in Österreich, 1829–1979 (Ed., Österreichisches Statistisches Zentralamt). Vienna: Österreichisches Statistisches Zentralamt, 689720. Google Scholar Google Preview WorldCat COPAC
+Komlos, J. (1983). The Habsburg Monarchy as a Customs Union: Economic Development in Austria-Hungary in the Nineteenth Century. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Komlos, J. (1989). Stature, Nutrition, and Economic Development in the Eighteenth Century Habsburg Monarchy: The ʻAustrianʼ Model of the Industrial Revolution. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Lazarcik, G. (1969). Czechoslovak gross national product by sector of origin and by final use, 1937 and 1948–1965. Occasional Papers of the Research Project on National Income in East Central Europe No. 26. New York: Columbia University.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Google Scholar Google Preview WorldCat COPAC
+Maddison, A. (2006). The World Economy, Vol. II: Historical Statistics. Paris: OECD.
+MSE: Magyar Kir. Központi Statisztikai Hivatal, Magyar Statisztikai Évkönyv, 1872–1915. Budapest. Google Scholar Google Preview WorldCat COPAC
+Pollard, S. (1986). Peaceful Conquest. Reprint. Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Ponomarenko, A. N. (2002). Retrospective Russian National Accounts: 1961–1990. Moscow: Finansy i statistika [in Russian]. Google Scholar Google Preview WorldCat COPAC
+Pryor, F., Pryor, Z., Stadnik, M., and Staller, G. (1971). Czechoslovak aggregate production in the inter-war period. Review of Income and Wealth 17, 35–59. Google Scholar WorldCat
+Ránki, G. (1964). Problems of the development of Hungarian industry, 1900–1944. Journal of Economic History 24, 204–28. Google Scholar WorldCat
+Ránki, G. (1983). Economy and Foreign Policy: The Struggle of the Great Powers for Hegemony in the Danube Valley, 1919–1939. New York: Columbia University Press. Google Scholar Google Preview WorldCat COPAC
+Reichling, G. (1989). Die deutschen Vertriebenen in Zahlen, Vol. I: Umsiedler, Verschleppte, Vertriebene, Aussiedler 1940–1985. Bonn: Kultursti ung der deutschen Vertriebenen.
+Scherner, J. (2011). Der deutsche Importboom während des Zweiten Weltkriegs: Neue Ergebnisse zur Struktur der Ausbeutung des besetzten Europas auf der Grundlage einer Neuschätzung der deutschen Handelsbilanz. Historische Zeitschri 294, 79–113. Google Scholar WorldCat
+Schulze, M. S. (1996). Engineering and Economic Growth: The Development of Austria-Hungaryʼs Machine-Building Industry in the Late Nineteenth Century. Frankfurt and New York: Peter Lang. Google Scholar Google Preview WorldCat COPAC
+Schulze, M. S. (1997). The machine-building industry and Austriaʼs Great Depression a er 1873. Economic History Review 50, 282304. Google Scholar WorldCat
+Schulze, M. S. (2000). Patterns of growth and stagnation in the late nineteenth century Habsburg economy. European Review of Economic History 4, 311–40. Google Scholar WorldCat
+Schulze, M. S. (2007a). Origins of catch-up failure: comparative productivity growth in the Habsburg Empire, 1870–1910. European Review of Economic History 11, 189–218. Google Scholar WorldCat
+Schulze, M. S. (2007b). Regional income dispersion and market potential in the late nineteenth century Habsburg Empire. LSE Working Papers in Economic History No. 106. WorldCat
+Schulze, M. S. and Fernandes, F. T. (2009). Human capital formation in Austria-Hungary and Germany: time series estimates of educational attainment, 1860–1910. In A felhalmozás Míve. Történeti Tanulmányok Kövér György Tiszteletére (Eds, Halmos, K., et al.). Századvég Kiadó: Budapest, 275–89. Google Scholar Google Preview WorldCat COPAC
+p. 90
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+Notes
+Schulze, M. S. and Wolf, N. (2011). Economic nationalism and economic integration: the Austro-Hungarian Empire in the late nineteenth century. Economic History Review 65, 652–73. Google Scholar WorldCat
+Seidel, H. (2005). Österreichs Wirtscha und Wirtscha spolitik nach dem Zweiten Weltkrieg. Vienna: Manzʼsche Verlags- und Universitätsbuchhandlung. Google Scholar Google Preview WorldCat COPAC
+Shute, J. (1948). Czechoslovakiaʼs territorial and population changes. Economic Geography 24, 35–44. Google Scholar WorldCat
+Somary, F. (1902). Die Aktiengesellscha en in Österreich. Vienna: Manz. Google Scholar Google Preview WorldCat COPAC
+Staller, G. J. (1975). Czechoslovak industrial production, 1948–1972. Occasional Papers of the Research Project on National Income in East Central Europe No. 45. New York: L. W. International Financial Research. Google Scholar Google Preview WorldCat COPAC
+Stockholm International Peace Research Institute (SIPRI). Yearbook of World Armaments, Disarmament and International Security. Di . volumes, 1968/69 onwards. London: Taylor & Francis. Google Scholar Google Preview WorldCat COPAC
+Teichova, A. (1985). Industry. In The Economic History of Eastern Europe 1919–1975, Vol. I (Eds, Kaser, M. C. and Radice, E. A.). Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Teichova, A. (1988). The Czechoslovak Economy 1918–1980. London: Routledge. Google Scholar Google Preview WorldCat COPAC
+We use the labels Imperial Austria (or Cisleithania) and Imperial Hungary (or Transleithania) to distinguish the two main constituent parts of the Habsburg state a er the 1867 constitutional compromise from the far smaller, post-1918 successor states of Austria and Hungary in their new borders. Following Good (1984, pp. 15–17), the labels Alpine Austria (including the regions of Lower Austria, Upper Austria, Styria, Salzburg, Carinthia, Tyrol, and Vorarlberg) and Czech lands (Bohemia, Moravia, Silesia) are frequently used to identify the western and northwestern parts of the Habsburg Empire that were the most industrialized. Despite post-1918 border changes, these latter groupings correspond broadly with modern-day Austria and the Czech Republic.
+1
+Building on the estimates in Schulze (2000), Imperial Austriaʼs GDP was extrapolated backward from its 1870 level, drawing on rates of change in agriculture and services from Kausel (1979) and in industry from Komlos (1983). Likewise for modern Austria, with the exception of industry, which is projected backward using Kauselʼs rates of change.
+2
+By the eighteenth century, Bohemia and Moravia had become centres of the textiles (linen, woollen) and glass industries, while an internationally significant mining and metallurgy sector was located in Styria, Upper Austria, and Carinthia. In the 1760s, for instance, Styria alone produced as much pig iron as England (Good, 1984, pp. 20–1). The production of textiles in the Alpine lands was in the main located in and around Vienna, Upper Austria, and Vorarlberg.
+3
+By 1880 (1910), the proportion of the population resident in towns with more than 10,000 inhabitants had reached 47 (61) per cent in Lower Austria (including Vienna) and 10 (19) per cent in Bohemia (including Prague) compared to an average of 8 (14) per cent for the rest of Cisleithania; for the broader regions of Alpine Austria and the Czech lands, the figures are 23 (34) and (10) 18 per cent, respectively. From the 1860s, Budapest became the major centre of Hungarian manufacturing. Here, too, a high initial degree of urbanization is observable: in 1870, the capital city alone accounted for 14 per cent of the Danube–Tisza Basin regionʼs population; by 1910, this proportion had increased to 29 per cent (BologneseLeuchtenmüller, 1978, Table 14, pp. 40–1; MSE, 1895, 1913).
+4
+5 New approximations of regional average years of schooling were derived using regional enrolment data and the
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+coe icients from a regression of aggregate average years of schooling in Imperial Austria and Imperial Hungary on aggregate lagged enrolment; see Schulze and Fernandes (2009) for underlying data, methods, and sources. 6 See Schulze (1996) on the development of Hungaryʼs machine-building industry. According to Komlosʼ (1983, Table E.4) index, Austrian manufacturing grew by 8.7 per cent per annum during 1867–71 and 1.8 per cent during 1871–84. Whilst also showing a peak in 1871, the more comprehensive index documented in Table A.4.1 in the appendix increases by less than 1 per cent over the period.
+7
+8 Cf. Schulze (2007a) on comparative sectoral productivity growth. The category of non-engineering ʻmetal-workingʼ industries, ranging from the production of nails and screws to metal furniture, has been excluded.
+9
+Note that Ho mannʼs (1965) figures refer to Germany in its pre-First World War rather than its post-1990 boundaries. In 1910, manufacturing (including cra s as for the Habsburg Empire) accounted for 29.1 per cent, mining for 2.8 per cent, utilities for 0.3 per cent, and construction for 5.2 per cent of the total labour force.
+10
+This assessment is grounded in new estimates for the successor states. They are based on the regional data underlying the reconstructed labour force estimates for Imperial Austria and Imperial Hungary and border adjustments; for sources and methods, see Appendix A in Schulze (2007a). For modern Austria and Czechoslovakia, the share of the labour force in manufacturing moves from c.22 per cent in 1870 to about 28 per cent in 1910; for Hungary, it moves from less than 9 to almost 15 per cent. Note that the 1910 figures deviate slightly from those presented in Table 4.7; this is mainly due to corrections in the estimated agricultural labour force for 1870–1910.
+Table 4.7. Economically active population by sector (per cent)
+* The entry for 1920 reflects 1923 data; that for 1930 is an estimate based on 1934 figures and sectoral growth rates. Sources: Austria–Butschek (2011, p. 163); Czechoslovakia–Teichova (1988, p. 9); Hungary–Eckstein (1955); for all countries a er 1950: ILO (1986) and FAOSTAT Classic (http://faostatclassic.fao.org/site/550/DesktopDefault.aspx? PageID=550#ancor).
+11
+1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2008
+Hungary
+Agriculture 55.8 58.2 54.2 50.0 51.8 38.1 25.0 18.4 15.3 8.4 4.9
+Industry 19.4 18.1 21.7 23.2 23.6 34.8 44.7 43.9 39.7 36.8 35.5
+Services 24.8 23.7 24.1 26.8 24.6 27.1 30.3 37.7 45.0 54.8 59.6
+Austria*
+Agriculture 39.5 39.9 37.5 39.0 34.3 23.7 14.8 9.9 8.0 6.2 5.7
+Industry 31.0 33.3 34.5 32.4 36.1 46.4 43.0 42.2 38.4 31.7 27.0
+Services 29.5 26.8 28.0 28.6 29.7 29.9 42.2 47.9 53.6 62.1 67.3
+Czechoslovakia
+Agriculture 42.0 39.6 37.5 37.8 25.7 16.9 13.3 12.8 6.3 3.4
+Industry 34.1 33.8 35.7 37.5 46.1 48.3 49.3 45.6 45.0 39.1
+Services 23.9 26.6 26.8 24.7 28.3 34.8 37.4 41.6 48.8 57.5
+12 See Table A.4.3 in the appendix for a more detailed breakdown by manufacturing branches. 13 On the underlying Harris-type market potential measures for the Habsburg regions, see Schulze (2007b). 14 See n. 5 above on the construction of regional average years of schooling measures. 15 See Hirschman (1945), Ránki (1983), and Grenzebach (1988) among others. The border region with Germany produced about 55 per cent of Czechoslovak hard coal, 93 per cent of brown coal, 61 per cent of textiles, 38 per cent of chemicals, 45 per cent of stone and clay products, and 30 per cent of engineering products. See Shute (1948, pp. 35–44).
+16
+17 SIPRI, Yearbook, di . vols.
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024
+
+
+This is an open access publication, available online and distributed under the terms of a Creative Commons Attribution-Non
+Commercial-No Derivatives 4.0 International licence (CC BY-NC-ND 4.0), a copy of which is available at
+https://creativecommons.org/licenses/by-nc-nd/4.0/. Subject to this license, all rights are reserved.
+Net Material Product was the national accounting concept used by CMEA countries. It is conceptually similar to GDP, but excludes services deemed unproductive, especially housing and the government.
+18
+19 See among others Kalecki (1993), and Broadberry and Klein (2011). 20 The perhaps most elegant exposition of this view is by Kalecki (1993). Hence the faster growth in total GDP in Russia (see Ponomarenko, 2002, p. 151) than in the USSR as a whole (see Maddison, 2006) a er 1980.
+21
+22 For a more detailed narrative, see Berend (1997, pp. 195 .).
+Downloaded from https://academic.oup.com/book/7358/chapter/152139436 by London School of Economics user on 09 November 2024

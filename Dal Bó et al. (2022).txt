@@ -1,0 +1,831 @@
+Dissecting the sinews of power:
+International trade and the rise of Britain’s fiscal-military state, 1689-1823
+Ernesto Dal Bó
+Karolina Hutková
+Lukas Leucht
+Noam Yuchtman*
+May 2024
+Abstract
+We evaluate the role of taxes on overseas trade in the development of imperial Britain’s
+fiscal-military state. Influential work, e.g., Brewer’s Sinews of Power, attributed increased
+fiscal capacity to the taxation of domestic, rather than traded, goods: excise revenues,
+coarsely associated with domestic goods, grew faster than customs revenues. We construct
+new historical revenue series disaggregating excise revenues from traded and domestic
+goods. We find substantial growth in revenue from traded goods, accounting for over half of
+indirect taxation around 1800. This challenges the conventional wisdom attributing the
+development of the British state to domestic factors: international factors mattered, too.
+Keywords: Fiscal capacity, international trade, British Empire, taxation
+JEL Classification: N43, N73, H20, P16
+* Dal Bó: UC-Berkeley and NBER. Email: dalbo@haas.berkeley.edu. Hutková: LSE. Email: K.Hutkova@lse.ac.uk. Leucht: UC-Berkeley. Email: Lukas_leucht@berkeley.edu. Yuchtman: LSE, CEPR, and CESifo. Email: n.yuchtman@lse.ac.uk. Niklas Betz, Miguel Ortiz, Davis Kedrosky, and Ekaterina Yudina provided exceptional research assistance. Helpful and much appreciated suggestions, critiques and encouragement were provided by James Fenske, Bishnu Gupta, Julian Hoppit, David Mitch, Patrick O’Brien, Giorgio Riello, Jim Robinson, John Styles, Spike Sweeting, Joachim Voth, Gavin Wright, Nuala Zahedieh, and many seminar and conference participants. Yuchtman acknowledges financial support from the British Academy under the Global Professorships program.
+
+
+1
+1. Introduction
+British expansion from the 17th to the 19th centuries established a global empire and set the
+stage for the emergence of modern economic growth. In those centuries, Britain’s capacity to
+wage and win wars relied on the expansion of the fiscal capacity of its state (O’Brien, 1988).
+Where did Britain get the revenue required to pay for its ships and men, and to repay the
+debts it incurred in fighting its wars? Historical scholarship on the development of the British
+fiscal-military state — most notably Brewer’s (1989) Sinews of Power — has emphasized the
+importance of increased indirect tax revenue, in particular excise revenue. The excise tax has
+been treated by many historians as a tax on goods produced (and consumed) domestically.
+The importance of excise tax revenue suggests a central role for revenue generated from
+domestic economic activity, as opposed to revenue generated from overseas trade passing
+through customs. The emphasis on domestic taxation also suggests a primary role for an
+excise bureaucracy described by Brewer (1989, p. 82) as “a body of men widely regarded as
+the most proficient revenue officers in government.” These officers traveled the British
+counties, in contrast to customs officers concentrated in ports. This account rhymes well with
+a broader literature that considers domestic institutions to be the primary drivers of Britain’s
+development (e.g., North and Weingast, 1989; Acemoglu et al., 2005; Acemoglu and
+Robinson, 2012). This perspective continues to influence the literature on the political
+economy of historical development (e.g., Besley and Persson, 2011; Acemoglu and
+Robinson, 2019; Koyama and Rubin, 2022; Angelucci et al., 2022).
+In this paper, we challenge the conventional wisdom emphasizing domestic forces and
+institutions. Although often overlooked, the excise was a tax on goods produced and
+consumed domestically, and also on goods traded overseas (henceforth, “traded” goods).
+O’Brien (1988) observed that excise revenue included taxes collected on traded goods, but
+incorrectly believed that this began only around 1790.1 In fact, from its inception in the 17th
+century, the excise tax was applied to both domestic and traded goods. Its collection occurred
+not only in the interior of Britain, but also in its ports — especially the port of London.2
+Evaluating the role of traded goods in Britain’s increased tax revenues thus requires richer
+1 O’Brien (1988) writes in the note to his Table 4, “In the late 1780s, Pitt transferred a large part of the responsibility for the assessment and collection of duties on foreign spirits, tea, tobacco and wine from Customs to the Excise department.” The primary sources we reference below, along with the data collected by Hoppit (2017) make clear that these goods were taxed under both customs and excise as far back as the 17th century. 2 Hoppit (2017) presents snapshots of excise revenues collected in London suggesting that taxes on traded goods like tea, tobacco, and foreign spirits made up a significant share of excise tax revenue across the 18th century.
+
+
+2
+data than those that have been used in the literature. In particular, one needs time series that
+are more disaggregated than the coarse categories (e.g., “Customs,” “Excise,” “Stamps,” ...)
+reported in the primary source relied on by the reference work on Britain’s fiscal
+development (i.e., Mitchell, 1988, and Brewer, 1989).3
+We construct such disaggregated data from sources in the National Archives (TNA)
+collection “Records of the Board of Customs, Excise and Customs and Excise, and HM
+Revenue and Customs”(these are referenced under CUST 145).4 These sources allow us to
+calculate yearly excise revenue raised by commodity.5 Thus, we can decompose the excise
+revenue according to whether the good being taxed is produced and consumed domestically
+(henceforth “domestic”), or instead produced abroad but consumed domestically, or produced
+domestically but consumed abroad (i.e., goods imported or exported or “traded”). We also
+construct new disaggregated customs revenue series that allow us to identify customs taxes
+on traded goods as well as customs taxes on domestically-produced coal. To construct the
+customs revenue series, we relied primarily on the National Archives collection “HM
+Treasury – Accounts and Ledgers” as well as the collection “Board of Customs: Statistics:
+Revenue”.6
+That domestically-produced coal was taxed at customs is further evidence that the distinction
+between customs and excise reflected the management of the tax collection process, not the
+origin of the goods being taxed. This is clear when directly consulting the primary sources.
+These sources, however, present several challenges that perhaps contributed to historians’
+longstanding reliance on secondary, more aggregate sources. The archival sources often
+present revenues at different levels of aggregation, and often have ambiguous labels. For
+example, CUST 145/22 includes a category labeled “Excise,” which is evidently not all of the
+traditional excise (i.e., that reported by Brewer, 1989), because it also lists categories like
+“soap” and “candles” separately, which are part of the traditional excise. The “Excise”
+3 Mitchell’s and Brewer’s historical source was a compilation produced for Parliament in the second half of the 19th century, “Accounts of public income and expenditure 1688-1869,” (PP 1868–9, xxxv), referenced by Brewer as “British Parliamentary Papers, vol. 35 (1868–9). This is also the source relied on by O’Brien (1988), referred to as the “Chisholm Report.” 4 This collection is part of the larger set of documents stored at the British National Archives, “Board of Customs and Excise and predecessors: Excise Duties, Receipts, Payments and Rates.” We rely primarily on CUST 145/8, CUST 145/12, CUST 145/18, CUST 145/20, and CUST 145/22.
+5 In addition to producing and making available our constructed revenue series, we will make publicly available the transcribed primary source data as well as statistical software packages needed to convert these primary source data into final series.
+6 We primarily rely on T 35/55, T 38/357, and CUST 37/50.
+
+
+3
+subcategory in CUST 145/22 is disaggregated in CUST 145/12. Yet, it is clear that CUST
+145/12 alone is insufficient because it leaves out the categories like soap and candles that are
+reported in CUST 145/22. Thus, constructing a comprehensive excise series disaggregated by
+product requires careful cross-referencing of categories across primary sources.
+In some cases, categories may be too broad to allow unambiguous assignment into domestic
+or traded categories (e.g., salt and vinegar). We thus construct estimates of disaggregated
+excise revenue reflecting conservative assumptions regarding the revenue raised from traded
+goods. For example, we compute revenues collected on salt as domestic, though some salt
+was certainly im- ported. Nor do we make an effort to decompose the tax revenue on
+domestically-produced goods with a traded component to their value added. For example,
+taxes on domestically processed textiles are treated as domestic taxation even when the main
+input (e.g., a less processed textile) was produced abroad and represented a significant share
+of the value added.7
+Using our newly constructed data, we re-evaluate the contribution of taxes on overseas trade
+to Britain’s indirect tax revenue.8 Even under our conservative assumptions, these data
+overturn the conventional wisdom regarding the importance of taxes on overseas trade to
+Britain’s fiscal development. The data in Mitchell (1988) and Brewer (1989) suggest that in
+the early 18th century, taxes on traded goods represented a minority — around 40% — of
+total indirect taxes (i.e., taxes on both traded and domestically produced goods). Over the
+18th century and into the early 19th century, total revenues greatly expanded, and Mitchell
+(1988) and Brewer (1989) suggest that the tax share of traded goods fell in this period to
+around 30% of total indirect taxes. In contrast, our series show that the tax share of traded
+goods grew from around 40% of indirect taxation early in the 18th century to more than 50%
+around 1800. During the first quarter of the nineteenth century, traded goods provided a
+majority of the revenue from taxed goods. This share further increases if we account for
+revenues collected from traded goods and then used to subsidize exports and promote other
+7 We leave for future work a more complete accounting of the role of trade in the rise of the British state and the British economy. This would require not only addressing the challenges noted above, but also more precisely estimating spillovers across sectors and the dynamic consequences of trade for the British economy. 8 Our focus on indirect taxation follows Brewer (1989), who writes, “[After 1714,] indirect taxes, most notably the excise, were overwhelmingly the most important source of the state income.” The importance of indirect taxation to British revenues in the 18th century is reflected in Online Appendix Figure B.1 (reporting data from Mitchell, 1988), showing that indirect taxation accounted for 50% or less of total British tax revenue in the late 17th century, while accounting for two-thirds or more of total revenue in the 18th century.
+
+
+4
+national objectives (i.e., revenues spent on “bounties”).9 The increase in revenues from traded
+goods from 1689 to the early 19th century accounts for more than half of the overall increase
+in indirect tax revenues. Tax revenues from overseas trade thus represented a substantial
+component of the fiscal expansion that funded Britain’s imperial dominance.
+Our analysis makes several contributions to the literature on British and global economic his
+tory. Most directly, we contribute new data on British revenues over time that improve upon
+the standard references (Mitchell, 1988; Brewer, 1989). We join Hoppit (2017) in arguing
+against the traditional treatment of the excise as taxation of domestic production and provide
+improved, disaggregated data on both excise revenue and customs revenue from 1689 to
+1823. In so doing, we contribute fundamental new evidence to the literature analyzing
+Britain’s fiscal development in the 17th–19th centuries (e.g., O’Brien, 2011; Murphy, 2013;
+Cox, 2016; Dickson, 2017).
+Our disaggregation of the excise allows us to connect Britain’s rising fiscal capacity in the
+18th and 19th centuries to specific goods traded overseas. We show that the taxation of
+products with inelastic demand — so called “drug foods” (Mintz, 1985) — provided a large
+share of Britain’s rising tax revenue. Trade in many of these products, for example, tea,
+tobacco, coffee, spices, and sugar, was supported by the application of Britain’s coercive
+power — whether directed toward the colonized or toward competing powers. Taxation of
+these “imperial” goods accounted for over 50% of revenues collected from traded goods as of
+1818.10 Thus, we add to a literature that emphasizes the importance of trade and colonies to
+the development of the modern Atlantic economies (e.g., O’Brien, 1982; Pomeranz, 2000;
+Acemoglu et al., 2005; Findlay and O’Rourke, 2007; Palma, 2016; Hersh and Voth, 2022).
+More broadly, by placing international trade at the center of the fiscal changes experienced in
+Britain in the 17th–19th centuries, our descriptive evidence has important implications for
+our understanding of both the domestic and international dimensions of British state
+development. Domestically, our findings suggest an important role for tax collection by a
+traditional bureaucracy based in ports, with particular concentration in London (this
+9 The revenues used for bounties did not reach the Exchequer and so were excluded from the revenue figures in Mitchell (1988) and Brewer (1989). 10 We define a conservative set of imperial goods including tea, tobacco, coffee, other habituation goods (such as pepper and other spices), and sugar. This set accounts for 50% of revenues from traded goods. This fails to account for the contribution of rum, which is included with other foreign spirits in our data. When we include revenues from foreign spirits, the share of revenues from traded goods coming from imperial goods rises to over 60%.
+
+
+5
+reinforces the argument made by Hoppit, 2019). This is distinct from the narrative in Brewer
+(1989), which emphasizes revenue collection by excisemen across Britain’s interior at myriad
+points of consumption. Internationally, we show that overseas trade contributed substantial
+means to building the fiscal capacity of Britain during an era in which war among European
+nations in the 16th to 19th centuries shaped the rise of modern states (Tilly et al., 1975;
+Bonney, 1999; Dincecco, 2011). Wars matter because they induced investments in fiscal
+capacity that could then be used to fund a growing state that supported the economy (Besley
+and Persson, 2009). As war became more costly, it was the states able to raise more revenue
+that prevailed (Gennaioli and Voth, 2015; Cantoni et al., 2022). Identifying the sources of
+Britain’s fiscal strength is pivotal to understanding the process of the formation of the state
+that was victorious in this geopolitical competition.
+Because much of the trade that shored up Britain’s fiscal capacity was conducted within the
+institutional context of the British Empire, our work relates to the literature that emphasizes
+the role of empire and coercion in the historical development of capitalism (e.g., Williams,
+2021; Find- lay and O’Rourke, 2007;Beckert, 2014; Levy, 2021; Heblich et al., 2022).11
+These authors consider that a strong fiscal-military state helped Britain dominate trade.
+Findlay and O’Rourke (2007) also propose that trade fed back into the fiscal-military state
+through the taxable wealth it created. This, they argue, established a mutually reinforcing
+relationship between economic activity and the development of the coercive power of the
+state.12 In the case of Britain, the possibility of such mutually-reinforcing relationship was
+negated by the conventional wisdom seeing domes- tic goods as the main contributors to
+Britain’s fiscal might. Our finding that international trade provided a substantial share of
+indirect taxes not only counters the conventional wisdom on fiscal matters. Our finding also
+increases the plausibility of explanations in which empire was a driver of Britain’s military
+and economic success.13
+11 The concept of “empire” is fuzzy: it was in some cases formal and in others (e.g., trade with India in the 18th century) informal. It was generally “overseas”, but in other cases was very close to home (e.g., Scotland and Ireland, brought into union with England in 1707 and 1801, respectively). We generally use the term “empire” to refer to overseas trade beyond the British Isles, whether with formal colonies or others. However, we note that Ireland is a source of exports to Britain for much of the period under study. 12 See also Acemoglu and Robinson (2019); Sánchez de la Sierra (2020); Beraja et al., (2021); and, Dal Bó et al. (2022). 13 Of course, there were other important contributors to the emergence of the industrial revolution in Britain: from resource endowments (Allen, 2009), to culture (Mokyr, 2010), to political institutions (North and Weingast, 1989; Acemoglu and Robinson, 2012).
+
+
+6
+In Section 2, we describe the role of excise and customs taxes in funding the British state,
+particularly in times of war. In Section 3, we discuss the existing historical literature on the
+excise tax. In Section 4, we describe the historical data sources we rely on to construct new,
+disaggregated excise and customs revenue statistics. In Section 5, we present our newly
+constructed revenue time series. We conclude in Section 6.
+2. Background: War and taxes in 17th–19th century Britain
+Britain’s fiscal capacity, like that of many early-modern European states, was developed in a
+con- text of recurrent warfare. In the 17th to 19th centuries, Britain’s wars were increasingly
+conducted overseas, facilitating Britain’s mercantilist economic policy.14
+Brecke (1999) provides comprehensive information on conflicts since 1400. From this data,
+we constructed time-series of Britain’s military activity, as well as that of other Atlantic
+trading powers: France, the Netherlands, Portugal, and Spain. We also identify which
+conflicts involve fighting away from the European continent. From the 18th century on,
+Britain became the most belligerent power, and the one most frequently involved in overseas
+wars. In the 1600–1850 period, Britain fought 273 wars compared to 229 for France, the
+second most belligerent European power during the period. Moreover, England is the nation
+that shifted most aggressively toward fighting wars overseas. During the period 1600–1700,
+England fought 39 percent of its wars overseas, but this percentage increases to 65 in the
+period 1700–1850.
+Britain’s empire was built on winning these wars, that were so frequently overseas, with its
+dominant navy. Glete (1993) provides detailed information on the capacity of Britain’s navy
+and the navies of its European rivals. We transcribed and harmonized the data on navy
+strengths in Glete (1993) and found that during the period 1600–1800, when Britain
+developed its fiscal capacity, fought wars, and expanded its empire, its naval strength
+14 Britain also expanded its “empire” close to home, in particular in Unions with Scotland (1707) and Ireland (1801). These territorial expansions of the state had important consequences for policymaking and state-building across the British Isles: e.g., fully incorporating Scotland into an economic union with England and Wales; and, extracting revenues from Ireland without integrating its fiscal system into Britain’s. However, because the Unions’ impact on British revenues were limited (Hoppit, 2021), we do not examine them in depth here.
+
+
+7
+overtook that of all of its European rivals. First it overtook the Dutch in the second half of the
+17th century, and then the French in the early 18th century.
+Such naval superiority was expensive. For example, Findlay and O’Rourke (2007), citing
+Baugh (2004), note that “[A] 74-gun ship costing £50,000 to build in 1780 when the largest
+factory in England cost only a tenth of that amount.” It is thus unsurprising that each major
+war Britain fought was associated with an increase in its stock of government debt (see
+Online Appendix Figure B.2). This debt was backed by the promise of government tax
+revenue, and new taxes were regularly issued in a manner explicitly linked to the demands of
+war. For example, in 1689, Parliament passed “An Act for granting to Their Majesties a
+Subsidie of Tonnage and Poundage and other Sums of Money payable upon Merchandizes
+Exported and Imported” (2 W&M, sess. 1, cap. 4). Parliament passed this bill “for the better
+enabling your Majestyes to prosecute the present Warr against the French King and for the
+reduceing of Ireland.”
+3. The excise: existing scholarship and an assessment of historical fiscal
+motives
+The conventional wisdom on the excise tax is built on three pillars, all of which are well
+summarized by Brewer (1989).15 First, its domestic scope: Brewer (1989, p. 56) writes that,
+“The excise was an indirect commodity tax on domestically produced goods, levied either at
+their point of production or distribution.” Second, compared to the customs tax, its great and
+increasing relative importance: Brewer (1989, p. 80) presents data showing approximately
+equal levels of excise and customs revenues collected around 1700, and excise revenue levels
+that are more than double the customs revenues in the late 1700s. Third, its contribution to
+state development: Brewer (1989, p. 56) writes that, “Excises became the largest category of
+taxes, excisemen the biggest body of officials, and the Excise Office a byword for
+administrative efficiency. . . . [T]he English Excise more closely approximated to Max
+Weber’s idea of bureaucracy than any other government agency in eighteenth-century
+15 Our focus on the excise tax during the 18th century mirrors that of Brewer (1989, p. 79), who writes, “Put in its simplest terms, the fiscal history of the period between 1688 and 1714 was dominated by direct taxation in the form of the land tax; thereafter indirect taxes, most notably the excise, were overwhelmingly the most important source of state income.” This is not to ignore the occasional importance of direct taxation in this period, especially in response to acute revenue needs (e.g., wars fought in the late 18th century).
+
+
+8
+Europe.”16 There is some truth in this conventional wisdom: excise revenues did grow
+throughout the 18th century and the excise administration was an early example of an
+efficient government bureaucracy.
+However, the conventional wisdom is incorrect in viewing the excise tax or the growth in
+excise revenues as entirely driven by domestic forces. This is evident, qualitatively, in the
+first excise bill passed by Parliament in 1643, which imposed a tax on, “[A]ll and every the
+Merchants and Importers of the said Forraign Commodities in the said Schedule
+mentioned.”17 In a history of the excise, the Boards of Customs and Excise describe how “At
+the Accession of James II [in 1685], the Temporary Excises were renewed for his life, and
+increased by additional duties on Wine, Vinegar, Tobacco, and Sugar.” Needless to say,
+Britain did not produce tobacco or sugar domestically in 1685.18
+To move beyond this initial assessment, we more systematically examine the military
+motives behind tax bills, as well as the importance of taxes on trade during the later Stuart
+reigns (those of William & Mary and of Queen Anne), when the excise and customs regimes
+of the 18th century were established.19 We read and classify every tax bill in 1689–1714
+according to its mention of war and/or trade. Roughly 40 percent of bills across both rulers
+were “Public,” and could involve matters of taxation.20 We find that around 80% of public
+tax bills mention military, colonial, or defense (i.e., “war-related”) objectives in their text;
+during the rule of William and Mary, 36% of tax bills mentioned both war and taxes on
+16 Brewer is not alone in taking these positions. Mathias and O’Brien (1976, p. 630) write, “In Britain excise taxes were imposed on a large number of commodities at the place of production and the state levied import or custom duties upon foreign products at the point of entry into the country.” Beckett and Turner (1990) and Ashworth (2003) also treat excise as a tax on domestic production. The data series on customs and excise taxation in Mitchell (1988) are constructed from precisely the same coarse historical source as Brewer: the “Accounts of public income and expenditure 1688-1869.” The efficiency and importance of the excise administration are emphasized by Coffman (2013). 17 Emphasis added by the authors. The bill is TNA/CUST 145/15, “An Ordnance of the Lords and Commons, In Parliament, for the speedy Raising and Levying of Monies by Way of Charge and New Impost, upon the several Commodities in a Schedule annexed,” September 11, 1643. 18 The history of the excise quoted is CUST 155/7, “Some Account of the Excise Duties,” 1829. 19 Studying the Hanoverian monarchs of the 18th century is less revealing. Because the systems of excise and customs were already established, there were fewer tax bills. In addition, because the purpose of taxation — to pay for war — became self-evident, it also became implicit, rather than explicit, in tax bills. 20 “Private” bills, in turn, affected some particular interest more circumscribed than the general public. Examples are bills affecting communal rights of passage, or roads.
+
+
+9
+traded goods, and this simultaneous mention rises to 50% during Queen Anne’s reign (see
+Table 1).21
+One may still worry that even if many excise bills mentioned trade, traded goods could still
+have been marginal to the excise. Hoppit (2017) has collected evidence suggesting not only
+that excise taxes were collected on traded goods as Britain’s fiscal capacity expanded, but
+also that the role of traded goods was substantial and growing. Hoppit (2017, p. 293) presents
+data showing that in 1741, of the excise revenue collected in London (one-third of all British
+excise), imported tea and liquors accounted for nearly 40%. In 1796, imported tea, spirits,
+wine, and tobacco and snuff accounted for nearly two-thirds of London’s excise revenue.
+These data points, as well as our analysis of excise legislation, suggest the need to re-examine
+the historical evidence that sustains the conventional wisdom. As noted above, such a re
+examination requires disaggregated data from archival sources that have not yet been
+systematically used.
+4. Constructing new series of excise and customs revenues
+4.1 Excise revenues
+To construct our disaggregated excise tax dataset, we begin with CUST 145/22. This source is
+sufficient to construct, by individual good, yearly revenue series from 1788 onward, allowing
+21 It is important to note that taxes on imported goods also had aims other than funding wars. For example, import duties protected domestic producers from competition (see, e.g., Davis, 1966, and O’Brien et al., 1991).
+(1) (2) (3) (4) Tax bills:
+Reign: Public bills Share of public War War & Trade
+1689-1702: William & Mary 341 0.22 0.81 0.36
+1702-1714: Queen Anne 338 0.2 0.77 0.5
+Total: 679 0.21 0.79 0.43
+Table 1: Classification of Tax Bills in 1689-1714: Financing Wars and Taxing Trade
+Tax bills mention:
+Note: This table reports the classification of bills passed during the reigns of William & Mary and Queen Anne. The coding is based on the authors’ reading of the bills. Column 1 reports the count of public bills (excluding “private” bills, with circumscribed effects). Column 2 reports the share of public bills that are tax bills, column 3 reports the share of tax bills that mention military aims, and column 4 reports the share of tax bills that mention military aims and also include traded goods. Bills from the reign of William III are included in row 1 with William & Mary. See Section 3 for a discussion of the coding.
+
+
+10
+us to classify revenues as originating in trade or from domestic production. Prior to 1788,
+CUST 145/22 is not fully disaggregated. It presents good-level excise and inland revenues for
+many goods that fall under the traditional heading of “excise.” These include glass, soap,
+paper, tea, and chocolate, among others (see Figure 1 for an image of CUST 145/22).
+Unfortunately, CUST 145/22 also includes a category labeled “Excise” which requires further
+disaggregation. It is a subcategory of what is traditionally regarded as excise, and it
+aggregates revenues from different types of alcohol.
+Figure 1: Excise Revenues by Taxed Good in 1756, Sample of CUST 145/22
+Note: This figure reproduces a sample of the archival records organized under CUST 145/22. These records
+report excise revenues by taxed good from 1788 forward. For earlier years (e.g. 1756 in this figure) the category
+of narrow excise (cf. row 1 of this figure) needs to be further disaggregated.
+
+
+11
+To disaggregate the “Excise” category from CUST 145/22, we turn to CUST 145/8 and CUST
+145/12 for the years up to 1787 (see Figure 2 for an image of CUST 145/12).22 These sources
+include revenues information on various categories of alcohol, which add up to the “Excise”
+category from CUST 145/22. However, they do not include the other disaggregated revenues
+that are reported in CUST 145/22 (glass, soap, paper, tea, etc.), meaning that we need to
+combine information from CUST 145/22, CUST 145/8, and CUST 145/12.
+Figure 2: Excise Revenues by Government Act in 1750-55, Sample of CUST 145/12
+Note: This figure reproduces a sample of the archival records organized under CUST 145/12. These records
+report excise revenues by government act.
+22 CUST 145/8 and CUST 145/12 include the same information; we rely on both sources to overcome the challenge of illegible documents.
+A.3: Excise Revenues by Government Act in 1750-55, Sample of CUST
+
+
+12
+The next step is to convert the revenues information on various types of alcohol from CUST
+145/8 and CUST 145/12 into revenue data by good at a disaggregated enough level to allow
+assignment to traded or domestic categories. In some cases, e.g., “British Spirits”, this can be
+done directly from the source. However, most of the revenue reported in CUST 145/8 and
+CUST 145/12 is organized not according to good, but according to the acts under which taxes
+were collected (e.g., “IX Continued quarto Annae”) or allocated (e.g., “ Hereditary and
+Temporary Excise”).
+To convert act-level revenues into revenues by good, we first identify which goods are taxed
+under a given act. Then, we rely on data on taxed quantities by good and year, as well as tax
+rates by good and year to calculate the revenues by good and year that fall under a particular
+act.23 When rates are ambiguous (for example, imported brandy might be taxed under the
+French brandy rate or as generic foreign brandy) we assign the lower rate to calculate the
+revenue from traded goods conservatively.
+A final obstacle in identifying revenue from traded versus domestic goods is the temporary
+revenue category, “P Cent” (a percentage tax temporarily levied on selected commodities).
+This category of excise appeared in the CUST 145/22 series between 1779 and 1787 and
+included both traded and domestic goods. To disaggregate the category, we use CUST
+145/20, which shows the yearly contributions of each of the goods charged “P Cent” duties
+(e.g., tea and foreign spirits, among others).
+4.2 Customs revenues
+The vast majority of customs revenues were collected from traded goods, as one would
+expect. The primary domestic good that was taxed under customs was coal. In addition, other
+domestically produced goods were taxed under customs as “carried coastways goods.”24 We
+23 This is not always trivial: for example, rum is in some years implicitly taxed at the same rate as imported brandy, and sometimes taxed as a distinct commodity. For quantities of taxed goods we relied on CUST 145/20. For rates, we relied on CUST 145/3, CUST 145/4, CUST 145/11, CUST 145/12, CUST 145/18, and CUST
+145/20, as well as printed primary sources and Parliamentary bills (e.g., Crouch, 1731, Baldwin, 1770, and 6 Geo. II, cap. 17). It is important to note that this “bottom up” approach may miss some revenues (e.g., temporary excises). Such measurement error is likely small, however: in Figure 3 below, we show that our aggregate Excise and Custom revenues are extremely close to those in (Mitchell, 1988) and Brewer (1989). 24 Such goods included, for example, corn and wine; however, they appear only rarely and their revenue contribution was small, typically not larger than £2,000 per year.
+
+
+13
+assign these revenues to domestic production, along with taxes levied on coal.25 In addition,
+from 1786–1806, a tax on windows (under the Commutation Act of 1784) was included in
+the customs revenues, and we assign these revenues to domestic production as well.26
+Disaggregated customs revenues data come from multiple historical sources. To disaggregate
+total customs revenues into revenues from traded goods and revenues from domestically
+produced goods, we mainly rely on T 35/55, CUST 37/1, T 38/357, and CUST 37/50. These
+series end in 1806. From 1807 onwards, we supplement these sources with detailed tables on
+revenues by good or by act from the Parliamentary Papers.
+4.3 Methodological choices
+We first identified goods that were undoubtedly traded internationally and taxed under the
+excise. Some of these goods, like foreign spirits, are labeled as such. Others are not labeled as
+foreign, but were certainly produced outside Britain, like tea, coffee and cocoa nuts, tobacco,
+and pepper. We also treat wine as traded — in contrast with “low wine”, which was recorded
+separately, and which may have included some domestic production.
+This makes for an extremely conservative calculation of revenues from traded goods — a
+lower bound. When it is possible that a positive share of a good may have been domestic, we
+assign it to the domestic category. For example, we do not include in our estimated revenues
+from trade those revenues collected on hides or salt, though some hides and salt were
+certainly imported. In addition, taxes on domestically processed textiles are treated as
+domestic taxation even when the raw input (e.g., a less processed textile, or raw materials like
+silk or cotton) was produced abroad and represents a significant share of the value added.
+We follow the approach of Mitchell (1988) and Brewer (1989) in that we report revenues net
+of: (i) the costs of running the respective tax administrations (i.e., “management costs”); (ii)
+refunds on import duties paid to re-exporters (called “drawbacks”); and (iii) revenues used
+directly to subsidize domestic producers’ exports or to pay for other national objectives
+(called “bounties”) that never reached the Exchequer. To be precise, we collect information
+25 While the vast majority of customs revenues collected from coal are on domestic consumption, a small share of customs revenues are collected from the international export of coal. We count the latter revenues as revenues on traded goods. Customs were also collected from domestically produced and exported tin and lead. 26 The tax on windows is included under customs because it was enacted alongside a reduction in the tax rate on tea under the Commutation Act, and was managed by customs.
+
+
+14
+on the “Payments into Exchequer” for both customs and excise.27 As our goal is to assess the
+contribution of taxes on traded goods to Britain’s fiscal strength, it is natural to consider
+revenues net of tax administration costs and net of refunds paid to re-exporters (re-exported
+imports may not have arrived in the first place without the refund of the import duties).28
+However, netting out bounty payments, while standard practice, is more questionable: bounty
+payments may not have reached the Exchequer, but they supported the state’s strategic
+objectives, nonetheless. For example, bounty revenues were collected by customs officers
+from traded goods and used to pay domestic corn producers and to support the civil
+government of Scotland (to give two prominent examples). There is thus a good argument to
+include these revenues in the contribution of traded goods to revenue. Information on these
+bounty payments was not available in the primary sources consulted by Mitchell (1988) and
+Brewer (1989), but we are able to identify this category of revenue. We thus construct
+separate series of revenues from traded and domestic goods that include the bounty revenues
+in addition to the “Payments into Exchequer.” In order to keep our exposition as close as
+possible to that in the received literature, in the main text we focus on revenue series
+corresponding to “Payments into Exchequer,” and include bounties in alternative series
+reported in the Appendix.29
+5. Empirical patterns
+5.1 New vs. old series: comparison in the aggregate
+We begin by comparing our total excise revenue and customs revenue series for the years
+1689–1823 with those in Mitchell (1988), the standard reference (which is based on the same
+historical source as Brewer, 1989). In Figure 3, Panel A, one can see that our construction of
+27 We also follow Mitchell (1988) and Brewer (1989) in reporting revenues collected in Britain (but not Ireland), and we report these revenues in millions of pounds in nominal terms. It is worth noting that the revenue increases over the time period we cover were not driven by higher price levels. Inflation over the period studied was low — below one percent per year (Thomas and Dimsdale, 2017). 28 One category of re-exported goods deserves specific mention: textiles that were imported from India solely for re- export. The import duty was set at 5% of the imports’ value for finished textiles imported by the East India Company (see Baldwin, 1770). There was then a refund of this duty (i.e., a “drawback”) upon re-export, which varied depending on the good and the exports’ destination, from 5% of the duty paid to 100%. The net revenues from these re-exports are included as revenue from (traded) customs in our series. 29 All data series are provided in tables included in Appendix A. Figures plotting data series including bounties are shown in Online Appendix B. It is worth noting that our data series on bounties is incomplete (starting only in 1711), due to archival data limitations (see also Hoppit, 2017).
+
+
+15
+total excise revenue closely matches the aggregate excise data reported previously by
+Mitchell (1988)).30 Including the bounties in our excise data series has minimal effect (see
+Online Appendix Figure B.3). In Figure 3, Panel B, one can see that our construction of total
+customs revenue again closely matches aggregate data that have previously been collected
+(Mitchell, 1988). Adding the bounties to our customs data series has a more noticeable effect,
+but again the broad patterns of total revenue match those in Mitchell (1988). It is worth
+emphasizing that our data come from a different set of far more disaggregated historical
+sources; it is reassuring that these data yield aggregate patterns that match the established
+historical data sources.31
+30 Our yearly total excise, total customs, bounty, and disaggregated customs and excise data are provided in Appendix Tables A.1-A.4. 31 Note that the disaggregated data sources for customs are missing for a small number of years, accounting for the observed gaps in our series in the 1810s.
+
+
+16
+Figure 3: Comparison of Aggregate Excise and Customs Revenues with Mitchell (1988)
+Panel A: Excise Revenues
+Panel B: Customs Revenues
+Note: This figure compares the aggregate patterns of excise and customs revenues of the British government (in
+£1,000,000) as calculated by the authors (black, solid lines) with those reported in Mitchell (1988) (as grey,
+dashed lines). Panel A reports the excise revenues for 1689-1823, and Panel B reports the customs revenues for
+1689-1818. Gaps in the lines indicate years with missing data. See Section 4 for a description of the data and
+methodology. See Online Appendix Figure B.3 for a version of this figure which includes revenues spent to
+finance bounties.
+
+
+17
+5.2 New vs. old series: comparison of disaggregated data
+We next decompose aggregate revenues into revenues collected from traded goods and
+revenues collected from domestic goods. Let RevenueTradet denote the tax revenue raised on
+internationally traded goods, RevenueDomestict denote the tax revenue raised on domestic
+goods, Customst the tax revenue collected by customs, and Exciset the tax revenue collected
+as excise, all during year t. The approach in Brewer (1989) (using the same data as Mitchell,
+1988), is to assume the following two equalities hold:
+RevenueTradet = Customst
+RevenueDomestict = Exciset.
+Then, following Brewer (1989), the trade-related share of total indirect tax revenue (i.e., the
+sum of taxes from traded and domestic goods) would be calculated as:
+ShareTradet = Customst / (Customst + Exciset ).
+But as we have argued, it is incorrect to equate taxes on traded goods to taxes generated by
+customs, and taxes on domestic goods to the excise. It is necessary to define CustomsCoalt to
+denote tax revenue collected by customs on coal (a domestic product), ExciseDomestict to
+denote excise taxes raised on domestic goods, and ExciseTradet to denote excise taxes on
+traded goods. Then, using our disaggregated excise and customs data we can calculate:
+RevenueTradet = Customst − CustomsCoalt + ExciseTradet
+RevenueDomestict = ExciseDomestict + CustomsCoalt.
+As a result, the trade-related share of total revenue is:
+ShareTradet = RevenueTradet / (RevenueTradet + RevenueDomestict).
+Importantly, we can construct these time series restricting revenues to those paid to the
+Exchequer (as in Mitchell, 1988, and Brewer, 1989) or including also the revenues used to
+pay bounties.
+
+
+18
+In Figure 4, Panel A, we first show the levels of revenues from customs and excise as
+presented in Mitchell (1988) and Brewer (1989). Revenues are stacked on top of each other to
+sum to total revenue from indirect taxes. One can see two patterns. First, that excise revenue
+is substan- tially larger than customs revenue throughout the time period. Second, in the
+Mitchell (1988) and Brewer (1989) treatment, taxes on “domestic production” — to be
+precise, excise revenues — ac- count for the bulk of enormous increase in revenues in the late
+18th and early 19th centuries.
+In Figure 4, Panel B, we show the levels of revenues from traded and domestic goods as we
+calculate them.32 A very different pattern of revenue growth appears. Revenue from traded
+goods increases, rather than declines in importance as the British state developed over the
+18th century. At the height of the Napoleonic wars in the early 19th century, traded goods
+provide more revenue than domestic goods. If we take the entire period under study,
+increasing revenues from traded goods in 1689-1818 account for 54% of the overall increase
+of excise and customs revenues. The growth of the British fiscal military state was not
+financed on the taxation of domestic goods alone. Rather, tax revenues from international
+trade represented a substantial component of the fiscal expansion that funded Britain’s
+imperial dominance.
+32 Figure B.4 in the Online Appendix reproduces the graph including revenues raised to be spent on bounties.
+
+
+19
+Figure 4: Decomposition of Excise and Customs Revenues
+Panel A: Revenues from Customs and Excise (as in Mitchell, 1988, and Brewer, 1989)
+Panel B: Revenues from Traded Goods and Domestic Goods (as calculated by the authors)
+Note: This figure decomposes the excise and customs revenue of the British government (in £1,000,000). Panel
+A decomposes the revenues as presented in Mitchell (1988) and Brewer (1989) into revenues from customs and
+excise. Panel B plots the levels of revenues from traded goods and domestic goods as calculated by the authors.
+Years with missing customs data are linearly interpolated. See Sections 4 and 5.2 for a description of the data
+and methodology. See Online Appendix Figure B.4 for a version of Panel B which includes revenues spent to
+finance bounties.
+
+
+20
+In Figure 5, we plot the share of British customs and excise revenue from traded goods cal
+culated using the approach and data in Mitchell (1988) and Brewer (1989) (i.e., treating
+customs revenue as coming from traded goods and excise as coming from domestic
+production), as well as the share of revenue from traded goods calculated using our
+disaggregated data.
+Figure 5: Revenues from Traded Goods as Share of Excise and Customs
+Note: This figure compares the share of British customs and excise revenue from traded goods as computed by
+the authors with the share as reported in Brewer (1989) and using the data in Mitchell (1988). The grey, dashed
+line plots the share following Brewer (1989) in treating customs revenue as coming from traded goods and
+excise as coming from domestic production. The black, solid line plots the share of revenue from traded goods
+following the authors’ calculations and using disaggregated customs and excise data. Gaps in the lines indicate
+years with missing data. See Sections 4 and 5.2 for a description of the data and methodology. See Online
+Appendix Figure B.5 for a version of this figure which includes revenues spent to finance bounties.
+
+
+21
+One can see in the figure that the traditional narrative of a modest and declining role for taxes
+on traded goods as Britain expanded its fiscal capacity is overturned when examining
+disaggregated data on the excise. Indeed, our data show that as revenues expanded
+enormously over the second half of the 18th century, the share of revenues from traded goods
+actually increased and was over 50% of total excise and customs revenues in the late 18th and
+early 19th centuries. The share of revenues from traded goods reaches a peak of over 60% in
+1800, when additionally considering revenues spent on bounties (see Online Appendix Figure
+B.5).33
+5.3 What traded goods contributed to fiscal revenues?
+An obvious threat to the success of the excise tax would have been charging rates that
+discouraged imports. A standard result in public finance due to Ramsey (1927) is that optimal
+taxes should bear an inverse relationship to the elasticity of demand. To gain insight into
+what made a high fiscal revenue possible we examine the nature of the traded goods that were
+taxed.
+In Figure 6, Panel A, we further decompose, by good, excise revenues from trade.34 Tea and
+foreign spirits were the most important components throughout the 18th and early 19th
+centuries, with wine and tobacco playing an increasingly important role in the early 19th
+century. The other goods are cocoa, chocolate, coffee and pepper. The entirety of traded
+excise goods are consumption items that create habituation and have been noted to have
+relatively inelastic demands — actual drugs like alcohol and tobacco, as well as what Mintz
+(1985) called “drug foods.”35 Figure 6, Panel B, decomposes the customs revenues from
+traded goods.36 The set of goods includes imports that were taxed under both excise and
+customs (foreign spirits, tea, tobacco, etc.). The most important contributor to customs
+revenue was sugar, which was not taxed under excise, and which accounted for a third of
+33 Naturally, the share of total revenue (that is, the sum of indirect and direct taxation) attributable to taxes on overseas trade is smaller than the share of indirect tax revenue alone. In Online Appendix Figure B.6, we plot the share of total taxes from overseas trade using our approach as well as that in Mitchell (1988) and Brewer (1989). The divergence between our series and theirs remains the same, with both series shifted down in proportion to the share of total income from direct taxation. 34 We provide the data underlying Figure 6 (both Panels A and B in Appendix Tables A.5–A.8. 35 Pomeranz (2000) leverages Mintz’s characterization to argue that the trade on these goods gave the British econ- omy an additional boost by expanding labor supply: to afford these goods, individuals altered their laborleisure choices toward longer working hours (see also De Vries, 1994). 36 Before 1787 our customs data is disaggregated by tax act, which does not allow for a simple decomposition by goods.
+
+
+22
+customs revenues. A majority of customs revenues also came from habituation goods with
+highly inelastic demand.
+These findings help us understand why the combination of taxation and trade activity
+provided a high volume of fiscal revenue.37 They also highlight the importance of Britain’s
+coercive power in its fiscal expansion. One can see that a substantial share of revenues from
+traded goods was due to goods whose trade (and in some cases production) depended on the
+application of coercive power against colonized peoples, slaves, and against competing
+European powers.
+37 It is notable that this high volume of revenue was collected despite the fact that the excise tax was not expanded to cover a wide variety of goods (as proposed by Walpole in 1733) and despite the elimination of taxes on exports.
+
+
+23
+Figure 6: Decomposition of Revenues from Traded Goods
+Panel A: Excise Revenues, 1720-1823
+Panel B: Customs Revenues, 1787-1809
+Note: This figure decomposes British government revenues from traded goods (in £1,000,000). Panel A plots
+excise revenues by traded good for 1720-1823. Panel B plots customs revenues by traded good for 1787-1818.
+Excise revenues from tea and wine include revenues from tea and wine licenses. Excise revenues from imported
+beer have been included with the revenues from foreign spirits, since revenues from imported beer are too small
+to be visible independently. Customs revenues from other habituation goods come from opium, licorice, pepper,
+spices etc. The “Other Imports” category of Panel B includes all the customs revenues from imports other than
+the habituation goods enumerated in this figure. See Section 4 for a description of the data and methodology.
+
+
+24
+6. Conclusion
+We provide new data on British excise and customs revenues over time that improve upon
+standard references. The data make clear that: (i) excise taxation was not only a tax on
+domestically produced goods, but was also a tax on traded goods; (ii) taxes on traded goods
+were a large share of indirect taxation, ranging from 40 to 55%; and (iii) taxes on traded
+goods were a growing share of total revenues from the early 18th century to the early 19th
+century, as Britain’s fiscal-military state developed. These results are evident even under the
+conservative assumptions guiding the construction of our data.
+The patterns revealed by the data we collect should change the narrative regarding the growth
+of Britain’s fiscal state. First, it had roots in the massive expansion in British trade 
+especially across the Atlantic and in Asia — that occurred in the 17th–19th centuries (as
+documented by, e.g., Schumpeter, 1960 and Davis, 1962). Similar to the change in Britain’s
+institutional trajectory identified by Robinson et al. (2005), overseas trade was a shock that
+changed the state’s fiscal trajectory as well. Second, it relied to a significant extent on a
+traditional bureaucracy located in ports—even in the case of the excise.38 This shifts both the
+geographic and administrative dimensions of Britain’s fiscal development. Finally, it
+depended on war and empire, which facilitated overseas trade in the goods essential to the
+rise in revenues. The more general implication is that the coercive power of the state was
+both an input to, and an outcome of, taxable economic activity.
+38 The case of tea is instructive: as Hoppit (2017, p. 294) writes, “Tea duties could have been charged to the customs, but they came under the excise. ... 99 percent of British tea excise was collected in London, but in the late eighteenth century the capital had only 7 per cent of Britain’s’ 53,000 licensed tea dealers.”
+
+
+25
+References
+Acemoglu, Daron and James A. Robinson, Why Nations Fail: the Origins of Power,
+Prosperity, and Poverty, New York: Crown Business, August 2012.
+__ and __, The Narrow Corridor: States, Societies, and the Fate of Liberty, New York:
+Penguin Press, 2019.
+__, Simon Johnson, and James A. Robinson, “The Rise of Europe: Atlantic Trade,
+Institutional Change, and Economic Growth,” American Economic Review, June 2005, 95
+(3), 547–579.
+Allen, Robert C, The British industrial revolution in global perspective, Cambridge
+University Press, 2009.
+Angelucci, Charles, Simone Meraglia, and Nico Voigtländer, “How merchant towns
+shaped parliaments: From the norman conquest of England to the great reform act,”
+Technical Report, National Bureau of Economic Research 2022.
+Ashworth, William J, Customs and excise: trade, production, and consumption in England,
+1640-1845, Oxford University Press on Demand, 2003.
+Baldwin, Samuel, A Survey of the British Customs, J. Nourse, 1770.
+Baugh, Daniel A, “Naval power: what gave the British navy superiority?,” in Leandro
+Prados de la Escosura, ed., Exceptionalism and Industrialisation, Cambridge University
+Press, 2004, pp. 235–258.
+Beckert, Sven, Empire of Cotton: A Global History, New York: Alfred A. Knopf, 2014.
+Beckett, John V and Michael Turner, “Taxation and economic growth in eighteenth
+century England 1,” The Economic History Review, 1990, 43 (3), 377–403.
+Beraja, Martin, Andrew Kao, David Y Yang, and Noam Yuchtman, “AI-tocracy,”
+Technical Report, National Bureau of Economic Research 2021.
+
+
+26
+Besley, Timothy and Torsten Persson, “The origins of state capacity: Property rights,
+taxation, and politics,” American economic review, 2009, 99 (4), 1218–44.
+__ and __, Pillars of prosperity, Princeton University Press, 2011.
+Bonney, Richard, The rise of the fiscal state in Europe c. 1200-1815, Clarendon Press, 1999.
+Brecke, Peter, “Violent conflicts 1400 AD to the present in different regions of the world,”
+in “meeting of the Peace Science Society” 1999, pp. 8–10.
+Brewer, John, The Sinews of Power, Cambridge, Mass.: Harvard University Press, 1989.
+Cantoni, Davide, Cathrin Mohr, and Matthias Weigand, “The rise of fiscal capacity,”
+Technical Report, University of Munich 2022.
+Coffman, D’Maris, Excise taxation and the origins of public debt, Springer, 2013. 24
+Cox, Gary W, Marketing sovereign promises: Monopoly brokerage and the growth of the
+English state, Cambridge University Press, 2016.
+Crouch, Henry, A Complete View of the British Customs... 1731.
+Dal Bó, Ernesto, Pablo Hernández-Lagos, and Sebastián Mazzuca, “The paradox of
+civilization: Preinstitutional sources of security and prosperity,” American Political Science
+Review, 2022, 116 (1), 213–230.
+Davis, Ralph, “English foreign trade, 1700-1774,” The Economic History Review, 1962, 15
+(2), 285– 303.
+__ , “The rise of protection in England, 1689-1786,” The Economic History Review, 1966, 19
+(2), 306– 317.
+Dickson, Peter George Muir, The Financial Revolution in England: a study in the
+development of public credit, 1688-1756, Routledge, 2017.
+
+
+27
+Dincecco, Mark, Political transformations and public finances: Europe, 1650–1913,
+Cambridge University Press, 2011.
+Findlay, Ronald and Kevin O’Rourke, Power and plenty: Trade, war, and the world
+economy in the second millenium, Princeton University Press, 2007.
+Gennaioli, Nicola and Hans-Joachim Voth, “State capacity and military conflict,” The
+Review of Economic Studies, 2015, 82 (4), 1409–1448.
+Glete, Jan, Navies and nations : warships, navies and state building in Europe and America,
+1500-1860, Stockholm: Almqvist & Wiksell International, 1993.
+Heblich, Stephan, Stephen J Redding, and Hans-Joachim Voth, “Slavery and the British
+Indus- trial Revolution,” Technical Report, National Bureau of Economic Research 2022.
+Hersh, Jonathan and Hans-Joachim Voth, “Sweet diversity: Colonial goods and the
+welfare gains from global trade after 1492,” Explorations in Economic History, 2022, p.
+101468.
+Hoppit, Julian, Britain’s Political Economies, Cambridge University Press, 2017.
+__ , “Taxing London and the British fiscal state, 1660-1815,” in Julian Hoppit, Duncan
+Needham, and Adrian Leonard, eds., Money and Markets: Essays in Honour of Martin
+Daunton, The Boydell Press, 2019, chapter 1, pp. 19–34.
+__ , The dreadful monster and its poor relations: taxing, spending and the United Kingdom,
+1707-2021, Penguin UK, 2021.
+Koyama, Mark and Jared Rubin, How the World Became Rich: The Historical Origins of
+Economic Growth, John Wiley & Sons, 2022.
+Levy, Jonathan, Ages of American Capitalism: A History of the United States, Random
+House, 2021.
+Mathias, Peter and Patrick O’Brien, “Taxation in Britain and France, 1715-1810. A
+comparison of the social and economic incidence of taxes collected for the central
+governments,” Journal of European Economic History, 1976, 5 (3), 601.
+
+
+28
+Mintz, Sidney, Sweetness and power: The place of sugar in modern history, Penguin, 1985.
+Mitchell, Brian R, British historical statistics, CUP Archive, 1988.
+Mokyr, Joel, The Enlightened economy an economic history of Britain 1700-1850, Yale
+University Press, 2010.
+Murphy, Anne L, “Demanding ‘credible commitment’: Public reactions to the failures of the
+early financial revolution 1,” The Economic History Review, 2013, 66 (1), 178–197.
+North, Douglass C and Barry R Weingast, “Constitutions and commitment: the evolution
+of institutions governing public choice in seventeenth-century England,” Journal of
+Economic History, 1989.
+O’Brien, Patrick, “European Economic Development: The Contribution of the Periphery,”
+The Economic History Review, 1982, 35 (1), 1–18.
+__ , “The Political Economy of British Taxation, 1660-1815,” The Economic History Review,
+1988, 41 (1), 1–32.
+__ , “The nature and historical evolution of an exceptional fiscal state and its possible
+significance for the precocious commercialization and industrialization of the British
+economy from Cromwell to Nelson,” The Economic History Review, 2011, 64 (2), 408–446.
+__ , Trevor Griffiths, and Philip Hunt, “Political components of the industrial revolution:
+Parliament and the English cotton textile industry, 1660-1774,” The Economic History
+Review, 1991, 44 (3), 395–423.
+Palma, Nuno, “Sailing away from Malthus: intercontinental trade and European economic
+growth, 1500–1800,” Cliometrica, 2016, 10 (2), 129–149.
+Pomeranz, Kenneth, The great divergence: China, Europe, and the making of the modern
+world economy, Princeton University Press, 2000.
+Ramsey, Frank, “A Contribution to the Theory of Taxation,” The Economic Journal, 1927,
+37 (March), 47–61.
+
+
+29
+Sánchez de la Sierra,Raúl,“On the origins of the state: Stationary bandits and taxation in
+Eastern Congo,” Journal of Political Economy, 2020, 128 (1), 000–000.
+Schumpeter, Elizabeth Boody, English overseas trade statistics, 1697-1808, Clarendon
+Press, 1960.
+Thomas, R. and N. Dimsdale, “A Millennium of UK Data,” 2017. Bank of England OBRA
+dataset.
+Tilly, Charles et al., “Western state-making and theories of political transformation,” The
+formation of national states in Western Europe, 1975, 638.
+Vries, Jan De, “The industrial revolution and the industrious revolution,” The Journal of
+Economic History, 1994, 54 (2), 249–270.
+Williams, Eric, Capitalism and slavery, third edition. ed., Chapel Hill: University Of North
+Carolina Press, 2021.
+
+
+30
+A Appendix Tables
+(1) (2) (3) (4) (5) (6) (7) (8)
+Year: Total Trade Domestic Bounties Total Trade Domestic Bounties 1689 750 63 687 687 687 0 1690 760 11 749 338 338 0 1691 1050 3 1047 618 618 0 1692 1297 0 1297 728 728 0 1693 998 0 998 649 649 0 1694 870 4 867 846 846 0 1695 849 9 840 692 692 0 1696 927 6 921 960 937 22 1697 902 9 893 674 674 0 1698 1093 5 1088 1119 1076 44 1699 1016 16 1000 1406 1292 114 1700 727 22 704 1928 1780 148 1701 769 13 755 1638 1489 149 1702 1176 13 1163 1299 1216 82 1703 1513 10 1503 1236 1134 103 1704 1396 25 1371 1418 1294 124 1705 1606 32 1573 1151 1035 116 1706 1461 26 1435 1327 1203 124 1707 1523 19 1504 1217 1107 109 1708 1481 18 1463 1368 1230 138 1709 1328 10 1319 1267 1130 137 1710 1334 16 1318 1222 1114 108 1711 1459 10 1449 1268 1033 235 44 1712 1650 24 1625 1328 1199 129 40 1713 1902 19 1883 1557 1436 121 101 1714 1825 23 1802 1732 1572 161 44 1715 2012 26 1986 1536 1397 139 82 1716 2075 25 2050 1764 1584 180 46 1717 2146 22 2124 1836 1619 217 50 1718 2143 21 2122 1829 1704 125 63 1719 2150 15 2135 1664 1453 211 86 1720 2169 15 2155 1593 1381 213 71
+Table A.1: British Excise and Customs Revenues (in £1,000), 1689-1720
+Excise Revenues Customs Revenues
+Paid to Exchequer: Paid to Exchequer:
+
+
+31
+(1) (2) (3) (4) (5) (6) (7) (8)
+Year: Total Trade Domestic Bounties Total Trade Domestic Bounties 1721 2196 26 2170 1597 1359 238 67 1722 2375 30 2346 1633 1402 232 98 1723 2416 70 2345 1658 1421 237 99 1724 2283 87 2196 1781 1555 227 89 1725 2481 225 2256 1658 1428 230 125 1726 2350 227 2124 1531 1281 250 100 1727 2569 272 2297 1608 1354 254 60 1728 2376 309 2066 1894 1686 209 39 1729 2376 352 2024 1678 1429 249 31 1730 2594 387 2207 1686 1449 237 53 1731 2790 404 2386 1514 1271 244 85 1732 2631 374 2257 1639 1406 233 79 1733 2826 472 2354 1608 1358 249 125 1734 2661 304 2357 1463 1231 232 202 1735 2571 315 2256 1613 1351 261 124 1736 2581 365 2216 1575 1308 267 69 1737 2631 504 2128 1588 1339 249 123 1738 2655 467 2188 1476 1233 244 197 1739 2737 478 2258 1433 1197 236 167 1740 2569 500 2069 1324 1029 295 58 1741 2346 402 1944 1572 1335 238 38 1742 2565 451 2114 1150 907 243 111 1743 2587 448 2139 1295 1038 257 156 1744 2846 413 2433 1129 895 234 138 1745 2648 402 2246 1173 917 256 153 1746 2697 500 2197 1096 841 254 129 1747 2942 489 2453 1344 1092 252 156 1748 3056 549 2507 1516 1268 247 220 1749 3117 608 2508 1646 1381 265 261 1750 3153 578 2575 1592 1342 250 314 1751 3239 666 2574 1570 1282 288 212 1752 3127 602 2525 1779 1498 282 242 1753 3243 653 2590 1708 1421 287 308 1754 3412 751 2661 1631 1345 286 227 1755 3407 733 2675 1744 1475 268 263 1756 3326 752 2573 1701 1401 300 200 1757 2984 774 2211 1932 1641 291 120
+Table A.2: British Excise and Customs Revenues (in £1,000), 1721-1757
+Excise Revenues Customs Revenues Paid to Exchequer: Paid to Exchequer:
+
+
+32
+(1) (2) (3) (4) (5) (6) (7) (8)
+Year: Total Trade Domestic Bounties Total Trade Domestic Bounties 1758 3236 884 2352 1858 1608 249 115 1759 3431 946 2485 1948 1642 307 188 1760 3848 919 2929 2007 1726 281 231 1761 4555 990 3565 0 1899 1688 211 293 1762 4523 1024 3499 3 1858 1542 316 460 1763 4432 1110 3322 9 2250 1947 302 485 1764 4770 1084 3686 8 2160 1824 336 565 1765 4696 1166 3530 8 2271 1972 299 339 1766 4665 1282 3383 10 2448 2090 358 354 1767 4303 915 3388 5 2356 2019 337 192 1768 4548 987 3561 5 2445 2102 343 175 1769 4731 1005 3726 6 2639 2267 372 186 1770 4554 982 3572 7 2546 2198 348 234 1771 4492 1000 3492 6 2642 2257 385 294 1772 4793 1099 3694 6 2526 2125 401 223 1773 4601 1156 3445 4 2439 2078 361 172 1774 4689 1300 3390 4 2568 2201 367 218 1775 4951 1220 3732 8 2510 2125 385 1776 4991 1215 3776 7 2359 1951 408 1777 5176 1254 3922 7 2359 1945 414 1778 5171 1192 3979 7 2225 1847 378 1779 5366 1274 4092 6 2415 2063 352 230 1780 6059 1444 4614 6 2878 2687 191 1781 6040 1199 4841 12 2813 2635 178 1782 6081 1165 4916 20 3040 2840 200 1783 4861 1229 3632 11 2495 2307 188 1784 5828 1258 4570 7 2872 2443 429 1785 5891 955 4936 11 4586 4457 130 1786 5795 1273 4521 8 4063 3655 408 1787 6526 1430 5096 7 3641 2867 774 304 1788 6498 1382 5115 12 3756 2962 795 317 1789 6674 1448 5225 11 3687 2874 813 314 1790 6967 1790 5177 9 3764 2991 773 236 1791 7970 1966 6005 11 3925 3210 715 264 1792 8005 2017 5988 10 3989 3256 732 333 1793 7651 1900 5751 5 3947 3233 714 224 1794 7918 2073 5845 2 3521 2854 667 264
+Table A.3: British Excise and Customs Revenues (in £1,000), 1758-1794
+Excise Revenues Customs Revenues
+Paid to Exchequer: Paid to Exchequer:
+
+
+33
+(1) (2) (3) (4) (5) (6) (7) (8)
+Year: Total Trade Domestic Bounties Total Trade Domestic Bounties 1795 8882 2630 6253 5 3535 2784 751 387 1796 8421 2735 5686 2 3613 2918 694 881 1797 9690 3305 6385 2 4056 3292 763 279 1798 9635 3080 6555 6 5571 4834 737 256 1799 10069 3140 6929 15 7499 6834 665 295 1800 10869 3994 6875 32 6763 6047 716 259 1801 10581 4148 6433 19 5871 5271 600 1661 1802 13165 4473 8692 21 6059 5406 652 992 1803 16040 5283 10757 18 7180 6465 715 261 1804 19670 5777 13893 12 8358 7481 877 304 1805 20207 6551 13656 31 9084 8177 907 270 1806 21735 7132 14603 27 9673 8697 977 317 1807 22049 7377 14672 20 9124 8188 935 546 1808 22829 8568 14261 7 8508 7443 1066 792 1809 21122 7119 14003 14 10981 9941 1039 720 1810 23261 8510 14750 13 10819 9698 1121 847 1811 23247 7881 15366 8 1812 21980 7239 14740 24 10030 8956 1073 602 1813 21894 7231 14663 21 10495 9418 1077 590 1814 23425 7541 15884 20 10961 9879 1082 579 1815 24949 8151 16798 25 1816 21786 7480 14306 13 1817 18383 6721 11662 18 9808 8997 811 425 1818 20836 7471 13365 17 10035 9176 859 411 1819 21257 7819 13438 4 1820 24439 8751 15688 4 1821 24660 8958 15702 4 1822 23922 9154 14767 4 1823 22888 9449 13440 6
+Table A.4: British Excise and Customs Revenues (in £1,000), 1795-1823
+Excise Revenues Customs Revenues
+Paid to Exchequer: Paid to Exchequer:
+Note : These tables report the yearly excise and customs revenues of the British government (in £1,000).
+Columns 1-3 report the revenues paid to the Exchequer collected by the excise, and columns 5-7 report the
+revenues paid to the Exchequer collected by the customs. These exchequer revenues are net of management
+costs, drawbacks, and bounties or other charges paid out of the revenues. Columns 2-3 for excise and
+columns 6-7 for customs disaggregate the exchequer revenues into those collected from traded and
+domestic goods. Columns 4 and 8 report the revenues that finance bounties or equivalent charges for
+national objectives. These revenues never reached the Exchequer and are therefore not included in the totals
+of columns 1 or 5. The excise revenues paying for bounties (in col. 4) are solely derived from traded goods. All
+the customs revenues paying for bounties (in col. 8) are collected from traded goods. Cells are left empty
+whenever data is missing. See Section 4 for a discusion of the sources and methodological choices.
+
+
+34
+(1) (2) (3) (4) (5) (6)
+Year
+Foreign Spirits Tea Coffee etc. Wine Tobacco Pepper 1720 15 1721 26 1722 30 1723 70 1724 87 1725 85 71 69 1726 89 65 72 1727 103 92 76 1728 131 104 74 1729 138 134 80 1730 154 156 77 1731 180 152 72 1732 175 124 74 1733 302 109 61 1734 121 122 61 1735 130 123 62 1736 152 148 65 1737 212 228 64 1738 184 224 60 1739 202 218 58 1740 242 197 60 1741 171 175 57 1742 226 171 54 1743 241 152 55 1744 218 147 49 1745 215 146 42 1746 215 243 42 1747 190 258 41 1748 217 289 42 1749 264 301 43 1750 256 280 42 1751 330 294 42 1752 270 295 37 1753 300 313 40 1754 373 337 40 1755 346 345 41 1756 341 370 41 1757 321 410 43
+Table A.5: British Excise Revenues from Overseas Trade (in £1,000), 1720-1757
+
+
+35
+(1) (2) (3) (4) (5) (6)
+Year
+Foreign Spirits Tea Coffee etc. Wine Tobacco Pepper 1758 410 433 41 1759 460 430 55 1760 431 447 41 1761 489 460 42 1762 535 448 41 1763 594 472 44 1764 546 494 44 1765 648 479 39 1766 776 460 46 1767 509 366 40 1768 629 316 42 1769 683 281 41 1770 659 282 41 1771 687 274 39 1772 678 381 39 1773 685 435 36 1774 694 573 33 1775 677 507 35 1776 718 462 36 1777 788 430 35 1778 730 429 33 1779 741 500 34 1780 896 519 29 1781 658 498 42 1782 633 509 23 1783 618 588 23 1784 678 555 24 1785 853 101 2 1786 912 362 0 1787 942 469 4 15 1788 720 448 28 186 1789 731 439 34 244 1790 797 432 35 276 250 1791 805 482 40 340 298 1792 803 491 38 377 309 1793 777 476 39 324 284 1794 904 499 35 320 314
+Table A.6: British Excise Revenues from Overseas Trade (in £1,000), 1758-1794
+
+
+36
+(1) (2) (3) (4) (5) (6)
+Year
+Foreign Spirits Tea Coffee etc. Wine Tobacco Pepper 1795 834 545 47 866 338 1796 857 733 28 680 437 1797 1085 887 48 820 465 1798 1006 965 52 577 480 1799 1158 991 53 555 384 1800 1504 989 62 901 538 1801 1613 1112 58 848 517 1802 1873 1296 67 749 489 1803 2090 1569 70 973 581 1804 1846 2214 71 1061 584 1805 2187 2732 90 986 556 1806 2369 2885 112 1120 646 1807 2547 2820 115 1104 792 1808 3260 3118 103 1213 875 1809 2206 2910 132 1098 774 1810 3194 2959 75 1270 1013 1811 2608 3017 92 1092 1072 1812 2147 3002 110 959 1020 1813 2125 3001 122 919 1063 1814 2363 3125 91 928 1034 1815 2621 3303 80 1131 1017 1816 2226 3016 97 834 1307 1817 1816 2727 106 843 1230 1818 1971 2991 113 1108 1288 1819 2288 3077 122 1001 1330 1820 2212 3068 326 871 2186 88 1821 2156 3127 348 881 2305 141 1822 2221 3347 351 883 2209 143 1823 2317 3375 378 899 2320 159
+Table A.7: British Excise Revenues from Overseas Trade (in £1,000), 1795-1823
+
+
+37
+(1) (2) (3) (4) (5) (6) (7) (8)
+Year Exports Sugar
+Foreign Spirits Tea etc. Wine Tobacco
+Other Habit.
+Other Imports 1787 137 965 99 123 445 381 21 1140 1788 137 1033 122 118 439 441 30 1093 1789 142 863 132 133 444 408 35 1254 1790 157 909 117 129 504 222 38 1344 1791 138 1075 103 144 545 231 40 1235 1792 145 1013 117 138 625 224 35 1334 1793 121 1317 136 160 356 213 39 1214 1794 127 1031 98 167 468 242 31 1089 1795 124 950 49 169 535 266 40 1193 1796 135 1225 106 144 433 252 42 1430 1797 125 1300 98 185 508 261 36 1144 1798 272 1795 189 175 769 283 50 1594 1799 349 2322 156 214 1089 304 68 2477 1800 393 1835 204 252 989 340 65 2201 1801 354 2782 248 227 1098 303 68 1925 1802 208 2211 239 176 1114 328 60 2217 1803 298 1551 255 182 1067 352 79 2876 1804 533 2458 166 199 662 369 116 3201 1805 510 2440 226 215 913 419 69 3388 1806 358 3124 264 243 1072 377 81 3578 1807 403 2959 290 255 1156 420 79 3786 1808 442 3600 236 387 972 376 94 2706 1809 577 3751 316 278 1182 451 88 4766 1810 743 3014 230 299 1104 363 114 6325 1812 587 3580 140 329 839 386 108 5134 1814 1000 3277 296 396 1000 403 174 4916 1817 250 3967 221 377 915 681 192 4067 1818 232 2331 220 360 1015 687 454 4996
+Table A.8: British Customs Revenues from Overseas Trade (in £1,000), 1787-1818
+Note: These tables decompose British government revenues from traded goods (in £1,000), corresponding to Figure 6 in the text. Tables A.5-A.7 provide excise revenues by traded good for 1720-1823. Table A.8 provides customs revenues by traded good for 1787-1818. Excise revenues from tea and wine include revenues from tea andwine licenses. Excise revenues from imported beer have been included with the revenues from foreign spirits. Customs revenues from other habituation goods come from opium, licorice, pepper, spices etc. The category of Table A.8 includes all the customs revenues from imports other than the goods enumerated here. See Section 4 for a description of the data and methodology.
+
+
+38
+SUPPLEMENTARY APPENDIX, NOT FOR PUBLICATION
+B Supplementary Appendix Figures
+Figure B.1: Revenues from Indirect Taxation as Share of Total Revenue
+Note: This figure plots the share of British total revenue from indirect taxation (i.e., excise and customs revenue)
+over time. Source: Mitchell (1988).
+
+
+39
+Figure B.2: Growth of British Government Debt in Times of War, 1691-1820
+Note: This figure plots British government debt in £1,000,000 over time, with major wars shaded in gray. See
+Section 2 for a discussion of this figure. Source: Mitchell (1988).
+
+
+40
+Figure B.3: Comparison of Aggregate Revenues with Mitchell (1988), with Bounties
+Panel A: Excise Revenues
+Panel B: Customs Revenues
+Note: This figure compares the aggregate patterns of excise and customs revenues of the British government (in
+£1,000,000) as calculated by the authors with those reported in Mitchell (1988). Panel A reports the excise
+revenues for 1689-1823, and Panel B reports the customs revenues for 1689-1818. The black, solid line plots
+revenues as paid into the Exchequer plus revenues spent on bounties and other national objectives. This figure
+reproduces the plots of Figure 1, but with Exchequer plus bounty revenues instead of solely Exchequer
+revenues. Gaps in the lines indicate years with missing data. We assume zero excise revenues spent on bounties
+before 1761. See Section 4 for a description of the data and methodology.
+
+
+41
+Figure B.4: Revenues from Traded Goods and Domestic Goods, with Bounties
+Note: This figure decomposes the excise and customs revenue of the British government (in £1,000,000). The
+black area plots the levels of revenues from traded goods, and the grey area plots the revenues from domestic
+goods. These revenues are the sum of Exchequer revenues and revenues raised to pay for bounties and other
+national objectives, as calculated by the authors. This figure reproduces the plots of Figure 2, Panel B, but with
+Exchequer plus bounty revenues instead of solely Exchequer revenues. Years with missing data are linearly
+interpolated. We assume zero excise revenues spent on bounties before 1761. The figure starts in 1711, as we do
+not observe data on bounties before that year. See Section 4 for a description of the data and methodology.
+
+
+42
+Figure B.5: Revenues from Traded Goods as Share of Excise and Customs,
+with Bounties
+Note: This figure compares the share of British customs and excise revenue from traded goods as computed by
+the authors with the share as reported in Brewer (1989) and using the data in Mitchell (1988). The grey, dashed
+line plots the share following Brewer (1989) in treating customs revenue as coming from traded goods and
+excise as coming from domestic production. The black, solid line plots the share of revenue from traded goods
+following the authors’ calculations and using disaggregated customs and excise data. Our Data with Bounties is
+the sum of Exchequer revenues and revenues spent on bounties and other national objectives. This figure
+reproduces the plots of Figure 3, but with Exchequer plus bounty revenues instead of solely Exchequer
+revenues. Gaps in the lines indicate years with missing data. We assume zero excise revenues spent on bounties
+before 1761. The black line starts in 1711, as we do not observe data on bounties before that year. See Section 4
+for a description of the data and methodology.
+
+
+43
+Figure B.6: Revenues from Traded Goods as Share of Total Revenue
+Note: This figure compares the share of British total revenue from traded goods as computed by the authors with
+the share as calculated following Brewer (1989) and using the data in Mitchell (1988). The grey, dashed line
+plots the share following Brewer (1989) in treating customs revenue as coming from traded goods and excise as
+coming from domestic production. The black, solid line plots the share of revenue from traded goods following
+the authors’ calculations and using disaggregated customs and excise data. Total revenues data come from
+Mitchell (1988).

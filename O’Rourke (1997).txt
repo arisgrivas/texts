@@ -1,0 +1,523 @@
+THE JOURNAL OF ECONOMIC HISTORY
+VOLUME 57 DECEMBER 1997 NUMBER 4
+The European Grain Invasion, 1870—1913
+KEVIN H.O'ROURKE
+The article quantifies the impact of cheap grain on the European economy in the late nineteenth century. Falling transport costs led to dramatic declines in AngloAmerican grain price gaps, but price convergence was less impressive between the U.S. and other European economies, and within Europe. Cheaper grain meant lower rents throughout Europe, and protection boosted rents, but the magnitudes involved differed between countries. Similarly, cheap grain increased real wages in Britain, but lowered them elsewhere. The grain invasion implied different shocks across countries, and this partly explains the varying trade policies pursued in Europe during this period.
+T
+he voyages of discovery were motivated by a desire for commodities that were scarce and therefore valuable. We know now that they were far more important economically than originally intended, precisely because they stumbled upon a resource so abundant that it was effectively free: New World land. The discoveries raised the endowment of land per European
+capita sixfold.1 The long-run implications for European living standards are obvious. Less frequently remarked upon, but equally obvious, are the longrun implications for European income distribution. Such an increase in land endowments would inevitably spell disaster for European landowners. Overall living standards might increase, but in the long run European rents would decline, with European labor or capital benefitting. For these changes to occur, it was necessary that New World land be brought into cultivation. This required inputs of European labor and capital as well as the efficient transportation needed to make the produce of the land available to European consumers. Many of the great themes of the next four
+The Journal of Economic History, Vol. 57, No. 4 (Dec. 1997). © The Economic History Association. All rights reserved. ISSN 0022-0507. Kevin H. O'Rourke is Statutory Lecturer in Economics, Department of Economics, University College Dublin, Belfield, Dublin 4, Ireland. All appendices are available upon request, from either the author or the offices of'the Journal of Economic History. I am grateful to the following for help and advice: Beth Ann Bovino, Bill Collins, Mike Gavin, Chris Hanes, Joel Mokyr, Pierre Sicsic, and two anonymous referees; and to the following for sharing their data with me: Jean-Michel Chevet, Giovanni Federico, George Grantham, Ingrid Henriksen, Leandro Prados de la Escosura, Alan Taylor, and Jeffrey Williamson. Giovanni Federico, Avner Offer, Cormac 6 Grada, Jeffrey Williamson and seminar participants at All Souls' College Oxford made extremely helpful comments on an earlier draft of the paper. 'Jones, European Miracle, p. 82; and Webb, Great Frontier.
+775
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+776 O'Rourke
+centuries—slavery, the extension of thefrontier,voluntary mass migration
+were part of the vast adjustment process that ensued.2 By the late nineteenth century, this adjustment process was reaching a climax, as steamships and railroads linked New World land ever more closely to the European economy. One of the most visible results was the flood of New World grain, which lowered European grain prices from the mid-1870s. To what extent were the long-run distributional implications of Columbus fulfilled? This article is primarily concerned with the effects of cheap grain on European wages, profits, and rents. It brings a quantitative focus to bear on the question, just as C. Knick Harley and others have examined the quantita
+tive implications of the grain invasion for the New World.3 It also hopes to address the vast political economy literature that asks: why did most of the Continent resort to protection during this episode, and why did Britain stick to free trade? Why did Denmark respond so successfully to the challenges posed by cheap wheat? What does this episode tell us about the difficulties involved in building and maintaining open international trading regimes? Political scientists such as Peter Gourevitch, Ronald Rogowski, and Daniel Verdier have explored at length the ways in which price shocks in
+international commodity markets affect domestic politics.4 What is missing from this work is a quantitative assessment of the impact of cheap grain in Europe. Did declining transport costs imply large or small declines in European grain prices, and did Continental protection overturn or merely mute these globalization forces? Protection meant that declining transatlantic transport costs may not have translated automatically into z«fr*a-European commodity market integration; a key task of the article will be to distinguish between transatlantic commodity market integration and intra-European developments. The article plots the dimensions of the grain invasion in several European countries and explores the extent to which protection succeeded in insulating economies from this international commodity market shock. It explores the impact of cheap grain and tariff policies on resource allocation and income distribution in a number of countries, using both econometric and simulation techniques. The focus is comparative, in the tradition of Paul Bairoch, Charles Kindleberger, and others; and it is on northwestern Europe: France, Germany, Sweden, Denmark, and Britain.
+BIG QUESTIONS, SIMPLE MODELS
+When analyzing the political impact of the grain invasion, most authors implicitly rely on the sector-specific factors model of international trade
+2Findlay, "International Trade."
+3Harley, "Western Settlement"' and "Transportation" and "Late Nineteenth Century Transportation."
+4Gourevitch, Politics; Rogowski, Commerce; and Verdier, Democracy.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870—1913 777
+FIGURE 1
+THE IMPACT OF CHEAP GRAIN
+theory.5 The model assumes two sectors, agriculture and industry. Agriculture produces food using land and labor; industry produces manufactures using capital and labor. Let food be the import good and manufactures the export good. Labor is mobile across sectors; the economy's labor endowment is given by the distance OpOM in Figure 1. DLF is the demand curve for agricultural labor, measured from OF, D^ is the industrial demand for labor curve, measured from OM. Initially the equilibrium is at A, with nominal wages equal to w0. Now let the price of grain fall, as cheap New World cereals flood the domestic market. The demand for labor in agriculture contracts to DLF', with AB being a measure of the decline in food prices. The equilibrium shifts to C: agriculture contracts, labor migrates to the towns, and industry expands. Nominal wages fall to w,. The distributional consequences of this shock are for the most part clear. Capitalists gain: as their wage costs fall, profits rise. On the other hand,
+5The model is itself in part a gift to that field from cliometrics: see Temin, "Labor Scarcity"; and Jones, "Three-Factor Model." Rogowski, Commerce, is implicitly working with a model within which labor, capital, and land are all mobile between at least three sectors, but the model is never explicitly specified.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+778 O'Rourke
+landlords lose: the decline in output prices exceeds the decline in wage costs, and rents fall. The impact on workers is unclear: nominal wages have declined, but food prices have fallen by more. If food is a sufficiently important part of workers' budgets, then real wages increase; otherwise, they decline. In the context of late nineteenth-century Europe, the model suggests that landlords should have favored agricultural tariffs, and that capitalists should have been free traders. The preferences of labor, the mobile factor, remain theoretically ambiguous; but this does not a priori preclude the possibility that workers were aware of where their interests actually lay, and lobbied accordingly. The model's underlying intuition has frequently been drawn upon by contemporaries and historians discussing the political economy of late nineteenth-century trade policy. First, consider the impact of the grain invasion on labor, and the labor movement's attitude towards protection. In a simple Heckscher-Ohlin framework, European labor, as the abundant factor,
+should have favored trade, and this is what Rogowski assumes.6 In a sectorspecific factors framework, on the other hand, things are not so straightforward. The off-setting effects identified above—the cost-of-living effect on the one hand, and the labor-demand effect on the other—played a key role in the policy debates of the time. For example, Douglas Irwin has argued that Peel's decision to repeal the Corn Laws was due to his gradual realization that, contrary to classical wage theory, workers would benefit
+from low food prices.7 On the other hand, Disraeli argued that "the price of wheat... is not a question of rent, but it is a question of displacing the labor of England that produces corn. . . . Will that displaced labor find new
+employment?"8 On the Continent, socialist groups tended towards free trade, although this
+was not universally the case (the picture in France is mixed).9 Social Democrats in Germany, and socialist parties in Italy, Switzerland, and Belgium all took the view that cheap food was to be welcomed; in 1904 the British Labor Party adopted a free trade position to which it adhered for 30 years. This may seem paradoxical in light of Marx's view that free trade had hastened the depopulation of Ireland by provoking a switch from tillage to pasture; the fact that labor movements were largely urban may provide an
+explanation.10 If labor were completely immobile between town and country, urban workers would only gainfromcheap grain; even if rural-urban migration were possible (as it clearly was), unions might not have perceived the
+'Rogowski, Commerce.
+7Irwin, "Political Economy."
+8Cited in Bairoch, "European Trade Policy," p. 129. 'The following discussion draws heavily on Bairoch, "European Trade Policy."
+l0Marx, Capital, p. 870.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870-1913 779
+fu.ll general equilibrium effects of the grain invasion; or alternatively, they might have correctly calculated that the cost-of-living effect dominated the labor-demand effect. The sector-specific factors model also informs the discussion of how the two specific factors, land and capital, viewed tariff policy. In Britain, for example, a textbook analysis of the Repeal of the Corn Laws emphasizes the growing power of urban interests, symbolized by the Reform Act of 1832." It was this shift in power from the countryside to the towns that made repeal inevitable. There is a problem with the analysis: in 1846, roughly 80 percent
+of MPs were still landowners.12 One sophisticated response to the problem is given by Cheryl Schonhardt-Bailey, who argues that a rapidly developing internal British capital market led increasing numbers of landowners to invest their capital in nonagricultural sectors of the economy: free trade only
+damaged undiversified landowners.13 Similar puzzles have been debated in the context of Continental trade policy. The simple sector-specific factors model can easily account for the German debate of the 1890s, which pitted Agrarian economists such as Adolf Wagner, arguing for protection, against free-trading liberals such as Max Weber and Luigi Brentano; and agricultural lobby groups, such as the
+Bund der Landwirte, against the representatives of industry.14 But what can explain the "marriage of iron and rye," which led to both agriculture and industry being protected in 1879? The model clearly predicts that the interests of capital and land were directly opposed; a combination of tariffs that benefited the one inevitably would have hurt the other. One response to this puzzle in the German historiography has been implicitly to argue that the model needs to be extended from two sectors to three or more sectors, each with its own specific factor; in such a context, the owners of two sector-specific factors (grain growers and heavy industry, for example) could combine to benefit themselves at the expense of politically weaker groups (peasants engaged in animal husbandry or light industry). Did agricultural protection hurt southern peasants, whose animals ate grain, or were
+they more than compensated by protection for animal products?15 What were the effects of protection on light industry, or steel firms which were not vertically integrated? Once again, the debate has been largely conducted in
+a sector-specific factors framework.16
+"Caves and Jones, World Trade, p. 106.
+l2The estimate is due to Aydelotte, "Country Gentlemen," cited in Schonhardt-Bailey, "Specific Factors," p. 547.
+l3Schonhardt-Bailey, "Specific Factors." '"Barkin, Controversy, gives a good account of late nineteenth-century German tariff controversies.
+l5Gerschenkron, Bread; Hunt, "Peasants"; and Webb, "Agricultural Protection." "it is here that Rogowski's Heckscher-Ohlin framework provides the more elegant solution. Capital was still scarce in 1871, as was land, and so both were protectionist. By the 1890s capital was becoming abundant and becoming converted to free trade. This argument of course also assumes that
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+780 O'Rourke
+Finally, note that opponents of free trade objected to the allocative consequences of the grain invasion, as well as to its implications for income distribution. In particular, the migration to the cities that would naturally result was seen by many as ethically and socially undesirable: this was a theme stressed by the German Agrarians, for example. Protectionism would help slow down this undesirable trend and was thus to be welcomed. Ireland's Eamon de Valera was to make similar cultural defenses of rural life
+in the twentieth century.17 The Agrarian viewpoint in Germany was often characterized by anti-Semitism and racism, with the Slavicization of Prussia caused by the Leutenot (a scarcity of rural workers due to migration to the cities) being a frequent cause for concern. Even in liberal Britain, the dislike of urbanization occasionally surfaced in the debate, as the following quote from G.B. Longstaff indicates:
+the country life is more natural, and hence more desirable than the town life . . . the town life is not as healthy as the country life.... The narrow chest, the pale face, the weak eyes and bad teeth of the town-bred child are but too often apparent... long life in towns is accompanied by more or less degeneration of the race. The great military powers of the continent know this well enough, and it may be surmised that with them agricultural protection is but a device to keep up the supply of countrybred recruits.
+The sector-specific factors model can thus be used to shed light on many of the great debates surrounding tariff policy in late nineteenth-century Europe. Unhindered, the grain invasion would have reduced rents, boosted profits, and led to urban-rural migration. The question is by how much? And what was the net impact on labor: did the cost-of-living effect outweigh the labor-demand effect, or vice versa? What we need is some numerical flesh to hang on to the theoretical bones of the model. Moreover, the model needs to be generalized: capital can also be used in agriculture; land can be used in several agricultural sectors; some goods are nontraded; outputs from one
+sector can be used as inputs into others.19 The next section examines movements in grain prices in a number of economies between 1870 and 1913. The article then summarizes acreage, wage, and land price trends over the same period. Subsequent sections then attempt to make the analytical connection between commodity prices, on the
+there was some third factor that would be hurt by protection—in this case, labor—and that there was a third, labor-intensive sector for policy makers to discriminate against. "Although in Ireland's case, the protection that de Valera espoused would of course benefit industry and cities, at the expense of agriculture and the countryside. For an excellent analysis of the cultural contradictions at the heart of de Valera's economic policies, see Daly, Industrial Development. 18Longstaff, "Rural Depopulation," pp. 415-16. The strategic importance of grains at this time should also be kept in mind, as Offer, First World War, reminds us. "See Fogel, "Specification Problem." A sensible response to Fogel's critique is to adopt a sufficiently general modeling structure so as to ensure that qualitative results are, as far as possible, not predetermined by the theoretical structure of the model.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870-1913 781
+one hand, and factor prices on the other. The article uses a computable general equilibrium (CGE) approach to tackle the question, and then uses an econometric approach. The conclusion draws some lessons for broader historical debates.
+THE EUROPEAN GRAIN MARKET, 1870-1913
+International Market Integration
+This section compares grain prices in eight locations during this period: Britain, Denmark, Sweden, France, Bavaria, Prussia, Chicago, and Odessa. Price data for wheat, barley, oats, and rye were collected from a variety of sources, and transformed into common units (shillings per Imperial Quarter). Details are given in Appendix 1. To see the full impact of declining transport costs, it is of course necessary to focus on commodity price gaps between exporting countries and an importing nation, like Britain, which adhered to free trade throughout the period. Panel A of Table 1 confirms what Harley and others have already found: there was dramatic transatlantic grain price convergence during the
+late nineteenth century.20 The U.S. grain prices used here are not fully comparable with the European prices, implying that I may be incorrectly estimat
+ing price gap levels; but the trends in these price gaps are unmistakable.21 The Anglo-American wheat price gap fell from 54 percent in 1870 to nothing in 1913; the barley price gap declined from 46 percent to 11 percent over the same period; and the oats price gap collapsed from 138 percent to
+28 percent. These were enormous shocks to the international economy.22 Moreover, there was intra-European commodity market integration as well, at least between those countries that allowed it to take place. Britain was of course a net importer of all grains in this period, Denmark was a net exporter of barley, and Sweden was a net exporter of oats until 1899. Panel B of Table 1 shows extremely large declines in Anglo-Scandinavian price gaps for these two grains, confirming the findings of myself and Jeffrey G.
+Williamson.23 For example, British barley prices were 42 percent higher than Danish prices in 1870, but the gap had vanished by the end of the period. As an importing country, Britain's grain prices were higher than those both in the New World and in Scandinavia. Commodity market integration
+20Harley, "Transportation."
+21 European prices are market averages; U.S. prices are for particular grades of grain. U.S. wheat prices were adjusted in an attempt to correct for this. Trends in transatlantic price gaps will be reliable unless average European wheat grades are changing over time. See Appendix 1 for details. 22The fact that wheat was a more expensive grain than oats may explain why price gaps were so much greater in percentage terms for the latter product. ^O'Rourke and Williamson, "Open Economy Forces."
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+782 O'Rourke
+TABLE 1 INTERNATIONAL GRAIN PRICE SPREADS, 1870-1913 (percentages)
+Grain Countries 1870 1913
+Wheat Barley Oats
+Barley Oats Oats
+Wheat Barley Oats Rye Wheat Barley Oats Rye
+Wheat Barley Oats Rye Wheat Barley Oats Rye
+Wheat Wheat Wheat Wheat Wheat
+Wheat Wheat Wheat Wheat
+Panel A. Transatlantic Price Gaps
+Britain-United States 54.1 Britain-United States 45.9 Britain-United States 138.1
+Panel B. Anglo-Scandinavian Price Gaps
+Britain-Denmark 42.0 Britain-Sweden 55.3 Britain-Denmark 46.8
+Panel C. United States-Scandinavian Price Gaps
+Denmark-United States 28.9 Denmark-United States 0.4 Denmark-United States 60.1 Denmark-United States 44.7 Sweden-United States 18.7 Sweden-United States -6.0 Sweden-United States 53.4 Sweden-United States 39.2
+Panel D. Continental European-United States Price Gaps
+France-United States 43.8 France-United States 6.1 France-United States 117.7 France-United States 61.1 Bavaria-United States 44.0 Bavaria-United States 5.4 Bavaria-United States 82.6 Bavaria-United States 66.5
+Panel E. Western European-Odessa Price Gaps
+Britain-Odessa Denmark-Odessa Sweden-Odessa France-Odessa Bavaria-Odessa
+37.9 15.7 9.4 28.0 25.3
+Panel F. Intra-European Price Gaps
+Britain-France 5.8 Denmark-France -11.2 Sweden-France -17.1 Bavaria-France 0.6
+-0.8 10.9 28.1
+-2.0 5.0 7.1
+-4.6 11.4 19.4 5.3 17.3 17.6 22.3 26.1
+29.3 15.4 61.0 16.9 37.1 43.6 106.3 48.5
+6.5 4.9 35.9 48.8 43.8
+-23.5 -26.2 -9.2 7.1
+Source: Predicted values are from regressions of price gaps on time and time-squared. The underlying price data is as described in Appendix 1.
+narrowed price gaps between Britain and both exporting markets. This price gradient, with Britain at the summit, can help explain the paradoxical finding that price gaps between the U.S. and Denmark, a free trader throughout the period, did not always decline (panel C of Table 1). The oats price gap fell from 60 percent to 19 percent over the period, a much smaller decline
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870-1913 783
+TABLE 2 CEREAL PROTECTION, 1909-1913 (ad valorem equivalents, percentage)
+Grain
+Wheat Barley Oats Rye Weighted geometric average Weighted arithmetic average
+France
+38.1 21.0 16.9 20.6 26.6 28.4
+Germany
+37.2 35.5 45.1 42.9 40.0 40.1
+Sweden
+32.0 42.2 0.0 39.9 0.0 24.0
+Source: Tariff data for individual grains are given in Appendix 1. For weights used in computing average tariffs, see Appendix 5.
+than in the Anglo-U.S. case; although the Danish-U.S. wheat price gap was eliminated by 1913, this was from a much smaller initial starting point than that of Anglo-America; and the Danish-U.S. barley price gap actually increased over the period. What was true of Denmark was, not surprisingly, even more true of Sweden, which imposed tariffs on imports of wheat, barley, and rye. Table 2 gives average tariffs for the main grains in Germany, France, and Sweden
+for thefive-yearperiod 1909 to 1913.2A The figures confirm what qualitative histories stress: the disproportionately high protection given to wheat in France and rye in Germany as well as the higher average level of protection
+in Germany than in France or Sweden.25 As a traditional oats exporter, Sweden did not impose tariffs on imports of that grain. As in the Danish case, the Swedish-U.S. barley price gap increased (and by somewhat more than in the Danish case); more significantly, the Swedish-U.S. rye price gap was only reduced by one-third, while the Danish-U.S. rye price gap was all but eliminated; and the Swedish-U.S. wheat price gap remained unchanged over the period. France and Germany also succeeded in insulating themselves to a considerable extent from the impact of transatlantic transport cost declines (panel D of Table 1). France was of course a net grain importer. In this section I focus on Bavarian rather than Prussian prices since Prussia was a traditional
+grain exporter.26 The Franco-U.S. wheat price gap fell by only one-third, and the Bavarian-U.S. gap by less than one-sixth; Bavarian oats and barley prices, and French barley prices, moved further from U.S. levels during the period; and the Bavarian-U.S. rye price gap fell by little more than one
+24Late nineteenth-century tariffs were specific; they are here converted to their ad valorem equivalents by dividing the specific tariff by a notional world price, set equal to the domestic price minus the specific tariff. This method of course produces alternative tariff estimates for Prussia and Bavaria (grain prices tended to be higher in the latter region). Prussian tariffs are given in Table 2. "Note, however, the even higher protection for German oats. bavarian grain prices were higher than Prussian grain prices during this period (except in the case of oats, early on). Of course, market integration was also occurring within Germany, with price-gap volatility declining sharply after German unification (except in the case of barley).
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+784 O'Rourke
+fourth. Average Bavarian cereal prices can hardly have moved much closer to U.S. levels during the period, while cereal prices converged far more strongly on U.S. levels in Britain and Denmark than in France and Sweden. A clear contrast thus emerges between free-trading Britain and Denmark, on the one hand, and protectionist countries on the other. This contrast is further born out when wheat prices in these five western European countries are compared with Odessa prices (panel E of Table 1). hi the British and Danish cases, there was clear commodity price convergence, while wheat prices diverged between Odessa, on the one hand, and Sweden, Germany, and France on the other. Indeed, by 1913 British prices were closer to Odessa prices than were Swedish, French, or German prices, whereas the
+opposite had been true in 1870.27
+Not only did Continental protection mute or overturn price convergence between western Europe and its U.S. and eastern granaries, it also hindered commodity market integration within western Europe. Panel F of Table 1 makes the point by focusing on wheat price gaps between France and other European countries. Surprisingly, no evidence of commodity market integration emerges here; in fact, for all four pairs of countries bar Sweden-France, price gaps actually increased over the period. An era in which the Old and New Worlds became much more economically integrated with each other was also an era in which grain markets within Continental Europe became more balkanized. Globalization was not a universal phenomenon, even during the comparatively liberal late nineteenth century.
+Transport Costs, Protection, and Average Cereal Prices
+Market integration raises prices in the exporting region and lowers prices in the importing region. The question now arising is whether the decline in transport costs documented above affected European or U.S. prices more. The answer depends, of course, on elasticities of supply and demand in the two regions. If these elasticities are taken to have been equal to 1.0 and -0.3, respectively, then a simple partial equilibrium model predicts that declining transport costs on their own would have led to a decline in British
+wheat prices of between 15 and 25 percent.28 By how much in real terms did wheat prices actually fall in Europe over this period? Table 3 gives real grain-price movements between 1870 to 1874
+27Appendix 2 shows that these contrasts between free trading and protectionist countries can indeed be explained by protection. The appendix calculates Franco-British, Bavarian-British, Prussian-Danish, and Swedish-Danish grain price gaps. These price gaps were highly correlated with tariffs in the protectionist economies. This was particularly true in the case of wheat and in the case of Germany. 28This is based on O'Rourke and Williamson, "Late Nineteenth Century Anglo-American Factor Price Convergence" and "Erratum"; elasticities arefromHarley, "Late Nineteenth Century Transportation," p. 604, and price gaps are documented above. Note that Harley himself estimates much larger price effects; his table 2 suggests wheat price declines in Britain of more than 50 percent.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870—1913 785
+Grain
+Wheat Barley Oats Rye
+REAL GRAIN
+Britain
+35.3 25.5 18.7 N/A
+TABLE 3 PRICE DECLINES, 1870-1874 TO (percentage changes)
+Denmark
+33.3 3.6 -0.9 19.1
+Sweden
+23.2 9.9 7.2 11.7
+1909-1913
+France
+22.5 12.6 3.6 18.4
+Germany
+21.2 8.3 2.9 13.5
+Note: A negative entry denotes a price increase. N/A indicates data were not available. Source: For grain prices, see Appendix 1. For GDP deflators, see Appendix 6. German prices refer to Prussia.
+and 1909 to 1913 for the five countries in my sample.29 As can be seen, wheat prices fell by 35 percent in Britain, or by 10 to 20 percentage points more than the 15 to 25 percent warranted by the decline in transport costs alone. This large price decline reflects not only market integration but also agricultural supply shifts in the U.S. and elsewhere. Real wheat prices fell by a very similar amount in Denmark. What about France, Germany, and Sweden? In fact, avoiding wheat-price convergence on the U.S. was not enough to prevent wheat farmers from losing: wheat prices fell in real terms by roughly 20 percent in all three countries. Tariffs protected farmers from the impact of commodity market integration but did not protect them from the other supply-side forces lowering wheat prices during the period. What about other cereal prices? Table 3 shows that other cereal prices fell by less in Britain; again, they fell by even less on the Continent; but again they did fall rather than increase. For example, oats prices fell by only 19 percent in Britain and by only 0 to 7 percent on the Continent. To repeat, tariffs muted or completely offset the impact of transatlantic commoditymarket integration, but they did not offset the impact of mechanical reapers and all the other forces pushing down real grain prices during this period.
+GRAIN ACREAGES AND FACTOR PRICES
+Table 4 shows how the area under cereal cultivation changed in a number of European countries between 1871 and 1911. As can be seen, acreage expanded in Russia, an exporting country; it also expanded in Denmark (a barley exporter) and Sweden (an oats exporter before 1899) in the decades before 1891. Thereafter, the cereal acreage declined in Denmark but held steady in protectionist Sweden. The impact of protection also shows up clearly in the contrast between the dramatic declines in British and Irish cereal acreages, the very modest decline in France, and the slight increase in Germany. Of course, it is the income distribution consequences of the grain invasion that were politically crucial, and Table 5 gives some basic facts. It reports
+2*Nominal grain prices are deflated by the relevant GDP deflator.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+786 O'Rourke
+TABLE 4 CEREAL ACREAGES, EUROPE 1871-1911 (1871 = 100)
+Country
+Austria Denmark France Germany Ireland Italy Netherlands Russia Sweden Britain
+1871
+100 100 100 100 100 100" 100 100" 100 100
+1881
+97.2 106.4 101.7 100.2 83.5 96.0 107.6 97.9 115.5 93.9
+1891
+103.9 107.1 97.7 101.4 70.2 96.5 105.3
+104.5c 127.7 84.4
+1901
+101.8 102.0 98.6 103.8 62.0 N/A 105.5 121.3 131.0 76.8
+1911
+106.0
+98.9a 95.1 106.3 59.1 100.7 107.2 162.5 125.8 75.1
+a1912 "1872
+C1892 Note: N/A indicates data were not available. Source: Figures are calculated from the data given in Mitchell European Historical Statistics, table D1.
+data on wages and land prices, collected in collaboration with Alan Taylor
+and Jeffrey G. Williamson.30 The data, deflated by the relevant consumer price indices, are for five European countries—Britain, Germany, France, Denmark, and Sweden—and for two New World countries—the United States and Australia—and are given as five-year averages between 1875 and 1913. Table 5 confirms the dramatic real wage growth in Scandinavia that was the focus of O'Rourke and Williamson, but it is the data on agricultural
+land prices that are chiefly of interest here.31 British land prices collapsed, declining by over 40 percent; they declined more modestly in France and Sweden and not at all in protectionist Germany or in the free-trading but
+cooperating Denmark.32 By contrast, land prices tripled in the New World, where wage-rental ratios fell by a half; wage-rental ratios more than doubled in free-trading Britain and Denmark but increased by less than 50 percent in
+protectionist France and Germany.33 It looks as if there may be a link between trade policies and income distribution: land prices fell by a lot more in free-trading than in protectionist countries, and wage-rental ratios moved exactly as standard trade theory
+'"O'Rourke, Taylor and Williamson, "Factor Price Convergence." Data on rents would of course be preferable, but they are unavailable. If Offer, "Farm Tenures," is right, and the "positional advantages of ownership" were declining in late nineteenth-century Britain, then British land rents would have declined more slowly than land values; this appears to have been the case. The results in the following two sections refer to the impact of grain prices on land rents. 31O'Rourke and Williamson, "Education." 32These national figures disguise much regional variation; for example, in Britain rents would have held up well around urban centers, which demanded growing amounts of milk and other relatively nontraded products. 33The Swedish figure is not such an anomaly; Sweden adopted protection relatively late, and average protection levels were slightly lower than in France or Germany (Table 2).
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870—1913
+TABLE 5 FACTOR PRICES, 1875-1913
+787
+Year
+1877 1882 1887 1892 1897 1902 1907 1912
+1877 1882 1887 1892 1897 1902 1907 1912
+1877 1882 1887 1892 1897 1902 1907 1912
+Australia
+100.0 95.5 102.4 109.9 133.9 123.4 123.5 126.3
+100.0 99.9 121.0 201.3 226.4 240.8 313.6 307.8
+100.0 95.6 84.7 54.6 59.2 51.2 39.4 41.0
+United States
+Panel
+100.0 104.7 116.4 121.1 127.2 135.5 142.9 142.3
+Panel B.
+100.0 108.2 124.7 136.0 141.7 153.8 212.9 274.5
+France Germany
+Great Britain
+A. Real Wages, 1875-1913
+100.0 105.2 113.9 116.9 123.1 132.2 142.3 122.2
+Real Land
+100.0 95.6 82.9 89.2 84.5 81.8 89.8 84.7
+100.0 96.5 110.0 110.2 124.6 131.2 132.9 135.1
+100.0 104.0 113.9 118.8 127.6 121.6 128.6 125.9
+Prices, 1875-1913
+100.0 94.0 102.4 90.1 92.1 97.8 101.8 108.0
+100.0 77.3 76.1 76.7 82.2 69.8 68.3 58.2
+Panel C Wage-Rental Ratios, 1875-1913
+100.0 96.7 93.4 89.0 89.8 88.1 67.1 51.9
+100.0 110.1 137.3 131.1 145.7 161.6 158.3 144.2
+100.0 102.7 107.4 122.3 135.2 134.2 130.6 125.0
+100.0 134.5 149.7 154.9 155.2 174.1 188.2 216.3
+Denmark
+100.0 112.1 126.6 138.1 180.7 204.0 224.8 252.2
+100.0 108.9 97.5 90.0 89.3 85.3 97.8 111.2
+100.0 103.0 130.2 153.3 202.2 238.8 229.4 223.6
+Sweden
+100.0 99.3 110.4 120.0 138.6 151.6 168.3 180.8
+100.0 86.1 83.7 80.9 77.5 76.2 80.1 80.6
+100.0 115.4 131.9 148.3 178.9 198.9 210.1 224.4
+Source: For factor prices, see O'Rourke et al.,"Factor Price Convergence," app. indices, see Appendix 6.
+I; for consumer price
+would predict. However, there were many other forces at work influencing income distribution during this period, notably factor accumulation and technical progress. The following two sections thus make more explicitly the connection between commodity prices and factor prices.
+GRAIN PRICES AND INCOME DISTRIBUTION: CGE ANALYSIS
+Model Specification
+This section uses CGE models for Britain, France, and Sweden that have identical theoretical specifications but whose parameters reflect different country characteristics. The purpose of the article is comparative, and it is therefore important that results do not differ between countries because of different model specifications. Adopting a uniform theoretical framework shifts the focus towards the calibration of individual country models; differ
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+788 O'Rourke
+ent results will reflect different factor endowments, sectoral factor intensities, and other fundamental economic parameters that emerge from the data. Calibration requires information on all relevant input-output relationships and trade flows in the three countries in a base year. Appendix 3 describes
+in full the procedures used.34 There are five sectors in the model, three agricultural and two nonagricultural: pasture P, grain G, nongrain vegetable production NG, manufacturing
+M and services S.35 Services are nontraded; all other goods are traded. Since the price shocks being imposed are large, so-called Armington assumptions are made on both the export and the import side. These assumptions are standard in the CGE literature; their purpose is to insulate domestic sectors from world price shocks to some extent, thus ensuring that economies do not entirely stop producing particular commodities. The way this is done is to assume that each traded goods sector produces two goods: a domestic good D destined for local consumption and an export good X. Imported goods M substitute imperfectly with domestic goods in producing aggregate goods, which are then consumed or used as intermediate inputs. Allowing domestic goods, exported goods, and imported goods to be perfect substitutes would imply grain production (unrealistically) ceasing entirely in several experiments. A further advantage of this article's Armington-style treatment of international trade is that it allows for the reality of two-way trade in all commodities, a possibility that would be ruled out a priori by assuming that domestic and foreign goods were perfect
+substitutes.36 The second set of assumptions that are important in determining the final results have to do with the mobility of factors across sectors. Capital is assumed to be fully mobile across all sectors. Labor is imperfectly mobile between agricultural and urban sectors; that is, the economy is endowed with raw labor, which is then transformed into agricultural (LA) and nonagricultural (LNA) labor via a constant elasticity of transformation production
+function.37 Land is only used in agriculture. In some experiments, it is fully mobile between all three agricultural sectors; this assumption is relevant when exploring the long-run impact of price shocks on average rents, hi other experiments, land is assumed to be specific to either tillage (both grains and nongrains) or pasture. This assumption is relevant to the shorter
+^The British and Swedish models are substantially revised versions of the models used in O'Rourke and Williamson, "Late Nineteenth Century Anglo-American Factor Price Convergence," "Open Economy Forces." 35Appendix 4 provides some rudimentary sensitivity analysis, establishing that changing the specification of the French and Swedish models in particular directions does not affect the results of the article. 36Harley, "Antebellum American Tariff," has a good discussion of the Armington approach.
+37The benchmark elasticity of transformation is set equal to 10.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870—1913 789
+run, and is useful for exploring the initial impact of price shocks on the relative fortunes of grain producers and farmers engaged in animal husbandry. Production takes place in all three countries according to
+0)
+(GD,GX) = G(LA,K,R,W) (2) (NGD,NGX) = NG(LA,K,R, {/}) (3) (MD,MX) = M(LNA,K,{I}) (4) S=S(LNA>K,{I}) (5)
+where K denotes capital, R denotes land, and {1} is a vector of intermediate
+inputs.38 The production functions in equations 1 through 4 are constant elasticity of transformation, with benchmark elasticities of transformation equal to 10. Similarly, the Armington elasticity of substitution between imported and domestic goods is set equal to 10 in the benchmark case. All production functions are nested (Figure 2), with intermediate inputs being combined with value-added aggregates in a Leontief fashion; at a lower level, primary factors of production produce the value-added aggregate via CES production functions. The benchmark elasticity of substitution is 1 for agricultural sectors and 0.5 for nonagricultural sectors. All production functions exhibit constant returns to scale. There is a single representative consumer in the model, endowed with all factors of production, whose function it is to generate demands for final commodities. The consumer's endowment of foreign exchange, the numeraire good, is sufficient to enable the economy to run the benchmark trade deficit.
+The Impact of Cheap Grain
+The CGE models used here incorporate an aggregate grain sector, rather than distinguishing between individual grains. Appendix 5 thus calculates aggregate price shocks affecting this sector, which involves taking account of the different crop mixes in the three countries. Between 1870 to 1874 and 1909 to 1913, British cereal prices fell by 28.9 percent in real terms (when divided by the GDP deflator). In France they fell by 16.1 percent, reflecting a world price decline of 33.7 percent and a tariff of 26.5 percent. Finally, in Sweden average cereal prices fell by 10.4 percent, reflecting a world price decline of 26.8 percent and an average tariff of 22.4 percent.
+38This is not equivalent to assuming identical technologies in the three countries. The parameters that define these production functions vary from country to country, reflecting the different economic structures in each. See Appendix 3.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+790 O'Rourke
+Intermediate Export good
+Inputs
+Domestic
+(a) Agricultural production good
+Intermediate Export good
+Inputs
+Capital
+Labor
+\ Domestic
+Industrial production good
+FIGURE 2 THE STRUCTURE OF PRODUCTION
+Note: s denotes elasticity of substitution; /denotes elasticity of transformation.
+I start by asking what would have happened in the three countries if cereal prices had declined by 28.9 percent, as in Britain. Since the three models are theoretically identical, and the same shock is being imposed on them, any differences in results can only reflect differences in the underlying economic structures in the three countries. Table 6 gives some key facts. Table 7 gives the results obtained when cereal prices are allowed to fall by 28.9 percent in all three economies. As outlined above, about half to twothirds of this actual British price decline may be attributed to declining transport costs, while the remainder was due to other supply-side forces reducing grain prices worldwide. Several key features stand out from the table. First, these price shocks had a big impact on land rents. In the short run, tillage farmers would have seen their rents decline by 8.8 percent in France,
+20.6 percent in Sweden, and a massive 38.1 percent in Britain.39 These
+39Throughout, factor returns are deflated by country-specific consumer price indices, reflecting the budget weights of urban workers. See Appendix 3.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870-1913 791
+Sector
+Pasture Grain Nongrains
+Grain Nongrains
+Agriculture Manufacturing Services
+Agriculture Manufacturing Services
+TABLE 6 ECONOMIC STRUCTURE, 1871 (percentage)
+Britain France
+Panel A. Sectoral Output Shares within Agriculture
+56.5 27.2 16.3
+40.7 23.7 35.6
+Panel B. Sectoral Output Shares within Tillage
+62.5 37.5
+40.0 60.0
+Panel C. Sectoral Output Shares
+19.2 44.6 36.2
+40.7 38.5 20.8
+Panel D. Sectoral Value Added Shares
+14.9 39.8 45.4
+Share of labor force in agriculture 22.6 Net grain imports/production 54.7
+35.9 38.2 25.9
+50.5 4.3
+Sweden
+27.8 39.4 32.8
+54.5 45.5
+36.9 30.3 32.8
+40.1 11.4 48.5
+67.6 13.9
+Note: Percentage totals do not always add up to 100, due to rounding. Source: See Appendix 3. For the agricultural labor share, see Appendix 3; and O'Rourke and Williamson, "Open Economy Forces," app. 5, p. 10 and "Were Hecksher and Ohlin Right," app. 3, p. 5. The British figure only counts nondefense employment.
+different magnitudes are partly explained by the different shares of grains and nongrains in total tillage output: cereals accounted for 63 percent of tillage output in Britain but only 55 percent of Swedish tillage output and 40 percent of French tillage output (Table 6). Second, as Gerschenkron emphasized, farmers engaged in animal husbandry stood to gain from the grain invasion, at least in the short run. Cheap grain meant cheap fodder, and this boosted pasture rents in all three coun
+tries, particularly in Britain.40 Third, and in qualification to the second point, the relative fortunes of tillage and pasture areas depended crucially on the ease with which land could be switched between crops and pasture. To take an extreme case, if land were fully mobile between all agricultural sectors, all farmers would see their rents move in a similar fashion. Table 7 indicates that in this extreme case, average rents would have fallen by 4 percent in France, 9.4
+percent in Britain, and 14.4 percent in Sweden.41 Again, these differing mag
+•"Williamson, "Impact," found the same in the context of the Repeal of the Com Laws.
+4lThese declines in average land rents are much smaller than those reported for Britain in O'Rourke and Williamson, "Late Nineteenth Century Anglo-American Factor Price Convergence," "Erratum," who were exploring the impact of declining price gaps for meat and manufactures, as well as grains.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+792 O'Rourke
+TABLE 7 EFFECTS OF A 28.9 PERCENT DECLINE IN CEREAL PRICES (percentage changes)
+Variable
+P G NG M S WA WNA K R RT RP LA
+Fixed
++7.2 -74.5 +42.7 +5.7 -0.3 +2.5 +5.0 +5.3
+-38.1 +14.1 -19.2
+Britain
+Mobile
++21.3 -85.1 +20.9 +6.0 -0.2 +3.0 +5.7 +6.0 -9.4
+-20.6
+Fixed
++3.0 -47.1 +22.5 +3.1 -1.3 -4.5 -3.7 +5.3
+-8.8 +8.4 -4.8
+France
+Mobile
++ 11.4 -48.5 +19.4 +2.9 -1.4 -4.4 -3.6 +6.7 -4.0
+-4.9
+Fixed
++2.2 -20.6 +8.6 +13.9 + 1.4 -1.7 -0.4 +6.0
+-20.6 +7.4 -6.2
+Sweden
+Mobile
++5.4 -21.6 +8.4 +14.1 +1.5 -1.0 +0.4 +6.3 -14.4
+-6.2
+Note: Fixed experiments assume land specific to either pasture or tillage; mobile experiments assume land mobile b<Jtween all asricultural sectors /°, G, NG, M, S are outputs in pasture, eratins, nonerains, manufacturing, and services. WA, WNA, K, R, RT, RP axe real returns to agricultural and nonagricultural labor, capital, land, and land in tillage and pasture. LA is agricultural employment. Source: See the text.
+nitudes can be explained by the varying shares of grain in total agricultural output; grain accounted for only 24 percent of agricultural output in France but for 39 percent of Swedish agricultural output. Fourth, the impact of cheap grain on real wages was indeed different in different countries. In the British context, it appears that Peel was right and Disraeli was wrong; that is, the positive cost-of-living effect of cheap grain outweighed the negative labor-demand effect. Urban real wages increased by 5 to 6 percent as a result of the grain invasion, and even agricultural
+workers benefitted.42 The story was rather different on the Continent, where agriculture accounted for a far larger share of total employment. The same price shock would have reduced wages by 3.5 to 4.5 percent in France and
+would have had little effect on Swedish real wages.43 This makes sense. By 1871, only 22.6 percent of the British labor force was in agriculture, as
+opposed to 67.6 percent in Sweden and 50.5 percent in France.44 Table 7 shows the grain invasion having a relatively bigger impact on agricultural employment in Britain than elsewhere; but even a large decline in employment in such a small sector translated into only a minor fall in aggregate labor demand and thus led to only a small decline in nominal wages.
+These real-wage findings have implications for recent debates about trade and real-wage convergence. Transatlantic transport cost declines implied
+42This is also the finding of Williamson, "Impact"; and O'Rourke and Williamson, "Late Nineteenth Century Anglo-American Factor Price Convergence."
+43This is consistent with the findings in O'Rourke and Williamson, "Open Economy Forces." "Note that a relatively large amount of Swedish agricultural labor was engaged in forestry.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870—1913 793
+factor-price convergence between the Old and New Worlds but may also have implied factor-price divergence, or at least real-wage divergence, within Europe, leading British real wages to pull further ahead of real wages in
+the European periphery.45 This in turn may have stimulated intra-European migration, corresponding to a reshuffling of resources from European agriculture to European industry: certainly Irish migration to Britain can be part
+ly understood in this context.46 Globalization, and in particular international factor flows, did offer peripheral European countries the chance to converge on Britain; free trade in grain may have worked in the opposite direction. Finally, Table 7 shows that cheap grain had a substantial impact on agricultural employment in Britain, if not elsewhere. A 28.9 percent decline in cereal prices would have led to a 20 percent fall in British agricultural employment, compared with a 5 percent fall in France, and a 6 percent fall in Sweden. This discrepancy makes sense. The migration of labor to the towns in response to a negative agricultural shock would depress urban wages, lowering the incentive to move, hi Britain, where agriculture accounted only for a small proportion of total employment, nonagricultural wages would have been largely immune from such an effect, which in France and Sweden would have muted the migration response to the grain invasion. The potential impact of the grain invasion was significant in all three countries, especially for tillage farmers. To what extent did tariffs succeed in protecting this constituency?
+The Impact of French and Swedish Protection
+Tables 8 and 9 explore the impact of protection in France and Sweden. In each case I impose a counterfactual "free-trade" price shock (grain prices falling by 33.7 percent in France and 26.8 percent in Sweden), followed by the same world price shock, combined with a domestic tariff on grains (26.5 percent in France, implying the actual domestic price decline of 16.1 percent; and 22.4 percent in Sweden, implying the actual domestic price decline of 10.4 percent). If the primary aim of protection was to mute the impact of the grain invasion on agricultural incomes, it succeeded. Protection cut the declines in rent associated with cheap grain by one-third in Sweden and by one half in France: big effects indeed. French grain output was twice what it would have been in the absence of protection; protection raised Swedish grain output by a much more modest 8 percent. As expected, protection was bad for capital in both countries, but it helped French labor (while leaving Swedish labor basically unaffected).
+45O'Rourke and Williamson, "Late Nineteenth Century Anglo-American Factor Price Convergence"; and O'Rourke, Taylor and Williamson, "Factor Price Convergence." "O'Rourke, "Repeal."
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+794 O'Rourke
+TABLE 8 THE IMPACT OF PROTECTION IN FRANCE (percentage changes)
+Variable
+P G NG M S WA WNA K R RT RP LA
+Free Trade
++3.9 -60.1 +29.2 +3.6 -1.6 -5.2 -4.3 +6.9
+-10.3 +11.1 -5.7
+Sector-Specific Land
+Protection
++1.0 -20.0 +9.1 +1.2 0.0 -2.3 -1.9 +2.2
+-4.5 +3.1 -2.3
+Tariff Impact
+-2.7 +100.3 -15.5 -2.3 +1.6 +3.1 +2.5 -4.4
++6.5 -7.2 +3.6
+Free Trade
++15.0 -61.6 +24.9 +3.3 -1.7 -5.2 -4.2 +8.8 -4.3
+-6.0
+Mobile Land
+Protection
++4.3 -20.6 +7.9 +1.1 0.0 -2.2 -1.8 +2.7 -2.3
+-2.4
+Tariff Impact
+-9.3 +107.2 -13.6 -2.1 +1.7 +3.2 +2.6 -5.6 +2.1
++3.9
+Note: Sector-specific experiments assume land specific to either pasture or tillage; mobile experiments assume land mobile between all agricultural sectors. The free-trade scenario imposes a 33.7 percent decline in the price of grain, whereas the protection scenario imposes a 33.7 percent decline in the world price of grain and a 26.5 percent tariff on grain imports. The tariff-impact column simply compares the previous two columns. P, G, NG, M, S are outputs in pasture, grains, nongrains, manufacturing, and services. WA, WNA, K, R, RT, RP are real returns to agricultural and nonagricultural labor, capital, land, and land in tillage and pasture. LA is agricultural employment. Source: See the text.
+TABLE 9 THE IMPACT OF PROTECTION IN SWEDEN (percentage changes)
+Variable
+P G NG M S WA WNA K R RT RP LA
+Free Trade
++1.9 -18.7 +7.9 +12.7 +1.2 -1.7 -0.4 +5.3
+-18.9 +6.4 -5.6
+Sector-Specific Land
+Protection
++0.9 -12.2 +5.3 +8.3 +0.8 -1.5 -0.7 +2.9
+-12.8 +3.0 -3.6
+Tariff Impact
+-1.0 +8.0 -2.4 -3.9 -0.4 +0.2 -0.3 -2.2
++7.5 -3.2 +2.1
+Free Trade
++4.7 -19.5 +7.6 +12.8 +1.4 -1.0 +0.2 +5.6 -13.2
+-5.6
+Mobile Land
+Protection
++2.4 -12.3 +5.0 +8.1 +0.9 -1.1 -0.3 +2.9 -8.9
+-3.5
+Tariff^ Impact
+-2.2 +8.9 -2.4 -4.2 -0.5 -0.1 -0.5 -2.5 +4.9
++2.2
+Note: Sector-specific experiments assume land specific to either pasture or tillage; mobile experiments assume land mobile between all agricultural sectors. The free-trade scenario imposes a 26.8 percent decline in the price of grain, whereas the protection scenario imposes a 26.8 percent decline in the world price of grain and a 22.4 percent tariff on grain imports. The tariff-impact column simply compares the previous two columns. P, G, NG, M, S are outputs in pasture, grains, nongrains, manufacturing, and services. WA, WNA, K, R, RT, RP are real returns to agricultural and nonagricultural labor, capital, land, and land in tillage and pasture. LA is agricultural employment. Source: See the text.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870-1913 795
+GRAIN PRICES AND INCOME DISTRIBUTION: ECONOMETRIC ANALYSIS
+An alternative way of estimating the impact of commodity price shocks on income distribution is to obtain data on a panel of countries and proceed econometrically. O'Rourke, Taylor and Williamson did precisely this; their focus was on the effects of relative agricultural prices on the wage-rental
+ratio.47 This section asks a more narrowly focused question: how did movements in grain prices affect landowners? To answer this question, some theoretical structure is needed, and the sector-specific factors model seems the natural place to start. What exogenous parameters affect income distribution in such a framework? Endowments clearly do. An increase in the land-labor ratio will lower rents; an increase in the capital-labor ratio will pull workers into industry, increasing wages and again lowering rents. Aggregate technological progress has ambiguous effects on income distribution, depending on whether it is labor- or land-saving, and on which sector it occurs in. Goods prices will also clearly influence factor prices. An increase in agricultural prices will increase rents; an increase in manufactured goods prices, on the other hand, will pull workers out of agriculture, raising nominal wages and lowering rents. O'Rourke, Taylor, and Williamson collected data on endowments, manufactured goods prices, and outputs in a sample of seven countriesAustralia, the United States, France, Germany, Britain, Denmark, and Sweden—over eight five-yearly time periods from 1875 to 1913. They also collected data on average agricultural prices; since I am interested in grains, I use wheat prices instead. Furthermore, I want to control for movements in other agricultural prices, and collected meat prices for this purpose. I estimate equations of the form
+DREALU = ai0 + a£APLABu + OL2LANDLABU + a3OLDPRODit +
+a^EWPROD, + a5PMu + aj3 Wit + a7PMFGu + e, (6)
+DREALU = ai0 + a^APLAB,, + a2LANDLABit + OL3OLDPRODit + a,NEWPRODu + a5PMit + a.J>Wit + a7PMFGit + d, + eu (7)
+where the variables are defined as follows:
+DREAL = log(nominal land price/CPI)48 CAPLAB = \og{KIL) LANDLAB = \og{LandlL)
+PROD = Solovian residual, share of K = 0.4, share of land = 0.1 OLDPROD = PROD if country is in Europe, 0 otherwise
+47O'Rourke, Taylor and Williamson, "Factor Price Convergence."
+48Land rents would of course be preferable but the data are unavailable. See note 30.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+796 O'Rourke
+TABLE 10. THE DETERMINANTS OF REAL LAND PRICES, 1875-1913
+Regression No Time Dummies Time Dummies Included
+-1.46 (-5.42) -1.73 (-4.92) 0.52 (1.57) 2.26 (5.29) 0.58 (2.68) 0.52 (1.35) -0.84 (-2.12) 0.210 0.360 0.121 0.928 0.887 51.949 1.382 56
+Notes: The dependent variable equals agricultural land prices divided by CPI. All variables are in log form. Estimation is OLS with fixed effects (country dummies). Fixed effects are not reported, tstatistics are in parentheses. Dependent variables are defined in text.
+TABLE 11 CHEAP GRAIN AND PROTECTION, 1871-1913 (percentage changes in real land values)
+CAPLAB
+LANDLAB
+OLDPROD
+NEWPROD
+PM
+PW
+PMFG
+Mean of dependent variable Standard deviation of dependent variable Standard error of regression R- squared Adjusted R- squared Log of likelihood function Durbin-Watson statistic Number of observations
+-1.53
+(-6.71) -1.39 (-8.60) 0.23 (1.10) 1.94 (6.09) 0.49 (2.54) 0.46 (2.08) -0.95 (-2.78) 0.210 0.360 0.115 0.922 0.897 49.592 1.380 56
+Scenario
+Free trade Protection Tariff impact Free trade Protection Tariff impact Free trade Protection Tariff impact
+Model
+CGE CGE CGE MIN MIN MIN MAX MAX MAX
+Britain
+-9.4 N/A N/A -13.3 N/A N/A -15.0 N/A N/A
+France
+-4.3 -2.3 2.1 -15.5 -7.4 9.6 -17.5 -8.4 11.1
+Sweden
+-13.2 -8.9 5.0 -12.3 -4.8 8.6 -13.9 -4.8 10.6
+Germany
+N/A N/A N/A -15.7 -5.2 12.5 -17.8 -5.9 14.5
+Denmark
+N/A N/A N/A -4.5 N/A N/A -5.1 N/A N/A
+Note: CGE results are based on Tables 7, 8 and 9. MIN results are based on the estimate without time dummies in Table 10. MAX results are based on the estimate with time dummies in Table 10. For France and Sweden, the free-trade, protection, and tariff-impact scenarios are as described in Tables 8 and 9. Thefree-tradescenarios for Britain and Denmark involve grain prices falling by 28.9 percent and 9.8 percent, respectively (Appendix Table 5.2). For Germany, the focus is on Bavarian price movements; grain prices fall by 34.2 percent in the free-trade scenario and by 11.4 percent in the protection scenario, reflecting a tariff of 34.7 percent (Appendix 5). N/A means either not available or not applicable. Source: See the text.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870-1913 797
+NEWPROD = PROD if country is in New World, 0 otherwise PM= log(price of meat/GDP deflator); beef prices where possible PW= log(price of wheat/GDP deflator) PMFG = log(manufacturing price index/GDP deflator) d, = time dummy
+and CPI is the consumer price index, K is capital stock, L is labor force, and Land is the agricultural land area. Details on the data sources used are given in Appendix 6. The estimated equations are given in Table 10. The results are good. The coefficients on the endowment variables have the expected sign and are large and strongly significant. As expected, agricultural prices have a positive effect on land prices, and manufactured goods prices have a negative effect. Introducing time dummies has only a minor impact on the coefficients of interest
+(although PWbecomes insignificant at conventional levels).49 The results indicate that the long-run elasticity of land prices with respect to wheat prices lay between 0.46 and 0.52. Table 11 summarizes the impact both of cheap grain and of protection on land rents in Europe. It uses both the econometric and the CGE results so that these can be compared with each other. First it details what would have happened to land rents if countries had maintained free trade in grain. By then asking what declining world grain prices combined with actual grain tariffs implied, it derives the impact of grain tariffs alone on land rents. The table repeats the earlier CGE results for Britain, France, and Sweden, taking the long-run case when land is fully mobile between sectors (as is appropriate when thinking about average rents). It also uses the elasticities estimated in Table 10 (0.46 and 0.52) to estimate the effects of these price
+shocks on land values.50 Cheap grain on its own would have led to British rents declining by between 9 and 15 percent, and to Swedish rents falling by between 12 and 14 percent, hi France cheap grain could have reduced rents by as little as 4 percent, or by as much as 18 percent. In Germany free trade in grain would have led to average rents falling by an enormous 16 to 18 percent, and grainprice movements in Denmark only led to rents there declining by 4 to 5 percent. Compared with this hypothetical free-trade scenario, protection boosted land rents by 2 to 11 percent in France, by 5 to 11 percent in Sweden, and by 13 to 15 percent in Germany (the "tariff impact" rows in Table 11). On
+^'Coefficients on the time dummies are insignificant; they decline steadily over time. Coefficients on the country dummies are very large and positive for Australia and the U.S.; positive for Denmark and Britain; and quite large and negative for Sweden, France, and Germany.
+50The (counterfactual) free-trade price shocks and the actual price shocks, given protection, are as reported in Appendix Table 5.2.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+798 O'Rourke
+the other hand, in all three countries, the combined impact of the grain invasion and protection on rents was negative (the "protection" rows in Table 11). Protection did offset the impact of declining transatlantic transport costs on grain prices; and it did mute the negative impact of cheap grain on land rents. However, real grain prices still fell in all these countries, and this shock was reducing land rents everywhere, ceteris paribus. The econometric ('MIN' and 'MAX') and CGE results are very similar for both Britain and Sweden, which is reassuring. On the other hand, in the French case the elasticity of rents with respect to grain prices is much lower if the CGE results are to be believed than if the econometric results are correct. There is in fact a plausible explanation for this. The econometric results are based on an average elasticity derived from a cross-section of Old World and New World countries. In France, however, grain accounted for a smaller share of agricultural output than was true elsewhere (Table 6); grain prices could therefore be expected to have had a smaller impact on French rents than on Swedish rents, say. The CGE models take account of this difference in agricultural structures, whereas the econometric results impose a uniform elasticity on all countries. This discrepancy thus highlights an important potential advantage of CGE over econometric methods.
+CONCLUSION
+By 1913 the world economy had settled into an equilibrium that well reflected the original promise of the voyages of discovery. The New World exported food and raw materials, feeding European factories and people. European capital and labor had sought employment on the frontier and pushed it back; by 1890, the U.S. frontier was officially declared closed. On the other side of the Atlantic, the distributional implications of Christopher Columbus were finally being realized as steamships and railroads exported New World land to Europe, embodied in New World food. The article has calculated that cheap grain, by itself, implied rent reductions of between 10 and 20 percent in Britain, France, and Germany. Refrigeration would eventually remove the protection afforded animal husbandry. In the free-trading U.K., rents collapsed. In Ireland the grain invasion triggered a straggle between landlords and tenants regarding who should carry the burden of adjustment. The landlords were eventually dispossessed, although British subsidies softened the blow, hi other economies, landowners sought and received protection, as they continue to do to this day; nevertheless, the age of the great landowning aristocracy was coming to an end.
+The grain invasion provoked different political responses across the Continent. Whereas the Danes and the British adhered to free trade, the French and the Germans protected their agriculture, abandoning a free-trade
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870—1913 799
+policy dating from the 1860s. In an oft-cited article, Charles Kindleberger used these differing reactions as a peg on which to hang a general discussion
+of how nations vary in their responses to common shocks.51 To what extent do these differing political responses reflect different political institutions, or different political and social cultures? In fact, closer examination reveals that the grain invasion implied different shocks in different economies. First, it implied different price shocks. Grain prices clearly fell less in traditional grain-exporting countries, like Denmark, than they did in traditional grain-importing countries, like Britain. Second, even identical price shocks could have very different effects on income distribution across countries, reflecting the different roles of grain production and agriculture more generally in each. The results of this article may help in understanding different political responses to the grain invasion. The grain invasion did not lower grain prices in Denmark as much as elsewhere and only lowered Danish rents by 4 to 5 percent. This surely helps explain Denmark's willingness to stick to free trade as does the fact that Denmark had a comparative advantage in many agricultural commodities that were largely (intercontinentally) nontraded. Similarly, the grain invasion benefitted British capital and labor, whereas in Continental economies like France it hurt labor as well as land. Such differences may well have mattered for political outcomes. It is true that simplistic models involving economic interest alone are unlikely to fully explain the differing political responses to the grain invasion. Institutions and ideas clearly matter for trade policy too. However, the fact that the grain invasion implied different shocks in different countries makes it less necessary to appeal to different mediating institutions in each. The results of the article are thus consistent with an interest-based account of trade policy formation in late nineteenth-century Europe.
+"Kindleberger, "Group Behavior."
+REFERENCES
+Aydelotte, W. O. "The Country Gentlemen and the Repeal of the Corn Laws." English Historical Review 82, no. 322 (1967): 47-60. Bairoch, Paul. "European Trade Policy, 1815-1914." In The Cambridge Economic History of Europe, Vol. 8, edited by Peter Mathias and Sidney Pollard, 1-160. Cambridge: Cambridge University Press, 1989.
+Barkin, Kenneth D. The Controversy over German Industrialization 1890-1902. Chicago: University of Chicago Press, 1970.
+Caves, Richard E. and Ronald W. Jones. World Trade and Payments: An Introduction. Third edition. Boston: Little, Brown and Co., 1981.
+Daly, Mary E. Industrial Development and Irish National Identity, 1922—1939. Syracuse: Syracuse University Press, 1992.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+800 O'Rourke
+Findlay, Ronald. "International Trade and Factor Mobility with an Endogenous Land Frontier: Some General Equilibrium Implications of Christopher Columbus." In Theory, Policy and Dynamics in International Trade: Essays in Honor of Ronald W. Jones, edited by Wilfred J. Ethier, Elhanan Helpman and J. Peter Neary, 38-54. Cambridge: Cambridge University Press, 1993. Fogel, Robert W. "The Specification Problem in Economic History." this JOURNAL 27, no. 3 (1967): 283-308. Gerschenkron, Alexander. Bread and Democracy in Germany. Berkeley: University of California Press, 1943.
+Gourevitch, Peter. Politics in Hard Times: Comparative Responses to International Economic Crises. Ithaca: Cornell University Press, 1986. Harley, C. Knick. "Western Settlement and the Price of Wheat, 1872-1913." this JOURNAL 38, no. 4 (1978): 865-78. . "Transportation, the World Wheat Trade, and the Kuznets Cycle, 1850-1913." Explorations in Economic History 17, no. 3 (1980): 218—50.
+. "Late Nineteenth Century Transportation, Trade and Settlement." In The Emergence of a World Economy 1500-1914, Part II: 1850-1914, edited by Wolfram Fischer, R. Marvin Mclnnis and Jurgen Schneider, 593-617. Stuttgart: Franz Steiner Verlag, 1986. . "The Antebellum American Tariff: Food Exports and Manufacturing." Explorations in Economic History 29, no. 4 (1992): 375-400.
+Hunt, James C. 'Teasants, Grain Tariffs, and Meat Quotas: Imperial German Protectionism Reexamined." Central European History 7, no. 4 (1974): 311-31. Irwin, Douglas A. "Political Economy and Peel's Repeal of the Corn Laws." Economics and Politics 1, no. 1 (1989): 41-59.
+Jones, E. L. The European Miracle: Environments, Economies and Geopolitics in the History of Europe and Asia. Second edition. Cambridge: Cambridge University Press, 1981. Jones, Ronald W. "A Three-Factor Model in Theory, Trade, and History." In Trade, Balance of Payments and Growth: Papers in International Economics in Honor of Charles P. Kindleberger, edited by Jagdish N. Bhagwati, Ronald W. Jones, Robert A. Mundell and Jaroslav Vanek, 3—21. Amsterdam: North-Holland, 1971. Kindleberger, Charles P. "Group Behavior and International Trade." Journal of Political Economy 59, no. 1 (1951): 30-47. Longstaff, G. B. "Rural Depopulation." Journal of the Royal Statistical Society 56 (September 1893): 380-433. Marx, Karl. Capital. Vol. 1. New York: Vintage Books, 1977.
+Mitchell, B. R. European Historical Statistics 1750-1975. Second revised edition. New York: Facts on File, 1981.
+Offer, Avner. The First World War: An Agrarian Interpretation. Oxford: Oxford University Press, 1989. . "Farm Tenures and Land Values in England, c. 1750-1950." Economic History Review 44, no. 1 (1991): 1-20. O'Rourke, Kevin H. "The Repeal of the Corn Laws and Irish Emigration." Explorations in Economic History 31, no. 1 (1994): 120-138.
+O'Rourke, Kevin H., Alan M. Taylor and Jeffrey G. Williamson. "Factor Price Convergence in the Late 19th Century." International Economic Review 37, no. 3 (1996): 499-530.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press
+
+
+European Grain Invasion, 1870-1913 801
+O'Rourke, Kevin H. and Jeffrey G. Williamson. "Were Heckscher and Ohlin Right? Putting History Back Into the Factor-Price-Equalization Theorem." HIER Discussion Paper no. 1593. Cambridge, Massachusetts (May 1992). . "Late 19th Century Anglo-American Factor Price Convergence: Were Heckscher and Ohlin Right?" this JOURNAL 54, no. 4 (1994): 892-916. . "Open Economy Forces and Late 19th Century Swedish Catch-Up." Scandinavian Economic History Review 43, no. 2 (1995): 171-203. . "Erratum." this JOURNAL 55, no. 4 (1995): 921-22. . "Education, Globalization and Catch-Up: Scandinavia in the Swedish Mirror." Scandinavian Economic History Review 43, no. 3 (1995): 287-309.
+_. "Open Economy Forces and Late 19th Century Scandinavian Catch-Up." HIER Discussion Paper no. 1709. Cambridge, Massachusetts (January, 1995).
+Rogowski, Ronald. Commerce and Coalitions: How Trade Affects Domestic Political Arrangements. Princeton, NJ: Princeton University Press, 1989. Schonhardt-Bailey, Cheryl. "Specific Factors, Capital Markets, Portfolio Diversification, and Free Trade: Domestic Determinants of the Repeal of the Corn Laws." World Politics 43, no. 4 (1991): 545-69. Temin, Peter. "Labor Scarcity and the Problem of American Industrial Efficiency in the 1850's." this JOURNAL 26, no. 3 (1966): 277-98.
+Verdier, Daniel. Democracy and International Trade: Britain, France, and the United States, 1860-1990. Princeton: Princeton University Press, 1994. Webb, Steven B. "Agricultural Protection in Wilhelminian Germany: Forging an Empire with Pork and Rye." this JOURNAL 42, no. 2 (1982): 309-26. Webb, Walter Prescott. The Great Frontier. Austin, Texas: University of Texas Press, 1952. Williamson, Jeffrey G. "The Impact of the Corn Laws Just Prior to Repeal." Explorations in Economic History 27, no. 2 (1990): 123-56.
+https://doi.org/10.1017/S0022050700019537 Published online by Cambridge University Press

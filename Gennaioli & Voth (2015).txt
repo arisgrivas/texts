@@ -1,0 +1,655 @@
+State Capacity and Military Conflict
+Author(s): NICOLA GENNAIOLI and HANS-JOACHIM VOTH
+Source: The Review of Economic Studies, October 2015, Vol. 82, No. 4 (293) (October 2015), pp. 1409-1448
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/43869472
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to The Review of Economic Studies
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+Review of Economic Studies (2015) 82, 1409-1448 doi:10.1093/restud/rdv019 ©The Author 2015. Published by Oxford University Press on behalf of The Review of Economic Studies Limited. Advance access publication r) May zUl^
+State Capacity and Military
+Conflict
+NICOLA GENNAIOLI
+Bocconi University and IGIER
+and
+HANS-JOACHIM VOTH
+Zurich University and UBS Center
+First version received November 2013; final version accepted October 2014 (Eds.)
+Powerful, centralized states controlling a large share of national income only begin to appear in Europe after 1500. We build a model that explains their emergence in response to the increasing importance of money for military success. When fiscal resources are not crucial for winning wars, the threat of external conflict stifles state-building. As finance becomes critical, internally cohesive states invest in state capacity while divided states rationally drop out of the competition, causing divergence. We emphasize the role of the "Military Revolution", a sequence of technological innovations that transformed armed conflict. Using data from 374 battles, we investigate empirically both the importance of money for military success and patterns of state-building in early modern Europe. The evidence is consistent with the predictions of our model.
+Key words : State capacity, Taxation, Military conflict, Fiscal resources, Military Revolution, War, centralization
+JEL Codes : D72, F50, H56, H50, N43
+1. INTRODUCTION
+Capable states cannot be taken for granted. States as we know them today only appear 1500 in Europe. Earlier European rulers possessed limited tax powers; there was no profes bureaucracy; armies were largely composed of mercenaries; and powerful elites were of above the law (Tilly, 1990). Within three short centuries, however, European powers lai foundations for modern states, especially by surging ahead of the rest of the world in ter fiscal capacity. The leading explanation for this rapid transition emphasizes warfare. Tilly (1990) famo argued that "states made war, and war made states". Because the ability to finance war w for survival, armed conflict forced monarchs to create effective fiscal infrastructures. Empi
+Besley and Persson (2009) show that countries with a belligerent past have greater fiscal ca today. To explain this fact, they propose a model in which war is a common interest publi that facilitates investments in state-building (Besley and Persson, 2011). This perspective helps to explain the coexistence of frequent warfare and growing st capacity. At the same time, four important issues remain. First, warfare was already fre
+1409
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1410 REVIEW OF ECONOMIC STUDIES
+before 1600, but states mostly failed to develop.1 Why do corner of the Eurasian landmass after 1500? Secondly, the uneven. Britain or France built stronger and bigger states behind; and some, like Poland, disappeared altogether. Wh countries, it had smaller or opposite effects in others. The li silent on divergence. Thirdly, warfare during the period o rarely a common-interest public good. Instead, the "sport princes in pursuit of glory and personal power. Fourthly, decide to fight. Military capability influences this decision cause (instead of a consequence) of war. In this article, we address these issues by developing a m invest in state-building, taking the risk of war into account. the tax system, side-lining domestic power holders. This in collection and boosts future tax revenues, but incurs a cost Military conflict is financed with taxes and redistributes f the winning one. War's impact on state-building in our model depends on tw for military success and initial fragmentation. When the im model implies that - contrary to Tilly's hypothesis and B conflict dampens state-building (compared to a peaceful wo similarly likely to win the war, regardless of their fiscal r risks losing fiscal revenues in a war. This increases incentive is frequent but the incentive to raise fiscal capacity is low. When money is important for military success, the possibi divergence in state-building. Now, the odds of winning a richer state. As a result, divided states that find it costl the competition; their chances of success are too low. Co building and will also attack divided ones. Warfare is still f consolidation of strong, cohesive states; weak, divided on "race to the top" emerges, with all powers building state ca in fiscal and military terms.2 We confront the predictions of our model with data on in Europe after 1500. Using data on 374 battles, we measur revolution" transformed the key factors for success on th resources became increasingly important for military streng between fragmentation and the importance of money for fiscal revenue on military outcomes grew, more homogeno their revenue collection ability. Crucially, we find that as intensified, weaker states became more and more likely to powers and in absolute terms - reducing their investment declines in tax pressure. This is consistent with our mecha
+1 . For example, hunter-gatherer communities registered high rates engage in state-building on any significant scale. 2. We also show in Section 5.1 that in our model, good institutions ar they reduce domestic opposition to centralization. A ruler engaged in stat the constraints on the executive (in the spirit of Acemoglu, 2005), in line wi often went hand-in-hand with stronger institutions (Dincecco, 2009).
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1411
+TABLE 1 War frequency in Europe
+Century Number Average Percentage years of wars duration (years) under warfare (%)
+16th 34 1.6 95 17th 29 1.7 94 18th 17 1 78 19th 20 0.4 40 20th 15 0.4 53
+Source: Tilly 199
+Our research Dincecco, 200 European stat (2013). The arr in general is e on economic Rohner et al. the political f risk of war af between war Relative to th build a simpl player setup. threats to aid environment rising import with internal
+2. HISTORICAL BACKGROUND AND CONTEXT
+War was common in early modern Europe. Between 1500 and 1700, a Great Power war w underway in 95% of all years, as shown in Table 1 (Levy, 1983). And yet, numerous war also fought elsewhere and in earlier periods. Europe saw extended conflict during the med period, from the Reconquista in Spain to the Hundred Years War between England and Fran to innumerable wars between Italian city states. Similarly, China experienced prolonged c during the "warring states period", between 475 BC and 221 BC, and Bali in the pre-colon saw frequent wars (Hui, 2005; Nordholt, 2010). In neither medieval Europe, nor Bali, nor e China did frequent warfare coincide with the creation of highly capable and centralized s Why did "war make states" in Europe after 1500, but fail to do so elsewhere? Our answer to this puzzle is that aggressive state-building was shaped by an interacti between European political starting conditions and changes in military technology, the called "Military Revolution". Before describing it in more detail, we briefly summarize explanandum - the rise in state capacity in early modern Europe.
+3. Our contribution also touches on the vast literature studying the economic consequences of institut (Acemoglu et al., 2001, 2005; Acemoglu, 2005; Delong and Shleifer, 1993; Greif, 1993; North, 1989). This lite does not explicitly consider the role of external conflict, but it sometimes argues that war can overcome domesti problems that stand in the way of better institutions (Acemoglu and Robinson, 2006).
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1412 REVIEW OF ECONOMIC STUDIES
+Figure 1
+Fiscal capacity in Europe, 1500-1789
+Source : Karaman and Pamuk (2010); European State Finance Database.
+2.1. The rise of state capacity
+Two features of state-building in Europe after 1500 stand out - a large increase overall, and growing divergence in the cross-section. Figure 2 plots tax pressure in major European powers over time (which we define as the per capita tax take as a multiple of the country- specific urban wage). Tax pressure in England increased 10-fold, from 1.5 to 15.5; in the Ottoman Empire, on the other hand, it actually fell from 1.7 to 1.5. 4 In combination, differences in tax pressure and growth increased variation in the cross-section of European powers considerably. In 1500, Poland's total revenue was half of England's. In 1780, it was equivalent to only 5%. The overall tax take grew strongly because of both population growth and rising tax pressure. In 1500, the combined revenue for all major European powers was 214 tons p.a. Some 280 years later, this had increased by a factor of twenty, to 4400 tons p.a. New administrative structures facilitated the rise in income. Medieval rulers largely financed their expenses with domain income (Landers, 2003). After 1500, this became increasingly impossible. To raise sufficient revenue, states needed to levy taxes on a substantial scale. This entailed administrative capacity-building and reform. For example, by 1780, Britain had centralized collection of excise and customs taxes, and was about to introduce the first successful
+income tax in history. France, on the other hand, continued to use tax farming for both direct and indirect taxes all the way up to the French Revolution (Bonney, 1981), and numerous tax exemptions hamstrung attempts to raise revenue. Nonetheless, it succeeded in raising tax pressure. Changes in tax collection were part of a broader pattern of administrative reforms. Old privileges in composite states increasingly came under attack, but the pace and success of reforms
+4. The value of silver declined, but only gradually. The real increase was still by a factor of more than 1 3 (Hamilton, 1934).
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1413
+TABLE 2 Army size in early modern Europe (in 1000s)
+1550 1700 1780
+Army Navy Total Army Navy Total Army Navy Total
+England 41 25 66 76 115 191 79 109 188 France 43 14 57 224 118 34 183 85 268
+Dutch Republic 90 86 176 27 22 49 Spain 145 18 163 37 26 63 64 62 126 Austria 9 0 9 62 0 62 253 0 253 Prussia 37 0 37 181 0 181 Russia 52 0 52 408 19 427 Ottoman Empire 90 50 140 130 30 160 120 30 150
+Source: Karaman and Pamuk (2010).
+varied greatly. Prussia, after conquering Silesia from Aus tax collection there - a success that is generally attributed tax farmers, and to the suppression of the Silesian Estates t interests (Kuzmics and Axtmann, 2007). Spain, on the o fragmentation of its internal market, or to extend taxation 1963). Reforms in Poland foundered on the unanimity nobles.
+2.2. The "Military Revolution"
+The use of gunpowder was a turning point for military technology. The spread of cannon after 1400 meant that medieval walls could be destroyed quickly. Fortresses that had withstood yearlong sieges in the Middle Ages could fall within hours. In response, Italian military engineers devised a new type of fortification - the trace italienne. It consisted of earthen bulwarks, covered by bricks, which could withstand cannon fire. These new fortifications were immensely costly to build.5 The existence of numerous strongpoints meant that wars often dragged on for long
+periods of time - winning a battle was no longer enough to control a territory.6 The introduction of standing armies also added to rising costs. Due to the need for firearms training, states began to organize, equip, and drill soldiers, effectively investing in their human capital. Starting with William of Nassau's reforms during the Dutch rebellion, soldiers were garrisoned and trained continuously. In combination, these changes drove what some historians have called a "Military Revolution" (Roberts, 1956; Parker, 1996) - war became much more costly because of technological change, growing army size, and increasing professionalization. Military capacity also grew over time, but diverged sharply between different powers (Table 2). At one end of the spectrum, England's armed forces tripled in size between 1550 and 1780. France's army increased by a factor of five, and Austria's, by a factor of 28. In contrast, Poland was partitioned out of existence as a result of military impotence caused by internal strife and fiscal weakness.
+5. The fortress of Besancon was so expensive that when informed of the total cost, Louis XIV allegedly asked if they were made of gold (Parker, 1996). 6. Roger Boyle, the British soldier and statesman observed in the 1670s (Parker, 1996): "Battells do not now decide national quarrels, and expose countries to the pillage of conquerors, as formerly. For we make war more like foxes, more than lyons; and you will have 20 sieges for one battell." [original spelling]
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1414 REVIEW OF ECONOMIC STUDIES
+At the same time, states began to organize permanent n Spanish Armada in 1588 with an assortment of convert became highly professionalized, with large numbers of w conflict. Investments in naval dockyards, victualling yar ships in the English navy of the 18th century cost more th in capital (Brewer, 1990). After 1500, the business of war was increasingly trans Landers (2003). This could mean that overall costs rose unlikely - indirect social costs probably grew with war f Ages and the early modern period also saw greater use and more of government expenditure would regularly b military spending alone would often exceed tax revenue. prime determinant of military success. As the 16th-centu de Mendoza, put it "victory will go to whoever possesse
+2.3. Spoils of victory
+European states not only fought with great frequency; t losers to winners. This took three main forms - conquests overseas possessions, and war indemnities. At its most from the map, as did Poland. Even in less extreme substantial. In the 42 main peace settlements in Euro million square kilometers were redistributed - equivalen Conquests in Europe like Silesia, Alsace-Lorraine, and th tax revenues to their new rulers, as did the transfer of massive overseas territories like Canada.
+In the long run, the newly incorporated territories were often taxed according to the new ruler's fiscal system (Prussia doubled the tax revenue from Silesia). In the shorter term, however, the existing tax infrastructure was used by the occupying power. Revenues could be substantial Frederick the Great extracted 55-82 million Thaler from occupied Saxony, Mecklenburg, and Pomerania during the Seven Years War, enough to cover between 1/3 and 1/2 of the cost of the war (Szabo, 2013). Similarly, in redistributed colonial possessions, the new rulers typically benefitted from pre-existing investments in productive assets (like sugar plantations) and tax infrastructure. Finally, war indemnities produced substantial revenues as well. These did not constitute the wholesale seizing of another state's revenue base, but a transfer of resources accumulated as a result of earlier, effective taxation. Again, these could be high, such as the 5 million Riksdaler received by Sweden at the end of the Thirty Years War (Lee, 1991).
+3. THE BASIC MODEL
+We now present a model of the link between state-building and the military revolution. Se
+illustrates the role of centralization and a ruler's decision to raise fiscal capacity when the external war threat. External war is introduced in Section 4.
+7. This is based on our own calculations. We did not count the initial conquest of Latin America by Sp focused on peace settlements as a result of wars fought in Europe (including against the Ottoman Empire).
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1415
+3.1. Production
+There are three dates ř = 0, 1,2. A country consists of a measure 1 of identical districts i G [0, 1] located on a unit circle, each of which is inhabited by a density 1 of agents who are risk neutral and do not discount the future. Agents obtain utility by consuming the only perishable good produced in the economy. At t= 1,2, an agent can undertake either local (/) or market (m) production.8 Local production yields output A/ and occurs in an agent's own district. Market production is more profitable, it yields Am>Aļ, but requires the agent to carry out some steps of the production process such as input purchases in a neighbouring district (e.g. the left or right adjacent one). Agents can also engage in home production (/i), the least profitable activity ( A ¿ < A/). If a share nx of agents undertakes activity jc = /,m,/z, where nm-'-ni~'-nh = 1, the country's total output is:
+Y = nmAm + niAi + nhAh . (3.1)
+Output is maximal when everybody produces for the market (nm =
+3.2. State-building , taxation , and output
+A self-interested ruler finances his expenditures using his domain in are no financial markets.9 The ruler can tax local and market product be taxed. The equilibrium pattern of taxation depends on the degree Consider first a fully centralized country. The ruler sets uniform ta where rx is the tax on activity jc = /, m . Since market production yie production, the optimal taxes (r*, r*) seek to: (i) discourage local a extract productive surplus. This is attained by setting:
+^ Al-Ah * _ Am -Ah /o
+1 - ^ Al ' m~ * _ Am • ( /o '
+At these taxes, nm = 1 and the ruler extracts the full surplus (Am -Ah) from market production. Consider the opposite benchmark of a fully decentralized country. The administration of each district i is delegated to a local power holder (e.g. a nobleman) who sets taxes (rij,rmj) on local and market output. There are two differences with respect to centralization. First, market production initiated in district i is now taxed also in the neighbouring district i' where it occurs: an agent operating in districts i and i' pays a total tax rate of + and his net income is - - Local production is only taxed at home. Secondly, control over taxation allows each power holder to grab a share of tax revenues for himself. For simplicity, power holders keep all local tax revenues for themselves, but our results extend to milder assumptions. Appendix A proves that in a symmetric equilibrium where each power holder i noncooperatively sets optimal taxes (r ij, rmj), we have:
+Lemma 1. There always exist symmetric equilibria in which all districts set taxes ¿ = (A/ Ah) /Ai and > 1 - (A' +A/l)/2Aw. In these equilibria , everybody engages in local production.
+8. As we will see later, the model assumes that production occurs at t= 1,2 because at / = 1 fiscal revenues are used to finance war, while at t = 2 they are used for the ruler's consumption. 9. Our results go through if the ruler has some ability to borrow/lend in financial markets. A ruler's ability to borrow today increases in the fiscal revenues he can generate in the future. Thus, adding borrowing would fundamentally change our analysis (other than allowing rulers more flexibility to finance spending).
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1416 REVIEW OF ECONOMIC STUDIES
+This is a standard inefficiency from un-coordinated t modern Europe (Epstein, 2002). Each local power holder As a result, taxes on market production are too high an are also below the first best.10
+We take the equilibria described in Lemma 1 as our d in each district is A/, each power holder obtains A/ - A the output gain generated by centralization, power hol can keep tax revenues. Consider now the intermediate case of a country wher are centralized. As the ruler internalizes social surplus
+(r * , r^) in all of them. The centralized region is equivale of k < 1 districts.11 In each centralized district, outpu {Am-Ah). In each decentralized district, the local pow setting the taxes (r/ j, r m¿) of Lemma 1, and grabs tax As a result, when only k districts are centralized, tota revenue are, respectively, equal to:
+Y(K)=Ai'(l-K)+Am-K9 (3.3)
+R(K) = (Ąm-Ah).K, (3.4)
+and both increase in centralization k. The ruler's generated by market production times the measur
+This setup captures the reality of early modern E nation states, tax collection often relied on loca operated through a system of regional monopo factor mobility and innovation (Ertman, 1997). increased revenues for the monarch and allowed growth of commerce. Of course, excessive polit undesirable concentration of power in early mod Appendix B we show that in our model centraliz occurs in tandem with the creation of checks an
+3.3. State -building and domestic conflict
+At t = 0 the ruler chooses what measure k of di zero). To do so, he must overcome opposition by
+10. Indeed, the power holder of district i faces a dilemma. to encourage it or (ii) extract all surplus from local productio an atomistic power holder has no incentive to subsidize it. Th holders coordinate on = ( Am - Ah)/2Ah , so that market pro if a measure p of districts spontaneously coordinates on this 11. Formally, the k centralized districts form a neighbo production occurs entirely within centralized districts. As th assume that economic activity between centralized and decen borders anyway). Thus, a partially centralized country can be sp 12. If a measure p e [0, 1] of adjacent districts coordinate o Am-{' -/c)(l -p)(Am -Ai) while the ruler's revenue R(k) doe the efficient equilibrium reduces the efficiency gains of cen unchanged.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1417
+rent (A/ - A¿) under centralization, amounting to a loss of 2 (A/ - A^) over period power holders cannot be compensated for the efficiency gains of centralization b the ruler cannot commit to do so. In Section 5.2, we show how institutions can
+commitment problem. Overcoming opposition is costly: we assume that crushing or buying off the of district i costs the ruler ß/ - 2- (A/ - Ah). Here ßi> 0 proxies for the ability and power holder i to oppose the ruler, and is distributed across districts according to countries with greater ethnic or religious divisions, or stronger regional power s is lower in a "first-order stochastic dominance" sense. This reduced-form specific to keep the analysis of external wars tractable. One key feature here is that powe atomistic. As we will see later, this precludes their coordination, which in turn im cost of centralization stays unchanged during external wars. The regional interpret holders is perhaps most intuitive, but we think of them as capturing all powerful do capable of hindering the implementation of an administrative centralization progr The ruler begins to centralize districts with low conflict ß and then moves to districts. The cost of raising revenue R in terms of centralizing ic(R)=R/(Am-A equal to:
+rßMR))
+C(R) = 2-(Aļ-Ah)' / ßdH(ß) (3.5)
+JO
+where threshold ß(ic(R)) defines the resistance faced by the ruler in the marginal district, which fulfils H[ß(ic(R))] = k(R). We assume:
+Assumption 1. ß is uniformly distributed in [0,#].
+This implies that equation (3.5) takes the convenient form:
+C(R) = B • .(A'~Ah' R2=c R2, (3.6)
+(Am ~Aļl)
+where c=B[(Aļ- Ah)/(Am- A^)2] pins down the marginal cost of reform. The cost of raising revenues is convex because marginal districts are increasingly opposed to reform. This cost grows with parameter B , which captures the strength of domestic conflict, and falls with the efficiency gains of market production, because a larger tax base makes it easier for the central ruler to raise additional revenues.
+Consider the extent of centralization undertaken at t = 0 in "autarky", namely absent any external threat. The ruler sets R to maximize his utility over t = 0,1,2. At ř = 0, the ruler's consumption utility is equal to domain income minus reform cost D - C(R). At t = 1 and t - 2, it is equal to the revenues generated in these periods. As a result, the ruler solves:
+argmax 2 R - cR2. (3.7)
+R
+13. Cost 2 ßi • {A¡ -Ah) can include both pecuniary and non-pecuniary components of a ruler's centralization effort {e.g. both the material resources as well as the organizational and emotional effort spent in conflict). This cost can be microfounded as a function of the fighting capabilities of the central ruler and of local powerholders. Results are available upon request.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1418 REVIEW OF ECONOMIC STUDIES
+The ruler chooses R by trading off the benefit of obtaini the cost of curtailing opposition at ř = 0. In autarky, the
+"l -1- (Am-Ah)2
+Raut= min -1
+B (A¡ -Ah)
+which is the product between the market production surplus (Am -Ah) in each district and the optimal degree of centralization Kaut> Fiscal revenues, and centralization, fall in the strength of domestic opposition B , which increases the cost of state-building, and increase in the relative productivity Am/A/ of market production, which increases the benefit of state-building. In our model, state formation is shaped by the tension between the advantages of a national market and the opposition against central rulers by local princes, cities, and estates. This rationalizes the notion that marketization and the "commercial revolution" contributed importantly to the rise of capable states in early modern Europe (Tilly, 1990; Karaman and Pamuk, 2010). Throughout, we assume that B > (Am -Ah)/(A¡ - Ah), which implies that fiscal revenues are below (Am -Ah)' in other words, centralization in autarky is interior, Kaut < 1.
+4. WAR AND STATE-BUILDING
+There are two-countries, "home" H and "foreign" F. At t= ' they enter armed conflict wi probability 0. If 0 = 0, peace is guaranteed and each ruler makes decisions in autarky; if 6 = war occurs with certainty. Parameter 6 captures war triggers unrelated to rulers' economic pay such as empire-building motives, religious conflict, and inter-ruler rivalry. We assume that events always trigger war. In Section 5.2, we allow rulers to choose whether or not to go to conditional on the realization of a trigger. War is costly. It absorbs the fiscal revenues of both rulers while it is fought, and redistribu fiscal revenues from the losing to the winning ruler thereafter. Denote by Rj the fiscal rev available at t = 1 , 2 to the ruler of country J = //, F . If at t = 1 there is a war, each ruler spe Rj to wage it.14 At t = 2, the winner is awarded the fiscal revenues of the two countries Rh The loser obtains nothing.15 As a result, at t = 0 the consumption utility of ruler J is equ D - Cj(Rj ), where Cj(Rj) is the cost of his reform. If war does not break out, the ruler consu
+2 Rj over t= 1,2. If instead war erupts, the ruler spends his ř = 1 revenues to wage the war that his consumption utility is zero in this period. At ř = 2, the war outcome is determined ruler consumes nothing if he loses, and he consumes Rh +Rf if he wins. The war outcome is stochastic and depends on the military strength of contestants. T
+military strength of country J takes the Cobb-Douglas form LjRj , where Lj is the size o the army. Parameters a,À>0, respectively, measure the extent to which military might i driven by manpower and fiscal revenues. When X > 0, higher fiscal revenues render the ar "workforce" more productive by allowing a ruler to purchase better equipment, build m effective fortifications, and better train his soldiers. Holding a constant, a higher À cap
+14. The assumption that at t= 1 the ruler spends all fiscal revenues in the war is realistic. We studied the cas which at t - 1 rulers choose how much to spend in the war and our main results continue to hold, particularly wit linear contest success function of Section 4.2. Results are available upon request. 15. This is a simplifying assumption. In reality, few states disappeared from the map altogether (cf. Section 2.3 line with this argument, parameter 6 can also be interpreted as the share of the losing ruler's revenue that the vict ruler appropriates.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1419
+t= 0 t= 1 t= 2
+Rulers invest capacity R h, revenues Ru and R' are distributed to the rulers.
+a) If there is no war, the ruler
+consumes his revenue RH or RF. revenue Ru
+b) If there is a war, the ruler
+uses his revenue Rh or R¥ for
+military expenses. + R¥, the losing ruler
+consumes nothing.
+Figure 2
+Timing
+both a greater intensity of war in financial capital, as well as greater returns to scale in the military technology. We call parameter X the "money sensitivity of military strength", and view the military revolution as an increase in A.. In line with much literature on conflict (see Dixit (1987) and Skaperdas (1992) for a review), we assume that ruler H wins with probability:
+P^ (Rht,Rof)i ^d=X tra nk , , v/
+LHKH +LFKF tra
+while ruler F wins with probab wins the war increases with his leaving for future work the en the simpler case in which Lh One key parameter here is the 'dp(ß-H,RF)/dRjV When 'pj' is implies that:
+(4.2) Kj
+which increases, for given {p,Rj ), in the money sensitivity k. In the theory of conflict, X is called "decisiveness parameter" and Hirshleifer (1995) associates its increase with a breakdown of anarchy. Figure 2 summarizes the timing of the model. Given these preliminaries, ruler H chooses revenue Rh so as to solve:
+max 0'{p(Rh,Rf)(Rh+Rf)-2Rh} + 2Rh-ch'Rh> (4.3)
+Rh
+while ruler F chooses revenue Rp so as to solve:
+max 0 {[1 -p(Rh,Rf)](Rh+Rf)-2Rf}+2Rf-cf R2f. (4.4)
+Rf
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1420 REVIEW OF ECONOMIC STUDIES
+Under risk neutrality, parameter 0 can also be interpr ruler can lose in the war. Because power holders are ato does not vary with the probability of war 0. As a result the same as in autarky and can differ across countries, o Bj among contestants.16 We henceforth refer to the m divisions" and to the country with lower cost as the " differences in productive efficiencies, which are assume Equilibrium centralization levels constitute a Nash eq choose Rh and Rp according to (4.3) and (4.4). When the (in the remainder we focus on parameter ranges wher identified by the first-order conditions:
+CH RH = 1 + (0/2) Iph(RH +RF) - ( 1 -P) - 1 ] , (4.5)
+for country H , and:
+cF - Rf = 1 + (0/2) [~pf(Rh +Rf)~P~ 1 L (4.6)
+for country F. The presence of a war threat (0 > 0) exerts three direct effects, which are inclu brackets above. First, war boosts the incentive to centralize: higher fiscal revenu probability of winning the war, allowing the ruler to predate on his competitor. T term in square brackets (captured by pH > 0 and pp < 0). Secondly, war lowers t centralization by creating the risk that fiscal revenues are lost because of enemy increasing its fiscal revenue, a ruler becomes a more attractive prey, which stunts hi centralize. This is the second (negative) term in square brackets. Thirdly, and finall cost of war, which absorbs fiscal revenues at t= 1, also reduces the benefit of cent
+is the third (negative) term in square brackets. Overall, war boosts a ruler's incentive to centralize when the sum of the term brackets is positive while dampens it otherwise.
+4. 1 . Determinants of equilibrium state-building
+We now study what factors shape state-building in our model. Under the contest fun the first-order conditions (4.5) and (4.6) are necessary and sufficient for an optim the effect of fiscal resources on military strength is sufficiently low, 1, so th programme is concave. When X > 1 the rulers' maximization problem is no longer be concave, and the equilibrium may not exist or fail to be unique. This is why th conflict has focused on X < 1 (e.g. Hirshleifer, 1995). To shed light on the case k > important for our analysis, in Section 4.2 we study the model under a linearized contest success function in (9). For now, consider the well behaved case À < 1. Appendix A proves:
+Proposition 1. When an equilibrium exists and is unique. When count
+symmetric , ch=cf= c, the equilibrium is also symmetric , and centralization is int
+1 6. Allowing for non-atomistic power holders would complicate the analysis substantially. In par conflict would unite power holders in favour or against the king depending on expected payoffs under leave analysis of these aspects to future research.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1421
+V./). In this symmetric equilibrium, we have that:
+*"=^=(})[1 + Ï(À_3)] (4-7
+so that the presence of a war threat reduces revenues and centralization relative to When countries are asymmetric , ch ^ Cf, the unique equilibrium assigns higher reven more cohesive country. The revenue of country J: (i) drops in own domestic division (ii) increases in domestic divisions abroad c-j if and only if country J is the less cohes namely cj>c-j.
+The case of symmetric countries underscores the key role of the military technology. The higher is À, the greater is the rulers' investment in state-building. When warfare becomes more reliant on making large technological and organizational investments, rulers have a stronger incentive to centralize to boost their revenues and predate on their competitor. Critically, though, when the level of money sensitivity is low, X ^ 1, the presence of a war threat stifles centralization relative to a peaceful world. Formally, centralization falls with the probability of war 0. Intuitively, when X is low even the richest ruler becomes a prey with high probability, which reduces his incentive to centralize. This is the exact opposite of the conventional wisdom, according to which war necessarily fosters state-building (or leaves it unaffected). Domestic divisions are also important. Consider property (/): the ruler facing less domestic conflict (i.e. lower cost cj) is the more aggressive state builder and the more likely winner of war. Because power holders are atomistic, external conflict does not automatically transform state-building into a common interest public good. As a result, the ruler of a divided country may be unable to respond to external war as much as a cohesive opponent, creating divergence in state-building. On the other hand, property (ii) highlights that when X < 1 there are effects mitigating the extent of divergence in state-building: the ruler of the cohesive country centralizes less when his divided opponent centralizes more. This effect is due to a strategic interaction. As the divided ruler centralizes more, the cohesive ruler faces a higher risk of losing the war, which in turn reduces his incentive to centralize. This effect critically relies on having a low money sensitivity: the risk of losing to a poorer opponent is sufficiently high only when X is low. Formally, when X < 1 the reaction function of the cohesive country is negatively sloped, while that of the divided country is positively sloped. Hence, if the reaction function of the divided country shifts up, state-building in the cohesive country drops. Figure 3 shows this effect when F is the cohesive ruler (i.e. c/r <c//). What happens when money sensitivity is high? As discussed above, we cannot characterize the equilibria for X > 1 under the non-linear contest function in equation (9). Yet, even in this case, the above analysis allows us to make two useful remarks (these are proved in the Proof of Proposition 1). First, consider the case in which countries are symmetric (i.e. ch=cl). Then, if a symmetric equilibrium exists, its revenues are pinned down by in equation (16). In this case, then, a higher probability of war 0 increases state-building for X > 3. When money sensitivity is high, external war causes state-building to go up, in line with conventional wisdom. Secondly, consider the case in which countries are asymmetric (i.e. ch^cl). Then, if an interior equilibrium exists, stronger centralization by the divided ruler increases the incentive of the cohesive ruler to centralize. When money sensitivity is high, the cohesive ruler is very keen in centralizing to conquer a better prey. As a result, external war causes strong divergence in state-building.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1422 REVIEW OF ECONOMIC STUDIES
+Figure 3
+Revenue-raising and military success
+In sum, the military technology is critical in determining the effect of external wars on statebuilding across countries. When the money sensitivity of war is low (i.e. X < 1), military conflict causes a race to the bottom reducing state-building in all countries, and strategic interactions among reforms dampen inequality in state-building across countries. When money sensitivity is high, military conflict causes a race to the top, so that - if an interior equilibrium exists - the properties of Proposition 1 are twisted. Rulers of cohesive countries have a strong incentive to centralize, and rulers of divided countries "give up", reducing their state-building as their competitors grow stronger. To study globally the equilibrium for À > 1, and to analyse in detail the interaction between military technology À and inequality in domestic divisions ch/cf , we turn to a linearized version of our model.
+4.2. Linearized contest success function
+We linearize (4.1) around the point where both countries win with probability 1 /2, and obtain:17
+P(RH,RF ) = J * (RH - Y ĚRF)- (4.8)
+The money sensitivity of military strength X pins down the slope of the win probability with respect to fiscal revenues. The relative army size Lf/Lh shapes the relative effectiveness of revenues in country F, because y = (Lf /Lh)01^ . This is due to money labour complementarity.
+17. Formally, equation (4.1) is linearized around the symmetric revenues (Rh, o,Rf,o) such that LffjR^ 0 = LļRxF 0. We normalize Rh, o to 1, which allows us to get rid of a multiplicative constant in our expressions, without affecting our main results.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1423
+More broadly, y ^ 1 can be accounted for by any factor making a country's militar more productive. We first consider in Proposition 2 the simplest case y = lin which the two countries effective at war. One shortcoming is that when y = 1 the contest success function in e does not allow for the strategic interactions discussed in property ii) of Proposition 1 studies the role of these strategic interactions by considering the case in which y different army sizes or productivities). In Appendix A, we prove the following result:
+Proposition 2. (case y = ') Suppose that À^ma x(c//,c/r)/0, so that the rulers concave. Then :
+(1 ) If Cļļ - cf=c, a symmetric equilibrium exists and is unique. Rulers ' revenues: ( i) increase in money intensity X, and (ii) increases in the war threat 0 if and only ifX > (3/4 )c.
+(2) IfcH / cf> there is a z> 1 such that , for ^in^cy ^ z, an asymmetric equilibrium exists and is unique. In such equilibrium, R^>R p if and only if ch<cf- The equilibrium revenue of both rulers (weakly) increases in X. In addition: ( i ) the revenues of ruler J increase in the war threat 0 if and only ifX > (3/4 )cy, and (ii) if centralization is interior (kj < 1 ,V7),
+higher 0 increases inequality among countries , in the sense that R^/Rp > Rh ,aut / Rf ,aut if and only if ch < c/r.
+As long as money sensitivity is sufficiently low so that the ruler's maximization problem is concave, the equilibrium has a simple characterization. In the symmetric case, centralization increases with the importance of money for military success X. Critically, if X is sufficiently large relative to domestic divisions c/, the presence of a war threat now boosts state-building, in line with conventional wisdom. In other words, when fiscal revenues buy military success, rulers have a strong incentive to centralize to prey on their opponents. Point (2) highlights an interesting interaction between external war and domestic divisions. Because divided countries find it uniformly harder to centralize, war threats increase inequality in state-building. This is due to the effect - discussed in Proposition 1 - that the ruler of the internally divided country finds it hard to build a strong state. As a result, he perceives a strong risk of becoming a prey, which stunts his incentive to centralize.18 To see these effects, suppose that centralization is interior. In this case, the equilibrium revenue of ruler J is equal to:
+"H«)»«
+Where R j^ut = 1 /cj is the autarky revenue in country J. Suppose that country than country F, formally Bh < Bp , which implies ch < cf. Then, denoting by R revenue in H, the autarky revenue in F is Rf,quí = {^h /BF)RautFigure 4 plots the pattern of equilibrium state-building in the two countri horizontal axis, a higher Raut reflects a global boost in the efficiency of mar
+18. In Proposition 2, the upper bound z in inequality ensures that both countries have a positive This restriction is realistic: in our sample no country wins all its battles. Even highly successful m as Britain, Prussia, and Russia have a fair share of defeats - chance continues to play an important r of our period (and beyond, as reflected in Napoleon's famous dictum that luck was the single-most of a general). Additionally, as we show in the Appendix, interior win probabilities are necessary to asymmetric equilibria under the linear function in equation (16).
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1424 REVIEW OF ECONOMIC STUDIES
+Figure 4
+Revenue raising and the military value of fiscal revenue
+Notes: The y-axis shows the country-specific sensitivity of revenue-raising to X, the value of money in winning wars. The jc-axis measures revenue in autarchy.
+due to increasing commercialization, which reduces the marginal cost of creating fiscal revenues in all countries. The vertical axis reports k. Three patterns of state-building can occur as a function of k. When the sensitivity of war to fiscal revenues is low relative to the cost of centralization ( k < 3-ch/4), the risk of losing fiscal revenues in a war is large even for the richer power. As a result, external war causes a race to the bottom that discourages state-building in all countries. This is is the southwest region of Figure 4. The state system is fragmented, the balance of power within political entities is unstable, and it does not lead to the emergence of a strong power. As the influence of money on military success increases, rulers become more hungry for fiscal revenues. They increasingly centralize and streamline tax administration. As a result, taxes become less distortionary, which spurs commerce and growth and makes the prospect of conquering the opponent more attractive, begetting further state-building. At some point, money sensitivity reaches the intermediate region (3 c///4<À <3 c/r/4). In this case, the richer power is significantly less likely to fall prey to its opponent. As a result, external war creates strong inequality: the rulers of less divided countries disproportionately centralize while those of less powerful countries still restrain their statebuilding efforts relative to autarky. Now the international system consists of politically strong and economically developed centralized countries and weaker, poorer, less centralized countries. These laggard countries are unlikely to survive as they increasingly fall prey to the strong
+ones.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1425
+Finally, as X becomes very high (À>3-Cf/4), we enter a third phase where all r their state-building efforts. This is the northeast region of Figure 4. Here, rulers co full centralization benchmark where tax distortions are lowest and production is hig Consider now the case y # 1 . We focus on the case in which country H is more war-making than F , namely y < 1 . The result below then shows that in this case d be very pronounced:
+Corollary 1. (y < 1). Suppose that X<ma x(ch,cf)/0, so that the rulers' problem Then , if country H is more cohesive than F (i.e. Cf >ch), war threats increase di the sense that for any 0 > 0, Rh /Rf is larger than in autarky and increases in X. F there exists a threshold y < 1 such that for all y < y higher money sensitivity X i equilibrium revenue of the cohesive country H while it decreases the revenue of country F.
+If country F is both more domestically divided and weaker in the battlefield than country H {i.e. Cf > Cfj and y < 1), divergence in state-building is very strong. The strategic interaction among reforms discussed in Point (ii) of Proposition 1 play a key role here. As money sensitivity X increases, the cohesive country centralizes a lot to prey upon its weaker opponent. Unable to withstand the competition, the divided country gives up, actually reducing its state-building. In sum, military competition can cause significant departures from the conventional portrayal of war as a common interest public good that induces accelerated investments in state capacity. On the one hand, as documented in Propositions 1 and 2, higher frequency of conflict may reduce state-building in all countries when money sensitivity X is low. On the other hand, as shown by Corollary 1, high levels of money sensitivity X increase state-building in the country that is cohesive and most effective at war but reduce state-building in weaker opponents, fostering divergence.
+5. INSTITUTIONS, STATE BUILDING, AND THE DECISION FOR WAR
+We now show that the link between state-building and the military technology becomes stronger once one accounts for the possibility for rulers to create institutional constraints limiting their own prerogatives, as well as for their endogenous choice of whether or not to go to war.
+5.1. Institutions and state -building
+We view institutions as constraints limiting the ability of the central ruler to extract resources from power holders under centralization (Acemoglu et al., 2001). Institutions set the share (1 - nj) g [0, 1] of tax revenues that the ruler can extract from a centralized district in country J = H, F . The remaining share ttj of taxes goes to the power holder. As before, power holders fully retain fiscal revenues in decentralized districts. When nj = 0, the central ruler is unconstrained, as in previous
+analysis. Higher n j captures greater power of legislative assemblies, constitutional review, and so forth.19
+Consider the payoff implications of introducing institutions. Given an amount of fiscal revenues Rj =kj -(Am-Ah) collected in centralized districts, the total revenue accruing to the
+19. This arrangement might be seen as giving to a local elite assembly control over a share ttj of revenues. We solved the model under the alternative assumption that institutions create a representative assembly of power holders that votes on whether to give fiscal revenues to the central ruler or not. Our main analysis focus on a more tractable model without this state-contingent mechanism.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1426 REVIEW OF ECONOMIC STUDIES
+central ruler is now equal to Rj = (I- nj)-Rj. The power obtains 2nj • ( Am -Ah) over two periods (which is equal As a result, when a district is centralized, the loss expe 2[(A/- Ah) - 7Tj'(Am- Ah)], and falls in the strength of power holders to internalize some of the efficiency gain commitment to share these gains is sufficiently strong, na
+(A¡ -Ah)
+* j>7ij = 
+(Am -Ah)
+then even local power holders gain from centralization. In this extreme case, institutions enable a mutually advantageous revenue-sharing arrangement, and there is no local opposition to statebuilding. In reality, of course, it is hard for the ruler to create institutions that are so strong. To capture this idea, we assume that the ruler must bear an increasing and convex cost K(jtj) to create institutions (implicitly, there are no institutional safeguards at the outset, ttqj =0). Provided the cost of institution-building is large enough - which we assume throughout - the ruler will set 7tJ<TtJ.
+Taking this into account, at the outset each ruler optimally chooses n j; next, he sets centralization kj' finally, military and market interactions occur. By solving the model backwards, Appendix B shows that in autarky, after having optimally set institutions, the ruler's revenue is equal to:
+d ri ' i} ~Kj ,aut)(Am-Ah)^
+Rj,aut d = ri (l-XjJaut)-TMn ' TT-F-T
+'_Bj [(Al -Ah)
+where 7tj,aut is the s Equation (B.2) shows the inverse of the c opposition to centra higher 7tji(lut reduc ruler's revenues. The
+revenues increase in range, Appendix B s marginal cost cj of The mapping betw observation: for giv relatively more than Dincecco (2009) docu or "absolutist" entities between 1650 and 1913.
+Furthermore, Appendix B shows that in our model (as in Besley and Persson 2009), different dimensions of state development - centralization and institutional quality - cluster together. In a cohesive country, the ruler chooses to invest in institutional upgrading, particularly when he must centralize to meet an external war threat. In a divided country, only major institutional improvements can reduce opposition to centralization. This discourages the ruler from undertaking both institutional upgrading and state-building, stifling all reforms. Critically, the strength of these effects is shaped by the military technology. When À is low, the external war threat dampens investments in institutions and centralization in all countries. As À becomes intermediate, only the ruler of the less divided country boosts centralization and
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1427
+institutional quality, generating strong divergence. A very large À leads to the emerge and accountable states everywhere.
+5.2. State building and the decision for war
+We now show that the link between state-building and the military technology beco once we endogenize the decision to go to war. Suppose that a war trigger arises (wit 0). Both rulers have financed their armies, they are ready to go to war, but can choose not to fight. If war is averted, each ruler enjoys his future revenues with probabili occurs, the usual war lottery is played. Critically, war destroys a share (1- a)>0 o at t = 2 in all countries. Given this deadweight loss, it would be welfare improving through negotiations, but we realistically assume that such negotiations do not o rulers cannot commit to making the necessary transfers. This implies that war doe both rulers lose from war, but it occurs when either ruler expects to benefit from it it is impossible for both rulers to gain from war).20 We now solve the model under these assumptions. This amounts to characterizin
+decision of whether or not to go to war for given equilibrium revenues (/?^,/?£), endogenously solve for these revenues at the ex ante stage, when the probability 0 trigger and the choice to go to war are all taken into account.
+To solve the model backwards, consider the last stage. Given equilibrium reven and conditional on the realization of a war event, conflict occurs either when H be
+triggering a war, formally when:
+p(R*HXFy°(R*H+R*F)>R*H, (5.3)
+or when F benefits from triggering a war, namely when:
+[1 -P(R*H,R*f)'°{R*H+R*F)>R*F. (5.4)
+War is averted if and only if none of the above conditions holds. Intuitively, equations (5.3) and (5.4) ensure that a ruler's payoff from going to war - the left-hand side in the above expressions is higher than what he can obtain by taxing only his own economy - the right-hand side above. Under the assumed symmetric contest success function [i.e. given that p(R,R)= 1/2], it is easy to show that war cannot occur in a symmetric equilibrium where countries raise the same revenue (Rh =Rf)'> in this case, going to war is like burning some fiscal revenues to toss a coin. Given risk neutrality, no ruler is willing to do it. Hence, when Rh =Rf both rulers prefer peace. The incentive to go to war arises instead if countries are unequal, namely Rh ^Rf- In this case, the war favours one contestant, who may be eager to initiate conflict. In solving for a full equilibrium, Appendix A shows that under the linear contest function, and under the assumptions of Point (2-ii) of Proposition 2 we find:
+Proposition 3. Let X* be defined as the threshold such that for X < X* centralization in the two
+countries is partial , namely Kj< 1 for 7 = //,F. Then , there are two thresholds àq, X' where
+20. Jackson and Morelli (2007) discuss a different commitment problem, one in which there is full commitment to transfers (which in their setting occur in the present), but no commitment to future peace. In such a setting, the authors show that under some conditions it is possible to find a current transfer that renders future peace sustainable. In our model, contestants cannot make transfers in the current period because countries have already invested their current revenues to building an army. As a result, avoiding war requires countries to commit to making future transfers after peace has been established.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1428 REVIEW OF ECONOMIC STUDIES
+0<k0<k{<k* such that , conditional on the realization o
+(1) If k< ko, war occurs with probability one and the m benefit from it.
+(2) If k e (À0,Ài), the equilibrium is in mixed strategie probability coe [0, 1).
+(3) Ifk>k', war occurs with probability one and the m benefit from it.
+War is most likely to arise if financial resources influ extent, or hardly at all. Crucially, the identity of the par cases. When the influence of financial resources on militar one initiating conflict. Because this country is disproporti attack. When instead the money sensitivity of the war is the one initiating conflict. This country wins the war because of the low À, the odds for such a country to w conquering a wealthy opponent acts as an inducement to shaping whether the poor or rich country attacks is also There are two important implications. First, the link frequency of military conflict is non-linear. As a result, i linking the frequency of conflict, the war technology interestingly, endogenous wars create an additional fo When k is low, state consolidation is weak not only be centralize, but also because war redistributes revenues fostering fragmentation. In contrast, when k is high, s because each ruler has strong incentives to centralize, b revenues and territories from smaller countries to large
+6. EMPIRICAL RESULTS
+We now confront the main predictions of our model with data from early modern Europe. W examine how much money mattered for victory on the battlefield. Next, we take the est money sensitivity of war and study its interaction with domestic divisions in shaping building. In particular, we test whether increasing money sensitivity and domestic divisio explain the occurrence of declines in fiscal capacity. The goal of our analysis is not to ide the causal impact of changing war technology and domestic divisions on state-building, b assess whether the basic correlations in the data are consistent with our theory.22
+6.1. Financial Resources and Military Success
+To demonstrate the growing importance of financial resources for military success, we a 374 battles in Europe between 1500 and 1800 - the period when state consolidation acceler For each battle, we code the outcome as either success or defeat.23
+21. When k is intermediate, the probability of war we (0, 1) is determined so that - at the optimal investme state-building - the more belligerent ruler is just indifferent between initiating war or not. See Appendix A for d 22. Data and STATA do-files for replication are available as supplementary material on the RESTUD website. 23. We combine information in Jaques (2007) on battles with data from Landers (2003) on the outcomes of con We also use fiscal data from the European State Finance Database (ESFD); Bonney 1989), as compiled, augmen
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1429
+Figure 5
+War and fiscal resources
+Notes : The graph shows the smoothed local polynomial and 95% confidence intervals. The y-axis measures the probability of the richer power winning in battle. Note that battle outcomes are coded as either victory or draw, meaning that the probability of the poorer power winning is not equal to 1 -probability of richer power winning. The ;t-axis shows the log difference in total fiscal revenue, calculated as Diffrev=//i(7tft/) - ln{T^t), where Tntt is the tax revenue of the fiscally stronger power, Tit is the revenue of the fiscally weaker power.
+Figure 5 presents a simple way of looking at the extent to which money spelled military might. We plot the local polynomial of the probability of success as a function of the (log) revenue difference between combatant states. During the period 1500-1650, richer powers enjoyed no discernable benefit - on average, they won less than 50% of the time, and a greater revenue advantage did not translate into more frequent battlefield success. After 1650, however, richer powers consistently won more often than their opponents. As the right panel in Figure 5 shows, the greater the revenue advantage, the higher the chances of success. In the second period, the richer power's probability of victory was up to three times higher than that of a poorer belligerent. To obtain a parametric estimate of money sensitivity, we run the following regression for the likelihood of success for the richer power:
+SHJ = C+1X [/n(T/f ) - ln(Tfj-)]+X2 Wp ") ~ b*p?)i + ßX'+afH, (6. 1 )
+where Shj is a dummy variable equal to unity if the stronger power wins, and zero otherwise, C is a constant, and Tfí,t (Pfí,t) is the tax revenue (population) of the fiscally stronger power, Tlj
+summarized by Karaman and Pamuk (2010). For each combatant state, we collect data on total tax revenue at the nearest point in time, as well as on population size (from McEvedy and Jones, 1978). Variable construction is described in detail in Appendix E.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1430 REVIEW OF ECONOMIC STUDIES
+TABLE 3 Battlefield success and fiscal revenues ( dependent variable: BattleOutcome)
+(1) (2) (3) (4) (5) (6) timeFE Pre- 1 650 Post- 1 650
+Diffrev 0.43* 0.43* 0.43* 0.58** 0.45 0.62* (1.65) (1.65) (1.65) (2.07) (1.14) (1.87) Diffpop 0.025 0.027 -0.0041 -0.13 0.13 -0.18 (0.20) (0.20) (-0.03) (-0.98) (0.61) (-1.13) Allies 0.14 0.069 0.20 0.035 0.26 (1.23) (0.48) (1.00) (0.10) (1.18) Naval -0.24 -0.38 -0.64 -0.38
+(-0.78) (-1.46) (-1.36) (-1.31) Constant -0.24 -0.29 -0.18 -1.41*** -1.45*** 0.23 (-0.83) (-0.94) (-0.46) (-5.24) (-11.38) (0.75)
+N 257 257 257 253 38 215
+Notes:* p < 0. 1 , ** p < 0.05, *** the log difference of fiscal reven
+Allies is a dummy for battles fou for sources.
+( Plj) is the revenue (popu focus on therelative diffe coefficient X' captures th sensitivity of battlefield s
+Table 3 presents the resu used, we find a significant that, evaluated at the sam increases the odds of succ in population size do not finding is robust to contr fixed-effects does not over revolution, the estimated Before 1650, the link betw small and imprecisely esti and it is highly significa became a much better pre
+6.2. Determinants of fisc
+Our model predicts that a and divisions. Critically, r makes the further predict state-building as money b weaker powers should "gi now look at the data consi
+24. Standard errors are clustere in the same 50-year period (with
+powers in different periods. Tab to battles without allies.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 143 1
+Figure 6
+Heterogeneity and tax pressure
+Notes: The _y-axis measures average per capita fiscal revenue as a multiple of the average daily urban wage. The x-axis shows the terciles of the indicator of heterogeneity, ordered from 1 (lowest) to 3 (highest) - the number of predecessor states in the first quadrant, total surface area in the second, and ethnic heterogeneity in the third.
+6.2.1. The effect of B. We use three indicators of domestic opposition to centralization B. First, the number of predecessor states, which proxies for the extent to which local power-holders can resist centripetal forces. For example, much of the difficulty encountered by the Spanish monarchy in raising revenue reflects territorial expansion: Castile paid high taxes, but extending the tax net to other regions only bred secessionist tendencies (Elliott, 1963). Secondly, we use total surface area of each territory as an indicator of potential opposition. Physical distance put severe constraints on an early modern ruler's ability to project power. Larger states are more likely to be culturally and linguistically diverse. Thirdly, we employ ethnic heterogeneity as a proxy for internal fragmentation. Ethnic divisions are well known to be correlated with a host of negative outcomes, including lower state capacity (Alesina and La Ferrara 2005; Herbst 2000). The number of predecessor states in 1300 is our preferred measure of pre-existing cleavages because it does not depend on the endogenous response of state-building and conquest. We define tax pressure as fiscal revenue per capita as a multiple of the daily urban wage. In this way, our results are not affected by richer countries being able to generate higher fiscal revenues simply because there is more to tax. We pool data for 17 European states over the period 15001780. As a first step, in Figure 6, we examine how tax-raising interacted with the three indicators of potential opposition to centralization - prior territorial divisions in Europe after 1500, surface area, and ethnic heterogeneity. We divide the data into terciles for each of these variables. The
+©
+5 iß çp
+I 5 8- iß -T- is- çp ~r
+Q. O _ CL ļ> 04 ã10
+X 2 - -,
+6 X 2 - mm -,
+: mm H B t' ~ B
+co io 
+TT: -1- TT 
+S o- eSSSi So- - -
+w
+1 2 3 "" 1 2 3 Terciles, no. of predecessor states in 1 300 Terciles of total surface area
+aT o>
+«o. -j
+Q.
+i-- ~r
+!;: T ■ i
+go
+(/>
+123
+Terciles of ethnic
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1432 REVIEW OF ECONOMIC STUDIES
+size of each box indicates the 25th and 75th percentiles, light line inside the box. The "whiskers" show the rest of th inverse pattern between the number of predecessor states on tax take. The only states with substantial tax pressure are i predecessor states. At the opposite end of the spectrum, am of predecessors, the average tax take was very low, and th suggests that ruling a territory with few predecessor state condition for raising high levels of revenue. Similar patterns emerge for the other two measures of ethnic heterogeneity. No large states succeeded in raising and average tax revenue in the highest tercile of ethnic f Appendix C, we show the strength of this pattern of assoc
+6.2.2. The effects of X and B. Our theory predicts to depend more and more on fiscal strength, state-build many variables changed at the time of the Military Revol could be explained by all of them. What distinguishes our Besley and Persson (2009), is that powers may rationally is, when money becomes very important for military suc fall behind and even reduce their state-building efforts. I supporting this prediction of our model. We use three measures of heterogeneity discussed ab fragmentation, and the number of predecessor states. We mean and a standard deviation of unity, and sum the value As a first pass to illustrate how fiscal performance chan in tax pressure (Table 4). In particular, consider the dras experience a drop in tax pressure, meaning that relative t less revenue on average in a given 50-year period compared form of "giving up" in terms of state-building efforts. A decline increases as military conflicts intensifies along t probability of giving up goes up by more than 12% for bo a given 50-year period. This is consistent with the idea tha reduces state-building in some states, generating strong with our model's predictions, heterogeneous states have th a decline in tax pressure. In panel B, we look at relative performance in each changes in tax pressure in each period to have zero mean a number means that a country raised tax pressure relativ its competitors. Once again, the evidence is consistent w with low fractionalization actually lagged behind their hig of revenue raising (in a typical period, they raised their t fragmented states). Because, as we just saw, homogenous ability, this suggests that before 1650 there was some con countries. There is a striking reversal in the pattern after powers were raising tax pressure much more than the less ho 38%). This evidence is indicative of strong divergence post Finally, we check one additional prediction that differen changing role of frequent military conflict as money sensiti
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1433
+TABLE 4 Relative revenue raising by European powers
+Panel A: Probability of declining tax pressure
+Low fraction High fraction Sum^O SumH='
+Pre- 1650 0 0.125 Post- 1650 0.125 0.33
+Panel B: Standardized revenue growth
+Sum^O Sum//=1
+Pre- 1650 -0.14 0.22 Post- 1650 0.13 -0.25
+Panel C: Standardized revenue growth when
+Sum^O SumH='
+Pre- 1650 -0.65 -0.57 Post- 1650 0.11 -0.49
+Notes : Panel A: we define a decline in tax pre in total fiscal revenue, calculated as a multipl between each period t and t- 1 . Panel B: we st of changes in tax pressure in each period to a standard deviation of unity. Finally, we calc each subgroup. Sum^ is a dummy variable tha the sum of standardized heterogeneity measures and zero otherwise. For the measures of heter the text. Panel C: here, we condition on war f states (excluding wars with the power in quest of the sample with above-average war frequen
+predicts that when money sensitivity is low all countries. When money sensitivity is h state-building between cohesive and divided as our benchmark of "highly frequent war average. Because war is endogenous, we use w the country in question) as a conditioning and they are consistent with the predictio fragmentation countries fall behind in relativ of being affected itself. Thus, frequent wars low state-building, offering empirical valida in a period when money matters less for mi continue to fall behind if there is a lot of w
+homogenous powers - they actually begin t finding is again consistent with our model.
+6.2.3. Regression analysis. To systematica of war and state-building, we perform a r money sensitivity k. Instead of the k for th generate a time- varying variable kt by regre period-by-period. The variable, therefore, tr the battlefield. The results are reported in T
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1434 REVIEW OF ECONOMIC STUDIES
+TABLE 5 Revenue raising and the military value of money (dependent variable: tax pressure revenue per capita )
+(1) (2) (3) (4) OLS re FE+institutions Controls
+Panel A kt 66.45** 59.66** 57.42** 55.47** (2.85) (2.5) (2.5) (2.75) ConsExec 1.18** (2.89) Area -1.21^-12 (-1.35) Slope -0.137 (-0.54) Pop2oo 20.64*** (4.22) Constant -2.9 -2.1 -2.9 -4.8 (0.81) (0.59) (0.8) (1.5)
+N 53 53 53 53 R 2 0.11 0.74 0.76 0.62
+(1) (2) (3) (4) Low-fraction High-fraction Inter Inter+FE SumH=0 SumH='
+Panel B A* 75.8* 30.85* 82.46** 75.77*
+(2.4) (2.2) (2.67) (2.4) Sum" 2.5 (0.6) k*SumH -56.6* -44.92 (-2.3) (-1.9) Constant -4.8 1.97 -3.16 -4.82 (-0.97) (0.9) (-0.64) (-0.96)
+N 34 19 53 53 R2 0.64 0.77 0.39 0.75
+Notes: * p < 0. 1 , ** p < 0.05, *** p < of military outcomes on relative fi of a state, Slope is the average slop 200 km of the capital, and Sum" is
+We first show that the dat military value of money gre with country-fixed effects, a are large. For example, the re importance of money for vi average - equivalent to a ris we use fixed effects and cont (2005). In our model, institut money sensitivity in column raising. Again, we obtain a l after controlling for other f
+25 . Figure D 1 in Appendix D com of money sensitivity of war outcom somewhat tighter in the case of the
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1435
+In Panel B, we investigate interaction effects between heterogeneity and the importance of fiscal resources for war. We estimate
+Ri,t = C -'-8Xt pBijkt (6.2)
+where R¡j is tax revenue (relative to average wages in a co measure of fiscal capacity, Bļļt is our measure of underlyi the importance of money for military success, and BitXt money sensitivity. We use clustered standard errors (at th that Xt vary by period. In columns 1 and 2 (Table 5), we look at countries with low
+In both groups, tax revenue was systematically higher in pe was higher. However, the effect is more than three times of the sample. In columns 3 and 4, we investigate if thi significant. Without country-fixed effects (column 3), we for the interaction term, as well as a negative coefficient o 4, the high- fragmentation dummy drops out because we coefficient of the interaction term is marginally smaller an
+significance. The interaction results in columns 3 and 4 bear model - that, at sufficiently high levels of fragmentation for fighting war leads to lower fiscal effort (reinforcing Revolution unfolded, states with a higher B - underlying out of the race to raise tax revenues.
+A simple way to summarize the cross-sectional patterns in the data is to examine, state-bystate, the extent to which the military importance of money predicts state-building. To this end, we
+regress - separately for each country - fiscal capacity on X. This yields a country-specific response to overall changes in the military importance of money. Figure 7 plots the estimated coefficients from these regressions alongside the composite measure of fragmentation. Overall, there is a strong inverse pattern: For the set of countries in the sample overall, the correlation coefficient is -0.74. The only states with a high responsiveness to growing X all have relatively low levels of fragmentation - like England and Prussia. Countries with intermediate levels of fragmentation like Austria - showed positive responses, but smaller ones than the highly homogenous powers. Finally, weak and highly fragmented states like Poland and the Ottoman Empire show barely any association between revenue raising and the military value of money.
+6.2.4. Instrumental variable results. Finally, our model predicts that a more belligerent environment may be associated with greater state-building, especially as the value of money for battlefield success rises. Taking this prediction to the data is complicated by the fact that war is endogenous; it is a choice variable, which depends on fiscal revenue because fiscal strength is a predictor of military success. To sidestep the issue of reverse causation we focus on an alternative measure of belligerence the frequency of war in neighbouring states (excluding the country itself). War in Europe came in waves; for example, the maelstrom of the Thirty Years War eventually drew in powers that had initially avoided participating. More frequent war in neighbouring states during the same period should have heightened the expectation of rulers that they, too, might be affected by war. In Table 6, we use war frequency in neighbouring states during the same period as an instrument for fiscal revenue (columns 1 and 3). We find a strong and significant effect in a simple OLS setup, for two dependent variables - tax pressure (TP), the ratio of per capita tax revenue and countryspecific wages, and revenue per capita, measured in grams of silver ( RevenuePC ). Next, we use
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1436 REVIEW OF ECONOMIC STUDIES
+Figure 7
+Revenue raising and the military value of fiscal revenue
+Notes : The left plot shows the country-specific sensitivity of revenue-raising to A., the value of money in winning wars. The corresponding regressions are run separately for each country, with our time- varying measure of X. The second plot gives the aggregate measure of fragmentation for each country.
+TABLE 6 War and revenue raising (OLS and TV-results)
+(1) (2) (3) (4) Dependent variable Tax Pressure RevenuePC estimator OLS IV OLS IV
+Second Stage/OLS WarFreq 5.54** 17.2** 57.1*** 137.26*** (2.25) [0.03] (3.31) [0.0066] FirstStage WarNeighbour 0.32 0.414**
+N 45 54 R2 0.095 0.13
+Notes: * p< .01,** p< 0.05 IV, we report AndersonWarNeighbour is the fre country in question).
+war frequency in ne in question. The exc country j on fiscal c Rubin test statistics country. The size of the variation identif
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1 437
+as a result of other powers' belligerence - is more strongly associated with revenue-r simple war frequency in a country itself. Our findings strongly suggest that there is a li increasing state capacity and the frequency of war in early modern Europe - and the show that the part of the variation reflecting the risk of war is highly correlated with fi increases.
+7. CONCLUSION
+Does frequent warfare lead to more state-building? We argue that the emergence of suc reflects the importance of money for military success - the direct result of changes in m technology in Europe after 1500. To analyse these effects, we build a simple model of building, and then examine the effects of war in a two-player setting. The need to fina makes money more valuable, increasing the benefits of greater state-building. When war very costly, the stronger, less fragmented power will invest in greater state capacity be the threat of war. Weaker powers then rationally drop out of the competition. Our empirical results underscore the importance of the Military Revolution. The ch of a richer power winning a battle were no greater than those of poorer powers. By t of the early modern period, richer belligerents won wars with a much higher probab We find that as military technology changed, so did state-building. In particular, afte Military Revolution, intense military conflict was associated with strong state consolida some cohesive countries, and weaker consolidation - or even reductions in fiscal capaci
+in domestically divided countries. After 1650, with the Military Revolution at its pea fragmented powers were almost three times as likely to witness a decline in tax pressur their more homogenous rivals. Our analysis is not meant to explain patterns of state-building in all countries and pe The unification of both Italy and Germany took place after our period. One was the r conquest by the militarily dominant power, Piedmont, while the other came about after against external enemies by the strongest national military power, Prussia. In both cases, hi generating abilities went hand-in-hand with a substantial edge in military capability. In bot several of the smaller powers who lost their independence had long given up competing m with the dominant power. At the same time, it is worth pointing out the limits of compara Military force after the French Revolution relied on mass armies to a greater extent tha the 18th century; the ability to conscript and use large bodies of armed men required p and institutional innovations that were beyond the considerations of Louis XIV and Frede Great (Ticchi and Vindigni, 2008; Dincecco et al., 201 1). The predictions of our theory are also in line with the basic patterns of state-building in t empires - Rome, Ming Dynasty China, and the Ottoman Empire. Military technology w different in all these cases, and there was less of a need to create military might with tax rev
+As our theory would predict, neither evolved a highly centralized structure of government levels of uniform tax collection. With each conquest, the Ottoman Empire simply took existing tax structure, with no attempt at imposing uniformity and centralization of c powers (Vryonis, 1969). Over time, individual provinces of the Ottoman Empire becam governing in all but name. Similarly, Roman rule typically showed a strong aversion to cent direct rule, delegating governance to local elites unless direct challenges to Roman sup dictated otherwise (Kelly, 2006). During both the Republic and the Empire, there was no
+26. One key factor was that both the Ottoman Empire and Ming China faced a threat from nomads, again gunpowder technology was much less effective. Cf. Hoffman (2012).
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1438 REVIEW OF ECONOMIC STUDIES
+system of taxation; instead, each province and city had products such as fishing or salt production (Ando, 2006 Ming China is also a case in point. Facing few exte of taxation were low, too (and lower than under the p conspicuous by its absence, with villages being off-lim imperial treasury functioning more like a "general acco (Huang 1998). Tax assessment and collection were left to attempts to collect information or impose uniform taxes fiscal data became perfunctory; most territorial units simp new returns. Since tax deliveries were largely carried ou the capacity at the middle echelon of the fiscal adminis never fully developed."
+There are alternatives to our interpretation of the rise o importance of the Black Death. After 1349, per capita i increased. Since war was a "superior good" for princes, frequency went hand-in-hand (Voigtländer and Voth, elements of this story, which likely contributed to the building in early modern Europe, nor the fact that great frequent wars. However, as the data on tax pressure indica
+greater than can be explained by higher per capita income in the cross-section of countries. These two facts are eas
+APPENDIX
+A. PROOFS
+Proof of Lemma 1. We now show that the symmetric equilibrium of Lemma 1 where only local production occurs exists. Suppose that we are in such an equilibrium (r /,</, and suppose that at the tax rate xm,d market producti less profitable than home production, namely max[0,(l -2r m,d)]Am < Ah. Is it profitable for power holder i to d to a tax rate rm,i at which market production is profitable again? The maximal tax at which the power holder of distric can induce market production is equal to:
+- 1 A ~ Ah
+Tm,i - - 1 A Tm,dA~m•
+If *m,d > (Am -Ah) /Am, the above expression is negative, so it is unprofitable for the local power holder i to deviate. If *m,d < ( Am -Ah) /Am, the tax is positive and - by fostering market production in the adjacent district - it yields a tax revenue equal to: 2 Amxm,i - 2Am( 1 - Tmd) - 2Ah,
+which is less than the rent (A/ -Ah) that the power holder obtains in Lemma 1 (so that the deviation is not profitable) provided: Ai+Ah
+Thus, the equilibrium of Lemma 1 exists for all parameter values.
+Proof of Proposition 1. Denote by TV(Rj,Ri) the payoff of ruler j=H,F as a function of the revenue R¡ chosen by ruler i 7 ¿A
+The first-order condition for ruler i is equal to niR.(Rļ,Rj) = 0 for i = H,F. The second-order condition is Tl^.R.iRi^j) <0. For brevity, we analyse these conditions only for the case of ruler H. The analysis for ruler F follows
+straightforwardly. As a preliminary step, recall that P=LļļR)ļ/(L<}iR)ļ +LļRf) is the win probability of H. Plugging equation (4.1) into equations (4.5) and (4.6), we find that the first-order condition for ruler H is equal to:
+9-¿-P('-P)(RH+RF)+0P+2('-G)-2ChRh=0. (A.l)
+Rh
+The second-order condition of the problem is in turn equal to:
+-0-^P(1-P)[1+H2P-1)](RH+RF) + 20-£-p('-P)-2Ch<O. (A.2)
+Rfļ "h
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1439
+When k < 1 the second-order condition is globally satisfied. By plugging the expression for (k/Rn)p( 1 (A.l) into equation (A.2) we can see that [1 + k (2p- 1)] ^0. Furthermore, the term 0 (k/Rn)p( 1 -p) to be always negative by plugging into equation (A.2) the expression for 2c h from equation (A. 1 ). Thus, À < for the existence and uniqueness of an optimum. See Hirai and Szidarovszky (2013) for a similar point. that equation (A.l) identifies a unique best response Rh ( Rf ), we must still show that Rh (0) is positiv easy to see that this is the case because Rh (0) = (1 -0/2)/ch > 0.] To see that the equilibrium exists and is unique, consider the reaction functions. By applying the im theorem to equations (4.5) and (4.6), and by considering the analogous expressions for ruler F, we have
+CIRh(RF) _ n RfRh _ (0/2)[phf(Rh+RF)+PH+PF] dRp ^rhRh (&/2)Iphh(Rh +Rf) + 2ph]~ l/RH,aut
+dRf(Rn) _ _ ^RfRh _ (0/2) 'phf (Rh +Rf)+PH +P
+dRfí HrfRf (Q/2)[-PFF(RH+RF)-2pfÌ~ l/RF,aut
+The denominator of both expressions is negative by concavity (pj j> denotes the second derivative of the
+of H ). Thus, reaction functions have opposite signs, sign = ~s^8n{dR'dR¡¡^
+Given that the reaction function R¡(Rj) is well defined, an interior equilibrium (/?J^,/?£) is then id equation:
+{ 1 H0/2)[-pF{RHVťF)+R*F)-p- 1]} - =0, (A.5)
+K F,aut
+together with Rļļ=Rn(Rļ). Equation (A.5) is simply the first-order condition of ruler F and can be solved for the equilibrium R*F. Consider now the slope of equation (A.5) with respect to Rļ. The derivative of the left-hand side with respect to R*F
+is equal to: i i dRF(R*H) dRH(R*F) F
+TW dR*H ' dR} +uw
+At an interior equilibrium (R*F,R*H), the above equation is negative, because the reaction functions have opposite slopes,
+dRfifpi) dRH¡^F) < o, and the r problem is concave, n£* < 0. The fact that equation (A.6) always crosses zero from above
+dRļļ dRp r KpKF implies that the equilibrium, if exists, is un
+The equilibrium exists provided n^/,(/ Ah),Am-Ah)<0. Consider the latter condit (this is proved below). As a result, exist our assumption that in autarky centraliz positively sloped (again, see below). N
+cF(Am -Ah)= B^ZAaÜ > 1 + f (A - 3), which When countries are symmetric, they face
+[l + í1(À-3)J.
+Consider now asymmetric countries, ch ^cf. In this case, equations (4.5) and (4.6) imply that in equilibrium we have:
+1 + |[Mi -j»(Rh+Rf)_2+p'
+Ch =
+Rh
+ļ + | 'he^zû(R +Rf)-I-p'
+cF Rf =
+When ch<cf, the right-hand side of equation (A.6) is smaller than the right-hand side of equation (A.7). One can show that this condition is equivalent to:
+(RH-RhĄ{'-0)+e-kp('-p) ļ + |[«w(l ~P)-KfP' > 0.
+For k < 1 , the above condition can only be met if RH>RF. Thus, when cH<cF , an interior equilibrium must feature
+^ H >^f- Consider next some comparative statics. By differentiating the rulers' first-order conditions, we obtain:
+n "HRHdRH + n HRHRFdRF = RHdcH, (A.8)
+n FRFRHdRH + n FRFRFdRF = RFdcF. (A.9)
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1 440 REVIEW OF ECONOMIC STUDIES
+By solving the linear system it is easy to see that:
+n"
+dRfj = -(pRudctf-ip-. - Rf1^F Rfdcf, (A. 10) |n!W|
+i nR//Rrt i i i nR/r«H
+dRp = -(p |nW| 2 |
+where <^=1
+I urhRh u*fRF rln%*
+Centralization in J centralization in coun
+country -J is negativ cost of centralization w.l.o.g. taken -J=H. A
+The above expressio
+y f < RH Rff+Rp ~ R
+The left-hand side is holds if an only if Rh To conclude the proof the equilibrium may symmetric equilibrium equilibrium, for they s evident that at these Suppose now that coun first- and second-order
+revenues. As a result, Proof of Proposition satisfied, provided 6 -X functions yield:
+Rj = min (A.12)
+The revenues in the above equatio ensuring concavity X < min jcj/0 such that the war threat boosts fis Using equation (A. 1 2) is also strai is partial in all countries, namely
+r*h = CF '-xe/cF
+R*f = ch 1 -X0/cH' <■ • '
+which is higher than 1 and increases in X0 if and only if cn<cp. Equation (A. 12) describes equilibrium revenues only when both countries win with some (Rh, Rf) where one country wins with probability one does not in fact exist because the pay convex around such equilibrium, so that it always has an incentive to deviate from it. To se strong country and wins with probability one, namely:
+-i+X(/?y-/?_y) = 0.
+To fulfil this constraint, the weak country J must find it unprofitable to deviate both to: (i (which allows the country to win with small but positive probability), and (ii) a slightly low J has still zero probability of winning but saves some costs of centralization). The marginal
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1441
+slightly above Rj is 6[' /2+2kRj] + 2(' - 6) - C'(Rj), where C'{Rj ) is the marginal cost of raising equilibrium point. The marginal benefit of setting revenues below Rj is - 2(1 - Q) + C'{Rj). It is easy to C'(Rj ) is increasing, it is not possible to find a value of Rj such that both deviations are unprofitable. Consider now the conditions guaranteeing that the equilibrium exists, namely that win probabilities will look for conditions under which this is the case for any k. To do so, denote by the c = c-j the cost the strong country and zc = cj the cost parameter of the weak country, where z> 1 increases in the in countries.
+By using Equation (A. 12), it is easy to see that the value of k at which the revenue difference between countries is maximized is the one at which the strong ruler -J centralizes fully, attaining R-j =(A/,- A/,). This level is identified
+''aC-ah) 36>/4) * ^ ^eve^ money sensitivity, the strong country -J wins with probability less than one
+by k* = provided:
+r/l-30/4' / 1 - 3fl/4'ļ _ 1
+LV c-ex ) V zc-ok J J _ 2'
+After some algebra, it is immediate to see that the above condition is satisfied provided z ^ Ī, where z > 1 is a given threshold. This provides the bound on country inequality in domestic divisions that guarantees that for all values of k win probabilities are interior and a quinqu equilibrium exists.
+Proof of Corollary 1. Denote autarky revenues in the two countries by (RH,aut,RF,aut)- We continue to assume heterogeneity and k are sufficiently small that the problem is concave and interior. Then, an interior equilibrium occurs at the intersection of the reaction functions:
+/ 1 - 39/4 ' n 0(' - y)k/cH n ..
+= n X-ex/cH Rf' n (A14) ..
+/ 1 -30/4 ' $('-y)'/cF „ /A
+The intercept captures the reform chosen by a ruler when his oppo second term captures a ruler's reaction to state-building abroad. No slopes, and the reaction function of the country with a larger army ha system we find:
+RH(X
+RF(X)
+From the above expressions one can readily obtain that:
+Rh W ^h, aut '+0kRF,aut('-2y) Rf(V ~ Rf ,aut 1 ~9kRfļ>aut(2 y)
+This expression implies that if H is the more cohesive country, so that Rh, aut > RF,aut , then external war threats (i.e. any 0 >0) increase RH(k)/RF(k) above the autarky level and this ratio increases in money sensitivity k. Furthermore, inspection of the "weak" ruler's revenue RF(k ) reveals that:
+dRF(k ) <Q^,Qy{CH -ßx)2 <(1 - y)0{(cF- 0ky)(cH~ 0k)+0k[(cF - 0ky) + y(cfj - 0À)]},
+dk
+which is fulfilled provided y is sufficiently small (provided of course the rulers' problem is concave). It is easy to check that - provided again that the rulers' problem is concave - Z?//(À) is an increasing function for y sufficiently close to 0. As a result, there exists a threshold y such that, for y < y , the revenue of the strong country H increases in k while that of the weak country F decreases in k.
+Proof of Proposition 3. Under the linear-symmetric contest success function, equation (5.3) can be rewritten as:
+-'-k(Rļj - /?/r)ļ -cr -(Rļj +/?£) >Rh> (A. 16)
+O Xa[(R%)2-(Rļ)2]-('-c)R*H>^^^. (A- 17)
+Given the symmetry of the contest success function, equation (A. 17) can be used to study under what conditions does the stronger or weaker ruler wish to initiate a war.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1442 REVIEW OF ECONOMIC STUDIES
+Suppose in fact that H is the stong ruler, namely R*H>R*F. Then eq
+Xcj(R*H+R*F)-('-a)-ß->a-. (A- 18)
+kh~kf ¿
+Given the dependence of (/?#,/?£) on k in Proposition 2, it is easy to see that the left-hand side inc range where Rļ,Rļ<Rc. Define k* as the sensitivity at which R*H =RC . Then, if k*Rc > 1/2 ther that, for a > o , there exists a k i < k* such that for k > k ' condition (A. 1 8) is met. If k*Rc < 1 /2 or o <
+Clearly, even though k¡ < k*, for k > k* the distance R *H -R*F becomes smaller and smaller, so that k becomes large, condition (A. 18) is violated. Suppose now that F is the weak ruler, namely R*H <Rļ. Then equation (A. 17) becomes:
+'cr(R*F+R*H)+(l-i (A. 19)
+kf~kh 1
+Given the dependence of on k in Proposition 2, it is easy to see that the left-hand side decreas range where Rļ,Rļ <RC. When A.=0, the value of the left-hand side is finite. As a result, there exist for a >a , there exists a Ào such that for k < ko condition (A. 19) is met. For a < o, set Ào =0. We thus have seen that in A. g [0, Ào] U [Ài , k*] war occurs for sure and the optimal fiscal investmen 2 indeed characterize the full equilibrium. Suppose now that we are in k e (ko,k'). Here our goal is not mixed-strategy equilibrium but describe how the equilibrium works. In this range, at the fiscal investmen 2, countries have no incentive to go to war. How is an equilibrium determined in this case? Suppose first t the equilibrium probability of war is co=0. In this case, countries go back to the autarky investments ( at these investments no country has an incentive to go to war, then the equilibrium is one where for not occur and country behave as in autarky. It is easy to check that if this is the case, then ko = 0. The by Proposition 2, state-building (and asymmetry among countries) fall in k. As a result, if no ruler fight in autarky, when k = 3/4 Rj^ut, a fortiori no ruler has any incentive to fight for k = 0, for in this la are even more equal. In sum, if w=0, war only arises for k e [k' ,k*]. If instead at the autarky investments either ruler has an incentive to go to war, then in equilibrium th of going to war must be positive. Crucially, since autarky revenues are too high (and unequal) to avert war a positive probability of war (co > 0) reduces state-building in the two countries, much in the spirit o k < 3/4 Rj,aut- From an ex ante standpoint, an overall probability of going to war of 0co induces (accor 2) optimal investments [/?£(A.,w),/?J¿(á,ú>)]. The equilibrium is then reached by setting co such that probability of H winning p(Rp(k,co),R1i(k,co)), the party who at autarky revenues is willing to attack between attacking or not (and thus willing to mix with probability co).
+B. INSTITUTIONS AND STATE BUILDING
+Consider the payoff implications of introducing institutions ttj > 0. Given an amount of fiscal revenues Rj - kj • (Am collected in centralized districts, the total revenue accruing to the central ruler is now equal to Rj = ('- nj) Rj. power holder of a centralized district now obtains 2nj • (Am -Ah) over two periods (which is equal to zero in the abse of institutions). As a result, the loss experienced by a power holder when his district is centralized is now equa 2 [(Ai Ah) Ttj - (Am -Ah)]. The timing of the model is as follows: at the outset, each ruler chooses iij-, next, he sets centralization kj' final military and market interactions occur. To solve the model backwards, note that when, as assumed, nj <nj, one replace Rj with the ruler's effective tax revenue Rj = (1 -ttj) Rj in the maximization problems (4.3) and (4.4). It is th easy to find that the cost for the ruler of raising Rj is equal to:
+Cj(Rj) = cj -Rj, where cj = ^ - , (B.l)
+Rj,aut
+where, in the spirit of equation (3.8), we have:
+Rj,au, = (1 -nj,am) min ' f -Ah) ■ (Am -Ah)] 4 -Ań)l (B.2)
+_Bj[(A¡ f -Ah) -nj^au, ■ (Am -Ah)] 4
+where 7Ty,flMr is the strength of institutions set by the ruler in autarky. Equation (B.2) shows that stronger institutions exert two conflicting effects on Rj^ut (i-e- on the inverse of the cost of centralization), one positive, one negative. As we discussed in the text, the case to consider is the one in which the first, positive effect dominates. Indeed, rulers will never set institutions in the decreasing range. This amounts to restricting
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1443
+institutions to the case nj ^ it j, where it j is the threshold below which the ruler's revenue increases in t institutions. In this range, stronger institutions can simply be conceptualized as a factor reducing the mar state-building. We assume, without loss of generality, that country H is the low-cost country, namely?// case when H is sufficiently more cohesive than F (i.e., Bh <Bf). Under a linear contest function, and under the assumptions of Point (2-ii) in Proposition 2, the followin
+Proposition 4. Denote by nj^ut the equilibrium level of institutional upgrading by ruler J = H, F in a R jaut ande j the associated autarky revenues and marginal cost, respectively. Denote by Kj and nj the equ of centralization and institutions prevailing in country J when an external threat is present (i.e. for all have that :
+( 1 ) Institutions and centralization in country J are stronger than in autarky if and only ifX>3-cj/4.
+(2) If centralization and institutions are partial, namely Kj < 1 and jtJ <min(lt j,nj) for J = H, F , t country has higher Kj and jtJ than its opponent.
+Thus, institutions and centralization improve together as money sensitivity increases, and the more reforms more aggressively, generating divergence.27 Proof The problem of the ruler when choosing how much to centralize is qualitatively identical to th in the absence of institutions, except that now institutions reduce the marginal cost of centralization. As a res centralizes more when X is higher and centralizes more than in autarky when k > 3 -cj/4., where cj is th evaluated at the chosen level of institutions. Accordingly, the higher is A. the higher is the divergence in between the cohesive and the divided country. Consider now the optimal choice of institutions. Because institutions are set before the centralization taken, equations (4.3) and (4.4) imply that the value of institutions nj for the ruler of country J is equal t
+~~
+W J (7ĪJ ,
+Rj 1 , Rj,aut
+where pj(Rj,R-j) is the probability with which
+dWj(7Tj,Bj) = (R'jf dRj ,aut d*j
+It is then easy to see that the marginal benefit the marginal benefit of institutions is higher t That is, if and only if X > 3 >cjf 4, as stated i and the cohesive country has both stronger in
+27. The intuition for why divided countrie countries a marginal improvement in institut to the uniform distribution of "political dista conflict is sufficiently strong that autarky c sufficiently weak that some conflict is prese
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1444 REVIEW OF ECONOMIC STUDIES
+C. ADDITIONAL REGRESSION RESULTS
+TABLE Cl Battlefield results, battles without allies ( dependent variable: dummy = 1 if richer power wins)
+(1) (2) (3) (4) (5) (6) Pre- 1650 Post- 1650
+Diffrev 0.62** 0.62** 0.61** 0.73** 1.49 0.66* (1.97) (1.97) (2.04) (2.01) (0.72) (1.73) Diffpop -0.090 -0.090 -0.13 -0.25 -0.050 -0.31 (-0.61) (-0.61) (-0.78) (-1.43) (-0.07) (-1.63) naval -0.20 -0.38 -0.64 -0.51*
+(-0.66) (-1.34) (-0.85) (-1.69) Constant -0.32 -0.32 -0.21 -1.27*** -1.92*** 0.12 (-0.95) (-0.95) (-0.48) (-5.08) (-3.15) (0.28) N 182 182 182 179 22 157
+Note: t statistics in parenthese
+TABLE C2 Heterogeneity and state-building ( dependent variable: tax pressure)
+Sum -1.515*** (-3.38) Predi 300 -0.283** (-2.64) Area -4.2 le- 12***
+(-4.50) Ethnic _19 24***
+(-3.1) Constant 7.395*** 10.48*** 11.45*** 11.11*** (6.67) (4.86) (6.23) (3.69)
+N 53 53 53 53 R2 0.363 0.249 0.402 0.125
+Note: Cf. Appendix E for data construction
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENN AIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1445
+D. ADDITIONAL FIGURE
+Figure D1
+Fiscal capacity, money sensitivity, and institutions
+Notes: The y- axis shows fiscal revenues per capita, as a multiple of the the country-specific daily wage rate. The left ;c-axis plots A., the money-sensitivity of battlefield victories, controlling for other factors; the right one, constraints on the executive.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1446 REVIEW OF ECONOMIC STUDIES
+E. DATA
+Here, we detail the construction of the variables used in the empirical analysis.
+Variable Description and Source
+BattleOutcome Dummy variable that takes the value of 1 if the fiscally stronger power 2003), and 0 otherwise. Battle data is from Jaques (2007). From these two sou code the results of all battles fought on European soil from 1500 to 1780. Ex sieges, civil conflicts and peasant revolts, this leaves 374 battles. Of these, 80 naval battles.
+Diffrev Log difference of tax pressure between richer and poorer power, calculated as Diffrev = ln(TP")-ln(.TPF). taxpressure Annual tax revenue per head, scaled by urban wages. Source : Karaman and Pamuk (2010). TPh Tax pressure in the richer power. Source : Karaman and Pamuk (2010). TPf Tax pressure in the poorer power. RevenuePC Tax revenue per capita, in grams of silver per year. Source : Karaman and Pamuk (2010). Diffpop Log difference of population between richer and poorer power, calculated as Diffpop = ln(pH)-ln(pF). pH Population of richer power, in millions, at the beginning of the period to which the fiscal data refers. Source : McEvedy and Jones (1978). pF Population of poorer power, in millions, at the beginning of the period to which the fiscal data refers. Source: McEvedy and Jones (1978). Naval Dummy variable for battles at sea. Source : Landers (2003). Allies Dummy variable for engagements involving allies. Source : Jaques (2007). Pred'3 00 The number of independent predecessor states on the territory of countries existing in 1500 (using 1500 borders). Source: All figures are based on historical maps available at www.euratlas.net. Ethnic The ethnic fractionalization measure is taken from Alesina et al. (2003). Area Total surface area as calculated in Q-GIS from the historical maps at www.euratlas.net. Sum Sum of three measure of heterogeneity: Pred 1300, Ethnic , and Area; variables standardized so that each has mean = 0 and st.dev. = 1 . k Estimated money sensitivity of war outcomes - based on a regression of battle outcome (BattleOutcome) on the Diffrev.
+Acknowledgments. We received helpful comments from Philippe Aghion, Roland Benabou, Tim Besley, Francesco Caselli, Zhiwu Chen, Mark Dincecco, Patrick Francois, Regina Grafe, Avner Greif, Phil Hoffman, Peter Koudjis, Gerard Padro-i-Miquel, Roger Myerson, Nancy Qian, Torsten Persson, Jim Robinson, Enrico Spolaore, Jean Tiróle, Mathias Thoenig, Nico Voigtländer, Pierre Yared, Fabrizio Zilibotti and from seminar participants at FU Amsterdam, IMT Lucca, CREI, U Penn, the NBER Summer Institute, the 2011 UAB-MOVE conference, the Toulouse CIFAR meeting, and the 2012 NBER Political Economy meeting. We thank the ERC for support through StG (#241114 - Gennaioli) and AdG (#230515 - Voth).
+Supplementary Data
+Supplementary data are available at Review of Economic Studies online.
+REFERENCES
+ACEMOGLU, D. (2005), "Politics and Economics in Weak and Strong States", Journal of Monetary Econom 1199-1226.
+ACEMOGLU, D., JOHNSON, S. and ROBINSON, J. A. (2001), "The Colonial Origins of Comparative Development: An Empirical Investigation", American Economic Review , 91, 1369-1401. ACEMOGLU, D., JOHNSON, S. and ROBINSON, J. A. (2005), "The Rise of Europe: Atlantic Trade, Institutional Change, and Economic Growth", American Economic Review 95, 546-579. ACEMOGLU, D. and ROBINSON, J. A. (2006), "Economic Backwardness in Political Perspective", American Political Science Review, 100, 115-131. ALESINA, A., DEVLEESCHAUWER, A., EASTERLY, W., KURLAT, S. and WACZIARG, R. (2003), "Fractionalization", Journal of Economic Growth , 8, 155-194. ALESINA, A. and LA FERRARA, E. (2005), Ethnic Diversity and Economic Performance. Journal of Economic Literature, 43, 762-800.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+GENNAIOLI & VOTH STATE CAPACITY AND MILITARY CONFLICT 1447
+ALESINA, A. and SPOLAORE, E. (2005), War, Peace, and the Size of Countries. Journal of Public Econ 1333-1354. ANDO, C. (2006). "The Administration of the Provinces", in D. S. Potter (ed.) A Companion to the Roman Empire. (Maiden, MA: Blackwell Publishing Ltd) 175-192. BESLEY, T. and PERSSON, T. (2009), "The Origins of State Capacity: Property Rights, Taxation, and Politics", American Economic Review , 99, 1218-1244. BESLEY, T. and PERSSON, T. (2011), "Fragile States and Development Policy", Journal of the European Economic Association , 9, 371-398. BONNEY, R. J. (1981), The King's Debts: Finance and Politics in France, 1589-1661. (Oxford: Oxford University Press). BREWER, J. (1990), The Sinews of Power: War, Money and the English State, 1688-1783. (Harvard University Press). CLARK, G (2007). A Farewell to Alms: A Brief Economic History of the World (Princeton: Princeton University Press). DELONG, J. B. and SHLEIFER, A. (1993), "Princes and Merchants: European City Growth before the Industrial Revolution", Journal of Law and Economics , 36, 671-702. DINCECCO, M. (2009), "Fiscal Centralization, Limited Government, and Public Revenues in Europe, 1650-1913", The Journal of Economic History , 69, 48-103. DINCECCO, M., FEDERICO, G and VINDIGNI, A. (201 1), "Warfare, Taxation, and Political Change: Evidence from the Italian Risorgimento", The Journal of Economic History , 71, 887-914. DIXIT, A. (1987), "Strategic Behavior in Contests", American Economic Review , 77, 891-898. ELLIOTT, J. H. (1963), Imperial Spain (London: Harper Collins). EPSTEIN, S. R. (2002), Freedom and Growth: The Rise of States and Markets in Europe, 1300-1750. (London and New York: Routledge). ERTMAN, T. (1997). Birth of the Leviathan: Building States and Regimes in Medieval and Early Modern Europe. (Cambridge University Press). GREIF, A. (1993), "Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition", American Economic Review, 83, 525-548. HAMILTON, E. J. (1 934), American Treasure and the Price Revolution in Spain, 1501-1650. (Cambridge, MA: Harvard University Press). HERBST, J. (2000), States and Power in Africa: Comparative Lessons in Authority and Control , (Princeton: Princeton University Press). HIRAI, S. and SZIDAROVSZKY, F. (2013), "Existence And Uniqueness Of Equilibrium In Asymmetric Contests With Endogenous Prizes", International Game Theory Review , 15, 1-9. HIRSHLEIFER, J. (1995), Anarchy and its Breakdown , Journal of Political Economy , 1UJ, Zb-5Z. HOFFMAN, P. T. (2012), "Why was it Europeans Who Conquered the World? Journal of Economic History , 72, 601-33. HOFFMAN, P. T. and ROSENTHAL, J.-L. (1997), "The Political Economy ot Wartare and laxation in tariy Modern Europe: Historical Lessons for Economic Development", in J. N. Drobak and J. V. C. Nye (eds.) The Frontiers of the New Institutional Economics. (St. Louis, MO: Academic Press) 31-55. HUANG, R. (1998), The Ming fiscal administration , in Denis C. Iwitchett and hredenck W. Mote (eds.) 1 ne Ramonage History of China vol. 8. Part 2, 144-48. HUI, V. T. (2005), War and State Formation in Ancient China and Early Modern Europe. (New York: Cambridge University Press). JACKSON, M. O. and MORELLI, M. (2007), "Political Bias and War , American Economic Review , V7, 13D J- 1 3 /3. JAQUES, T. (2007), Dictionary of Battles and Sieges : A Guide to 8,500 Battles from Antiquity through the 2 1st Century. (Westport, CA: Greenwood Press). KARAMAN, K. K. and PAMUK, S. (2010), "Ottoman State Finances in European Perspective, 1500-1914 , Journal of Economic History , 70, 593-629. KARAMAN, K. K. and PAMUK, S. (2013), "Different Paths to the Modern State in Europe: The Interaction between Warfare Economic Structure and Political Regime", American Political Science Review , 107, 603-626. KELLY, C. (2006). The Roman Empire: A Very Short Introduction. (Oxford University Press). KUZMICS, H. and AXTMANN, R. (2007). Authority, State and National Character: The Civilizing Process in Austria and England, 1700-1900 , Vol. 36. (Ashgate Publishing, Ltd). LANDERS, J. (2003). The Field and the Forge: Population, Production, and Power in the P re-industrial West. (New York: Oxford University Press). LEE, S. J. (1991). The Thirty Years War. (Psychology Press). LEVY, J. S. (1983), War in the Modern Great Power System, 1495-1975 (Lexington: University Press of Kentucky). MARTIN, P., MAYER, T. and THOENIG, M. (2008), Make Trade Not War? Review of Economic Studies, 75, 865-900. McEVEDY, C. and JONES, R. (1978), Atlas of World Population History. (London: Penguin). NORDHOLT, H. S. (2010), The Spell of Power: A History ofBalinese Politics, 1650-1940. (Brill). NORTH, D. (1989). Institutions and Economic Growth: An Historical Introduction. World Development, 17, 1319-1332. PARKER, G (1996), The Military Revolution: Military Innovation and the Rise of the West, 1 500- 1 800 (Cambridge; New York: Cambridge University Press). ROBERTS, M. (1956), The Military Revolution, 1560-1660: An Inaugural Lecture Delivered Before the Queen's University of Belfast. (Belfast: M. Boyd). ROHNER, D., THOENIG, M. and ZILIBOTTI, F. (2013), "War Signals: A Theory of Trade, Trust, and Conflict", Review of Economic Studies, 80, 1 1 14-1 147.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms
+
+
+1448 REVIEW OF ECONOMIC STUDIES
+SKAPERDAS, S. (1992), "Cooperation, Conflict and Power in the Absen Review , 82, 720-739. SPOLAORE. E. and WACZIARG R. (2009). "War and Relatedness". (Workine Paoer No. 15095 NBER). SZABO, F. A. (2013), The Seven Years War in Europe: 1756-1763 (London and New York: Routledge). TICCHI, D. and VINDIGNI, A. (2008), "War and Endogenous Democracy", (discussion paper IZA). TILLY, C. (1990), Coercion, Capital , and European States, AD 990-1990 ( Studies in Social Discontinuity ) (Cambridge: Blackwell). VOIGTLÄNDER, N. and VOTH, H.-J. (2013), "The Three Horsemen of Riches: Plague, War and Urbanization in Early Modern Europe", Review of Economic Studies , 80, 774-81 1. VRYONIS, S. (1969). The Byzantine Legacy and Ottoman Forms. Dumbarton Oaks Papers , 23/24, 251-308.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:13:59 UTC All use subject to https://about.jstor.org/terms

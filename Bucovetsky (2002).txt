@@ -1,0 +1,194 @@
+Review
+Reviewed Work(s): Political Economics: Explaining Economic Policy by Torsten Persson and Guido Tabellini
+Review by: Sam Bucovetsky
+Source: Southern Economic Journal, Jan., 2002, Vol. 68, No. 3 (Jan., 2002), pp. 738-742
+Published by: Southern Economic Association
+Stable URL: https://www.jstor.org/stable/1061733
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms
+Southern Economic Association is collaborating with JSTOR to digitize, preserve and extend access to Southern Economic Journal
+This content downloaded from
+194.156.224.251 on Sun, 03 Nov 2024 23:17:57 UTC All use subject to https://about.jstor.org/terms
+
+
+738 Book Reviews
+the purposive behavior of the agents you are studying" (p. 45). The stand meant for a world of high calculation costs. We live in a world of low cal
+time to move on.
+Sutton's book is an intelligent look at some fundamental issues in empirical econ is also a good read. I would have liked him to be more radical in his critique of
+practice and more optimistic about improving on them. But neither gripe is meant to value of the book or the pleasure of reading it.
+References
+Brock, William A. 2000. Some Santa Fe scenery. In The complexity vision and the teaching of economics, edited b David Colander. Cheltenham, UK: Edward Elgar Publishing, pp. 29-49. Hayek, E A. 1967. Degrees of explanation. In Studies in philosophy, politics, and economics. Chicago: University o Chicago Press, pp. 22-42. Hiemstra, Craig. 1993. An application of the modified rescaled range test to the daily returns of individual-firm stocks Mimeograph, Loyola College, Baltimore. Lo, Andrew. 1991. Long-term memory in stock market prices. Econometrica 59:1279-1313. Loretan, M., and P. C. B. Phillips. 1994. Testing the covariance stationarity of heavy-tailed time series: An overview of the theory with applications to several financial datasets. Journal of Empirical Finance 1:211-48. Mandelbrot, Benoit. 1972. Statistical methodology for nonperiodic cycles: From the covariance to R/S analysis. Annals of Economic and Social Measurement 1(3):259-90. Mandelbrot, Benoit. 1997. Fractals and scaling in finance: Discontinuity, concentration, risk. New York: Springer. Wilson, R. 1967. Competitive bidding with asymmetric information. Management Science 13:816-20.
+Roger Koppl Fairleigh Dickinson University
+Political Economics: Explaining Economic Policy
+By Torsten Persson and Guido Tabellini. Cambridge, MA: MIT Press, 2000. Pp. xix, 533. $55.00.
+This book contains a succession of models of public sector decision making. In every case, the actors in the models are rational economic agents. In virtually every case, they play noncoop
+erative games, the rules of which are specified by political institutions. In virtually every case,
+the actions chosen by the agents or the consequences of those actions are government economic policies. Anyone who wants to learn how to construct tractable models of this sort must read this book.
+Why would we want to construct such models? We are economists, and constructing models is what we do (a habit that often causes consternation to our students, acquaintances, and families). Some of us have declared a specialization in public sector economics and so have to consider the determination of government economic policy. To a large degree, "pure" public economics practitioners have tended to ignore diligently the political process. Several explanations can be given for this practice. One is that explicit consideration of political institutions
+would complicate analysis of many problems without adding any significant insights. Another
+is an "as if" argument: The outcome of the political process can accurately (or adequately) be represented by some sort of representative welfare function. A third is the weakness of the resources on which we could draw: the sterile formalism of the social choice literature and the
+inelegance, specificity, lack of rigor, and ideological baggage of much of the public choice literature.
+This content downloaded from
+194.156.224.251 on Sun, 03 Nov 2024 23:17:57 UTC All use subject to https://about.jstor.org/terms
+
+
+Book Reviews 739
+Persson and Tabellini really do demolish quite powerfully my first an
+They show an extraordinarily deft touch in finding exactly the assumpt
+and again, they start with elegant but highly stylized models, then add
+one, and are still able to find economically meaningful closed-form solut
+distinguish between baby and bathwater is impressive. They show this abili
+examples from their own vast collection of recent published work in the ar
+other people's work.
+This work also demonstrates that the many important strengths of th
+public choice can be preserved, even when some of the less attractive
+These strengths, acknowledged by the authors, include an understanding o
+interest groups, an emphasis on the manner in which lobbying affects p
+the procedural rules of the electoral process, and a recognition of the role
+mation. In the introduction, the authors trace the roots of the work presente
+the Chicago school of rational expectations macroeconomics and the Roch
+litical science being the other two. They also seem quite loathe to identify
+economics, either in its roots or in its applicability. Nonetheless, I would
+a very important text for public economists, despite the fact that Atkinso
+Meade, Mirrlees, Stern, Stiglitz, and Vickrey merit one mention among th
+of some 500 or more references. In the introduction, the authors define t
+policies such as "the size and form of redistributive programs, the exten
+good provision, the burden of taxation across alternative tax bases, the s
+deficits, the extent of corruption by public officials, the structure of labor m
+stance of monetary policy during the course of the business cycle or th
+1). Except for the last item, that seems to be what public economics is a
+That last item is one of the authors' major concerns. The book contai
+introductory part on "The Tools of Political Economics," and then four p
+tools are applied to substantive problems. But the specific issues to which
+devoted tend to be macroeconomic issues or public finance issues that m
+made their own. One whole part is devoted to monetary policy, predomi
+credibility. Individual chapters are devoted to the capital tax levy problem,
+of the public debt, and to growth. On the other hand, a little less attentio
+microeconomic issues. The analysis of pensions, of regional transfers, an
+insurance is all contained in a single chapter, the one titled "General Inte
+To a large degree, the emphasis in the book reflects the progress
+literature in political economics. A lot of important new testable predict
+in the past 20 years about the effect that political structure of countries
+nomic policies in the countries and on the consequences of those policies
+growth rates. Many of these predictions have been subjected to empirical
+been rejected by the data. The effects of (existing) economic inequality o
+growth, the effects of central bank independence on inflation, and the ef
+elections on the business cycle are examples discussed at some length in
+On the other hand, the accomplishments of this new literature in th microeconomic policy issues look perhaps less gaudy. Existing anecdotal a
+made more rigorous. Clear models have been formulated specifying how
+should affect policies-other things equal. But there are perhaps fewer ne
+This content downloaded from
+194.156.224.251 on Sun, 03 Nov 2024 23:17:57 UTC All use subject to https://about.jstor.org/terms
+
+
+740 Book Reviews
+opments that we would like to convey to intelligent laypeople and that we able to convey a few years ago.
+For example, what do we know about agricultural policy? Governments
+forms, in many different places, at many different times, seem to have interests. Why have agricultural lobbies been so successful? Is their success
+analyses of this phenomenon have emphasized the importance of intense m
+the overrepresentation of rural constituencies in many representative dem
+sort of analysis did not rest on a very firm analytic foundation. Chapter 7
+"Special Interest Politics," presents a much more satisfying analysis. It pre
+types of model: a model of structure-induced equilibrium in legislatures Baron and Ferejohn and by Epple and Fiorina), a common-agency model o
+Grossman and Helpman), and a model of electoral competition by parties Weibull and to Dixit and Londregan). In each case, the characteristics of t
+group most likely to succeed are derived. The structure-induced equilibri
+that legislation will favor districts with a small number of voters, districts
+care more about government spending in the district, and districts for whi
+of government expenditure, should no new legislation be passed, is fairly
+agency model is not really used to explain which groups succeed in lobby how competition for politicians dissipates lobbyists' rents. The model of
+suggests that parties' platforms will favor groups that are not wedded stro political ideology and that are more homogeneous in their ideological view
+The authors have succeeded in saying a great deal about special interes
+pages. They have presented quite a selection of different models and prese
+simply and coherently than my hectic precis in the previous paragraph wo
+the models presented has implications. Many of these implications are no
+formal modeling, and many of these implications can be examined empir
+they seem at odds with casual empiricism. Simple structure-induced equi
+which some individual legislator gets the power to set the agenda, predict
+well treated in the status quo will not be part of a majority coalition. It is t
+them a policy that they will prefer to the status quo. In other words, last y be the most vulnerable in this year's legislative process. The fact that accounted for by the very simplest models itself points out the need to bu
+One of the strengths of the book is that, in every chapter, the authors tak
+out extensions and modifications. Each chapter contains many references to
+At the end of each chapter are precisely five problems for the reader, m
+extensions of the models presented within the chapters. The book can be reference to a large literature and as a text.
+The success of agricultural interests can be defined relative to other c interest groups or relative to some ideal benchmark. The first sort of co political economics, is the approach emphasized in the book. In the introd
+state, "We primarily want to know why policy is the way it is, not what i
+In a great number of cases, they succeed in this goal. An excellent examp "Political Regimes," in which they present several models, mostly from demonstrate clearly why parliamentary regimes tend to spend more, and public goods, than do American-style democracies, with their separation executive and legislative branches. The key distinction is in the formulat
+This content downloaded from
+194.156.224.251 on Sun, 03 Nov 2024 23:17:57 UTC All use subject to https://about.jstor.org/terms
+
+
+Book Reviews 741
+spending proposals. In each case, one legislator is in charge of setting the
+in charge of expenditure. In the parliamentary system, each legislator belo
+party, and each has veto power over legislation. The legislature only vote
+equilibrium) a combined tax-expenditure package that has been approved by
+legislators. In Persson's and Tabellini's model of a congressional system, th twice. First, one agenda setter proposes tax legislation, and then, after th
+passed or defeated, another agenda setter proposes spending legislation. In a there are two different votes means that it is easier for agenda setters t
+legislators against each other. In equilibrium, fewer rents have to be tran
+legislators in a congressional system. While the authors are forthright in m
+limited empirical confirmation for these predictions, the chapter provides
+on why and how legislative rules matter for public economics.
+Returning again to special interest politics, are the authors as successf new and compelling explanation for the success of agricultural lobbies? T
+question, the more difficult it is, and here I think we must be satisfied with m
+an understanding of the sort of forces involved and how they can be mode
+Of course, in referring to the success of agricultural policy, I am imply
+interests get more than they deserve, in some sense. In political economi
+down the slippery slope into normative economics. The authors should be c
+resolve in trying to concentrate on positive economics. They adhere to the
+the consequences of political institutions for policies implemented. They
+obvious questions that might be raised. If institutions matter, how do they
+tutional structure is taken as given, what is an appropriate measure of th outcome? The first question they wisely avoid, acknowledging that "a pos
+institutions evolved is certainly an interesting area of research" (p. 4).
+They do, in quite a few instances, use a benchmark measure of an eff
+compare with the outcome of the political process. They use the Benthamite
+for this task, pointing out clearly in the introduction the potential problem
+They also, in most of the models they use, choose utility functions for i are linear in income. This certainly provides tractability. But, together w
+Benthamite benchmark, it leads to a lot of attention being paid to transfera
+Persson and Tabellini, transferable utility is an analytic simplification, not
+But how many transferable utility games can one smoke without inhaling?
+again the analysis of special-interest lobbying. In chapter 7, Persson and
+model of lobbyists as many principals competing for a single political age
+auction. The use of the menu auction means that the single agent can succe
+from the principals. They conclude (p. 174) that the equilibrium will be s
+not all lobby groups are organized and if the government cares at all abo butions. All three conclusions presented in this section are normative. Th
+result that organized groups will get too much expenditure on their pref there may be too much or too little aggregate public expenditure. Contra with those derived by Dixit, Grossman, and Helpman (1997), in which the
+transferable utility is emphasized and in which it is shown the equilibrium
+must be efficient in the sense that there is no other feasible policy yieldin each lobbyist and to the government. As Dixit, Grossman, and Helpman t
+demonstrate, this constrained efficiency of equilibrium is not a tautology.
+This content downloaded from
+194.156.224.251 on Sun, 03 Nov 2024 23:17:57 UTC All use subject to https://about.jstor.org/terms
+
+
+742 Book Reviews
+that it may not be enough simply to be aware of the difficulties in doin economics. In some instances, Benthamite benchmarks might best be avo
+Reference
+Dixit, Avinash, Gene Grossman, and Elhanan Helpman. 1997. Common agency and coordination: General theory application to government policy making. Journal of Political Economy 105:752-69.
+Sam Bucovetsky
+York University
+Trade Policy in Developing Countries
+By Edward E Buffie. Cambridge, UK: Cambridge University Press, 2001. Pp. vi, 400. $27.95 (paperback).
+This is a very interesting and useful text for the "post-Seattle" discussion of trade policies
+developing countries. If the protests associated with the World Trade Organization (WTO) mee
+ings there have taught us anything, it is that a very vocal opposition has emerged to the conce
+of trade liberalization among developing countries. The dichotomy in debate is stark: The pro
+ponents of trade liberalization speak of the static gains from trade and the power of markets
+enticing disciplined economic activity, while the opponents decry the profits accruing to th
+rich at the expense of the poor that this liberalization will facilitate. The beliefs on both side
+are passionate and strongly held, but the grounding in economic theory is limited. Professo
+Buffie has taken on the task of analyzing the theoretical costs and benefits of trade liberalizati
+in this monograph. As he puts it, "It can be said with some assurance that extreme protectioni
+policies are economically harmful. But the case for free trade is not airtight, and there is n
+general theoretical presumption that the market failures common in LDCs (less developed cou tries) favor an export-oriented rather than an import-substituting trade strategy" (p. 5). H
+succeeds handsomely in illuminating these questions with a logic embedded in theory. Let m
+begin with a disclaimer. Buffie and I seem to have a similar way of framing research question
+and thus I am willing to accept a number of maintained hypotheses in his work to which other
+might object. These include the following:
+(i) modeling of economic activity as the outcome of optimizing behavior,
+(ii) a presumption that developing countries are characterized to a greater extent than develop
+countries by certain forms of market failure, (iii) a presumption that mathematical modeling can be used to represent the economic interac tions of individuals in developing countries, and (iv) the absence of explicit exploitation of developing countries by developed countries in t
+international marketplace.
+If your own beliefs run counter to these, then Buffie's logic-and my review-will leave you dissatisfied.
+Buffie sets an ambitious agenda in this monograph. He analyzes a number of specific policy questions and does so within a consistent theoretical framework that is both intertemporal
+nature and has sufficient complexity to capture the features he associates with developing coun
+This content downloaded from
+194.156.224.251 on Sun, 03 Nov 2024 23:17:57 UTC All use subject to https://about.jstor.org/terms

@@ -1,0 +1,466 @@
+The Baring Crisis and the Great Latin American Meltdown of the 1890s
+Author(s): Kris James Mitchener and Marc D. Weidenmier
+Source: The Journal of Economic History, Jun., 2008, Vol. 68, No. 2 (Jun., 2008), pp. 462-500
+Published by: Cambridge University Press on behalf of the Economic History Association
+Stable URL: https://www.jstor.org/stable/40056382
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms
+Cambridge University Press and are collaborating with JSTOR to digitize, preserve and extend access to The Journal of Economic History
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+The Baring Crisis and the Great Latin
+American Meltdown of the 1890s
+Kris James Mitchener and Marc D. Weidenmier
+The Baring Crisis is the nineteenth century's most famous sovereign debt crisis Using a database of more than 15,000 observations, we assess its effect on emerging market borrowers and find empirical evidence of a regional crisis but not a global crisis. During the crisis, Latin American yield spreads increased by more than 200 basis points relative to the rest of the world, even after controlling for macroeconomic, trade, political-institutional factors, and other countryspecific effects. Our evidence suggests that European investors may have sold off or reduced their holdings of Latin American securities in the wake of the Baring Crisis.
+Frequent financial crises in emerging markets during the past two
+decades have driven economists and investors to understand their
+nature, causes, and consequences. These episodes are often characterized by volatile capital flows, unsustainable or noncredible commitments to fixed exchange rates, currency mismatches, liquidity mismatches, and weak regulation and supervision of banking systems. Some studies have emphasized the role of contagion, the process through which a shock in one country can lead to a price movement in another country in excess of the underlying fundamentals.1 For example, some research has pointed to the role of asymmetric information, informed and uniformed investors, and political variables in the transmission of the Asian financial crisis.2 Others have stressed the importance of common creditors in propagating crises. To reduce overall portfolio risk, financial institutions in the common-creditor country (one with large holdings of emerging market debt) reduce or sell off their as
+The Journal of Economic History, Vol. 68, No. 2 (June 2008). © The Economic History Association. All rights reserved. ISSN 0022-0507. Kris James Mitchener is Associate Professor, Department of Economics, Santa Clara University, 500 El Camino Real, Santa Clara, CA 95053. E-mail: kmitchener@scu.edu. Marc D. Weidenmier is Associate Professor, Department of Economics, Claremont McKenna College, 500 East Ninth Street, Claremont, CA 91711. E-mail: mweidenmier@mckenna.edu. We thank seminar and conference participants at UC Berkeley, the 2006 World Economic History Congress in Helsinki, and the UCLA Conference on States and Capital Markets in Historical Perspective for comments and suggestions. We also thank Nilisha Agrawal, Lydia Fung, Genna Tan, and Sean Hannley for research assistance, and Moritz Schularick for generously providing data. The National Science Foundation (NSF grant 0518661) and a Santa Clara University (Leavey Grant) provided financial support for this project. Forbes and Rigobon, "No Contagion"; Forbes and Claessens, International Financial Contagion', and Kaminsky, Reinhart, and Vegh, "Unholy Trinity." Calvo, "Contagion"; Drazen, "Political Contagion"; Hahn and Mishkin, "Korean Financial Crisis"; and Radelet and Sachs, "East Asian Financial Crisis."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 463
+sets in the entire region, especially in countrie similar to the crisis country.3 The significant financial crises have in turn prompted some p reform of the international financial architecture
+To provide some historical insight into the gl of financial crisis, this article turns back the
+most famous sovereign debt default of the nine ing Crisis of 1890.5 The crisis originated in transmitted back to London via the House o bank in London that held large amounts of Ar not be placed in the London market).6 Most p amined the effect of the crisis on Argentina rescue operation of the House of Baring. We br oughly examining the global effects of the Bar 41 emerging market borrowers. Using a new weekly sovereign debt prices collected from th cal analysis of sovereign yield spreads suggest was primarily a regional crisis. The country American countries increased by more than 1890 and 1891, and more than 1,600 basis p 1895. In contrast, yield spreads for non-Latin "core" countries (high income European co States) were generally flat or unchanged during We next construct a panel data set consisting sovereign borrowers, which includes macroeco variables, political and institutional factors, an controls. The results from the fixed-effect reg yields in Latin-American countries were mo higher as a direct result of the Baring Crisis macroeconomic fundamentals (such as its debt and trade balance) and other country-specific standard membership and whether a country w
+3 Kaminsky and Reinhart, "Financial Crisis"; and Dornbus gion." See, for example, Goldstein, "Asian Financial Crisis"; and Eichengreen, Toward a New International Financial Architecture. For the effects of crises, see Bordo, Eichengreen, Klingebiel, and Martinez-Peria, "Is the Crisis?"; and International Monetary Fund, World Economic Outlook. For related discussion on this point, see Mauro, Sussman, and Yafeh, "Emerging Market Spreads," which examines monthly sovereign yield spreads over the entire gold standard period for 1 6 emerging market countries; and Bordo and Eichengreen, "Is the Crisis Problem?" which provides a chronology of banking and currency crises between 1870 and 1973. 6 For examples, see della Paolera and Taylor, Straining', Eichengreen, "Baring Crisis"; Ford, "Argentina" and Gold Standard', and Williams, Argentine International Trade.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+464 Mitchener and Weidenmier
+This finding is consistent with the literature on moder tagion that emphasizes their regional nature.7 We also dence that the crisis may have spread through trade. F why European investors may have sold off or reduced Latin American securities in the wake of the Baring Cr
+THE BARING CRISIS OF 1890
+To understand the events leading up to the Baring Crisis, we beg our account in the early 1880s - after Argentina and Latin America finally shaken off the long-lasting effects of the world debt crisi 1873. With the election of Julio Roca as president, Argentina witne a resurgence of foreign trade and capital flows from Europe. The fu were used to construct railroads and public works and modernize B nos Aires.8 Roca's first major loan was a railway issue that complet two major trunk lines. The construction of a transportation netwo throughout the country further consolidated the central governm power and stimulated economic activity by opening up the market commercial agriculture. Roca also transformed Buenos Aires into th "Paris of South America" by constructing broad avenues, spac parks, a well-functioning water supply and drainage system, and a m ern port. Between 1880 and 1886 the national authorities and the g ernment of the province of Buenos Aires carried out a series of precedented state-run development projects in Latin America.9 As a result of the open capital markets that prevailed in the ninete century, Argentina was able to borrow extensively abroad. It was t fifth largest sovereign borrower in the world. It absorbed roughly percent of all new issues in the new London market between 1884 1890 and 40 to 50 percent of all lending that occurred outside United Kingdom in 1889. (In contrast, North America had a populat 20 times Argentina's and floated only 30 percent of the new issues London.)10 Alan Taylor suggests that "the 1880s stand out as a period totally unprecedented capital inflows into an emerging market at a time in history." The current account deficit, as a percent of GDP, a aged 20 percent from 1884 to 1889.11 Although the economic policies of the 1880s stimulated shorteconomic activity in Argentina, they posed potentially serious long
+7 Glick and Rose, "Contagion"; and Calvo and Reinhart, "Capital Flows." Marichal, Century. 9 Ibid.
+della Paolera and Taylor, Straining, p. 53; and Eichengreen, "Baring Crisis." Taylor, New Economic History, p. 1 77.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 465
+financing challenges. The financing of railroa projects was aimed at promoting internal de economic growth. But the slow maturation of could impede the country's ability to service it ity mismatch problem. The expanding nationa viced if the country had sufficient tax revenue tunately, it would take years before the go significant revenues from commercial activity structure investments.12 In addition, Argentin or gold on European capital markets while the paper standard (following several failed attem 1880s to adopt a gold or bimetallic standard). problem meant that a depreciation of the pap country's ability to service its gold debts.13 When President Roca's brother-in-law, Mi him as president of Argentina in 1886 in a newly elected leader sold the Central Norte an of the country's most important railways) to B intention of reducing the country's rising deb government stopped borrowing funds to fina it did not restore fiscal discipline; instead, it debt through state banks. From 1886 to 1890 of "banking reforms" that fueled the expan money issues.14 National and Provincial Banki Free Banking Law in 1887 that authorized an issue notes provided it purchased gold bonds t notes issued. As noted by Gerardo della Pao were several problems with the law even thou the lines of what was used in the United States under the National
+Banking Acts.15 The bank notes were not redeemable in gold, and because the gold bonds were new issues, they constituted a new liability on the government's balance sheet. The banks that participated in the note issuance scheme floated loans in Europe to finance the purchase of the domestic gold bonds that backed note issuance. This scheme worked as long as foreign investors agreed to purchase the Argentine bonds and as long as additional note issuances were backed 100 percent by specie. Foreign investors, however, essentially were backing a credit boom in Argentina, financed by the issuance of new paper cur
+12 Ford, "Argentina." 13 della Paolera and Taylor, Straining. Williams, Argentine International Trade. 15 della Paolera and Taylor, Straining.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+466 Mitchener and Weidenmier
+rency.16 By 1890 Argentine provincial banks had issu million pounds of debt on foreign capital markets. Beginning in the mid- 1880s, loose monetary and substantially worsened macroeconomic conditions in monetary base grew at an annual average rate of 18 by the issuance of paper currency emissions), infla percent, and the paper peso depreciated at an averag cent between 1884 and 1890.17 Argentina was also run tial budget deficit. The Argentine economy worse end of the decade, with as much as 40 percent of fo going towards debt service and 60 percent of impor the purchase of consumption goods. Railway net prof ing and gold pesos were trading at a large premium (9 tive to paper pesos.18 The former finance minister gested that, "until the end of 1887, it was possible to in 1888, it already was no longer possible."19 By the end of the decade, it was becoming clear t community that paper pesos were inadequate to co service on the internal and external debt. In 1889 broke its promise and paid off some of its gold-den ties with paper currency. In response, primary issu market were met with a tepid response, and investo pesos in anticipation of a farther decline in its value. used the gold that backed the note issues to defend th but by December 1889, the stock of gold at the Ban dwindled such that it could no longer carry out thi the currency market. Strikes, demonstrations, and military leaders erupted in 1889-1890 as the real wa workers declined with the rising price level. Domestic further reduced the willingness of foreign investors t securities. The questionable fiscal and monetary pol banking system of specie, provoked multiple bank runs beginning in 1890, and thus ushered in a finan ries of last-minute tax and fiscal reforms in the summer of 1890
+slowed down the economic decline, but did not prevent the ensuing financial crisis.
+16 For a detailed discussion, see ibid. 17 Ibid., p. 80. 18 Fishlow, "Conditionality," p. 88. Quoted in Fishlow, "Conditionality," p. 88.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 467
+Even though the Baring Crisis had its origin fects were quickly felt in other parts of the w Baring Brothers, the firm that underwrote m debt issues, could not escape the country's pro bank was saddled with the Buenos Aires Wa Loan, a new debt issue that if could not sell o
+On the verge of bankruptcy and unable to mee House of Baring notified the Bank of Engla lems in early November 1890. The central ban the Bank of France, Russia's central bank, and tions to form a rescue fund to save Baring, w to bring down British financial markets. T ceeded and prevented a general financial co kets, although actions by the Bank of Englan ridden Argentina. Argentina defaulted on nearly £48 million ended up constituting nearly 60 percent of th the 1890s. After the Argentine government a failed to come to an agreement, Nathan Rothsc
+of leading financiers to restructure the count committee demanded that the Banco Nacional transfer funds to service
+the country's short-term debt obligations.22 In exchange, the committee agreed to underwrite a bond issue that could meet Argentina's remaining debt service for a period of three years. Argentina subsequently experienced a severe banking crisis (in January 1891) brought on, in part, because Banco Nacional' s financial position was weakened when it transferred assets to British creditors. As the financial crisis worsened, the Bank of London and River Plate was the only bank that did not close its doors. Meanwhile, Argentina suffered a deep recession, with its real GDP falling by 1 1 percent between 1890 and 1891. The country did not fully recover from the crisis until the turn of the century, after more than a decade of monetary and fiscal reforms. There is some evidence that the Argentine crisis may have spilled over to other countries in the region. Gail Triner and Kirsten Wandschneider suggest that the Baring Crisis had significant effects on Bra
+20 Following Eichengreen, "Baring Crisis"; and della Paolera and Taylor, Straining, we use the phrase "the Baring Crisis" to refer to both the distress in Argentina and the problems of the House of Baring in London; however, some scholars more narrowly refer to the Baring Crisis as applying only to the events in England and refer separately to the Argentine Crisis (Bordo and Murshid, "Are Financial Crises?"). We view the two events as being linked. Eichengreen, "Baring Crisis." Eichengreen, "Baring Crisis."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+468 Mitchener and Weidenmier
+zil. Michael Bordo and Antu Murshid examine crosstions in weekly sovereign bond prices for seven count 1890 and find some evidence of regional contagion however, are not very clear as to whether the decline i prices was global in nature or confined to Latin Amer Albert Fishlow noted that, "Not only did Argentine is move to substantial discounts on the London market, of other peripheral countries. Many were forced to re service in the years that followed."25 He also suggests t ing market borrowers may have experienced a slower r crisis in comparison to Argentina. Christian Suter sugg gentine default may have been part of a broader episo the 1 890s.26 Charles Kindelberger argues that the cris Latin American debtors and emerging market borrow pean periphery, and Ian McLean suggests that the cr tional and spread from Argentina to Australia.27 Given search has not systematically analyzed the effects of on other emerging-market economies, this article focu ing whether the Baring Crisis was a regional or global crisis.
+MOVEMENTS IN EMERGING MARKET YIELD SPREADS
+Time Series Evidence
+To gain some insight into the Baring Crisis, we collected weekly prices on long-term government bonds from the Economist with maturities greater than ten years.28 The database contains over 15,000 weekly observations of bond price data from the London Stock Exchange for 41 countries and British colonies, for the period 1 887-1 895.29 Unlike Niall Ferguson and Moritz Schularick's database of annual sovereign yield spreads, our sample of emerging market borrowers employs the same long-term bonds for the entire sample period.30 In contrast, the Ferguson and Schiilarick sample of interest rates splices two different bond series
+23 Triner and Wandshneider, "International Capital." 24 Bordo and Murshid, "Are Financial Crises?" 25 Fishlow, "Conditionality," p. 88. 26 Suter, Debt Cycles. 27 Kindelberger, "International Propagation"; and McLean, "Recovery." Par value for all bonds in our sample was 100 pounds sterling. Maturity length depended on availability. 29 For a discussion of the terms of each bond employed in the analysis, see Appendix 1. Ferguson and Schularick, "Empire Effect."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 469
+Table 1 CENTRAL AND SOUTH AMERICAN EVENTS REPORTED IN THE
+26 March 1 890 Argent by immediately ad specify.
+2 April 1 890 Registration of the Peruvian Corporation, formed to carry out conversion of debt.
+16 April 1890 Resignation of Argentine Ministry, and announcement of project purchase of Western Railway of Buenos Aires by an Anglo-French syndicate. 14 May 1890 Expected withdrawal of gold for the Argentine Republic. Mexican Senate passes a bill for the funding of the railroad debt. 28 May 1890 Uruguayan Finance Committee recommends the government to issue a new loan in connection with the budget deficit. 1 1 June 1890 Resignation of the Argentine Finance Minister, Signor Uriburu. 2 July 1890 Negotiations for loan of 5,000,000 pounds to Argentina, which ultimately prove abortive. Argentine National Bank suspends interim dividend. 9 July 1 890 Financial crisis in Uruguay.
+23 July 1890 Revolt in Buenos Aires, with three or four days' fighting. Fighting in Central America and San Salvador.
+30 July 1 890 The Argentine insurrection results in a nominal victory for the govern
+ment.
+6 August 1 890 President Celman of the Argentine Republic, yielding at last to public feeling, resigns, and the Ministry is changed. 13 August 1890 Directors of Argentine National Bank resign 27 August 1890 Brazilian decree issued practically establishing a system of Cedula issues. 3 September 1 890 Proposal in Argentine Congress to suspend payments on Cedulas for two years rejected. Mexican loan, 8,000,000 pounds, for redemption of railway subsidies. 10 September 1890 New Argentine Railway concessions annulled-Finance Minister's message refers to entanglement of Government in monetary affairs-and to insolvency in Buenos Aires.
+1 7 September 1 890 Dr. Plaza appointed in Argentina to visit Europe on a financial mission, principally to arrange a 4,000,000 pound loan.
+24 September 1 890 Argentine Federal government proposes to assume provincial liabilities. 29 October 1 890 Issue of Brazilian Decree rendering import duties payable in gold. 19 November 1890 Fall of Barings announced simultaneously with "Guarantee" scheme of assistance. Committee formed to inquire and suggest as to Argentine affairs.
+26 November 1 890 Chilean government refuses proposed terms of settlement of Dreyfus claim.
+3 December 1 890 Argentine Committee reports its conclusions.
+1 0 December 1 890 German delegate to Argentine Conference issues his report.
+17 December 1890 A scheme is propounded for the conversion of the Argentine Cedula is
+sues.
+30 December 1890 Dr. Plaza intimates the willingness of the [Argentine] gov cept the proposals of the Rothschild Committee subject to min fications. Cordova and Entre Rios announce that interest paym their coupons are "postponed pending negotiations."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+470 Mitchener and Weidenmier
+for many countries in 1889 and 1890, making it diffic effects of the Baring crisis on sovereign risk.31 To measure the economic effects of the Baring Crisi focuses on the sovereign debt market. It does so fo First, looking at the impact of the crisis on GDP is im GDP estimates and other macroeconomic data (such spending) are only available for high-income countries emerging markets for the gold standard period, inclu ica. Moreover, many scholars have questioned the qualit century GDP estimates, especially for the emerging ma cause the figures are often constructed by back-casting between decadal benchmarks.32 In contrast, the sover was very liquid during the gold standard period and da the weekly frequency for most emerging market coun frequency data can be used to identify the effects of i and policies on sovereign debt markets and to measur pact of the crisis on country risk during this turbulen wide coverage, high frequency, and high quality, data eign debt market likely provides us with the best way into the regional and global effects of the Baring Crisis We constructed a yield spread - or a country risk pre country or colony, which is defined as the current yi bond for country or colony i minus the yield on the " consol at time tP To quantify the regional effects of t 1-5 show yield spreads for the 12 Latin American coun ple. Each figure contains a vertical line, denoting the crisis in Argentina. We dated the onset of the crisis t 1 890 based on our reading of the secondary literature a Monthly Manual (IMM) - a widely read British fina that provides a weekly summary of important events a don money market. Although one might choose a slight to mark the genesis of the crisis, as shown in Table 1, a cluster of economic and political events that occurred
+31 In terms of coverage, our sample and the Ferguson and Schularick d sistent with the exception of China and several smaller British coloni Kong, Mauritius, and Straits Settlement) whose bonds infrequently traded (see the Economist). China did not have a single bond series that traded for the entire period from 1886 through 1896. We also did not include B two countries that only had a couple of years of bond data towards the en See Maddison, World Economy, for a discussion. France, Netherlands, and the United States issued debt in their domes this period. All three countries were on the gold standard from 1 880 unti War I. We calculated the country risk premium for these three countries rent yield of the domestic currency bond minus the current yield on the Br
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 47 1
+Figure 1
+Yield Spreads for Argentina, Brazil, and Chile, 1886-1896 (weekly intervals, basis points)
+Source: Authors' calculations based on data from the Economist.
+August 1 890 - evidence that British investors were becoming particularly concerned with the situation in Argentina at this time. The Banco National, a major Argentine national bank, informed Baring Brothers in July that it would suspend service on its foreign debt obligations, a sign that a deeper banking and debt crisis was emerging. Finance Minister Francisco Uriburu needed to pass a broad-based fiscal reform package so that the note issues used to prop up the banking system were not seen as the sole means for dealing with the economic crisis. His reform package failed, and he resigned in early July. The government tried to lend to note-issuing banks to prevent a liquidity crisis, but without the reform package, bank runs began. A few weeks later, a group of military officers unsuccessfully tried to overthrow the Argentine government. President Miguel Juarez Celman then resigned on 6 August 1890, in response to public discontent over his decision to pursue policies of open inflation and acceptance of ex
+ternal default rather than liquidation of the "official" banks.34
+34 The Foreign Securities Section of the Economist also began devoting more attention to Argentina's economic problems during this period. The Stateman's Yearbook (1892, p. 331) noted that, "The events of July 1890, which caused the resignation of President Juarez Celman and a severe crisis, greatly disturbed the resources at the disposal of the Government during the last year."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+472 Mitchener and Weidenmier
+oo
+00 00
+<
+Q
+O PC
+Q
+Z^ <c
+s "o
+< Ou
+O '^
+<N < 5
+* < ^2 °~t
+spi i
+81
+QE <2
+D^ ^ CU «
+3I
+> aX)
+175 c o
+D
+03
+O x:
+<
+CO
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 473
+The events highlighted by the financial pres to the London bond market that Argentina had nancial crisis in July and August 1 890, and th reassessing Argentina's credit risk. Figure 1 premium for Argentina. Yield spreads for Arg clined from 1887 until 1889 before dramatical summer of 1890 until early 1892. They reac 1892 and were still at 800 basis points in 1896. It also appears that the financial press was rec other Latin American emerging market borro the country risk premia for Brazil and Chile. T for Brazil rose from 200 basis points in the lat reached its peak at more than 550 basis poin part might partially reflect news about domes the country. The Brazilian yield spread then d rose in 1 894, and then fell for the remainder for Chile, its risk premium was quite stable u Baring Crisis. The yield spread for Chile incre ing the outbreak of a brief civil war, befor points in 1892. The country risk premium ros then declined to about 210 basis points. Figures 2-5 shows yield spreads for other La in our sample.35 As Figure 2 indicates, countr Honduras rose sharply after the onset of the ragua' s increased gradually. Figure 3 indicat Costa Rica increased after the onset of the cr more than 1,500 basis points when it defaulted 1895. The country risk premium for Guatema 400 basis points until the summer of 1890 w creased to more than 1,000 basis points (Figur of decline, interest-rate differentials for Guat more than 1,000 basis points after the country debt obligations. The spread then fell to a lev 1896 after the country agreed to a debt worko ure 4 shows that the yield spread on Mexican b 360 to 500 basis points between July 1890 a yield spread for Paraguay declined in the earl
+35 We also have some limited data on sovereign bond pric Peru. Although the Economist stopped reporting weekly bond 1891-1892, sovereign debt prices display time series behavior American countries up to this point in time. Bond prices decli cent for these countries.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+474 Mitchener and Weidenmier
+Figure 3 YIELD SPREADS FOR COSTA RICA AND GUATEMALA, 1886-1896 (weekly intervals, basis points)
+Source: Authors' calculations based on data from the Economist.
+then increased from 100 basis points to more than 1,000 basis points following a debt default that lasted until 1897. Country risk for Uruguay followed a U-shaped pattern prior to the onset of the Baring Crisis, and then climbed from around 100 basis points to over 600 basis points by 1892 (Figure 5). The rise in the country risk premium may reflect, in part, news of a banking and commercial crisis in Montevideo that helped lead to a severe recession. Uruguayan debt prices are then not quoted on the London market after the country briefly defaulted on its debt obligations. Figure 5 also shows that yield spreads in Venezuela rose to over 900 basis points in 1892 before declining to a level of 500 basis points by the end of the sample. Consistent with the graphical evidence, the weekly record of the sovereign bond market from the financial press suggests that, in addition to any country-specific events that moved sovereign spreads, the Baring Crisis may have been a common factor driving Latin American securities in the early 1890s.36 Indeed, the newspaper clippings of the Corporation of Foreign Bondholders (a British entity representing the interests of sovereign debt holders) indicate that the Argentine crisis may have had real economic effects on other Latin American countries. For example,
+36 Suter, Debt Cycles, p. 81 states: "Thus, the crisis was triggered by the state insolvency of Argentina, the Latin American debtor country most strongly incorporated into the Atlantic economy."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 475
+Figure 4 YIELD SPREADS FOR MEXICO AND PARAGUAY, 1886-1896 (weekly intervals, basis points)
+Source: Authors' calculations based on data from the Economist.
+the Star and Herald (Panama City) commented on how the banking and merchant relationships between Argentina and Paraguay transmitted the financial crisis to the landlocked South American country,37 and The Bullionist (London) wrote:
+Paraguay, like Argentina, Uruguay, and Brazil, is undergoing a financial crisis, and this crisis was recently described by the Finance Minister to Congress in the form of a report . . . They were traceable, without a doubt, to the condition in the Argentine. There has been a general falling-off in trade, which has given rise to a feeling of uneasiness and want of confidence, and since the beginning of 1 890 things have been getting worse.38
+The Buenos Aires Standard discussed the economic effects of the Ar
+gentine crisis on Uruguay, a country with close financial and merchant ties to the South American country:
+It must be borne in mind that such is the intimate connection between both coun
+tries that as long as Argentines suffer from crises, Orientales [The Oriental Republic of Uruguay] cannot expect to flourish.39
+37 "The Argentine crisis has affected the banks and mercantile houses of Paraguay, and under the influence of the withdrawals of minted money by the Argentines, paper money has suffered a certain depreciation." Star and Herald, 14 May 1891. 38 The Bullionist, 23 April 1892. 39 Buenos Aires Standard, 2 1 April 1 890.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+476 Mitchener and Weidenmier
+Figure 5 YIELD SPREADS FOR URUGUAY AND VENEZUELA, 1886-1896 (weekly intervals, basis points)
+Source: Authors' calculations based on data from the Economist.
+In January 1891 the South American Journal (London) called the "the violent economic crisis, which overtook the country last July ... a logical repercussion of the Argentine crisis and the English crisis."40 The events in Barings seem to have also affected Central American borrowers. The South American Journal wrote the following about Costa Rica in 1891:
+The fall in Costa Rica "A" and "B" bonds was not in any way due to the internal affairs of the country, but due to the disturbances in July last between Guatemala and Salvador, followed by the troubles in the Argentine Republic, producing a depression of all stocks.41
+It appears that financial markets may have also been reassessing the debt of the region en masse. The reassessment may be due to a "wakeup" call (where other countries in the region were seen as having economic characteristics similar to Argentina) or a common creditor channel (where one particularly influential lender, such as England, shifts its portfolio out of the region), two explanations given for contagion during the Asian financial crisis.42 The Economist, for example, frequently commented on the effects of events in Argentina on the sovereign debt prices of other countries in Latin America. The Economist referred to Central and South American securities in the early 1 890s as a group dis
+40 South American Journal 24 January 1 89 1 . 41 South American Journal, 18 July 1891. See Radelet and Sachs, "East Asian Financial Crisis"; and Eschweiler, "Emerging Asia," for evidence of a wake up call in the 1997 East Asian Crisis.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis All
+tinct from other countries and regions of t time noting the importance of country-spec Consider the following report from the 5 Section of the Economist:
+The feature in South American descriptions has been the heavy fall in Argentine Cedulas, which close about 3 percent lower all round, although the final prices are somewhat above the usual. The fall has been due to the great rise in the gold premium at Buenos Ayres-which has resulted from the passing by the National Bank of its demand. This action of the Bank has raised anew great doubts as to its stability and its ability to get through the present difficulties without shipwreck. All other issues such as Uruguay, Brazilian, & c, have given way sympathetically.
+For the Economist then, the prices of other Latin American bonds were moving in unison with Argentina's. The Times of London also frequently noted that Latin American securities fell together, even though debt prices for other emerging markets were generally flat:
+Business has been quiet in the Foreign Market, but the tone was fairly steady, and except in the case of South American issues, which were again weak on very discouraging news from Buenos Ayres, there are not many changes to report.43
+The financial press also reported that investors had difficulty in pricing Latin American bonds. This lends credence to the notion that asymmetric information may have played a role in the sell off of Latin American securities. On the eve of the financial crisis, 5 June 1890, the Financial News remarked on the lack of information about Latin
+American securities available to bond market investors.
+The market for South American securities is much more extensive than is generally supposed, and in it you get a large variety ... Of course, most people know something - usually rather too much - about Argentina, Brazilians and Uruguays; but when they get to such securities as Paraguayan and Colombian bonds, or to the issues of such States as Nicaragua and Salvador, they feel, to say the least of it, that, unlike the dyer, their hand is not accustomed to that which it works . . . The whole market, as we have shown, abounds in anomalies.44
+The Economist described a similar problem in assessing the value of Latin American securities:
+43 The Times, 24 August 1890. 44 Financial News, 5 June 1890.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+478 Mitchener and Weidenmier
+Amidst the mass of literature which has seen the light during t concerning the River Plate, Brazilian, Chilian, Peruvian, and oth can Republics and their finances, comparatively little has been show the British investor what the liabilities of those States rea And beyond this, almost the whole of them are weighted down and greatly depreciated currencies, in which their revenue and culated and in which their internal liabilities are expressed; and abilities, direct, contingent, and provincial, are so numerous a measure that in such a state as the Argentine Republic it appear to make order of to them.45
+According to the financial press, it was perhaps easier be indiscriminate rather than try to accurately deter tries would weather the storm. (A similar assessme curred during the early stages of the East Asian crisi York Times wrote three years after the start of the Barin
+It must be borne in mind that Brazil has always punctually met and therefore its credit ought to be reasonably good. Moreover, nas Railway is a fairly good property, and the proposed extensio region of the country rich in minerals and of wonderful agricu . . . But the public does not discriminate - or rather, in times lik fuses to be attracted by probabilities. South Americans are in ge and it must be admittedly, deservedly.47
+The Financial News made similar remarks:
+Then the distrust produced by the financial catastrophe in the Argentines and Uruguay has naturally reacted on Brazil, and led most people of ordinary caution to withdraw their money from the country, as being tarred with the same brush as other South American republics. Under such conditions, nothing but the most conservative financial policy could prevent Brazil from suffering severely
+from the withdrawals of gold and restriction on foreign business which were inevitable.48
+The qualitative accounts found in period newspapers and financial publications and the individual country plots indicate that the Baring Crisis likely affected borrowers throughout Latin America. We now broaden our analysis to consider whether the crisis affected all emerging market borrowers and not just those located in the region.
+45 Economist, 17 October 1891. For example, Radelet and Sachs, "East Asian Financial Crisis," describe the early stages of the 1997 East Asian financial crisis as one in which "creditors made little effort to distinguish between these Southeast Asian economies."
+"England's Financial Woes: The Ever- Widening Effects of the Baring Failure," New York Times, 8 May 1893, p. 12. 48 Financial News. 6 November 1 891 .
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 479
+To determine if the Baring Crisis had differe based on their location or level of developmen sample of countries and colonies into three countries, non-Latin Emerging markets, an European countries and the United States. O dex for Latin America consists of 11 count Chile, Colombia, Costa Rica, Guatemala, Me guay, Uruguay, and Venezuela.49 We constr index of non-Latin American emerging mar Austria, British Guiana, Canada, the Cape Greece, India, Italy, Jamaica, Japan, Natal, Zealand, Norway, Queensland, Russia, Sou Tasmania, the Ottoman Empire (Turkey), Vic tralia.50 The core country index consists of pean countries (Belgium, France, Germany United States.
+Figure 6 graphs the average interest rate for Latin and non-Latin emerging markets as well as the core countries in our sample. As shown in the figure, interest rates are generally quite flat over the sample period for the non-Latin Emerging markets and the core countries. The small increase in interest rates for the non-Latin Emerging Market Index can be completely attributed to Greece and its debt default in 1893. Bond yields are flat for the non-Latin emerging markets over the sample period if Greece is excluded. Interest rates for Latin American emerging markets, however, display a very different pattern, rising from about 600 basis points in 1890 to more than 1,200 basis points by the end of 1895. One reason that rates continued to rise in other Latin American countries several
+years after the onset of the crisis may have been related to the ongoing failure of Argentina to fully renegotiate its debt and establish a stable monetary environment. (No agreement for defaulted provincial debt and railway guarantees was concluded until after 1897.) Alternatively,
+49 Although Portugal and Spain are not in the Latin American sample, we also test throughout the article whether our results are sensitive to the inclusion of these two countries in the Latin
+American sample, given that the two European countries had significant trade linkages with their former Central and South American colonies. One argument for including Portugal and Spain as part of the Latin American sample is that remittances may have been important for these two countries during our sample period. As shown by Esteves, "Pulsacoes Financeiras," remittances from Brazil were especially important for Portugal. The large drop in remittances during the early 1 890s help explain why Portugal left the gold standard. We excluded Honduras from Figure 6, given that its bonds were in deep default. The coupon rate for Honduras was 2.5 times greater than the price of the bond for much of our sample period. British Guiana is included in the non-Latin emerging market sample because it is a member of the British Empire whose bonds were guaranteed by Her Majesty's Government.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+480 Mitchener and Weidenmier
+Figure 6 BOND YIELD INDICES, 1887-1895 (weekly intervals, basis points)
+Notes: LAIDX is an unweighted yield index of 1 1 Latin American countries. EMGIDX is an unweighted yield index of 22 emerging market countries outside of Latin America. COREIDX is an unweighted yield index of four European high-income countries and the United States.
+European investors may have been unable to assess the severity of the crisis due to lack of information. Because Argentina may have been seen as a bellwether economy that was used by investors to gauge the fiscal and monetary health of other borrowers in the region, the delay over a full debt settlement may have raised concerns among foreign investors that other less-developed countries in the region would face even greater challenges in restoring fiscal and monetary order to their economies after the crisis. The financial press did continue to report, some three years after the onset of the crisis, how economic and political events in Argentina had a significant effect on bond prices throughout the region.
+Summary Statistics of Changes in Yield Spreads
+The time series graphs of yield spreads and the interest-rate indexes intimate that the Baring Crisis had a larger effect on Latin America than on other emerging markets and core countries. To complement these figures, Tables 2-4 present summary statistics of changes in yield spreads between 1890 and 1894 for Latin American borrowers, nonLatin American emerging market countries, and the core countries in our sample. We examine the performance of emerging-market, interestrate differentials by analyzing the one-year, two-year, and four-year
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 481
+Table 2 AVERAGE CHANGES IN LATIN AMERICAN YIELD SPREADS, 1890-1894 fbasisooints)
+July 1890- July 1890- July 1890Country June 1891 June 1892 June 1894
+Argentina 675.26 682.53 689.44 Brazil 44.58 227.05 130.06 Chile 90.06 44.30 73.44 Colombia 1,263.79 875.23 1871.72 Costa Rica 139.54 190.10 332.30 Guatemala 291.69 168.52 972.53
+Honduras 7,136.30 5,357.85 11,912.38 Mexico 44.77 75.83 389.39
+Nicaraguat 33.84 96.67 159.14 Paraguay 113.35 401.87 908.78 Portugal 162.98 723.04 836.51 Spain -0.22 61.50 83.19 Uruguay 202.48 NA NA Venezuela 94.07 224.15 252.39 Group average 844.14 758.55 1,608.33 (without Spain and Portugal) Group average 735.18 702.20 1,431.64 (with Spain and Portugal) Group average 739.79 703.84 1,493.49 (without Argentina)
+f Nicaragua unilaterally reduced its interest rates on th beginning in December 1 894. Note: The yield spread, or country risk premium, for on a sterling bond for country / minus the yield on th
+horizons after the onset of the Baring 1890-June 1892, and July 1890-June 18 Table 2 shows that yield spreads for m climbed dramatically during the early 1 for Argentina, Colombia, and Hondur points in the first year of the crisis. T temala, Paraguay, and Uruguay went u in the one-year window. The spread f Mexico, and Nicaragua increased appr year following the outbreak of the fina Latin American yield spreads rose an a first year after the onset of the crisis
+51 Consistent with the graphical analysis of yield s ing date of the Baring crisis. Changing the crisis date 1890, such as the Bank of England's announcement t does not change the basic tenor of the results that a Our reading of the financial press suggests that th see the Financial News, 27 July 1895, p. 1.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+482 Mitchener and Weidenmier
+Table 3 AVERAGE CHANGES IN EMERGING MARKET YIELD SPREADS, 1890-1894 (basis points)
+July 1 890- July 1 890- July 1 890Country June 1891 June 1892 June 1894
+Austria -11.14 -3.87 -10.12 British Guiana 7.68 22.50 37.25 Canada 0.84 0.71 0.50
+Cape of Good Hope (South Africa) -2.60 4.67 3.74 Egypt -9.82 -6.83 -19.07 Greece 32.22 92.29 1,071.07 India 3.94 3.07 4.53
+Italy -7.29 3.64 105.77 Jamaica -10.52 -7.13 -7.76
+Japan -12.62 0.71 7.62 Natal 11.88 23.04 22.23 New South Wales -6.56 0.71 3.89 New Zealand -4.70 2.57 -8.33
+Norway 5.94 9.99 10.65 Queensland -2.75 8.40 11.43 Russia -2.88 11.96 -16.50 South Australia -2.83 4.44 15.16 Sweden -2.75 -3.02 11.43 Tasmania -2.68 0.71 7.62
+Ottoman Empire (Turkey ) 3.05 5.47 2.95 Victoria 3.89 7.86 7.86 Western Australia -10.37 -6.83 -10.70
+Group average -0.91 7.96 56.87 Group average (without Greece) -2.49 3.94 8.50
+Note: The yield spread, or country risk premium, for each country current yield on a sterling bond for country or colony / minus the y consol at time t.
+for Latin America remain large, even when Argen the sample (or when we include Spain and Portug Table 2 shows that average yield spread for the ple increased 759 and 1,608 basis points in the tw ods after the onset of the financial crisis. The larg of Latin American securities for the two- and fo are robust to including Spain and Portugal as part sample or dropping Argentina from the analysis. A very different picture emerges if we examin cross-sectional behavior of non-Latin American em rowers. As column (1) of Table 3 shows, the ave non-Latin American emerging markets decrease point in the first year after the onset of the crisis. W
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 483
+Table 4 AVERAGE CHANGES IN CORE MARKET YIELD SPREADS, 1890-1894 (basis ooints)
+July 1 890- July 1 890- July 1 892Country June 1891 June 1892 June 1894
+Belgium -19.86 -9.37 -2.46 France -20.74 -28.05 -22.68
+Germany -10.29 -6.69 3.89 Netherlands 1.25 12.58 -20.12 United States 4.37 17.39 33.29 Group average -9.06 -2.83 -1.62
+Note: The yield spread, or country risk prem on a sterling bond for country / minus the yi
+Greece, yield spreads did not ris the non-Latin Emerging market statistics for yield spread change markets between July 1890 and J the findings in column (1) with y sis points over this period. The i tirely driven by Greece, whose in 92 basis points in the two-year w sample, then yield spreads increa In the four-year window (col nearly 57 basis points for our sa markets. The result is driven aga debts in 1893. Yield spreads only Greece is excluded from the sam cluded in the sample, the averag tries increased more than 1,600 compared to an 57 basis point inc Emerging market sample.52 Table 4 reports summary statist sample. Yield spreads were gener one-year window. The country r points for all of the core countries declined by approximately nine b and (3), the summary statistics f moved less than four basis points
+52 Given that many Latin American countr period, we also calculated summary statist The basic tenor of the results remains unch available from the authors upon request.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+484 Mitchener and Weidenmier
+our sample. Overall, yield spreads were generally very countries during the early 1890s.
+WHAT FACTORS ACCOUNT FOR THE MOVEMENT IN BOND YIELDS DURING THE CRISIS?
+Panel Model and Data
+To analyze why yield spreads moved during the crisis, we construct a panel data set consisting of annual data for our sample of 35 emerging market borrowers, which includes macroeconomic indicators, trade variables, institutional arrangements and political factors, and countryspecific controls.53 In an ideal world, we would include modern macroeconomic variables such as gross domestic product to measure the economic effects of the crisis; however, because data of this nature are available for only three out of ten Latin American countries in our annual panel sample (Brazil, Chile, and Uruguay), we instead employ a variety of indicators that were readily available and widely used by emerging market investors in the late nineteenth century to assess country-specific financial risk.54 This empirical strategy enables us to construct a data set with the largest possible number of potential determinants of yield spreads and is a similar approach to what Ferguson and Schularick and Marc Flandreau and Frederic Zumer employ in other studies on the classical gold standard era.55 To capture how investors viewed the macroeconomic conditions of emerging market borrowers, we employ seven measures: a variable that measures interest-rate movements in emerging markets; the budget deficit (expenditures-revenues) as a share of revenue; the ratio of total public debt (internal and external) as a share of government revenue; a dummy variable indicating whether the country is in default and has stopped servicing its foreign debt; the natural logarithm of the British wholesale price index; the trade balance (exports minus imports) scaled by exports; and the sterling value of exports per capita. To capture general fluctuations in interest rates, we include an emerging market con
+53 One reason we shift our analysis from weekly to annual frequency is so that we can control for macroeconomic factors that influence yield spreads. For earlier papers exploring yield spreads during the gold standard era, see Bordo and Rockoff, "Gold Standard"; and Obstfeld and Taylor, "Global Capital Markets." 54 The most recent historical GDP estimates are available from Angus Maddison's website at www.ggdc.net/maddison/. Prados de la Escosura, "International Comparisons," provides an alternative dataset of historical GDP estimates for the gold standard period, 1870-1913. Although his sample covers 23 countries, it only includes one Latin American country (Argentina) and gives GDP estimates for five benchmark years: 1870, 1880, 1890, 1900, and 1913. Ferguson and Schularick, "Empire Effect"; and Flandreau and Zumer, Making.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 485
+trol that is the unweighted average interest ra can emerging market borrowers minus the in British consol. As for the other macroecono with sound fiscal policy (as reflected by a should have lower sovereign risk and a lower p would have a better capacity to service its deb nue or a greater ability to respond to other e erwise might make debt repayment more dif lower debt-to-revenue ratio should have a gre debts, suggesting, ceteris paribus, less soverei ability of default. A sovereign debt default is a market that the country has serious financial credit risk. The price-level variable is included general deflation, which may have increased sovereign borrowers. Trade statistics were also important for asses circumstances of emerging market borrowers gross domestic product (GDP) had not been on trade were a major source of revenue, and means for generating foreign currency to ser sterling or gold. Annual import and export fi ported in investment manuals such as the S Fenn on the Funds. First, countries with a cur generally regarded as having a greater ability debts by emerging market investors. Seco century investors did not have GDP per capita cate the degree of institutional and economic try), they used exports per capita as an alterna the risk-reducing factors associated with econo Institutional and political factors may also h tors to price sovereign debt during the late nin and Schularick argue that membership in the B risk associated with holding colonial bonds bec ernment guaranteed debt repayment.57 We variable that takes a value of one if the borrower was a member of the
+British Empire. Bordo and Hugh Rockoff maintain that the gold standard was a "good housekeeping seal of approval," which lowered sovereign risk for emerging market borrowers during the gold standard period.58 The gold standard was a contingent rule that solved the classic
+56 Ferguson and Schularick, "Empire Effect." 57 Ibid.
+58 Bordo and Hugh Rockoff, "Gold Standard."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+486 Mitchener and Weidenmier
+time inconsistency problem by tying the hands of the cal authorities, but as Bordo and Murshid point out, it facilitated the transmission of shocks or contagion.59 F chengreen and Jeffrey Sachs claim that strict adhe standard might have made it more difficult to pursue neighbor policy of devaluation.60 We thus code a dum takes a value of one if a country was a member of th for the political variables, we code international and c ables to capture the effects of local and interstate conf risk.62 The inclusion of these conflict variables is moti quent discussion of the effects of coups d'etat and wa in the Foreign Government Securities Section of the Ec We use a number of variables to test for the presen effect in Latin America after the onset of the Baring code a crisis variable that takes a value of one begin til the end of the sample period (1896), when it is that Argentina had recovered from the crisis. This tially captures the overall effect of the crisis on all e borrowers. Second, we interact the crisis indicator Latin American indicator variable to test if, ceter spreads in Central and South America increased fol break of the financial crisis.
+We also included some measures to capture potential channels through which the crisis may have spread. First, we coded the emerging market borrower's trade share: exports and imports to the United Kingdom as a share of total trade. We use this measure to examine whether changes in trade affected bond spreads. Second, we interacted the U.K. trade share variable with the Latin American dummy to analyze the effect of British trade on Central and South American yield spreads. Third, given England's role in the Baring Crisis, we added an interaction term between the U.K. trade share variable and
+the crisis dummy to see if the crisis spread globally through trade ties with England. Finally, we interacted the crisis variable with an indicator variable for being on the gold standard in order to test whether countries that had fixed exchange rates experienced the Baring Crisis in a different way. The empirical model can be written as:
+59 Bordo and Murshid, "Are Financial Crises?" Eichengreen and Sachs, "Exchange Rates." Gold-standard adoption dates are from Meissner, "New World Order." 62 These are based on Ferguson and Schularick, "Empire Effect."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 487
+YLDSPREADit = # + pxEMGCONTROL frBUDGETBALANCEit + P^DEBT/REVENUEu + fcTRADEB PeEXPORTSPQt + faEMPIREt + f /39GOLD*CRISISit+ /3x<JNTERSTA PuCIVILit + finPRICELEVELt + j3 PXALATINi*CRISISit + PxsUKTRAD j3i6*UKTRADESHAREit*CRISISit faLATINfUKTRADESHAREit +3/
+where YLDSPREADit is the average current y (or gold) bond for country / at time / minus th
+ish consol and Pi is a country-specific inter ables are defined as:
+EMGCONTROLt is an unweighted index of the average current yield of 14 nonLatin emerging markets minus the current yield on "risk-free" British consols at time f;63
+DEFAULT u is a binary variable which is unity if country / is in default at time /; BUDGET BALANCE a is revenues minus expenditures for country i at time /; DEBT/REVENUE u is ratio of total public debt to government revenue for country / at time t\ TRADEBALANCEit is the current account position of country / at time /; EXPORTSPCu is the ratio of exports to population for country / at time /; EMPIRE i is a binary variable which is unity if country i is a member of the British Empire (a time-invariant covariate in our sample period); GOLD it is a binary variable which is unity if country / is on the gold standard at time t\ GOLD* CRISIS u is an interaction term that is defined as country / being on the gold standard and in the crisis period at time t\ INTERSTATE u is a binary variable which is unity if country / is involved in an interstate war at time /; CIVILit is a binary variable which is unity if country / is involved in a domestic war at time /; PRICELEVELit is the natural logarithm of the U.K. wholesale price index LATIN i is a binary value if country / is part of Latin America; CRISISu is a binary variable which is unity for country / after the onset of the Baring Crisis in 1890; LATIN u* CRISIS u is an interaction term which is unity if country i is located in Latin America and the year is 1890 or later; UKTRADESHAREU is country i's share of total trade with the United Kingdom at time /;
+63 Following Bordo and Rockoff, "Gold Standard"; Mauro, Sussman and Yafeh, "Emerging Market Spreads"; and Flandreau and Zumer, Making, we calculate the current yield on a sovereign bond by dividing the coupon by the price of the debt security.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+488 Mitchener and Weidenmier
+CRISISit*UKTRADESHAREit is an interaction term between the cr and a country's total share of trade with the United Kingdom at tim LATINit*UKTRADESHAREit is an interaction term between the La dummy and a country's total share of trade with the United Kin
+t\
+P are estimated coefficients; and s is a white noise error term capturing other influences on yield spreads.
+For the dependent variable, we constructed annual yield spreads by averaging the weekly data used in the time series analysis discussed ear
+lier. We primarily rely on data from Ferguson and Schularick for the construction of various macroeconomic and trade indicators.64 In order
+to increase the sample size, we gathered additional trade data from British Board of Trade Publications, Fenn 's Compendium, the Statesman Yearbook, and the Annual Reports of the Corporation of Foreign Bondholders. We calculated country trade shares with the United Kingdom using these same sources.
+Empirical Results of Panel Analysis
+The empirical results for our sample of 35 sovereign borrowers appear in Table 5.65 All models are estimated with country fixed effects in order to capture unobserved differences across countries, including other country-specific macroeconomic determinants that may have affected yield spreads. To control for correlation across countries in a given year, we clustered the standard errors on a group-year fixed effect.66 The group-year variable is constructed by dividing the sample into three sub-groups - Latin, non-Latin, or core countries/colonies and then multiplying the regional indicator by the year.67 We specified a dummy variable to measure the effect of the Baring Crisis on yield spreads given that there is statistical evidence of a trend break in the
+64 Ferguson and Schularick, "Empire Effect." The sample of 35 borrowers includes five high-income countries (Belgium, France, Germany, Netherlands, and the United States), 23 non-Latin emerging markets (Austria, British Guiana, Canada, Cape Colony, Egypt, Greece, India, Italy, Jamaica, Japan, Natal, New South Wales, New Zealand, Queensland, Portugal, Spain, Russia, South Australia, Sweden, Tasmania, Turkey, Victoria, and Western Australia), and seven Latin emerging markets (Brazil, Chile, Colombia, Costa Rica, Mexico, Uruguay, and Venezuela). We drop Ecuador, Guatemala, Honduras, Nicaragua, Paraguay, and Norway from our earlier, weekly sample due to insufficient data on covariates. Argentina is excluded from the panel regressions because it is the crisis country. For a discussion on techniques for dealing with correlation in cross-sectional units in fixed effects models, see Cameron et al., "Robust Inference." 67 The empirical results are also robust to estimating the model with heteroskedasticconsistent standard errors or clustering on year.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 489
+Table 5
+Fixed Effects Fixed Effects
+Emerging market interest rates 1 .808 2.494 (1.37) (1.54)
+Default 386.685** 347.820** (174.09) (167.73)
+Budget deficit ratio -29.908 -56.99 (30.37) (44.24) Debt/revenue -7.579 0.098 (13.87) (12.80) Trade balance ratio 12.416 -7.05 1 (24.05) (24.96)
+Exports per capita 3 .03 9.2 1 5 * (4.84) (5.41)
+Empire
+Gold -79.165 -48.105 (76.69) (92.30) Gold*crisis -74.987*** (28.25)
+International conflict 8.772 -16.915 (40.20) (31.52)
+Civil conflict -3.462 -45.733 (35.55) (36.59) Price level -126.495 121.171 (344.71) (365.01) Latin
+Crisis 11.101 (24.63) Latin*crisis 213.690** (107.36
+Empire *crisis -2 . 02 8 (23.54) U.K. trade share -2.639 (2.26) Crisis *U.K. trade share 1 .05 (0.79) Latin *U.K. trade share 9.893 (7.73) Observations 375 368 /^-squared 0.84 0.86
+* significant at 10 percent. ** significant at 5 percent. *** significant at 1 percent. Note: The dependent variable gold) bond for a given country standard errors are reported in p
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+490 Mitchener and Weidenmier
+Latin American bond yields in 1890. The break in yie better with the "fast and furious" view of contagion of G sky, Carmen Reinhart, and Carlos A. Vegh than the inte Kirsten Forbes and Roberto Rigobon, who suggest that sh cients are the way to test for contagion.69 Column (1) r results without the controls for the effects of the crisis. The baseline
+model captures roughly 84 percent of the variation in yield spreads. The country risk premium, ceteris paribus, is positively correlated with general movements in emerging-market interest rates, although the effect is only weakly statistically significant (at the 20 percent level). All else equal, a country in debt default has yield spreads that are more than 387 basis points higher than a sovereign borrower that is servicing its debt. An improved budget-deficit ratio reduces the country risk premium by nearly 30 basis points, but the effect is not statistically significant. The other macroeconomic and trade variables (the debt-revenue ratio, the trade-balance ratio, and exports/population) do not have statistically or economically significant effects on sovereign yield spreads. Adherence to the gold standard, the price level, and the conflict variables also do not have statistically significant effects on the country risk premium.70 The Latin and empire variables are dropped from the analysis because they are time-invariant covariates. The second column of Table 5 presents results that include the Baring Crisis indicator variable as well as the proxies used to examine the potential channels through which the crisis operated. Debt default continues to have a large economic and statistically significant, positive effect on bond spreads. Yield spreads are positively correlated with the emerging-market interest-rate variable, although the effect is not statistically significant.71 Consistent with the baseline specifications, the macroeconomic and trade variables generally do not have a statistically significant effect on country risk. The only exception is exports per capita, which is significant at the 10 percent level. Membership in the gold standard and the conflict variables do not lower sovereign risk, but countries with a larger share of trade with the United Kingdom may have lower sovereign yields, although this effect is not economically or
+68 Application of the Banerjee et al., "Recursive," unit root test indicates the presence of a trend break in Latin American bond yields in 1890. 6 Graciela Kaminsky et al., "Unholy Trinity"; and Forbes and Rigobon, International Financial Contagion. 70 It may not be that surprising that the gold standard effect by itself is statistically insignificant, because with country dummies included, all the identification is off the time dimension; there are likely too few "switchers" during the 1886-1896 period to estimate this effect precisely. 71 The emerging market control is significant at the 1 percent level if the price level variable is dropped from the analysis.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 491
+statistically significant. The price-level variab cally significant effect on country risk, implyi contribute once other factors are taken into account.
+If we turn to the variables specific to the crisis, we see that the Baring Crisis does not seem to have affected all sovereign borrowers given that the crisis indicator variable is not statistically significant at conventional levels. But its interaction with the gold standard is statistically significant, lending support to the hypothesis that the gold standard lowered sovereign risk during the crisis. Bond market investors may have viewed gold adherence as a signal that a country would pursue prudent monetary and fiscal policies during a period of financial turbulence.72 Consistent with the summary statistics and graphical evidence presented earlier, the Latin-crisis variable (the interaction between a Latin America indicator variable and the Baring Crisis indicator) has a large positive and significant effect on yield spreads. According to the point estimate, the crisis increased yield spreads in Central and South America by 214 basis points. Trade may have been a channel through which the crisis spread. The U.K. trade share variable interacted with the crisis dummy increases country risk by roughly 20 basis points (evaluating the point estimate of one at the mean U.K. trade share of 20), although the effect is not statistically significant at conventional levels (19 percent level of significance).73 The U.K. trade share variable interacted with the Latin American raises country risk by approximately 80 basis points (evaluating the point estimate often at the mean U.K. trade share in Latin America of eight), although the effect is significant at only the 20 percent level.74 To test the joint significance of the crisis variables, we took the partial derivative of yield spreads with respect to the crisis dummy variable. The three variables raise country risk by nearly 240 basis points for Latin American countries and are jointly significant at the 1 percent level.75
+72 On the other hand, the interaction may be picking up another way of measuring the net effect of the crisis in that departure from gold is often causally related to a financial crisis. 73 We also estimated a model that included an additional independent variable: the Latin American crisis dummy interacted with the U.K. trade share variable. This triple interaction variable (Latin * crisis * U.K. trade share) is statistically significant at the 5 percent level in the fixed effects model. However, the correlation between the Latin American crisis dummy and the triple interaction variable is 90 percent. Given the high correlation between the two interaction variables and the fact that the U.K. trade share variable is nearly constant over our sample period, we interpret the statistical significance of the triple interaction variable as evidence consistent with the baseline results reported in column 2 of Table 5. We obtain similar results if Portugal and Spain are included as part of the Latin American sample. The results are available from the authors upon request. 75 If we take the partial derivative of yield spreads with respect to the Latin American dummy variable, then we find that the interaction terms are jointly significant at the 10 percent level.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+492 Mitchener and Weidenmier
+Discussion
+The two variables driving the results are clearly debt default and the Latin American-crisis interaction effect. The economic interpretation of the debt default variable is relatively straightforward: countries with a history of defaults borrowed at higher rates. The Latin American-crisis interaction term is open to multiple interpretations. One is that the interaction simply captures some omitted effect common to all Central American and South American borrowers. Another interpretation is that European investors sold off Latin American bonds following revelations of Argentina's economic problems. This latter interpretation is consistent with two possible explanations of what was happening: investors experienced a wake-up call and withdrew their funds from countries similar to Argentina, or a common creditor (British investors) reallocated its portfolio away from Latin American debt. A "wake-up call" would suggest that Argentina's default signaled the potential for crises to occur in other countries; given this new information and the belief that other Latin American countries had characteris
+tics that were broadly similar to those of Argentina, emerging market investors then sold their Latin American securities.76 This interpretation is similar to what some economists suggested occurred during the East Asia crisis.77 The fact that the bond spreads did not rise for the Latin American countries in the months preceding the crisis is consistent with a wake-up call interpretation of the Baring Crisis and similar to what has been observed during the East Asian Crisis.78 Incomplete information about the financial health and growth prospects of particular Latin American countries might have made it difficult for investors to assess risk on a country-by-country basis prior to Argentina's default, and might help explain why a wake-up call and a sell off Latin American debt by British investors occurred.79 The fact that European investors lacked all the information
+76 The Economist noted the bellwether status of Argentina during this period, noting that bond prices of other South American securities moved when those for Argentina moved {Economist, 29 April 1893). 77 Radelet and Sachs, "East Asian Financial Crisis." Sovereign credit ratings for East Asian economies by major private credit-rating agencies did not decline in the 1 8-month run up to the East Asian financial crisis. This has been cited as evidence that rating agencies and private creditors were asleep at the wheel prior to the outbreak of the crisis in Thailand (Goldstein, Asian Financial Crisis). 79 There is some evidence that the "wake up call" that may have occurred during the East Asian financial crisis was exacerbated by asymmetric information problems. According to Goldstein {Asian Financial Crisis, p. 19), "creditors did not have accurate information on the creditworthiness of Asian borrowers (e.g., external debt turned out to be much larger, and international reserves much smaller, than indicated by publicly available data)." Of course, for our period, the problems may have involved both inaccurate and incomplete information.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 493
+they desired is well documented by the Corpo (CFB), which represented British lenders, an part, to give them better information on sove records of this organization (the Annual Re the constant frustration of bondholders wh and timely reports on fiscal balances, mone receipts of debtor nations. Although it would be difficult to design a def asymmetric information during our sample per sensitivity analysis that sheds some light on pr formation. We estimated a model that uses available information on
+country-specific macroeconomic and financial characteristics to explain yield spreads, but excluded Latin American debtors from the sample. We find that the macroeconomic and trade variables (as well as the conflict variables) generally have a statistically significant effect in the explaining the cross-sectional behavior of yield spreads for non-Latin emerging market borrowers.81 The fact that a regression model can explain non-Latin yield spreads, but not Latin American ones, provides some statistical evidence that asymmetric information may have played a role in the financial crisis. Even if such information had predictive power, it was not available for many countries of interest in the region. Several Central and South American countries, which we would have liked to have included in our full panel specification, lacked adequate financial and trade data from sources available to contemporary investors (such as the Investor 's Monthly Manual and the Statesman 's Yearbook). The paucity of data for the region made it a more challenging environment for investors to distinguish good risk from bad risk, and might help explain the sell-off of Latin American debt. The presence of a common creditor could also play a role here.82 Investment banks that lent to Argentina were largely concentrated in London. Burned by the Argentine default, British investors might have cut back their Latin American lending to reduce their exposure to similar risks. The decision by these investors to adjust their portfolios and shift funds to other emerging markets or to British colonies could have been based on the belief that countries in the region had trade patterns, fiscal
+80 Mauro and Yafeh, "Emerging Market Spreads." 81 For example, unlike the baseline results reported in column 2 of Table 5, we find that the debt-to-revenue ratio significantly boosts yield spreads by approximately 120 basis points, interstate war raises them by 46 basis points, and a better trade balance lowers them too. Debt default raises yield spreads by 660 basis points and exports per capita increases sovereign risk by about 15 basis points. A common-creditor channel has been used to explain recent episodes of financial contagion in East Asia and Latin America, Dornbusch, Park, and Claessens, "Contagion."
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+494 Mitchener and Weidenmier
+histories, and corporate governance similar to Argentina' ing of their positions would not necessarily proceed at a it might thus help explain why bond spreads continued to a year after the crisis. To test the common creditor hypothesis, we re-estimate model in column (2) of Table 5, adding two interaction te the effects of the Baring Crisis outside of Latin America. acted the empire indicator variable with the crisis dummy European investors reduced their holdings of Latin Ame and replaced them with "British-guaranteed" colonial bo non-Latin emerging markets. Then, we interacted a non-e market variable with the crisis dummy to capture the effect Crisis on British colonies and developing countries ou America. Although the empire interaction variable is not s nificant, we find some evidence that yield spreads in non Latin emerging markets actually declined about 42 basis p the outbreak of the crisis.83 The falling yield spreads (an prices of non-Latin emerging market debt) provide som U.K. investors shifted some of their funds to non-Latin emer during the early 1890s.
+CONCLUSION
+This article examines quantitative evidence of the effects of the ing Crisis on a global sample of emerging market borrowers. Usi new database of more than 15,000 bond prices collected from Economist, we find that the Baring Crisis was largely a regional nomenon. The average sovereign yield spread for Latin American tries in our sample increased by 844, 759, and 1,608 basis points one-year, two-year, and four-year periods after the onset of the fina crisis. Yield spreads in non-Latin emerging markets and core cou were generally flat during the same period. We then analyzed the determinants of sovereign yield spreads be 1886 and 1896 in a panel framework to understand why the crisis w gional. We were particularly interested in determining whether th American effect could be explained by macroeconomic fundamen budget deficit ratio, a ratio of debt-to-revenue, a default indicator var trade indicators (trade balance, exports per capita), political variab terstate and domestic conflict), and institutional variables (such as bein
+the gold standard) - information available to emerging market investo
+83 The crisis and Latin American-crisis interaction variables are both significant at th cent level of significance.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 495
+the late nineteenth century. The empirical an spreads pointed to several conclusions. Politica nomic indicators such as the debt burden, the bud
+deficit were not very important for pricing sove
+bulent period. On the other hand, countries that subsequently pay higher interest rates in financia
+suggest that the gold standard offered safe haven mitted to its regime during the crisis of the 1890
+United Kingdom, however, increased country risk Finally, and perhaps most importantly, the Latin American effect. Yield spreads were mo
+higher for Latin American countries during th control for differences across countries. Statistica
+suggests that European investors were selling o ings of Latin American bonds. They also re-as Latin America and reduced their holdings of t bonds, perhaps because of informational prob to diversify away from region-specific risk. A identify a single explanation that accounts fo Latin American bond prices in the early 189
+largely confined to Latin America and had little e markets. As more financial and macroeconomic data from the area be
+come available, future research will undoubtedly shed more light on the
+regional nature of the Baring crisis.
+Appendix 1: Interest Rate Database
+CORE COUNTRIES
+Belgium (1874), 3 percent, perpetuity bonds French Rentes, 3 percent, perpetuity bonds Netherlands, 2.5 percent, perpetuity bonds. Prussian Consols, 3 percent, perpetuity bonds United States 4 percent, due 1907
+LATIN AMERICAN COUNTRIES
+Argentina (1884), 5 percent, final redemption 1921 Brazil (1888), 4.5 percent, redemption by sinking-fund of 1 percent per annum Chile (1885), 4.5 percent, redeemable by a sinking-fund of !4 percent per year Colombia (1873), 4.75 percent, in default Costa Rica A, 5 percent, sinking-fund commences in 1898 to begin redeeming the Guatemala, 4 percent Honduras (1867), 10 percent, in default Mexico (1888), 6 percent, irredeemable after 1892
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+496 Mitchener and Weidenmier
+Nicaragua (1886), 4 percent-begin 6 percent December 29, 1894 Paraguay (1886), 1.5 percent, redeemable by sinking-fund beginni Portugal, 3 percent, change to 1 percent in November, 1895 Spain, 4 percent, perpetuity bonds Uruguay Consol, 3 percent Venezuela (1859), 3 percent, redeemable by semi-annual sinking
+NON-LATIN EMERGING MARKETS
+Austrian Gold Bonds (consols), 4 percent, perpetuity bonds British Guiana, 4 percent, 1935 Canada, 4 percent, due 1904-08 Cape of Good Hope (1881), 4 percent, final redemption in 1922 Greece (1881), 5 percent, final redemption in 1921 India, 3 percent, due October 5, 1948 Italy (ex 25f), 5 percent, perpetuity bonds Jamaica, 4 percent, Inscribed, 1934 Japan (1873), 7 percent, final redemption in 1898 New South Wales, 4 percent, due 1903-5-8-9-10 New Zealand Inscribed Stock, 4 percent, final redemption in 1929 Norway, 3 percent, final redemption in 1965 Queensland, 4 percent, due 1913 Russia (1822), 5 percent, perpetuity bonds South Australia, 4 percent, due 1929 Sweden (1880), 4 percent, final redemption in 1930 Tasmania, 4 percent, due July 8, 1908 Turkey (1854, Egyptian Tribute), 5 percent, final redemption in 1927 Victoria, 4.5 percent, due 1904 Western Australia, 4 percent, due 1927
+Appendix 2: The Baring Crisis and Latin American Bond Returns, 1 88 7-1 895
+The following model is employed to estimate the effect of the Baring Crisis o weekly Latin American bond returns:
+LA TINBRETit = at + pxEMGRETt + ^CRISIS, + eit (A 1 )
+where LATINBRETit is the return on a "representative" sovereign bond for American country / at time t. The return for Latin American country /'s representa bond is measured as the first difference of the natural logarithm of the price at tim at is a time-invariant constant for each country. EMGRETt is the emerging market trol, which is computed as the first difference of the natural logarithm of the weighted) average price of the 14 non-Latin American emerging market bonds in sample. We include CRISISt to measure the differential impact of the Baring Crisi Latin American bond returns at three different time horizons: 1890-1891, 1890-18 and 1890-1894. These indicator variables allow us to test whether bond returns in
+Latin America were significantly lower than bond returns for core-country securities one-year, two-years, and four-years after the onset of the financial crisis.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 497
+Appendix Table 1a DEPENDENT VARIABLE: BOND RETURN FOR LATIN AMERICAN COUNTRY /,
+(1) (2) (3) (4) Pooled Pooled Pooled Pooled Independent Variable OLS OLS OLS OLS
+Constant -0.119** -0.054 -0.026 0.061
+(0.056) (0.059) (0.061) (0.065) Emerging Market Control 1.881*** 1.854*** 1.856*** 1.835*** (0.172) (0.172) (0.171) Baring9091 -0.538*** (0.177) Baring9092 -0.391*** (0.146) Baring9094 -0.392*** (0.115)
+/^-squared 0.028 0.030 0.030 0.030 Obs. 4,728 4,728 4,728 4,728
+Appendix Table 1b
+DEPENDENT VARIABLE: BOND RETURN FOR LATIN AMERICAN COUNTRY /, EXCLUDING ARGENTINA, PORTUGAL, AND SPAIN, AND COUNTRIES THAT INITIALLY DEFAULTED ON THEIR DEBTS BETWEEN 1890 AND 1895
+(1) (2) (3) (4) Pooled Pooled Pooled Pooled Independent Variable OLS OLS OLS OLS
+Constant -0.068 -0.005 0.00005 0.064 (0.063) (0.067) (0.069) (0.079) Emerging Market Control 1.705*** 1.680*** 1.689*** 1.674*** (0.218) (0.218) (.218) (0.217) Baring9091 -0.526*** (197) Baring9092 -0.285* (0.160) Baring9094 -0.275*** (0.126)
+/^-squared 0.030 0.030 0.030 0.030 Obs. 3,054 3,054 3,054 3,054
+*denotes significance at the 10 percent **denotes significance at the 5 percent ***denotes significance at the 1 perce Notes: Panel corrected standard erro mated for the period January 1 887 t lected from the Economist.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+498 Mitchener and Weidenmier
+REFERENCES
+Banerjee, Anindya, Robin Lumsdaine, and James H. Stock. "Recursive and Sequent Tests of the Unit-Root and Trend-Break Hypotheses: Theory and Internationa Evidence." Journal of Business and Economic Statistics 10, no. 3 (1992): 27 87.
+Bordo, Michael, Barry Eichengreen, Daniela Klingebiel, and Maria Soledad MartinezPeria." Is the Crisis Problem Growing More Severe?" Economic Policy 16 (April 2001): 51-82. Bordo, Michael D., and Antu P. Murshid. "Are Financial Crises Becoming Increasingly More Contagious?" In International Financial Contagion, edited by Stijn Claessens and Kristin I. Forbes, 367-403. Boston: Kluwer Academic Publishers, 2001.
+Bordo, Michael, and Hugh Rockoff. "The Gold Standard as a Good Housekeeping Seal of Approval." This JOURNAL 56, no. 2 (1996): 389-428. Calvo, Guillermo. "Contagion in Emerging Markets: When Wall Street is a Carrier." University of Maryland Working Paper, College Park, MD, 1999. Calvo, Guillermo, and Carmen Reinhart. "Capital Flows to Latin America: Is there Evidence of Contagion Effects?" In Private Capital Flows to Emerging Markets after the Mexican Crisis, edited by Guillermo Calvo, Morris Goldstein, and E. Hochreiter, 15 1-71. Washington, DC: Institute for International Economics, 1996. Cameron, A. Colin, Jonah B. Gelbach, and Douglas Miller. "Robust Inference with Multi-Way Clustering." UC Davis Working Paper, Davis, CA, 2006. Corporation of Foreign Bondholders. Annual Report. London: CFB, Various Years. della Paolera, Gerardo, and Alan M. Taylor. Straining at the Anchor: The Argentine Currency Board and the Search for Macroeconomic Stability, 1880-1935. Chicago: University of Chicago Press, 2001. Drazen, Allan. "Political Contagion in Currency Crises." NBER Working Paper 721 1, Cambridge, MA: Month, 1998. Dornbusch, Rudiger, Park, Yung Chul, and Stijn Claessens. "Contagion: How it Spreads." World Bank Research Observer 15, no. 2 (2002): 177-97. Eichengreen, Barry. Toward a New International Financial Architecture. Washington, DC: Institute for International Economics, 1999.
+view 20, no. 3 (1999): 249-70. Eichengreen, Barry, and Jeffrey Sachs. "Exchange Rat the 1930s." This JOURNAL 45, no. 4 (1985): 925-46. Eschweiler, B. "Emerging Asia: The Fallout after th Markets. JP Morgan, Singapore, 1997. Esteves, Rui. "Pulsacoes Financeiras." In Nova Histor Serrao and A. H. Oliviera Marques, 1 10-51. Lisbon, P 2004.
+Fenn on the Funds. Fenn 's Compendium of the English and Foreign Funds, Debts And Revenues of All Nations. London: Effingham Wilson, Royal Exchange, Various Years.
+Ferguson, Niall, and Moritz Schularick. "The Empire Effect: The Determinants of Country Risk in the First Age of Globalization, 1880-1913." This Journal 66, no. 2 (2006): 283-312. Fishlow, Albert. "Conditionality and Willingness to Pay: Some Parallels from the 1890s." In The International Debt Crisis in Historical Perspective, edited by
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Baring Crisis 499
+Barry Eichengreen and Peter H. Lindert, 86-105. C 1989.
+Flandreau, Marc, and Frederic Zumer. The Making of 2004.
+Forbes, Kristen, and Stijn Claessens. International Financial Contagion. New York: Kluwer Academic Publishers, 2001. Forbes, Kristen, and Roberto Rigobon. "No Contagion, Only Interdependence: Measuring Stock Market Co-Movements." Journal of Finance 107, no. 5 (2002): 2223-61.
+Ford, Alec G. "Argentina and the Baring Crisis of 1890." Oxford Economic Papers 8, no. 2 (1956): 127-50. Ford, Alec G. The Gold Standard, 1880-1914: Britain and Argentina. Oxford: Clarendon Press, 1962. Glick, Reuven, and Andrew K. Rose. "Contagion and Trade: Why Are Currency Crises Regional?" Journal of International Money and Finance 18, no. 4 (1999): 603-17.
+Goldstein, Morris. The Asian Financial Crisis. Washington, DC: Institute for International Economics, 1998. Hahm, Joon-Ho, and Frederic S. Mishkin. "The Korean Financial Crisis: An Asymmetric Information Perspective." Emerging Markets Review 1 (2000): 21-52. International Monetary Fund. World Economic Outlook. Washington, DC: IMF, 1998. Kaminsky, Graciela, and Carmen Reinhart. "Financial Crises in Asia and Latin America: Then and Now." American Economic Review 88, no. 2 (1998): 444-48. Kaminsky, Graciela, Carmen Reinhart, and Carlos A. Vegh. "The Unholy Trinity of Financial Contagion." Journal of Economic Perspectives 17, no. 4 (2003): 51-74. Kindleberger, Charles Poor. "International Propagation of Financial Crises: The Experience of 1888-1893." In International Capital Movements, Debt and Monetary System, edited by Wolfram Engels, Armin Gutowski, and Henry C. Wallich, 217-34. Mainz: Hase & Koehler, 1984. Maddison, Angus. The World Economy. Historical Statistics. Paris: OECD, 2003. Marichal, Carlos. A Century of Debt Crises in Latin America. Princeton, NJ: Princeton University Press, 1989. Mauro, Paolo, Nathan Sussman, and Yishay Yafeh. "Emerging Market Spreads: Then Versus Now." Quarterly Journal of Economics 1 17, no. 2 (2002): 695-733. Mauro, Paolo, and Yishay Yafeh. "The Corporation of Foreign Bondholders." IMF Working Paper 03/107, Washington, DC, 2003. Meissner, Christopher M. "New World Order: Explaining the International Diffusion of the Gold Standard, 1870-1913." Journal of International Economics 66, no. 2 (2005): 385^06. McLean, Ian. "Recovery from Depression: Australia in an Argentine Mirror 18951913." Australian Economic History Review 46, no. 3 (2006): 215^1. Obstfeld, M., and A. M. Taylor. "Global Capital Markets." In Globalization in Historical Perspective, edited by Michael. D. Bordo, Alan M. Taylor, and Jeffrey. G. Williamson, 121-83. Chicago: University of Chicago Press, 2003. Prados de la Escosura, Leandro. "International Comparisons of Real Product, 1 8201990: An Alternative Dataset." Explorations in Economic History 37, no. 1 (2000): 1-41. Radelet, Steven, and Jeffrey Sachs. "The East Asian Financial Crisis: Diagnosis, Remedies, Prospects." Brookings Papers on Economic Activity no. 1 (1998): 174.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms
+
+
+500 Mitchener and Weidenmier
+Stateman 's Yearbook: Statistical and Historical Annual of the Sta London: Macmillan and Company, Various Years. Suter, Christian. Debt Cycles in the World Economy: Foreign Lo ses, and Debt Settlements, 1820-1990. Boulder, CO: Westview, Taylor, Alan M. "Capital Accumulation," In A New Economic Hist edited by in Gerardo della Paolera and Alan M. Taylor, 17 Cambridge University Press, 2003 Triner, Gail D., and Kirsten Wandschneider. "International Capit Encilhamento, 1889-1892: An Early Example of Contagion Markets." Financial History Review 12, no. 2 (2005): 199-225. Williams, John H. Argentine International Trade under Inconvert 1880-1900. Cambridge, MA: Harvard University Press, 1920.
+This content downloaded from
+158.143.124.242 on Mon, 27 Nov 2023 15:48:57 +00:00 All use subject to https://about.jstor.org/terms

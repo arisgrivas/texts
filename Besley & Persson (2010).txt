@@ -1,0 +1,545 @@
+State Capacity, Conáict and Development
+Timothy Besleyy London School of Economics
+Torsten Perssonz IIES, Stockholm University
+September, 2009
+Abstract
+The absence of state capacities to raise revenue and to support markets is a key factor in explaining the persistence of weak states. This paper reports on an on-going project to investigate the incentive to invest in such capacities. The paper sets out a simple analytical structure in which state capacities are modeled as forward looking investments by government. The approach highlights some determinants of state building including the risk of external or internal conáict, the degree of political instability, and dependence on natural resources. Throughout, we link these state capacity investments to patterns of development and growth.
+This paper is the basis for Perssonís Presidential address to the Econometric Society in 2008. We are grateful to Daron Acemoglu and four referees, as well as a number of participants in regional meetings for comments. We thank David Seim and Prakarsh Singh for research assistance and CIFAR, ESRC and the Swedish Research Council for Önancial support. yEmail: t.besley@lse.ac.uk. Web: http://econ.lse.ac.uk/sta§/tbesley/index_own.html zEmail: torsten.persson@iies.su.se Web: http://www.iies.su.se/~perssont/
+1
+
+
+A striking feature of economic development is an apparent symbiotic evolution of strong states and strong market economies. However, traditional analyses of economic development tend to focus on the expansion of the market economy with less attention paid to the expansion of the state. Just as private physical and human capital accumulation is a key engine of private sector growth, the buildup of public capital is also an engine of state expansion. It is arguable that a good part of investing in state e§ectiveness comes from improving the stateís ability to implement a range of policies, something which we will refer to as state capacity. Nowadays, this concept is commonplace in other branches of social science. Coined by historical sociologists, such as Charles Tilly, state capacity originally referred to the power of the state to raise revenue. Here we broaden it to capture the wider range of competencies that the state acquires in the development process, which includes the power to enforce contracts and support markets through regulation or otherwise. The issue of state capacity is also common currency in the applied development community, where it is intimately associated with the concept of weak or fragile states. Weak states tend to be hopelessly poor, unable to maintain basic economic functions and raise the revenue required to deliver basic services to their citizens. They are also often plagued by civil disorder or outright conáict. This propensity towards conáict and weak government institutions tends to be clustered with low income levels and stagnation. This paper puts forward a simple model of investments in state capacity. It provides a unifying framework for thinking about a range of issues that have, so far, been discussed as disparate phenomena: the risk of external or internal conáict, the degree of political instability, and economic dependence on natural resources. It provides answers, albeit in a stylized way, to a range of questions: What are the main economic and political determinants of the stateís capacity to raise revenue and support markets? How do risks of violent conáict a§ect the incentives to invest in state building? Does it matter whether conáicts are external or internal to the state? What may be the mechanisms whereby weak states are associated with lower income levels and growth rates than strong states? What relations should we expect between resource rents, civil wars and economic development? These questions are now occupying the attention of many scholars who try to understand patterns of development across time and place. Section 1 of the paper presents a basic model, in which building state capacity to raise taxes (Öscal capacity) and support markets (legal capacity)
+2
+
+
+are modeled as investments under uncertainty. Our model yields a series of benchmark results, detailing how investments in state capacity depend on a number of structural factors. It shows why we might expect the two forms of state capacity to be complements and hence develop together, and illustrates why a lower risk of external conáict, a higher degree of resource dependence, as well as lower political stability, weaken the incentive for state building. This basic framework serves as a building block and is put to work in the subsequent two sections. Section 2 models political stability endogenously, with the rate of turnover being a§ected by internal conáicts initiated by an opposition group of insurgents. Here, we model internal ñ as opposed to external ñ violent conáict, by allowing incumbent and opposition groups to invest in violence. Having characterized the circumstances when the economy ends up in peace, government repression, or civil war, we revisit the analysis of investments in state capacity. The results illustrate how high resource dependence may jointly trigger a high propensity towards conáict, low income, and low investments in legal and Öscal capacity. In Section 3, we examine how building Öscal capacity can improve other aspects of policy making. Here, we extend the basic framework by allowing for quasi-rents in production. In this model version, political instability can keep the economy in an investment trap, where low investments in Öscal capacity perpetuate ine¢ cient regulatory policies to redistribute income through rent creation/protection rather than through taxation. This in turn leads to factor market distortions, lower investments in market support, and low income/growth. The results suggest another channel that links together weak state capacity and low income, which again works through weak incentives to build the state. The association of weak states (manifested in low state capacity) with poor economic performance is a theme that runs across all three sections. A uniÖed model of the incentive to invest in state capacity is at the heart of each section and lays bare a common set of factors that shape low levels of state capacity, which have not been joined together in previous approaches. In each section, the theoretical results are summarized in a few key propositions. We discuss the implications of the theory, comment on its relationship to the existing literature, as well as mentioning some relevant empirical work. A short concluding section takes stock of the Öndings and suggests topics for further research.
+3
+
+
+1 The origins of state capacity
+This section develops the core model for analyzing the incentive to invest in state capacity, based on Besley and Persson (2009a). As we discussed in the last section, economists have paid little attention to state capacity investments. For example, researchers in public Önance, political economics, or development rarely assume that a government, which Önds a certain tax rate for a certain tax base optimal and incentive-compatible, is constrained by Öscal infrastructure. Similarly, economic theory rarely assumes that the state is constrained by a lack of legal infrastructure when it comes to enforcing private contracts or, more generally, supporting private markets. This contrasts with the approach taken by political and economic historians who view the stateís capacity to raise revenue as an important phenomenon in itself. They link to a thirst for military success and regard it as a key factor behind the successful development of nation states (see e.g., Tilly, 1985, Levi, 1988, or Brewer, 1989). In line with the core thesis, the tax systems in countries such as the US, the UK, and Sweden, have indeed been reformed and expanded in connection with actual or latent external conáicts. Political scientists such as Migdal (1988) have emphasized that one of the major problems of developing countries is that their states are often too weak and lack the capacity to raise revenue and to govern e§ectively. State capacities and weak states are also major concepts in the development policy community.1 The starting point taken outside of economics has some attraction given the practical experience of economic development. Presupposing su¢ cient capacities to tax and support markets does not sit well with the experience of many states, either in history or in the developing world of today. Moreover, international data suggest that the ability to raise revenue from advanced tax systems is strongly positively related to the ability to support markets, as well as to the level of economic development. Figure 1 illustrates these patterns in the data. It shows the positive correlations in contemporary data between the tax share of GDP (vertical axis), an index of property rights protections (horizontal axis), and income (blue dots above red dots below median income in 1980). There is no good reason to believe that these correlations can be interpreted causally. Indeed, our core model will emphasize the joint determination of these variables, where insti
+1See e.g., Rice and Patrick (2008) for a discussion and deÖnition of weak states.
+4
+
+
+tutions, historical shocks and initial conditions are common omitted factors that jointly drive taxation, property-rights protection and income. The model of Besley and Persson (2009a) separates decisions about investments that enhance the feasible set of policies from decisions about the policies themselves.2 Thus, taxes and market-supporting policies are constrained by the stateís Öscal and legal capacity. Expansion of these capacities are viewed as forward-looking investments under uncertainty. A central result that emerges from the framework, under speciÖc assumptions, is an important complementarity between Öscal and legal capacity. This implies that the two forms of state capacity are likely to be positively correlated with each other and with income as Figure 1 suggests.
+1.1 Basic model setup
+The model is stripped down to give a simple and transparent account of the important factors. Total population size is normalized to one. There are two groups, each of which comprises half the population in every time period. For the purposes of this paper, two alternative timing structures give essentially the same results. In one, time is inÖnite and one generation is alive in each period, making investment decisions based on a warm-glow bequest motive. In the other, which we will adhere to here, there are just two time periods, s = 1; 2; and the world ends after period 2. Although artiÖcial, this twoperiod approach allows us to make the main points of economic interest. At the beginning of period 2, the group that held power at the end of period 1 is the incumbent government, denoted by I1: The other group is the opposition denoted by O1. Power can be peacefully transferred to the opposition, which happens with exogenous probability given by parameter . This can be thought of as the reduced form of some underlying political process, which we do not model. As a result, whoever wins becomes the new incumbent, I2; and whoever loses becomes the new opposition, O2: At the end of period s; the current incumbent, Is, sets a tax on the income of each group member denoted by tJs, where Js 2 fIs; Osg. It also chooses a level of legal support for each group pJs; and spends on general public goods Gs: At the end of period 1; incumbent I1 also makes investments in next periodís
+2Recent related papers include Acemoglu (2005), where governments can increase their future tax revenues by spending on public goods, and Acemoglu, Ticchi and Vindigni (2007) who study the build up of government bureaucracies. Earlier, Öscal capacity has been studied by Cukierman et al (1992) and legal capacity investment by Svensson (1998).
+5
+
+
+state capacity (see below). In addition to tax income, the government earns natural resource rents Rs. These are stochastic and drawn from a two-point distribution fRL; RHg where Rs = RH with probability in each period: None of the resource rents accrue directly to the private sector.3 The precise timing of these events is spelled out below.
+Individual incomes and utility In period s; individuals consume and produce, with members of group Js earning a market income:
+wJs = w pJs ,
+where w ( ) is an increasing concave function. The policy variables pJs can be interpreted in a number of ways. In a broad sense, we view them as a reduced form for market-supporting policies that raise private incomes of group J: This might include the provision of productive physical infrastructure such as roads, ports and bridges. The distinctive feature of policy is that the way such capacity is deployed, reáected by pJs, is distinct from the capacity to use the policy, a feature that we introduce below. Following Besley and Persson (2009a), we will throughout refer to pJs as if they are policies that a§ect legal enforcement and raise incomes by facilitating gains from trade in capital markets.4 One feature of our formulation is worth emphasising as it is somewhat non-standard. Having created legal capacity s, we allow this level of market support to be enjoyed costlessly by both groups. However, whether these beneÖts are extended is a policy decision by government, i.e. 0 pJs s. The government can therefore choose to protect the property rights of the two groups to di§erent degrees, given its legal capacity (see below). Creating legal capacity can thus be (conceptually) distinct from regulating access to it. Individual utility in period s is linear and given by:
+sGs + cJs = sGs + (1 tJs)w pJs , (1)
+3We could add private natural resources as accruing additively to private incomes without any a§ect on the incentives that we model in this paper. In this case, Rs can be thought of as the share of rents that accrue to the public sector. 4Besley and Persson (2009a) develop a microfounded model with less than perfect enforcement (by the state) of collateral in (private) credit-market contracts. The policy pJs in this context is interpreted as policies that allow greater use of collateral to support trade in credit markets.
+6
+
+
+where cJs is private consumption, and Gs is the level of public goods with parameter s reáecting the value of public goods. We assume that s has a two point distribution f L; Hg ; with H > 2 > L; and we use to denote the probability that s = H. A speciÖc interpretation is that Gs denotes spending on external defense, while s and capture the severity and risk of external conáict. The equality in (1) arises since we assume that individuals do not save between periods 1 and 2:
+Constraints on government Policies are constrained by state capacity. The levels of Öscal capacity s, and legal capacity s are inherited from the previous period. The incumbent group in period 1 chooses these levels for period 2 given the political institutions in place. In concrete terms, represents Öscal infrastructure such as a set of competent tax auditors, or the institutions necessary to tax income at source or to impose a value-added tax ñwe can think about as decreasing the share of her market income (1 ) an individual can earn in the informal sector. Fiscal capacity does not depreciate, but can be augmented by I1 through non-negative investments which cost F ( 2 1); where F ( ) is an increasing convex function with F (0) = F (0) = 0. A higher s allows the incumbent Is to charge higher tax rates, such that tJs s: To allow for redistribution in a simple way, we allow negative tax rates. In concrete terms, represents legal infrastructure investments such as building court systems, educating and employing judges and registering property or credit. Like Öscal capacity, legal capacity does not depreciate, but can be augmented with non-negative investments at cost L( 2 1), where L ( ) is an increasing convex function with L (0) = L (0) = 0: As we mentioned in the last section, a higher s allows government Is to better support private markets with 0 pJs s. The government budget constraint in period s can be written as:
+0X
+Js2fIs;Osg
+tJs wJs
+2 Gs +Rs
+L( 2 1) F ( 2 1) if s = 1
+0 if s = 2 . (2)
+Given that the opposition takes over with probability ; this parameter becomes a crude measure of political instability.5
+5Besley and Persson (2009a) assumes that in its decisions the government internalizes the preferences of the opposition group, according to a weight 2 [0; 1
+2 ] that captures, in
+7
+
+
+Timing Each period has the following timing:
+1. The initial conditions are f s; sg and the identity of last periodís incumbent Is 1:
+2. The values of public goods s and natural resource rents Rs are realized.
+3. Group Is 1 remains in o¢ ce with probability 1 :
+4. The new incumbent Is determines a vector of tax rates, legal support,
+and spending on public goods:
+n
+tJs ; pJs ; Js2fIs;Osg ; Gs
+o
+: The period-1
+incumbent also chooses state capacities for the next period 2; 2:
+5. Payo§s for period s are realized and consumption takes place.
+1.2 Equilibrium policy
+We begin with the policy choices at stage 4 of period s. Linearity allows us to study these separately from the choices of state capacity for period 2: With the assumed policy weights, we can write the objective of incumbent Is as:
+V Is = w pIs (1 tIs ) + s
+"
+tIs w pIs + tOs w pOs
+2 + zs
+#
+, (3)
+where we have replaced Gs via the government budget constraint (2); and where residual revenue zs is deÖned by
+zs = Rs
+L( 2 1) F ( 2 1) if s = 1 0 if s = 2 .
+This objective is maximized subject to Gs 0; tJs s and pJs s.
+a simple and reduced-form way, the inclusiveness of political institutions through checks and balances or electoral systems. Here, we simplify the analysis by assuming that any government acts purely selÖshly by maximizing the expected utility of its own group (i.e., we assume = 0).
+8
+
+
+Taxation and spending on public goods The simple form of (3) makes it easy to derive equilibrium Öscal policy. Whenever s = H > 2; it is optimal for Is to tax its own group maximally, tIs = s; and use the revenue to expand Gs: Because Is puts zero weight on the opposition group, it also sets tOs = s: If s = L < 2; it becomes optimal to switch to a redistributive policy, where the opposition is still taxed fully, tOs = s; but no public goods are provided and
+tIs w pIs = sw pOs + 2zs :
+Thus, whether we have high or low demand for common-interest public goods is crucial. For high , the incumbent taxes both groups at full capacity and spends all available revenue (less investment costs if s = 1) on public goods. When public goods are not very valuable, no public goods are provided and all available revenue is transferred to the incumbent group (through a negative tax rate).6 We refer to s = H as the common-interest state, and to s = L as the redistributive state.
+The realized value of government funds in period s, which is obtained by di§erentiating V Is with regard to zs is state dependent and is given by:
+s = Max[ s; 2]:
+Legal protection It is straightforward to see that (3) is increasing in the legal protection a§orded to each group. Thus, it becomes optimal to exploit any existing legal capacity fully and set
+pOs = pIs = s .
+Intuitively, the incumbent group can only gain from improving property rights to both groups, either directly via a higher wage, or indirectly via a higher tax base. Simple as it is, this production e¢ ciency result is in the spirit of Diamond and Mirrlees (1971). The result does not mean that property rights are well protected everywhere, however, since this hinges on the value of s reáecting past investment decisions: The key point ñ which can be broadly applied ñ is that whatever the stateís capacity to improve productivity, it will be shared universally on an open access basis. But as we show in Section 3, when rents are present, the
+6Besley and Persson (2009a) emphasizes that public goods will generally be underprovided relative to a Utilitarian optimum. However, given the two potential values of s, this underprovision result is absent here.
+9
+
+
+stateís capacity to tax those rents becomes important. In the present setting, however, the result holds regardless of the level of Öscal capacity. Even though the setup is a bit di§erent, the results on policy are similar to those in Besley and Persson (2009a). Collecting all results, we have:
+Proposition 1 In all states pJs = s for Js 2 fIs; Osg and tOs = s. In common interest states, Gs = w ( s)+zs and tIs = s; while in redistributive states, Gs = 0 and tIs = s + 2 zs
+w( s) .
+1.3 Equilibrium state capacity
+Preliminaries Using the equilibrium policies in Proposition 1, we can write the expected future payo§ to the incumbent at stage 4 of period 1, taking as given the state capacity for period 2:
+E[V I1( 2; 2)] = w ( 2) (1 2) + E ( 2) [ 2w ( 2) + E(z2)] . (4)
+The expression E( 2) = H + (1 ) (1 )2 is the expected value of government funds in period 2 viewed from the perspective of period 1 and is a key magnitude determining investment incentives. It depends on three underlying parameters. With probability the value of public goods (risk of external conáict) is high, H, the future is a common-interest state and all revenue is used to supply private goods. With probability (1 ) the future is a redistributive state, and the incumbent captures a marginal return of 2 with probability (1 ); namely when it stays in power.
+State capacity choices The choice by incumbent group I1 of state capacity for period 2 maximizes:
+E[V I1( 2; 2)] 1[L( 2 1) + F ( 2 1)] , (5)
+subject to 2 1 and 2 1: Thus the choice of I1 trades o§ the period-2 expected beneÖts against the period-1 costs of investment, given the realized value of public funds: When doing so, it takes into account the uncertainties about the future values of public goods and resource rents, as well as the prospects of government turnover. Carrying out the maximization and using (4), we can write the Örst-order (complementary-slackness) conditions as:
+wp( 2)f1 + 2[E( 2) 1]g 1L ( 2 1) (6)
+10
+
+
+and
+w( 2)[E( 2) 1] 1F ( 2 1) , (7)
+where (6) concerns legal capacity and (7) Öscal capacity. Conditions (6) and (7) reproduce, in somewhat di§erent notation, the gist of the results in Besley and Persson (2009a). Since L (0) = F (0) = 0; it is easy to see that, if E( 2) > 1; there is always positive investment in both kinds of state capacity. Moreover, in this case, Öscal and legal capacity are complements. To simplify the discussion, we focus on this case here.7 It will prevail as the probability, ; of the common interest state is large enough, or political instability, ; is low enough ñsu¢ cient conditions are either > 1
+2
+or < 1
+2:
+Determinants of state capacity When E ( 2) > 1, the left-hand side of (6) is increasing in 2; while the left-hand side of (7) is increasing in 2: The resulting complementarity is interesting in its own right. However, it also simpliÖes the analysis since it implies that the payo§ function (5) is supermodular. This means that we can use standard results on monotone comparative statics (see, e.g., Milgrom and Shannon, 1994). Thus, any factor that increases (decreases) the expected value of government funds E( 2); for given 1; will increase (decrease) investment in both legal and Öscal capacity. The same is true for any factor that weakly decreases (increases) the RHS of the two expressions for given E( 2): Using (6) and (7) together with the deÖnition of E ( 2), we establish the following result:
+Proposition 2 Investments in both legal and Öscal capacity increase with:
+1. wages (for given )
+2. the share of national income not generated by natural resources
+3. the expected value of public goods (risk of external conáict)
+4. the level of political stability
+5. lower costs in either type of investment (for given or )
+The proof of this and subsequent results is found in the Appendix.
+7Besley and Persson (2009a) discusses some implications of this not being the case.
+11
+
+
+1.4 Implications
+The Örst part of Proposition 2 is consistent with Figure 1, where we saw that taxation and property-rights protection are both positively correlated with income across countries. We return to the relation between legal capacity and income (growth) later on in this section. Second, Proposition 2 suggests that investment in state capacity is declining in the share of resource rents in GDP ñRs=Ys = Rs= (w( s) + Rs) ñfor given Ys: This is because we have assumed that only produced output is taxed and that legal capacity is only useful for produced output. The third part of Proposition 2 is in line with Tillyís (1985) claim that war is important for building Öscal capacity, but extends it to legal capacity. While external defense is a natural example, the result applies to any national common-interest program, such as a universal welfare state or health program. If the demand for such public goods or services is expected to be high, any group that is in power has a greater incentive to invest in Öscal capacity to Önance future common-interest spending. In the second half of the 18th century, continued state capacity building by the dominant British elite culminated in the launch of an income tax during the Napoleonic wars, when the British government could raise taxes equal to a remarkable 36% of GDP (Mathias and OíBrien, 1976). Part four of the Proposition holds because the incumbent group faces a smaller risk of the opposition using a larger Öscal capacity to redistribute against the incumbent. Thus, we should observe higher political stability to induce more developed economic institutions.8 We know of no systematic evidence on this prediction, but a historical case in point is England after the Glorious Revolution. During a parliament dominated by the Whigs for more than 40 years, tax income rose to 20% of GDP, and institutions for charging excise and indirect taxes were put in place (see e.g., Stasavage, 2007, and OíBrien 2005). One interpretation of the Öfth part of the proposition is a theoretical rationale for legal origins, the subject of many studies following La Porta et al (1998). If some form of legal origin, such as the common-law tradition, makes it cheaper to facilitate private contracting, then we would expect this to promote investments in the legal system. Less trivially, we would also expect
+8In their richer model, Besley and Persson (2009a) Önd that this e§ect should be stronger in countries with less inclusive political institutions, They also Önd that more inclusive politcal institutions by themselves generally promote investments in state capacity.
+12
+
+
+the same legal origin to promote investments in the tax system, because of the complementarity of legal and Öscal capacity.
+Correlations in international data Besley and Persson (2009a) explore the cross-sectional correlations in international data, motivated by results like Proposition 2, which identiÖes a number of common determinants of legal and Öscal capacity. First, they take the historical incidence of war as a proxy for the past demand for common public goods and use data from the Correlates of War data set to measure the share of all years between 1816 ñ or independence, if later ñ and 1975 that a country was involved in external military conáict. Second, they consider indicators of legal origin from La Porta et al (1998) as proxies for the cost of legal infrastructure. To gauge current legal and Öscal capacity, they consider four di§erent indicators of each form of state capacity, including measures of contract enforcement, protection of property rights, and various aspects of tax structure. Besley and Persson (2009a) show that a higher share of external conáict years in the past is always associated with higher measures of legal capacity as well as Öscal capacity in the present. Past incidence of democracy or parliamentary democracy (the two variables are closely related) correlate positively with both types of state capacity. While English legal origin is uncorrelated with legal capacity (except when it comes to contract enforcement), German and Scandinavian legal origins do display a robust positive correlation, not only with legal capacity but also with Öscal capacity. Key determinants identiÖed by our theory thus appear to have stable correlations with the stateís capacity to support markets as well as to raise revenue.9
+Growth Beyond these direct implications, the model makes a prediction about economic growth between periods 1 and 2. Using Proposition 1, this is given by:
+Y2 Y1
+Y1
+= w( 2) w( 1) + R2 R1
+w( 1) + R1
+. (8)
+If we ignore the exogenous resource rents, higher growth is generated solely by having higher legal capacity and hence better support for private markets.
+9In line with their more extensive model, Besley and Persson (2009a) also measure inclusive political institutions in the past by the incidence of democracy and parliamentary democracy. They Önd that current state capacity of both types is generally correlated with these measures of politically inclusive institutions.
+13
+
+
+This would show up in the data as higher TFP. Legal capacity may be closely related to Önancial development (in the microfounded model of Besley and Persson, 2009a, e.g., private credit to GDP is proportional to ): Financial development due to better institutions can thus cause growth. But the relationship can easily go the other way: according to the second part of Proposition 2, higher income generally raises incentives to invest in legal capacity leading to Önancial development. The complementarity between Öscal and legal capacity has interesting implications for the relationship between taxation and growth. If greater legal capacity is driven by the determinants suggested by Proposition 2, we would expect it go hand-in-hand with greater Öscal capacity. Variation in these determinants would tend to induce a positive correlation between taxes and growth. Even in the case where E( 2) < 1 (when investment in Öscal capacity is zero), legal capacity and national income are still positively correlated even though taxation and growth are uncorrelated.10 These observations relate to recent empirical Öndings in the macroeconomics of development. Many researchers have found a positive correlation between measures of Önancial development, or property-rights protection, and economic growth (e.g., King and Levine, 1993, Hall and Jones, 1999 and many subsequent papers), although the Örst part of Proposition 2 warns us that such correlations may not reáect a causal e§ect of Önancial markets, but reverse causation. But many researchers who expected to Önd a negative relation between taxes and growth have found nothing (see e.g., the overview in Benabou, 1997). Simple though it is, our model suggests a possible reason for these Öndings. Our approach focuses on state capacity and hence ignores the standard engine of growth through private capital accumulation. When one extends the model to include private investment, building Öscal capacity does have a more ìstandardî disincentive e§ect on growth because higher 2 raises expected taxes and lowers expected net private returns. However, building legal capacity has an additional positive e§ect on growth, because it can raise the gross return to investing, which stimulates private accumulation. With complementarity between Öscal and legal capacity, both kinds of state capacity may still expand with overall income.
+10However, Besley and Persson (2009a) show that changes in income distribution drive Öscal and legal capacity in opposite directions, inducing a negative correlation between taxes and growth.
+14
+
+
+2 Conáict and state capacity
+This section extends our approach to include the possibility of violent internal conáict. We modify the model by allowing for the possibility that public and private resources are used by incumbent and opposition to maintain or gain control of the state. As a by-product of this, we endogenize political instability. In our model, conáict might arise in the redistributive state (when s = L); since this entails a greater advantage of becoming a residual claimant on public resources, including natural resource rents. Our analysis is motivated by the observation that political instability and/or high risk of conáict are clustered in the data with weak states and low levels of development. Our approach based on investments in state capacity will show how all of these have common underlying roots. Moreover, the factors identiÖed as a§ecting investment in state capacity by Proposition 2 play a key role in this clustering. There now exists a large literature on conáict in the third world (see e.g., Sambanis, 2002 and Blattman and Miguel, 2009 for broad reviews). Counting all countries and years since 1950, the incidence of civil war is about 6%, with a yearly peak of more than 12% (in 1991 and 1992), according to the Correlates of War data set. The cumulated death toll in civil conáicts since the Second World War exceeds 15 million (Lacina and Gledtisch, 2005). A robust empirical fact is that poor countries are disproportionately more likely to be involved in civil war. There are two leading interpretations of this correlation in the literature: Fearon and Laitin (2003) see conáict in poor countries as reáecting limited capacity to put down rebellions by weak states, while Collier and Hoe≠ er (2004) see it as reáecting lower opportunity costs of Öghting. The civil-war literature typically treats incomes and state capacity as exogenous.11 But the dynamic implications of conáict are likely to be important. Although our approach is simple and stylized, it o§ers a Örst step towards a dynamic approach emphasizing the state capacity channel.12 The analysis will also speak to the link between natural resources, conáict and
+11Miguel, Satyanath and Sergenti (2004) take a step towards treating incomes as endogenous. They use weather shocks to instrument for growth in African countries from the 1980s and onwards, and Önd that lower growth raises the probability of civil conáict. 12In a previous paper, Besley and Persson (2008a), we argued that internal and external conáict may have opposite e§ects on the incentives to invest in Öscal capacity. But there we took the probability of civil war to be exogenous.
+15
+
+
+development.13 In our model, large resource rents raise the risk of civil war, and diminish the incentive to invest in state capacity, thus creating a negative feedback loop to the level of development.
+2.1 Conáict and takeover
+The key change in the model is to modify the way in which political power is transferred. As in Section 1, this may happen peacefully. However, we add the possibility that power changes hand through violent conáict. Our approach is very simple. Suppose that the incumbent can raise an army, the size of which (in per-capita terms) is denoted by Is 1 = 0; AI ; where 0 < AI < 1 (recall that total population size is unity). This discrete-choice formulation, which is relaxed in Besley and Persson (2008b), is somewhat artiÖcial but makes the analysis simpler. There is no conscription, so soldiers must be compensated for their lost income. The army, which costs wIs 1 Is 1; is Önanced out of the public purse. The opposition can also raise an army denoted by Os 1 2 0; AO ; with 0 < AO < 1; which it uses to mount an insurgency to take over the government. When in opposition, we assume that each group has the capacity to tax its own citizens in order to Önance a private militia. The decision on Os 1 is made by the opposition group, but the resources have to be raised within the group. The probability that group Os 1 wins power and becomes the new incumbent Is is
+Os 1 ; Is 1 2 [0; 1] .
+This probability of turnover depends on the resources devoted to Öghting. We assume that his is increasing in the Örst argument and decreasing in the second so that there are returns to each side from Öghting. We make the following assumption on the underlying conáict technology:
+Assumption 1 The contest function satisÖes:
+1 (AO;AI ) (AO;0) (AO;AI )
+1 (0;AI )
+(0;0) (0;AI ) < min 1 +
+AO
+2AI
+(AO;AI ) (0;AI ) ;
+AO
+2AI
+(AO;0) (0;0) :
+13See Ross (2004) for a survey of the research on natural resources ansd civil war.
+16
+
+
+This assumption rules out the possibility of an undefended insurgency. It will hold if the marginal return to Öghting is low enough for the opposition and high enough for the incumbent.14 Given this technology for conáict, we make two substantive changes to the model described in Section 1.1. First, the government budget constraint has to be rewritten to reáect the Önancing of the state army. This is now15
+0X
+Js2fIs;Osg
+tJs wJs
+2 Gs + zs wIs 1 Is 1 . (9)
+Second, stage 3 in the timing is replaced by the sequence: 3a. Group Os 1 chooses the level of any insurgency Os 1. 3b. The incumbent government Is 1 chooses the size of its army Is 1: 3c. Group Is 1 remains in o¢ ce with probability 1 Os 1; Is 1 . In this setting, we interpret civil war as Os 1 = AO and Is 1 = AI; i.e., both groups are investing in violence, while Os 1 = 0 and Is 1 = AI is interpreted as repression by government to stay in power.
+2.2 Incidence of civil war and repression
+Preliminaries It is easy to show that the (new) incumbentís policy choices at stage 4 of each period in Proposition 1 still apply. Making use of this, we can derive the governmentís objective function after the resolution of uncertainty over s and Rs at stage 2, but prior to the choice of armies at stage 3. For the incumbent at stage 3b, the appropriate expression depends on the realized value of s and is given by
+E[V Is 1( s; s) j s = H ] = H [ sw ( s) + zs w ( s) Is 1] + w ( s) (1 s) (10)
+14The assumption is consistent with a variety of assumptions about the functional form of the "contest function". In the case of a linear model where:
+Os 1 ; Is 1 = + AO AI
+assumption 1 is satisÖed if:
+1 + AI < 1=2:
+15This formulation assumes that resource revenues are large enough to Önance the incumbentís army or, alternatively, that the new incumbent pays for the army ex post, honoring any outstanding "war debts".
+17
+
+
+and
+E[V Is 1( s; s) j s = L] = w ( s) (1 s) (11)
++(1 Os 1 ; Is 1 )2[ sw ( s) + zs w ( s) Is 1 ] .
+The opposition chooses its army Os 1; at stage 3a, to maximize the groupís expected utility, which is given by
+E[V Os 1 j s = H ] = H [ sw ( s) + zs w ( s) Is 1 ] + w ( s) (1 s Os 1 ) (12) and
+E[V Os 1 j s = L] = Os 1 ; Is 1 2[ sw ( s) + zs w ( s) Is 1 ]
++w ( s) (1 s Os 1). (13)
+The main di§erence between these expressions reáects the fact that the incumbent uses the government budget to Önance its army whereas the opposition uses its private resources. We now in a position to characterize the unique sub-game perfect equilibrium of the game where the insurgents (opposition) move Örst. The equi
+librium strategies are denoted by
+nbOs 1 ; bIs 1 o
+.
+Common-interest states We begin by stating a useful (if perhaps obvious) result in the case when demand for public goods is high:
+Proposition 3 There is never conáict when s = H : bOs 1 = bIs 1 = 0 :
+Intuitively, all spending in the common-interest state will be on commoninterest goods, independently of who holds power, so there is nothing to Öght over. Given our interpretation of H as (a high risk of) external conáict, it is interesting to note that very few ñless than half a percent ñof the countryyears in the Correlates of War data set entail simultaneous external and internal conáict. This result implies that the probability of political turnover in commoninterest states is (0; 0).
+18
+
+
+Redistributive states When s = L; the situation is di§erent. The payo§s (11) and (13) reveal a trade-o§: decision makers must weigh the opportunity cost of higher armed forces against a higher probability of takeover and control over state resources. Given Assumption 1, we get a straightforward characterization of conáict regimes by the size of public revenues and other parameters in terms of three main regimes. DeÖne
+Z (zs; s; s) = sw ( s) + zs
+w ( s) ,
+the ratio of total government revenue per capita to the real wage (nonresource share of GDP), as well as a lower and an upper bound for this variable:
+Z=
+"
+1 0; AI
+(0; 0) (0; AI)
+#
+AI and Z = AO
+[ (AO; AI ) (0; AI )] 2 + AI ,
+where Z > Z; by the Örst inequality in Assumption 1b. We now have:
+Proposition 4 Suppose that Assumption 1 holds and s = L (a redistributive state). Then, there are three possibilities.
+1. If Z (zs; s; s) > Z; then there is civil conáict with bOs 1 = AO and bIs 1 = AI :
+2. If Z Z (zs; s; s) Z; then the state is repressive with bOs 1 = 0
+and bIs 1 = AI :
+3. If Z (zs; s; s) < Z, then there is peace with bOs 1 = 0 and bIs 1 = 0.
+If Z (zs; s; s) is very high, which corresponds to low wages (low s), high Öscal capacity or high natural resource rents, then the outcome is conáict because it is cheap to Öght and there is a large cake to redistribute for the winner. If Z (zs; s; s) is in an intermediate range, then the government represses the opposition to increase the probability that it stays in power.
+19
+
+
+Finally, if Z (zs; s; s) is low enough, then there is peace.16 The main role of Assumption 1 is to rule out an undefended insurgency. While this is a theoretical possibility, such cases do not seem common in practice. Proposition 4 gives a link between natural resource rents, real wages, and the likelihood of conáict. For given state capacities ( s; s), variable Zs varies stochastically with natural resource rents, Rs and real wages, ws: By this route, we expect commodity prices to predict civil war. Besley and Persson (2008b) explore the empirical link between commodity prices and the incidence of civil conáict. Using trade volume data from the NBER-UN Trade data set, and international price data for about 45 commodities from UNCTAD, they construct country-speciÖc commodity export and commodity import price indexes for about 125 countries since 1960.17 According to the open-economy model in Besley and Persson (2008b), higher export price index can be interpreted as a positive shock to natural resource rents, and a higher import price index as a negative shock to (real) income. In line with Proposition 4, they Önd a robust empirical link between these price indexes and the incidence of civil war. Proposition 4 also suggests that government repression and civil war may reáect the same underlying determinants, namely resource rents and real wages. Indeed, the proposition suggests that the regimes of peace, repression, and civil war can be looked upon as ordered states. Interpreting government repression as infringements on human rights, Besley and Persson (2009b) push this argument further and estimate the likelihood of observing these states as an ordered probit.
+2.3 Investment in state capacity
+The analysis in the previous subsection takes legal and Öscal capacity as given. We now explore the implications of conáict for the incentive to invest in state capacity.
+16The parameter restriction in Assumption 1b is the reason that the ordering is straightforward. In Besley and Persson (2008b), we also obtain an ordering result of this form (under weaker assumptions) in a related model where the choice of armies is continuous and institutions constrain the behavior of the incumbent and opposition ex post. For some parameter restrictions, it is possible to have an outcome where the government does not defend against an insurgency (passive acceptance of terrorism). 17The price indexes for a given country have Öxed weights, computed as the share of exports and imports of each commodity in the countryís GDP in a given base year.
+20
+
+
+When there is no risk of future civil war, the analysis in Section 1.3 applies with (0; 0) = . To highlight the new mechanisms added by the possibility of conáict, we assume that the period-1 incumbent knows for sure that the value of public goods in the future is low, i.e., that 2 = L; Except for the issue of incumbency, the only remaining uncertainty ñ and the only determinant of the risk of conáict ñthen concerns the level of natural resource rents. There are two new e§ects on state capacity investment beyond those found in the non-conáict model of section 1. The Örst of these comes from observing that conáict changes the probability that the incumbent group will stay in power and hence a§ects political instability. To see this formally, we can use the result in Proposition 4 to write the equilibrium probability of turnover as:
+(Z (R2; 2; 2)) =
+8<
+:
+(AO; AI ) if Z (R2; 2; 2) > Z (0; AI) if Z (R2; 2; 2) 2 Z; Z (0; 0) if Z (R2; 2; 2) < Z :
+The constituent probabilities depend on the exogenous level of resource rents and the endogenous levels of state capacity. Note that the probability of turnover is not monotonic in natural resource rents: survival is largest in the middle range where the government represses the opposition. Whether outright conáict increases political instability is not clear a priori ñthis depends on whether the government is more or less likely to survive in the conáict regime compared to peace, i.e. (AO; AI)>< (0; 0). Given our observation in Proposition 2 that political stability a§ects investments in state capacity, this makes it unlikely that there is any general proposition linking conáict and state development working through this channel. Thus, to wash this e§ect out, and home in other considerations, we will make:
+Assumption 2: (AO; AI) (0; 0):
+One corollary of this assumption is that conáict is clearly Pareto ine¢ cient with resources being spent without any material change (ex ante) in who holds power. The second e§ect of adding conáict to the model comes from the fact that the incumbent government has to pay the real market wage to employ the soldiers in its army. Thus, incumbents may be more reluctant, all else
+21
+
+
+equal, to raise incomes by investing in legal capacity (or any other institution raising the wage). We consider two cases. In Case 1, a country cycles between peace and civil war, whereas in Case 2 it cycles between repression and civil war.
+Case 1: Z (RH; 2; 2) > Z > Z > Z (RL; 2; 2) Suppose the prize from winning a conáict is high enough for both incumbent and opposition to arm when resource rents are high, whereas neither of them arms when resource rents are low. Implicitly, we thus assume that variations in investment in Öscal capacity 2 are never large enough to induce changes in the conáict regime. Under these assumptions, and following the same approach as in Section 1, we can write the payo§ of the period-one incumbent controlling the statecapacity investment decisions as:
+E[V Is( 2; 2) j s = L] = w ( 2) (1 2)
++E ( 2) [ 2w ( 2) + E (z2)] [1 (AO; AI )]2w ( 2) AI ,
+where the expected value of future government funds is given by E ( 2) = 1 ((1 ) (0; 0) + (AO; AI)) 2: As in Section 1, we focus on the case where E ( 2) > 1 so that investments in both kinds of state capacity remain complements.18 Compared to our earlier expression (4) in the baseline (noconáict) model in Section 1, the objective function has a new and third term, which captures the cost of conáict. That this term is multiplied by reáects the fact that conáict occurs only when resource rents are high. The Örst-order conditions for investments in legal and Öscal capacity are:
+wp( 2) f1 + 2[E( 2) 1]g 1 (AO; AI ) 2AI
+1L ( 2 1) (14)
+w( 2)[E( 2) 1] 1F ( 2 1) : (15)
+When Assumption 2 holds, the probability of conáict, ; has a negligible e§ect on the expected value of public funds, E ( 2) : Then, the only Örst-order e§ect on investments of a higher probability of conáict comes from the second
+18Note, however, that an increase in (now the probability of conáict since conáict occurs when natural resource rents are high) may increase or decrease the future expected value of public funds. Depending on the relative values of AI and AO; this can raise or cut the likelihood that state capacities are substitutes rather than complements.
+22
+
+
+term on the left-hand side of (14). Evidently, a higher reduces the marginal return to investing in legal capacity, since a higher share of the economyís labor is expected to be devoted to conáict. Taking the complementarity between Öscal and legal capacity into account, we now have:
+Proposition 5 Suppose that the future state is always redistributive ( 2 = L), there is either conáict or peace depending on the level of natural resource rents, and that Assumption 2 holds. Then, an exogenous increase in the probability of conáict, via a higher value of , reduces the incentive to invest in both Öscal and legal capacity.
+Proposition 5 illustrates a particular channel through which the static ine¢ ciency of conáict is compounded by a dynamic ine¢ ciency via a lower incentive to invest in state capacity: investing in economic development makes it more expensive for the government to Önance its troops should a conáict arise. This highlights a speciÖc mechanism through which conáict risk perpetuates a weak state.
+Case 2: Z (RH; 2; 2) > Z > Z (RL; 2; 2) > Z In this case, changes in resource rents cycle the economy between repression and civil war; the incumbent always Önds it optimal to arm while the opposition only arms when resource rents are high. In this instance, the probability of high resource rents, ; has a direct e§ect on the expected probability of turnover for the period-one incumbent, even if Assumption 2 does not hold. Now, the expected payo§ to the incumbent is:
+E[V Is( 2; 2) j s = L] = w ( 2) (1 2) (16)
++E ( 2) 2w ( 2) + E (z2) w ( 2) AI ,
+where E ( 2) = f1 [(1 ) (0; AI) + (AO; AI)]g2: After some manipulation, the Örst-order conditions for investing in state capacity become:
+wp( 2)f(1 AI ) + ( 2 AI )[E( 2) 1]g 1L ( 2 1) (17)
+w( 2)[E( 2) 1] 1F ( 2 1): (18)
+Note that the condition for positive investments in legal capacity ñ namely a positive left-hand side of (17) ñ may now be stronger than E ( 2) > 1: Clearly, E ( 2) > 1 together with 2 > AI is a su¢ cient condition. In fact,
+23
+
+
+the term (1 AI)wp( 2) always represents a drag on investment in state capacity similar to the e§ect identiÖed in Case 1. Assuming that this condition is met, we can contemplate the e§ect of a change in on the incentive to invest. From the Örst-order conditions, we have:
+Proposition 6 Suppose that in the future state is always redistributive ( 2 = L) and there is either conáict or repression depending on the level of natural resource rents. Then, an increase in the exogenous probability of conáict, via a higher value of , reduces the marginal incentive to invest in both Öscal and legal capacity.
+The result in Proposition 6 follows by complementarity, and by noting that a higher value of decreases the left-hand side of both (18) and (17), the latter because @LHS
+@ = 2wp ( 2) [ (AO; AI ) (0; AI )]( 2 AI ) < 0; where the sign follows from the su¢ cient condition for positive investment above. Intuitively, the direct e§ect through the probability of survival always outweighs the e§ect through the expected value of Öghting. This result is analogous to part four of Proposition 2, whereby higher political instability reduces investments in state capacity. However, the instability is now modeled as an equilibrium outcome, where conáict (relative to repression) makes it less likely that the incumbent survives. This result gives a further theoretical explanation as to why the prospect of conáict might perpetuate weak states both in raising taxes and supporting markets.
+2.4 Implications
+Propositions 5 and 6 highlight two key mechanisms through which the possibility of civil conáict may perpetuate weak states, with lower levels of income as a consequence. Our examples have focused on marginal incentives within a regime (corresponding to the maintained assumptions deÖning our two cases). Proposition 4 deÖnes a threshold for wages relative to resource rents above which conáict ends. Because of this, a government may strive for a big enough investment in legal capacity to raise wages so as to generate peace. To the extent that this is important, we might expect incentives to go in the opposite direction of those driving the results in Propositions 5 and 6. There may then be scope for a ìbig pushî to raise wages and to break out of the conáict trap.
+24
+
+
+The results also suggest a note of caution for researchers who pursue empirical studies of the determinants of civil war. Our model shows why it may be hazardous to interpret the correlation between poverty and civil war as a causal e§ect from poverty to the incidence of conáict. Indeed, the results in this section imply that both of the two leading explanations of this correlation ñlow opportunity cost of Öghting due to low wages, and low state capacity in poor countries ñmay reáect common omitted factors rather than a causal mechanism. In particular, low state capacity in terms of raising tax revenue, as well as low wages (due to poor support of markets), may be simultaneously determined with a high probability of civil war by factors such as high resource rents. Finally, the state-capacity channel developed here also provides a theoretical connection between conáict and low growth. This is apparent by returning to equation (8), which links low investment in 2 to low growth.
+3 State capacity, distortions and income
+We now explore the link between state capacity investments ñ particularly investment in Öscal capacity ñand policy distortions which lower the level of income. We show how investments in Öscal capacity can underpin e¢ ciencyenhancing changes in the form of redistribution, diminishing the use of other ìregulatoryîdistortions which make the economy less productive. We provide an example in which a government with insu¢ cient Öscal capacity chooses legal protection in an ine¢ cient way. While this general point has been made before, for example by Acemoglu (2006), this takes state capacity as given. We show that the production ine¢ ciencies may persist over time when state capacity is chosen endogenously because the economy may be caught in an investment trap. The apparatus developed in Section 1 explains the factors that underpin this. This analysis of the role of state capacity in encouraging e¢ cient production provides a unique window on debates about the consequences of large government for the economy. As we noted in Section 1.4, it is hard to Önd evidence in macroeconomic studies of aggregate data that high taxes a§ects the growth rate. Most microeconomic studies of individual data also tend to Önd fairly modest behavioral e§ects of taxes on investment behavior. The mechanism that we identify here whereby Öscal capacity increase production e¢ ciency may constitute an important o§setting e§ect of increasing the
+25
+
+
+power to tax. Our approach also provides an alternative to the standard macroeconomic view of governmentís role in enhancing growth, as expliÖed by Barro (1990) and Barro and Sala-i-Martin (1992) who emphasize the role of tax-Önanced public capital accumulation, such as building ports and roads. In order to make these points as simply as possible, we drop the extension to endogenous conáict in Section 2. Instead, we extend the basic framework of Section 1 in a di§erent direction, adding an additional factor of production so that the model includes both labor and capital. Capital becomes a source of producer rents, and it is the seeking of these rents that can generate persistent production ine¢ ciencies, when the economy is caught in an investment trap for state capacity. This way, we illustrate another mechanism that may generate a link between low income and low state capacity.
+3.1 A simple two-factor economy
+We modify the production side of the economy to have two factors of production. Suppose now that w pJs is a form of capital, the productivity of which depends on property-rights protection for group J in period s. A share of each group, denoted by ; are entrepreneurs and have access to a constant-returns Cobb-Douglas technology that combines capital and raw labor, l; to produce output. The capital share is denoted by .19 The remaining 1 share of the population supplies a single unit of raw labor to an economy-wide labor market. The production technology on intensive form is lJs kJs ; where kJs is the capital-to-labor ratio w pJs =lJs: Since aggregate labor supply is l = (1 ); the aggregate capital-labor ratio
+k(pIs; pOs) = [w pIs + w pOs ]
+2(1 ) , (19)
+is increasing in the property-rights protection of each group. An individual capital owner in group Js, sets optimal labor demand according to the condition (1 ) (kJs) = !; where ! is the economy-wide wage. As the technology is common across groups, the equilibrium wage is given by the same condition, evaluated at k(pIs; pOs):
+(1 ) (k(pIs; pOs)) = !(pIs; pOs) :
+19Assuming a common share across groups simpliÖes the algebra. Relaxing this assumption makes it easier to prove the possibility of ine¢ cient outcomes (see Propositions 3 and 4). An incumbent group, I; with a large share I of capital owners is more willing to select ine¢ cient policies to boost the groupís rents than is a group with a small share.
+26
+
+
+Thus, the wage depends on property-rights protection for the two groups and is increasing in both of these policy variables, since
+@!
+@pJs = (1 ) (k(pIs; pOs)) 1 wp pJs
+2(1 ) > 0 .
+Intuitively, more productive capital in any sector drives up the demand for labor which raises the equilibrium wage. Finally, we can deÖne the income of a representative member of group Js as
+yJs(pIs; pOs) = (1 )!(pIs; pOs) + lJs[(kJs) !(pIs; pOs)] , (20)
+the sum of labor and rental income. Compared to the basic model, income of group Js now depends on the legal protection of the other group as well, through the endogenous equilibrium wage. The latter has a positive e§ect on wage-earning group members (the Örst term on the right hand side of (20)), but a negative e§ect on those earning quasi-rents on capital (the second term on the right hand side).
+3.2 Policy and state capacity
+The remainder of the model works exactly as in Section 1. To analyze the incumbentís optimal policy, we replace w(pJs) in (3) by the new income function yJs(pIs; pOs) in (20). The main consequence is that, if is high enough, then an incumbent group Is may prefer to keep wages low. Moreover, the ruling group can engineer a lower wage by blocking the opposition groupís access to legal capacity and hence driving down the demand for labor.
+The role of taxation Going through similar steps as in Section 1.2, we can show:
+Proposition 7 If s = 1; then legal capacity is always fully utilized for both groups. Otherwise, there exists a threshold value ^K when the value of the public good is K with K 2 fL; Hg , such that the legal protection of the opposition group is minimal: pOs = 0 for all s < bK. Moreover, ^L > bH .
+This result says that there is always production e¢ ciency when Öscal capacity is high enough. However, when Öscal capacity is below a critical
+27
+
+
+threshold, an incumbent may prefer an ine¢ cient policy which lowers the level of national income. In this speciÖc example, maximizing (gross) income and using the tax system for redistribution may be less useful to the incumbent than distorting production and raising quasi-rents by maintaining a supply of low-wage labor.20 Proposition 7 also states that the critical threshold for Öscal capacity to generate an e¢ cient use of legal capacity is lower in the common interest state than in the redistributive state.21 The observation that limited powers to use taxation for redistribution can lead to distorted factor markets is not new. In particular, this line of argument is developed by Acemoglu (2006). However, to provide a complete explanation we need to understand why the state lacks the power to tax. This can be addressed only if Öscal capacity is endogenous as it is in the approach taken here.
+An investment trap for Öscal capacity? The results in Section 1, particularly Proposition 2, give us a stepping stone for the analysis. We now apply this logic to understand why Öscal capacity can remain low (below the threshold required for production e¢ ciency). Our key result is
+Proposition 8 Suppose that 1 < ^L. Then, for close enough to zero, in a range of > 1=2; 2 = 1; and investment in legal capacity is lower than it would be if 1 > ^L.
+An immediate corollary of Propositions 7 and 8 is that, whenever initial Öscal capacity fulÖlls 1 < bL; the opposition group in each period is not fully protected by the legal system. When political instability is high, the incumbent in period 1 does not want to expand the ability to tax, because it fears that such ability will be used to redistribute against its own group.
+20There is an analogy here with Diamond and Mirrlees (1971) who argue that production e¢ ciency is desirable if a tax system is su¢ ciently rich. One of the assumptions required in their framework is that there be 100% taxation of pure proÖts. In our model all income is taxed at the same rate and hence s = 1 is e§ectively equivalent to full taxation of pure proÖts (the rents on capital). 21A previous version of this paper (Besley and Persson, 2008c), included the inclusiveness of political institutions, parametrized by as in Beslsy and Persson (2009a). In that richer setting, the critical threshold for Öscal capacity also depends on institutions, with a lower threshold for more inclusive institutions. Moreover a utilitarian planner would always choose full protection for both groups.
+28
+
+
+As a result of the weak state, any period-2 incumbent uses ine¢ cient legal protection to generate rents to the capital owners of its own group. Proposition 8 thus describes an ìinvestment trapîin state capacity. Political instability makes an incumbent group expect that larger state capacity will be used against its interests. That expectation perpetuates an ine§ective apparatus for raising taxes, which then causes ine¢ ciencies in production. The situation persists because the probability of the common-interest state ( s = H) is low.
+3.3 Implications
+These results have implications for growth rates and the level of income. To see this, deÖne the non-resource part of GDP as
+Ys = Y (pIs ; pOs ) = yIs (pIs ; pOs ) + yOs (pIs ; pOs )
+2.
+With an ine¢ cient regulatory policy in period s; income becomes Y ( s; 0); where by symmetry Y ( s; 0) = Y (0; s): This is clearly lower than the level with e¢ cient legal protection Y ( s; s): Consider two economies S and L; where Propositions 7 and 8 apply. Assume the same initial legal capacity 1S = 1L = 1 prevails in both; but
+1S < b( L) and 1L > b( L) so that the economies Önd themselves at opposite sides of the Öscal-capacity threshold, because of di§erent initial Öscal capacities, 1S < 1L: Let us compare income levels in periods 1 and 2: By Proposition 7
+YL
+1 YS
+1 = Y ( 1; 1) Y ( 1; 0) > 0 ,
+i.e., in period 1, economy S has a lower income level due to the ine¢ cient legal protection of the opposition group. As the conditions in Proposition 8 hold, we have
+YL
+2 YS
+2 =Y( L
+2; L
+2) Y( S
+2 ; 0) > Y ( 1; 1) Y ( 1; 0) ,
+where the inequality follows from the fact that 2L > 2S: Due to its low Öscal capacity, economy S pursues a policy of less e¢ cient legal protection than economy L in period 2, whichever group is in power. But Proposition 8 tells us that economy S has also invested less in legal capacity than economy L:
+29
+
+
+The larger state not only has the higher GDP level, but its income advantage to the smaller state is growing over time. These implications of Proposition 7 and 8 suggest another possible interpretation of the correlations in Figure 1. Using the results in Section 1, we may observe a weak government together with low income because the two are jointly determined by other factors, or because low income causes weak government (recall Proposition 2). The results in this section suggest that a weak state can actually cause low income, to the extent it encourages policies that distort production.22 It is interesting to think about ways out of ine¢ cient legal protection in an investment trap. Propositions 7 and 8 suggest that political reform as well as exogenous circumstance may play a role. Reform that diminished political instability (lower value of ) may induce Örst-period investment.23 Circumstance, such as a higher likelihood or expected severity of external conáict (higher or H), may make it too costly to pursue ine¢ cient legal protection by raising the prospect of a future common-interest state. Let us also relate the results to some recent work on the political origins of Önancial development, which argues that a desire to create or preserve rents can prevent a ruling elite from building the institutions needed for well-functioning Önancial markets (see e.g., Rajan and Zingales, 2003 or Pagano and Volpin, 2005). This work generally considers the Önancial sector without reference to the tax system. So, the political-origins argument may implicitly assume a lack of Öscal capacity, which makes it unattractive for the incumbents to invest in private markets, maximize income, and instead carry out its desired redistribution via taxes and transfers. As stressed by Acemoglu (2003, 2006), it is important to pose the political Coase-theorem question explicitly, and our analysis here suggests a new way of doing so. But the key innovation is to think of both aspects of state capacity as evolving endogenously together and ináuencing policy incentives. We believe that the argument is much more general than the speciÖc example in this section. Further research might consider the joint determination of weak states and other policy-induced production distortions leading to low income, such as tari§s or red-tape regulation.
+22Of course, our caveat noted above about not considering tax distortions still applies. 23In the richer model of Besley and Persson (2009c), political reform that increased the inclusiveness of political institutions may achieve the same goal.
+30
+
+
+4 Final remarks
+In politics, history and sociology, state capacity is viewed as an important object of study. We have illustrated some simple ways of bringing the study of state capacity and its determinants into mainstream economics. In the development community, a lack of state capacity as manifested in weak states is often cited as a major obstacle to development. We have shown that low legal capacity can be conducive to lackluster economic growth (in Section 1) or might contribute (through wages) to the likelihood of civil war (in Section 2), and that lack of Öscal capacity can yield (through production distortions) low income (in Section 3). These observations make it essential to understand, therefore, where low state capacities comes from and all three sections discuss the factors that shape investment incentives. Our analysis also suggests an important complementarity between these two forms of state capacity. Such complementarity is a natural way to think about the clustering of institutions that appears to be a common feature of weak and strong states at di§erent levels of economic development. A few common themes emerge from our analysis in Sections 1 through 3. First, the level of economic development at a point in time a§ects policy outcomes, but also feeds dynamic state development. Second, realized and prospective shocks to resource rents and public-good preferences have both static and dynamic e§ects on policies, as well as state development. Third, we have made a distinction between circumstances where the state is mainly used to pursue common-interest goals and where it is mainly used to redistribute income, and showed how this distinction between common-interest and redistributive states help us understand why (threats of) external and internal conáict have opposite e§ects on the incentives to invest in state institutions. These themes, together with the complementarity of state capacities, help us understand why some states stay weak while others grow strong, and why we Önd weak states mainly at low levels of income. Although our theory has already helped us approach the data in novel ways, the model variations we have presented are very simple. To better understand the long-run forces of development, it would be valuable to add private capital accumulation and a full-áedged dynamic framework. Another natural extension would be to introduce and endogenize political institutions. Given the history of todayís developed states, it is a reasonable conjecture ñ in line with some work in political science ñ that demand for more representative government increases with state capacity. This suggests another
+31
+
+
+complementarity, between political and economic institutions, a possibility which deserves further study. Its simplicity notwithstanding, we view the research presented here as a Örst step towards disentangling some of the complex interactions between state capacity, conáict and development.
+32
+
+
+References
+[1] Acemoglu, Daron, [2003], ìWhy not a Political Coase Theorem: Social Conáict, Commitment, and Politicsî, Journal of Comparative Economics 31, 620-652.
+[2] Acemoglu, Daron, [2005], ìPolitics and Economics in Weak and Strong Statesî, Journal of Monetary Economics 52, 1199-1226.
+[3] Acemoglu, Daron, [2006], ìModeling Ine¢ cient Institutionsî, in Blundell, Richard, Whitney Newey, and Torsten Persson (eds.), Advances in Economic Theory and Econometrics: Proceedings of the Ninth World Congress of the Econometric Society, Cambridge University Press.
+[4] Acemoglu, Daron, Ticchi, Davide, and Andrea Vindigni, [2007], ìEmergence and Persistence of Ine¢ cient Statesî, forthcoming in the Journal of the European Economic Association.
+[5] Barro, Robert J., [1990], ìGovernment Spending in a Simple Model of Endogenous Growth,îJournal of Political Economy 98, 103-125.
+[6] Barro, Robert J., and Xavier Sala-i-Martin, [1992], ìPublic Finance in Models of Economic Growth,îReview of Economic Studies 59, 645-661.
+[7] Benabou, Roland, [1997], ìInequality and Growthî, NBER Macroeconomics Annual 1996, MIT Press.
+[8] Besley, Timothy and Torsten Persson, [2008a], ìWars and State Capacityî, Journal of the European Economic Association 6, 522-530.
+[9] Besley, Timothy and Torsten Persson, [2008b], ìThe Incidence of Civil War: Theory and Evidenceî, NBER Working Paper, No 14585.
+[10] Besley, Timothy and Torsten Persson, [2009a], ìThe Origins of State Capacity: Property Rights, Taxation and Politicsî, American Economic Review 99, 1218-1244.
+[11] Besley, Timothy and Torsten Persson, [2009b], ìRepression or Civil War?, American Economic Review, Papers and Proceedings, 99, 292297.
+33
+
+
+[12] Besley, Timothy and Torsten Persson, [2009c], ìState Capacity, Conáict and Developmentî, NBER Working Paper, No 15088.
+[13] Blattman, Christopher and Edward Miguel, [2009], ìCivil War,î forthcoming in Journal of Economic Literature.
+[14] Brewer, John, [1989], The Sinews of Power: War, Money and the English State, 1688-1783, Knopf.
+[15] Collier, Paul and Anke Hoe≠ er, [2004], ìGreed and Grievance in Civil Warî, Oxford Economic Papers 56, 563-595.
+[16] Cukierman, Alex, Sebastian Edwards and Guido Tabellini, [1992], ìSeignorage and Political Instabilityî, American Economic Review 82, 537-555.
+[17] Diamond, Peter and James Mirrlees, [1971], ìOptimal Taxation and Public Production: I Production E¢ ciencyî, American Economic Review 61, 8-27.
+[18] Fearon, James and David Laitin, [2003], ìEthnicity, Insurgency and Civil Warî, American Political Science Review 97, 75-90.
+[19] Hall, Robert and Chad Jones, [1999], ìWhy Do Some Countries Produce so Much More Output per Worker than Others?î, Quarterly Journal of Economics 114, 83-116.
+[20] King, Robert G. and Ross Levine, [1993], ìFinance and Growth: Schumpeter Might Be Rightî, Quarterly Journal of Economics 108, 717-37.
+[21] Lacina, Bethany Ann and Nils Petter Gleditsch, [2005] ìMonitoring Trends in Global Combat: A New Dataset of Battle Deathsî, European Journal of Population 21, 145ñ165.
+[22] La Porta, Rafael, Lopez de Silanes, Florencio, Shleifer, Andrei, and Robert Vishny, [1998], ìLaw and Financeî, Journal of Political Economy 106, 1113-55.
+[23] Levi, Margaret, [1988], Of Rule and Revenue, University of California Press.
+34
+
+
+[24] Lijphart, Arend, [1999], Patterns of Democracy: Government Forms and Performance in Thirty-Six Countries, Oxford University Press.
+[25] Mathias, Peter and Patrick OíBrien, [1976], ìTaxation in Britain and France 1715-1810: A Comparison of the Social and Economic Consequences of Taxes Collected for the Central Governmentsî, Journal of European Economic History 5, 601-650.
+[26] Migdal, Joel S., [1988], Strong Societies and Weak States: State-Society Relations and State Capabilities in the Third World, Princeton University Press.
+[27] Milgrom, Paul and Chris Shannon, [1994], ìMonotone Comparative Staticsî, Econometrica 62, 157-80.
+[28] Pagano, Marco and Paolo Volpin, [2005], ìThe Political Economy of Corporate Governanceî, American Economic Review 95, 1005-30.
+[29] Persson, Torsten, Roland, Gerard, and Guido Tabellini, [2000], ìComparative Politics and Public Financeî, Journal of Political Economy 108, 1121-61.
+[30] Rajan, Raghuram and Luigi Zingales, [2003], ìThe Great Reversal: The Politics of Financial Development in the Twentieth Centuryî, Journal of Financial Economics 69, 5-50.
+[31] Rice, Susan and Stewart Patrick, [2008], Index of State Weakness in the Developing World, The Brookings Institution.
+[32] Ross, Michael, [2004], ìWhat Do We Know about Natural Resources and Civil War?î, Journal of Peace Research 41, 337-356.
+[33] Sambanis, Nicholas, [2002], ìA Review of Recent Advances and Future Directions in the Quantitative Literature on Civil Warî, Defense and Peace Economics 13, 215-243.
+[34] Stasavage, David, [2007], ìPartisan Politics and Public Debt: The Importance of the ëWhig Supremacyífor Britainís Financial Revolutionî, European Review of Economic History 11, 123-53.
+35
+
+
+[35] Svensson, Jakob, [1998], ìInvestment, Property Rights and Political Instability: Theory and Evidence,îEuropean Economic Review 42, 13171341.
+[36] Tilly, Charles, [1985], ìWarmaking and State Making as Organized Crimeî, in Evans, Peter, Rueschemeyer, Dietrich, and Theda Skocpol (eds.), Bringing the State Back In, Cambridge University Press.
+36
+
+
+5 Appendix
+Proof of Proposition 2 Part 1 refers to a multiplicative upward shift of the wage function w( ); as this raises both w( 2) and wp( 2) for any given : Part 3 follows from @E( 2)
+@ = H 2(1 ) > 0; and part 4 from
+@E( 2)
+@ = (1 ) 2. Finally, part 5 refers to a multiplicative downward shift of either cost function L( ) or F ( ).
+Proof of Proposition 3 The relevant objective functions when s = H > 2; (10) and (12), are strictly decreasing in Is 1 and AOs 1; respectively.
+Proof of Proposition 4 First, observe that (by 11) the incumbent will set Is 1 = AI if:
+Os 1 ; 0 Os 1 ; AI Z (zs; s; s) AI 1 Os 1 ; AI :
+If Os 1 = 0; this condition holds by the deÖnition of Z. If Os 1 = Ao; the condition for Is 1 = AI can be written
+Z 1 AO; AI
+(AO; 0) (AO; AI ) AI .
+Since the expression on the right-hand side is smaller than Z by the Örst part of the inequality in Assumption 1, whenever Z (zs; s; s) Z it is optimal for I to set Is 1 = AI independently of what O does. Next, we show that if Z (zs; s; s) Z; so that Is 1 = AI ; then Os 1 = AO: From (13), this requires:
+AO; AI 0; AI Z AI 2 AO ,
+which is equivalent to Z Z. We also need to show that when Z < Z, then indeed Os 1 = 0. By (13), the condition is
+Z < AO
+2( (AO; 0) (0; 0)) .
+Evaluated at the left-hand side maximum Z; the condition becomes
+1 0; AI
+(0; 0) (0; AI) AI < AO
+2( (AO; 0) (0; 0)) ,
+37
+
+
+which is fulÖlled by second part of the inequality in Assumption 1. Moreover, second part of the inequality in Assumption 1 also implies Z > Z. Hence, the above argument rules out the possibility of an undefended insurgency and Proposition 4 follows.
+Proof of Proposition 7 To prove Proposition 7, Örst observe that:
+lJs = w pIs 2 (1 )
+[w (pIs) + w (pOs)] :
+Hence, for all pIs > pOs
+@yIs (pIs ; pOs )
+@pIs =
+("
+(1 ) lIs
+2 (1 ) + 1
+#
+(1 ) (k(pIs; pOs)) 1 wp pIs
+)
+=
+("" 1
+2
+w pIs
+[w (pIs) + w (pOs)]
+#
++1
+#
+(1 ) (k(pIs; pOs)) 1 wp pIs
+)
+>0
+and
+@yIs (pIs ; pOs )
+@pOs =
+(
+(1 ) lIs
+2 (1 ) (1 ) k(pIs; pOs) wp pOs
+)
+=
+(" 1
+2
+w pIs
+[w (pIs) + w (pOs)]
+#
+(1 ) k(pIs; pOs) wp pOs
+)
+<0:
+Thus, there is a conáict of interest between creating property rights for the ruling group and the non-ruling group. In general, we can write the part of the governmentís objective function that depends upon (pIs; pOs) as:
+V Is pIs ; pOs ; = yIs (pIs ; pOs ) + yOs (pIs ; pOs ) ,
+where
+= ( ; )=
+( 1+ ( 2 1)
+( 2 ) if 2
+1 otherwise .
+It is easy to check that ( ) is decreasing in ; and also decreasing in if 2. Moreover, as ! 1, ! 1 and as ! 0, ! 1 (independently of the value of ). In general, the condition for choosing psJ is:
+@yIs (pIs ; pOs )
+@psJ
++ @yOs (pIs ; pOs )
+@psJ S 0 .
+38
+
+
+Observe that
+@ yIs (pIs ; pOs ) + yOs (pIs ; pOs )
+@pJs = (1 ) k(pIs; pOs) wp pJs > 0 :
+From this, we conclude that as ! 1 and ! 1, pIs = pOs = s, i.e., production e¢ ciency obtains, since the incumbent maximizes total income yIs(pIs; pOs) + yOs(pIs; pOs): Moreover, as ! 0 and ! 1 the incumbent maximizes its own groupís income yIs(pIs; pOs), such that pIs = s and pOs = 0. The existence of the critical threshold now follows from the intermediate value theorem, given that ( ) is continuous in for any value of . When = L the threshold value is given by 1
+^L 2 [1; 1) with ^H deÖned by:
+^H = 1 ^L
+^L
+H
+2 +1
+1
+< ^L;
+since H > 2, as claimed.
+Proof of Proposition 8 To prove the proposition, we note some useful preliminaries. It is straightforward to check that the income function is:
+y^Js ( s; ) =
+"
+(1 ) (1 ) + !sJ psJ ( s; )
+k^ ( s; )
+#
+k^ ( s; ) ,
+where k^ ( s; ) = k(psJ ( s; ) ; pOs ( s; )). Observe that:
+y^Js ( s; ) + y^Os ( s; )
+2 = (1 ) k^ ( s; ) :
+Now let kH = k^( s; s) > k^ ( s; 0) = kL = kH=2.
+The incumbent maximizes the expected period 2 beneÖts
+( 2; 2) = (1 )
+8<
+:
+1+ 2 H
+2 1 y^I2 ( 2; H ) +
+2H
+2 y^O2 ( 2; H ) +
+(1 ) y^I2 ( 2; L) + 2y^O2 ( 2; L)
+9=
+;
++
+8<
+:
+1+ 2 H
+2 1 y^O2 ( 2; H ) +2 H
+2 y^I2 ( 2; H ) +
+(1 ) [1 2] y^O2 ( 2; L)
+9=
+;
+39
+
+
+less the investment costs in period 1. As ! 0;the marginal beneÖts with regard to the two choice variables are :
+( 2; 2) = (1 2 ) y^O2 ( 2; L)
+and
+( 2; 2) = (1 ) y^I2 ( 2; L) + [ + 2 (1 2 )] y^O2 ( 2; L) .
+For 1=2 ; it is clear that ( 2; 2) < 0, so that 2 = 1. Moreover, since 1 < ^L then as ! 1=2
+( 2; 2) = (1 ) y^I2 ( 2; L) + [ 2 (1 2 )] y^O2 ( 2; L)
+=1
+2 y^I2 ( 2; L) + y^O2 ( 2; L)
+= (1 ) [kL] 1 wp ( 2)
+2 (1 ) = 2 (1 ) [w ( 2)] 1 wp ( 2)
+< 2 2 (1 ) [w ( 2)] 1 wp ( 2) = (1 ) [kH ] 1 wp ( 2)
+(1 )
+where the last expression is equal to ( 2; 2) when 2 > ^L. This, along with the fact that the state capacity investments are complements, proves the result.
+40

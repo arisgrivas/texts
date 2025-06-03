@@ -1,0 +1,990 @@
+Greece and the Inter-War Economic Crisis
+Mark Mazower
+https://doi.org/10.1093/acprof:oso/9780198202059.001.0001
+Published: 1991 Online ISBN: 9780191675126 Print ISBN: 9780198202059
+Search in this book
+CHAPTER
+https://doi.org/10.1093/acprof:oso/9780198202059.003.0006 Pages 143–176
+Published: August 1991
+Abstract
+Keywords: Greek monetary policy, devaluation, gold standard, financial crisis, Venizelos
+Subject: Economic History, European History, Modern History (1700 to 1945)
+Collection: Oxford Scholarship Online
+6 The Battle for the Drachma 
+MARK MAZOWER
+The shock waves from the European nancial debacle of 1931 reverberated through the Balkans. The
+collapse of existing international monetary institutions on the heels of the British sterling devaluation
+that autumn dealt the decisive blow to Liberal con dence. It led to a serious nancial crisis in Greece
+that eventually pushed her o the gold standard. By staking so much on the outcome of his self
+proclaimed ‘battle for the drachma’, Venizelos ensured that his failure to prevent devaluation would
+precipitate a serious political crisis as well. His ebullient rhetoric would come to sound increasingly
+hollow, and public opinion would swing towards the view expressed some time later by Dimitrios
+Maximos, a leading anti-Venizelist, that ‘his incorrigible optimism had led him and the country into a
+dreadful impasse’. This chapter charts the course of this stage of the crisis. It begins by sketching the
+background to existing monetary arrangements in Greece. For relations between the new central bank
+— the Bank of Greece — and the commercial banks left much to be desired. And as a result, the gold
+standard operated in Greece in a way which was not to be found in any textbook on banking theory, and
+which would have rather unexpected e ects on the impact of the nancial crisis there.
+The bourgeois social order in Greece, and in the whole world too, is today undergoing its severest
+trial.
+(Venizelos, March 1932)
+Joining gold in 1928 had heralded the reincorporation of the Greek economy into the international monetary
+order, and by opening the way for foreign capital to ow into the country had lent prestige to the Liberal
+Government, and credibility to its ambitious policies of economic development. The e ort to use these
+funds to turn Greece into a synchronon kratos (modern state) had continued through the commercial crisis,
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+accompanied by increasingly unconvincing government denials of any serious economic problems ahead.
+But though Liberal spokesmen shrugged o the di culties of currant growers and tobacco producers, they
+too were eventually forced to acknowledge the unprecedented nature of the international depression.
+The shock waves from the European nancial debacle of 1931 reverberated through the Balkans. The
+collapse of existing international monetary institutions which followed on the heels of the British sterling
+devaluation that autumn dealt the decisive blow to Liberal con dence. It led to a serious nancial crisis in
+Greece that eventually—after a winter spent vainly ghting the ‘battle for the drachma’—pushed her o
+the gold standard.
+This was a turning-point. Before the nancial crisis it had seemed that the funds for national economic
+development could be found abroad; after it, they would have to be obtained at home. The devaluation of the
+drachma and default on her foreign debt e ectively barred Greece from Western capital markets, which
+were anyway no longer able to go on lending abroad except on a very reduced scale. Because the use to which
+domestic capital was put would depend at least in part on the decisiveness of the scal and monetary
+policies of the state, the outcome of the nancial crisis marked a watershed in the relationship between
+state and economy in Greece.
+Furthermore, by staking so much on the outcome of his self-proclaimed ‘battle for the drachma’, Venizelos
+ensured that his failure to prevent devaluation would precipitate a serious political crisis as well. His
+ebullient rhetoric would come to sound increasingly hollow, and public opinion would swing towards the
+view expressed some time later by Dimitrios Maximos, a leading anti-Vcnizelist, that ‘his incorrigible
+optimism had led him and the country into a dreadful impasse’.
+p. 144
+1
+This chapter will chart the course of this second stage of the crisis. We should begin by sketching in the
+background to existing monetary arrangements in Greece. For relations between the new central bank—the
+Bank of Greece—and the commercial banks left much to be desired. And as a result, the gold standard
+operated in Greece in a way which was not to be found in any textbook on banking theory, and which would
+have rather unexpected e ects on the impact of the nancial crisis there.
+The Gold Standard in Practice
+The smooth operation of the gold standard depended in theory upon several monetary mechanisms. The key
+instruments available to a central bank under the gold standard regime were the discount rate and open
+market operations. The Bank of England, for example, used movements in the bank rate both to control
+domestic credit and to in uence short-term capital ows in and out of the country. By open-market
+operations, involving the purchase or sale of government securities in the open market, the central bank
+was in a position to regulate the supply of money. Flence, when its reserves fell, it could bring about a
+contraction in the money supply by the latter method, or attempt to build up its reserves by raising the bank
+rate.
+These were the bare bones of the system which had operated in England before 1914, or rather, which those
+men responsible for the international stabilization policies of the 1920s believed had existed then. For as de
+Ceceo comments in a recent study:
+The international monetary system, as it developed in the course of our period [i.e. 1890–1914] did
+not however possess—except to a very small degree—those features which were attributed to it by
+a bevy of postwar economists: men who were really seeking a magic formula to resurrect the
+prewar world from its ruins.
+p. 145
+2
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+After 1928, when the establishment of a new central bank linked the drachma with gold, this system was
+supposed to operate in Greece too; but a number of di culties soon became apparent. The commercial
+banks were hostile to the Bank of Greece, as they had been since its inception, regarding it as a troublesome
+upstart. For their part, the authorities at the Bank were under few illusions about the di culties involved in
+bringing the commercial banks to accept the Bank’s authority over them. The Bank was in a vulnerable
+position, handicapped by the terms of its foundation—for it was saddled with large quantities of
+unrealizable government debt, whilst its gold and foreign exchange holdings were barely adequate to
+maintain the reserve ratio.3
+The commercial banks were arrayed behind its great rival, the National Bank of Greece, formerly the
+country’s ‘uno cial’ central bank, which had, as a consequence of the terms of the Geneva Protocol,
+increased its already considerable domination of the domestic banking system. Venizelos himself described
+this situation as an ‘economic anomaly’. League members in Geneva agreed: at a meeting of the League of
+Nations Financial Committee (LNFC) in May 1931 there had been lengthy discussion of the ‘enormous
+strength’ and ‘practical monopoly’ exerted by the National Bank, and one speaker had declared that ‘the
+situation might become dangerous, and if the Bank of Greece is not strong enough to cope, the authority of
+the State should be called in to compel the National Bank not only to reduce its portfolio of drachma bills
+and foreign exchange, but also to rediscount bills with the Bank of Greece’.4
+In October 1928—just six months after the Bank of Greece opened its doors—the leading commercial banks
+established the Union of Greek Banks: this was intended not only to help reduce competition between
+members, but also to present a common front against the central bank. The Union waged an e ective
+campaign against proposals to compel the commercial banks to keep obligatory deposits with the central
+bank—a measure which both the Bank’s authorities and their supporters in Geneva regarded as
+necessary. In the spring of 1931, Parliament debated the introduction of such measures, as part of a bill ‘On
+Limited-Liability Companies and Banks’—designed to revise company law to take account of the enormous
+changes that had occurred over the previous decade, and in particular to provide greater protection for
+shareholders and bank depositors. But through the Union the commercial banks succeeded in weakening the
+force of the bill considerably. Whereas the Bank of Greece, drawing on views Keynes had recently published
+in A Treatise on Money, advocated that the commercial banks be compelled to maintain a liquidity ratio of at
+least 15% of sight and savings deposits, 7% of which was to be deposited with the Bank, the law as it was
+eventually passed in July 1931 stipulated only a 12% minimum liquidity ratio, which did not have to be held
+at the central bank. If commercial banks did choose to hold deposits at the Bank of Greece, these only
+needed to amount to 7% of their sight and savings deposits.
+p. 146
+5
+Worse still, the new Bank of Greece had very restricted control over foreign exchange movements. Not only
+did the commercial banks transact business in foreign exchange within Greece independently of the central
+bank. They also attracted much of the exchange earned through either exports or invisibles to their
+branches abroad; indeed, to facilitate this, the National Bank had founded a branch o ce in New York in
+1929. Because of the great importance of invisibles such as emigrant remittances to the Greek balance of
+payments, the central bank’s inability to acquire foreign exchange from these sources would weaken its
+control of events once the crisis became more acute.
+Neither of the two traditional instruments of British domestic credit policy—open-market operations and
+changes in the o cial discount rate—worked with the same e cacy in the Greek context. The new Bank’s
+limited capacity to rediscount bills, combined with the fact that short-term government stock was not
+issued in Greece, meant that open-market operations were not feasible. At the same time, the commercial
+banks, despite the pressures on them described earlier, were in a considerably healthier nancial position
+than the Bank of Greece; they ignored its advice, and still had su cient funds to override changes in the
+Bank’s discount rate, which was thus of limited value as an instrument of credit policy. Nor did
+p. 147
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+movements in this rate a ect capital ows, for these were motivated by considerations of security rather
+than interest rate di erentials. In short, the Bank of Greece found it had responsibilities but no power.
+The net out ow of foreign exchange was temporarily reversed during 1930, thanks to loan proceeds, but
+heavy net out ows were resumed in the last quarter of the year and continued through 1931. As its exchange
+reserves diminished, the Bank should theoretically have attempted to contract the quantity of notes in
+circulation. In fact it ignored the textbooks and did the opposite: in a bid to establish its control over the
+commercial banks it began to compete with them directly, expanding its network of provincial branches and
+o ering low interest rates in key local markets such as Kalamata and Patras, where it was reported to have
+gained 80% of the export business. From Patras, a rival bank manager reported: ‘The Bank of Greece
+embarked upon an open competition towards the other banks, and more especially the National Bank of
+Greece, with the sole object of acquiring a commercial clientele under the lure of rates and excessive credit
+facilities...A cut-throat competition was started between these two banks into which the other local banks
+were gradually dragged...Naturally the local traders have made the best use of this wild competition.’6
+Such a policy may have been useful in forcing the commercial banks to recognize the newcomer’s authority,
+but it made the task of defending the drachma more di cult as balance of payments pressures built up. This
+was exacerbated by the rather apathetic stance of its senior management, especially its Governor,
+Alexandros Diomedes. H. C. Finlayson, the adviser appointed by the League of Nations to the Bank, warned
+Venizelos at a meeting in 1930 that ‘the Bank of Greece, unlike all the other Central Banks in Europe, has
+been content to play a purely passive role. It has not raised its discount rate nor tried in any way to cut back
+its advances.’ When these problems were extensively debated at the meeting of the League of Nations
+Financial Committee on 7 September 1931, Deputy Governor Emmanouil Tsouderos defended the Bank
+against accusations that orthodox monetary policies were not being wholeheartedly applied, declaring that
+‘in the present conditions, the rigid observation of the strictly orthodox principles governing the conduct of
+central banks may lead to results contrary to those which were desired’.
+p. 148
+7
+Table 6.1 Net foreign exchange movements at the Bank of Greece, 1928–1932 (quarterly, in million drachmas)
+Source: K. Kostis, Oi trapezes kai i krisi, 1929–1932 (Athens, 1986), 139.
+1928 1929 1930 1931 1932
+1st quarter — −54.7 +289.5 −242.3 −680.0
+2nd quarter — −248.3 −50.3 −290.7 +477.7
+3rd quarter +37.0 −453.9 +260.5 −13.7 +71.9
+4th quarter +284.6 −357.5 −476.1 −735.0 +32.3
+Net annual movement +321.6 −1,114.4. +23.6 −1,281.7 −98.1
+But Venizelos’s administration appeared oblivious to the weakness of the country’s balance of payments
+position. By the spring of 1931, the fruits of the Liberal Government’s programme for economic
+reconstruction were beginning to appear and the Government had just succeeded in oating a second Public
+Works Loan abroad. The last three budgets had all o cially ended in surplus, and it was expected that the
+1931–2 Budget would too. Government spokesmen declared that Greece had managed to avoid the worst
+e ects of the international crisis, and predicted that the public works programme would be completed as
+planned. The Finance Minister, George Maris, wound up the debate on the 1931–2 Budget with an attack on
+8
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+the ‘pessimists’ who were always inclined to foresee doom, and defended the Government’s ‘justi ed
+optimism’ in the ability of the Greek economy to withstand the crisis.9
+The Government’s insistence on branding all critics of its economic policy as pessimists underlined its own
+limited understanding of Greece’s vulnerability to unfavourable trends in the international economy.
+Opposition attacks on the Government, it is true, were largely misdirected, concentrating on the high level
+of taxation and extravagant public spending—arguments countered by the Government’s proclaimed
+budgetary successes—rather than on the public debt position and Greece’s dependence on capital in ows.
+Yet outside Parliament there were warnings of what was to come.
+Two days after Maris closed the budget debate, Professor Xenophon Zolotas gave a speech to the
+Thessaloniki Chamber of Commerce, in which he drew attention to the worrying growth in the public debt:
+‘rather than being curtailed, in order that we may arrive at a healthy state of a airs, on the contrary,
+through perpetual borrowing we are continually burdened, and there is necessarily a worsening of the
+existing situation, which holds a danger of throwing the domestic economy into crisis if this policy is not
+brought to a timely end’.
+p. 149
+10
+At the end of June, Finlayson sent Venizelos a report on the preceding nine months, and accompanied it with
+the warning that ‘there is not the least doubt that there is a serious lack of economic equilibrium still
+persisting in Greece, and that unless remedial measures be taken, a serious situation might develop’. The
+1931 Loan had, in fact, only been oated that spring with the greatest di culty. Three-quarters of the issue
+had been left with the London underwriters and Montagu Norman, the Governor of the Bank of England,
+had made it clear to the Greek authorities that London could no longer continue lending on ‘the normal
+scale’.
+11
+12
+News of the German nancial crisis over the summer nally changed the mood on the Athens Stock
+Exchange. Government bonds, whose price had risen in the rst half of the year, largely owing to the
+introduction of tax concessions, and heavy support buying by the major banks, peaked in June. Their fall
+was not so steep as that of industrial shares, but more signi cant, since these bonds had been regarded as
+safe investments by the commercial banks, who had increased their holdings of them substantially over the
+previous 10 months. Outside the stock-market, further nancial indicators suggest that conditions were
+tightening from June onwards. Money market rates rose from 8% to over 11% in the period July-September.
+The steady withdrawal of deposits from the commercial banks continued, though it is worth noting that a
+rapid withdrawal of drachma deposits was partly o set by a rise in foreign exchange deposits from 3,998.7
+to 4,222.8 million drs.—a trend which suggests that people were worried more about the stability of the
+drachma than about that of the banking system itself.
+Nevertheless, the aggregate trend in deposits was downwards, and the banks, nding it di cult—despite
+the rise in interest rates—-to liquidate their commercial advances, were forced to draw on their reserves.
+The result was a gradual fall in their liquidity ratio, but the position of the commercial banks at this stage
+was certainly not critical, and aroused little public disquiet. Banks were able to meet demands for foreign
+exchange either out of their own reserves, or by purchasing exchange from the Bank of Greece. In this way,
+they o -loaded the strains of the foreign exchange shortage on to the central bank.
+p. 150
+13
+Faced with a steady out ow of exchange, the authorities of the Bank of Greece had foreseen problems
+during the summer months. Towards the end of July, Tsouderos predicted that the coming weeks would be
+critical. As the cover ratio slid down towards the 40% legal minimum, it was decided to appeal to the Bank
+of international Settlements (BIS) for emergency credits. The BIS had already been involved in rescue work
+of this sort; in May and June it had arranged international credits to shore up the Credit-Anstalt in Austria.
+On 10 September, Tsouderos was instructed to request a loan of £1 million sterling.
+14
+15
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+The reply came back from Basle one week later: the BIS was unable to agree to the Bank of Greece’s request,
+in the light of its inability to control the activities of Greek commercial banks. Acknowledging the
+di culties the Bank of Greece faced in trying to restrict the note circulation, McGarrah, the BIS President,
+nevertheless observed that the Bank would have made a better impression if it had made greater e orts to
+force the commercial banks to co-operate: ‘However sound the policy of the Bank of Greece may be, we
+would face great di culties in approaching other central Banks, insofar as the commercial banks in Greece
+appear to be following a di erent policy.’ One of the chief di culties, the letter went on, lay in the foreign
+exchange deposits held by the commercial banks. How could foreign bankers be expected to risk their own
+exchange holdings, when there were still foreign currency deposits within Greece unused by the Bank of
+Greece?
+16
+A few days earlier the same points had been made by the League of Nations Financial Committee, which had
+advised Governor Diomedes of the need to discourage commercial banks from accepting deposits in
+foreign currency, and also suggested tentatively that the discount rate be raised ‘in the near future’ and that
+the Bank of Greece restrict short-term borrowing abroad.
+p. 151
+17
+Thus it is clear that the position of the Bank by the third week of September had become exceptionally
+strained. After the BIS reply, there was no hope in the near future of obtaining assistance abroad, and to
+have sought help from the commercial banks within Greece would have publicized the Bank’s plight, and
+strengthened the hand of its opponents. Unable to restrict the money supply, the Bank was forced to the
+expedient of transferring government deposits from sight to time accounts in order to maintain the reserve
+ratio.
+The Onset of the Financial Crisis
+In the early autumn, a sense of complacency was still current in government and business circles. To this
+must be attributed the lack of urgency which marked the initial response to the sterling crisis in London.
+One of the nancial weeklies reported on 20 September that ‘State bonds will certainly not fall far or long,
+given the healthy state of government nances, and that the whole of our economy appears to be in a
+satisfactory condition...Once the unease is past which has been caused in Athens by the tempest on the Stock
+Exchange in London, Greek shares will quickly and easily again nd their correct level, that which in the last
+word is determined by the true state of a airs.’18
+But the true state of a airs was to come as something of a shock to many people. On the day the above
+article appeared in Athens, the decision was taken in London to abandon the gold standard. And the very
+next day a series of meetings was held in Athens to determine whether Greece should follow the British
+example.
+At this point a brief word may be useful on the nature of Greece’s economic ties in this period with Britain.
+Commercial relations were of secondary importance: in the second half of the 1920s only 12% of Greek
+exports went to Britain and only 13% of imports came from her. Her previously dominant position in Greek
+trade was disappearing: Germany took more Greek exports, the United States provided more imports.
+British economic in uence in Greece was primarily nancial. London was the essential source of support for
+Greek loans, and had been drawn upon to an increasing extent over the previous decade, owing to the
+borrowing requirements of the post-war reconstruction programme.
+p. 152
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+Table 6.2 Greeceʼs trading partners (percentages for the average of trade values in 1925–1929)
+Source: LN, Balance of Payments and Trade: 1927–29 (Geneva, 1930), 309, 331.
+Country Greek exports Greek imports
+Germany 22.1 8.2
+USA 21.0 16.4
+Italy 19.0 6.9
+UK 12.2 13.4
+France 5.9 7.7
+Others 19.8 47.4
+TOTAL 100.0 100.0
+In return for credit Britain acquired an ability to intervene in Greek economic a airs through two bodies
+which supervised Greek nances. One was the International Financial Commission (IFC) which in 1931 had a
+British chairman, as well as French and Italian representatives. The other was the League of Nations
+Financial Committee which had begun to monitor economic, and especially monetary policy in Greece at its
+thrice-yearly meetings. Sir Otto Niemeyer, a director of the Bank of England, was also a member of the
+Committee, and it was under that body’s aegis that he was shortly to go to Greece to write a major report on
+the state of Greek public nances.
+It was no accident that the Bank of England should be represented in this way on the Committee. Greece, like
+most small countries at that time, was on a gold exchange standard rather than the gold standard proper. In
+other words, the reserves backing the drachma were not kept exclusively in gold, but rather to a large extent
+in foreign convertible currencies. In the Greek case they were kept mostly in sterling, which till 1931 had
+been deposited with the Bank of England. At the time of the crisis, three-quarters of these sterling deposits
+had been transferred to Paris and New York. Yet neither of the latter two centres rivalled Britain’s
+involvement in Greek a airs. Over half of the Greek foreign debt was held by British subjects, and it was
+this fact which in the last analysis underlay the depth of British interest in the country.
+p. 153 19
+At the initial meetings called by Venizelos, to which he invited bankers and government o cials, powerful
+voices urged continued adherence to the gold standard. One reason was the authorities’ over-con dence,
+re ected in Diomedes’s prediction on the night of the 21st, that Britain’s troubles would be ‘temporary’ and
+that Greece, though she would be a ected, would be less severely hit than other countries.
+20
+The commercial banks, too, had good reason to resist a devaluation of the drachma. They had large foreign
+exchange liabilities, and faced heavy losses if forced to meet these after such a move. Alexandros Koryzis,
+the Deputy-Governor of the National Bank—a man whose opinion was valued highly by Venizelos at this
+time—argued strongly in this direction. Moreover, devaluation would also be likely to cause the prices of
+Greek government securities to plummet, reducing the overall value of the banks’ assets.21
+For the Government too the economic arguments militated against devaluation. Abandoning the gold
+standard would dramatically increase the drachma cost of servicing the foreign debt. General elections were
+due within a year: having constantly pledged the Government’s commitment to defending the ‘national
+currency’ and having frequently praised its success in doing so, Venizelos must understandably have had
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+qualms about throwing his whole achievement into question. One should bear in mind that before
+stabilization in 1928, Greece had passed through a period of in ation, economic insecurity, and political
+turmoil; it was natural to fear a return to those conditions if stabilization was abandoned—and devaluing
+the drachma was regarded as the rst step in that direction.
+The most outspoken critic of remaining on gold was Kyriakos Varvaressos, at that time an adviser to the
+Bank of Greece, and one of the outstanding economists and administrators of the inter-war period. A
+member of that generation which had begun to shape public a airs in Greece under Venizelos before 1914,
+Varvaressos was a German-trained university professor who had remained aloof from party politics.
+Unfortunately he found himself at this critical moment far from the frenetic atmosphere of Athens. From
+London, where he was meeting o cials from the Bank of England, he telegraphed his disapproval: both he
+and Niemeyer, he wrote, regarded the decision to remain attached to gold as ‘hasty and ill-considered’, and
+he warned that despite o cial announcements from the British Government, bankers expected sterling to
+remain o gold for well over six months. His advice went unheeded. The drachma was linked to the dollar,
+which remained on gold, in place of sterling; apart from a prohibition on dealings in sterling, no exchange
+restrictions were imposed.
+p. 154
+22
+Varvaressos’s forebodings were soon justi ed. Already on 22 September, panic selling on the Athens Stock
+Exchange had forced it to close. A run now began on the foreign exchange holdings of the Bank of Greece,
+picking up speed as the week progressed: on the 21st it lost $194,660, the next day $432,573, the day after
+that $726,568. By the end of the week its losses totalled $3.6 million. Combined with other losses she had
+sustained as a result of sterling’s depreciation, this drain forced the Bank into the humiliating position of
+having to borrow $5.5 million from the NBG and, on the 28th, to announce restrictions on foreign exchange
+business. Finlayson, the League adviser to the Bank, had recommended such action the previous Tuesday
+(22 September) but had been overruled by Diomedes.23
+There was widespread criticism of the manner in which the authorities had handled the crisis. In the Press,
+expressions of con dence that the crisis would be short-lived soon gave way to accusations that
+Government action had been inept and ine ectual; not only had it permitted the unrestricted sale of dollars,
+but its mistaken prohibition on dealings in sterling had caused the Bank to forgo a further £ 1 million
+sterling o ered to it by panicking sellers. Once again the National Bank had been obliged to bail the
+Government out.
+Attempting to allay the general disquiet, Venizelos gave a speech on the 27th, in which he rea rmed that
+monetary stability was a prerequisite for the economic recovery of the country; the productive works would
+go ahead as planned with the aid of foreign credits which, he assured his audience, would certainly be
+forthcoming. This was Venizelos’s optimism at its most far-fetched. He insisted that the drachma was
+stronger than the dollar and indeed stronger than the French franc too! Few countries could match Greece’s
+achievement of balancing the budget three years in a row,. He predicted that the budget for the coming year
+would also end in balance, and expressed faith in the stability of Greek nances. The possibility that there
+might be di culties in nding funds to continue the productive works was raised, only to be dismissed:
+‘The pessimists will say: he talks about productive works—where’s he going to get the money for them? I
+promise you they will be completed as planned. It would be a catastrophe analogous to abandoning the gold
+standard if we could not nish them. We will surely nd abroad the few millions which we need...’.
+p. 155
+24
+In reality the British crisis had shaken the Prime Minister deeply. He believed it was vital that the Labour
+Party should lose the forthcoming British election; otherwise it would mean ‘the end of today’s capitalist
+democratic order. Britain would sink to a second-rate power, and that would be disastrous for mankind,
+since the world required leadership and only Britain could provide it.’ For Greece, abandoning the gold
+standard meant at the same time the end of the programme of economic reconstruction. And if that
+happened, the refugee question would reappear in an acute form. So he, and many others, believed.
+25
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+In a blatant attempt to nd a scapegoat for the mishandling of the September crisis the Liberal premier
+engineered the resignation of his loyal supporter, Alexandras Diomedes, charging that he had failed to
+enforce exchange restrictions with su cient rigour. The result was to leave the Bank leaderless at a critical
+juncture; and as the politicians fought over the nomination of Diomedes’s successor its prestige took a dive.
+The Governorship was o ered rst to the Liberal Andreas Mikalakopoulos, whose political ambitions
+Venizelos mistrusted, and then to Koryzis and to Dimitrios Maximos, a leading Populist and former banker.
+The rst two candidates turned it down. And despite being favoured by Venizelos, Maximos was ruled out
+when shareholders voted instead for Diomedes’s deputy, Tsouderos. Although Tsouderos’s ties to the
+Liberal Party were close, he quickly realized that these would not be enough to secure either his own
+position or that of the Bank of Greece. Venizelos’s feelings towards him were lukewarm. Maximos, after his
+rejection, began to step up his attacks through the anti-Venizelist Press. Underlining the bad feeling
+which existed between the new central bank and the commercial sector, the senior management of the
+National Bank termed Tsouderos’s appointment a ‘national misfortune ’.
+p. 156
+26
+For the new Governor and his colleagues, this was a period of ux and improvisation. The restrictions which
+had come into force on 28 September, supplemented by others on 8 October, were not only a sign of the
+Government’s belated recognition of the gravity of the crisis; in reality they marked the beginning of the
+end of the gold standard in Greece. The Bank of Greece was released from its obligation to exchange its
+banknotes for gold or foreign currency. The sale of exchange was only permitted in the case of ‘necessary’
+imports, the criterion for which grew progressively tighter over time: at rst only luxury imports were
+prohibited; then only industrial raw materials and foodstu s were permitted; nally foodstu s only. A
+special committee was set up to examine all applications for foreign exchange. Greek exporters were obliged
+to surrender their earnings to the central bank, from whom they received drachmas at the o cial rate. The
+export of capital from Greece was forbidden.
+27
+The uncertainty and experimentation in o cial policy-making can be seen to good e ect in the monetary
+authorities’ handling of interest rates. The central bank was beset, on the one hand, by the League of
+Nations Financial Committee, which had advocated raising the discount rate to 15% or 20%, and on the
+other, by domestic industrialists and merchants, who attacked any upward movement in the rate as
+in icting further damage upon the domestic economy. On 26 September, the discount rate was raised from
+9% to 12%. This belated action had no e ect on the demand for exchange, which remained strong after the
+introduction of restrictions. Nor did it stem the ight of capital. But perhaps its function was intended to be
+more symbolic than practical, aimed at de ecting criticism at the forthcoming LNFC meeting, where, as the
+message from the BIS had made plain, o ers of assistance would depend upon potential lenders being
+satis ed that proper banking practice was being observed. On 27 September, Venizelos had declared that he
+was prepared to see the rate rise to 20% or even 50%, if the safety of the drachma was at stake; but he had
+come in for criticism from business circles for this remark. Barely one month had elapsed before it was
+lowered again to 11% for reasons which remain obscure. The most likely explanation is that the move
+represented an attempt by the newly elected Tsouderos to win support from the business community. At the
+beginning of October a letter had been sent to Venizelos by three in uential organizations of industrialists,
+expressing concern at the consequences of any further tightening of credit. The Prime Minister was asked to
+request the banks not to withdraw funds from commerce and industry. It was suggested that providing
+further tax relief on capital assets would encourage the repatriation of Greek capital. Venizelos’s reply was
+non-committal, provoking further outbursts at the October general meeting of the Athens Chamber of
+Commerce against his Government’s over-restrictive credit policy.
+p. 157 28
+29
+In fact it is doubtful whether the business men’s complaints about the tightness of credit were justi ed. The
+position of the commercial banks remained surprisingly stable in the last quarter of 1931. Drachma deposits
+actually increased by 3 %. Deposits in foreign currencies were provisionally frozen from 29 September,
+though it is true that the banks must have been anxious at the prospect of losses when these were unfrozen
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+again. There was evidence of only a slight contraction of credit, bills and advances together falling by less
+than 3%. The central bank, despite a 19% fall in its gold holdings, actually increased its drachma advances
+by 138 million drs., an increase of 85% on the September gure. In the autumn of 1931, then, there was no
+severe curtailment of credit. Undoubtedly the banks were worried about the future; many of their assets
+were either unrealizable or else badly reduced in value. But they were able to improve liquidity by selling o
+300 million drs. of their holdings of gold national loans; for them, the real squeeze did not arrive until early
+1932.30
+It quickly became obvious, however, that whilst the domestic money supply was little a ected, the
+measures introduced by the Government were quite insu cient to prevent the Bank of Greece’s reserve
+from draining away. In the nal quarter of the year there was a net out ow of 735 million drs., more than
+double that which occurred in 1929 in the wake of the Wall Street crash. The Bank’s purchases of exchange
+in December were over 700 million drs. down on the same period the previous year and the smallest
+monthly purchase since the opening of the Bank in May 1928.
+p. 158
+Uncertainty about future exchange rate policy caused a postponement of export orders. At the same time
+exporters were unwilling to surrender exchange at the o cial rate when black market rates were much
+higher. Another problem was that remaining on the gold standard had encouraged importers to keep stocks
+high, since devaluation would increase import prices. The Bank of Greece, wishing to keep down the cost of
+living by selling exchange at the o cial rate, found import demand remaining strong. In its desire to
+maintain the value of the drachma, the Bank thus found itself pursuing a policy which worsened the trade
+de cit and increased its own di culties. To preserve the ction that the reserve ratio was still above the
+40% mark, the Bank moved a number of accounts from sight to time deposits, where they were not counted
+against the reserve for the purpose of computing the reserve ratio.
+In early December, Tsouderos presented Venizelos and the Finance Minister, Maris, with a memorandum in
+which he examined movements in the Bank’s reserves since its foundation. Referring to the current crisis he
+observed that ‘we do not believe that it is realistic to express the hope that by the e orts of the State and the
+Bank of Greece alone, we can balance our external accounts and at the same time avoid the gradual erosion
+both of our remaining disposable funds in gold abroad, and of our exchange’. It was, according to
+Tsouderos, necessary for the commercial banks to be made to surrender their foreign exchange in return for
+the equivalent in drachmas. In this way the central bank would tighten its control of the available exchange
+within Greece. To Tsouderos it was surely clear that the crisis could have one of only two possible outcomes
+for the Bank—either abolition or increased powers over the commercial banks.
+31
+But of course the commercial banks were strongly opposed to any legislation which increased the Bank of
+Greece’s control over them. In the Press their supporters renewed their attacks on the Bank, and called for
+its dissolution. Maximos, at that time economic adviser to the Populist Party, published an article in which
+he proposed that the central bank be amalgamated with the National Bank. Similar suggestions had gained
+wide currency in preceding months, but this was the rst time they had been publicly expressed by a gure
+of such prestige. Maximos’s hostility to the Bank had clearly not been lessened by Tsouderos’s actions as
+Governor. It was, in his view, incapable of functioning as an independent institution. As events had shown,
+it could not survive without the support of the National Bank, and this fact ought to be recognized.
+32
+p. 159
+The article in which his proposed reform of the Bank appeared described a package of measures for dealing
+with the crisis. The Bank reform was not the most controversial of these. To keep Greece on the gold
+standard Maximos urged two further measures: rstly, the drawing up and application of a comprehensive
+economic policy; and secondly, the declaration of an immediate suspension of all foreign debt payments, in
+order to save the Bank of Greece’s reserve.
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+Both proposals ran contrary to current government policy. In Parliament ministers insisted that because of
+the unpredictable way in which the crisis was evolving, it was best to introduce temporary measures, as the
+Government had done, rather than an overall plan which might have to be scrapped as circumstances
+changed. As Venizelos announced after meeting Maximos and rejecting his proposals, Greece was waiting
+for the Great Powers to co-operate in a strategy for international recovery, and was con dent that an o er
+of assistance would be made. Such expectations not only made it unnecessary to formulate a plan along
+Maximos’s lines, they also precluded unilateral action to reduce the foreign debt burden, for this would rule
+out all chances of a sympathetic hearing abroad.
+33
+The Government’s position was not easy. Committed by their entire strategy to dependence upon foreign
+capital in ows, they were now, in e ect, forced to sit and wait in the hope that these would eventually be
+resumed. The con dence of a few months earlier was fast disappearing. The budgetary outlook had changed
+completely as a result of import restrictions, which, though vital to save exchange, had the e ect of
+curtailing a major source of government revenue. Maris had been forced to admit this to Parliament in the
+debate on the economy on 18 November, though he would not state publicly that there was a chance of the
+Budget ending in de cit. However, the Bank of Greece informed Venizelos that, according to its estimates,
+revenues from import duties would fall at least 20% below the predicted level and that the Budget would
+close with a de cit of over 300 million drs.34
+Speaking in the same debate as Maris, representatives of the mainstream political parties rea rmed their
+commitment to the gold standard. Papanastasiou asserted that all parties agreed on the need to remain on
+gold, and he directed his criticisms at the Government’s inability to do more to reduce consumption! The
+conservative Venizelist Zavit-sianos attacked the Government for its lack of calm in handling the early
+stages of the crisis, whilst for the Populists all their leader Tsaldaris could come up with was to reproach
+Venizelos for not adopting the new exchange restrictions earlier. There was a good reason for the Populists’
+caution: Venizelos had threatened to call new elections early if they challenged his own handling of the
+crisis without putting forward recommendations of their own. Equally alarmed by the prospect of victory or
+defeat, Tsaldaris hastened to a rm his basic approval of Liberal policy. Venizelos himself raised for the rst
+time the possibility that foreign credits might not be forthcoming. His view, typically, was that it would
+make little di erence: ‘with the English crisis, and the fall of the English pound, I do not know when we will
+be able to obtain a foreign loan for the completion of the productive works. The Government is convinced
+that even without a foreign loan, it will manage to continue the productive works. They may proceed a little
+more slowly, but not much.’
+p. 160
+35
+But foreign loans were not required for the public works alone, nor were the works the most urgent item on
+the agenda. This was the solvency of the Bank of Greece, where despite the restrictions the reserve was
+diminishing daily. The Government planned to wait for internationally co-ordinated action. But the next
+few months were to show that events could not wait that long.
+The Second Stage
+The period from January to March 1932 marked a second stage in the nancial crisis, when the authorities
+explored the possibility of obtaining assistance from abroad. The Government’s search for help centred
+around two missions: a visit by Venizelos to the states represented on the IFC in January, and the later
+Niemeyer mission to Athens.
+In the middle of January, Venizelos made a much-publicized journey abroad, ying rst to Rome, then on to
+Paris and London. In each capital he had talks with the Prime Minister and the Minister of Finance. With
+him he brought a memorandum which spelled out the di culties confronting Greece, ‘surprise par les
+e ets de la crise mondiale en pleine reconstruction économique’, outlined the Government’s economic
+p. 161
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+programme and the prudence with which it had so far conducted its a airs, and concluded with a request for
+a ve-year suspension of the debt amortization payments administered by the IFC and, in addition, a $50
+million loan over four years. The Governments were warned that if no assistance were forthcoming, Greece
+would be compelled to leave the gold standard, and give herself up to in ation and social turmoil. They were
+invited, in the event that they disagreed with the proposals contained in the memorandum, to empower the
+IFC or the LNFC to make alternative suggestions.36
+Niemeyer met Venizelos during the latter’s stay in London and discussed the Greek proposals with him. To
+Finlayson he declared con dentially that in his opinion they were ‘contradictory and, I fear, mistaken’.
+Neither he, nor the IFC, whose views had also been solicited, ruled out a moratorium on amortization
+payments if it proved to be necessary. But the problem was how could one then hope to raise further loans?
+The Greek Government sought a long-term recovery scheme, but there was a danger of making unrealistic
+demands on creditors’ sympathy. The point was to recur in the coming months, as the LNFC tried to
+persuade the Greeks that a gradual approach might carry a better chance of success than the ambitious plan
+embodied in Venizelos’s memorandum.
+37
+But if the Greeks approached matters with what seemed a rather unrealistic con dence, the involvement of
+the Powers was characterized by considerable uncertainty and a reluctance to be seen to get involved. This
+becomes apparent when one looks at the circumstances in which the Niemeyer mission was arranged.
+The original idea to invite an expert to Athens to report on the state of the economy seems to have come
+from the Bank of Greece. After the rebu from the BIS the previous autumn, some other authoritative
+backing was required before overtures could begin anew for economic aid. The question was discussed when
+Tsouderos visited the Bank of England in December. He reported that Niemeyer planned to visit Greece,
+but wished to attract as little publicity as possible, pretending that the visit was a simple holiday, with no
+o cial character. The date of arrival was to be ‘around the middle of January’.
+p. 162
+38
+The absurdity of this idea must quickly have become evident and after a week Niemeyer himself changed his
+mind, suggesting that it would be preferable to channel matters through the LNFC: the Greek Government
+should make a request to the Committee for an expert to be sent, and if this was approved, he would be
+prepared to go.39
+Bringing the mission under the auspices of the League of Nations had important consequences. Unlike the
+Bank of England, it had no funds of its own and little political in uence. The Greek Government was aware
+of the Financial Committee’s reluctance to depart from its traditional role as policy adviser and nd itself
+actively helping the Greeks to obtain loans. Yet such help was exactly what the Greeks wanted, or at the very
+least a report which would give strong support to their case.
+For these reasons the Greek application to the Financial Committee was ambiguous. Tsouderos, in his letter
+to the President of the Committee, phrased the request in the most general terms: ‘In our desire that our co
+operation with you for the opportunity [sic] facing of the situation should be based on a precise and
+complete knowledge of the situation by both sides, I request you to send here a member of your Committee
+who should study on the spot the actual position of the Bank of Greece, and of our public nances, and
+confer with us upon the policy to be adopted.’40
+A few days later, at a regular meeting of the Committee in Geneva, Varvaressos was asked to explain the
+purpose of the mission. He was franker than Tsouderos, who had mentioned neither the intended report,
+nor plans to use it in requesting help from abroad: ‘the expert could perhaps give us useful advice of an
+alternative policy to follow. He could draw up an objective report which might be useful to us in the event
+that the Government believes it necessary to seek international assistance.’41
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+The Greek request was approved, but it was not until the middle of February when Niemeyer nally arrived
+in Athens. Moreover, despite mutual goodwill, it became clear that the two sides held di erent views about
+what the mission could achieve, and this disagreement, re ected in two di ering approaches for dealing
+with the crisis, ultimately led to the breakdown of co-operation.
+p. 163
+Niemeyer arrived in Athens on 16 February, where he remained two weeks gathering material for the report
+before leaving to draft it in consultation with the other members of the Financial Committee. On the eve of
+his departure he warned Venizelos of the di culties that might be caused by a unilateral suspension of
+amortization payments. He emphasized the necessity, if the damage to Greece’s credit was to be minimized,
+of having the support of the League, which would be conditional upon the suspension being for one year
+only (rather than the ve years Venizelos had suggested). He also repeated his objections to the proposed
+fusion of the central bank with the National Bank, concluding his remarks with the observation that such a
+move would ‘involve the exclusion of Greece from international relationships in the sphere of Central
+Banking’. It was a threat which was rapidly losing its force.
+42
+Within Greece, conditions worsened markedly in the rst quarter of 1932. From December onwards, import
+restrictions began to bite and—in Finlayson’s words—‘brought commerce to a standstill’. There was
+increasing unrest from business men and merchants, who had previously accepted the need to support the
+Government. State policies were accused of being improvised and makeshift, re ecting the ‘hostile stance of
+the State towards commerce’. Import merchants were embittered by rumours that they might be
+supplanted by o cial import-distribution agencies. Exporters criticized the lack of o cial encouragement
+for exports, which were penalized both by the relative appreciation of the drachma and by the ‘tax’ imposed
+on exporters by virtue of their obligation to surrender foreign exchange at the o cial rate. Dissatisfaction
+among the urban poor also increased. When import restrictions caused textile works at Naoussa, in
+northern Greece, to close, workers and their families demonstrated, demanding bread. Unemployed men
+smashed the windows of a bakery in Xanthi. In Nigrita gendarmes opened re on a crowd of demonstrating
+workers who had tried to stop lorries loaded with tobacco leaf leaving the town; the Liberal Minister of
+the Interior put the blame on a ‘few communists’ in the crowd. In Salonika there were similar tensions. By
+February the gendarmerie, supported by an infantry and a cavalry regiment, were patrolling the streets of
+the city to prevent further demonstrations there. A local eyewitness reported the ‘Widespread and terrible
+distress through lack of food, ring, housing and clothing, especially in such a cold and prolonged winter’.
+43
+44
+p. 164
+45
+Industrialists demanded a reduction in interest rates and an expansion of credit, claiming that they could
+not increase output to take advantage of import restrictions if credit was tight. From this quarter too there
+were complaints at the lack of co-ordination in o cial policy, and calls for a ‘dictator of production’. The
+Athens Merchants’ Federation appealed for greater economic and monetary co-ordination, declaring that
+these demands were ‘neither republican nor royalist, neither liberal nor anti-liberal’. And the ex-Governor
+of the Bank of Greece, Diomedes, gave a speech on the e ects of the crisis, in the course of which he stated
+that ‘the crisis had at least brought this bene t, that it opened many people’s eyes, and demonstrated that
+those nations which genuinely wish to make progress, should not shrink from undertaking a comprehensive
+economic programme’.46
+As factories were forced to shut down for lack of funds, the commercial banks came under re. Predictably,
+they were held responsible for much of the trouble ‘having originally been far too generous in granting
+credits, and now being over-cautious, exacerbating our di culties’. In fact the commercial banks,
+especially the smaller ones, were in no position to increase their lending. Their situation which had already
+been precarious, worsened in early 1932, with the liquidity ratio of four major banks dropping from 16.8% in
+December to 9.7% in April, and from 17.8% to 12.5% for the system as a whole. In February public
+con dence slumped further with the news that the Cosmadopoulos Bank, closely associated with the
+Thessaly grain trade, had been forced to suspend operations. The withdrawal of deposits accelerated,
+outpacing the banks’ e orts to liquidate their commercial advances. From their point of view, credit was not
+47
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+tight enough: their cash base (cash in till + cash with other banks + cash at the Bank of Greece) fell by
+one-third between December and March. Saddled with a large amount of illiquid assets, they turned for
+assistance to the Bank of Greece.
+p. 165
+48
+Thus in the rst quarter of 1932 the central bank came into its own as a lender of last resort. It was an
+important turning-point. Given the exigencies of the crisis, the commercial banks were obliged to
+reconsider their previously hostile attitude towards the newcomer. In the rst four months of the year, the
+Bank increased its commercial advances from 300 million drs. to 733 million drs.; of the latter sum, some
+500 million represented direct advances to the commercial banks. In Finlayson’s judgement ‘the Bank of
+Greece...in its quality as lender of last resort, intervened at the proper time and adopted the wisest course’.49
+But supporting the domestic banking system inevitably a ected the Bank of Greece’s own balance-sheet. In
+the rst quarter of the year, the quantity of notes in circulation fell only 2.5% despite a 19.5% drop in the
+Bank’s cover. The reserve ratio was now well below the minimum 40% laid down in the Bank’s charter.
+50
+Rediscounting bills held by the commercial banks was not the only cause of the increase in the Bank’s
+advances. It had also been obliged to extend advances to the state, and those drachma advances were in
+large part immediately converted into exchange to meet the state’s external obligations. In January and
+February $5 millions were sold to the state, out of a total sales of $14 millions; over the same period the net
+out ow from the Bank’s reserve was $8.4 millions. By the rst week in March the reserve was down to
+£6.5 millions. Unless foreign credits were quickly forthcoming, adherence to the gold standard could not
+last long.
+51
+52
+Defeat
+In March attention switched to Paris where the LNFC was due to meet to discuss the ndings of the
+Nierneyer mission at one of its regular meetings. The outlook was grim. Tsouderos had talks at the Bank of
+France, but reported that the French were unlikely to provide help. All depended on getting a favourable
+report from the League. Without this approaches to London or Paris were destined to fail. Venizelos appears
+to have been con dent that with the Committee’s support he would be able to nd the money abroad. ‘Leave
+it to me,’ he assured Finlayson. But he also hinted that lack of assistance might force him to resign.
+p. 166 53
+54
+At the Bank of Greece there were again worries over renewed calls in the anti-Venizelist Press for the Bank’s
+dissolution: the Bank had shown itself incapable of managing the monetary system; the inevitable
+abandonment of the gold standard would make its position redundant. Venizelos should stop ‘making comic
+speeches about his optimism’ and withdraw the privilege of note issue from the Bank. Tsouderos was
+alarmed by these attacks and suggested that the Committee include in its report a defence of the Bank to
+serve ‘as a sort of guiding basis to all Greek Governments’.55
+On 10 March the LNFC session opened with a presentation by the Finance Minister, Maris. He traced the
+origins of the crisis back to the previous September when ‘our resistance gave way at its weakest point, that
+is, our monetary stability’. E orts to combat the exchange shortage had created new strains on the
+Budget, whilst failing to halt the diminution of the Bank’s reserves. The prospects for the 1932–3 Budget
+were not good—even after every possible economy, a de cit of 1300 million drs. seemed unavoidable. He
+repeated the Government’s request for a long-term loan, rejecting short-term credits as destabilizing and
+inadequate.
+56
+He was followed by Tsouderos, who concentrated upon the immediate problems caused by the fall in export
+earnings and the scarcity of foreign exchange. Estimated exchange requirements for the coming six
+months, he warned, exceeded the reserve at the Bank by some $2 millions. Without assistance very soon,
+57
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+stabilization was doomed, and with it all hope of balancing the current budget. There would also be ‘another
+tragic consequence’, namely, ‘the incapacity of the country to continue to honour its obligations towards
+foreign countries’. Should Greece’s problems be considered within the context of the overall recovery plan
+for Central and Eastern Europe that the League was about to debate? No, said Tsouderos, the formulation
+of this plan would be a lengthy matter, and Greece’s problems were urgent. Thus at the outset, the Greek
+delegation made it plain that only a massive transfusion of funds swiftly provided would, in the
+Government’s opinion, be of any use.
+p. 167
+But the members of the LNFC were by no means satis ed that the Greek authorities were willing to make
+su cient sacri ces on their own part; they regarded the proposals as an e ort to throw the burden of the
+crisis on to their foreign creditors, and to enlist the help of the Committee in doing so. At further meetings
+both Niemeyer and de Chalendar, the French delegate, closely interrogated Maris about his budgetary
+policy, and urged the importance of further cuts—de Chalendar in a draconian vein recommending the
+closure of schools and 20% cuts in public employees’ salaries—if there was to be any chance of persuading
+foreign Governments to give the go-ahead for another loan. But Maris insisted on questioning his own
+Budget Director’s estimates of yields from possible tax increases, and continued to demand that the
+Committee accept a lengthy suspension of amortization payments, whilst ruling out major increases in
+taxation. The Committee’s sympathy for the Greek case began to wane.58
+On the Greek side there were di ering reactions to the way events were turning out. The contrast between
+Tsouderos and Maris—two representatives of the Venizelist élite—is instructive. The former, despite an
+indecisive meeting of the League’s Banking Sub-Committee, continued to remain in favour of working
+through the League. As a key gure in Greece’s economic negotiations with the West over the past decade,
+Tsouderos combined loyalty to the Liberals with a strong belief in the bene ts of internationalism. At a time
+when the central bank was under attack within Greece, the League was an indispensable protector and ally.
+Moreover, Tsouderos was a cautious man, by nature inclined to prefer formulating policy and protecting his
+interests within an established framework.
+Maris, on the other hand—a ‘good political boss, but neither a nancier nor a statesman’—-saw
+advantages in intransigence. He was much closer than Tsouderos to Venizelos, and formed part of his inner
+circle of advisers. Placating the League for Maris took second place to ensuring continued Liberal rule at
+home. The likely political repercussions of carrying out the de ationary policies demanded by the LNFC
+were not di cult to foresee. The Government’s term expired in the autumn, and during the coming
+electoral campaign it risked sacri cing considerable popularity if it tried closing schools and raising taxes.
+At the end of the 15 March debate, Maris angrily withdrew, warning the Committee that it was endangering
+the entire economic programme of the Government, and that Venizelos might feel compelled to resign.
+p. 168
+59
+60
+In Athens relations between the major parties were marked by growing bitterness. Venizelos wanted to
+resign and pave the way for an all-party government. His ostensible reason, that such a government would
+be free to take the steps that he was honour-bound not to take (i.e. suspending debt repayments from 1
+April), prompted the accusation that he was trying to evade responsibilities that were properly his. But in
+reality his strategy had weightier motives behind it. The opposition Populist Party, with its monarchist past,
+had denied the constitutionality of the Republic since its inception in 1924. By inviting the opposition to join
+the Government, Venizelos hoped to gain whatever the outcome. Acceptance would bring the Populist Party
+within the republican fold, as well as giving them a share of the blame if unpopular measures needed to be
+taken. Refusal could be interpreted as cowardice and indecision. In the event, the opposition leader, Panayis
+Tsaldaris, turned the idea down and, in so doing, reinforced the popular image of himself as a weak and
+unimaginative politician who lacked concrete proposals for handling the situation.61
+Having failed to secure Tsaldaris’s co-operation, Venizelos dramatically changed tack. At the end of March
+he attacked the Populist leader ercely, criticizing his failure to defend the ‘bourgeois world’ and accusing
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+him of waiting to complete the destruction of the country which his side had crippled in 1922. He thus
+deliberately recalled the question of responsibility for the Asia Minor katastro , provoking an
+uncharacteristically sharp reply from Tsaldaris. Yet whilst both sides sought to pin the blame for the crisis
+on the crimes and errors committed by their opponents a generation earlier, Venizelos continued to project
+a con dence which the realities of the situation were far from justifying. One of his messages to the public
+boasted de antly: ‘Despite defeatist cries, our country can victoriously face the world crisis and develop its
+economy: even if the foreigners give us no aid, there is no danger of disaster.’
+p. 169 62
+But urgent decisions awaited him. Even if the Financial Committee’s report recommended credits, these
+would not be immediately forthcoming: the next two months were critical. Maris wanted an immediate
+suspension of the debt service payments, but there was little chance of the Committee agreeing to this.
+French o ers of credits to tide Greece over the April payments were made and then withdrawn. On 23 March,
+one day before the Committee published its report, the Government still had not decided whether or not to
+make the April transfer. It was also pondering removal of its gold holdings in Paris out of the country,
+perhaps anticipating their seizure by the French in the event of repudiation.63
+Foreign advisers were pressing the reluctant Venizelos to accept that the ‘battle for the drachma’ was lost,
+in the hope that depreciation would take the strain o the exchange reserves. Finlayson had recommended
+this course to Venizelos as early as February. The following month in Paris Tsouderos was advised by a
+member of the League’s Financial Committee to ‘abandon stabilization and postpone the debt service’. Back
+in Athens Tsouderos passed on these thoughts to the Prime Minister ‘with circumlocutions, so as not to
+make him angry right away. He listened with annoyance but without expressing an opinion.’ The advice in
+fact so angered him that his rst thought was to dismiss the new Governor until it was pointed out to him
+what a poor impression this would make. Cooler counsels prevailed and by early April Venizelos seems to
+have resigned himself to the inevitable.64
+The Financial Committee’s report, when it appeared in late March, emphasized the severity of the crisis in
+Greece, and the need for rescue action. It stated that ‘the problem to be solved in Greece is... rst and
+foremost one of a transfer of exchange, but it is also a budgetary one. Of the two problems, the more
+di cult, and more urgent, in the Committee’s opinion, is undoubtedly the exchange problem.’ The
+Committee had evidently tried to make concessions to the Greek position without encouraging excessive
+expectations of foreign assistance.65
+They did not want to provoke Venizelos into resignation. On the other hand there was little point in
+promising what could not be delivered. In the event, their recommendations were much as had been
+predicted: suspension of the transfer of all foreign debt amortization payments for one year, the drachma
+equivalents being deposited with the Bank of Greece, and made available to the Government for necessary
+expenditures connected with the public works programme. As Tsouderos had requested, there were
+emphatic expressions of disapproval for plans to abolish the Bank of Greece. The report urged that public
+spending be curtailed and conveyed a clear rebuke to Maris in the demand that there should be ‘greater
+e orts to secure a properly balanced budget’. Government spending abroad, apart from the debt service,
+had to be restricted, if Greece was to appeal successfully to foreign lenders. The terms on which the
+Committee was ready to support such an appeal were left to the end. Venizelos’s long-term solution was
+implicitly rejected. Rather, Greece was to be included in the League’s general recovery plan. The Committee
+recommended that Greece receive ‘in the near future, a loan of no more than $10 millions, guaranteed by
+international supervision’.
+p. 170
+At rst the Government reacted hesitantly. According to Maris, the report was ‘in many respects better than
+had been expected’. Yet the possibility of holding back the April transfer was not immediately discarded.
+When eventually the payment was made, Venizelos warned that ‘we cannot make any further interest
+66 67
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+payments from the dwindling reserve of the Bank of Greece, unless the Council of the League of Nations
+responds more fully to our requests than the Financial Committee has done’.68
+Rather than break with the League at this point, the Government chose to wait for the Lausanne Conference
+in June. Venizelos hoped to gain a sympathetic hearing for Greece at the Council meeting in April, and
+there were rumours, though they proved nothing more, of emergency credits to tide Greece over till the
+summer. Maris told Parliament that even if the Council meeting did not produce an improvement in terms,
+there was still the likelihood of a satisfactory solution being reached at the proposed Conference in June.
+69
+70
+71
+But the pledges of support for the League were chie y for public consumption. Behind the scenes, o cial
+opinion in Greece was now following the foreign lead and shifting in favour of devaluation. The leading
+commercial banks, whose views had been solicited by the Government, were almost unanimous in
+advocating abandonment of the gold standard. Continued adherence to gold after September had led
+according to one major bank—to ‘withdrawals of bank deposits, an increase in the circulation of banknotes
+in its most unfavourable form, stagnation in the export trade, signs of di culty among agricultural
+producers, excessive pro ts for certain importers at the expense of the community as a whole, etc.’.
+p. 171
+72
+Only the National Bank, which had su ered far less than the other banks, dissented. For the National Bank
+devaluation would mean heavy losses on its foreign exchange deposits, which had risen during the crisis at
+the same time as they had fallen with the other banks. By April, the NBG held two-thirds of the sight and
+time deposits in foreign exchange. Having used its strength in the foreign exchange markets as a weapon
+against the central bank, it now found the tables turned. What the National Bank desired, not unnaturally,
+was a continuation of the system in force, where a free market in exchange was uno cially tolerated, and it
+held the whip hand.73
+But the National Bank now represented the minority view. On 8 April, Epaminondas Charilaos, a leading
+industrialist, called for Greece to leave the gold standard even if Venizelos returned from Switzerland with
+the desired help. For industrialists, devaluation was seen as a way to stimulate exports and permit a more
+relaxed credit policy. According to one business man, the money supply could be increased by 25% without
+in ationary consequences. It was pointed out that Greece had defacto abandoned gold when exchange
+controls and import restrictions were introduced the previous autumn, and that she was now su ering all
+the disadvantages and reaping none of the bene ts that full devaluation would have o ered. The state—it
+was argued—should embark upon a coherent economic programme to achieve external balance, and, as
+part of such a plan, the Bank of Greece should become the chief regulator of foreign exchange, with
+increased powers over the commercial banks.
+74
+75
+76
+Events in Geneva, where the League of Nations Council was meeting in the second week of April, nally
+cleared the way for devaluation. On 13 April, Venizelos met the British and French Foreign Ministers and
+warned them that payments due on 1 May could not be made without immediate foreign assistance. Sir John
+Simon made no comment, while Tardieu objected weakly. Venizelos also met uno cially with members of
+the Financial Committee, to whom he hinted that Greece might be forced to leave the gold standard, rather
+than exhaust the central bank’s reserves by transferring the May and June interest charges. Far from
+protesting, the Financial Committee seems to have recognized that this was the only practicable option.
+Caught between the ambitious schemes of the Greek authorities and the caution of their own superiors at
+home, they had simply run out of time. At Geneva they counselled Finlayson that departure from the gold
+standard was the only way out. He noted that ‘it is indeed curious to re ect that the same persons who had
+advised Greece to stabilize its currency in 1928 should have been compelled to advise departure from gold in
+1932, but I am certain that they were right in each case; stabilization was necessary in 1928 to surmount an
+in ation crisis, the opposite course is indicated today to meet a de ation crisis’.
+p. 172
+77
+78
+79
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+The utter inconsequentiality of the Council’s deliberations, when it met on 15 April, served to emphasize
+that the limits of international co-operation had now been reached. The Greek Prime Minister warned the
+Council in sombre tones to ‘bear in mind that if you leave the small states without assistance, a black future
+awaits Europe’. But his oratory had little e ect: a decision on the general part of the Financial
+Committee’s report was deferred until the following month. The Council’s verdict on the matter of a debt
+moratorium was that this was something to be settled between the Greek Government and the foreign
+bondholders alone. No opinion was given as to whether Greece ought to suspend the May debt payments,
+nor did it mention the need to raise a further loan.
+80
+81
+This was taken in Greece as an indication that default would be tolerated. Venizelos remarked: ‘We have
+crossed the Rubicon.’ Maris resigned as Finance Minister, after failing to persuade Venizelos to hold the
+immediate elections which he argued were necessary if the Liberal Party was to avoid being blamed for
+abandoning the gold standard. He was succeeded by Kyriakos Varvaressos, who now had the doubtful
+satisfaction of seeing his criticisms of government policy borne out. On 25 April Varvaressos brought before
+Parliament the legislation which marked the o cial abandonment of the existing parity. The Bank of Greece
+was henceforth relieved of the obligation to exchange its notes for gold, and was given greatly increased
+powers to supervise all gold and foreign exchange transactions. New measures now came into force altering
+the terms on which export earnings had to be surrendered to the central bank. A further law announced
+sweeping ministerial powers to enforce further import restrictions. Management of the exchange rate was
+henceforth to be left to the central bank’s discretion.
+82
+p. 173
+On Wednesday, 27 April, the new system came into force and Greece o cially departed from the gold
+standard. Because this event had been widely predicted, it caused little surprise. The measures were
+implemented at the beginning of Holy Week, so most of the banks remained closed for a week. When they
+reopened business was calm and there was no panic. But on the exchanges the drachma fell swiftly,
+dropping against sterling from 456 to 539 on 5 May; it continued its downward movement for the rest of the
+year, bottoming at 628 in January 1933.
+Consequences
+The persistent struggle of the Liberal Government to keep Greece on the gold standard raises the question:
+was it worth it? Was it not clear, as one author argued later, that devaluation was inevitable, and that the
+best policy would have been to protect the Bank of Greece’s reserves as soon as possible?83
+The situation was rich in ironies. Venizelos, who had been lukewarm about the merits of the original
+monetary stabilization scheme, became the drachma’s staunchest defender. The members of the LNFC, who
+had insisted in 1927 that Greece join the gold standard, realized by the winter of 1931 that devaluation was a
+necessary step if the new central bank was to survive. Hence in the spring of 1932 banking experts at Geneva
+found themselves urging Venizelos to abandon gold.
+p. 174
+Venizelos’s reluctance to take their advice seems to have been prompted by three concerns. Firstly, he hoped
+that the disruption of the London money market would be short-lived—when it reopened Greece would be
+able to resume borrowing with greater ease if the drachma remained at par. Secondly, if Greece left gold, it
+was di cult to say where the exchange rate should be xed: the earlier experience of oating rates in the
+early 1920s had not been encouraging. For most Greek policy-makers, depreciation was a step backwards
+with potentially hazardous domestic consequences. Thirdly, and this was perhaps uppermost, adherence to
+the gold standard had been invested with political signi cance: the defence of the ‘national currency’—as
+elsewhere in Europe—became a test of political virility, which explains why no party in Greece
+recommended leaving gold. In the parliamentary debate on 18 November 1931, there was unanimity over the
+need to defend the drachma and Tsaldaris even felt obliged to deny that he had suggested the gold standard
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+should be abandoned. In a country where appeals to the sense of national honour found a ready response,
+abandoning the gold standard would have been (and was to be) interpreted as a mark of Liberal weakness.
+84
+It is easy to be wise after the event. Nevertheless, the Liberal Government’s indi erence to strains in the
+international economy, and in the country’s balance of payments, blinded it to unpleasant truths. There had
+been no shortage of commentators, from Montagu Norman downwards, to warn the Greek authorities that
+their borrowing policies would have to be drastically revised. In the Greek case, the chronic balance of
+payments de cit and the idiosyncratic functioning of the banking system made devaluation inevitable; even
+had the political will been present, the Bank of Greece could not have enforced a de ationary policy on a
+su ciently severe scale to bring the external current account into surplus.
+p. 175
+The fact that ultimately Greece did abandon gold, unlike a number of other countries in Europe, does not
+indicate that policy-makers had woken up to the advantages of this policy. On the contrary, they were
+pushed into it by fear of the alternatives, notably the domestic implications of severe de ation in an election
+year. Ironically the extent of Greece’s indebtedness, and the strain this put on the balance of payments made
+leaving gold inevitable if the country’s exchange reserves were not to be totally depleted. Other countries,
+less in debt, or with political élites less sensitive to popular pressure, faced a more di cult choice. Once the
+drachma was allowed to fall, the sudden increase in the drachma cost of servicing the foreign debt made
+some form of default inevitable. And default in turn precluded an eventual return to the resources of
+Western capital markets. Thus the nancial crisis of 1931–2 marked the end of the reconstruction strategy
+of the 1920s.
+The culmination of the nancial crisis in the spring of 1932 was regarded as signalling the bankruptcy of the
+Liberal Government’s economic policies. In fact it did more: it made the charismatic Venizelos look
+ine ectual. The US Consul in Salonika reported on 6 April that ‘considerable discontent with the present
+government prevails, not only among those who are opposed to Venizelos in principle, but amongst the
+Liberals who supported him in 1928...Even the refugees, who have always supported Mr. Venizelos to the full
+have begun to show dissatisfaction with his present policies.’
+If the failure of the ‘battle for the drachma’ had disappointed many staunch Liberals, on the Left of the
+Venizelist camp there were others who remained unconvinced that the battle should have been fought at all
+The Communist Party argued that Vcnizelos’s defence of the gold standard had been at the expense of the
+labouring classes. Dimitris Pournaras, the theoretician of the increasingly popular Agrarians, took a similar
+line:
+The majority of working Greeks were literally proletarianized and yet the Liberal Party insisted
+that only scal normalcy would save the country. The drama of the provincial or the peasant
+was unimportant compared with the danger facing those friends who stood to lose from a fall in
+the drachma. The economic policy of the bourgeois state ceased long ago to have even super cially
+a popular basis. It rests openly and brazenly on native capitalism and party cronies.
+p. 176
+Thus the nancial crisis forced wider the ssures that had already begun to open up between radical and
+moderate forces within the Venizelist camp. For the Liberal Prime Minister, his charisma waning, a
+turbulent summer lay ahead. On 21 May he resigned exhausted amid a wave of strikes, insisting that he
+would not return unless Parliament approved far-reaching measures to increase the powers of the executive
+and curb Press freedoms. But when the minority government of Alexandros Papanastasiou started to court
+working-class popularity by announcing plans to bring in long-awaited legislation on social insurance,
+Venizeios performed a quick volte-face. He brought down the Papanastasiou Government on the grounds
+that it had been formed by a ‘social class party’, and formed a new Liberal administration to lead the
+country into the autumn elections. All this suggested that Venizclos’s Tour years’ were ending in anxiety
+rather than triumph. Yet the sense of failure was at least partly self-induced. The abandonment of gold
+85
+86
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+Notes
+ironically turned out to pave the way for an unexpectedly swift upturn, based on the domestic economy.
+With the collapse of international trade, the Greek economy moved uncertainly towards autarky.
+1 Finlayson-Niemeyer, 26 Nov. 1932, AET 46/163.
+2 M. de Ceceo, Money and Empire: The International Gold Standard, 1890–1914 (Oxford, 1974), 60. LN, International Currency Experience: Lessons of the Interwar Period (Geneva, 1944), ch. 4, compares the theory with the inter-war reality. 3 K. Kostis, Oi trapezes kai i krist, 1929–1932 (Athens, 1986), ch. 2.
+4 ʻNotes of the discussions of our reports: Genevaʼ, 11 May 1931, AEV 342; E. Venezis, Emmanouil Tsouderos (Athens, 1966), 74.
+5 Vouli ton Ellinon, Ekthesis epi tou nomoschediou ʻPeri anonymon etaireion kai trapezonʼ (Athens, 1931), 50–68; Bank of Greece, Dyo simeomata epi tou pros chediou nomou: ʻPeri anonymon etaireion kai trapezonʼ (Athens, 1930), 22–36; Kostis, Oi trapezes kai i krisi, pp. 52–3, 108–9.
+6 IBA, Kalamata, YR 1930/1, 6; IBA, Patras, YR 1930/1, 10. 7 LNFC, 42nd session, procès-verbal, 8, p. 6, AET; Venezis, Tsouderos, p. 68. 8 On the background to the 1931 Public Works Loan, see K. Karamanlis, Ele herios Venizelos kai oi exoterikes mas scheseis: 1928–1932 (Athens, 1986), 272–7. 9 ESV, 27 Mar. 1931, 1,296. 10 Cited in N. Anastasopoulos, Istoria tis ellinikis viomichanias, iii (Athens, 1947). 11 Finlayson-Venizelos, 30 June 1931, AEV 343. 12 Tsouderos-Diomedes, 2 May 1931, AEV 342. Norman is reported as having said that ʻGreece was extremely lucky, first in being able to fund short-term debts at such a time, which England could not possibly do, and secondly in being able to finance a programme of twelve months, when most countries could not do so for twelve weeksʼ. 13 EV, 10 Feb. 1932. 14 Tsouderos-Diomedes, 28 July 1931, AKT 101/48. 15 Diomcdes-Tsouderos, 10 Sept. 1931, AET 101/52. 16 McGarrah-Diomedes, 17 Sept. 1931, AET 65/12. 17 Suvich (LNFC)-Diomedes, 11 Sept. 1931, AET ʻTexts Collected for a I Iistory of the Bank of Greeceʼ. 18 OT, 20 Sept. 1931. 19 Ministre des A aires Étrangères, La Grèce et la crise mondiale (Athens, 1933), 42; G. Andreopoulos, ʻThe IPC and Anglo
+Greek Relations (1928–33)ʼ, Historical Journal, 31(2) (1988), 341–64, is informative 10.1017/S0018246X00012917 .
+20 EV, 24 Apr. 1932, articles by Maris and Tsouderos. 21 E. Venezis, Chronikon tis Trapezis lis Ellados, 1928–1952 (Athens, 1955), 100–1; IBA, General Manager, YR, 1932/3, 3–4. 22 G. Pyrsos, Symvoli eis tin istorian lis Trapezis tis Ellados, i (Athens, 1936), 88–9; FO 371/15230 C8185/18, Ramsay (Athens)Sargent, 24 Oct. 1931. 23 Diomedes-Venizelos, 28 Sept. 1931, AEV343; FO 371/15230 C7450/18, Harvey-Reading, 28 Sept. 1931. 24 OT, 10 Oct. 1931. 25 Karamanlis, Exoterikes scheseis, p. 286. 26 G. Dafnis, I Elias metaxy dyo polemon, 1923–1940 (Athens, 1955), ii, 107–11; Karamanlis, Exoterikes scheseis, p. 282; FO 371/15230 C8185/18, Ramsay (Athens)-Sargent, 24 Oct. 1931. 27 N. Pyrris, La Crise monètaire en Crece (Paris, 1934), 173. 28 Pvrsos, Symvoliy pp. 90–1. 29 DEVE/A, Oct. 1931.
+30 ʻSituation of the Commercial Banks in Greeceʼ, memo, bv Finlayson, Aug. 1932, AET 74/1. 31 ʻSituation and Development of the Coverʼ, unsigned memo., 4 Dec. 1931, AET 65/1. 32 Proia, 5 Dec. 1931. 33 Dafnis, Metaxy dyopalemon, ii. 111–13. 34 PSV, 18 Nov. 1931, 10; also Bank of Greece-Venizelos, 17 Oct. 1931, AEV 344; Tsouderos-Venizelos, 5 Dec. 1931, AEV 180. 35 PSV 19 Nov. 1931, 25–30; USNA 868.00/659, Skinner (Athens)-State, 19 Nov. 1931; FO 371/15229 C8807/18, Ramsay (Athens)-Simon, 20 Nov. 1931. 36 ʻMemorandum remis par le Prèsident du Conseil aux Gouvernements anglais, fraéais et Italienʼ, n.d., AET 8/1. 37 Niemeyer-Finlayson, 29 Jan. 1932, AET 65/15. 38 Tsouderos (Paris)-Bank of Greece, 12 Dec. 1931, AEV 179.
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+39 Niemeyer-Tsouderos, 22 Dec. 1931, AET 56/2. 40 Tsouderos-LNFC, ijan. 1932, AET 56/4. 41 LNFC, 44th session, 11 Jan. 1932, proces-verbal, 2, p. 32. 42 Niemeyer-Venizelos, 29 Feb. 1932, AEV 345. 43 Bank of Athens, Bulletin Économique et Financier (Dec. 1931), 2,000–1; Finlayson—Venizelos, 10 Feb. 1932, AET 65/20. 44 Charilaos to Athens Chamber of Commerce, 16 Feb., 1932 in DEVE/A, Apr.-May 1932. 45 FO 371/15966 C2092/462, Ramsay-FO, ʻSalonica Monthly Report no. 23ʼ, 7 Mar. 1932; PSV, 17 Feb. 1932, 294–5; GonatasVenizelos, 5 Mar. 1932, 17 Mar. 1932, AEV 173/110. 46 DEVE/A, Mar. 1932; EV, 21 Mar. 1932; A. Diomedes, Mela tin krisin (Athens, 1935)66. 47 EV,16 Jan. 1932. 48 ʻSituation of the Commercial Banks in Greeceʼ, unsigned memo., 9 Mar. 1933, AET 74/1; USNA 868.00 Gen. Cond/13, Morris (Athens)-State, 21 Mar. 1932. 49 ʻSituation of the Commercial Banks in Greeceʼ, AET 74/1. 50 ʻThe Policy of the Bank of Greece and the Situation of the Commercial Banksʼ, memo, by Finlayson, 31 May 1932, AET 72/5; ʻThe Extension of Credit and Exchange Restrictionsʼ, unsigned memo., 16 May 1932, AET 46/168. 51 Tsouderos-Niemeyer, 16 Mar. 1932, AEV 173. 52 Tsouderos-Niemeyer, 19 Mar. 1932, AET 56/36. 53 Tsouderos-Nicmeycr, 10 Mar. 1932, AET 56/14. 54 Finlayson-Niemeyer, 8 Mar. 1932, AET 56/6. 55 Tsouderos-Niemeyer, 8 Mar. 1932, AET 56/11. 56 LNFC, 44th session, 10 Mar. 1932, procès-verbal, 6, p. 4. 57 Ibid., 11 Mar. 1932; see under AET 54/2. 58 LNFC, 45th session, 15 Mar. 1932, procès-verbal, 14, pp. 7–8. 59 Maris-Venizelos, 15 Mar. 1932, AET2/24; USNA868.00/675, Morris-State, n.d. 60 LNFC, 45th session, 15 Mar. 1932, procès-verbal, 14, p. 8. 61 FO 371/15959 C956/324, Ramsay (Athens)-Sargent, 23 Jan. 1932; USNA 868.00/672, Morris-State, 31 Mar. 1932. 62 EV, 20 Mar. 1932, 30 Mar. 1932. 63 Ibid., 15 and 24 Mar. 193 2; Tsouderos (Paris)-Bank of Greece, 23 Mar. 1932, AET 2/40–2. 64 Tsouderos-Venizelos, 21 Mar. 1932, AEV 345; Venezis, Tsouderos, pp. 88–9. 65 Taprotapeninta chronia tis Trapezis tis Ellados (Athens, n.d.), app.; ʻUno icial Notes of a Meeting held in Genevaʼ, 13 Apr. 1932, AET 62/9. 66 EV, 24 Mar. 1932. 67 Bank of Greece-Tsouderos (Paris), 24 Mar. 1932, AET 2/47. 68 Dafnis, Metaxy dyo polemon, ii. 125. 69 EV, 25 Mar. 1932. 70 Ibid., 26 Mar. 1932. 71 PSV, 31 Mar. 1932, 645. 72 ʻMemorandumʼ by the Popular Bank, 2 Apr. 1932, AFLT 60/3. 73 ʻMemorandumʼ by the NBG, n.d., AET 60/1. 74 DEVE/A, June 1932, minutes of the council meeting of 8 Apr. 75 Ibid. 76 EV, 23 Apr. 1932.
+77 D. Kaiser, Economic Diplomacy and the Origins of the Second World War (Princeton, NJ, 1980), 40–52; Karamanlis, Exoterikes scheseis, p. 306.
+78 ʻGreeceʼs Departure from the Gold Standardʼ, memo, by Finlayson, 9 May 1932, AET 77/1, p. 4. 79 Ibid.
+80 Karamanlis, Exoterikes scheseis, p. 306. 81 Dafnis, Metaxy dyo polemon, ii. 126.
+82 Karamanlis, Exoterikes scheseis, p. 307. 83 Pyrsos, Symvoli, pp. 90–1. It is instructive to set the Greek ʻbattle for the drachmaʼ in a comparative context. In Sweden a combination of destabilizing speculative outflows and intellectual backing (from Myrdal and others) for the abandonment of gold led the Swedes to devalue just one week a er the British: see B. Thomas, Monetary Policy and Crises: A Study of Swedish Experience (London, 1936), passim. In most other countries the intellectual and policy consensus was, as in Greece, in favour of defending existing parities. This point is made forcefully for Germany by K. Borchardt, ʻCould and Should Germany have Followed Great Britain in Leaving the Gold Standard?ʼ, Journal of European Economic History, 13(3) (Winter 1984), 471–99. The lack of support for devaluation in France emerges from Tom Kemp, ʻThe French Economy
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024
+
+
+under the Franc Poincarèʼ, Economic History Review, 24(1) (1979), 82–99. The variety of country experiences in Latin America is surveyed in Diaz Alejandro, ʻLatin America in the 1930sʼ, in R. Thorp (ed.), Latin America in the 1930s (London, 1984), 23–4. It is clear that in almost all cases those advocating devaluation or depreciation were a tiny minority—the Swedish economists being an exception. Policy-makers insisted on remaining on gold unless or until they were pushed o it. Greece was exceptional in European terms in the extent of her devaluation though this was matched in Japan and Latin America. 84 FO 371/15229 C8807/18, Ramsay-Simon, 20 Nov. 1931; the application of martial slogans to economic crises was, of course, common outside Greece. For striking South European parallels see S. Ben-Ami, Fascism from Above (Oxford, 1983), 338; A. Lyttelton, The Seizure of Power: Fascism in Italy, 1919–1929 (Princeton, NJ, 1988), 333, 342. 85 USNA 868.00/673, Morris-State, 26 Apr. 1932; FO 371/15966 C3474/462, Ramsay-Simon, 23 Apr. 1932; D. Pournaras, I oikonomiki thesis ton agroton (Athens, 1932), 95.
+86 FO 371/15966 C4868/462, Ramsay-Simon, 5 June 1932.
+Downloaded from https://academic.oup.com/book/32987/chapter/279558204 by London School of Economics user on 05 June 2024

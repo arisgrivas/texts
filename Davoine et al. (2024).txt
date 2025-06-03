@@ -1,0 +1,1684 @@
+The Political Costs of Taxation
+Eva Davoine, Joseph Enguehard and Igor Kolesnikov∗
+February 7, 2025
+Abstract
+We examine the political costs of taxation in early modern France. We focus on efforts to enforce the
+salt tax, the rate of which varied across regions. Using a spatial difference-in-discontinuities design, we
+compare municipalities just inside the high-tax region with those just outside, before and after a reform
+aimed at curbing illicit salt smuggling. We find that tax enforcement led to a twenty-fold increase in
+conflicts between taxpayers and the state in municipalities in the high-tax region. This effect persists until
+the French Revolution, supporting the view that enforcing the salt tax incurred significant political costs.
+Finally, we document that the likelihood of conflict increases with tax differences between neighboring
+regions, which we use to derive an upper bound on the political costs of increased tax enforcement in
+this historical period.
+Keywords: Taxation, Protest, Conflict
+JEL codes: D74, H26, H39, K42, N43
+∗Davoine: UC Berkeley, eva davoine@berkeley.edu. Enguehard: ENS de Lyon & University of Bologna, joseph.enguehard@ens-lyon.fr. Kolesnikov: UC Berkeley, igor kolesnikov@berkeley.edu. We thank Jean-Pascal Bassino, Davide Cantoni, Andrea Cerrato, Ce ́dric Chambru, Ernesto Dal B ́o, Guillaume Daudin, Victor Gay, Sam Kapon, S ́ebastien Laffitte, Andrew Little, Benjamin Marx, Mathilde Mun ̃oz, Emmanuel Saez, Tommaso Sonno, Francesco Trebbi, Fabian Waldinger, Reed Walker, Jonathan Weigel, Guo Xu and Gabriel Zucman for their help. We thank Aissatou Diallo and Ari Gomes for excellent research assistance. This research received funding from the Berkeley Economy and Society Initiative.
+1
+
+
+1 Introduction
+Building an effective tax system is considered a hallmark of modern statehood (Brewer, 1989; Tilly, 1992).
+In early modern Europe, amid heightened military competition, no state could survive without raising tax
+revenue (Parker, 1988; Hoffman, 2015). However, limited administrative capacity and legitimacy to tax
+constrained the set of fiscal instruments rulers could rely on (Bonney, 1999). As a result, attempts to
+expand fiscal capacity were often regressive and enforced unevenly, leading to substantial resistance. Despite
+recurrent tax revolts (Burg, 2003), the evidence on the political consequences of increased tax enforcement
+in this key period remains scarce.
+The existing literature in political economy and economic history has focused mainly on the organizational
+aspects of building fiscal capacity (Besley et al., 2013; Dincecco, 2015; Cantoni et al., 2024), without providing
+a dedicated analysis of the associated political costs. Thus, while tax revenue maximization is known to be
+constrained by administrative costs, lack of technology or low compliance (Keen et al., 2017; Dzansi et al.,
+2022; Bergeron et al., 2024), the possibility of a political backlash against taxation may also deter rulers
+from increasing taxes, effectively imposing a similar ceiling on fiscal capacity. In addition, we know little
+about the persistence of these political consequences and their impact on government revenue.
+Isolating the causal effect of tax enforcement on political attitudes is difficult for at least three reasons.
+First, tax enforcement efforts are usually nation-wide, making it difficult to find counterfactual or comparable
+sub-populations differently affected by a reform. Second, outside the realm of representative democracy with
+regular elections, support for the government is not easily measurable. Moreover, it is determined by a variety
+of factors: when support for the government varies, it is difficult to identify how much of the change can be
+attributed to a change in the tax environment, and even more so for a long time period. Third, since the
+political backlash against taxes has no clear monetary value, quantifying its impact on government revenue
+is not straightforward.
+This paper addresses this gap in the literature and these three identification challenges. We focus on
+the salt tax in early modern France, a common fiscal tool of this historical period (Cochois, 1902; Pasquier,
+1978; Sands et al., 1949; Hocquet, 1987). Demand for salt was highly inelastic, the state could establish
+a monopoly on its sale, and the tax was embedded in the final price of the good, making it less salient to
+consumers. As a result, the salt tax was considered easy to collect and provided a reliable source of revenue
+for rulers with low capacity and legitimacy. Importantly for causal inference, the salt tax rates differed
+sharply between the French regions, creating geographic discontinuities in tax rates, differential smuggling
+2
+
+
+incentives, and exposure to enforcement effort.1 To recover the exact position of internal fiscal borders,
+we rely on a novel parish-level map of the salt tax regions in 1665 that we digitize in a companion paper
+(Davoine et al., 2024). These granular data allow us to assign each municipality to the high-tax region or
+to one of the low-tax regions. However, because the salt tax regions coincide with other jurisdictions, a
+simple spatial RD design would not allow us to disentangle the effect of the salt tax system on our outcomes.
+Therefore, we introduce time-variation studying a reform that increased the enforcement of the salt tax
+around 1740. Using a difference-in-discontinuities design, we are able to compare municipalities on both
+sides of the border, before and after the tax enforcement reform. Two features are crucial in establishing the
+validity of this design. First, the reform affected mainly the high-tax region. It consisted in the creation of
+special courts designed specifically to prosecute smugglers (Liander, 1981; Kwass, 2014; Legay, 2019; Evrard,
+2024).2 Although smugglers could be arrested anywhere and by definition operated across both sides of the
+fiscal border, enforcement efforts were concentrated in the high-tax region, where smuggling was easier to
+detect–and where the courts we consider were located. Second, we are unaware of a contemporaneous policy
+that would have affected the high-tax region and low-tax regions differently.
+To overcome the challenge of measuring the support for the state during this period, we rely on data
+on social conflicts (Chambru and Maneuvrier-Hervieu, 2024). Importantly, the database classifies each
+conflict by type, allowing us to focus the analysis on the conflicts related to salt smuggling. This selection
+ensures that the political action directed toward the state is a direct consequence of the tax enforcement
+reform we study. In particular, to proxy the political support for the state, we focus on conflicts that show
+popular opposition to the state. In a non-democratic context without elections, this measure should reflect
+popular disagreement with a policy and capture the willingness to punish the government responsible for
+its implementation.3 Thanks to the long time coverage of the conflict data, we construct a panel dataset
+at the decade-municipality level for the entire century preceding the French Revolution and the abolition of
+the salt tax (1690-1790). For each municipality, we observe the salt tax region in which it lies, its distance
+to the salt tax border, and the occurrence of different types of conflict by decade. Additionally, to validate
+the analysis of the lasting effects, we use another measure of political support for the state on the eve of the
+Revolution: the content of popular grievances sent to King Louis XVI in 1789 (Shapiro et al., 1998).
+Finally, to quantify these political costs, we combine our empirical estimates with a methodology de
+veloped by Jacques Necker (1784) as part of the policy debate of the time. Necker, the finance minister
+1Giommoni and Loumeau (2022) use this discontinuity to study the long-term effect of taxation on economic development. Unlike them, we study short-term political outcomes. We also recover the exact location of the salt tax border, as fixed in 1680. Moreover, we exploit time variation to alleviate the concerns associated with cross-sectional RD designs. 2The Commissions du Conseil.
+3In democratic contexts, political responses to tax policies have more commonly been assessed by the reelection rates of incumbents (Casaburi et al., 2016).
+3
+
+
+of Louis XVI in the years preceding the French Revolution, played a leading role in this turbulent period,
+which began as a fiscal crisis. In his treatise, he acknowledges the priority of eliminating salt smuggling and
+estimates how government revenue would be affected by a decrease in the salt tax rate of the high-tax region.
+Drawing on his methodology and our empirical results, we estimate the revenue impact of reducing the salt
+price in the high-tax region4 to eliminate all associated political costs. Based on revealed preferences, we
+infer from the fact that our proposed price was not implemented that the associated government losses were
+higher than the political costs induced by the established tax system. This reasoning allows us to derive an
+upper bound of the political costs associated with the salt tax system based on considerations specific to
+this historical era.
+The paper proceeds in four parts and yields four results.
+First, using a spatial difference-in-discontinuities design, we investigate the impact of an enforcement
+reform on smuggling-related conflicts by exploiting the discontinuous change in exposure to the reform at
+the salt tax border. We find causal evidence for political costs of taxation in the context of early modern
+France. The reform aimed at curbing salt smuggling leads to a twenty-fold increase in conflicts between
+smugglers and the state, which spill over to involve the local population. We emphasize the increase in the
+conflicts in the local population participates, which represents a bigger threat to state legitimacy. We find
+no such effects when looking at conflicts not related to salt smuggling. In contrast, we find that the effect is
+greater in locations closer to the courts created by the reform.
+Then, using a fully dynamic specification and grievance data, we document a persistent effect of these
+political costs, suggesting that unpopular tax enforcement measures contributed to popular resentment
+against the state up to the French Revolution. A descriptive analysis of the list of grievances sent to Louis
+XVI in 1789 shows that the salt tax was one of the most cited items. The population in the high-tax region
+was also more likely to express concerns about the salt tax than the population in the low-tax region.
+Furthermore, we explore the heterogeneity by border segment, as tax differences between the high-tax
+and the adjacent low-tax regions varied along the salt tax border. We show that the effect increases in the
+tax differences between adjacent regions. This result confirms that the enforcement reform was particularly
+politically damaging in places where the incentives for smuggling were highest, and hence where the local
+population suffered the most from the reform, triggering their resentment towards the state. In contrast,
+in areas that were not affected by the reform–the border segments where price differences were too small
+to make smuggling profitable–no effect is observed. Furthermore, this monotonic and convex relationship
+4In this region, Louis XVI could reduce the price of salt by reducing the salt tax rate, which represented around 80% of the final price of salt (Necker, 1784).
+4
+
+
+allows us to pinpoint the highest conflict-free price of the high-tax region, which is 38% lower than the status
+quo rate.
+Finally, following Necker’s methodology, we study how government revenue would have been impacted if
+the high-tax region price was instead set to the highest conflict-free price derived from our empirical analysis.
+We find that this conflict-free price would have resulted in a decrease in the salt tax government revenue
+of 13%, which is less consequential than Necker’s proposal. The French monarchy, instead of maintaining
+these high salt price differentials, which led to smuggling and conflict, could have implemented the highest
+conflict-free price in the high-tax region and borne the associated loss of revenue. No change in the status
+quo over the period suggests that the political costs of existing salt prices were less detrimental than the
+revenue loss from the conflict-free price. For this reason, we interpret the loss in revenues associated with
+the conflict-free price as an upper bound to the political cost of the tax enforcement reform.
+Contribution to the literature We contribute to the extensive literature on state capacity that has
+developed since the seminal work of Besley et al. (2009). While external conflicts are known to accelerate
+state building, some theoretical works have also emphasized that state expansion can, in turn, give rise to
+internal conflicts (Besley et al., 2010; Gennaioli et al., 2015). However, the empirical record is more mixed.
+For instance, Chiovelli et al. (2024) documents a reduction in the incidence of acts of insurrection by the
+indigenous population in response to increased fiscal capacity in the Spanish Empire, whereas Henn et al.
+(2024) shows that state-building ambitions interfere with rebel taxation in the DR Congo. Similarly to the
+latter, our paper empirically documents that building state capacity entails domestic tensions. Leveraging
+a unique historical tax design, along with the scope and granularity of our data, we identify the immediate
+and persistent effects of an unstudied tax enforcement reform on popular conflicts against the state.
+In addition, this paper contributes to the economic history of France. Recent applied research has focused
+mainly on the French Revolution and its consequences (Acemoglu et al., 2011; Chambru, Henry, et al., 2021;
+Gay, Gobbi, et al., 2023). A contemporary, close paper to ours is Giommoni, Loumeau, and Tabellini (2024),
+who examine how salt taxation shaped support for the Revolution, using discontinuities in the tax rates and
+economic shocks. Instead, we focus on the impact of a new legal institution that strengthened tax enforcement
+throughout the century before the Revolution, which is crucial to understanding the prerevolutionary French
+fiscal context. We also complement the history of French public finance (Gu ́ery, 1978; Riley, 1987; Touzery,
+2024) and shed light on the neglected issue of salt smuggling. We provide a counterfactual estimate of the
+salt tax price in the high-tax region that would have prevented smuggling-related conflicts and estimate how
+it would impact government revenues through a methodology rooted in considerations of the time (Necker,
+5
+
+
+1784).
+Moreover, a key contribution of this paper is to empirically document the political costs of taxation.
+The idea of ceilings on taxation due to behavioral responses was popularized by the well-known Laffer
+curve (Laffer, 2004). The public finance literature has subsequently examined several factors that limit the
+government’s ability to raise revenue (Besley et al., 2009; Keen et al., 2017; Dzansi et al., 2022; Bergeron
+et al., 2024). However, little is known about the political constraints that impede the development of
+fiscal capacity. In contexts of low state legitimacy, an autocratic ruler may hesitate to raise taxes to avoid
+unintended political consequences that threaten his authority. Recent experimental evidence on this topic
+has shown that citizens demand greater political voice when the government attempts to tax them (Weigel,
+2020), or that tax enforcement can lead to political violence if not accompanied by public goods provision
+(Krause, 2020). While we similarly argue that tax enforcement threatens the political stability of states with
+low legitimacy, our approach differs in that we study a large-scale and long-lasting policy rather than an
+RCT.
+Finally, we offer a historical perspective on current policy debates surrounding tax competition. Even
+today, disparities in tax rates across countries or regions create opportunities for tax evasion, tax avoidance,
+and aggregate welfare losses (Zucman, 2013; Fajgelbaum et al., 2019; Jakobsen et al., 2024). Our setting
+suggests that they may also generate social unrest.
+2 Institutional framework
+2.1 The challenge of the early modern state
+Early modern rulers faced a fundamental challenge: How could regimes with low administrative capacity
+and fragile legitimacy effectively impose taxation to sustain the increasing demands of military competition?
+First, low administrative capacity meant that the range of fiscal instruments available to rulers was con
+strained. The reliance on modern and efficient fiscal tools such as personal income or property taxation
+was limited (Webber et al., 1986). Increases in income taxation were hindered by the state’s inability to
+accurately assess individual earnings. Similarly, land tax increases were constrained by the state’s lack of
+cadastral records for assessing property values (Degrave, 2024).5 In contrast, consumption taxes offered
+many advantages. Embedded within the price of goods, people pay them without distinguishing between
+the production cost and the tax component. By monopolizing the distribution of these goods, these taxes
+5These issues are particularly salient in French parliamentary debates on optimal tax design at the onset of the Revolution (Salle ́ de Choux, 1877).
+6
+
+
+were easy to enforce, as they were collected instantly at the point of purchase, without the need for com
+plex assessment systems. Moreover, consumption taxes were least distortionary when levied on goods with
+inelastic demand–often staples essential to daily life, or addictive goods and luxuries–ensuring a steady and
+reliable revenue stream (Brewer, 1989; Dal Bo ́ et al., 2022), unlike income or land taxes, which fluctuated
+with economic conditions.
+Second, the legitimacy of the early modern fiscal state rested on fragile foundations. At the beginning
+of the early modern period, the concept of public revenue was not well defined, as there was no clear
+distinction between the ruler’s personal revenue and the state’s public finances (Gelabert, 1995). Taxes
+gradually emerged as a means to finance the escalating European military competition from the late Middle
+Ages (Bonney, 1999). They were initially perceived as exceptional wartime measures and, as such, were
+deemed illegitimate if kept permanent. Furthermore, early modern societies were highly fragmented. Political
+unification did not result in a shared sense of national identity or citizenship, which were shaped by later
+nation-building efforts (Alesina et al., 2020).6 Similarly, social structures were deeply stratified, with different
+classes enjoying varying degrees of privilege (Levi, 1988). As a result, fiscal rules were imposed in a highly
+uneven manner with significant disparities by region and status.
+Due to limited state capacity and legitimacy, early modern states thus often relied on consumption taxes
+on inelastic goods, which were administered unevenly across social groups and territories (Bonney, 1999).
+This type of taxes, if levied on essential goods, was particularly prone to provoking popular resistance.
+Not only their regressive nature make them widely unpopular, but their inconsistent enforcement further
+deepened perceptions of injustice and facilitated opportunities for fraud, ultimately leading to conflicts and
+political instability.
+This paper examines the French salt tax as a prototypical instance of how the efficacy and legitimacy
+constraints shaped early modern taxation. In Section 2.2, we provide a detailed explanation of why salt, in
+particular, was an optimal commodity to tax and how its administration varied across the territory. The rest
+of the paper is dedicated to showing how the enforcement of the salt tax led to numerous conflicts between
+taxpayers and the state.
+2.2 Historical background
+The French Old Regime Before the Revolution of 1789, the French monarchy was a typical “Old Regime”
+state (Dincecco, 2015), lacking fiscal capacity and legitimacy . The expansion of the state was constrained
+6The French revolutionary Mirabeau famously described France, one of the most centralized polities of 18th century Europe, as an ’unconstituted aggregate of disunited peoples’ (un agre ́gat inconstitu ́e de peuples d ́esunis).
+7
+
+
+by class and territorial privileges, and the increasing tax burden was unevenly distributed, mainly affecting
+the small peasantry (Goldstone, 2011). Status-based tax privileges are known to have fostered popular
+resentment against the nobility and clergy that exploded during the Revolution (Shapiro et al., 1998). From
+a public finance perspective, however, territorial privileges were even more problematic because they limited
+government revenue for a substantial portion of the country. Taxation differed between regions because each
+territory had become part of France at different points in time, each time with different rights and obligations
+(Mousnier, 1974 - 1980). These rights were successfully defended by strong local elites, especially when they
+managed to retain their provincial parliaments (Collins, 1988).7
+The salt tax Salt taxation was widespread among early modern states.8 In France, the salt tax was estab
+lished in the 14th century9 and then gained importance to become the most important indirect tax (Beaulieu,
+1903; Pasquier, 1978; Touzery, 2024). Therefore, it represented a significant share of government revenue,
+peaking at approximately 20% of state revenues in the 17th century, before stabilizing at approximately 15%
+in the 18th century (Appendix Figure A.1). In fact, the salt tax was an efficient way to raise revenue. First,
+this tax was consistent with the Ramsey principle of taxing more goods with inelastic demand. The demand
+for salt was highly inelastic, as there were few alternative technologies for food preservation. This also had
+the advantage of guaranteeing a constant stream of revenue, as compared to more volatile sources of income.
+Second, the state could easily monopolize salt production and distribution.10 Salt can only be produced
+in specific locations and is easy to transport and store. Back-of-the-envelope calculations indicate that the
+salt tax represented about 5% of the household income of ordinary peasants per year in the high-tax region
+(Davoine et al., 2024). This is analogous to the share of the budget Americans dedicate to gas today (4%11).
+Like aversion to the salt tax, resentment against gas taxes is widespread, as the French Yellow Vest protests
+in 2018-2019 illustrate.
+The salt tax regions The French salt tax was the quintessential example of the fiscal fragmentation of
+the Old Regime. Different regional salt tax rates, levied on salt purchases, implied that the final price of salt
+varied substantially between regions. It varied from 1.5 livre tournois (£t) per minot in parts of Brittany,
+7On the eve of the Revolution, there were six large provinces that had retained their provincial estates (pays d’ ́etats). They accounted for one-third of the population but only 20 percent of state revenues(Enguehard, 2020). 8Historical polities that implemented a salt tax include the Republic of Venice, Spain, Poland, Russia, the Ottoman Empire, various states within the Holy Roman Empire, India under British rule, and China (Hocquet, 1987). 9King Louis IX first established a temporary salt tax in France in 1290. However, the salt tax was made permanent by King Philippe VI de Valois in 1341. 10In early modern France, the state had the monopoly over the production of the salt mines, while sea salt was produced by private actors. However, the state also had the monopoly over salt sales in the high-tax region. In this region, the inhabitants could only buy salt in specific salt shops that were provided directly by the state (Touzery, 2024). In Davoine et al. (2024), we provide a detailed account of the salt tax and its local variations.
+11According to EIA: https://www.eia.gov/todayinenergy/detail.php?id=9831
+8
+
+
+which was exempted from salt taxes, to more than £t60 per minot around Paris in 1781 (Appendix Figure
+A.2).12 The French territory was organized in six salt tax regions as shown in Figure 1.13 The large black
+central region, known as Grandes Gabelles, in which the salt tax was the highest, generated about 80% of
+the salt tax government revenue in 1784 (Necker, 1784). The other regions are colored on a gray scale: from
+the Petites Gabelles region that had the second highest salt tax rate to the provinces franches exempted
+from the salt tax.
+This dramatic level of regional heterogeneity in the salt tax was the product of both history and the
+location of production sites. Figure 1 shows that the salt production sites were located along the coasts (sea
+salt) or in the eastern region (salt mines). Areas where the salt was produced and/or the authority of the
+central state was lower enjoyed lower or inexistent tax rates.14 For instance, Brittany was exempt from the
+salt tax because, upon its union with France in 1532, formalized after the marriage of Anne of Brittany to
+two successive French kings, it retained special privileges, including tax exemptions, as part of its negotiated
+autonomy. Importantly, the distance to the salt production sites does not affect our main empirical exercise
+since we estimate an effect at the fiscal border, where the distance to those sites is fixed.
+In the rest of the paper we refer to the Grandes Gabelles as the high-tax region, and to the other five
+regions as the low-tax regions. We focus on the border between this high-tax region and the low-tax regions
+highlighted in Figure 1. Different colors along the border reflect differences in prices between adjacent regions.
+The dark red segments indicate the parts of the border in which the price difference was the highest.
+The smuggling of salt The large price differences between adjacent regions were generating significant
+smuggling activity (Durand, 1974; Huvet-Martinet, 1975; Moulis, 2013). A part of the population specialized
+in this illicit trade. Salt smugglers bought large amounts of salt in low-tax regions to bring them back and sell
+them in the high-tax region at a cheaper price than the one administered locally.15 Although the intensity of
+smuggling activities cannot be observed, data from historical archives document that the number of conflicts
+related to salt smuggling increased during the 18th century and far exceeded the number of social conflicts
+and protests linked to the rest of indirect taxation (Appendix Figure A.3). Due to widespread smuggling, the
+harmonization of the salt tax was a top priority for high-level administrators such as the Marquis of Vauban
+12The minot was a French unit of dry volume approximately equal to 48kg of salt (Touzery, 2024). For most of the 18th century (1726-1785), the gold content of the livre tournois stabilized at 0.312 g (Wailly, 1857). With a price of pure gold of $85/g in September 2024, this gives a range of salt prices going from $0.83/kg in Southern Brittany–close to contemporary values–to $33.54/kg in the Paris region (the maximum was $34.23/kg in Burgundy). 13Although the roots of the tax salt system can be traced back to the Middle Ages, the regional organization was codified in 1680 by a royal decree, the Ordonnance des Gabelles. 14The location of production sites was part of the political economy of the tax design, with producing areas enjoying a stronger bargaining power with the state independently of transport costs, which were a small fraction of the total price in the high-tax region (see the Data Section 3 and Touzery, 2024). 15Historical estimates suggest that about 80% of the salt acquired in Brittany was smuggled into the neighboring highly taxed provinces–and only 10% of this traffic was intercepted by tax agents (Evrard, 2024).
+9
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Salt tax border,
+by price differences
+across adjacent regions 12.34 35.53 43.12 49.45 51.93 55.91
+Salt production sites
+Figure 1: Salt tax regions
+Notes. This map shows the main salt tax regions in France, as stabilized between 1680 by the Ordonnance des Gabelles (1680) and 1789 (the French Revolution). The salt tax border we study is highlighted. The methodology to recover its exact geographic coordinates is described in Davoine et al. (2024). The price differences (£t per minot) at the border in 1781 are an average of the price differences shown in Appendix Figure A.2 weighted by the length of the border segments. Salt production sites are collected from (Touzery, 2024).
+(Le Prestre de Vauban, 1707) and Jacques Necker (Necker, 1784). However, regional legal privileges upheld
+by the bargaining power of local elites made such reform politically infeasible. Thus, the regional differences
+in the salt tax rates remained in place until the tax itself was repealed during the French Revolution in 1790
+(Touzery, 2024).
+The special courts The royal decree codifying the administration of the salt tax in 1680, the Ordonnance
+des Gabelles (1680) already provided a legal framework to severely punish salt smuggling, including human
+branding, dispatch to the galleys, and sentences of death. However, until the mid-18th century, these
+penalties were not consistently applied by the magistrates of the competent courts.16 The magistrates were
+independent, their views were aligned with those of the local elites who distrusted the tax system, and
+16Fraud and smuggling were prosecuted in specialized courts: issues related to salt were judged by the salt greniers in the first instance, and by the cours des aides in appeal (Evrard, 2024).
+10
+
+
+they were reluctant to enforce the tough smuggling laws (Kwass, 2014). Sentences were often successfully
+appealed (Legay, 2019). This limited the de facto power of the central state in enforcing the salt tax.
+To remedy the deficient enforcement power, the central state transferred the authority to prosecute salt
+smugglers to special courts, the Commissions du Conseil. Specifically, three of these courts were created:
+Valence in 1733, Reims in 1740, and Saumur in 1742 (ibid.). The first court was primarily established to
+prosecute tobacco smugglers (Montenach et al., 2023); therefore, in the remainder of the paper, we focus on
+the creation of the latter two courts, whose mandate primarily concerned salt smuggling.17 These courts
+quickly became notorious for their hardline approach to law and order.18
+The special courts were characterized by four main features. First, the courts replaced local judges
+with judges appointed by the central government. This was a key factor in increasing enforcement, as
+local judges, tied to local elites, were reluctant to apply the tough anti-smuggling law. Instead, judges
+appointed by the central state were removable and well paid.19 Second, the reform improved the efficiency
+of the judicial system. It expedited court proceedings and expanded the powers of salt tax officials. The
+smuggling trials could be completed in 24 hours, compared to the very lengthy trials that had previously
+taken place. Furthermore, salt tax collectors were given the right to arrest people directly in their homes
+(Nicolas, 2002). Historical evidence suggests that more than 30,000 smugglers were tried by these courts
+between their creation in 1733 and the French Revolution in 1789, making smuggling quantitatively the
+most important crime to be tried during this period. In fact, the courts tried more smugglers than any other
+criminals.20 Third, these courts applied the law more strictly. After the reform, the rate of death or galley
+sentences handed down by the special courts was at least twice that of the ordinary courts (Kwass, 2014).21
+Fourth, the reform changed the incentives of field agents to engage against smuggling activities: they would
+receive bonuses if a smuggler they arrested was convicted. This was also an incentive to bias the testimonies
+against the suspects as one of the new features of the reform was that two testimonies from officers were
+now sufficient to convict a smuggler. Finally, the new courts made it possible to prosecute tax enforcement
+agents who were themselves involved in smuggling – they contributed significantly to it – whereas previously
+17Besides, special courts of lesser importance were also established in Besan ̧con in 1725, Paris in 1760, and Caen in 1766 (Ferrer, 1993). The first mostly prosecuted the smuggling of tobacco and fabrics, with cases related to salt comprising only 8 out of a total of 428 trials. The second only heard civil cases and had a limited range of penalties. The third was an extension of the court of Reims. 18“The Commission of Valence [...] was the most fearsome court in all of France. Smugglers cursed its very name. Magistrates in venerable superior courts condemned it as an oppressive ’tribunal of blood.’ Voltaire ranked it with the Black Death and the Inquisition as one of the worst plagues ever to strike humanity.” (Kwass, 2014) 19See Lamoignon de Malesherbes (1779), p. 156, and Kwass (2014), p. 303. 20Kwass (ibid.) compares the “tens of thousands” of smugglers who passed through the judiciary system (including the lower courts) at the time with the 12,500 cases heard by the prevostials courts, which tried all kinds of crimes (ibid.). As a result, one third of the convicts in the kingdom’s forced labor prisons (bagnes) were smugglers on the eve of the Revolution (Durand, 1971). 21Moreover, these death sentences included an unprecedented proportion of tortures on the wheel: 40 %, compared with a standard of 25 % in other courts (Kwass, 2014).
+11
+
+
+0 25 50 75 100
+1660 1670 1680 1690 1700 1710 1720 1730 1740 1750 1760 1770 1780
+Creation of the special courts
+Bailliage courts Extraordinary courts Parliaments Seignoral courts
+Figure 2: Trends in the number of smuggling trials
+Notes. This figure shows the decennial number of trials following conflicts related to smuggling, by type of court, for the subsample of conflicts in our data that present such information (N = 642). The special courts are part of the “extraordinary courts” type. The red line marks the creation of the special courts, lasting from 1733 to 1742. Data source: Gay and Hamon (2024), originally Nicolas (2002).
+they had only incurred disciplinary sanctions at best (Evrard, 2024).
+The reform therefore had a significant impact on the number of trials and the distribution of sentences.
+Figure 2 shows that the number of smuggling trials in the broad category of non-ordinary courts increased
+significantly after its implementation in the decade 1730-1740, whereas there is no similar increase in the
+other courts. As we show in the Appendix Figure A.4, this translated into a sharp increase in galley sentences
+and a smaller and later increase in death sentences and lighter penalties.
+The creation of these courts fits well into the ’fiscal-military’ paradigm of early modern state building.
+As shown in the Online Appendix Figure O.1, special courts were created at the onset of wars, when state
+expenditures were expected to rise.22 Unfortunately, the lack of counterfactuals and the complexity of the
+overall tax system make it difficult to assess the impact of special courts on tax revenue. In the Online
+Appendix Section O.1, we propose a rationale for the tax revenue trends.
+22The court of Valence was created in 1733, at the onset of the War of the Polish Succession. The courts of Reims and Saumur were, respectively, created in 1740 and 1742, at the onset of the War of the Austrian Succession.
+12
+
+
+3 Data
+We collect data from several historical sources.
+Salt tax border We rely on historical maps from 1665 to get the precise geographic location of the salt
+tax border between the high-tax and low-tax regions. In a companion paper by Davoine et al. (2024), we
+detail how we digitized the Atlas des Gabelles (Sanson, 1665), a collection of maps of the high-tax region,
+showing which parishes were on which side of the tax border.23 The resulting polygon of the salt tax border
+is highlighted in Figure 1. Additionally, to draw borders separating the low-tax regions, we rely on a map
+from 1781 held at the Bibliothe`que nationale de France (Appendix Figure A.2).24
+Salt prices Relying on this 1781 map (Appendix Figure A.2), we use the information on salt prices in
+French provinces to rank regions according to their average salt price. Importantly, price differences are
+due to differences in salt tax rates between regions.25 Therefore, in the remainder of the paper, we use the
+notions of price differences and tax differences interchangeably.
+Critically, this information on prices also allows us to classify segments by price differences between
+adjacent regions. We can thus distinguish border segments where the tax differences are high (dark red
+parts of the salt tax border in Figure 1), creating smuggling opportunities, from border segments where the
+tax differences are small, limiting the gain from engaging in smuggling (light pink parts of the salt tax border
+in Figure 1). Although the information on prices we use is from 1781, there were no significant changes in
+relative prices across regions during the preceding period.26
+Social conflicts We use data on social conflicts, our main outcome variable, collected by historians and
+then digitized in the HiSCoD database (Chambru and Maneuvrier-Hervieu, 2024). This database provides
+the date, geolocation and characteristics of social conflicts that occurred in France from the Middle Ages to
+the end of the 19th century. A social conflict is defined as “any event involving a group of at least three
+individuals belonging to different families and that perpetuates violence or threatens violence against one or
+23We update the Atlas with the minor administrative reorganizations introduced by the Ordonnance des Gabelles (1680). We can find no evidence of any subsequent modification to the border. 24There is little information on the origin of this map, but it was most likely part of a survey launched by the finance minister, Jacques Necker (Touzery, 2024). The borders were digitized by Ce ́dric Chambru using historical constituencies (subde ́le ́gations); we thank him for sharing this shapefile. 25Salt is very close to being an homogeneous good. Its raw price was almost the same everywhere. In the high-tax region, only 3% of the final price of salt was reflecting production costs. Instead, the tax constituted 84% of the final price. The last 13% reflects transport costs from production sites (ibid.). Although transport costs rise with distance from production sites, they remain constant across municipalities adjacent to the salt tax border. 26Prices were fixed in 1680 by a royal decree, the Ordonnance des Gabelles, and increased from 1760 to 1781 in particular (see the Online Appendix Figure O.4). However, the ranking of regions by prices remained the same. We also know that the average price per minot in the high-tax region was around £t40 in 1665 (Sanson, 1665) and had increased to £t62 in 1784 (Necker, 1784). It remained by far the region with the highest price during the whole century.
+13
+
+
+more members of a different group or against representatives of political, religious and economic power”. A
+wide range of primary documents was collected to consolidate this database. Information on medieval and
+early modern social conflict is found in chronicles, annals, journals, judicial records, and diaries. Information
+from the 18th and 19th centuries is retrieved from administrative correspondence, judicial records, municipal
+council records, private papers, and/or local newspapers. For our main period of interest (1690-1789, the
+century preceding the French Revolution), HiSCoD is based on events collected by Nicolas (2002). We
+complement it with information from the same source independently digitized by Gay and Hamon (2024).
+The data set includes a classification and a textual description of each conflict. This unique feature allows
+us to: (i) isolate about 1,900 conflicts related to salt smuggling27 ensuring that these events are directly
+related to the reform we study and (ii) distinguish conflicts involving only smugglers and the state from
+those involving the local population. Conflicts between smugglers and law enforcement are either triggered
+by tax enforcement agents,28 attempting to arrest the smugglers who are resisting, or by smugglers, directly
+attacking salt warehouses or tax enforcement agents. The other type of conflict involves the local population
+which either attempts to rescue smugglers or to retaliate against tax collectors after an arrest.29 While we
+argue that both are consequences of the reform, we emphasize the political consequences of the latter type
+of conflict.
+Figure 3 shows the locations of these conflicts recorded between 1661 and 1789. Three facts stand out.
+First, the conflicts related to smuggling are concentrated along the salt tax border, which is where we expect
+them to be. Second, smuggling-related conflict occurs disproportionately on the side of the high-tax region.
+We show in this paper that this is mainly driven by an increase in tax enforcement affecting mostly the
+high-tax region from the mid 18th century. Yet, we still observe some conflicts in the low-tax regions, as
+anti-smuggling enforcement units could act on both sides of the border to arrest smugglers, in the case of a
+warehouse attack, for instance. Third, the concentration of conflicts is even higher in the border segments
+where the price differences between adjacent regions are the highest (dark red parts of the salt tax border),
+27For the pre-revolutionary period, these conflicts were categorized by Nicolas (2002) as “Type 204 : Affrontement li ́e a` la contrebande du sel et du tabac”, i.e., salt or tobacco smuggling. Among those, we remove conflicts related to tobacco smuggling by discarding the events that mention the word “tobacco” in their description. We also include in our sample events from HiSCoD in the 1790-1850 period. These events are much rarer (N = 54). In fact, internal smuggling became much less prevalent after the Revolution, due to tax harmonization and the removal of internal customs (S. Mallet, 2024). Unfortunately, we cannot determine which commodity is associated with the smuggling involved in these post-1790 conflicts. We include these events to illustrate the quasi-absence of social conflicts related to internal smuggling in the post-revolutionary period, implying no difference between the (former) high-tax and low-tax regions.). 28As with most indirect taxes, the collection of the salt tax was outsourced through the system of tax farming (Johnson et al., 2014). Although the farm (Ferme g ́ene ́rale) was a separate entity from the state, their interests in combating fraud were aligned. Fraud meant lower profits for the tax farmers, which reduced the value of the tax lease for the state. In this paper, we refer to tax enforcement agents as either the tax collectors of the farm, the farm’s private tax enforcement police (brigades), or the law enforcement forces of the state (Mare ́chauss ́ee). 29A typical example involving the local population supporting smugglers is given by Liander (1981): in 1753, Marie-Anne Heluin, a woman from Vignacourt next to the northern tax border, is caught with smuggled salt by employees of the Ferme Ge ́ne ́rale. Afterward, a crowd of 400 armed with pitchforks, among which 75 percent of women, assembles to throw stones at the employees, triggering rebellion in all neighboring villages.
+14
+
+
+consistent with more profitable arbitrage opportunities for smugglers and larger gains from this illicit trade
+for taxpayers in the high-tax region. Figure 4 decomposes the map into pre- and post-reform periods.
+Prior to the reform, smuggling-related conflicts were less frequent and more dispersed across the territory.
+The three patterns outlined above emerged primarily in the post-reform period. Importantly, while salt
+smuggling conflicts occurred at similar rates in both regions before 1740, Appendix Figure A.5 shows that
+the divergence between regions became pronounced only after the tax enforcement reform was implemented
+in the high-tax region.
+Nevertheless, some conflicts persisted in the low-tax regions, as anti-smuggling enforcement units operated
+on both sides of the border. For instance, in cases of warehouse attacks, authorities could pursue and arrest
+smugglers regardless of the tax regime in a given area.
+To provide independent confirmation of the patterns we observe in the conflict data, we digitize an
+alternative dataset on criminal cases against salt smugglers from Huvet-Martinet (1975). Those records
+provide the number of prosecutions for salt smuggling by parish of arrest over the period 1764-1789, for one
+of the competent courts.30 We find a very similar spatial distribution of events concentrated next to the
+fiscal border, and more in the high-tax region (see the Online Appendix Figure O.5).
+Grievance lists We use data on the list of grievances established at the request of Louis XVI in 1789
+to document the persistent effect of the salt tax up to the Revolution. The content of the grievances of
+687 representative parishes31 has been classified by Shapiro et al. (1998) and made available by A. Degrave
+(2023).32 Among different motivations for complaint, we investigate the frequency of mentions of the salt
+tax and compare it to other types of tax in place at the time. The Appendix Table A.1 details the categories
+we investigate for each tax type. In addition, we investigate whether tax grievances were more frequent in
+the high-tax region. Online Appendix Figure O.6 presents the spatial distribution of the grievances related
+to the salt tax.
+4 Empirical strategy
+To estimate the effect of increased tax enforcement on conflict, we use a spatial difference-in-discontinuities
+approach. We compare municipalities 50 km to the left and 50 km to the right of the salt tax border
+as defined by Sanson (1665), before and after the reform. The municipalities in the treatment group are
+30The commission de Saumur. Unfortunately, Huvet only provides a cross section, reporting total counts by parish over the period, which limits our use of this data in our analysis. 31Parishes are a lower aggregation level than municipalities, but we are able to match each parish to a municipality. 32For more information on the sampling method, see Shapiro et al. (1998).
+15
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Salt tax border,
+by price differences
+across adjacent regions 12.34 35.53 43.12 49.45 51.93
+55.91
+Smuggling related conflicts
+1 2−3 4−6 7−10 11−40
+Figure 3: Conflicts related to smuggling
+Notes. This map overlays the number of conflicts related to salt smuggling between 1661 and 1789 over Figure 1. Source: same as in Figure 1 and Chambru and Maneuvrier-Hervieu (2024) for conflicts.
+Reims
+Saumur
+High−tax region
+Grandes gabelles
+Low−tax regions Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Salt tax border,
+by price differences
+across adjacent regions 12.34 35.53 43.12 49.45 51.93 55.91
+Smuggling related conflicts 1 2−3 4−6 7−10 11−40
+(a) Before the creation of special courts
+Reims
+Saumur
+High−tax region
+Grandes gabelles
+Low−tax regions Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Salt tax border,
+by price differences
+across adjacent regions 12.34 35.53 43.12 49.45 51.93 55.91
+Smuggling related conflicts 1 2−3 4−6 7−10 11−40
+(b) After the creation of special courts
+Figure 4: Conflicts related to salt smuggling before and after the creation of special courts
+Notes. These maps decompose Figure 3 into the pre- and post-reform period. It shows the number of conflicts related to salt smuggling between 1660 and 1740 and 1740 and 1789 respectively. Source: same as in Figure 1 and Chambru and Maneuvrier-Hervieu (2024) for conflicts.
+16
+
+
+comparable to the control municipalities in all observable basic characteristics before 1730 (see the Appendix
+Table A.2), but differ greatly in the price at which salt can be purchased. These differences in prices have
+historical roots as discussed in Section 2.2, and are mainly driven by differences in tax rates. Some regions
+were integrated into the French Kingdom under the condition that they would be exempt from taxes or
+benefit from reduced tax rates. Thus, if we were to estimate the effect of higher tax enforcement using only
+a traditional regression discontinuity design, we would not be able to disentangle the effect of the salt tax
+border from other potential unobservable differences at the border. In fact, the salt tax border even overlaps
+with the borders of other contemporaneous jurisdictions in some segments. Online Appendix Figures O.7,
+O.8 O.9 O.10 O.11 show the overlap between the salt tax border and these different jurisdictions. Therefore,
+we use time variation to disentangle these confounding borders. We thus rely on the assumption that they
+are no contemporaneous policy changes at the border that could confound the observed effects. We validate
+this assumption by reviewing a list of edicts enacted around the time of the tax enforcement reform we
+study.33
+Let m denote municipalities and t denote decades. We restrict our sample to municipalities within the
+interval Pm ∈ [Pc − b, Pc + b], where Pc denotes the salt tax border and b denotes the chosen bandwidth.
+Our specification takes the following form:
+Ym,t = αm + ηt + βHighT axm ∗ P ostt + γDistm ∗ P ostt + δDistm ∗ HighT axm ∗ P ostt + εm,t (1)
+where αm denotes municipality fixed effects, ηt denotes decades fixed effects, HighT axm is a dummy variable
+capturing treatment status (i.e., municipalities just within the high salt tax region), P ostt denotes a dummy
+taking value 1 after the creation of the special courts (all time periods between 1740 and 1850) and Distm
+controls linearly for the distance from each municipality m to the salt tax border.34
+The coefficient β is the difference-in-discontinuities estimate that identifies the treatment effect of in
+creased tax enforcement on conflict. We also run a fully dynamic specification, where we include a set of
+decade-specific treatment dummies and estimate a coefficient βt for each decade (which is equivalent to
+running the static equation repeatedly with treatment periods limited to one decade). The sign of β is am
+biguous: it is not clear ex ante whether tax enforcement increases or decreases political support for the state.
+On the one hand, it could decrease support if the state that implements the reform has low fiscal legitimacy.
+On the other hand, it may enhance support if taxpayers benefit from the resulting increase in government
+33Code de Louis XV (1778).
+34αm absorbs all the municipality-invariant equation terms: θ0 + β0HighT axm + γ0Distm + δ0Distm ∗ HighT axm and ηt absorbs the time-invariant equation term θ1 ∗ P ostt.
+17
+
+
+revenue. Given our context, we hypothesize that the sign of β is positive: increased tax enforcement would
+increase the occurrence of conflicts against the state, our proxy of decreasing support.
+Our main outcome variable Ym,t is smuggling-related conflicts. Furthermore, we run this specification on
+the subsample of conflicts involving the local population to test for possible spillover effects. We also run
+a placebo test using all other conflicts in our database that are not related to smuggling. Finally, we rerun
+the specification in which the dependent variable is smuggling-related conflict, interacting the diff-in-disc
+dummy with the log distance to the nearest court. This allows us to test for a heterogeneous effect on
+conflicts depending on the municipality’s proximity to the court.
+Lastly, we investigate the heterogeneous effects of different border segments, since they imply varying
+price differences between adjacent regions. To do so, we run a slightly modified version of Equation 1,
+estimating a different treatment effect for each segment border, denoted with subscript s:
+Ym,t,s = αm + ηt + βsHighT axm,s ∗ P ostt + γDistm,s ∗ P ostt + ζDistm,s ∗ HighT axm,s ∗ P ostt + εm,t,s (2)
+Our benchmark results use a 50 km bandwidth b on both sides of the border35, but we show in Appendix
+A.1 that they are robust to multiple bandwidths b, i.e. ±40, ±60 and ±70. The concept of optimal bandwidth,
+as developed by Calonico et al. (2014), is specifically designed for use in standard regression discontinuity
+designs. It is not well defined for a difference-in-discontinuities design due to the added complexity of
+combining temporal and spatial variation. To address this limitation and check the robustness of results
+under the optimal bandwidth approach, we instead apply Calonico et al. (ibid.)’s method to the outcomes
+expressed in first differences, following Butts (2023). The optimal bandwidth selected through this method
+is 59km, which is quite close to our baseline bandwidth of 50 km, further supporting the validity of our
+primary results. Lastly, standard errors are clustered at the municipality level, following Bertrand et al.
+(2004) and Abadie et al. (2023).
+5 Results
+Immediate political costs Table 1 reports our difference-in-discontinuities estimates of the effect of
+increased tax enforcement on smuggling-related conflicts from specification 1. Each column reports the
+estimated coefficient for different dependent variables.
+The results indicate a strong and significant effect of increased tax enforcement on conflicts related to
+smuggling repression for high-tax municipalities, which increase by a factor of almost 20 after the enforcement
+35Online Appendix Figure O.12 shows a map of the treated and control municipalities included in our benchmark specification of 50 km bandwidth.
+18
+
+
+Table 1: Effect of increased tax enforcement on conflicts
+(1) (2) (3) (4) Smuggling conflicts Local population Other conflicts Smuggling conflicts
+HighTax * Post 0.039*** 0.014*** 0.002 0.262*** ( 0.004) ( 0.002) ( 0.003) ( 0.037)
+HighTax * Post * Log Dist to Court -0.019*** ( 0.003)
+N municipalities 12,762 12,762 12,762 12,762 Mean in 1730 0.002 0.001 0.011 0.002 R-Squared 0.20 0.14 0.60 0.20 Bandwidth 50km 50km 50km 50km Decade-Municipality FE
+Notes. The table reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆ from Equation 1. In column (1), the dependent variable is the count of smuggling-related conflicts in a given municipality in a given decade. Appendix Figure A.6 shows the corresponding before-after RD plots. (Online Appendix Figures O.13, O.14 and O.15 show the same before-after RD plots for a 40km, 60km and 70km bandwidth). Similarly, Appendix Figure A.7 shows a similar RD plot of the outcome in first-difference under the optimal bandwith of 59km. In column (2), the dependent variable is the count of smuggling-related conflicts in which the local population gets involved. In column (3), the dependent variable is all other conflicts, hence not related to smuggling, included in the HiSCoD database. Lastly, column (4) is the same as column (1) interacting dummy for the reform implementation with the log distance of the closest court. The table presents results from our benchmark specification with a 50km bandwidth. Appendix Tables A.3, A.4 and A.5 presents results for a 40km, 60km and 70km bandwidth. Appendix Table A.6 presents result under the optimal bandwith of 59km from the first difference specification. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level. * p < 0.10, ** p <0.05, *** p <0.01.
+reform. This result suggests that the increase in tax enforcement generated conflicts between smugglers and
+the state, mainly because smugglers resisted violently when arrested (column (1)), but also between the local
+population and the state, as this former protested against the repression of smuggling (column (2)). The
+effects on both types of conflict are of the same order of magnitude. This means that not only the smugglers,
+but also the local population actively tried to hinder the state’s tax enforcement. While the first result is
+a direct mechanical consequence of the reform, the second result captures the political consequences of the
+reform: beyond the smugglers’ response, it fueled popular resentment towards the state.
+As a placebo check, we also report the result of the specification that includes all other conflicts not
+related to salt smuggling as the dependent variable. We find no difference in these other conflicts between
+the treated and control municipalities after the reform. This shows that, reassuringly, only smuggling-related
+conflicts are affected by the reform.
+To more convincingly link the effect of the court reform with the observed effect on smuggling-related
+conflicts, column (4) augments the specification of column (1) by interacting the difference-in-discontinuities
+dummy with the log distance to the nearest court. It strongly confirms our results: the estimated effect (in
+the immediate vicinity of the court) is one order of magnitude higher. Moreover, the coefficient associated
+with the interaction between the treatment effect and the log distance to the nearest court is negative,
+19
+
+
+supporting the fact that our effect decreases with the distance to the special courts.
+Figure 5 reports the results from the fully dynamic version of specification 1, using a selected bandwidth
+of 50 km. We also check that the results remain robust when using bandwidths of 40 km, 60 km, and 70
+km. In addition, we validate these bandwidth choices by examining the optimal bandwidth that would be
+selected if we applied the same specification separately for each period, with the outcomes expressed in the
+first differences, as shown in Appendix Figure A.8. The optimal bandwidths identified through this process,
+shown in the figure, range from 37 km to 87 km, aligning closely with the range of bandwidths tested in our
+robustness checks. The vertical red line is set between 1730 and 1740, right before the court of Reims and
+Saumur are commissioned to crack down on salt smuggling in 1740 and 1742 respectively. All the coefficients
+are expressed relative to the 1730 decade.
+After four decades of parallel trends without any measurable discontinuity at the salt tax border, mu
+nicipalities in the high-tax region react immediately to the reform36: they are more likely to experience
+smuggling-related conflicts after the salt tax reform is implemented, as shown in Panel 5a. Consistent with
+Table 1, we observe a similar effect for the subsample of smuggling-related conflicts involving the local pop
+ulation. Note that smuggling-related conflicts can only be observed until the Revolution: when the salt
+tax is abolished, the illicit salt trade disappears, and so do the conflicts with the state. Although regional
+differences in the salt tax were the cause of smuggling, they do not explain the rise in conflicts related to
+smuggling just after the reform, since the salt price differential remained stable for around 40 years (Online
+Appendix Figure O.4) –conversely, the increase in this differential from 1760 onward is consistent with the
+increase in the effect on conflicts visible in Figure 5. Confirming the static results of Table 1, Panel 5b shows
+no difference in other conflicts between the treated and control municipalities before and after the reform.
+Finally, to visually present the results of our test for a heterogeneous response in conflicts depending on the
+distance to the nearest court, we decompose our sample into two groups: high-tax and low-tax municipalities
+above or below the median distance to the nearest court. Panel 5c, plots the coefficients for these two groups
+and shows how the effect differs by distance to the court. We consistently find that the treatment effect
+increases with the proximity of the municipality to the court.
+Robustness We investigate the possibility of potential reporting biases of these historical conflicts as they
+were recorded through different sources. In Appendix Table A.7, we distinguish primary archival sources
+representing 87.5 % of all smuggling-related conflicts and secondary archival sources (mainly from municipal
+36Data for the court of Reims shows that it was active early on, with a volume of convictions per capita roughly constant over the whole period of activity of the court (see Online Appendix Figure O.16). This suggests that the treatment is of constant intensity over time.
+20
+
+
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Local population is involved
+N municipalities= 12762 Baseline mean= 0.002 Baseline mean, local pop= 0.001
+(a) Conflicts and spillovers on local population
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts All other conflicts
+N municipalities= 12762 Baseline mean= 0.002
+(b) Other conflicts
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Above median Below median
+Distance to court:
+N municipalities= 12762 Baseline mean= 0.002
+(c) Distance to court
+Figure 5: Dynamic effect of increased tax enforcement on conflicts
+Notes. The figure reports dynamic difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆt from Equation 1 in its fully dynamic form. Panel 5a of the figure displays the dynamic effect on all smuggling-related conflicts and the subset of those in which the local population gets involved. Panel 5b compares the effect on all smuggling-related conflicts to the effects on all other conflicts, hence not related to smuggling, included in our database. Lastly, panel 5c decomposes the effect into two groups: conflicts that are below and above the median distance to the closest court, by treatment group. The figure presents results from our benchmark specification with a 50km bandwidth. Online Appendix Figures O.17, O.18 and O.19 show that our results are robust to the use of a 40km, 60km or 70km. The specification includes decademunicipality fixed effects. Standard errors are clustered at the municipality level.
+archives) representing 8.2 % (while the remaining 4.3 % have missing sources). Primary archival sources can
+be further divided into two types: national archives representing 71.2% of all smuggling-related conflicts and
+departmental archives, representing 16.3% of all smuggling-related conflicts. These different sources could
+bias the analysis. Indeed, the resulting number of conflicts in some part of France could be higher than
+in some other parts simply because it relies on several sources. However, our empirical strategy mitigates
+this potential source of bias since we use municipality fixed effects. Moreover, our results are robust to
+a specification that only includes conflicts coming only from primary archives or even coming only from
+national archives, as shown by the Appendix Table A.8. These results suggest little reporting bias arising
+21
+
+
+from the diversity of sources used by the HiSCoD database. Moreover, we test for robustness of the functional
+form used for the running variable. Appendix Table A.9 confirms that our result hold whether we control
+for the distance with a quadratic or cubic term.
+Long-lasting political costs Figure 5 causally shows that the effects we observe are increasing over time
+and persist up to the eve of the Revolution. Figure 6 complements this result with some suggestive evidence
+that the salt tax was in fact extremely unpopular in 1789.
+A thorough analysis of the grievance data suggests that the salt tax was a main topic of discontent
+up to the French Revolution, and much more so within the high-tax region. Figure 6 shows the share of
+grievances related to each existing tax type.37 The salt tax was cited more frequently than any other type
+of tax, appearing in 3% of all grievances. Moreover, it is likely that some of the grievances associated with
+the consumption taxes and the customs were also related to the salt tax.38 Conversely, mentions of the
+income tax appear in less than 1.5% of the grievances and mentions of the property tax, head tax, and
+tobacco tax appear in less than 0.5%. Second, salt tax mentions are almost twice as frequent in high-tax
+municipalities as in low-tax ones. The same pattern emerges for consumption taxes, possibly because a share
+of these grievances are directly related to the salt tax in the high-tax region. Instead, custom grievances are
+more frequent in low-tax regions, potentially because there salt was also taxed at internal borders when it
+circulated. Grievances about the income tax exhibit the same differences between regions as the salt tax.
+The income tax was also higher in some parts of the high-salt tax region and lower in some parts of the
+low-salt tax regions, as shown in the Online Appendix Figure O.21. However, the differences in income tax
+rates between regions were much less pronounced than the differences in salt prices. Above all, the local
+organization of income taxation made the role of the state much less salient, explaining the low number of
+protests.39 Lastly, we find much less striking differences across regions for the property tax, head tax and
+tobacco tax. Note that the scarcity of these data (see the map in the Online Appendix Figure O.6) does
+not allow us to use a regression discontinuity approach, which explains why the results are presented as
+differences in means between regions.
+Finally, to corroborate these results on discontent with the salt tax at the time of the Revolution, we
+37Online Appendix Figure O.20 reports the different taxes that existed at the time and their respective share in government revenue. 38The salt tax could either be considered as a consumption tax in the high-tax region and more as a custom duty in the low-tax regions: “The salt tax alone could constitute a fourth specific category, since depending on the way it operated, it could be described as part of consumption taxes in regions in which salt was taxed for consumption, as part of custom duties where salt was taxed for circulation [...]”, Touzery (2024), p.678. 39The specificity of income taxation (the taille) was that tax assessors and collectors were locals chosen in the community, and the whole community was held responsible for the payment of the tax. This turned discontent with income taxation into within-community distributive conflicts (Nicolas, 2002). Only 33 events in the HiSCoD database relate to either the income, property, or head tax. Touzery (2024) also documents very few riots related to the income tax (p.501 and p.577).
+22
+
+
+study the parliamentary debates on the abolition of the salt tax, in 1789-1790. These results are presented
+in the Appendix Figure A.9. Consistent with our previous result, we find that proponents of the abolition
+were disproportionately elected in the high-tax region.40
+p-value: 0.000 p-value: 0.005 p-value: 0.018 p-value: 0.000 p-value: 0.000 p-value: 0.000 p-value: 0.255
+02468
+% of grievances
+Income tax Property tax Head tax Salt tax Consumption taxes Customs Tobacco Direct taxes Indirect taxes
+Low-tax regions High-tax region
+N municipalities=672
+Figure 6: Grievances related to taxation
+Notes. This figure shows the difference in the share of grievances associated with all existing taxes between the high-tax and the low-tax regions. Income tax refers to the taille, property tax refers to the vingtie`mes, head tax refers to the capitation, the salt tax refers to the gabelle, consumption taxed refer to the aides, customs refer to traites and the tobacco category refers to any types of taxes on the tabac.
+Heterogeneity by border segment Figure 7 presents the results of Equation 2 estimated using long
+border segments, highlighted in different colors in Figure 1. Three facts appear. First, conflicts increase with
+price differences across adjacent regions. In other words, around the border segment, where the difference
+in price is the largest, the response to the reform is also the largest. This is consistent with the fact that
+the reform affects more the population living in the treated municipalities near these segments: they benefit
+most from smuggling. When the state tries to curb this illicit trade, these populations react and stand
+on the side of smugglers against the state consistently with Table 1 and Figure 5a. Second, when the
+price differences across regions are minimal, no effect of the reform is perceived. This finding serves as
+a robustness check: when price differences are small, there are no smuggling opportunities, so the reform
+does not trigger conflicts. Third, the relationship between price differences across adjacent regions and
+40While representatives from the low-tax regions did not explicitly oppose the repeal of the tax, they raised concerns about replacement taxes that would disproportionately burden their constituencies. Some even proposed that any replacement tax should maintain the regional distribution of the former salt tax, which was equivalent to maintaining territorial tax privileges.
+23
+
+
+the effect of the reform is roughly convex. We attribute this pattern to the fact that, up to a certain price
+difference, engaging in smuggling is not profitable: the risks associated are higher than the expected benefits.
+Conversely, above this threshold, the demand for smuggled salt increases disproportionately with the price
+difference. For this reason, the reform generates conflicts only above this threshold, and increasingly so as
+smuggling opportunities are higher. This convexity is interesting from the perspective of the state, whose
+goal is potentially to minimize social unrest while maximizing revenue. It defines a maximum price difference
+that does not trigger conflict: here, around £t36 per minot.
+We interpret this result as follows: If the differences in prices were at most £t36 per minot all along the
+salt tax border, no conflict would be observed anywhere. This reasoning relies on the assumption that the
+occurrence of conflicts is purely explained by the price difference in levels. Although we cannot formally
+show that no conflict would be observed at the Brittany border if the price difference was reduced from £t56
+to £t36, we believe Figure 7 to convincingly illustrate the strong relationship between differences in prices
+and conflicts.
+To ensure that differences in prices are at most £t36 per minot all along the salt tax border, the price of
+salt in the high-tax region has to be reduced to £t38. This is because the lowest price observed at the border
+on the side of the low-tax regions is about £t2 per minot in 1781, at the Brittany border (see Appendix
+Figure A.2). Since all other low-tax region prices at the border are higher than £t2 per minot, setting a
+price of £t38 per minot everywhere in the high-tax region would ensure a price difference of at most £t36
+per minot all along the border and that would hypothetically not generate any conflict. In Section 6, we
+investigate the loss in tax revenue that this conflict-free price will induce.
+These findings are robust to estimating Equation 2 using shorter segments of the salt tax border as shown
+in Appendix Figure A.10. Moreover, we find the same kink when similarly plotting the difference in the
+means of the salt tax grievances by border segment (Figure 8), although with a more noisy profile.
+24
+
+
+Highest conflict-free price difference
+0 .05 .1 .15 .2 .25
+Effect on conflicts (β)
+10 20 30 40 50 60 Price differences across adjacent regions (LT/minot)
+Figure 7: Effect of increased tax enforcement on conflicts by tax border segment
+Notes. The figure reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts by long border segment as displayed in 1. We report the estimated coefficient βˆs from Equation 2 on the vertical axis and the price differences of each border segment on the horizontal axis. The figure presents results from our benchmark specification with a 50km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level.
+Highest grievance-free price difference
+-2 0 2 4 6 8
+Differences in means
+10 20 30 40 50 60 Price differences across adjacent regions (LT/minot)
+Figure 8: Discontinuity in grievances related to the salt tax by tax border segment
+Notes. The figure reports the difference in means in the frequency of salt tax grievances by border segment. We report the difference in means on the vertical axis and the price difference of each border segment on the horizontal axis.
+6 Fiscal Counterfactuals
+Why did the state endure a high volume of conflicts while they could have been avoided with a lower price
+in the high-tax region?
+The first explanation is that these conflicts were not deemed problematic for the state. Historical doc
+uments suggest that this is unlikely to be the case. In fact, top public finance officials repeatedly argued
+that conflicts smuggling-related conflicts were a major concern of the monarchy throughout the 18th century
+25
+
+
+and up to the Revolution.41 A second explanation is that the revenue losses induced by a lower price in
+the high-tax region were greater than the political costs42 of maintaining the conflicts. Assuming that this
+second explanation is correct and taking a revealed preferences approach, we compute the government losses
+associated with the highest conflict-free price derived from Section 5 and consider it an upper bound of the
+political costs induced by the conflicts.
+To estimate the revenue loss associated with a decrease in the price of salt, we refer to De l’Admnistration
+des finances de la France written by top finance official Jacques Necker in 1784.43 This historical document
+presents a methodology to estimate government revenue losses if the price in the high-tax region was reduced
+to £t25 per minot instead of £t62, the average price in 1784. We follow the same methodology and instead
+derive a counterfactual government revenue associated with the highest conflict-free price.
+Necker’s protocol consists of four steps. The first step, discussed in more details in Appendix B, esti
+mates the revenue that would be generated from the salt tax in the high-tax region under the reformed
+price, pReform, while accounting for the behavioral response in salt consumption, cReform. The second step
+deducts the cost, for the state, of supplying additional salt, C(cReform), associated with the increased salt
+consumption induced by the price reduction.44 The third step reinstates the resources previously allocated
+to smuggling prevention, s, as the revised price is expected to eliminate smuggling opportunities. Finally,
+the fourth step incorporates the salt tax revenue from the low-tax regions, denoted as GLowT ax.
+These steps are formalized in Equation 3. We thus estimate the total counterfactual government revenue
+from the salt tax, G, as follows:
+G=
+Adjusted consumption per head
+z }| {
+cRef orm ∗P opHighT ax ∗ pRef orm
+| {z }
+Step 1
+− C(cReform)
+| {z }
+Step 2
++s
+|{z}
+Step 3
++ GLowT ax
+| {z }
+Step 4
+(3)
+The parameters we use to calibrate this equation are summarized in Table 2 and the results are presented
+41Vauban, La Dıˆme royale, 1707: “The cheapness of salt in one province and its excessive cost in another cause two considerable evils, one of which is salt smuggling, which sends a large number of people to the galleys, and the other is the forced taxation of salt, which forces individuals to take a certain quantity, usually beyond their strength, without being able to use what they have left over from one year for the next; This exposes them to a great deal of harassment from the Salt Guards, who search their homes even in the most remote corners, and sometimes carry fake salt themselves, to use as a pretext to harm those they wish to harm.” Necker (1784): ’The troubles caused in the Kingdom by the varying price of salt, the distressing punishments that follow.’ 42Note that these conflicts had not only a political cost, but also human costs. They were known to be extremely violent. The Online Appendix Table O.1 shows that numerous people were injured or died in these conflicts from 1661 to 1789. In particular, the number of wounded agents more than doubled after the creation of the courts. Because it is complicated to monetize these human costs, we will not consider them here. 43Necker was twice minister of finance, from 1777 to 1781, and then from 1788 to 1790. His attempts at reform during his first term earned him many enemies, and it was during his retirement that he devoted himself to writing the treaty of 1784, which was both a synthesis and a proposal for reform of the tax system. He was then recalled during the revolutionary crisis (Bayard et al., 2000). 44According to Necker (1784), this cost would be £t1.5 million under his proposed price of £t25. We estimate that under our proposed reformed price of £t38, the increase in consumption would be about 55% of the increase generated by Necker’s reform. Consequently, we assume the costs associated with the distribution of additional salt to be about 55% of the costs predicted by Necker.
+26
+
+
+in Table 3.
+Table 2: Parameters for fiscal calculations
+Parameter Value Source
+pStatusQuo £t62 per minot Necker (1784)
+pReform £t25 or £t38 per minot Necker (1784) or Section 5
+cStatusQuo 0.0917 minot/ head per year Necker (1784)
+cReform 0.1138 minot/ head per year Appendix B
+P opHighT ax 8,300,000 Necker (1784)
+C(cReform) £t83,376 /year Necker (1784)
+s £t3,000,000 /year Necker (1784)
+GLowT ax £t12,880,000 /year Necker (1784)
+Notes. This table shows the parameters used in Equation 3 resulting in the counterfactual government revenue shown in Table 3.
+There are two results. First, Necker’s proposed price could have been higher. If the government’s
+optimization problem was to minimize conflict while maximizing revenue, our results suggest that the highest
+conflict-free rate, £t38 per minot, would have led to 10 million more in government revenue than Necker’s
+proposed rate of £t25 per minot. Second, the highest conflict-free price would still have resulted in a 13%
+decrease in government revenue relative to the status quo. Taking a revealed preferences approach, we
+conclude that if this reform was not adopted at the time, it must have been that the loss associated with
+this reform was greater than the political costs induced by smuggling-related conflicts. Thus, we interpret
+this 13% decrease in revenue as an upper bound on the political costs of these conflicts.45
+Table 3: Counterfactual tax rates and government revenue
+Reducing regional price disparities Price in high-tax region (p) Government revenue (M£t) (G)
+Status Quo 62 60
+Necker’s 1784 proposal 25 42
+Highest conflict-free tax rate 38 52
+Full harmonization Harmonized price Government revenue (M£t) (G)
+Keeping 1784 revenue constant 17 60
+Notes. The top part of this table shows the relationship between government revenue from the salt tax and different prices of salt in the high-tax region. Government revenue is computed using Equation 3 plugging in parameters listed in Table 2. The bottom part of table shows the harmonized price needed to sustain the government revenue of the status quo.
+Further, Necker’s methodology allows us to pursue another exercise. If feasible, an alternative way to
+minimize social conflicts while maximizing revenue is tax harmonization. Smuggling-related conflicts would
+45Online Appendix section O.2 presents a formalized version of that argument, based on our conceptual framework.
+27
+
+
+not have arisen in the first place if a unique price had been set throughout the territory, since this would have
+eliminated all opportunities for smuggling. In addition, optimizing this unique price would have ensured that
+the desired level of government revenue was maintained. In fact, this solution was discussed as early as 1707
+by Vauban in La Dˆıme royale46 and again by Necker in 1784.47 However, at the time, the central state had
+salt price-setting power only in the high-tax region. As discussed in Section 2.2, the rates in the low-tax
+regions were the result of various historical privileges that could not be easily revoked by the monarchy.
+However, using back-of-the-envelope calculations, we derive the hypothetical harmonized price that would
+have maintained the government revenue of the status quo in Table 3. We find that setting the price of salt
+at approximately £t17 per minot48 throughout the territory would have maintained a government revenue
+of 60 million £t from the salt tax. It is not possible to empirically assess the feasibility of this reform, but
+putting this figure in historical perspective gives some intuition.
+Our estimate is close to and actually lower than the harmonized price proposed by Vauban in 1707. In
+La Dıˆme royale he actually proposes to set the salt price at £t18 per minot. Yet, it is higher than the
+harmonized price of £t8.9 per minot successfully introduced by Napoleon in 1806, 17 years after the French
+Revolution, when the latter reinstated the salt tax.49 As anticipated by Necker, tax harmonization might
+thus not have been implementable, notably at a rate sustaining the government revenue of the status quo.
+7 Conclusion
+Increased tax enforcement is often perceived as strengthening state capacity. However, the political feasibility
+of these reforms is unclear. Rulers will promote or hinder tax enforcement policies depending on whether it
+benefits them or threatens their political stability.
+This paper provides evidence that increased tax enforcement can lead to political backlash. In particular,
+the creation of special courts to prosecute smugglers in pre-Revolutionary France led to numerous conflicts
+between the state, smugglers, and local populations. Evidence suggests that the discontent associated with
+the enforcement of the salt tax persisted until 1789. This climate of resentment against taxes contributed to
+the broader grievances that ultimately fueled the French Revolution. Interestingly, the political unsustain
+ability of the French old regime tax system offers a stark contrast with the simultaneous success of the UK
+46“I believe that the surest way to prevent salt smuggling would be to impose salt everywhere.” 47“Thus it would be fair to extend the salt tax throughout the Kingdom indiscriminately, in order to balance, by this new revenue, the loss that the Sovereign would make by reducing the price of salt in the other parts of his Kingdom.” 48We compute this estimate by retrieving the harmonized price that would lead to a 60 millions £t in revenue, adjusting for any consumption change. 49Sands et al. (1949) documents that Napoleon reestablished the salt tax at a rate of 2 decimes of franc germinal per kilogram. With a gold content of 0.29g, the franc germinal was worth about 0.93 livre tournois of 1780 (Wailly, 1857), and the pre-revolutionary minot was equivalent to about 48kg of salt (Touzery, 2024).
+28
+
+
+at increasing fiscal capacity with little political costs.
+Moreover, we show a positive, non-linear relationship between price differentials across neighbouring bor
+ders and the impact on the conflicts we observe. Areas with the greatest smuggling opportunities experienced
+the most conflict, and interestingly, this positive effect on conflict is only observed after a certain threshold
+of price differences. This convex relationship allows us to derive the highest conflict-free price of the high-tax
+region. Counterfactual fiscal scenarios predict that lowering the price in the high-tax region to the highest
+conflict-free price would result in a 13% loss of tax revenue. We interpret this figure as an upper bound on
+the political costs in early modern France: eliminating smuggling-related conflicts would cost the state 13%
+of tax revenue. Since the status quo was maintained, we conclude that the political costs of these conflicts
+were lower than the costs of eliminating them.
+We are aware that using an identification strategy based on an 18th-century natural experiment may
+come at the cost of reduced external validity for the present. Nevertheless, the evidence on the political costs
+of stricter tax enforcement in early modern France resonates with concerns faced by low-income countries
+today. Moreover, the fragmented tax system we study and the externalities it generated echo current debates
+pushing for tax harmonization at the national and global levels.
+References
+Abadie, Alberto, Susan Athey, Guido W. Imbens, and Jeffrey M. Wooldridge (2023). “When Should You Adjust Standard Errors for Clustering?” In: The Quarterly Journal of Economics 138.1, pp. 1–35. Acemoglu, Daron, Davide Cantoni, Simon Johnson, and James A Robinson (2011). “The Consequences of Radical Reform: The French Revolution”. In: American Economic Review 101.7, pp. 3286–3307. Alesina, Alberto, Bryony Reich, and Alessandro Riboni (2020). “Nation-Building, Nationalism, and Wars”. In: Journal of Economic Growth 25.4, pp. 381–430.
+Bayard, Franc ̧oise, Joe ̈l F ́elix, and Philippe Hamon (2000). Dictionnaire des surintendants et des contrˆoleurs g ́en ́eraux des finances. Paris: Comit ́e pour l’histoire e ́conomique et financi`ere de la France / IGPDE. Beaulieu, Eug`ene-Pierre (1903). Les gabelles sous Louis XIV. Paris: Berger-Levrault. Bergeron, Augustin, Gabriel Tourek, and Jonathan L Weigel (2024). “The State Capacity Ceiling on Tax Rates: Evidence from Randomized Tax Abatements in the DRC”. In: Econometrica 92.4, pp. 1163–1193. Bertrand, Marianne, Esther Duflo, and Sendhil Mullainathan (2004). “How Much Should We Trust Differencesin-Differences Estimates?” In: The Quarterly Journal of Economics 119.1, pp. 249–275. Besley, Timothy and Torsten Persson (2009). “The Origins of State Capacity: Property Rights, Taxation, and Politics”. In: American Economic Review 99.4, pp. 1218–1244. — (2010). “State Capacity, Conflict, and Development”. In: Econometrica 78.1, pp. 1–34. — (2013). “Taxation and Development”. In: Handbook of Public Economics. Vol. 5. Elsevier, pp. 51–110. Bonney, Richard (1999). The Rise of the Fiscal State in Europe c. 1200-1815. Oxford: Clarendon Press.
+Brewer, John (1989). The Sinews of Power: War, Money and the English State, 1688-1783. London: Unwin Hyman.
+Burg, David F. (2003). A World History of Tax Rebellions: An Encyclopedia of Tax Rebels, Revolts, and Riots from Antiquity to the Present. New York: Routledge.
+Butts, Kyle (2023). “Geographic Difference-in-Discontinuities”. In: Applied Economics Letters 30.5, pp. 615619. Calonico, Sebastian, Matias D Cattaneo, and Rocio Titiunik (2014). “Robust nonparametric confidence intervals for regression-discontinuity designs”. In: Econometrica 82.6, pp. 2295–2326.
+29
+
+
+Cantoni, Davide, Cathrin Mohr, and Matthias Weigand (2024). “The Rise of Fiscal Capacity: Administration and State Consolidation in the Holy Roman Empire”. In: Econometrica 92.5, pp. 1439–1472. Casaburi, Lorenzo and Ugo Troiano (2016). “Ghost-House Busters: The Electoral Response to a Large Anti–Tax Evasion Program”. In: The Quarterly Journal of Economics 131.1, pp. 273–314.
+Chambru, C ́edric (2019). Do the Right Thing! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France. EHES Working Paper 161. European Historical Economics Society. Chambru, C ́edric, Emeric Henry, and Benjamin Marx (2021). The Dynamic Consequences of State-Building: Evidence from the French Revolution. CEPR Discussion Paper 16815. Centre for Economic Policy Research. Chambru, C ́edric and Paul Maneuvrier-Hervieu (2024). “Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict”. In: American Political Science Review 118.2, pp. 1084–1091. Chevet, Jean-Michel (1993). “Les crises d ́emographiques en France `a la fin du XVIIe sie`cle et au XVIIIe si`ecle : un essai de mesure”. In: Histoire & Mesure 8.1-2, pp. 117–144. Chiovelli, Giorgio, Leopoldo Fergusson, Luis R Martınez, Juan David Torres, and Felipe Valencia Caicedo (2024). Bourbon Reforms and State Capacity in the Spanish Empire. Working Paper 2024-36. Becker Friedman Institute. Cochois, Paul (1902). “E ́tude historique et critique de l’impoˆt sur le sel en France”. PhD thesis. Faculte ́ de droit de l’Universit ́e de Paris. Code de Louis XV (1778). Grenoble: Imprimeur-Libraire du Parlement. url: https://gallica.bnf.fr/ ark:/12148/bpt6k96418095.
+Coglianese, John, Lucas W Davis, Lutz Kilian, and James H Stock (2017). “Anticipation, tax avoidance, and the price elasticity of gasoline demand”. In: Journal of Applied Econometrics 32.1, pp. 1–15.
+Collins, James B. (1988). Fiscal Limits of Absolutism: Direct Taxation in Early Seventeenth-Century France. Berkeley: University of California Press. url: https : / / www . ucpress . edu / book / 9780520059115 / fiscal-limits-of-absolutism.
+Cristofoli, Pascal, Marie-Christine Vouloir, Bertrand Dum ́enieu, and Claude Motte (2021). Des chefs-lieux de Cassini aux communes de France (1756-1999). Didomena. Entrepoˆt de donn ́ees de la recherche de l’EHESS. url: https://didomena.ehess.fr/concern/data_sets/6395wb092.
+Dal B ́o, Ernesto, Karolina Hutkov ́a, Lukas Leucht, and Noam Yuchtman (2022). Dissecting the sinews of power: international trade and the rise of Britain’s fiscal-military state, 1689-1823. Tech. rep. National Bureau of Economic Research. Davoine, Eva, Joseph Enguehard, Victor Gay, and Igor Kolesnikov (2024). “Early Modern Tax Technology: Local Evidence from the French Gabelle”. Draft available upon request. A shorter version is available under the name ”A Geographic Information System of the Early Modern French Salt Tax”. Degrave (2024). “The Limits of Informational Capacity: Evidence from the French Napoleonic Cadaster”. In. Degrave, Anne (2023). “Local Rule, Elites, and Popular Grievances: Evidence from Ancien Re ́gime France”. In: Journal of Historical Political Economy 3.1, pp. 1–29.
+Dincecco, Mark (2015). “The Rise of Effective States in Europe”. In: The Journal of Economic History 75.3, pp. 901–918. “Divers tableaux de recettes et de d ́epenses” (1701). Manuscript, Biblioth`eque nationale de France. url: https://gallica.bnf.fr/ark:/12148/btv1b90572595.
+Durand, Yves (1971). Les fermiers ge ́ne ́raux au XVIIIe si`ecle. Paris: Presses universitaires de France. — (1974). “La contrebande de sel au XVIIIe si`ecle aux fronti`eres de Bretagne, du Maine et de l’Anjou”. In: Histoire sociale/Social History 7.14.
+Dzansi, James, Anders Jensen, David Lagakos, and Henry Telli (2022). Technology and tax capacity: evidence from local governments in Ghana. Tech. rep. National Bureau of Economic Research. Enguehard, Joseph (2020). “The Measure of Disorder: Population, State-Building and Rebellion in Old Regime France, 1661-1789”. MA thesis. Paris School of Economics.
+Evrard, Se ́bastien (2024). Justice royale et contrebande au sie`cle des Lumie`res : La commission de Reims (1740-1789). Paris:  ́Editions L’Harmattan. Fajgelbaum, Pablo D., Eduardo Morales, Juan Carlos Su ́arez Serrato, and Owen Zidar (2019). “State Taxes and Spatial Misallocation”. In: The Review of Economic Studies 86.1, pp. 333–376.
+30
+
+
+Ferrer, Andr ́e (1993). “La contrebande et sa r ́epression en Franche-Comt ́e au XVIIIe si`ecle”. PhD thesis. Universit ́e de Franche-Comt ́e.
+Fischer, Gunther et al. (2021). Global Agro-Ecological Zones v4 – Model documentation. Food and Agriculture Organization of the United Nations. Rome. Gay, Victor, Paula Eugenia Gobbi, and Marc Gon ̃i (2023). Revolutionary Transition: Inheritance Change and Fertility Decline. CEPR Discussion Paper 18607. Centre for Economic Policy Research. Gay, Victor and Philippe Hamon (2024). “Rebellions in France, 1661-1789”. Draft on request. Gelabert, Juan (1995). “The Fiscal Burden”. In: Economic Systems and State Finance. Ed. by Richard Bonney. The Origins of the Modern State in Europe, 13th to 18th Centuries. Oxford, New York: Oxford University Press, pp. 539–576. Gennaioli, Nicola and Hans-Joachim Voth (2015). “State Capacity and Military Conflict”. In: Review of Economic Studies 82.4, pp. 1409–1448.
+Giommoni, Tommaso and Gabriel Loumeau (2022). Taxation with a Grain of Salt: The Long-Term Effect of Fiscal Policy on Local Development. CESIfo Working Paper 9997. Center for Economic Studies & Ifo Institute. Giommoni, Tommaso, Gabriel Loumeau, and Marco Tabellini (2024). “Taxes, Transfers, and Support for the State: Evidence from the French Revolution”. Goldstone, Jack A. (2011). “Chapter 2. The Social Origins of the French Revolution Revisited”. In: From Deficit to Deluge. The Origins of the French Revolution. Ed. by Thomas E. Kaiser and Dale K. Van Kley. Redwood City: Stanford University Press, pp. 67–103. Gu ́ery, Alain (1978). “Les finances de la monarchie fran ̧caise sous l’Ancien R ́egime”. In: Annales 33.2, pp. 216–239. Henn, Soeren J., Christian Mastaki Mugaruka, Miguel Ortiz, Rau ́l S ́anchez de la Sierra, and David Qihang Wu (2024). “Monopoly of Taxation Without a Monopoly of Violence: The Weak State’s Trade-Offs From Taxation”. In: Review of Economic Studies, rdae036.
+Hocquet, Jean-Claude, ed. (1987). Le roi, le marchand et le sel. Lille: Presses Universitaires de Lille. Hoffman, Philip T (2015). Why Did Europe Conquer the World? Princeton University Press. Huvet-Martinet, Micheline (1975). “Gabelous et Faux-Sauniers en France `a la fin de l’Ancien R ́egime : essai statistique et sociologique sur le faux-saunage dans le ressort de la Commission de Saumur (1764-1789)”. PhD thesis. Universit ́e Rennes 2. Jakobsen, Katrine, Henrik Kleven, Jonas Kolsrud, Camille Landais, and Mathilde Mun ̃oz (2024). Taxing Top Wealth: Migration Responses and their Aggregate Economic Implications. NBER Working Paper 32153. National Bureau of Economic Research. Johnson, Noel D. and Mark Koyama (2014). “Tax Farming and the Origins of State Capacity in England and France”. In: Explorations in Economic History 51, pp. 1–20.
+Keen, Michael and Joel Slemrod (2017). “Optimal Tax Administration”. In: Journal of Public Economics 152, pp. 133–142. Kilian, Lutz and Xiaoqing Zhou (2024). “Heterogeneity in the pass-through from oil to gasoline prices: A new instrument for estimating the price elasticity of gasoline demand”. In: Journal of Public Economics 232, p. 105099. Krause, Benjamin (2020). “Balancing Purse and Peace: Tax Collection, Public Goods and Protests”. Mimeo. Kwass, Michael (2014). Contraband: Louis Mandrin and the Making of a Global Underground. Cambridge, MA: Harvard University Press. Laffer, Arthur B. (2004). The Laffer Curve: Past, Present, and Future. Backgrounder. The Heritage Foundation. Lamoignon de Malesherbes, Chr ́etien-Guillaume de (1779). M ́emoires pour servir `a l’histoire du droit public de la France en matie`re d’impoˆts. Bruxelles.
+Le Prestre de Vauban, S ́ebastien (1707). Projet d’une dixme royale. Legay, Marie-Laure (2019). “D ́efier l’administration: les inscriptions en faux contre la Ferme ge ́ne ́rale (16801780)”. In: Revue historique 2019.2, pp. 315–334. Levi, Margaret (1988). Of rule and revenue. University of California Press. Levin, Laurence, Matthew S Lewis, and Frank A Wolak (2017). “High frequency evidence on the demand for gasoline”. In: American Economic Journal: Economic Policy 9.3, pp. 314–347.
+31
+
+
+Liander, Nils M ̊arten H ̊akansson (1981). “Smuggling Bands in Eighteenth Century France”. PhD thesis. Harvard University.
+Mallet, Jean-Roland (1789). Comptes rendus de l’administration des finances du Royaume de France. London. Mallet, Stephen (2024). “The Business of Smuggling in the Eighteenth Century: Anglo-French Comparisons”. PhD thesis. UCL (University College London).
+Mathon de la Cour, Charles-Joseph (1788). Collection de comptes-rendus, pie`ces authentiques, e ́tats et tableaux concernant les finances de France depuis 1758 jusqu’en 1787. Lausanne.
+Montenach, Anne and C ́ecile Bournat-Qu ́erat (2023). “Dauphin ́e”. In: Dictionnaire nume ́rique de la Ferme g ́en ́erale. Ed. by Marie-Laure Legay and Thomas Boullu. Moulis, Philippe (2013). “Fronti`eres et contrebandes en France du nord 17e-18e si`ecles”. In: Dix-huiti`eme Si`ecle 45.1, pp. 541–563.
+Mousnier, Roland. (1974 - 1980). Les institutions de la France sous la monarchie absolue : 1598-1789. Collection ”Histoire des institutions”. Paris: Presses universitaires de France. Necker, Jacques (1784). De l’Administration des finances de la France. Nicolas, Jean (2002). La r ́ebellion fran ̧caise. Mouvements populaires et conscience sociale (1661-1789). Paris: Seuil.
+Ordonnance des Gabelles (1680). Ordonnances de Louis XIV, Roy de France et de Navarre, Sur le fait des Gabelles & des Aydes. Paris: Imprimerie de Franc ̧ois Muguet.
+Parker, Geoffrey (1988). The Military Revolution: Military Innovation and the Rise of the West, 1500–1800. Cambridge: Cambridge University Press.
+Pasquier, Jean (1978). L’impˆot des gabelles en France aux XVIIe et XVIIIe si`ecles. Gene`ve: Slatkine.
+Riley, James C. (1987). “French Finances, 1727-1768”. In: The Journal of Modern History 59.2, pp. 210–243. Rochefoucauld d’Enville, Louis Alexandre de la (1887). “Projet de d ́ecret sur la re ́partition des 300,000,000 de livres de contributions fonci`ere et mobili`ere de 1791, contenu dans le rapport de M. La Rochefoucauld, en annexe de la s ́eance du 27 mai 1791”. In: Archives Parlementaires de la R ́evolution Franc ̧aise 26, pp. 520–549. Sall ́e de Choux, Franc ̧ois Etienne (1877). “Motion de M. Salle ́ de Choux concernant les gabelles, dat ́ee du 16 septembre 1789”. In: Archives Parlementaires de la Re ́volution Franc ̧aise 9.1, pp. 7–9.
+Sands, Theodore and Chester Penn Higby (1949). “France and the Salt Tax”. In: The Historian 11.2, pp. 145165. Sanson (1665). Atlas des gabelles. Manuscript, Biblioth`eque nationale de France.
+Shapiro, G. and J. Markoff (1998). Revolutionary Demands: A Content Analysis of the Cahiers de Dole ́ances of 1789. Stanford: Stanford University Press. Tilly, Charles (1992). Coercion, Capital, and European States, A.D. 990-1992. Studies in social discontinuity. Cambridge, MA: Blackwell.
+Touzery, Mireille (2024). Payer pour le roi: La fiscalit ́e monarchique (France, 1302-1792). Ceyz ́erieu: Editions Champ Vallon.
+Wailly, Natalis de (1857). M ́emoire sur les variations de la livre tournois depuis le r`egne de saint Louis jusqu’`a l’e ́tablissement de la monnaie de ́cimale. Paris: Imprimerie imp ́eriale. Webber, C. and A.B. Wildavsky (1986). A History of Taxation and Expenditure in the Western World. Simon and Schuster. Weigel, Jonathan L. (2020). “The Participation Dividend of Taxation: How Citizens in Congo Engage More with the State When it Tries to Tax Them”. In: The Quarterly Journal of Economics 135.4, pp. 18491903. Zucman, Gabriel (2013). “The Missing Wealth of Nations: Are Europe and the US Net Debtors or Net Creditors?” In: The Quarterly Journal of Economics 128.3, pp. 1321–1364.
+32
+
+
+A Appendix
+A.1 Tables
+Table A.1: Cahiers de dole ́ances: coding of grievance types
+Tax type Original grievance objects Original code
+Direct taxes:
+Income tax (Taille) Taille, Taille personnelle, Taille re ́elle, Taille tarife ́e, GTADITA, GTADITP, GTADITR Collecteurs des tailles, Taille re ́elle &Taille personnelle GTADACO, GTADACO, GTADITT, Impˆots accessoires `a la taille, Receveurs des tailles GTADIAT, GTADART
+Property tax (Vingti`emes) Contrˆoleurs du vingti`eme, Directeurs du vingtie`me, GTADACV, GTADADV, Vingtie`me des biens-fonds, Vingtie`me de l’industrie GTADIVD, GTADIVB, Vingtie`mes, Vingtie`me des charges et offices GTADIVO, GTADIVI
+Head tax (Capitation) Capitation GTADICA
+Indirect taxes:
+Salt tax (Gabelle) Sel, Gabellous, Greniers a` sel, Gabelle, Sel d’impˆot EAGMASE, GTAIAGA, GTAIAGS, GTAINGA, GTAINSD
+Consumption taxes (Aides) Aides, Droits sur la fabrication, Droits d’entre ́e et de sortie, GTAINAI, GTAINDF, GTAINES Huiles, Octrois des villes GTAINHU, GTAINOC
+Customs (Traites) Traites (internal), Traites (external), Traites, ECOTOTI, ECOTOTE, ECOTOTR, Tolls and customs - miscellaneous, Cinq grosses fermes ECOTO0, ECOTOTO1
+Tobacco (Tabac) Tobacco EAGMATO
+Notes. This table shows the different categories of grievances based on the original coding by Shapiro et al. (1998) that we use to build the variables in Figure 6.
+33
+
+
+Table A.2: Balance Table
+(1) (2) (3) (4) (5) (6)
+Mean Full 70 km 60km 50km 40km
+Distance to closest road (km) 4.361 -0.918*** -0.287*** -0.203** -0.148 -0.101 (22.133) (0.201) (0.105) (0.102) (0.101) (0.102)
+Distance to g ́en ́eralit ́e capital (km) 65.880 -10.716*** -3.167 -2.824 -1.637 -0.635 (38.715) (3.260) (3.959) (4.184) (4.375) (4.541)
+Log population 1793 6.211 -0.101*** -0.024 -0.022 0.013 0.037 (0.870) (0.038) (0.055) (0.058) (0.060) (0.062)
+Agriculture suitability (wheat) 4.788 0.646*** -0.084 -0.126 -0.154 -0.135 (1.780) (0.115) (0.128) (0.128) (0.132) (0.133)
+Agriculture suitability (cereal) 4.893 0.461*** -0.107 -0.147 -0.174 -0.147 (1.814) (0.116) (0.127) (0.127) (0.132) (0.134)
+Forest coverage 0.116 0.017** -0.017 -0.019 -0.023 -0.028* (0.159) (0.008) (0.013) (0.014) (0.014) (0.015)
+Observations 36,598 36,598 16,380 14,654 12,750 10,711
+Notes. This table presents balance across high-tax and low-tax regions calculated for different bandwidth that are used throughout the paper. Data on the road network and the forest coverage for pre-revolutionary France was extracted from https://www.geohistoricaldata.org. Location of ge ́ne ́ralite ́ capitals was generously provided by the authors of Chambru (2019). Data on population was obtained from Cristofoli et al. (2021). To measure agricultural suitability, we use normalized suitability index calculated for low level inputs from the third version of the GAEZ database (Fischer et al., 2021).
+Table A.3: Effect of increased tax enforcement on conflicts - 40km bandwidth
+(1) (2) (3) (4) Smuggling conflicts Local population Other conflicts Smuggling conflicts
+HighTax * Post 0.039*** 0.013*** 0.003 0.321*** ( 0.005) ( 0.002) ( 0.003) ( 0.047)
+HighTax * Post * Log Dist to Court -0.024*** ( 0.004)
+N municipalities 10,852 10,852 10,852 10,852 Mean in 1730 0.002 0.001 0.011 0.002 R-Squared 0.20 0.14 0.61 0.20 Bandwidth 40km 40km 40km 40km Decade-Municipality FE
+Notes. The table reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆ from Equation 1. In column (1), the dependent variable is the count of smuggling-related conflicts. Appendix Figure O.13 shows the corresponding RD plots. In column (2), the dependent variable is the count of smuggling-related conflicts in which the local population gets involved. In column (3), the dependent variable is all other conflicts, hence not related to smuggling, included in the HiSCoD database. Lastly, column (4) is the same as column (1) interacting dummy for the reform implementation with the log distance of the closest court. The table presents results from a specification with a 40km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level. * p < 0.10, ** p <0.05, *** p <0.01.
+34
+
+
+Table A.4: Effect of increased tax enforcement on conflicts - 60km bandwidth
+(1) (2) (3) (4) Smuggling conflicts Local population Other conflicts Smuggling conflicts
+HighTax * Post 0.036*** 0.013*** 0.001 0.242*** ( 0.004) ( 0.002) ( 0.003) ( 0.033)
+HighTax * Post * Log Dist to Court -0.017*** ( 0.003)
+N municipalities 14,568 14,568 14,568 14,568 Mean in 1730 0.002 0.001 0.011 0.002 R-Squared 0.20 0.14 0.57 0.20 Bandwidth 60km 60km 60km 60km Decade-Municipality FE
+Notes. The table reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆ from Equation 1. In column (1), the dependent variable is the count of smuggling-related conflicts. Appendix Figure O.14 shows the corresponding RD plots. In column (2), the dependent variable is the count of smuggling-related conflicts in which the local population gets involved. In column (3), the dependent variable is all other conflicts, hence not related to smuggling, included in the HiSCoD database. Lastly, column (4) is the same as column (1) interacting dummy for the reform implementation with the log distance of the closest court. The table presents results from a specification with a 60km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level. * p < 0.10, ** p <0.05, *** p <0.01.
+Table A.5: Effect of increased tax enforcement on conflicts - 70km bandwidth
+(1) (2) (3) (4) Smuggling conflicts Local population Other conflicts Smuggling conflicts
+HighTax * Post 0.035*** 0.013*** -0.000 0.194*** ( 0.004) ( 0.002) ( 0.003) ( 0.027)
+HighTax * Post * Log Dist to Court -0.013*** ( 0.002)
+N municipalities 16,356 16,356 16,356 16,356 Mean in 1730 0.002 0.001 0.011 0.002 R-Squared 0.19 0.14 0.56 0.19 Bandwidth 70km 70km 70km 70km Decade-Municipality FE
+Notes. The table reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆ from Equation 1. In column (1), the dependent variable is the count of smuggling-related conflicts. Appendix Figure O.15 shows the corresponding RD plots. In column (2), the dependent variable is the count of smuggling-related conflicts in which the local population gets involved. In column (3), the dependent variable is all other conflicts, hence not related to smuggling, included in the HiSCoD database. Lastly, column (4) is the same as column (1) interacting dummy for the reform implementation with the log distance of the closest court. The table presents results from a specification with a 70km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level. * p < 0.10, ** p <0.05, *** p <0.01.
+35
+
+
+Table A.6: Effect of increased tax enforcement on conflicts - Optimal bandwidth - 59km
+(1) (2) (3) (4) Smuggling conflicts Local population Other conflicts Smuggling conflicts
+HighTax * Post 0.037*** 0.014*** 0.001 0.240*** ( 0.004) ( 0.002) ( 0.003) ( 0.033)
+HighTax * Post * Log Dist to Court -0.017*** ( 0.003)
+N municipalities 14,415 14,415 14,415 14,415 Mean in 1730 0.002 0.001 0.011 0.002 R-Squared 0.20 0.14 0.58 0.20 Bandwidth 59km 59km 59km 59km Decade-Municipality FE
+Notes. The table reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆ from Equation 1. In column (1), the dependent variable is the count of smuggling-related conflicts. Appendix Figure A.7 shows the corresponding RD plots. In column (2), the dependent variable is the count of smuggling-related conflicts in which the local population gets involved. In column (3), the dependent variable is all other conflicts, hence not related to smuggling, included in the HiSCoD database. Lastly, column (4) is the same as column (1) interacting dummy for the reform implementation with the log distance of the closest court. The table presents results from our benchmark specification using the optimal bandwidth of 59km. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level. * p < 0.10, ** p <0.05, *** p <0.01.
+Table A.7: Sources of smuggling-related events
+Type of sources Smuggling-related conflicts %
+All 1,903 Primary archival sources 1,665 87.49 Secondary archival sources 82 8.20 Missing 156 4.31
+Among primary archival sources:
+National Archives 1,355 71.20 Departemental Archives 310 16.29
+Notes. This table reports the sources of the salt smuggling-related conflicts from Chambru and Maneuvrier-Hervieu (2024) that occurred between 1661 and 1859 in the territory of the Kingdom of France.
+36
+
+
+Table A.8: Effect of increased tax enforcement on conflicts - by source
+(1) (2) (3) Smuggling conflicts Smuggling conflicts Smuggling conflicts
+HighTax * Post 0.031*** 0.032*** 0.031*** ( 0.003) ( 0.003) ( 0.003)
+Sources All Primary archives National archives N municipalities 12,762 12,762 12,762 Mean in 1730 0.002 0.002 0.002 R-Squared 0.14 0.14 0.15 Bandwidth 50km 50km 50km Decade-Municipality FE
+Notes. The table reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts by source type. We report the estimated coefficient βˆ from Equation 1. In column (1), the dependent variable is the count of smuggling-related conflicts using all available sources. Column (2), shows a similar result using only primary archival sources. Column (3), shows a similar result using only national archival sources (see Appendix Table A.7 for a definition of archival sources). The table presents results from our benchmark specification with a 50km bandwidth. The specification includes decademunicipality fixed effects. Standard errors are clustered at the municipality level. * p < 0.10, ** p <0.05, *** p <0.01.
+Table A.9: Effect of increased tax enforcement on conflicts - quadratic and cubic running variable
+(1) (2) (3) Smuggling conflicts Smuggling conflicts Smuggling conflicts
+HighTax * Post 0.039*** 0.035*** 0.025*** ( 0.004) ( 0.006) ( 0.007)
+Running variable Linear Quadratic Cubic N municipalities 12,762 12,762 12,762 Mean in 1730 0.002 0.002 0.002 R-Squared 0.20 0.20 0.20 Bandwidth 50km 50km 50km Decade-Municipality FE
+Notes. The table reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts varying the functional form of the running variable. In column (1), we report the estimated coefficient βˆ from Equation 1. Column (2), shows a similar result adding a quadratic term of the running variable. Column (3), shows a similar result adding a cubic term of the running variable. The table presents results from a specification with a 50km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level. * p < 0.10, ** p <0.05, *** p <0.01.
+37
+
+
+A.2 Figures
+0 10 20 30
+1660 1670 1680 1690 1700 1710 1720 1730 1740 1750 1760 1770 1780 1790
+Salt tax share in government revenue (%)
+Figure A.1: Share of salt taxation in state revenue
+Notes. Sources: J.-R. Mallet (1789), Rochefoucauld d’Enville (1887), “Divers tableaux de recettes et de d ́epenses” (1701), Gu ́ery (1978), Enguehard (2020), and Mathon de la Cour (1788).
+Notes.
+38
+
+
+Figure A.2: Salt tax regions (1781)
+Notes. This figure shows the salt tax regions in 1781 and their respective salt prices. This map is held at the Bibliothe`que nationale de France.
+39
+
+
+0 5 10
+1660 1670 1680 1690 1700 1710 1720 1730 1740 1750 1760 1770 1780
+# conflicts / decade / million inhabitants
+Creation of the special courts
+Consumption taxes Customs Salt Tobacco
+Figure A.3: Conflict related to different taxes, per capita
+Notes. This figure shows an index of the number of conflicts per capita either related to the consumption taxes (aides, essentially concerning alcoholic beverages), salt and tobacco taxes, or internal and external customs (traites). The red line marks the creation of the special courts, lasting from 1733 to 1742. Source: conflict data from Chambru and Maneuvrier-Hervieu (2024), Chevet (1993) for population.
+40
+
+
+0 20 40 60
+1670 1680 1690 1700 1710 1720 1730 1740 1750 1760 1770 1780
+Death Galleys, detention, ban Light penalties
+Creation of the special courts
+Figure A.4: Trends in the number of convictions for smuggling
+Notes. This figure shows the decennial number of sentences pronounced in trials following conflicts related to smuggling, by type of sentence, for the subsample of conflicts in our data that present such information. Light penalties include fines, pillory and admonition (N = 434). The red line marks the creation of the special courts, lasting from 1733 to 1742. Data source: Gay and Hamon (2024), originally Nicolas (2002).
+41
+
+
+0 10 20 30
+1690 1700 1710 1720 1730 1740 1750 1760 1770 1780 1790
+# Salt smuggling conflicts/year
+Creation of a special court
+High−tax region Low−tax regions
+Salt smuggling conflicts
+Figure A.5: Salt smuggling conflicts over time
+Notes. This figure shows the annual number of smuggling conflicts related to salt occurring in the high-tax region and in the low-tax regions.
+0 .02 .04 .06 .08
+Smuggling-related conflicts 1661-1732
+-50 0 50 Distance to salt tax border
+Pre-reform
+0 .02 .04 .06 .08
+Smuggling-related conflicts 1733-1789
+-50 0 50 Distance to salt tax border
+Post-reform
+Figure A.6: RDD on conflicts, pre and post-creation of the courts, 50km bandwidth
+Notes. This figure shows the relationship between smuggling-related conflicts before the enforcement reform (left graph) and after (right graph) against the distance to the salt tax border (on the horizontal axis). Bins represent averages over equally-spaced intervals of size 2 km, and confidence intervals (at the 95% significance level) are also shown by vertical lines. The predicted relationships between smuggling-related conflicts and distance to the high tax border are estimated using a linear regression.
+42
+
+
+-.1 0 .1 .2 .3 .4
+Δ Smuggling-related conflicts
+-50 0 50 Distance to salt tax border
+Figure A.7: RDD on the differences in conflicts pre and post-creation of the courts, optimal bandwidth 59km
+Notes. This figure shows the relationship between the difference in smuggling-related conflicts before the enforcement reform and after against the distance to the salt tax border (on the horizontal axis). Bins represent averages over equally-spaced intervals of size 2.36 km, and confidence intervals (at the 95% significance level) are also shown by vertical lines. The predicted relationships between smuggling-related conflicts and distance to the high tax border are estimated using a linear regression.
+French Revolution Abolishment of the salt tax
+Optimal bandwiths:
+61km 37km 46km 87km 43km 42km 58km 69km 62km 77km 77km 67km 73km 69km 70km 76km
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+Δ # of conflicts
+-40 -30 -20 -10 0 10 20 30 40 50 60 70 80 90 100 110 120
+Figure A.8: Dynamic effect of increased tax enforcement on conflicts - Optimal bandwidth
+Notes. This figure presents the RD estimates obtained from multiple regressions. In each regression, the outcome variable is the difference in the number of conflicts between a given decade and the baseline decade of 1730. The estimates are plotted for each decade, with the corresponding optimal bandwidths (in kilometers) displayed. These optimal bandwidths are determined using the method developed by Calonico et al. (2014).
+43
+
+
+p-value: 0.000
+0 20 40 60 80 100
+% of deputies supporting the repeal of the salt tax
+Low-tax regions High-tax region
+N deputies=63
+Figure A.9: Share of deputies clearly supporting the repeal of the salt tax in 1789-1790
+Notes. This figure shows the share of deputies who clearly supported the repeal of the salt tax in 1789-1790 in the high-tax and the low-tax regions, among all deputies who intervened in the debate at the National Assembly. We read parliamentary records from the Archives parlementaires to identify all members of the National Assembly who participated in the debates over the abolition of the salt tax in 1789-1790. We stop when the last article of the abolition decree is voted on March 22, 1790. The main part of the debates consisted of discussion of a draft abolition decree put forward by the Finance Committee in the person of Dupont de Nemours. We locate the constituencies of these 63 deputies, and the corresponding salt tax regions. We classify them into two categories: those who expressed a clear intention to abolish the tax and supported the project, and those who expressed doubts, contested the planned arrangements for replacing the tax or demanded additional replacement guarantees–in fact, no one explicitly opposed the repeal of the salt tax; instead, representatives raised concerns about replacement taxes that would disproportionately burden their constituencies after the abolition. Online Appendix Figure O.22 shows the location of constituencies. Source: https://archives-parlementaires.persee.fr/
+0 .1 .2 .3 .4
+Effect on conflicts (β)
+10 20 30 40 50 60 Price differences across adjacent regions (LT/minot)
+Figure A.10: Effect of increased tax enforcement on conflicts by short tax border segment
+Notes. The figure reports difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts by short border segment as displayed in A.2. We report the estimated coefficient βˆs from Equation 2 on the vertical axis and the price differences of each border segment on the horizontal axis. The figure presents results from our benchmark specification with a 50km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level.
+44
+
+
+B Estimating creform
+Naively multiplying the counterfactual price of the high-tax region by the salt consumption in 1784 would
+ignore the equilibrium effects on consumption resulting from the change in the price of salt. For this reason,
+we attempt to estimate cReform, the average level of salt consumption per capita if pReform had been
+implemented. Necker suggests approximating this parameter by using the average per capita consumption
+in parts of France where the price of salt was already at a level similar to his proposal. Similarly, we predict
+what cReform would have been using estimates of average per capita consumption in the other regions, as
+shown in Appendix Figure B.1. We multiply this estimate by the total population of the high-tax region
+and by the reformed price to calculate Step 1 of Equation 3.
+Note that this counterfactual consumption allows us to calculate the price elasticity of salt, which is
+defined as follows:
+e = pstatusquo
+cstatusquo
+∗ cstatusquo − cref orm
+pstatusquo − pref orm
+(4)
+where e is the percentage change in salt consumption when the price of salt increases by 1 per cent.50
+The implied price elasticity of salt, calculated using Equation 4, is -0.63. This result confirms that salt
+is an inelastic good, but not as much as gas in the US today: its elasticity has been estimated to be between
+-0.2 and -0.37 (Kilian et al., 2024; Coglianese et al., 2017; Levin et al., 2017).
+0.1138
+10
+20
+30
+40
+50
+60
+38
+Average Price (LT/minot)
+.1 .12 .14 .16 .18 .2 Average salt consumption per head
+Figure B.1: Salt demand curve
+Notes. The figure reports the average price of salt on the y-axis and the average salt consumption per head on the x-axis. We add a quadratic fit to estimate what would have been the average salt consumption per head under our proposed price of £t38 per minot in the high-tax region. Source: Necker (1784).
+50Note that this elasticity can be broken down into two parts. First, there is a substitution effect from other goods to salt as salt becomes relatively cheaper. Second, there is a substitution effect from smuggled salt to formal salt, as the benefits of the illicit trade diminish as formal salt becomes more affordable. One way to estimate this second elasticity in isolation is to look at the difference in salt consumption between cities exposed to salt smuggling (close to the border with the exempt region) and those not exposed (located in the central part of the high-tax region).
+45
+
+
+The Political Costs of Taxation: Online Appendix
+Eva Davoine, Joseph Enguehard and Igor Kolesnikov
+Link to the main paper
+O.1 Did the special courts increase government revenue?
+The establishment of anti-smuggling special courts coincided with the onset of wars, reflecting the anticipation
+of increased fiscal needs, as illustrated in the Online Appendix Figure O.1. To what extent did these courts
+succeed in increasing government revenue? Figure O.1 suggests that the increase in tax revenue was moderate
+and delayed. This outcome can be attributed, in part, to the constraints imposed by the tax farming
+system, under which revenues were determined by fixed lease contracts with a standard duration of 6 years
+(Clamageran, 1876; White, 2004). Tax farming encompassed most of indirect taxation, including the salt
+tax. As such, increasing enforcement would increase the value of the next lease, but could not increase state
+revenues immediately (benefits being ripped off by the Farm).
+But even out of the tax farming system, the state could not increase taxes enough to meet the variations
+in military expenditures, as the gap between the blue curve and the yellow curve illustrates in Figure O.1.
+This implied resorting to debt. In this regard, increasing future tax collection through stricter enforcement
+appears to be a complementary strategy. However, this did not suffice to prevent the explosive trajectory
+of public debt, leading to the Revolution. The problem of the monarchy was thus never solved: given the
+political costs of taxation inherent to the institutional constraints of the Old Regime, there was no feasible
+tax system that would secure the funding of rising military expenditures (which can be understood under
+the formal argument developed in Section O.2 of the Online Appendix).
+In addition, we need to consider how these taxes weighed on taxpayers. By examining the impact of the
+salt tax on household budgets using various deflators relevant to ordinary taxpayers (such as agricultural
+wages and the price of bread), we find that the salt tax represented an increasing share of people’s income
+over time (Appendix Figure O.2). This suggests that, as economic conditions deteriorated, the salt tax
+became an increasing burden on taxpayers without a corresponding increase in government revenues.
+Finally, we can look at how this increase divides between the direct and indirect part of the salt tax.
+The direct part (mandatory salt consumption) applied only in certain border districts and was intended as
+1
+
+
+a tool against smuggling. As shown in Appendix Figure O.3, the amount of mandatory consumption has
+steadily decreased over the century, contrary to the amount of voluntary consumption. This implies that the
+state increasingly relied on revenues for which it was in competition with smugglers. This is consistent with
+a long-term reduction in smuggling: the state was able to increase revenues only by increasing voluntary
+consumption per capita, implying that taxpayers resorted less to smuggling. In this sense, the special courts
+achieved their goal.
+0.5 1.0 1.5 2.0 2.5
+1700 1710 1720 1730 1740 1750 1760 1770 1780
+Annual silver flows, normalized to 1 in 1733
+Creation of a special court
+GG tax revenue p.c. (silver) State expenditure p.c. (silver) State revenue p.c. (silver)
+Wartime periods
+Figure O.1: Salt tax revenue per capita (grams of silver)
+Notes. This figure shows the trends in revenue from the salt tax in the high tax region (Grandes Gabelles, denoted GG), ordinary state revenues (tax revenue) and state expenditures, in grams of silver and per capita. Revenues and expenditures are normalized to 1 in 1733. Shaded pink areas indicate the periods of war, and red lines mark the timing of the creation of the special courts. Data source: Necker (1784), Mallet (1789), Gue ́ry (1978), “Divers tableaux de recettes et de d ́epenses” (1701), Enguehard (2020), Mathon de la Cour (1788), ESFDB (n.d.), Chevet (1993) for population.
+2
+
+
+0.5 1.0 1.5 2.0 2.5
+1700 1710 1720 1730 1740 1750 1760 1770 1780
+Annual flows with different deflators, normalized to 1 in 1733
+Creation of a special court
+GG tax revenue p.c. (bread) GG tax revenue p.c. (CPI) GG tax revenue p.c. (wage)
+Wartime periods
+Figure O.2: Salt tax revenues per capita (various deflators)
+Notes. This figure shows the trends in revenue from the salt tax in the high tax region (Grandes Gabelles, denoted GG), per capita, respectively deflated by the price of bread, a CPI, and wage of an agricultural laborer. Revenues are normalized to 1 in 1733. Shaded pink areas indicate the periods of war, and red lines mark the timing of the creation of the special courts. Data source: same as in Figure O.1, and Ridolfi (2019) for the deflators.
+0.5 1.0 1.5 2.0 2.5
+1700 1710 1720 1730 1740 1750 1760 1770 1780
+Annual sales volume, normalized to 1 in 1733
+Creation of a special court
+Wartime periods
+GG mandatory salt sales p.c. GG voluntary salt sales p.c.
+Figure O.3: Legal salt sales
+Notes. This figure shows the trends in the volumes of salt sold by the state as part of the salt tax system in the high tax region (Grandes Gabelles, denoted GG), per capita, either from mandatory consumption requirements or from voluntary consumption. Salt sales are normalized to 1 in 1733. Shaded pink areas indicate the periods of war, and red lines mark the timing of the creation of the special courts. Data source: same as in Figure O.1.
+O.2 Conceptual framework
+We formalize the problem of the early modern French state within the following framework.
+3
+
+
+The ruler maximizes its utility U = R − P , facing a trade-off between tax revenue R and political costs
+P . He chooses the nominal tax rate τ and enforcement E level to implement to maximize its utility U , under
+an external constraint R ≥ ρ. Enforcement is discrete, with E ∈ {0, 1}. The function of tax revenue takes as
+inputs the nominal tax rate and the level of enforcement and increases in both. Political costs encapsulate
+the internal threats to the legitimacy of the state. They decrease in the welfare of taxpayers and therefore
+also increase in both the tax rate and in the level of tax enforcement. Furthermore, we think of the external
+constraint as the minimum level of expenditures that enables the survival of the state, given the external
+military threats. The problem of the ruler writes:
+max
+(τ,E)∈[0,1]×{0,1}
+U (τ, E) = R(τ, E) − P (τ, E) s.t. R(τ, E) ≥ ρ.
+O.2.1 Upper bound of political costs
+This section formalizes the argument about the quantification of political costs exposed in Section 6 of the
+main paper.
+In our empirical setting, political costs are materialize in internal conflict C, and internal conflict is
+related to smuggling, which increases in the tax differential τ − τl, where τ is the tax rate in the high tax
+region and τl is the rate in the neighboring low-tax region. Political costs around border segment l thus
+rewrite P (C(τ − τl, E)).1
+Our main empirical exercise estimates the aggregate effect β = ∆C
+∆E (Section 5 of the main paper). With
+our heterogeneity analysis, we estimate βl = ∆C
+∆E (δl) for each border segment l, where δl = τ − τl. We infer
+from these results the function β(δ), which we find to be nondecreasing, so that we can identify a maximum
+tax differential without conflict, δmax:
+δmax = max{δ | β(δ) = 0}. (1)
+This defines a maximum conflict-free rate τ max in the high-tax region:
+τ max = δmax + mlinτl. (2)
+By construction,
+(∀l) β(τ max − τl) = 0. (3)
+1To be fully consistent with our general framework and keep the tax rate in the high tax region as the only instrument, τl has to be considered as a parameter for the state. This is a valid approximation for the low level of state agency in the low-tax regions: tax rates in the low-tax region were shaped by long-term political costs and sticky, while the tax rate in the high-tax region was more flexible in the short term.
+4
+
+
+Since the aggregate effect has to be a combination of the local effects (β = P
+l alβl), under the counter
+factual τ = τ max, there is no change in conflict in the aggregate: ∆C
+∆E = 0. We also empirically find that
+C(δmax, 0) ≈ 0, so the reasonable assumption P (0) = 0 yields
+P (τmax, 1) = 0. (4)
+Now, the historically implemented rate was τ ∗, not τ max. By revealed preferences,
+U (τ max, 1) < U (τ ∗, 1). (5)
+Combined with Equation 4, this rewrites
+P (τ ∗, 1)
+R(τ ∗, 1) < R(τ ∗, 1) − R(τ max, 1)
+R(τ ∗, 1) . (6)
+As we can also estimate counterfactual revenue without conflict R(τ max, 1), we are thus able to compute
+an upper bound of political costs under high enforcement, which we can express as a percentage of tax
+revenue.
+O.3 Tables
+Table O.1: Casualties from smuggling-related conflicts
+1661-1700 1701-1750 1751-1789
+Tax enforcement agents Wounded 8,7 9,2 23 Deaths 1,4 3,1 2,7
+Smugglers & Local populations Wounded 2,6 4,2 6,1 Deaths 1,9 4,5 2,6
+Notes. This table shows the average annual number of tax enforcement agents, taxpayers and smugglers killed or wounded in conflicts related to smuggling. Source: Nicolas (2002).
+5
+
+
+O.4 Figures
+0.75 1.00 1.25 1.50
+1680 1690 1700 1710 1720 1730 1740 1750 1760 1770 1780 1790
+Standardized price (1730 = 1)
+Creation of a special court
+Nominal price Silver price
+Salt price in the high−tax region
+Figure O.4: Trends in smuggling conflicts and salt prices
+Notes. This figure shows the official price of salt in the high tax region, expressed in current livre tournois and in grams of silver, with values normalized at 1 in 1730. The high tax price is a valid proxy of the price gap between the high tax regions and the tax exempted regions (generating most of the smuggling), since 84 p.c. of this price was tax (Touzery, 2024). Red lines mark the timing of the creation of the special courts. Data sources for the salt prices: Pasquier (1978), Touzery (2024), various archival documents; Wailly (1857) for the silver content of the livre.
+6
+
+
+0.00 0.01 0.02 0.03
+−100 −50 0 50 100 Distance to the fiscal border (km)
+Smuggling cases (Huvet, 1975) Smuggling conflicts (Nicolas, 2002)
+Figure O.5: Kernel density estimation of the spatial distribution of events related to salt smuggling
+Notes. Salt smuggling conflicts from Nicolas (2002), digitized by Chambru and Maneuvrier-Hervieu (2024), correspond to the main dataset of the paper and are restricted here to the period 1764-1789 and to the Southwest border region (events with Brittany or Pays r ́edˆım ́es as closest low tax region) in order to match the coverage of the data collected by Huvet-Martinet (1975) (see the Data section). Kernel density estimation using Epanechnikov kernel with a bandwidth of 4km, on the set of events occurring closer than 150km to the fiscal border. The sample size is N = 439 for the Nicolas data, and N = 4901 for the Huvet data.
+7
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Salt tax border,
+by price differences
+across adjacent regions 12.34 35.53 43.12 49.45 51.93
+55.91
+Share of grievances about salt 0−0.027
+0.027−0.083
+0.083−0.179
+0.179−0.429
+Figure O.6: Sample of parishes with grievance lists, related or not to the salt tax
+Notes. This map shows the location of parishes sampled in the database of Shapiro et al. (1998) in the different salt tax regions, and the proportion of the 1789 grievance lists (Cahiers de dole ́ances) related to the salt tax for each of them. Data source: Shapiro et al. (1998) for the grievances, Degrave (2023) for geo-referencing and data compilation, the Data section for the salt tax regions.
+8
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Paris Parliament border Salt tax border
+Figure O.7: Intersecting jurisdictions: The Parlement of Paris
+Notes. This figure shows administrative boundaries of the salt tax regions and the region administered by the Parliament of Paris. Source: Bibliothe`que nationale de France. https://gallica.bnf.fr/ark:/12148/btv1b84945542.
+9
+
+
+Figure O.8: Intersecting jurisdictions: Subd ́el ́egations
+Notes. This figure shows administrative boundaries of the salt tax regions and the administrative boundaries of subd ́el ́egations in 1789. Source: Chambru (2023)
+10
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Salt tax border Traite border
+Figure O.9: Intersecting jurisdictions: the internal customs borders (traites)
+Notes. This figure shows administrative boundaries of the salt tax regions and the administrative boundaries of the internal customs borders in 1760. Source: Chambru (2023)
+11
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Généralité border Salt tax border
+Figure O.10: Intersecting jurisdictions: the G ́en ́eralit ́es borders
+Notes. This figure shows administrative boundaries of the salt tax regions and the administrative boundaries of the G ́en ́eralit ́es borders in in 1789. Source: Gay et al. (2024)
+12
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Pays d'état border Salt tax border
+Figure O.11: Intersecting jurisdictions: the Pays d’ ́election borders
+Notes. This figure shows administrative boundaries of the salt tax regions and the administrative boundaries of the Pays d’e ́lection. Source: Chambru (2023)
+13
+
+
+Salt tax border,
+by price differences
+across adjacent regions 12.34 35.53 43.12 49.45 51.93 55.91
+Distance from the border <40km <50km <60km <70km >70km
+Figure O.12: Location of the bandwidth
+Notes. This map shows the border of the high tax region, with the different bandwidths: 40km, 50km which is the bandwidth used for the main results, 60km and 70km.
+0 .05 .1
+Smuggling-related conflicts 1661-1732
+-40 -20 0 20 40 Distance to salt tax border
+Pre-reform
+0 .05 .1
+Smuggling-related conflicts 1733-1789
+-40 -20 0 20 40 Distance to salt tax border
+Post-reform
+Figure O.13: RDD on conflicts, pre and post-creation of the courts, 40km bandwidth
+Notes. This figure shows the relationship between smuggling-related conflicts before the enforcement reform (left graph) and after (right graph) against the distance to the salt tax border (on the horizontal axis). Bins represent averages over equally-spaced intervals of size 1.6 km, and confidence intervals (at the 95% significance level) are also shown by vertical lines. The predicted relationships between smuggling-related conflicts and distance to the high tax border are estimated using a linear regression.
+14
+
+
+0 .02 .04 .06 .08
+Smuggling-related conflicts 1661-1732
+-50 0 50 Distance to salt tax border
+Pre-reform
+0 .02 .04 .06 .08
+Smuggling-related conflicts 1733-1789
+-50 0 50 Distance to salt tax border
+Post-reform
+Figure O.14: RDD on conflicts, pre and post-creation of the courts, 60km bandwidth
+Notes. This figure shows the relationship between smuggling-related conflicts before the enforcement reform (left graph) and after (right graph) against the distance to the salt tax border (on the horizontal axis). Bins represent averages over equally-spaced intervals of size 2.4 km, and confidence intervals (at the 95% significance level) are also shown by vertical lines. The predicted relationships between smuggling-related conflicts and distance to the high tax border are estimated using a linear regression.
+0 .02 .04 .06 .08
+Smuggling-related conflicts 1661-1732
+-100 -50 0 50 100 Distance to salt tax border
+Pre-reform
+0 .02 .04 .06 .08
+Smuggling-related conflicts 1733-1789
+-100 -50 0 50 100 Distance to salt tax border
+Post-reform
+Figure O.15: RDD on conflicts, pre and post-creation of the courts, 70km bandwidth
+Notes. This figure shows the relationship between smuggling-related conflicts before the enforcement reform (left graph) and after (right graph) against the distance to the salt tax border (on the horizontal axis). Bins represent averages over equally-spaced intervals of size 2.8 km, and confidence intervals (at the 95% significance level) are also shown by vertical lines. The predicted relationships between smuggling-related conflicts and distance to the high tax border are estimated using a linear regression.
+15
+
+
+0 50 100 150 200
+1740 1750 1760 1770 1780 1790
+# of sentences, adjusted for population growth
+Figure O.16: Number of convictions handed down by the special court of Reims, per capita
+Notes. This figure shows the number of convictions handed down by the Commission de Reims by five-year periods over the time of its existence (1740-1789), standardized by the size of the French population (set to 1 in 1740). Evrard (2024) observes that the peak in the 1770s is due to the Commission exceptionally recovering cases from other courts. Data on convictions from Liander (1981), population from Chevet (1993).
+16
+
+
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Local population is involved
+N municipalities= 10852 Baseline mean= 0.002 Baseline mean, local pop= 0.001
+(a) Conflicts and spillovers on local population
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts All other conflicts
+N municipalities= 10852 Baseline mean= 0.002
+(b) Other conflicts
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Above median Below median
+Distance to court:
+N municipalities= 10852 Baseline mean= 0.002
+(c) Distance to court
+Figure O.17: Dynamic effect of increased tax enforcement on conflicts - 40km bandwidth
+Notes. The figure reports dynamic difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆt from Equation ?? in its fully dynamic form. Panel O.17a of the figure displays the dynamic effect on all smuggling-related conflicts and the subset of those in which the local population gets involved. Panel O.17b compares the effect on all smuggling-related conflicts to the effects on all other conflicts, hence not related to smuggling, included in our database. Lastly, panel O.17c decomposes the effect into two groups: conflicts that are below and above the median distance to the closest court. The figure presents results for a 40 km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level.
+17
+
+
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Local population is involved
+N municipalities= 14568 Baseline mean= 0.002 Baseline mean, local pop= 0.001
+(a) Conflicts and spillovers on local population
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts All other conflicts
+N municipalities= 14568 Baseline mean= 0.002
+(b) Other conflicts
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Above median Below median
+Distance to court:
+N municipalities= 14568 Baseline mean= 0.002
+(c) Distance to court
+Figure O.18: Dynamic effect of increased tax enforcement on conflicts - 60km bandwidth
+Notes. The figure reports dynamic difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆt from Equation ?? in its fully dynamic form. Panel O.18a of the figure displays the dynamic effect on all smuggling-related conflicts and the subset of those in which the local population gets involved. Panel O.18b compares the effect on all smuggling-related conflicts to the effects on all other conflicts, hence not related to smuggling, included in our database. Lastly, panel O.18c decomposes the effect into two groups: conflicts that are below and above the median distance to the closest court. The figure presents results with a 60km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level.
+18
+
+
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Local population is involved
+N municipalities= 16356 Baseline mean= 0.002 Baseline mean, local pop= 0.001
+(a) Conflicts and spillovers on local population
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts All other conflicts
+N municipalities= 16356 Baseline mean= 0.002
+(b) Other conflicts
+French Revolution Abolishment of the salt tax
+-.04 -.02 0 .02 .04 .06 .08 .1 .12 .14
+# of conflicts
+1690
+1700
+1710
+1720
+1730
+1740
+1750
+1760
+1770
+1780
+1790
+1800
+1810
+1820
+1830
+1840
+1850
+Smuggling-related conflicts Above median Below median
+Distance to court:
+N municipalities= 16356 Baseline mean= 0.002
+(c) Distance to court
+Figure O.19: Dynamic effect of increased tax enforcement on conflicts - 70km bandwidth
+Notes. The figure reports dynamic difference-in-discontinuities estimates of the effect of the tax enforcement reform on conflicts. We report the estimated coefficient βˆt from Equation ?? in its fully dynamic form. Panel O.19a of the figure displays the dynamic effect on all smuggling-related conflicts and the subset of those in which the local population gets involved. Panel O.19b compares the effect on all smuggling-related conflicts to the effects on all other conflicts, hence not related to smuggling, included in our database. Lastly, panel O.19c decomposes the effect into two groups: conflicts that are below and above the median distance to the closest court. The figure presents results with a 70km bandwidth. The specification includes decade-municipality fixed effects. Standard errors are clustered at the municipality level.
+19
+
+
+22.09%
+20.61%
+12.91%
+10.3%
+10.13%
+9.338%
+5.95%
+4.8363.%841%
+Other indirect taxation Income tax Property Tax Salt Tax Consumption taxes Head tax Tobacco Other direct taxation Customs
+Figure O.20: Breakdown of government tax revenue by type of tax (1789)
+Notes. This figure reports the shares of the different taxes in the revenue of the French state in 1789, the last year of operation of the ”Old regime” tax system. Data source: Rochefoucauld d’Enville (1887).
+Figure O.21: The income tax per region
+Notes. This map shows the income tax (tailles) contribution per capita in each administrative region (ge ́n ́eralite ́) in 1778. Map from Touzery (2024).
+20
+
+
+High−tax region
+Grandes gabelles
+Low−tax regions
+Petites gabelles Salines Quart−bouillon Pays rédímés Provinces franches
+Salt tax border,
+by price differences
+across adjacent regions 12.34 35.53 43.12 49.45 51.93 55.91
+Stance on the abolition
+of the salt tax
+Clear support
+Reserved
+Figure O.22: Parliamentary stances on the abolition of the salt tax
+Notes. This map complements the Appendix Figure A.9 by showing the constituencies’ locations of MPs who intervened in the debate on the abolition of the salt tax (see notes of Appendix Figure A.9 for details).
+References
+Chambru, C ́edric (2023). “Environmental shocks, religious struggle, and resilience: a contribution to the economic history of Ancien R ́egime France”. In: European Review of Economic History 27.4, pp. 638640. Chambru, C ́edric and Paul Maneuvrier-Hervieu (2024). “Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict”. In: American Political Science Review 118.2, pp. 1084–1091. Chevet, Jean-Michel (1993). “Les crises d ́emographiques en France `a la fin du XVIIe sie`cle et au XVIIIe si`ecle : un essai de mesure”. In: Histoire & Mesure 8.1-2, pp. 117–144.
+Clamageran, Jean-Jules (1876). Histoire de l’impˆot en France: ptie. L’ ́epoque monarchique, depuis la mort de Colbert (1683) jusqu’`a la mort de Louis XV (1774). Vol. 3. Guillaumin et cie.
+Degrave, Anne (2023). “Local Rule, Elites, and Popular Grievances: Evidence from Ancien Re ́gime France”. In: Journal of Historical Political Economy 3.1, pp. 1–29.
+“Divers tableaux de recettes et de d ́epenses” (1701). Manuscript, Biblioth`eque nationale de France. url: https://gallica.bnf.fr/ark:/12148/btv1b90572595.
+Enguehard, Joseph (2020). “The Measure of Disorder: Population, State-Building and Rebellion in Old Regime France, 1661-1789”. MA thesis. Paris School of Economics.
+ESFDB (n.d.). European State Finance Database. url: https://www.esfdb.org/Database.aspx.
+Evrard, Se ́bastien (2024). Justice royale et contrebande au sie`cle des Lumie`res : La commission de Reims (1740-1789). Paris:  ́Editions L’Harmattan. Gay, Victor, Paula E Gobbi, and Marc Gon ̃i (2024). “The atlas of local jurisdictions of Ancien R ́egime France”. In: Journal of Historical Geography 84, pp. 49–60.
+Gu ́ery, Alain (1978). “Les finances de la monarchie fran ̧caise sous l’Ancien R ́egime”. In: Annales 33.2, pp. 216–239.
+21
+
+
+Huvet-Martinet, Micheline (1975). “Gabelous et Faux-Sauniers en France `a la fin de l’Ancien R ́egime : essai statistique et sociologique sur le faux-saunage dans le ressort de la Commission de Saumur (1764-1789)”. PhD thesis. Universit ́e Rennes 2. Liander, Nils M ̊arten H ̊akansson (1981). “Smuggling Bands in Eighteenth Century France”. PhD thesis. Harvard University.
+Mallet, Jean-Roland (1789). Comptes rendus de l’administration des finances du Royaume de France. London. Mathon de la Cour, Charles-Joseph (1788). Collection de comptes-rendus, pie`ces authentiques, e ́tats et tableaux concernant les finances de France depuis 1758 jusqu’en 1787. Lausanne. Necker, Jacques (1784). De l’Administration des finances de la France. Nicolas, Jean (2002). La r ́ebellion fran ̧caise. Mouvements populaires et conscience sociale (1661-1789). Paris: Seuil.
+Pasquier, Jean (1978). L’impˆot des gabelles en France aux XVIIe et XVIIIe si`ecles. Gene`ve: Slatkine.
+Ridolfi, Leonardo (2019). “Six Centuries of Real Wages in France from Louis IX to Napoleon III: 1250–1860”. In: The Journal of Economic History 79.3, pp. 589–627.
+Rochefoucauld d’Enville, Louis Alexandre de la (1887). “Projet de d ́ecret sur la re ́partition des 300,000,000 de livres de contributions fonci`ere et mobili`ere de 1791, contenu dans le rapport de M. La Rochefoucauld, en annexe de la s ́eance du 27 mai 1791”. In: Archives Parlementaires de la R ́evolution Franc ̧aise 26, pp. 520–549.
+Shapiro, G. and J. Markoff (1998). Revolutionary Demands: A Content Analysis of the Cahiers de Dole ́ances of 1789. Stanford: Stanford University Press.
+Touzery, Mireille (2024). Payer pour le roi: La fiscalit ́e monarchique (France, 1302-1792). Ceyz ́erieu: Editions Champ Vallon.
+Wailly, Natalis de (1857). M ́emoire sur les variations de la livre tournois depuis le r`egne de saint Louis jusqu’`a l’e ́tablissement de la monnaie de ́cimale. Paris: Imprimerie imp ́eriale.
+White, Eugene N (2004). “From privatized to government-administered tax collection: tax farming in eighteenthcentury France 1”. In: The Economic History Review 57.4, pp. 636–663.
+22

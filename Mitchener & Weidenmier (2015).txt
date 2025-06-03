@@ -1,0 +1,516 @@
+Was the Classical Gold Standard
+Credible on the Periphery? Evidencefrom Currency Risk
+Kris JAMES MITCHENER AND Marc D. WEIDENMIER
+We use a standard metric from international finance, the currency risk premium, to assess the credibility of fixed exchange rates during the classical gold standard era. Theory suggests that a completely credible and permanent commitment to join the gold standard would have zero currency risk or no expectation of devaluation. We find that, even five years after a typical emerging-market country joined the gold standard, the currency risk premium averaged at least 220 basis points. Fixed-effects, panel-regression estimates that control for a variety of borrowerspecific factors also show large and positive currency risk premia. In contrast to core gold standard countries, such as France and Germany, the persistence of large premia, long after gold standard adoption, suggest that financial markets did not view the pegs in emerging markets as credible and expected that they devaluation.
+he classical gold standard, the first truly international monetary system based on fixed exchange rates, emerged during the second half of the nineteenth century and lasted into the second decade of the twentieth century.' Scholars have long noted its importance in facilitating both trade and overseas investment during the first era of globalization,
+The Journal of Economic History, Vol. 75, No. 2 (June 2015). © The Economic History Association. All rights reserved. doi: 10.1017/S00220507 15000686 Kris James Mitchener is Professor of Economics, Department of Economics, Santa Clara University, 500 El Camino Real, Santa Clara, CA 95053-0385, Research Associate at the Centre for Competitive Advantage and the Global Economy and the National Bureau of Economic Research, and Research Fellow at the Centre for Economic and Policy Research. E-mail: kmitchener@scu.edu. Mare D. Weidenmier is Professor of Economics, Department of Economics, Claremont McKenna College, Claremont, CA 91711 and Research Associate at the National Bureau of Economic Research. E-mail: marc_weidenmier@cmc.edu We thank Scott Potter, Julie Van Tighem, and Mindy Ngo for research assistance; Christian Echeverria, Aldo Musacchio, Luciano Pezzolo, Matthias Morys, Christian van Rysselberghe, and Gail Triner for assistance with data, and the National Science Foundation for financial support. We also thank Brock Blomberg, Richard Burdekin, Fabio Ghironi, James Nason, Helen Popper, Angela Redish, Hugh Rockoff, Tom Willett, and conference and seminar participants at the ASSA meetings, the Federal Reserve Bank of Atlanta Monetary History Workshop, Cambridge University, Stanford University, and the Political Economy of International Finance Meetings for comments and suggestions. ' For review essays and comprehensive volumes on the classical gold standard, see, for example, Bordo and Schwartz (1984), Eichengreen and Flandreau (1997), Meissner (2003), Officer (2005), and Mitchener (2013).
+479
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+480 Mitchener and Weidenmier
+1870-1913.* At its peak, more than 35 countries and colonies used gold to back domestic currency issues, accounting for roughly 70 percent of the world’s trade and 67 percent of its gross domestic product (GDP).* The classical gold standard continues to attract attention from scholars seeking to understand the durability of monetary institutions as well as the operation of fixed exchange-rate regimes.’ In a seminal paper, Michael Bordo and Finn Kydland (1995) established that joining the gold standard affects policymaking. Being on the gold standard tied the hands of the monetary and fiscal authorities of a country by committing them to a rule, which served as a credible commitment mechanism and solving the classic time-inconsistency problem (Kydland and Prescott 1977). Bordo and Hugh Rockoff (1996, p. 390) argued that the gold standard represented a “good housekeeping seal of approval,” allowing “peripheral” countries to borrow at lower interest rates as a result of committing to policies that signaled “financial rectitude.” Drawing on a quasi capitalasset pricing model, they used annual interest rates of long-term sovereign bonds from nine countries to explore the determinants of sovereign risk (also called “political risk” or “default risk”), which they defined as the differential between gold or sterling-denominated bonds in a country and the risk-free rate of borrowing (in this period, the British consol). Their research, as well as a subsequent study by Maurice Obstfeld and Alan Taylor (2003), which utilized data from a larger number of countries, found that country or sovereign risk was approximately 30-40 basis points lower for countries adhering to gold. Other research suggests that long-term borrowing costs were not significantly lower when countries adopted gold. Niall Ferguson and Moritz Schularick (2006) find that the gold standard effect disappears once the sample of sovereign borrowers is expanded to include the universe of debtors on the London market. In particular, they highlight the role of being part of an empire in reducing sovereign spreads. Using a sample of 55,000 sovereign bond returns, Ron Alquist and Benjamin Chabot (2011) find
+> For example, see Lopez-Cordova and Meissner (2003), Estevadeordal, Frantz, and Taylor (2003), Flandreau and Maurel (2001), Mitchener and Weidenmier (2008), and Mitchener, Shizume, and Weidenmier (2010) on trade; and Faria, Mauro, Minnoni, and Zaklan (2006), Esteves (2011), and Clemens and Williamson (2004) on the supply of capital. 3 GDP and trade figures are from Chernysoff, Jacks, and Taylor (2009). ‘Indeed, scholars have noted that, at least for the core countries, the institution was extremely durable, lasting more than 40 years. There is a long line of theoretical work dating back to David Hume, which explores how the gold standard might deliver price and exchange rate stabilityautomatically eliminating balance of payments problems through adjustments in money, prices, and trade (Whale 1937; Bloomfield, 1959; Ford 1962; Scammell 1965; McCloskey and Zecher 1976).
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 481
+no association between gold standard adherence and lower borrowing rates.° Many economists and historians of international finance consider the classical gold standard to be history’s most credible hard peg, in part because core-country governments credibly committed to maintain its existence and monetary authorities faced little political pressure to pursue countercyclical economic policies (Eichengreen 1997). Testing whether the gold standard was perceived by investors as credible requires data on the currency premium, which, unlike county risk, has been largely neglected in studies on the classical gold standard.° The currency-risk premium measures the compensation that an investor receives for expected movements in the exchange rate (Domowitz, Glen, and Madhavan 1998) and is particularly relevant for two reasons. First, its measurement allows one to assess directly whether investors perceived the gold standard as a credible fixed exchange rate regime. If financial markets do not consider a peg to be perfectly credible, then the currency risk premium will remain positive (Schmuckler and Serven 2002). Investors who priced in persistent and sizable currency risk premia during the gold standard era would hence be signaling that they believe countries would not maintain their pegs. Second, and more generally, advocates of hard pegs argue that their adoption will reduce currency risk premia, and if perfectly credible, may even eliminate them altogether. This would imply lower borrowing costs for emerging market countries, a feature that would perhaps make the adoption of hard pegs more desirable.’ Using a large, new data set of monthly and weekly short-term interest rates from the period 1870-1913 for 21 economies, we measure currency risk, which we define as the interest-rate differential between a borrower’s
+> They focus on “excess returns,” and show that, after conditioning on U.K. risk factors, countries off gold did not have excess returns relative to those on gold. Their results appear to be robust to allowing for sensitivities of portfolios to U.K. risk factors to vary according to whether a country was on the gold standard, to including proxies that capture the effects of fiscal, monetary, and trade shocks on the commitment to gold, and to controlling for the effect of membership in the British Empire. ° Bordo and Flandreau (2003) provide a brief description of bank-rate spreads (relative to the United Kingdom) for five peripheral countries. Since their sample size is small and since they provide no formal tests of uncovered interest parity, it would be difficult to draw any general inferences about overall gold standard regime credibility on the periphery from this study. They suggest, inconclusively, that “going onto gold did not buy immediate credibility, as illustrated by the levels of short-term interest rates in a number of typical members of the periphery” (Bordo and Flandreau 2003, p. 434). It is unclear what this statement ultimately is meant to imply about gold standard credibility on the periphery. 7 Additionally, fixed exchange rates that are credible may reduce the probability of speculative attacks and contagion.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+482 Mitchener and Weidenmier
+open market rate and the short-term, domestic U.K. trade bill.’ Our results suggest that joining the gold club did not eliminate currency risk for emerging market borrowers. We find that short-term interest rate differentials persisted long after adoption. Five years after a typical emerging market economy joined the gold standard—the currency-risk premium averaged 220 basis points. Our findings build on earlier scholarship that has noted that the gold standard may have operated differently on the periphery.’ Even when controlling for country-specific factors that may also explain the variation in currency risk premia, such as wars, market liquidity, colonial status, and debt default, we find no evidence that gold standard adoption eliminated currency-risk permia on the periphery. The average currency risk premium for an emerging market economy remained more than 220 basis points years after its adoption. The existence and persistence of large currency risk premia for these borrowers suggest that financial markets believed that these hard pegs were not credible and devaluations would occur in the future. Our calculations suggested that investors expected exchange rates for emerging market borrowers to fall by 28 percent over any 90-day period.
+MEASURING CURRENCY RISK
+Bordo and Kydland (1995) provide an interpretation of the role of the gold standard as it relates to this literature on rules for policymakers. They argue that being on the gold standard tied the hands of the fiscal and monetary authorities of a country. Indeed, a monetary rule like a fixed exchange rate could serve as a credible commitment mechanism for solving the classic time-inconsistency problem (Kydland and Prescott 1977). The existence of an enforcement mechanism, such as a credible threat to deny the government access to borrowing in the future, means that a socially optimal, but time inconsistent policies can be supported as an equilibrium outcome. This can occur whena policy plan that is determined to be optimal and to hold indefinitely into the future is subsequently revised. For example, suppose that a government sells debt to finance a war. From an ex ante perspective, it is optimal for the government to service its debt obligations. However, once the bonds have been sold, it is optimal for the government to default. In the absence of a commitment
+5 In countries where interest rates for trade bills are not regularly reported, we use the central bank discount rate. ° For example, see Ford (1962), Acena and Reis (2000), and Williams (1937, 1947).
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 483
+mechanism, it is time inconsistent for the government to repay its debt obligations. Private agents will anticipate the government’s incentive to default and they will not buy bonds, forcing the government to rely on taxes or money creation. Bordo and Kydland (1995) also argue that the gold standard had an escape clause. Countries could suspend specie convertibility in the event of a war or fiscal emergency; however, after the war or extraordinary event ended, it was well understood that a country would return to specie convertibility at the pre-war parity. Generally, resumption occurred after a “reasonable” delay period during which a country would impose deflationary policies to retire fiat currency printed for war or emergency finance.'° Using this theoretical insight that a fixed exchange rate regime represents a commitment rule, we assess the credibility of hard pegs for emerging market borrowers. In particular, we examine the behavior of interest rates on short-term debt instruments from 1870-1913 in order to calculate and analyze the currency risk premium for the classical gold standard era. The currency risk premium provides an estimate of the compensation that bondholders demand in the case of an expected devaluation. Using long-term bond prices, previous research on the gold standard has largely focused on country risk, which is an assessment of the default risk for an emerging market borrower."' To understand how the currency risk premium relates to anticipated changes in the exchange rate, we define /,, as the interest rate at time t of a short-term debt instrument for a borrowerk (either a country or a colony) that is payable in domestic currency. We define i” as the base country interest rate at time ¢, which is proxied by U.K. trade bills that are payable in pound sterling. The maturity of both short-term debt instruments is equal to 90 days for the borrowers in our sample. Furthermore, we assume that capital is mobile and that the emerging market country and U.K. short-term debt instruments are perfectly substitutable. The short-term interest rates have no default risk and risk-neutral investors hold both assets. The exchange rate is expected to adjust such that the return on the emerging market asset is equal to the return on the U.K. short-term trade
+0 The United States and France provide examples of the use of escape clauses. They fought wars in the 1860s and 1870s and issued large amounts of irredeemable paper currency and debt. At the conclusion of these wars, both countries imposed deflationary policies to restore convertibility, and both had returned to specie standards by 1880. ' See Bordo and Rockoff (1996), Obstfeld and Taylor (2003), Ferguson and Schularick (2006), and Flandreau and Zimer (2004). As noted earlier, Bordo and Flandreau (2003) briefly discuss short-term interest rate differentials, although they do not define this as the currency risk premium.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+484 Mitchener and Weidenmier
+bill. Under these assumptions, the currency risk premium can be written as the interest-rate differential between the emerging market security and the U.K. trade bill:
+(i,,- i) =pdr, (1)
+where p is the likelihood of an exchange devaluation and dé is the size of the expected devaluation. Equation (1) is an uncovered interest parity (UIP) condition where the currency risk premium equals the expected rate of change in the exchange rate over 90 days.'* Hence, if a country made a completely credible, non-contingent, and permanent commitment to join the gold standard, then the probability of a devaluation of the exchange rate would be zero (Obstfeld and Taylor 2003). That is, for a borrower that credibly committed to the gold standard, the interest-rate differential between its 90-day open market rate and 90-day British trade bills should be zero. Once the gold standard is introduced, the existence of a persistent and large spread between these two short-term interest rates would suggest that financial markets did not view the commitment to the exchange-rate peg as a credible for country k. Using interest-parity conditions to identify the currency risk premium is conceptually straightforward. However, it is often empirically difficult to implement. For example, the presence of capital controls (or the expectation of capital controls) can drive a wedge between the price of short-term interest rates trading in local and foreign markets. Indeed, it is the widespread use of capital controls after the 1930s that has made it challenging to measure currency risk for that time period. By contrast, the classical gold standard era had unfettered capital markets, largely free of government intervention (Eichengreen 1997; International Monetary Fund 1997), making our period of analysis particularly well suited for testing the credibility of hard pegs. To analyze the credibility of the gold standard in emerging markets, we assembled a new database of high-frequency, short-term interest rates for 21 economies, in total roughly 250,000 observations.'? The shortterm open market rates were widely regarded as liquid and low-risk debt
+” Tf investors are risk averse, an additional term, reflecting the exchange-risk premium would appear on the right-hand side of equation (1). 'S With the exception of British India, colonies are not included in the sample since most of them did not have developed secondary markets where these credit instruments would trade. As a result, we are unable to obtain short-term interest rates for Canada, Australia, New Zealand, and South Africa for the gold standard period.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 485
+instruments during the classical gold standard period. Much of our data is hand-collected from contemporaneous financial publications. The database includes the universe of open market rates reported in The Economist from 5 November 1870 until 30 June 1914.'*Open market rates reflect the interest rate on funds used to finance commerce during the gold standard period (Neal and Weidenmier 2003); they are the historical equivalent of a banker’s acceptance today. These credit instruments were payable in domestic currency and issued in the leading money centers. For emerging market borrowers that lacked open market rates, we collected data on the bank rate—the short-term interest rate used by a central bank to discount private credit of a short duration. Our use of the central bank discount rate is based on the fact that central banks discounted large number of short-term bills; hence, these instruments were highly liquid. Moreover, default risk associated with central banks is likely to be very low. Convertibility under the gold standard was generally established by law or executive decree. In a few cases, such as France and the AustroHungarian Empire, maintenance of convertibility was left to the discretion of policymakers. Table 1 presents a timeline of gold standard adoption for every country that joined the gold standard in the period 1870-1914 and had short-term interest rates. (Source information is shown in Appendix 2.) Column2 lists the dates of gold standard adoption, defined as the date a monetary authority initiated or resumed specie convertibility. Column 3 shows the period of gold standard adherence for 21 borrowers. By confining our analysis to countries or colonies that remained on the gold standard for at least two years, we provide a lower-bound estimate of currency risk.!° The Economist reports annualized rates for both types of short-term debt instruments in our study. Appendix | describes the particular shortterm interest rate used. For each borrower, we collected monthly or weekly quotes, whichever had the highest frequency as reported by the
+'4 We supplement data from The Economist with short-term interest rates from The Commercial and Financial Chronicle, the Manchester Guardian as well as information contained in central bank publications for Argentina, Greece, and Finland. There are a few gold standard adopters on the periphery for which we lack data on short-term rates (Costa Rica, Ecuador, El Salvador, Nicaragua, Peru, and Turkey). ’ The two-year decision rule eliminates short-lived attempts by Argentina, Brazil, and Greece to join the gold standard during the late nineteenth century, which may have never been perceived by markets as credible. This ensures we are not biasing our results toward finding currency-risk persistence in the sample. The estimated average currency risk premium for emerging market borrowers would be higher if these countries were included.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+486
+TABLE |
+Mitchener and Weidenmier
+TIMELINE OF GOLD STANDARD ADOPTION AND ADHERENCE
+Country or Colony Date of Adoption Dates of Adherence
+Argentina 31 October 1899 10/3 1/1899-8/2/1914
+Austria 2 August 1892 8/2/1892-8/4/1914
+Belgium 5 November 1878 11/5/1878-1914
+Brazil 22 December 1906 12/22/1906—12/12/1914
+Bulgaria 24 November 1902 11/24/1902-10/10/1912
+Chile 1 June 1895 6/1/1895—7/1 1/1898
+Denmark 27 May 1873 5/27/1873-12/1914
+Netherlands 6 June 1875 6/6/1875—7/3 1/1914
+Finland 1 January 1878 1/1/1878-8/1914
+France 5 November 1878 11/5/1878-8/5/1914
+Germany 19 October 1871 10/1/1871-8/ /1914
+Greece 19 March 1910 3/19/1910-12/1914
+India 1 January 1898 1/1/1898—9/5/1914
+Italy 1 March 1883 3/1/1883-12/22/1894
+Japan 1 October 1897 10/1/1897-1914
+Mexico 1 May 1905 5/1/1905-1913
+Norway 4 June 1873 6/4/1873-8/4/1914
+Rumania 1 April 1890 4/1/1890-1914
+Russia 3 January 1897 1/3/1897-7/1914
+Sweden 30 May 1873 3/30/1873-1914
+Switzerland 20 December 1878 12/20/1878-1914
+United States 1 January 1879 1/1/1879-9/7/1917
+Sources: See Appendix 2.
+financial press. We take the lowest interest rate reported in the financial press for a given emerging market country to provide a lower-bound estimate of the currency risk premium.'® By using the lowest reported interest rate, we account for the impact of the bid-ask bounce on shortterm interest rates that might increase the size of the illiquidity premium.
+CURRENCY RISK ESTIMATES DURING THE GOLD STANDARD ERA
+Using the United Kingdom as the base country, we measure the currency risk premia, as the interest-rate differential on short-term debt instruments between a given country or colony’s open market rate and
+'© Corwin and Schultz (2012) report that low (prices) interest rates are almost always sell trades. This means that the currency risk premium calculated using the lowest reported interest rate provides a lower bound estimate.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 487
+the gold-dominated U.K. trade bill. Table 2 presents currency risk premia for 21 economies. Panels A and B report average interest-rate differentials (in basis points) for the entire period and for ten-year and four-year windows around gold standard adoption dates. The fourth column displays the change in the risk premia, comparing the five-year or two-year period before adoption with the five-year or two-year period after joining gold. These windows are designed to measure long-run adherence to the gold standard by first calculating the currency risk premium at the weekly or monthly frequency. Then, we average the point-in-time estimates over the ten- and four-year windows to provide an unconditional measure of long-term credibility since that theory predicts that, after adoption, currency risk will, on average, be zero if the fixed-exchange rate regime is viewed as credible by financial markets.'’ Figures | and 2 show tenyear windows (or the largest available sample period) for 21 economies centered around the adoption date of the gold standard with weeks (or months) from that date shown on the x-axis. Declines in currency risk prior to adoption may reflect fiscal and monetary policy reforms made with the intention of improving the credibility of their fixed-exchange rate regimes. Panel A of Table 2 shows that the currency risk premium for France was slightly negative and hardly different from the rate on British trade bills (9 basis points) five years after the country joined the gold standard. Panel B shows similar results for the four-year window; after adoption, the currency risk premium averaged —15 basis points. The data for France suggest that markets viewed this peg as credible. Borrowing rates for Germany averaged ten basis points five years after adoption. Markets also appear to have assessed the pegs of a few other western European countries as fairly credible. Over the five years after Belgium and Netherlands pegged, the currency risk premia averaged 33 and 30 basis points, respectively. On the other hand, despite its level of development, our findings suggest that financial markets viewed the United States differently. Its currency risk premium averaged more than 200 basis points in the five years after it joined the gold standard. Even if we extend this analysis to cover the entire classical gold standard era, up until the outbreak of World War I, the currency risk premium for the United States averaged more than 150 basis points.
+"” Officer (1989) estimates that the costs of importing gold were 0.69 percent ofparity and 0.61 percent of parity for gold exports between the United States and the United Kingdom during the classical gold standard period. The cost of transporting gold between two countries is a transaction cost that limits interest parity from holding precisely during the period 1870-1913.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+488 Mitchener and Weidenmier
+TABLE 2
+CURRENCY RISK PREMIA
+Panel A: 10-Year Windows
+Country or Entire Sample Data Colony Period Pre-gold OnGold Change Observations Frequency
+Argentina 528 633 425 208 121 M
+Austria 145 81 208 127 521 WwW Belgium 18 3 33 30 521 WwW Bulgaria 407 429 384 45 521 Ww
+Chile 652 595 744 149 423* WwW Denmark 136 125 147 22 121 M Netherlands 13 4 30 34 521 W Finland 119 84 154 70 521 WwW France —25 —41 -9 32 521 W Germany 47 85 10 -75 521 WwW
+Greece 243 251 232 -19 121 M India 320 387 252 —135 521 WwW Italy 130 104 156 52 521 Ww Japan 444 434 453 19 121 M Mexico 516 546 468 -78 398** W Norway 165 105 225 120 121 M Rumania 232 223 241 18 521 Ww
+Russia 312 345 270 -75 458 WwW Sweden 165 123 206 83 121 M Switzerland 72 59 82 23 473 W United States 187 173 201 28 521 WwW Average 229.81 225.71 233.9 8.19 — 
+Notes: M=monthly, W=weekly. *Data sample constrained by adherence to gold standard; **sample size constrained by availability of newspaper. “Change” is computed as the currency risk premium when an economy is on gold minus the currency risk premium prior to gold standard adoption. Sources: Authors’ calculations based on data described in the text.
+Much of Continental Europe exhibits sizable currency risk premia in the five-year window after countries in that region joined the gold standard. Austria’s currency risk premium averaged a little more than 200 basis points. For Italy, the currency risk premium averaged slightly more than 150 basis points. The currency risk premium was similar for Switzerland. For the Scandinavian countries like Denmark, Finland, Norway, and Sweden, currency risk premia averaged more than 140 basis points. Exchange-rate risk was also sizable in eastern and southern Europe. Markets asked for an additional 443, 263, and 121 basis points,
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 489
+TABLE 2 (CONTINUED) CURRENCY RISK PREMIA
+Panel B: 4-Year Windows
+Country or Entire Sample Data Colony Period Pre-gold OnGold Change Observations Frequency
+Argentina 502 579 428 -151 49 M
+Austria 133 105 160 55 209 W Belgium -3 31 25 56 209 W Bulgaria 445 448 443 —5 209 W
+Chile 771 727 814 87 209 W Denmark 53 89 18 —71 49 M Netherlands 20 —7 47 54 209 WwW Finland 201 190 211 21 209 W France -61 —-107 -15 —92 209 W Germany 62 123 2 —121 209 WwW
+Greece 276 290 263 —27 49 M India 438 485 391 —94 209 W Italy 78 55 101 46 209 W Japan 460 469 452 -17 49 M Mexico 517 596 438 —158 209 W Norway 32 —24 86 110 49 M Rumania 189 257 121 —136 209 W
+Russia 312 441 270 -171 209 W Sweden 69 39 98 59 49 M Switzerland 73 29 116 87 209 WwW United States 188 132 243 111 209 W Average 226.43 232.62 224.38 8.48 — 
+Notes: M=monthly, W=weekly. “Change” is computed as the currency risk premium when an economy is on gold minus the currency risk premium prior to gold standard adoption. Sources: Authors’ calculations based on data described in the text.
+respectively, for Bulgaria, Greece, and Rumania in the two-year period after they adopted gold. Even five years after these three countries joined the gold standard, the premia stood at 384, 232, and 241 basis points. The currency risk premium averaged 270 basis points for Russia two years after and five years after the country joined the gold standard in 1897. Countries in other parts of the world also show considerable currency risk after gold standard adoption. For Argentina and Japan, their currency risk premia averaged more than 400 basis points in the five-year and twoyear windows after they adopted the gold standard. It was more than 700 basis points for Chile’s three years on the gold standard.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+490 Mitchener and Weidenmier
+Austria
+Belgium
+o” i} Lake fl bat i L
+= 50 100 150 200 250
+Q[ea)
+”
+9 i Bulgaria
+OQ xw0
+400
+300
+200
+400
+to
+250 -200 150 100 60 50 100 «150-200 250
+4000 Chile
+800
+600
+400
+200
+Om i co OY LA #0 LA OF Eo Bes 8 Lo Be Ld
+0 50 100 150 200 250
+ee | -250 -200 -150 -100 +50
+Weekly Intervals
+FIGURE |
+CURRENCY RISK PREMIUM
+Source: Based on authors’ calculations, as described in the text, and data sources provided in Appendix 1.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 491
+Netherlands
+A] 500 — i 1 L L 1a 3 i} it L i L
+c 250 -200 150 100 0 50 100 150 200 250
+[[ea)
+a
+o France a©
+= ale Neve tact H
+| ere
+pas -250 -200 -150 -100 50 50 100 150 200 250
+Weekly Intervals
+FIGURE | (CONTINUED) CURRENCY RISK PREMIUM
+Source: Based on authors’ calculations, as described in the text, and data sources provided in Appendix 1.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+492
+Basis Points
+Mitchener and Weidenmier
+India
+ea heU v
+i' 50 100 150 200 250
+Wi Italy
+300
+200
+abo abd abd abd do 8 dol bd 45abo6| ab
+Mexico
+Rumania
+500
+-250 -200 -150 -100 50 Le} 50
+ee 100 150 200 250
+Weekly Intervals
+FIGURE | (CONTINUED) CURRENCY RISK PREMIUM
+Source: Based on authors’ calculations, as described in the text, and data sources provided in Appendix 1.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 493
+Russia
+Switzerland
+Basis Points
+Gin USA
+400
+300
+200
+100
+oO
+100 — ('
+200 ! ! | ee saa L | |
+250 150 -100 0 ie) 100 150 200 250
+Weekly Intervals
+FIGURE | (CONTINUED) CURRENCY RISK PREMIUM
+Source: Based on authors’ calculations, as described in the text, and data sources provided in Appendix 1.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+ssaid Aysuaalun abplquued Aq auljuo paysiiqgnd 989000S120S07Z00S/ZL01'01/640"1op//:sdyy
+Basis Points
+Source: Based on authors’ calculations, as described in the text, and data sources provided in Appendix 1.
+700 
+650 
+600 
+550 .
+500 
+450 
+400 
+350 
+300- -60
+Argentina
+-40 -20 20 40 60
+Denmark
+-100 
+-200 
+atin
+-60 -40 -20 20 40 60
+400 
+350 
+300 
+250 
+200 
+150 
+Greece
+700 
+600 
+500 
+400 
+300 
+200 
+100 
+Japan
+-100 — -40 -20 20 40 60
+Monthly Intervals
+FIGURE 2 CURRENCY RISK PREMIUM
+500 
+400 
+300 
+200 
+100 
+Norway
+-100 
+-200 
+-300 
+400 
+300 
+200 
+100 
+0
+ara
+Swede:
+-100 
+-200 
+‘nytt
+-20 20 40 60
+pov
+AdIMUaplay, PUD ABUIYIILY
+
+
+Classical Gold Standard Credible on the Periphery? 495
+TABLE 3
+COMPARING RISK PREMIA USING DISCOUNT RATES AND OPEN MARKET RATES IN THE FIRST FIVE YEARS AFTER A COUNTRY JOINED THE GOLD STANDARD
+Country Open Market Rate Discount Rate
+Austria 208 170 Belgium 33 32 Netherlands 30 23 France -9 -13 Germany 10 72 Italy 156 183 Russia 270 231
+Average 100 100
+Sources: Authors’ calculations based on data described in the text.
+Table 3 provides a robustness check by showing the average currency risk premia for seven countries on the gold standard for which we have data on the central bank discount rate as well as the open market rate. By using this subset of countries for which we have both types of rates, we are able to examine whether the results are sensitive to the data we employ. As Table 3 shows, the individual country differences are relatively minor when using either type of interest rate, and the average currency risk after gold standard adoption across all seven countries is identical under both measures—100 basis points. Our findings, therefore, do not appear to be driven by data selection. As a final robustness check, we also calculated the currency risk premium for a sample of gold and paper bonds issued by the same country during the classical gold standard period. The basic tenor of the results remains unchanged: emerging market borrowers exhibit large and persistent currency risk premia in the long-term bond market after they adopted the gold standard.'® Overall, the time-series evidence suggests that the gold standard was likely credible for a small set of core European countries that included France, Germany, the United Kingdom, the Netherlands, and Belgium. A very different picture, however, emerges for other countries in the sample. Outside the core countries, the currency risk premium averaged more than 285 basis points five years after a country joined the gold
+'8 Mitchener, Kris James, and Marc Weidenmier, “Are Hard Pegs Ever Credible in Emerging Markets? Evidence from the Classical Standard.” NBER Working Paper 15401, 2009.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+496 Mitchener and Weidenmier
+standard, with a standard deviation of 163 points.!? The currency risk premium for emerging market countries was greater than zero about 82 percent of the time. These new estimates of currency risk appear consistent with descriptive accounts of the operation of the gold standard on the periphery that it may have been more difficult for these countries to adhere to policies set by the core countries of the gold standard (Bordo and Kydland 1995; Eichengreen 1996).
+TESTS OF UNCOVERED INTEREST RATE PARITY
+To examine whether pegged exchange rates were credible during the gold standard, we use equation (4) and test for UIP in the sample of emerging market borrowers. We regress the short-term interest rate of country 7 in period ¢ on a constant and the British trade bill in period t (the base country). Because the sample periods in the single-country regressions correspond to when countries were on the gold standard (see Table 1), we can apply the UIP condition in a straightforward way. The no-arbitrage condition implies that the base rate should capture all the relevant movements in the interest rate of the borrowing country. Hence, if the peg is credible, then the estimated constant term should be zero and statistically insignificant. To implement UIP tests, we first explore the time series properties of the data. As seen in Table 4, DF-GLS tests reject the existence of a unit root in 16 of the 21 countries in our sample at standard confidence intervals. For the five countries that do not pass the unit root test (Argentina, Bulgaria, Chile, Greece, and Russia), we find additional evidence of a co-integrating relationship, suggesting stationarity in all the data series we consider.”° The estimated coefficients on the constant terms shown in Table 5 (and measured in percentage points) are large and statistically significantly different from zero at the 1-percent level in all regressions. The
+'° Adding the United States to the set of “core” countries has the effect of raising the average for emerging market borrowers from 285 to 290 basis points. » The Engle-Granger Cointegration results suggest that there is a long-run equilibrium relationship between the U.K. open market rate and the short-term interest rates for Argentina and Bulgaria at the 5 percent level of significance. There is long-run equilibrium relationship between the Japanese and Russian short-term interest rates with the U.K. trade bill rate at the 10 percent level of significance. We also did not explicitly test for a co-integrating relationship for Chile and Greece with the U.K. interest rate since the gold standard period was less than four years. The empirical results for Chile and Greece, however, did not suggest the presence of spurious relationship given that the R-squared did not approach one in the UIP regressions.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 497
+TABLE 4
+DF-GLS UNIT ROOT TEST
+Country or Colony Test Statistic (lags)
+Argentina —1.741
+(1)
+Austria —2.854*
+(16)
+Belgium —3.154**
+(1)
+Bulgaria 2.131
+(1)
+Chile 1.421
+(1)
+Denmark —2.739*
+(15)
+Netherlands —3,884***
+(6)
+Finland —2.758*
+(3)
+France —4,731***
+(13)
+Germany —5.722***
+(16)
+Greece —1.00
+(1)
+India —4,047***
+(2)
+Italy —3.436***
+(4)
+Japan -1.921
+(1)
+Mexico —2.580*
+(1)
+Norway —3.081**
+(9)
+Rumania —2.681*
+(1)
+Russia —2.162
+(1)
+Sweden —2.670*
+(4)
+Switzerland —4.623***
+(9)
+United Kingdom —5.922***
+(16)
+United States —4.063***
+(14)
+* = Significance at the 10 percent level. **= Significance at the 5 percent level. *** = Significance at the | percent level. Notes: Lag lengths differ depending on whether the economy’s data are weekly or monthly, as specified in Table 2. Interpolated critical values are taken from Elliot, Rothenberg, and Stock (1996). Sources: Authors’ calculations based on data described in the text.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+498 Mitchener and Weidenmier
+TABLE 5 CURRENCY RISK REGRESSIONS
+Country or Colony Constant U.K. Interest Rate R-squared Observations
+Argentina 6.972*** 0.023 .002 152 (0.156) (0.043)
+Austria 2.991 *** 0.297*** 233 1144 (0.049) (0.016)
+Bulgaria 7.531 *** —0.073*** 017 476 (0.071) (0.018)
+Chile 9.498*** —0.155* .023 163 (0.154) (0.081)
+Denmark 3.33 78e* 0.310*** 188 2145 (0.044) (0.044)
+Finland 4.527*** 0.134*** 072 1905 (0.036) (0.012)
+Greece 6.094*** 0.066** .085 52 (0.108) (0.025)
+India 4.493 *** 0.298*** .023 861 (0.233) (0.061)
+Italy 3.040*** 0.342*** 329 1636 (0.037) (0.011)
+Japan T.A52*** —0.167 021 201 (0.248) (0.064)
+Mexico 7.563 *** 0.330*** 082 398 (0.165) (0.044)
+Norway 4.530*** 0.029%** .002 2144 (.048) (.016)
+Rumania 4.939% ** 0.193 *** 071 1264 (0.066) (0.024)
+Russia 4.685*** 0.251*** 114 913 (0.072) (0.023)
+Sweden 3.580*** 0.299*** .267 1800 (0.033) (0.011)
+Switzerland 2.131*** 0.470*** 461 1446 (0.043) (0.012)
+United States 2.382*** 0.665*** 0.164 1853 (0.152) (0.045)
+* = Significance at the 10 percent level. **= Significance at the 5 percent level. *** = Significance at the 1 percent level. Sources: Authors’ calculations based on data described in the text.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 499
+constant is more than 400 basis points for most countries.”!' Chile has a constant greater than 900 basis points, while the intercept for Bulgaria, Greece, Mexico, and Japan is more than 600 basis points. Finland, India, Norway, Rumania, Russia, and Russia have estimated currency risk premia greater than 400 basis points. The estimated intercept for Austria, Denmark, Italy, and Sweden is between 290 and 400 basis points. Switzerland and the United States are the most credible hard pegs among emerging markets, with respective currency risk premia of 213 and 238 basis points. The estimated coefficients on the intercept term show that UIP conditions were not satisfied in emerging market economiessuggesting that market participants did not perceive their pegs to be credible.
+PANEL DATA ESTIMATES OF CURRENCY RISK
+To understand the extent to which country-specific factors account for the observed variation in currency risk, we constructed a monthly panel data set for the 21 borrowers over the sample period 1870-1914. We estimate the following equation:
+CURRENCYRISK,, = 0. + B,INTRASTATE+, BINTERSTATE, (2)
++ B,INDIA, + B,CENTRALBANK,, + B,STOCKMARKET,
++ B,DEFAULT, + B,GOLD,,+y,+A,+€,,
+where CURRENCYRISK, is the current yield on a short-term debt instrument for borrower i at time t minus the current yield on the British shortterm trade bill and @ is a country-specific intercept. We note that the test of the UIP condition will differ in the panel setting because the sample period spans the entire gold standard era and many countries joined after 1870. As a result, there are two key coefficients to consider for the UIP tests. The first is the date at which borrowers adopted gold (GOLD), a time-varying indicator variable denoting when the borrower was on the gold standard. GOLD indicates how much currency risk fell with the adoption of gold. If the gold standard conferred complete credibility, then its inclusion ought to eliminate the currency risk premium entirely. The
+>! The large and statistically significant constants in all the linear regressions in Table 5 violates UIP. This means that the periphery did not form well-behaved target zones as estimated for core countries by Bordo and MacDonald (1997).
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+500 Mitchener and Weidenmier
+second is the time-varying constant term, which as before, will be zero and statistically insignificant if the peg is credible. Since we have already established that it is positive and statistically significant in single-country regressions, the panel regressions provide an additional robustness check of our finding that the gold standard was not credible for emerging market economies. The inclusion of borrower-specific economic and political factors as well as fixed-effects models allows us also to relax certain assumptions of UIP discussed earlier, such as default risk and liquidity risk across countries. In specifications omitting country dummies, y,, we include a dummy variable for INDIA since it is part of the British Empire.” Because political events may also affect a variety of risk spreads, we include two measures of conflict using data from the Correlates of War database. INTRASTATE is an indicator variable, capturing years when the borrower was engaged in a conflict that predominantly took place within the recognized territory of that state and combatant fatalities were at least 1,000 within a 12-month period. The Russian Bloody Sunday (1905-1906) and the Romanian Peasant Rebellion (1907) are examples of intrastate wars meeting this threshold. The INTERSTATE indicator variable equals one when a state was at war with another colony or country, and sustained combat resulted in a minimum of 1,000 battlerelated combatant fatalities within a 12-month period (Correlates of War Database). Examples include the First Sino-Japanese War (1894-1895) and the Franco-Prussian War (1870-1871). We also include two time-varying, borrower-specific variables that proxy for market liquidity and financial development: STOCKMARKET and CENTRAL BANK. All else equal, short-term interest rates will be lower for countries with more liquid financial markets. The presence of a stock market indicates institutional development that would promote liquidity. The presence of either a stock market or a central bank indicates development of modern financial institutions.* Finally, because risk spreads may be affected by periods of domestic financial turmoil, we coded an indicator variable that takes a value of one if a country has at least one sovereign debt issue that is in default at time ¢.** Year dummies,
+» Previous research has found that the U.K. government reduced the default risk of its dependencies by guaranteeing colonial bonds (Ferguson and Schularick 2006, 2012). 23 We assembled information on the establishment of a central bank and a stock market using country-specific websites. *4 We collected information for the debt default variable from various issues of the reports of the Corporation ofForeign Bondholders and from Mitchener and Weidenmier (2010).
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 501
+i, are included in all specifications to capture the impact of international financial crises such as those occurring in the 1870s, 1890s, and 1907 as well as other time-varying economic factors that might influence the currency risk premium. Regressions are estimated with robust standard errors clustered at the country level. Column 1 of Table 6 shows the results for the simple ordinary least square (OLS) pooled regression with year dummies. Three independent variables are statistically significant at conventional levels. Joining the gold standard appears to decrease the currency risk premium by almost 167 basis points. Debt default raises the currency risk premium by 112 basis points. Finally, our proxy for liquidity, STOCKMARKET, reduces the interest rate spread by nearly 192 basis points. When we include country fixed effects and consider the fullyinteracted model (column 2), GOLD and STOCKMARKET are no longer statistically significant, suggesting that the identification of these effects was from the cross-sectional variation. However, once we examine the within variation and control for unobserved differences across countries, the economic effects of adopting the gold standard are small in magnitude (less than ten basis points) and statistically insignificant. Debt default remains statistically significant at the 10-percent level. On the other hand, the constant term, which captures currency risk, remains statistically significant and economically meaningful—at more than 179 basis points. Because the full sample includes some countries that are more economically developed, in the second two columns of Table 6, we consider specifications that exclude Belgium, France, Germany, and the Netherlands from the sample and focus on less-developed borrowers. The results using the sample of emerging market borrowers (columns 3 and 4) are qualitatively similar, but as expected, the average currency risk shown by the constant term is larger: 343 and 221 basis points in the pooled OLS and fixed effects, respectively. Thus, even after we control for time-specific shocks as well as for observed and unobserved differences across countries, we continue to find a large average currency risk premium for emerging market borrowers. Because the sample uses a mixture of open market rates and discount rates for emerging market borrowers, as a final robustness check, we re-estimate the specifications using only the ten countries that have open market rates (as listed in Appendix 1). Open market rates constitute approximately 52 percent of our sample of interest rates. As reported in Table 7, the estimated coefficients for GOLD and the constant term, the
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+502 Mitchener and Weidenmier
+TABLE 6
+PANEL REGRESSION ESTIMATES OF CURRENCY RISK
+Fixed Pooled OLS Effects Pooled Emerging Emerging OLS Fixed Effects Market Market Independent Variable Full Sample Full Sample Sample Sample
+Constant 3.486*** 1.792 *** 3.433 %** 2.207*** (0.766) (0.309) (0.810) (0.280)
+Intrastate conflict —0.080 —0.187 0.509 0.024 (0.963) (0.431) (0.633) (0.529)
+Interstate conflict 0.404 —0.110 0.427 —0.276 (0.477) (0.311) (0.451) (0.322)
+Colony —0.080 — —0.483 (0.539) — (0.578) 
+Central bank —0.996 —0.0004 —0.986 0.016 (0.536) (0.184) (0.568) (0.215)
+Stock market —1.920*** 0.149 —1.580** 0.088 (0.534) (0.236) (0.569) (0.226)
+Default 1.116* 1.262* 1.586 1.155 (1.234) (0.648) (1.200) (0.660)
+Gold —1.665*** —0.080 —1.448*** 0.192 (0.375) (0.202) (0.467) (0.213)
+R-squared 0.402 — 0.372 
+Obs. 37497 37497 28279 28279
+Country fixed effects No Yes No Yes
+Year fixed effects Yes Yes Yes Yes
+* = Significance at the 10 percent level. **= Significance at the 5 percent level. *** = Significance at the | percent level. Sources: Authors’ calculations based on data described in the text and appendices.
+key coefficients, are quite similar to what was reported in the full sample. That is, the gold standard variable reduces currency risk in the pooled OLS specifications, but its statistical and economic significance disappears once country-fixed effects are included. By contrast, the constant term is large, positive, and statistically significant in all specifications. Using the emerging market sample of countries with open market rates, in the fixed effects specification, currency risk is estimated to be 207 basis points.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 503
+TABLE 7 PANEL REGRESSION ESTIMATES OF CURRENCY RISK USING OPEN MARKET RATES
+Fixed Effects Fixed Effects Independent Variable Full Sample Emerging Market Sample
+Constant 1.711*** 2.065*** (0.283) (0.437)
+Intrastate conflict —0.871*** (0.149) _
+Interstate conflict 0.058 0.013 (0.382) (0.567)
+Central bank —0.434* —0.530 (0.208) (0.429)
+Gold —0.002 0.304 (0.184) (0.192)
+R-Squared — 
+Observations 20160 10942
+Country fixed effects Yes Yes
+Year fixed effects Yes Yes
+* = Significance at the 10 percent level. **= Significance at the 5 percent level. *** = Significance at the | percent level. Sources: Authors’ calculations based on data described in the text and appendices.
+IMPLIED DEVALUATIONS FOR EMERGING MARKET ECONOMIES
+Following the methodology proposed in Sergio Schmuckler and Luis Serven (2002), we estimate the size of the anticipated devaluation for our sample of 17 emerging market economies. Dividing the currency risk premium by the probability of a fall in the exchange rate yields the anticipated size of the devaluation:
+dé =(i,,—i,,)/ p. (3)
+As equation (3) shows, when the probability of a devaluation is higher, it reduces the size of the exchange rate movement. The probability of devaluation was likely influenced by a combination of countryspecific shocks (such as those to a country’s terms of trade or to fiscal
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+504 Mitchener and Weidenmier
+TABLE 8
+IMPLIED DEVALUATION OF GOLD STANDARD ADOPTERS DUE TO A GLOBAL FINANCIAL CRISIS (Percent)
+Country or Colony Expected Devaluation
+Argentina 42.5
+Austria 20.8
+Bulgaria 38.4
+Chile 74.4
+Denmark 14.7
+Finland 15.4
+Greece 23.2
+India 25.2
+Italy 15.6
+Japan 45.3
+Mexico 46.8
+Norway 22.5
+Rumania 24.1
+Russia 27.0
+Sweden 20.6
+Switzerland 8.2
+United States 20.1
+Average 28.5
+Notes: The table shows the expected devaluation for borrowers based using the estimated probability of a global financial crisis during the sample period. Sources: Authors’ calculations. Global crisis probabilities for the gold standard era are based on Bordo and Murshid (2006).
+policy) as well as common shocks operating across countries, such as financial crises. As the size of shocks or frequency of them increased, emerging market borrowers faced a greater risk of abandoning their hard pegs. Providing data on each country’s fiscal and terms of trade shocks is beyond the scope of this article; however, we can use Bordo and Antu Murshid’s (2006) annual estimates of the likelihood of a global financial crisis during the gold standard era to shed light on the expected devaluations implied by our measures of currency risk. They estimate that the likelihood of a crisis between 1870-1914 was between 10 and 14 percent. Using the lower of these two figures, Table 8
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 505
+then computes the expected size of the devaluation for each of the 17 emerging-market economies. As the last row of the table shows, across all emerging-market economies, the data suggest that markets anticipated that exchange rates would fall by an average of more than 28 (annualized) percent over a 90-day period. Since the standard deviation of the currency risk premium is 16 percent, the estimated size of the decline in the exchange rate varies significantly across the sample. We estimate expected devaluations of more than 20 percent over 90 days for countries or colonies such as Argentina, Austria, Bulgaria, Chile, Greece, India, Japan, Mexico, Norway, Rumania, Russia, Sweden, and the United States.
+CONCLUSION
+Between 1870 and 1913, the gold standard was widely adopted, even by countries on the periphery. Given its global reach, the classical gold standard thus represents the most widely used peg in modern financial history. Focusing on country-specific risk, previous studies have argued that the regime appeared credible, at least among core countries. As we demonstrate, however, currency risk provides a more accurate assessment as to whether financial markets believed a country would maintain its pegged exchange rate. We take advantage of the fact that from 1870-1913 capital markets were unfettered. Since governments did not impose capital controls, we are able to identify currency risk premia using interest-rate parity conditions. To measure whether the gold standard was credible, we examined whether interest-rate differentials existed and persisted between an emerging market economies and a base economy, the United Kingdom. Using a new database of weekly and monthly short-term interest rates, we analyze the currency risk premium for a sample of 17 emerging market economies during the gold standard era. The empirical analysis suggests that the currency risk premium for these non-core economies averaged more than 220 basis points in the five-year period after they joined the gold standard. Standard uncovered interest parity tests show the existence of a large currency risk premia. These large risk premia do not disappear even when we control for timevarying, country-specific factors such as wars, market liquidity, colonial status, and debt default as well as for unobserved country specific factors captured in our fixed-effects estimates. Panel regressions also
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+506 Mitchener and Weidenmier
+show that the results are not sensitive to the particular type of shortterm credit instrument used. We find that there are large currency risk premia regardless of whether we use open market rates or central bank discount rates. Given the presence of common shocks that influenced the likelihood of devaluation, such as global financial crises, our analysis implies that financial markets expected the exchange rates to depreciate on average by approximately 28 (annualized) percent over any three-month period between 1870-1913. These findings suggest that for emerging markets, the gold standard was not credible because a high level of currency risk persisted long after gold standard adoption.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 507
+Appendix
+APPENDIX |
+SHORT-TERM INTEREST RATE DATA FROM THE GOLD STANDARD ERA
+Country or Short-Term Founding of Colony Interest Rate Central Bank Source of Data
+Argentina Discount Rate 1935 Argentina Reserve Bank Statistical Yearbook
+Austria Open Market Rate 1816 Economist and Manchester Guardian and Discount Rate
+Belgium Open Market Rate 1850 Economist and Manchester Guardian and Discount Rate
+Bulgaria Discount Rate 1879 Dimitrova and Ivanov (2009)
+Chile Discount Rate and 1925 Anuario Estadistico Open Market Rate
+Denmark Open Market Rate 1818 Economist and Manchester Guardian
+Finland Discount Rate 1812 Monthly Bulletin of Finland’s Central Bank
+France Open Market Rate 1800 Economist and Manchester Guardian and Discount Rate
+Germany Open Market Rate 1876 Economist and Manchester Guardian and Discount Rate
+Greece Discount Rate 1928 Bureau ofStatistics, Annuaire Statistique
+Netherlands Open Market Rate 1814 Economist and Manchester Guardian and Discount Rate
+India Discount Rate 1935 Economist and Manchester Guardian
+Italy Open Market Rate 1893 Economist and Manchester Guardian and Discount Rate
+Japan Discount Rate 1882 The Compilation ofNational Statistics of the Meiji-Taisho Era (1927)
+Mexico Commercial Paper 1925 Economista Mexicano
+Norway Discount Rate 1816 Economist and Manchester Guardian
+Rumania Discount Rate 1880 Economist and Manchester Guardian
+Russia Open Market Rate 1860 Economist and Manchester Guardian and Discount Rate
+Sweden Discount Rate 1668 Economist and Manchester Guardian
+Switzerland Open Market Rate 1905 Economist and Manchester Guardian
+United States Commercial Paper 1913 Commercial and Financial Chronicle
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+508 Mitchener and Weidenmier
+APPENDIX 2
+GOLD STANDARD ADOPTION DATES AND SOURCE INFORMATION
+Argentina—The Law of Conversion was passed on 31 October 1899 restoring convertibility (della Paolera and Taylor 2001, p. 120). Austria—Joined the gold standard by laws passed 2 August 1892 (Mitchell 1898). Belgium—Joined the gold standard 5 November 1878 (Helfferich 1927, p. 180). Brazil—“Under an act which went into effect December 22, 1906, a conversion fund was established by means of import duties collected in gold” (Monetary Systems of the Principle Countries of the World, p. 8). Bulgaria—Joined the gold standard 24 November 1902 and left the gold standard 10 October 1912 (Dimitrova and Ivanov 2009, p. 63). Chile—A new conversion law of 11 February 1895 set 1 June 1895 as the day for the redemption of notes. This continued until July of 1898 (Bordo and Kydland 1995, pp. 437-38). Denmark—Formed a monetary Union with Sweden that began May 1873 (Helfferich 1927, p. 175). Finland—Joined the gold standard 1 January 1878 (New York Times, June 11, 1877, p. 5). France—Adopted the gold standard on 5 November 1878 (Pick and Sedillot 1971, p. 587). Germany—Joined the gold standard the week of 19 October 1871 (Investor’s Monthly Manual, December 1871, p. 393). Greece—Adopted the gold standard on 19 March 1910 (Bordo and Kydland 1995, p. 439). India—Scheme for adopting the gold standard published the week of 7 May 1898 (Investor’s Monthly Manual, December 1898). Italy—On 12 April 1884, the country adopted the gold standard. By 1894, it was back on a paper standard (Fratianni and Spinelli 1997, p. 439). Japan—Joined the gold standard 1 October 1897 (Helfferich 1927, p. 201). Mexico—The enabling act was passed on 9 December 1904, authorizing the establishment of a gold standard. On 25 March 1905, a decree promulgated the new system. The law went into effect on 1 May 1905 (Kemmerer 1944, p. 524). Netherlands—Joined the gold standard 6 June 1875 (Helfferich 1927, p. 176). Norway—Money Act on 4 June 1873 established a gold standard (www.norges.no/en/ about/history/norges-banks-history/). Rumania—The Monetary Act of March 1890 established the gold standard (Dimitrova, Fantacci, and Tuncer 2009). Russia—The country adopted the gold standard 3—15 January 1897 (Pick and Sedillot 1971, p. 488). Sweden—The country signed a convention in December 1872 instituting the gold standard (Morys 2012, p. 41). United States—Resumed specie convertibility following the Civil War on 1 January 1879 (Kemmerer 1916, p. 85).
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 509
+REFERENCES
+Acena, Pablo Martin, and Jaime Reis. Monetary Standards in the Periphery: Paper, Silver and Gold, 1854-1933. New York: St. Martin’s Press, 2000. Alquist, Ron, and Benjamin Chabot. “Did Gold Standard Adherence Reduce Sovereign Capital Costs?” Journal ofMonetary Economics 58, no. 3 (2011): 262-72. Anuario Estadistico. Various dates. Bank of Finland. Yearbook, various dates. Bloomfield, Arthur I. Monetary Policy under the International Gold Standard: 18801914. New York: Federal Reserve Bank of New York, 1959. Bordo, Michael D., and Marc Flandreau. “Core, Periphery, Exchange Rate Regimes, and Globalization.” In Globalization in Historical Perspective, edited by Michael D. Bordo, Alan Taylor, and Jeffrey G. Williamson, 417-68. Chicago: Chicago: University of Chicago Press, 2003. Bordo, Michael D., and Finn Kydland. “The Gold Standard as a Rule: An Essay in Exploration.” Explorations in Economic History 32, no. 4 (1995): 423-64. Bordo, Michael, and Ronald MacDonald. “Violations of the Rules of the Game and the Credibility of the Classical Gold Standard.” NBER Working Paper 6115, July 1997. Bordo, Michael, and Hugh Rockoff. “The Gold Standard as a Good Housekeeping Seal of Approval.” The Journal of Economic History 56, no. 2 (1996): 389-428. Bordo, Michael, and Antu Murshid. “Globalization and Changing Patterns in the International Transmission of Shocks in Financial Markets.” Journal of International Money and Finance 25, no. 4 (2006): 655-74. Bordo, Michael, and Anna J. Schwartz (eds). A Retrospective on the Classical Gold Standard, 1821-1931. Chicago: University of Chicago Press, 1984. Bureau of Statistics, Annuaire Statistique, various issues, Athens. Chernyshoff, Natalia, David S. Jacks, and Alan M. Taylor. “Stuck on Gold: Real Exchange Rate Volatility and the Rise and Fall of the Gold Standard, 1875-1939.” Journal of International Economics 77, no. 2 (2009): 195-205. Clemens, Michael A., and Jeffrey G. Williamson. “Wealth Bias in the First Global Capital Market Boom, 1870-1913.” Economic Journal, 114 (April 2004): 304-37. Commercial and Financial Chronicle. New York, various dates. The Compilation of the National Statistics of the Meiji-Taisho Era. Tokyo: Oriental Economist, 1927. Corporation ofForeign Bondholders. Annual Report. London: CFB, various dates. Correlates of War Database. http://www.icpsr.umich.edu/icpsrweb/RCMD/studies/ 9905, 2014. Corwin, Shane, and Paul Schultz. “A Simple Way to Estimate Bid-Ask Spreads from Daily High and Low Prices.” Journal of Finance, 67, no. 2 (2012): 719-60. della Paolera, Gerardo, and Alan M. Taylor. Straining at the Anchor: The Argentine Currency Board and the Search for Macroeconomic Stability, 1880-1935. Chicago: University of Chicago Press, 2001. Dimitrova, Kalina, Luca Fantacci, and Coskun Tuncer. “Monetary Policy in Southeast Europe in the Transition from Bimetallism to the Gold Standard.” London: London School of Economics, 2009. Dimitrova, Kalina, and Martin Ivanov. “Bulgaria.” Athens: Bank of Greece, 2009. Dollarization.org. Currency Boards and Dollarization. hittp://web.archive.org/ web/20090217195858/http://www.dollarization.org/, 2009.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+510 Mitchener and Weidenmier
+Domowitz, Ian, Jack Glen, and Ananth Madhavan. “Country and Currency Risk Premia in an Emerging Market.” Journal of Financial and Quantitative Analysis 33, no. 2 (1998): 189-216. Economist. Various dates. Economista Mexicano. Various dates. Eichengreen, Barry. Globalizing Capital: A History of the International Monetary System. Princeton, NJ: Princeton University Press, 1997. Eichengreen, Barry, and Marc Flandreau. The Gold Standard in Theory and History, 2nd ed. London, New York: Routledge, 1997. Elliot, G., Rothenberg, T.R., and Stock, J.H. “Efficient Tests for an Autoregressive Unite Root.” Econometrica 64, no. 4 (1996): 813-36. Estevadeordal, Antoni, Brian Frantz, and Alan M. Taylor. “The Rise and Fall of World Trade, 1870 —1939.” Quarterly Journal ofEconomics 118, no. 2 (2003): 359-407. Esteves, Rui P. “Between Imperialism and Capitalism: European Capital Exports before 1914.” Unpublished Manuscript, Oxford University Working Paper, Department of Economics, 2011. Faria, André, Paolo Mauro, Martin Minnoni, and Aleksandar Zaklan. “The External Financing of Emerging Market Countries: Evidence from two Waves of Financial Globalization.” IMF Working Paper WP/06/205, 2006. Ferguson, Niall, and Moritz Schularick. “The Empire Effect: The Determinants of Country Risk in the First Era of Globalization.” The Journal ofEconomic History 66, no. 2 (2006): 283-312. . (2012). “The ‘Thin Film of Gold’: Monetary Rules and Policy Credibility” European Review of Economic History 16, no. 4 (2012): 384407. Flandreau, Marc, and Mathilde Maurel. “Monetary Union, Trade Integration, and Business Cycles in 19" Century Europe: Just Do It.’ CEPR Discussion Paper 3087, 2001. Ford, A.G. The Gold Standard, 1880-1914: Britain and Argentina. Oxford: Clarendon Press, 1962. Fratianni, Michele, and Franco Spinelli. 4 Monetary History of Italy. Cambridge: Cambridge University Press, 1997. Helfferich, Karl. Money. 2 Vols. Translated by Louis Infield. New York: Adelphi Company Publishers, 1927. International Monetary Fund. “Globalization in Historical Perspective.” World Economic Outlook: Annex. Washington: IMF, 1997. Investor’s Monthly Manual. 1898. Kemmerer, Edwin W. Modern Currency Reforms. New York: Macmillan Press, 1916. . Gold and the Gold Standard. New York: McGraw Hill, 1944. Kydland, Finn E., and Edward C. Prescott. “Rules Rather than Discretion: The Inconsistency of Optimal Plans.” Journal of Political Economy 85, no. 3 (1977): 473-92. Manchester Guardian. Various dates. Lopez Cordova, J. Ernesto and Christopher M. Meissner. “Exchange Rate Regimes and International Trade: Evidence from the Classical Gold Standard Era, 1870-1913.” American Economic Review 93, no. | (2003): 344—S3. McCloskey Donald N., and J. Richard Zecher. “How the Gold Standard Worked, 18801913.” In The Monetary Approach to the Balance of Payments, edited by Jacob A. Frenkel and Harry G. Johnson, 357-85. Toronto: University of Toronto Press, 1976.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press
+
+
+Classical Gold Standard Credible on the Periphery? 511
+Meissner, Christopher M. “The Gold Standard.” In The Oxford Encyclopedia of Economic History, edited by Joel Mokyr, 431-34. Oxford: Oxford University Press, 2003. Mitchell, Wesley C. “Resumption of Specie Payments in Austria-Hungary.” Journal of Political Economy 7 (1898): 106-13. Mitchener, Kris James. “The Classical Gold Standard.” In The Handbook of Major Events in Economic History, edited by Randall Parker and Robert Whaples, pp. 88-102. London, New York: Routledge, 2013. Mitchener, Kris James, and Marc Weidenmier. “Trade and Empire.” Economic Journal 118 (November 2008): 1805-34. . “Are Hard Pegs Ever Credible in Emerging Markets? Evidence from the Classical Gold Standard.” NBER Working Paper 15401, 2009. .“Supersanctions and Sovereign Debt Repayment.” Journal of International Money and Finance 29 (February 2010): 19-36. Mitchener, Kris James, Masato Shizume, and Marc D. Weidenmier. “Why did Countries Adopt the Gold Standard? Lessons from Japan.” The Journal ofEconomic History 70, no. 1 (2010): 27-56. Morys, Matthias. “Emergence of the Classical Gold Standard.” Centre for Historical Economics and Related Research at York, Discussion Paper 12/01, 2012. Neal, Larry D., and Marc D. Weidenmier. “Crisis in the Global Economy from Tulips to Today.” In Globalization in Historical Perspective, edited by Michael D. Bordo, Alan M. Taylor, and Jeffrey G. Williamson, 473-514. Chicago: University of Chicago Press, 2003. New York Times. Various dates. Obstfeld, Maurice, and Alan M. Taylor. “Sovereign Risk, Credibility and the Gold Standard, 1870-1913 versus 1925-1931.” Economic Journal 113 (January 2003): 1-35. Officer, Lawrence. “The Remarkable Efficiency of the Dollar-Sterling Gold Standard, 1890-1906.” The Journal of Economic History 49, no. 1 (1989): 1-41. . “Gold Standard.” EH.NET, 2005. Schmuckler, Sergio, and Luis Serven. “Pricing Currency Risk under Currency Boards.” Journal ofDevelopment Economics 69, no. 2 (2002): 367-91. Pick, Franz, and Rene Sedillot. A// the Monies of the World. New York: Crown Advertising Press, Inc., 1971. Scammell, W. M. “The Working of the Gold Standard.” Bulletin ofEconomic Research, 17, no. 1 (1965): 32-45. U.S. Bureau of the Mint, Department of the Treasury. Monetary Systems ofthe Principal Countries of the World. Washington: Government Printing Office, 1913. Whale, P.B. “The Working of the Pre-War Gold Standard.” Economica 4, no. 3 (1937): 18-32. Williams, John H. “The Adequacy of Existing Currency Mechanisms Under Varying Circumstances.” American Economic Review 27, no. | (1937): 151-68. . “Monetary Stability and the Gold Standard.” In Postwar Monetary Plans, and Other Essays, 173-90. New York: Alfred A. Knopf, 1947.
+https://doi.org/10.1017/S0022050715000686 Published online by Cambridge University Press

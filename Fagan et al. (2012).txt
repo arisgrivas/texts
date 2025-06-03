@@ -1,0 +1,637 @@
+WAS THE GOLD STANDARD REALLY DESTABILIZING?
+GABRIEL FAGANa, JAMES R. LOTHIANb AND PAUL D. MCNELISb*
+a Directorate General Research, European Central Bank, Frankfurt, Germany b Department of Finance, Fordham University, New York, USA
+SUMMARY
+This paper investigates the extent to which the high macroeconomic volatility experienced in the classical Gold Standard era of US history can be attributed to the monetary policy regime per se as distinct from other shocks. For this purpose, we estimate a small dynamic stochastic general equilibrium model for the classical Gold Standard era. We use this model to conduct a counterfactual experiment to assess whether a monetary policy conducted on the basis of a Taylor rule characterizing the Great Moderation data would have led to different outcomes for macroeconomic volatility and welfare in the Gold Standard era. The counterfactual Taylor rule significantly reduces inflation volatility, but at the cost of higher real-money and interest-rate volatility. Output volatility is very similar. The end result is no welfare improvement. Copyright © 2012 John Wiley & Sons, Ltd.
+Received 6 May 2010; Revised 25 June 2011
+1. INTRODUCTION
+There is an emerging consensus that, from the mid 1980s up until 2008, the US economy experienced a period of unusually low volatility in output accompanied by low and stable inflation (see, for example, Stock and Watson, 2003). This stands in contrast to the high levels of macroeconomic instability which characterized the late 1960s and 1970s—the period of the Great Inflation. There is an ongoing debate as to the sources of the improved performance, which has been dubbed the Great Moderation. Is it due to luck, reflected in the fact that the magnitude of the shocks hitting the economy have been much smaller, as Sims and Zha (2006) and Ahmed et al. (2004) argue? Alternatively, does it reflect the improved conduct of monetary policy, reflected in a stronger response of interest rates to inflation, as Clarida et al. (2000) and Benati and Surico (2009) suggest? The studies which address this question make use of historical counterfactual simulations: by means of stochastic simulation of the respective models, they ask how the economy would have performed in the Great Inflation era if the policy rule of the Great Moderation era had been in place. Volcker and Greenspan are thus brought back in time. The current discussion has interesting parallels with a debate which has long been underway among economic historians. Numerous studies have documented the fact that the classical Gold Standard era (from 1879 to the start of World War I), although it delivered a low long-term average rate of inflation, was characterized by higher levels of volatility of output, shorter-term inflation and interest rates relative to the post-World War II era (see Bordo and Schwartz, 1999).1 One influential line of argument holds that the Gold Standard regime itself was responsible for the high degree of macroeconomic instability that was observed in this period. This is because, as Niehans (1978) argued, the pure Gold Standard left no room for monetary policy to stabilize output.
+* Correspondence to: Paul D. McNelis, Department of Finance, Fordham University, 1790 Broadway, Room 1322, New York, NY 10019, USA. E-mail: mcnelis@fordham.edu 1 There is some controversy as to whether output in the Gold Standard era was in fact more volatile than in the post-World War II era and conclusions depend on the datasets used (see Romer, 1999). Nonetheless, regardless of the datasets employed, macroeconomic volatility was clearly higher than what has been recorded in the Great Moderation era.
+Copyright © 2012 John Wiley & Sons, Ltd.
+JOURNAL OF APPLIED ECONOMETRICS J. Appl. Econ. 28: 231–249 (2013)
+Published online 20 February 2012 in Wiley Online Library (wileyonlinelibrary.com) DOI: 10.1002/jae.2262
+
+
+Irving Fisher was particularly vehement in this regard, stating that
+The chief indictment, then, of our present dollar is that it is uncertain. As long as it is used as a measuring stick, every contract is necessarily a lottery; and every contracting party is compelled to be a gambler in gold without his own consent. Business is always injured by uncertainty. Uncertainty paralyzes effort. And uncertainty in the purchasing power of the dollar is the worst of all business uncertainties. (Fisher, 1920, p. 65)
+Fisher went on to say that
+One of the results of such uncertainty is that price fluctuations cause alternate fluctuations in business; that is, booms and crises, followed by contractions and depressions. (p. 65)
+More recently, in a somewhat similar vein Gramlich argued that
+Monetary policy was not set consciously in terms of the economic needs of the country, but by the world gold market. The world gold stock would fluctuate in line with international discoveries, while the stock in particular countries reflected trade flows. There was no automatic provision for money or liquidity to grow in line with the normal production levels in the economy . . .this regime was responsible for large fluctuations in real output, much less stability in real output than has been achieved in the post gold standard era. (Gramlich, 1998)
+This view seems now to be an accepted wisdom, and is even reflected in some undergraduate textbooks.2 However, the recent debate about the sources of the Great Moderation highlights the need for caution in attributing high levels of macroeconomic volatility solely to the monetary policy regime in place. Indeed, there is some evidence to suggest that the US economy was subject to highly volatile demand and supply shocks in the Gold Standard era (Bordo and Schwartz, 1999). As an example of a different view, for example, Chernyshoff et al. (2005) argue that the Classical Gold Standard was an effective shock absorber. In line with the literature on the Great Moderation, we address the question of the extent to which the macroeconomic volatility experienced during the gold standard era was due to the monetary regime per se by conducting a counterfactual experiment. Specifically, using Bayesian techniques, we estimate a dynamic stochastic general equilibrium (DSGE) model for the period of the classical Gold Standard (1879–1914). We then proceed to conduct our counterfactual experiment. Taking the estimated parameters, including the estimated shock volatilities, from the Gold Standard era, we simulate the model under two alternative monetary policy regimes: first, the estimated money supply process for the Gold Standard era; and, second, a Taylor rule estimated for the Great Moderation era. Finally, we compare the properties of our model economy under these different rules. This allows us to assess the extent to which the volatility observed in the Gold Standard era would have been lower if a Great Moderation era Taylor rule had instead been in place. The remainder of this paper is structured as follows. Section 2 examines the data from the classical Gold Standard and compares key properties with corresponding data from the Great Moderation. Section 3 presents the model we use for our Bayesian estimation and subsequent counterfactual simulation. The following sections then examine with simulation analysis both the properties of key
+2 Burda and Wyplosz (1997, p. 515), for example, state in an undergraduate macro textbook aimed at a European audience: ‘While average growth was comparable to the postwar experience and inflation was lower, the table also shows that both measures were more variable under the gold standard. Unstable economic conditions imposed serious costs on individuals at the time, as is made clear by the unemployment rates . . .Was it just a coincidence? In fact, the very automatic mechanisms that are often considered the main advantage of the gold standard imply such an outcome.’
+232 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+variables under the actual Gold Standard as well as the properties of the same variables under a counterfactual inflation-targeting regime.
+2. THE DATA
+The data we use for the Gold Standard era come from Balke and Gordon (1989), and are based on quarterly interpolations of the annual data reported in Balke and Gordon (2004).3 In our estimation, we use quarterly data for four macroeconomic variables: real GDP (y), the rate of change of the GDP deflator (p), the short-term interest rate (the interest rate on commercial paper) (r) and the money base (m) . We transform the logarithm of real GDP with the Hodrik–Prescott filter, whereas the only transformation we apply to the inflation rate, money growth and the interest rate is to subtract their respective sample means. Figure 1 pictures these variables. Table I shows the means (at annualized rates) and standard deviations of the raw data on the HPfiltered output, inflation, interest rates and nominal base money for the Classical Gold Standard (CGS) and the Great Moderation (GM). As regards the means, the following well-known features can be highlighted. Output growth rates in the two periods are broadly comparable. Notwithstanding the good inflation performance in the Great Moderation period, it is notable that inflation in the period 1879–1914 was almost zero, implying a modest rise in the price level over the whole period. Of course, this average masks the fact there was alternation between deflation and inflation over the period. The main feature of interest from the point of view of this paper, however, is the relative volatilities of the key variables. When measured in terms of growth rates, the standard deviation of output is practically four times larger in the Gold Standard compared to the Great Moderation, while inflation is 10 times more volatile. Base money growth rates are more than twice as volatile. Interestingly, interest rates are less volatile in the Gold Standard era. The same picture emerges when we use standard deviations of the filtered data. These statistics confirm the conventional wisdom that the Gold Standard era was a much more volatile era than the Great Moderation period. Is this difference due to the monetary policy regime or are other factors at play? In the remainder of this paper, we will address this question using a microfounded DSGE model.
+3. THE MODEL
+3.1. Theoretical Framework
+Given the paucity of data for the Gold Standard era, and in line with much of the existing literature, we confine ourselves to a relatively small-scale version of the workhorse DSGE model. The model comprises four linearized equations: a Euler equation for consumption, a Phillips curve, a money–demand relation and a stochastic process for money supply. The periodicity of the model is quarterly. Specifically, we employ the model put forth by Andres et al. (2004). This model is representative of the New Keynesian approach in macroeconomic dynamic stochastic general equilibrium modeling. For our purposes, the advantage of this model, in contrast to other New Keynesian models, is that it explicitly incorporates money. Thus it can be used straightforwardly to analyze a monetary regime, such as the Gold Standard, in which interest rates are determined by the interaction of the supply and demand for money rather than being explicitly set by a central bank policy rule. Given the empirical evidence reported in that paper and by Ireland (2004), we employ the version which assumes linear separability between money and consumption in preferences (i.e. the utility function). The model incorporates a number of frictions which in principle allow it to match the dynamics of the data:
+3 In order to derive an estimated policy rule for our counterfactual experiment, we also estimate the model for the Great Moderation era. For this purpose, we use the FRED database of the Federal Reserve Bank of St Louis.
+GOLD STANDARD DESTABILIZING? 233
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+internal habit formation in consumption and sticky prices à la Calvo combined with indexation. For estimation and simulation, we take the log-linearized model, expressed as percentage deviation of each variable from its steady state. We now turn to the derivation of the model. We start by assuming that there is a representative household in the model that maximizes the following intertemporal welfare with respect to the choice of real consumption expenditures Ct, labor Nt, nominal money holdings Mt, and nominal bonds Bt:
+max
+Ct; Nt; Mt; Bt
+V0 1⁄4 E0
+1 X
+t1⁄40
+btat Ψ Ct ; Mt
+et Pt
+gN
+N 1þf
+t
+1þf
+" !#
+(1)
+Ct 1⁄4 Ct
+Ch
+t1
+(2)
+Ψ Ct ; Mt
+et Pt
+1⁄41
+1s
+Ct
+Ch
+t1
+1s
+þ gM
+1 1d
+Mt
+et Pt
+1d
+(3)
+1880 1890 1900 1910
+−0.05
+0
+0.05
+Real GDP
+1880 1890 1900 1910
+0
+0.05
+0.1
+Inflation
+1880 1890 1900 1910
+−4
+−2
+0
+2
+4
+6
+8
+x 10−3 Interest Rate
+1880 1890 1900 1910
+−0.02
+0
+0.02
+0.04
+Money Growth
+Figure 1. GDP, inflation, interest rate, and nominal base money growth, 1880–1914
+Table I. Statistics for the CGS and GM
+Δy p r Δm
+Means
+CGS 3.48 0.35 5.94 4.30 GM 2.97 2.48 4.75 6.57 Standard deviation: actual data
+CGS 2.33 2.15 0.22 1.61 GM 0.49 0.24 0.50 0.81
+234 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+The variables Ct and Pt are the CES aggregators of the quantities and prices of the different goods consumed:
+Ct 1⁄4
+R
+1
+0 CtðjÞ
+e
+e 1dj
+!e 1
+e
+Pt 1⁄4
+R
+1
+0 PtðjÞ1 edj
+!1
+1e
+The variable at is a preference shock and et is a liquidity–preference or money–demand shock. The parameter b 2 (0, 1) is the discount factor and f ≥ 0 is the inverse of the Frisch labor supply elasticity. The parameter h represents the importance of habit persistence in the utility function (with h = 0 we obtain the standard CRRA function). The symbol gN is the coefficient of the disutility of labor, while gM is the coefficient for the utility of real balances. The budget constraint of the household has the following form:
+Mt 1 þ Bt 1 þ WtNt þ Tt þ Dt
+Pt
+1⁄4 Ct þ Bt=rt þ Mt
+Pt
+(4)
+Households receive nominal government transfers Tt from the government, as well as nominal dividends Dt and nominal labor income WtNt from firms. They enter period t with money and bond holdings, Mt 1 and Bt 1. They can use these resources for consumption or to purchase bonds at cost Bt/rt. The firm produces a differentiated output with the following production function:
+Ytð jÞ 1⁄4 ztNtð jÞ1 a (5)
+The variable zt is an economy-wide technology shock, while 1 a is the elasticity of labor with respect to output. Aggregate output is obtained by the following CES aggregation function:
+Yt 1⁄4
+Z1
+0
+Ytð jÞ e
+e 1dj
+e1 e
+Market clearing requires, of course, Yt = Ct. Prices are sticky. Firms set their prices through the familiar Calvo mechanism. Each firm resets its price with probability (1 θ) each period, while a fraction θ leave their prices unchanged. Of those firms which change prices in a given quarter, a fraction o sets their prices in a fully forward-looking manner, while the remainder set prices in a backward-looking manner, updating their previous price using the observed rate of inflation. In the special case of no constraints on price adjustment (θ = 0), firm j would set its price as a mark-up over marginal cost MCt( j), defined as the ratio of the economy-wide nominal wage divided by the marginal product of labor in firm j:
+Ptð jÞ 1⁄4 e
+e1
+hi
+MCtð jÞ (6)
+MCtð jÞ 1⁄4 Wt
+@Ytð jÞ=@Ntð jÞ (7)
+The following equations summarize this price-setting mechanism:
+GOLD STANDARD DESTABILIZING? 235
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Pb
+t 1⁄4 Pt 1pt 1 (8)
+pt 1 1⁄4 Pt 1
+Pt 2
+(9)
+Pf
+t1⁄4
+Et
+1 P
+i1⁄40
+biθi Ytþi e
+e 1 MCtþi
+Et
+1 P
+i1⁄40
+biθi Yj
+tþi
+(10)
+Pt 1⁄4 P f
+t
+ð1 oÞ P b
+t
+o (11)
+Pt 1⁄4 θPð1 eÞ
+t1 þ1 θ
+ð ÞP ð1 eÞ
+t
+h i1
+1 e (12)
+3.2. Log-Linearized System
+Andres et al. (2004) show that, after the first-order conditions of the model are linearized, the model can be expressed in the following equations, in which lower-case variables capped with a hat symbol represent logarithmic or percentage deviations from the steady-state values of the respective variables:
+y^t 1⁄4 f1
+f1 þ f2
+^yt 1 þ bf1 þ f2
+f1 þ f2
+y^tþ1
+1
+f1 þ f2
+r^t p^tþ1
+ðÞ
+bf1 f1 þ f2
+y^tþ2 þ 1 bhra
+ð1 bhÞ
+1 ra f1 þ f2
+^at (13)
+m^ t ^pt 1⁄4 f1
+d ^yt 1 þ f2
+d y^t
+bf1
+d ^ytþ1
+1
+dðr 1Þ r^t þ 1 bhra
+ð1 bhÞd ^at þ d 1
+d ^et (14)
+^mct 1⁄4 f1^yt 1 þ w þ f2
+ð Þ^yt bf1^ytþ1
+ð1 þ wÞz^t
+bh 1 ra
+ðÞ
+1 bh ^at (15)
+p^t 1⁄4 gf p^tþ1 þ gbp^t 1 þ l^mc t (16)
+The first equation, (13), is a linearized Euler equation which describes real GDP y^t as a function of past and future GDP, as well as the expected real interest rate r^t ^ptþ1
+ð Þ, and the current period demand shock, ^at. Real money demand, ^mt ^pt, given by equation (14), depends on past, present and future output, as well as the nominal interest rate r^t, the demand shock, ^at, and the exogenous liquidity preference shock, ^et.
+236 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Marginal cost changes, m ^ct , in equation (15), are a function of past, present and future output,
+productivity shocks z^t, and demand shocks, ^at: Current inflation, p^t, in the Phillips curve equation (16), responds both to past and expected future inflation as well as to marginal cost changes, m^ct. The parameter l gives the sensitivity of inflation to marginal costs. As shown by Andres et al. (2004), this coefficient in turn depends on the other deep parameters of the model:
+l1⁄4 1 θ
+ð Þ 1 bθ
+ð Þ1 o
+ð Þx x 1⁄4 ð1 aÞ
+1 þ aðe 1Þ θ þ o1⁄21 θð1 bÞ
+f g1
+Four key parameters in the above model, f1, f2, gf and gb, are themselves functions of deep structural parameters, the constant relative risk aversion coefficient s, the habit persistence parameter h, the discount parameter b, the Calvo forward-looking pricing parameter θ and the Calvo backward-looking indexing coefficient, o:
+f1 1⁄4 ðs 1Þh
+1 bh
+f2 1⁄4 s þ ðs 1Þbh2 bh
+1 bh
+gf 1⁄4 bθ
+θ þ o1⁄21 θð1 bÞ
+gb 1⁄4 o
+θ þ o1⁄21 θð1 bÞ
+The three exogenous shock processes, for demand (^atÞ, liquidity (^etÞ, and productivity (z^tÞ, are assumed to follow first-order autoregressive processes with normally distributed innovations and constant variances:
+^at 1⁄4 ra^at 1 þ ea;t
+ea;teN 0; s2
+a
+e^t 1⁄4 re^et 1 þ ee;t
+ee;teN 0; s2
+e
+z^t 1⁄4 rzz^t 1 þ ez;t
+ez;teN 0; s2
+z
+3.3. Modeling the Monetary Regime
+In order to close the model, we need to add an equation which captures the determination of interest rates. Monetary policy is traditionally modeled in terms of a policy rule which expresses the interest rate as a function of a number of macroeconomic variables. As the various papers in the volume edited by Taylor (1999b) show, this approach provides a good description of US monetary policy over much of the Great Moderation era. However, in the same volume, Taylor shows that such a rule is a poor description of interest rate determination for the Classical Gold Standard period. This is not surprising. Since the Federal Reserve was only established by the Federal Reserve Act of 1913 and only started operations in 1914, it is clear that interest rates in our sample period were not the outcome of decisions by a central bank.
+GOLD STANDARD DESTABILIZING? 237
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Instead, in order to model interest rates in this era, our approach is based on the theory of the working of the Classical Gold Standard (see, for example, Niehans, 1978, for a survey). In this approach, interest rates, and ultimately the price level, are determined by the interaction of the demand for, and the supply of, money. The model outlined above already contains a money demand function, equation (14). The model can be closed by adding a process for the money supply. From an econometric point of view, this approach will be valid provided the money supply is largely exogenous. Cagan’s classic study on the determinants of money stock (Cagan, 1965) has addressed this issue. He shows that changes in the stock of base money during this period were largely due to exogenous causes, in particular changes in the gold stock (reflecting new discoveries and improved production techniques as well as capital flows). In contrast, changes in broader measures of money (e.g. M2) reflected, in addition to the change in base money, movements in the currency and reserve ratios. These ratios, though strongly influenced by banking panics, which Cagan argues were themselves exogenous events, arguably contain important endogenous responses to the business cycle. In order to minimize the effects of this endogeneity, we choose to model the demand and supply of base money rather than M2.4 Given the evidence provided by Cagan, we approximate the monetary regime by an exogenous stochastic process
+for nominal base money growth,d^ M t, given by (17):
+d ^ M t 1⁄4 rm d ^ M t 1 þ em;t (17)
+em;teN 0; s2
+m (18)
+In this setup, the evolution of real money balances (m^ t ^pt) is given by the identity
+^mt ^pt 1⁄4 ^mt 1 ^pt 1 þ d ^ M t p^t
+In this regime, the nominal interest rate is given by the inversion of the demand for money in equation (14). In order to derive a monetary policy rule for our counterfactual analysis, we follow the existing literature (summarized, for example, in the NBER volume edited by Taylor (1999b) by assuming that the behavior of the Federal Reserve can be adequately captured by a Taylor rule formulation with interest smoothing:
+r^t 1⁄4 rrr^t 1 þ 1 rr
+ð Þry^yt þ 1 rr
+ð Þrpp^t þ em;t (19)
+em;teN 0; s2
+n
+In this case, the interest rate equation r^t, in equation ((19)), shows that current interest rates respond to past interest rates with a smoothing parameter rr, as well as to output and inflation, p^t. The interest rate is also affected by an exogenous policy shock, given by v^t. The parameters of the rule are obtained as part of the estimation of the whole model. We then modify the baseline model by replacing the money supply process (17) by (19). In order to obtain estimates of the parameters of the policy rule for our counterfactual exercises, we estimate the modified model for the period 1984–2007 and take the policy rule parameters from these estimates. Some comments on the choice of interest rate variable in this study are in order. In the monetary policy literature on the estimation of policy rules for the post-World War II era, the empirical measure of the
+4 In any event, we have also conducted the analysis using M2 instead of base money. The results are very close to those obtained from using base money and none of the conclusions of the paper are affected. Details are available from the authors on request.
+238 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+short-term interest rate used is typically the Federal Funds Rate, the T-bill Rate or money market interest rates. Data on these variables are not available for the Gold Standard era. In view of this, we follow Taylor’s study of the Gold Standard era (Taylor, 1999a) and use the commercial paper rate as our short-term interest rate measure. To allow for comparability we use this rate in the estimation of the model for both the Gold Standard and the Great Moderation eras. Obviously, since this rate contains default risk premia it is somewhat more volatile than the Fed Funds or T-bill rates. However, for the Great Moderation era data on both of these rates are available. To see whether our choice of interest rate variable affects our results, we estimate the policy rule using both the commercial paper rate and the Federal Funds Rate. The estimates of the key policy rule parameters are not much affected by this choice.5 Finally, one should note the change in the interpretation of the stochastic shocks ev, t. In the Taylor rule framework, these shocks are the shocks to the interest rate, often referred to as monetary policy shocks. In the Gold Standard, these are the shocks to the rate of growth of the nominal money stock, reflecting the factors mentioned earlier (changes in the gold stock due to discoveries, etc.).
+3.4. Bayesian Estimation
+We estimate the model using Bayesian technique for the period 1879:Q1 to 1914:Q4. As observable variables we have HP-filtered GDP, while inflation, the interest rate and the monetary growth rates are detrended. To allow for the uncertainty surrounding GDP estimates for the Gold Standard era, we incorporated a measurement error term, relating observed real output to the model-generated output with a stochastic term ey, t, normally distributed with variance s2
+y:
+^yo
+t 1⁄4 ^yt þ ey;t
+ey;teN 0; s2
+y
+The main features of our estimates are presented in Table II, while Appendix Table A.I presents the results for the Great Moderation era. Regarding our choice of priors, we follow closely the existing literature. For each parameter, we specify the distribution, the mean, as well as the standard deviation. The volatility priors have inverse gamma distributions. Parameters restricted to fall between zero and one have a beta distribution, while coefficients outside this range are specified with a normal distribution with restrictions on their infimum and supremum. The choice of prior distributions as well as their mean and standard deviation values closely match those used by Smets and Wouters (2007). Regarding the posterior distribution, we present the mode, mean and and lower and upper 5% confidence levels of the posterior distributions. The estimates come from Metropolis–Hastings Monte Carlo Markov chain replications with ten sets of 500,000 draws.6 Some comments on the estimates are in order. Starting with the behavioral parameters, as regards price setting the estimated Calvo and indexation parameters (θ and o) are similar to those reported by Smets and Wouters (2007) for a larger model estimated on US data over the period 1966–2004. Comparing with estimates of our model for the Great Moderation period reported in the Appendix, the results suggest less indexation than now. In contrast, the slope of the Phillips curve (l) is very similar in both periods. Our estimates of (h) point to a high level of habit formation, again in line with the Smets and Wouters (2007) findings and also in line with the value found for the Great Moderation era. The value of s is in line with the existing literature and there is no evidence of a change in this parameter over the two periods. The parameters for the estimated shock processes are very different from values found in the existing literature (e.g. Andres et al.’s, 2004, estimates of the same model
+5 Details are available from the authors on request. 6 All estimation was carried out using the Dynare package developed by M. Julliard, available at http://www.dynare.org.
+GOLD STANDARD DESTABILIZING? 239
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+as ours for the euro area) and from the estimates in the Gold Standard. In general, these processes are found to be much less persistent in the Gold Standard era. More importantly, the estimated standard deviations are very different: in the case of productivity and monetary shocks the difference is around 10-fold, while the volatility of demand shocks is twice as large. We find that the dominating source of volatility is in demand, sa. The habit persistence parameter h is only slightly lower than those reported by Andres et al. (2004). The estimates suggest that money supply process in the Gold Standard era was characterized by a low degree of persistence in money growth but by a high volatility. For the Great Moderation period we estimated a Taylor rule. The posterior mean for the coefficient on inflation is rp is 1.51, confirming that the Taylor principle was respected in this period. The coefficient on the output gap ry is 0.25, while the mean smoothing parameter is rr is 0.66. The estimated volatility for the shocks to the Taylor rule, given by sm, is 0.001. These Taylor rule estimates fall within the range of commonly reported estimates for the Great Moderation (see, for example, Clarida et al., 2000). Analyzing these structural parameters individually or in small subsets, of course, does not give much information about the implications of the fully estimated model for inflation and output volatility. This is the subject of the next section.
+4. HISTORICAL SIMULATION ANALYSIS
+In this section we conduct historical simulation analysis. We first summarize the properties of the model by means of impulse response analysis. With this background, we then examine the importance of the different shocks in the model by means of variance decomposition. We then take a step further to explain the historical trajectories of our main variables on the basis of the estimated shocks.
+4.1. Impulse Response Functions
+Figures 2 and 3 picture the impulse response functions of output and inflation following shocks to output demand A, liquidity preference E, productivity Z and M, representing money supply in the Gold Standard era. We leave out the measurement error shock for the sake of expositional clarity.
+Table II. Prior and posterior distribution: Classical Gold Standard
+Prior distribution Posterior distribution
+Dist. Mean SD Mode Mean 5% 95%
+Shock processes
+sa Inv. gamma 0.01 2 0.019 0.021 0.016 0.026
+se Inv. gamma 0.01 2 0.158 0.205 0.074 0.359
+sz Inv. gamma 0.01 2 0.022 0.023 0.020 0.025
+sm Inv. gamma 0.01 2 0.014 0.014 0.013 0.016
+sy Inv. gamma 0.01 2 0.005 0.005 0.003 0.008 Structural parameters
+h Beta 0.7 0.1 0.835 0.819 0.753 0.890 s Normal 1.25 0.1 1.149 1.174 1.093 1.250 w Normal 0.5 0.05 0.477 0.474 0.393 0.557 l Normal 1.15 0.05 1.162 1.159 1.076 1.239 θ Beta 0.5 0.1 0.616 0.611 0.473 0.750 o Beta 0.1 0.1 0.312 0.338 0.204 0.465 ra Beta 0.5 0.2 0.686 0.678 0.592 0.764
+re Beta 0.5 0.2 0.625 0.627 0.500 0.748
+rz Beta 0.5 0.2 0.602 0.612 0.489 0.741
+rv Beta 0.5 0.2 0.225 0.230 0.144 0.312
+d Normal 10 3 1.999 1.931 1.330 2.732
+240 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+The qualitative responses show that output rises with an increase in demand, productivity and money, and falls with an increase in liquidity preference. As expected, inflation rises temporarily with a positive shock to demand and money and falls with a shock to productivity and liquidity preference.
+0 10 20 30
+5
+10
+15
+x 10−3 Y Response to A
+0 10 20 30
+−12
+−10
+−8
+−6
+−4
+−2
+0
+2
+x 10−4 Y Response to E
+0 10 20 30
+0
+2
+4
+6
+8
+10
+12
+x 10−3 x 10−3
+Y Response to Z
+0 10 20 30
+0
+0.5
+1
+1.5
+2
+2.5
+3
+Y Response to M
+Figure 2. Output response to shocks under the Gold Standard
+0 10 20 30
+−5
+0
+5
+10
+15
+x 10−3
+x 10−3
+x 10−3
+x 10−3
+Infl Response to A
+0 10 20 30
+−4
+−3
+−2
+−1
+0
+1
+Infl Response to E
+0 10 20 30
+−15
+−10
+−5
+0
+5
+Infl Response to Z
+0 10 20 30
+0
+2
+4
+6
+8
+10
+12
+Infl Response to M
+Figure 3. Inflation response to shocks under the Gold Standard
+GOLD STANDARD DESTABILIZING? 241
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+4.2. Variance Decomposition
+Figures 4 and 5 present the conditional variance decomposition after 20 periods for output and inflation for horizons from one, two, eight and 20 quarters.7 Over short and long horizons, productivity shocks and demand shocks dominate the variance of output. In contrast, the contribution to output variance from money supply and demand shocks is relatively small. The finding that technology shocks play such an important role in the the variance of output and inflation in the Gold Standard era may at first glance seem surprising. However, this period was one of rapid transformation of the US economy, characterized by dramatic technical change, a major expansion in the labor force, driven by immigration, and a shift from an agricultural economy to an industrial economy.8 The result is also consistent with existing evidence. For example, Bordo and Schwartz (1999) used a structural VAR methodology to examine the sources of volatility in the US over different monetary regimes. They report that technology shocks were much larger in the Gold Standard than in the postWorld War II era and, moreover, that they were the dominant source of output volatility during the Gold Standard era. For inflation, while demand and technology shocks continue to be the dominant source of variation, money supply shocks are found to account for 20–30% of the variance, depending on the horizon. These shocks are then fed into the model to compute the contributions of the shocks to each variable at each time period. Here we concentrate on output. Figure 6 pictures the historical decomposition of output for the demand, liquidity, productivity and money supply shocks. For output, we see very clearly that its path is largely driven by technology and demand shocks, with the other shocks playing a very limited role. Looking, for example, at the largest two recessions in the sample period (1893 and 1907), we see that demand shocks were the dominant source of the decline in output. These recessions were, by today’s standards, very severe, with output falling by around 12% from peak to trough. Interestingly, in the historical literature both recessions are associated with financial panics. In contrast, in boom periods technology shocks are the dominant source of the rise in output. This is in line with narrative accounts which attribute booms in these period to technological innovations.
+5. COUNTERFACTUAL SIMULATION ANALYSIS
+We now turn to our counterfactual experiment. This involves using our model for the Gold Standard era to answer the question: how would macroeconomic outcomes have been different if interest rates had been determined by the Taylor rule (19) estimated for the Great Moderation era rather than the money supply process (14)? By way of illustration, Figure 7 shows the result of a simple exercise. We replace the money supply rule with the estimated Taylor rule for the Great Moderation and simulate the model using the estimated shocks which occurred during the Gold Standard period. We see straight away that there is not much difference between the two trajectories for output. This is evidence that a Taylor rule would not have made much difference to the path of output. For interest rates, however, the two paths show more marked differences. This is also the case for inflation. However, this evidence is only suggestive since it is based on a single realization from the stochastic shock processes in our model. Moreover, in this simulation we do not allow for monetary policy shocks in the Taylor rule and hence the comparison between the two regimes is in some sense unfair to the Gold Standard. In order to provide a systematic comparison of the two regimes, we follow current research for the evaluation of monetary policy
+7 Note that the results do not sum to 1.00 since we do not include the measurement error shocks in this calculation. 8 To give some examples, comparing 1880 and 1910, the labor force rose from 18.7 million to 37 million, while the share of workers employed in agriculture fell from 48% to 35%. All data come from the Bureau of the Census (1975).
+242 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+regimes by conducting stochastic simulations. We thus examine the response of the economy to a wider set of shocks drawn from their estimated distributions, including monetary policy shocks.
+5.1. Impulse Response Functions
+As a starting point for the comparison, it is useful to compare impulse responses of our baseline model with those of the modified model incorporating a Taylor rule. Figures 8 and 9 picture the impulse response paths of inflation and output to demand, liquidity preference, productivity and money supply shocks. The money shock in the Gold Standard era represents an expansionary increase in the supply
+1 4 8 20
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Quarterly Horizon
+Output: Conditional Variance Decomposition
+A E Z M
+Figure 4. Output variance decomposition for demand (A), liquidity (E), productivity (Z), money (M) and measurement error (Y) shocks
+1 4 8 20
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Quarterly Horizon
+Inflation: Conditional Variance Decomposition
+A E Z M
+Figure 5. Inflation conditional variance decomposition for demand (A), liquidity (E), productivity (Z), and money (M) shocks
+GOLD STANDARD DESTABILIZING? 243
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+of money, whereas the counterfactual Taylor rule shock is an increase in the interest rate, so it is contractionary. For the purposes of comparison, therefore, we reverse the sign of the Taylor rule shock. These figures show that the demand shock is less inflationary in the counterfactual regime, while, as expected, liquidity preference shocks have no effect in the counterfactual regime since they are fully
+1880 1885 1890 1895 1900 1905 1910
+−0.08
+−0.06
+−0.04
+−0.02
+0
+0.02
+0.04
+0.06
+Historical Decomposition of GDP
+A E ZM
+Figure 6. Historical decomposition of GDP for demand (A), liquidity (E), productivity (Z) and money (M) shocks
+1880 1890 1900 1910
+−0.08
+−0.06
+−0.04
+−0.02
+0
+0.02
+0.04
+0.06
+1. Output Gap
+1880 1890 1900 1910
+−4
+−2
+0
+2
+4
+6
+8
+10
+x 10−3
+2. Interest Rate
+1880 1890 1900 1910
+−0.04
+−0.02
+0
+0.02
+0.04
+0.06
+0.08
+3. Inflation
+Figure 7. GDP: actual versus counterfactual
+244 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+0 5 10
+−5
+0
+5
+10
+15 x 10−3 x 10−3
+x 10−3
+Demand Shock
+Base Counterfactual
+0 5 10
+−3
+−2
+−1
+0
+1
+Liquidity Pref. Shock
+0 5 10
+−0.02
+−0.01
+0
+0.01
+Productivity Shock
+0 5 10
+−5
+0
+5
+10
+15
+Monetary Pol. Shock
+Figure 8. Impulse response paths of inflation to an aggregate demand, liquidity preference, productivity and monetary policy shock
+0 5 10
+0
+0.005
+0.01
+0.015
+0.02
+Demand Shock
+Base Counterfactual
+0 5 10
+−10
+−5
+0
+5 x 10−4 Liquidity Pref. Shock
+0 5 10
+0
+0.005
+0.01
+0.015
+Productivity Shock
+0 5 10
+−1
+0
+1
+2
+3 x 10−3 Monetary Pol. Shock
+Figure 9. Impulse response paths of output to an aggregate demand, liquidity preference, productivity and monetary policy shock
+GOLD STANDARD DESTABILIZING? 245
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+accommodated under the Taylor rule interest rate targeting policy. For output, there appears to be little or no difference of demand or productivity shocks on output. Money supply shocks generate stronger effects on real output in the Gold Standard era than the corresponding effects of the interest rate under the counterfactual regime.
+5.2. Stochastic Simulations
+Figure 10 pictures the Epanechnikov kernel-based densities of the distribution of inflation and output/ consumption growth volatility of 1000 simulations for the actual Gold Standard money supply process
+0.014 0.016 0.018 0.02 0.022 0.024 0.026 0.028 0.03 0.032
+0
+0.01
+0.02
+0.03
+0.04
+Quarterly Inflation Volatility
+Base Counterfactual
+0.018 0.02 0.022 0.024 0.026 0.028 0.03 0.032
+0
+0.01
+0.02
+0.03
+Output Gap Volatility
+Figure 10. Actual and counterfactual simulations: quarterly inflation and output gap
+0 0.5 1 1.5
+0
+50
+100
+Real Money Volatility
+Base Counterfactual
+0.022 0.024 0.026 0.028 0.03 0.032 0.034 0.036
+0
+200
+400
+Employment Gap Volatility
+0.002 0.004 0.006 0.008 0.01 0.012 0.014 0.016 0.018
+0
+2000
+4000
+Quarterly Interest Rate Volatility
+Figure 11. Actual and counterfactual simulations: real balances, quarterly interest rate and employment gap volatilities
+246 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+and the counterfactual Taylor rule. We see quite clearly that transporting Volcker and Greenspan back in time would have decreased the volatility of inflation but it would have lessened only sightly the volatility of output. The mean of the distribution under the counterfactual simulation for inflation volatility is slightly less than half of the actual policy regime. The distributions of real GDP growth, however, are much closer, with considerable overlap. Figure 11 pictures the corresponding densities for the real money stock, employment, and interest rates based on the same simulations. We see that the actual and counterfactual show little or no difference in the distribution of employment volatility. However, there is a much more noticeable and significant difference in the distributions for real balances and interest rates. While Figure 5 shows that the counterfactual Taylor rule reduces the volatility of inflation, it does so at the cost of higher volatility in real balances and interest rates.
+5.3. Welfare Comparison
+While the above distributions pictured inflation, output, money, interest and employment volatilities, we need a suitable metric to judge the difference in economic outcomes. For this purpose, since we have a micro-founded model with an explicit utility function for the representative agent, we can compute overall welfare measures for both the baseline and counterfactual simulations. Our measure of welfare is based on expected value of the discounted utility function in equation (1).9 We see that the measures are practically identical. To better interpret the differences in the welfare measures, however small, we also calculate the implied consumption compensation required to equalize the welfare of the representative household in the two regimes, suggested by Schmitt-Grohe and Uribe (2007). Table III presents the welfare measures for the base and counterfactual cases. A positive value implies that the household in the counterfactual scenario is worse off and needs a positive consumption compensation to have the same welfare as households in the base scenario. A negative value means that the household is better off in the counterfactual scenario, and would have to have consumption reduced to be equal to the welfare realized in the base scenario. Table III provides the results of this exercise. We see that the differences in welfare amount to only 0.0045% of actual consumption. In fact, welfare in the counterfactual Taylor rule regime is slightly lower than the welfare generated by the actual Gold Standard regime.10
+9 In order to compute welfare, we obtained values for the utility function parameters gM (the weight of money in the utility function) and gN (the weight of leisure). These parameters were not computed as part of the estimation procedure since they do not affect the dynamics of the linearized model. We thus calibrated them so that the model’s implied steady state values matched the average ratio of money to output and employment in our sample. This led to values of 0.000205 and 0.129 for gM and gN respectively. 10 To understand why the welfare differences are so small, while consumption volatility is lower in the counterfactual, we note that the habit-adjusted consumption volatilities are only slightly different in the two regimes—0.02 in the base and 0.084 in the counterfactual—while the real money stock volatility, adjusted for the liquidity preference shocks, differ quite a bit: 0.2142 in the base and 1.09 in the counterfactual.
+Table III. Welfare Comparison
+Welfare measures % Compensation Δc
+Base Counterfactual
+Mean 565.648260 565.648268 0.0045
+GOLD STANDARD DESTABILIZING? 247
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+6. CONCLUSION
+This paper makes use of counterfactual simulations to assess the extent to which a different monetary policy—the estimated Taylor rule from the Great Moderation period—would have led to differences in the behavior of the economy in the classical Gold Standard period. The results show that sending Volcker and Greenspan back to the Gold Standard era would not have improved welfare. Inflation volatility would have decreased, while output volatility would not have fallen very much. In short, there would have been no clearcut welfare gain from pursuing a Taylor rule policy in the Gold Standard era of the sort that has characterized the Great Moderation era. Our analysis thus suggests that the high volatility seen in the Gold Standard era was attributable to the high volatility of the shocks hitting the economy rather than to the monetary policy regime.
+REFERENCES
+Ahmed S, Levin A, Wilson B. 2004. Recent US macroeconomic stability: good luck, good policies, or good practices? The Review of Economics and Statistics 86: 824–32.
+Andres J, Lópes-Salido J, Vallés J. 2004. Money in an estimated business cycle model of the euro area. The Economic Journal 116: 457–477.
+Balke N, Gordon RJ. 1989. Appendix B: historical data. In The American Business Cycle: Continuity and Change, Gordon RJ (ed.). University of Chicago Press: Chicago, IL; 781–783. Balke N, Gordon R. 2004. The estimation of pre-war gross national product: methodology and new evidence. Journal of Political Economy 97: 38–92.
+Benati L, Surico P. 2009. VAR analysis and the Great Moderation. American Economic Review 99(4): 1636–1652. Bordo M, Schwartz A. 1999. Monetary policy regimes and economic performance: the historical record. In Handbook of Macroeconomics, Taylor J, Woodford M (eds). Elsevier: Amsterdam; 149–234. Burda M, Wyplosz C. 1997. Macroeconomics: A European Text. Oxford University Press: USA.
+Bureau of the Census. 1975. Historical Statistics of the United States: Bicentennial Edition. United States Bureau of the Census: Suitland, MD.
+Cagan P. 1965. Determinants and Effects of Changes in the Stock of Money 1875–1960. National Bureau of Economic Research: Cambridge, MA. Chernyshoff N, Jacks D, Taylor A. 2005. Stuck on gold: real exchange rate volatility and the rise and fall of the gold standard. Working Paper No.11795, National Bureau of Economic Research: Cambridge, MA. Clarida R, Gali J, Gertler M. 2000. Monetary policy rules and macroeconomic stability: evidence and some theory. Quarterly Journal of Economics 115: 147–180.
+Fisher I. 1920. Stabilizing the Dollar. Macmillan: New York. Gramlich E. 1998. The Samuelson lecture. Given before the 24th Annual Conference of the Eastern Economic Association, New York. Available: http: www.federalreserve.gov/Boarddocs/speeches/1998/199802272.htm [24 January 2012]. Ireland P. 2004. Money’s role in the monetary business cycle. Journal of Money, Credit, and Banking 36: 969–984. Niehans J. 1978. The Theory of Money. Johns Hopkins Press: Baltimore, MD. Romer CD. 1999. Changes in business cycles: evidence and explanations. Journal of Economic Perspectives 13 (Spring): 23–44. Schmitt-Grohe S, Uribe M. 2007. Optimal simple and implementable monetary and fiscal rules. Journal of Monetary Economics 54: 1702–1725.
+Sims C, Zha T. 2006. Were there regime switches in US monetary policy? American Economic Review 91: 54–81. Smets F, Wouters R. 2007. Shocks and frictions in US business cycles: a Bayesian dsge approach. American Economic Review 97: 586–606.
+Stock J, Watson M. 2003. Has the business cycle changed and why? In NBER Macroeconomics Annual No. 17, Gertler M, Rogoff K (eds). National Bureau of Economic Research: Cambridge, MA; 159–218. Taylor J. 1999a. A historical analysis of monetary policy rules. In Monetary Policy Rules, Taylor J (ed.). University of Chicago Press: Chicago, IL; 319–348. Taylor J. 1999b. Monetary Policy Rules. University of Chicago Press: Chicago, IL.
+248 G. FAGAN, J. R. LOTHIAN, AND P. D. MCNELIS
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+APPENDIX
+Table AI. Prior and posterior distribution: Great Moderation
+Prior dist. Mean SD
+Posterior dist.
+Mode Mean 5% 95%
+Shock processes
+sa Inv. gamma 0.01 2 0.008 0.009 0.005 0.013
+sz Inv. gamma 0.01 2 0.002 0.002 0.002 0.003
+sm Inv. gamma 0.01 2 0.002 0.002 0.002 0.002
+sy Inv. gamma 0.01 2 0.002 0.002 0.002 0.003 Structural parameters
+h Beta 0.7 0.1 0.893 0.886 0.853 0.920 s Normal 1.25 0.1 1.273 1.275 1.198 1.350 w Normal 0.5 0.05 0.508 0.502 0.421 0.586 l Normal 1.15 0.05 1.151 1.148 1.068 1.229 θ Beta 0.5 0.1 0.559 0.544 0.394 0.695 o Beta 0.1 0.1 0.430 0.449 0.279 0.611 ra Beta 0.5 0.2 0.869 0.867 0.810 0.927
+re Beta 0.5 0.2 0.946 0.943 0.936 0.950
+rz Beta 0.5 0.2 0.923 0.907 0.870 0.946
+rr Beta 0.5 0.2 0.635 0.629 0.565 0.693
+ry Beta 0.5 0.2 0.228 0.240 0.147 0.329
+rp Normal 1.5 0.1 1.513 1.514 1.480 1.546
+GOLD STANDARD DESTABILIZING? 249
+Copyright © 2012 John Wiley & Sons, Ltd. J. Appl. Econ. 28: 231–249 (2013) DOI: 10.1002/jae
+10991255, 2013, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jae.2262 by London School Of Economics And, Wiley Online Library on [27/11/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

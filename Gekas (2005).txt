@@ -1,0 +1,966 @@
+Working Paper No. 89/05
+Business Culture and Entrepreneurship in the Ionian Islands Under British Rule, 1815-1864
+Sakis Gekas
+© Sakis Gekas Department of Economic History London School of Economics
+March 2005
+
+
+Department of Economic History London School of Economics Houghton Street London, WC2A 2AE
+Tel: +44 (0) 20 7955 7860 Fax: +44 (0) 20 7955 7730
+
+
+Business Culture and Entrepreneurship in the Ionian Islands Under British Rule, 1815-1864
+Sakis Gekas
+This paper explores the emergence of a business culture among merchants and entrepreneurs in the Ionian Islands during the period of British rule (1815-1864). New forms of business organisation (the jointstock company), and novel commercial practices, such as advertising, represent examples of institutional but also cultural change. The petitions of merchants, submitted to the central administration, demonstrate the specific strategies used to pursue commercial interests. The changes introduced during the period of British rule, continuing long-established relations with western economic powers, and the existence of a multicultural business world in the port towns of the islands advanced the business opportunities for the merchants resident there (foreigners or nationals) but also advanced the integration of the Ionian Islands to the wider Mediterranean and world market. The Ionian Islands case provides an opportunity to look at the formation of networks and institutions through the articulation and promotion of interests by merchants. The paper proceeds as follows; theoretical and historiographical influences are acknowledged and clarified first while the aspects of institutional change and the new forms of business organisation are presented afterwards. These are followed by examples of petitions submitted by merchants on commercial issues, and some attempts to draw conclusions and generalise from the Ionian case are made at the end.
+Introduction
+The development of business studies and history has exemplified
+the advantages of organisational structures consisting of large firms,
+founded, financed and managed by ‘rational’, ‘innovative’, ‘progressive’
+and ultimately successful individuals. These are the qualities that are
+usually attributed to the archetypal entrepreneur. This notion and
+interpretation of entrepreneurs and their role in economic development
+follows Schumpeter, and has been heavily influenced by neoclassical
+theory and the historical development of business organisation in North
+1
+
+
+America.1 The importance of culture for business organisation and
+development has also been explored in a collective volume, several years
+ago.2 Most of these studies concern northwestern European and North
+American economies and refer to business development since the late
+nineteenth century, while the Mediterranean continues to evade the
+interests of business and economic historians.3 A more complex problem
+is at hand when the definition and role of entrepreneurs in a very different
+setting, that of non-industrialised, and to some historians undeveloped,
+Mediterranean regions, is addressed. The definition of the merchant
+entrepreneur still awaits its pronouncement; this is due to the fact that the
+grasping of opportunities when they occur and the employment of
+(available) capital would not be considered entrepreneurship by some
+economic historians. Innovation, leading ultimately to business success,
+is too enmeshed in our perception of entrepreneurship, to the extent that
+it becomes an abbreviation for this success. The systematic study of the
+characteristics of the type of merchant-entrepreneur that appeared in the
+Mediterranean can have broader implications for the interpretation of the
+economic development of the Ionian Islands in particular and of the
+region as a whole.
+The paper will discuss some of the features that influenced
+entrepreneurship and will assess to what extent the institutional
+requirements for the development of a business culture were created in
+the Ionian Islands during the period of British rule. An attempt has been
+made to detect the emergence of a business culture and
+entrepreneurship in the Greek State; this, it has been argued, was based
+upon common origin with the form of entrepreneurship emerging in the
+1 A notable exception is the work by Jones (2000), on the history of multinational merchant firms from the eighteenth century onwards, with an emphasis on international or ‘imperial’ banks. 2 Godley and Westall (1996). 3 Reference should be made to the collective attempt to examine Mediterranean economic development between 1870 and 1950; see, Pamuk and Williamson (2000).
+2
+
+
+nascent Greek State “similar to that of Diaspora ethnic groups adapting
+themselves to the resources made available by their environment.” 4 In
+this paper, the aim is to deviate from the standard methodology adopted
+during the last decades for the study of merchants in Mediterranean port
+cities, which has at its very core two interrelated concepts; the concept of
+Diaspora and the concept of networks.5 Judging by the significant number
+of studies that now exist one can see that it has become almost
+customary to examine entrepreneurship in the Mediterranean between
+the eighteenth and twentieth centuries with the concept of Diaspora
+networks as an analytical tool. One of the most recent writings attempts to
+employ transaction costs theory and institutional economics, contributing
+to a very lively and ongoing debate.6 Although the origins of this debate
+go back to the 1960s and to the article by Stoianovich on the “conquering
+Balkan Orthodox merchant”, dealing primarily with inland trade among
+Balkan regions, the centre of the debate has shifted to sea trade and the
+entrepreneurial Diaspora networks formed among port-cities, since
+maritime networks became more important in the nineteenth century.7
+4 Chatzioannou, (2000), 469. 5 In recent years a considerable number of studies on merchant networks and Diasporas mostly in the early modern world has appeared. The most recent contribution to the debate and a very well informed one from a cultural, that is anthropological, as well as social and economic point of view is by Curto and Molho (2002). Another publication with a collection of articles dealt with very similar issues on commercial networks during the early modern as well as the modern period; see, Beerbuhl and Vogele (2004). 6 Important as well for its comparative dimension and scope, about Greek but also Jewish and Chinese diaspora merchants, this recent contribution appeared for the first time in the last International Economic History Congress, in a very encompassing and quite ambitious session organised by G. Harlaftis and I. Pepelasis Minoglou, on “Diaspora Entrepreneurial Networks, c 1000-2000”. Their paper was titled “Greek Diaspora Entrepreneurship 18th – 20th centuries: A Comparative and Methodological Analysis”, Buenos Aires, 2002. They clarify that they are not dealing with the political or social dimension or anthropological dimension of diaspora, but “with its economic dimension, and more particularly with the diaspora entrepreneurship, the one that carried business beyond borders”. It was published very recently as an edited collection; see, Baghdiantz McCabe, Harlaftis and Pepelasis Minoglu (2005). 7 Stoianovich, (1960). Studies by Greek historians include, Katsiardi-Hering (1986); Hadziiosif (1983); on Odessa and the grain trade, Kardasis (1997); on Livorno, Vlami
+3
+
+
+The concept of networks has become central to the analysis of
+historians of entrepreneurship, highlighted especially in the contributions
+of Casson.8 Casson’s emphasis is on institutions, namely firms, which are
+based on trust. Trust allows for the institutional framework and creates
+the networks within which business is developed. Fundamental in the
+operation of the firms (or merchants) belonging to the same network is
+the exchange of information; the main aim is to reduce the cost and
+increase the quality of information. Here it is important to clarify that what
+is meant by networks are private family networks. Even more recent
+writings include the attempt to theorise the “Greek diaspora trading
+companies” by using the concept of clan “as a potential alternative to
+markets and hierarchies for organising transactions”.9
+The emphasis on markets and especially trading companies is
+evident in the above survey. Less researched are commercial institutions,
+other than firms, which were developed by governmental initiative and the
+agency of merchants, forming more loose and temporary or informal
+networks and operating outside the family but within the same community
+(in the geographical-spatial sense). This type of analysis, conducted in
+this paper, owes considerably to Grannovetter’s critique on North’s model
+of institutional change. According to Grannovetter, the main shortcoming
+of New Institutional Economics and economic theory “is neglect of social
+structure and of collective economic action”.10 This action is socially
+situated and can be traced in the involvement in companies (joint-stock,
+for example), but also in the close-group organisation of commercial
+mechanisms and decision-making bodies, such as the Exchange and the
+Chamber of Commerce. Thus, for Grannovetter, institutions can only be
+(2000); on Marseilles, Mandilara (2000); also, on a ‘typical’ commercial house, see Hatzioannou (2003); and also on Odessa Sifnaiou (2004). 8 Casson (1998); Casson (1993). 9 Pepelasis Minoglou and Ioannides (2004), abstract. 10 Grannovetter (1992 and, especially, 1985).
+4
+
+
+perceived as social constructs. Essentially, these mechanisms were
+means of governance. In a fairly recent overall evaluation of the
+contribution of New Institutional Economics to explanations of economic
+growth, Williamson identifies the means of governance as the third of the
+four ‘levels of social analysis’ for a framework of institutional economics.11
+For Williamson, governance “is an effort to create order, thereby to
+mitigate conflict and realize mutual gains”.12 The emergence of the
+Exchange, the Chamber of Commerce, and the improvement of markets
+by the merchants’ agency are precisely examples of governance for the
+mitigation of conflicts and the creation of order. The relationship between
+business and politics, direct political influence and pressure group activity,
+will be addressed through the examples of petitions submitted by
+merchants; this was a form of strategic planning and a significant attempt
+to correct deficiencies that were jeopardising already unstable business
+prospects.13
+New forms of commercial and business organisation
+The United States of the Ionian Islands formed a British
+Protectorate under the treaty of Paris in 1815. The Colonial Office
+appointed a Lord High Commissioner for a period up to five years and,
+until the liberal reforms of Lord Seaton in 1849, the islands were ruled in
+an autocratic manner. The Ionian Islands, having lost the military and
+economic importance attributed to them in 1815, were ceded to Greece in
+1864. Corfu was the administrative and commercial capital of the Ionian
+Islands and served as an entrepôt for the islands and neighbouring
+11 Williamson (2000). 12 Ibid, p. 599. 13 The volume of the Proceedings of the EBHA Conference includes a session on the influence of private entrepreneurs and businessmen on government; see, Kuijlaars, Prudon, Visser (2000).
+5
+
+
+markets, but Kefalonia and Zante, the other two main islands, also had
+important port towns, especially for the currant-exporting and shipping
+sectors.
+The period of British rule was characterised by an expansion of
+commercial activities. Traditional business organisation, methods and
+activities co-existed with novel entrepreneurial endeavours, facilitated by
+the State’s desire to promote commerce as the means to a rational,
+civilised and prosperous community and polity. The nature of the
+traditional business enterprises was determined by the commodities for
+export that each island produced, as well as by the necessity to import
+grain. There were a few merchants who were involved in all these
+lucrative fields of trade. In Kefalonia and Zante (the southern Ionian
+Islands), the principal merchants were involved in the export of currants,
+and the import of grain (after the 1830s increasingly from the Black Sea),
+foodstuffs and British manufactures. In Corfu, olive oil, the principal
+commodity, was the field of commercial specialisation of Jewish
+merchants; wholesale traders (Christians) were involved in the import of
+grain, coal for the steamers calling at Corfu, and foodstuffs and they had
+clearly established an oligopoly as is suggested in a recent study on the
+islands’ economic and social history during the period.14 Overall, the
+range of business activities of the Corfu merchants especially (not of
+Zante and Kefalonia given the more traditional currant trade activities)
+reflects the changing economy of Corfu, from a port for the export of olive
+oil during the Venetian years, to the entrepôt of the British period.
+Alongside these old forms of business activity, new ones emerged:
+banking, insurance and attempts to establish more systematic farming for
+the production of agricultural commodities (such as wine and silk) for
+export.
+14 Progoulakis (2003), 224-5.
+6
+
+
+Among the changes in the economic environment of the Ionian
+Islands though, the most important was the institutional transformation,
+which took place from the 1830s onwards, altering the legal framework
+and impacting on the social organisation by structuring hierarchies among
+merchants. These changes were the introduction of the Commercial Code
+(part of the codification of all legislation in the Ionian Islands) in 1841 and
+the establishment of commercial mechanisms such as the Exchange and
+the Chamber of Commerce. The introduction of the Commercial Code led
+to the regulation of commercial activities, such as the use of bills of
+exchange, to the institutionalisation of commerce with the operation of
+Commercial courts and to the establishment of new business practices,
+such as the regulation of commercial debt and the founding of joint-stock
+companies. From the 1840s onwards, the Code became the legal
+mechanism par excellence, the mechanism that defined and regulated all
+mercantile activities and practises, both existing and developing ones,
+abolishing the legislation that had survived the decline and fall of
+Venice.15 For the merchants of the Islands, the Commercial Code
+became the instrument which regulated credit relations and the activities
+of specific sub-groups of merchants, such as the specialised ‘money
+merchants’, and the brokers or ‘mezzani’. The element of agency in the
+process and the ramifications of institutional change have been
+acknowledged by Prontzas, who has argued that merchants were the
+social group which transformed behavioural institutions and produced
+“behavioural models”.16
+15 The Code begins by defining who is a merchant: ‘Merchants are the ones who practise commercial operations that constitute their usual trade’. The merchants were recorded in a book of the Commercial Tribunal and this was a proof of their occupation. Emporikos Kodix ton Ionion Nison, [Commercial Code of the Ionian Islands], 1851, 1. In this research the Greek translation of 1851 is used, since only minor changes were added to the original Italian copy of the early 1840s. 16 Prontzas (2001), 53.
+7
+
+
+The role of economic institutions such as the commercial
+mechanisms of the Exchange and the Chamber of Commerce has been
+examined in the cases of emergence of commercial capitalism in early
+modern Europe.17 In a different context, the function of the Chamber of
+Commerce as intermediary between business and government and its
+role as a medium used by social groups in ascendance, such as
+merchants, to negotiate relationships with the declining landed elite, has
+been demonstrated.18 In nineteenth-century Livorno, the Chamber of
+Commerce was one of the institutions, which ‘would serve to reflect the
+new concerns of the merchant community and to aid in their articulation
+and implementation’.19 In Trieste, commercial exchange was facilitated by
+the Borsa, which also functioned as a Camera di Commercio (Chamber of
+Commerce), at least during the eighteenth – early nineteenth century.20
+Only the work of Vlami, among the studies of Greek merchants in
+Mediterranean port-cities, has examined the role of the Chamber for the
+business development of the ports in question and also for their impact on
+the social cohesion of merchants from different ethnic communities and
+backgrounds, albeit from the point of view of the frequent prominence of
+Greek merchants in them.21
+The merchants of the Ionian Islands demonstrated an equally
+significant degree of agency in the introduction of commercial
+institutions.22 Judging from the circumstances under which the Zante and
+17 Bossenga (1988). 18 Ridings (2001). 19 LoRomer (1987), 94. For the role of Greek merchants in the Livorno Chamber of Commerce see Vlami (2000). 20 Katsiardi-Hering (1986), 442. 21 Vlami, op.cit., 118. 22 The “Society of Merchants”, the first formed in Zante in 1825 and another one in Corfu in 1838, evolved to the Exchange or Borsa as contemporaries called it, and was an establishment for both commercial and socialising reasons. Ionian Islands Government Gazette (hereafter IIGG), No. 377, 7/19 March 1825 and IIGG, Νο. 411. 29 October / 10 November 1838. The Corfu Exchange acquired its own building in 1841 and from then onwards functioned primarily as a place for conducting business.
+8
+
+
+Corfu Exchange was founded, and the publicity and recognition it
+received from the State, we can conclude that these are, perhaps, the
+first examples of an emerging elite group of merchants, aiming at
+structuring their economic environment. The Exchange functioned as an
+important commercial mechanism and as a place for sociability and
+business. It published on a weekly basis the prices of goods in the main
+markets of the Islands, as well as in the markets with which the Islands
+had important transactions.23 This development enabled the merchants to
+become more aware of the broader European economic environment, in
+which they operated.24 In this way merchants provided a solution (albeit a
+partial one) to the problem of asymmetric information.25 The Exchange
+had both an economic and social function as an institution. On the one
+hand, it facilitated commerce by attempting to minimise risk and making
+commercial information available to merchants; on the other hand, it
+enabled the creation of closer links among merchants who were willing to
+acquire further control over their peer group by forming, and registering
+to, this commercial association.
+Equally important is the issue of who could be included in the new
+organisation. The merchants of the islands were not the only ones
+interested in commercial operations. The three negozianti who devised
+23 The prices of the main commodities of the Islands, olive oil, wine and currants, but also soap, salt and even some colonial products, were published weekly in the Gazette and other newspapers after 1849. Freedom of the press was granted with the constitutional reforms of High Commissioner Seaton; see, Calligas (1994), pp. 7-29. 24 The news concerned markets both faraway and nearby and included information, such as the London prices of coffee and sugar, the Milan prices of silk, the Odessa prices of grain, and the Trieste prices of oriental olive oil. All these, begun to appear in the official newspaper as soon as Corfu, and the other principal Islands, established their own Exchange where prices were becoming known weekly, for the merchants’ commercial knowledge and potential awareness of commercial risks and price fluctuations. IIGG, No. 136, 26 July / 7 August 1847. 25 What is most striking is the sense of forecast in order to minimise commercial risk that the Exchange authorities had developed and which we read in the local press: ‘Oils have an upwards rather than a declining trend due to the small amount of our crop that amounts to a mere 25.000 barrels for export. As for cereals, prices are tranquil and there is a prospect of rising, provided that there is no external demand arriving’, Newspaper Patris, No. 1, 15 January 1849 (translated from Greek).
+9
+
+
+the rules of the operation of the Exchange, called not only merchants but
+also ‘Proprietors, who by nature... can have commercial operations’. The
+mention of ‘nature’ as the justification of commercial activities of estate
+proprietors (whether landed or housing we don’t know) shows a
+contemporary definition of how people saw themselves and sought to
+identify with those with similar interests, on this occasion economic
+interests. This call to proprietors shows a break from conventions of the
+past that dictated that members of the gentry, living on their rental
+incomes, despised any commercial operation as not noble and vulgar.26
+The new commercial mechanisms were open to everyone, foreign or
+local, merchant or non-merchant, with business interests in the islands,
+but this also meant that they were liable to antagonism between rival
+groups of merchants.
+Conflicting commercial interests were resolved (or at least
+mitigated) with the arbitration of the British ruler, as the following example
+shows. In Corfu, when, in 1851, the Municipal Council requested that the
+committee of the Exchange devise the regulations for the establishment
+of a Chamber of Commerce, ‘with the aim of advancing the progress of
+commerce in this island’, a group of merchants stated publicly their
+dissatisfaction.27 While the aim of the Government was to use the advice
+of merchants, a petition submitted by forty-two merchants a few weeks
+after the request of the Municipal Council to the Exchange, shows that the
+group was far from united.28 What the case demonstrates is that the
+26 Hitiris, (1988), 8. 27 IIGG, No 148, 20 October/1 November 1851, Art. 2. 28 In the dispute, the group controlling the Borsa claimed that they represented the Corfu ‘Body of Merchants’. The emerging group challenged the Borsa merchants’ claims to both numerical (that they were the majority of the Corfu merchants) and business primacy. Essentially, this was a power struggle for the control of the new institution. The reply of Ward, the High Commissioner at the time, shows that he gave his support to the Borsa group, rejecting the accusations of the petitioners that the privileged group did not represent the commercial class of the town. Petition No. 1083. ‘Signor Inglessi. Differences between the members of the Borsa’, CO 136/801, The National Archives (hereafter T.N.A.) and Reply of the High Commissioner.
+10
+
+
+merchants used the new institution to solve intra-group differences, which
+do not become clear from the exchange of petitions.
+There appears to have been no internal strife when merchants
+moved a few years later onto regulating another area of considerable
+power for every merchant group and indispensable for smooth
+commercial operations; the settlement of commercial debts. In 1856,
+‘several merchants of Corfu’ petitioned the High Commissioner with
+regard to commercial legislation on bankruptcy and insolvency arguing for
+the indispensable role of merchants in the legal process.29 The initiative
+probably originated from the Chamber and its administration, although it
+cannot be ascertained if the merchants acted as individuals or as
+members of the Chamber Council. In any case, their petition was
+successful and in August 1857 the ‘Law respecting the appointment of
+Assessors in the Sittings of the Commercial Courts and Tribunals’ was
+enacted.30 In the last years of the Protectorate, from 1858 onwards, the
+Chamber of every island published biannually the ‘official’ lists of
+merchants registered in it, and the lists of those eligible to be elected for
+the post of Assessor. Thus, through the Exchange and later the Chamber
+of Commerce, a hierarchy was created among merchants, who were
+given the privilege to organise as a group, elect their representatives and
+regulate commercial operations, especially on cases of bankruptcy and
+29 The index of petitions records that the merchants were “Complaining against the administration of justice by the Commercial Courts in these Islands, for want of knowledge and experience on the part of the judges. And proposing that merchants should be elected as advisors in Commercial matters, as done in all civilized countries. And beg His Excellency that a similar practise may be introduced in the Ionian States”. Petition No 149, Register of Petitions 1856, CO 136 / 1056, T.N.A. The petition, unfortunately, is missing from the National Archives. 30 The first two articles specified the roles and the eligibility of merchants who wanted to be elected as assessors in the settlement of commercial disputes: Art. 1. An Assessor shall be added to each Commercial Tribunal, and 2 to each Commercial Court in these States, selected among the merchants of the respective Islands. Art. 2. Merchants, who are Ionian subjects, shall be eligible for the office above mentioned, on the following conditions: They shall be 30 years of age They shall have been honourably engaged in the Mercantile profession for at least five years; IIGG, Νο. 310 3/15 August 1857.
+11
+
+
+insolvency. This development becomes more important if we consider
+that the majority of those elected in the Chamber Committee and for the
+posts of Assessors were among the wholesale merchants - creditors of
+the town. From the State’s point of view, the elite group of merchants
+were given the full authority to deal with commercial disputes more or less
+as they pleased but within a legal framework, thus minimising the
+obligation of British officials to intervene in the lower levels of commercial
+relations.
+Not everyone was given this opportunity though. Despite the fact
+that Jewish merchants were approximately a third of those registered in
+the Corfu Chamber of Commerce, no Jewish merchants were considered
+eligible to be elected as Assessors. This unofficial exclusion of Jewish
+merchants, despite their considerable numbers, from the very important
+commercial mechanism of the Chamber of Commerce must have been
+particularly disturbing to the Jewish merchant elite. In an attempt to
+redress this injustice, eight Jewish merchants petitioned the Lord High
+Commissioner in 1857, requesting to be admitted to appear before the
+Commercial Courts as Assessors.31
+This claim for equal representation to the Chamber of Commerce is
+very similar to the petition of the Jews of Trieste to Vienna to redress their
+exclusion from the town’s Borsa. It is striking that the same arguments
+are used to persuade the authorities of the injustice towards the Jewish
+merchants; the general good of commerce and the benefits deriving from
+the participation of Jews in the regulation of commerce through the
+31 The Jewish merchants argued that, while the laws passed by the Senate did not distinguish between Ionian citizens, the decree of the Municipal Council excluded nonChristians from the post of Assessor. The petitioners, well-established olive oil merchants, after emphasising the central role of Jews in the town’s trade and commercial life, asked for the protection of the British power deriving from its liberal spirit that could not allow, as they say, discriminations of this kind in the nineteenth century. It is a rare piece of evidence of self-perception of the Jewish merchants and a case of promoting their interests collectively and against the rest of the business world of Corfu. Petition 400, 8 December 1857, CO 136/857, T.N.A.
+12
+
+
+institutions established. 32 The argument of the Jews of Trieste was
+precisely the same as that of the Corfu Jews: the essential Jewish
+contribution to the town’s commercial life. The common reaction to the
+same act of discrimination indicates that the existing links among Jewish
+communities of the Mediterranean served also as a pool for arguments
+against the central authorities. Even though the Jewish merchants
+appealed to the protection of British authorities, the latter clearly
+discriminated against Ionian Jews, as many contemporaries noted, and
+although they were allowed to exercise their religious beliefs freely, their
+condition cannot be described as being better than under Venetian rule.33
+This is particularly true for the commercial sector, though, as Progoulakis
+has argued, Jews never managed to control the town’s commerce,
+despite their considerable numbers.34
+The Commercial Code enabled the founding of joint-stock
+companies and considerable investment in these companies followed
+their appearance, reflecting the expansion of the business activities of
+merchants resident in the islands. Closer examination of the
+characteristics of these companies, the amount invested in them and,
+most importantly, the economic agents fuelling the change in business
+organisation, reveals the business choices of the emerging class of
+merchants and entrepreneurs. In the urban world of the Ionian islands the
+companies also became the point of convergence between merchants
+involved traditionally in wholesale import and export operations and those
+individuals (politicians, members of the professions, landowners) who
+bought shares and subscribed to the new business opportunities,
+securing a small income or amassing considerable profits, depending on
+32 See, Dubin (1999), 34. 33 Another example would be the prohibition of Jews from practising in the legal profession, even those who possessed a degree of Law. They were forced to become only advocates for the poor and illiterate. 34 Progoulakis, op. cit., 365.
+13
+
+
+the number of shares. At the same time, merchants acquired new roles
+as agents of foreign companies of steamers and insurance.
+Among the most important new forms of business organisation was
+the Ionian Bank, founded in 1839 when British capital was invited by High
+Commissioner Douglas after failed attempts to establish a note-issuing
+bank with local capital. In the banking sector, the overwhelming power
+and terms of operation of the Ionian Bank (the exclusive privilege of note
+issuing and the support when needed of the Colonial Office or the British
+High Commissioner in the Islands), did not discourage local capitalists
+from embarking on a different branch of the banking sector. This was the
+sector of maritime insurance, although these companies became, before
+long, places for depositing money and discounting bills of exchange as
+well. Eight maritime insurance and discounting companies soon followed
+the Ionian Bank, over the years 1841 to 1863.35 The joint stock
+companies established during the period epitomise institutional change in
+business organisation. The old forms of partnership and commercial
+houses or agents, of course, did not disappear. It is, however, the joint
+stock companies, which indicate the degree of change, as they involved a
+developmental aspect for some sectors of the economy, such as shipping
+and commercial agriculture, which included the production of agricultural
+produce for export (wine and silk). The proliferation of maritime insurance
+companies during the period is an example of the creation of new forms
+of business organisation based on established networks, such as the one
+between the Ionian Islands and the Black Sea, but it also reflects the
+growing shipping sector of the Ionian economy. Ever increasing merchant
+capital was invested in banking and insurance companies, which reflected
+the growing importance of Corfu as a port and an entrepôt in
+Mediterranean trade routes, and the involvement of Ionian merchants in
+35 For the Ionian Islands and other Greek marine insurance companies, allow me to refer to Gekas (2004).
+14
+
+
+the Black Sea grain trade. Banking and insurance companies attracted
+investment and merchants moved capital from export and import to these
+sectors, complementary to trading activities.
+The most important activities at the port of Corfu were the import
+and re-export of grain and the export of olive oil, as well as conveying
+goods to and from neighbouring markets. The extensive involvement of
+merchants and ship-owners from Kefalonia and Ithaca in the Black Sea
+grain trade had considerably advanced the knowledge, skills and
+experience of merchants in the maritime insurance business. The
+institutionalisation of commerce by the introduction of legislation gave an
+impetus to further expansion of business opportunities for the merchants
+of Corfu and the other Islands. Merchants known so far for their
+involvement in other commercial fields, seized the opportunity and
+invested in or set up maritime insurance companies.36 There are several
+dimensions of this development, such as the importance of maritime
+insurance for the local maritime economy, the advancing level of business
+organisation and of business awareness, the mentality of spreading the
+risk; all indications of a maturing commercial behaviour. The deeds of
+settlement published in the Gazette, together with the names of the
+shareholders and the number of shares they purchased, provide an
+account of the levels of investment of local merchants, as well as the
+nature of the operations of these companies. Thus, pictures of the
+principal shareholders of these companies, as well as the novel
+profession of the company’s director, all indicate an emerging business
+culture characterised by investment in lucrative opportunities. After all,
+capital was not lacking, as the President of the Senate argued in his
+36 The published information on these companies in the Ionian Islands Government Gazette enables us to construct a rather complete picture of the process of emergence of this new field of enterprise.
+15
+
+
+speech in 1861, and it was invested in commerce and in the Ionian Bank,
+discouraging those planning an agricultural bank in the islands.37
+However, other opportunities were available. The joint-stock
+companies established for the production and export of wine and silk
+demonstrate the change in the business culture and the economic
+environment of the Islands in two ways. First, they can provide a picture
+of the ambitions, plans and projects of contemporary businessmen, who
+wanted to implement new ideas they had seen at work elsewhere and
+were convinced of their financial success. Second, they show the
+responsiveness of local capital owners who decided to invest, and
+therefore, support financially these new and promising projects. The
+initiators of this type of business had an entrepreneurial and,
+occasionally, a ‘civilising’ spirit, aiming to combine economic and social
+values for the benefit of the growers as well as the shareholders, in a
+typically Victorian manner.
+Three wine companies were founded; two in Kefalonia and one in
+Zante. The most ambitious of all was the Central Society of Ionian Wines,
+as it declared: ‘the society will extend its operations in each industrial,
+agricultural and commercial branch of this island.’38 The ‘society’ had a
+developmental aspect in mind, since it was also supposed to train farmers
+in the cultivation of grapes. The venture originated from Correa Da Costa
+from Jersey, who in September 1845 wrote to the Agricultural Society of
+Corfu a letter resembling a manifesto rather than a plain business letter.39
+The project of this multinational wine company intended Kefalonia to be
+37 IIGG, No. 514, 4/16 March 1861. 38 It argued for the establishment of a wine-producing company, which would maintain several branches in many different places, from the Cape of Good Hope to the Ionian Islands and Malta and to the British West Indies. His belief was that ‘capitalists, speculators and enterprising people from every quarter of the world will join us, and send capital to a local bank here, and thus, encouraging the natural resources of the Ionian Islands, enable us to begin operations on a large scale, not only for the manufacture of wines, but also, for distilling our wines into brandies in the same manner it is done in France.’ IIGG, No. 64, 9/21 March 1846. 39 IIGG, No. 41 29 September / 11 October 1845, pp. 18-9.
+16
+
+
+one of the main producing regions.40 The company was founded in
+January 1846 and Da Costa settled on the island, where he found
+entrepreneurs who were interested and the capital was promptly raised
+and deposited at the Ionian Bank. In an unusual fashion the company
+invited High Commissioner Seaton to grant his protection to the company,
+unlike the insurance companies’ deed which simply asked for the
+resolution of the Senate to commence operations.
+An interesting aspect of these new companies is the ideology that
+they represented, reflected and tried to instil among their contemporaries.
+The case of the silk company for example, in a similar way to the wine
+company, shows that the ambitions of its founders were not limited to the
+safeguarding of a secure profit / dividend. They promised and, actually,
+did produce a booklet with guidelines for the cultivation of seeds and the
+breeding of worms, in both Italian and Greek, at the expense of the
+company. In return, the company was granted special privileges by the
+State; exemption of import duty for fifteen years for mulberry plants,
+machines, and also exemption from export duty upon silk, raw or spun
+produced in the Islands.41 The new entrepreneurial spirit is apparent in
+the language of the deeds of settlement, in the dozens of shareholders,
+from different walks of life and with different backgrounds, all united by a
+belief in the opportunities occurring precisely because of the British
+presence, influence and ideology. Two other two wine companies were
+established in March and May 1858, one in Zante and one in Kefalonia,
+on very similar terms, organization and the privilege of being exempted
+40 ‘Parties connected with my undertaking at Gibraltar, and in Great Britain, have not yet chosen the place where the Central Company ought to be established, but a direct personal observation, several practical experiments, and mature reflection, led me to a conclusion, that Malta is not the suitable place for the Central Company, and therefore, I am determined to visit Cephalonia and the sister Islands, for the purpose of ascertaining if any of them can suit our views.’ Ibid. 41 The silk company also had plans for the development of the industry and the longterm cultivation of mulberry trees and the production of silk, and it promised to transport from Italy ‘experienced women’ in the production and to train local women, as well as, the import of the necessary machinery. IIGG, Νο. 61, 16 / 28 February 1846.
+17
+
+
+‘for ten years of operation from all export duties on the produce
+manufactured as well as from import duties on all implements, machinery,
+recipients and timber for the use of the said Establishment’.42
+Thus, from the 1840s onwards, the business environment was ripe
+for the establishment of a number of joint-stock companies, most of them
+funded by local capital, invested in the form of shares owned both by
+large shareholders and a few small-medium ones. Once the institutional
+framework with the Commercial Code was in place, the establishment of
+these companies was enabled and as it turned out, capital was not
+lacking to fund these business initiatives. The business climate was also
+enhanced by the privileges granted to these companies by the State in
+the form of exemption duty, which, it should be remembered, was
+extremely high in the Ionian Islands (18.5%), as it constituted the only
+State revenue. The merchants of the Islands, and in the case of the ‘Wine
+Company’, foreign merchants, grasped the business opportunities
+created by the willingness of the State to facilitate the establishment of
+joint-stock companies, whether in the sector of shipping insurance or
+production of commodities for export, such as silk and wine. The
+publication of the deeds of settlement and of the annual meeting and
+performance (in the case of the ‘Kefalinia’ insurance company), in the
+official newspaper is also among the institutional innovations in the
+Islands’ economic life and demonstrates the novel business culture.43
+The provision of new services for those who could afford them was
+accompanied by the introduction of another novelty for the business world
+of the Ionian Islands: advertisement.44 Advertisements of luxury goods
+42 IIGG, Νο. 341 8/20 March 1858, and IIGG, No. 350, 10/22 May 1858. 43 This is, of course, only one example of the general trend of scientific administration of these companies (but also of a number of other organisations, such as philanthropic associations), which, from the 1840s, became more obvious in the public life of the Islands. 44 It was only in towns (essentially, Corfu town, Zante town, and Argostoli in Kefalonia) that the audience resided and, for this reason, was targeted.
+18
+
+
+were initiated by English merchants, and were targeted at very specific
+customers.45 Advertising indicates a society with a growing consumer
+public, which was now being offered a range of new services. These
+services were catered for by a number of commercial agents, conducting
+auctions, advancing credit, purchasing bills of exchange, placing orders
+for selected items, as well as selling imported goods for their customers.46
+The geographical position of the Islands and, especially, their economic
+structures, producing commodities for export, together with the presence
+of long-established foreign merchants, increased the need for the
+circulation of bills of exchange, to facilitate trade. Earlier than other Greek
+ports, Corfu became a centre of money trade as well, as the Ionian Bank
+could not or did not, in any case, eliminate the financial services of a
+number of other establishments, as well as individuals.47
+45 The advertisement of goods can also provide a picture of the articles that the ‘gentry’, the ‘nobility’ or, in general, anyone who could afford these, were consuming. The principal salesman of these was James William Taylor. Having established his store right on the esplanade, the gentrified and aristocratic part of the city, he was, perhaps, the first to target a consuming group with the articles he was selling and with the announcements he published every time he received a shipment of luxury goods from London. IIGG, No. 9, 17 February/ 1 March1845. 46 The following notice appeared in the Gazette in 1840: NOTICE Mr W. H. Spencer begs leave respectfully to announce to the Nobility, Gentry and Public in general at Corfu, that he has commenced the business of Auctioneer, and Commission Agent and trusts, by strict attention and punctuality, to merit their confidence and support. IIGG, Νο 476. 27 January/ 8 February 1840. 47 Joseph Courage, for instance, a merchant importing coal for the steamers, placed his notice in the Gazette in 1860, a sign of the expansion of his business, with a very special clientele in mind, the British army stationed in Corfu: ‘Messrs Saunders Ottley & Co, 50 Conduit Str., Hannover Sq., London, East India Army, Colonial and General Agents beg to announce that they have nominated as their Agent in the Ionian Islands Mr Joseph Courage, Corfu, who will be happy to render to Regimental Messrs, Officers of the Army and Navy, every information connected with the advantages offered by Messrs Saunders Ottley & Co, in regard to banking and Personal Agency, and the furnishing supplies of every description, including Books, Newspapers and Periodicals. Letters of credit granted and every information afforded in connection with India, Australia and the Colonies.’ IIGG, No. 473, 18/30 June 1860.
+19
+
+
+The provision of services in the Islands and in Corfu, in particular,
+extended to insuring property against fire.48 The existence of the oil
+depositories in the town owned by merchants and proprietors of olive oil
+made the danger of fire very real, as it was specifically mentioned in the
+notice for the commencement of the services provided by the company’s
+agents.49 Merchants served also as agents for insurance companies in
+other Islands. Gerostathis, for instance, was the agent of the ‘Kefalinia’
+company in Corfu, while other merchants served as agents in Sta Maura,
+Ithaki and Zante. Interested members of the public could purchase their
+shares from them and, as the shareholders’ lists demonstrate, merchants
+from Zante bought shares in the companies of Kefalonia and merchants
+from Corfu invested in companies in both Zante- and Kefalonia-based
+companies. It was not long before local businessmen took up the practice
+of advertising. As early as the 1830s, some members of the professions,
+whose vocation at the time was a grey area between science and
+commerce, perhaps both at the same time, took up advertising.50
+48 Abraham De Castro, a Jewish merchant was the agent of the Austrian company Assicuarazioni Generali, established since 1831 in Trieste and Venice, an event announced by the Gazette. Members of the public interested in insuring mobile or immobile property, crops, animals and goods, could contact De Castro for prices and other information. IIGG, No. 528, 25 January / 6 February 1841. 49 IIGG, No. 426, 11/26 February 1839. 50 Cristoforos Lavranos, ‘Physician and Surgeon’, thought to use the Gazette to advertise the opening of his business. What is particularly striking is the self-portrait of a hybrid profession, part merchant - part scientist, his clientele, wholesale purchasers of medicines and other stuff, as well as his motives for opening the shop, and the promises to the ‘public’ to maintain high standards of professional, as well as scientific conduct: ‘Dr Cristoforo Lavrano, Physician and Surgeon, has the honour to inform the Public of these Islands that, stimulated by the progressive attitude of every kind of social improvement which daily increases in his native country, he has opened an APOTHECARY’S ESTABLISHMENT IN CORFU, in the English style, Strada dei Tribunali, which is provided with all sorts of medicines, especially with those which are prepared in London and Paris, and is also furnished with a quantity of drugs, perfumes and stationary articles of every kind. Warrant is given that every thing will be found of the best quality, particularly the medicines, which may be in retail at a moderate price, and every desirable facility will be given to wholesale purchasers. Dr Lavrano pledges himself that he will not spare hereafter any possible exertion to avail himself of every discovery in the Medical Science, and especially in that branch which relates to the composition of medicines, viz. the Pharmacopeia, on the perfection of which depends
+20
+
+
+It becomes evident that merchants in Corfu and in other Islands,
+merchants with an established network of business in London as well as
+in other ports of the Mediterranean and who could afford the credit, found
+new opportunities for expanding their business. These opportunities were
+offered both by the presence of the army officers who had considerable
+amounts of money to spend, as well as the local affluent families who had
+a variety, for instance, of wines to choose from. Furthermore, the consuls
+of each island had to cater for travellers arriving on the Islands, usually on
+their way to the Levant, and often arranged their accommodation.
+The abundance of advertised goods and services is another
+characteristic of a changing economy and society, especially since the
+medium in the form of the newspaper was available. The new
+entrepreneurial spirit was founded upon the adoption of such business
+practices. The business mentality and behaviour, the scientific
+administration and dissemination of business-related information, the
+adoption of liberal ideas and values in business and the involvement in
+new business opportunities illustrates the influences the Ionian economy
+was under. Notifications of the companies’ commencement of business,
+the deeds of settlement and the lists of shareholders were mainly a
+demonstration of integrity by the companies. In any case, and without a
+narrow definition of the term advertisement in mind, this practice of
+publishing the performance of a company was indeed a novel one.51 The
+culture of numbers was introduced in the Ionian society during the 1830s,
+and the process intensified during the following decades, with more
+companies, as well as philanthropic associations adopting the practice of
+demonstrating their performance in numbers, claiming a reliable and
+‘modern’ administration. The adoption of business practices, such as
+in considerable degree the preservation of that most desirable object, Health!’ IIGG, No. 466, 13/30 November 1839. 51 In the case of the Ionian Bank, it has to be said, the company was obliged by law to publish its performance every three months, in particular its assets and liabilities.
+21
+
+
+advertising, is also a sign of modernity, and the trace of an accepted or
+adopted ideology originating from Britain. This ideology becomes much
+more explicit, once we begin to examine the other medium through which
+merchants and other entrepreneurs articulated and pursued their
+interests, petitions to the central administration.
+Petitions, commercial interests and business lobbying
+The multifarious business activity of the merchants of the Ionian
+Islands was an inherent feature of the group. Among the activities,
+important for any merchant’s commercial success, was their role as
+consuls of foreign powers and as agents of companies stationed in other
+commercial centres. These were both Ionian as well as foreign merchants
+from Epirus, the Ottoman mainland opposite Corfu, and Western Europe.
+Advances such as the communication by steamers between the islands’
+ports and other markets, were implemented early. These travelled
+between the Islands and Trieste, on the route to the Levant, Istanbul and
+the Black Sea. The people of the Ionian Islands were among the first to
+enjoy the privilege of travelling faster and more safely from one island to
+the other, and to the Levant or northwards to northwest Europe via
+Trieste or Malta, where all the steamers called. The new means of
+transportation and communication was equally, if not more significantly,
+advantageous to commerce, since it accelerated mail communication,
+and transfer of goods. Acting as commercial agents for British, French,
+Austrian and Dutch companies who wished to extend their network to the
+south Mediterranean, local merchants ensured that the steamers of the
+companies they represented enjoyed the same privileges as the company
+that had established a monopoly in the Adriatic; the Austrian Lloyd. In this
+case, we don’t have the merchants needing protection from the ruling
+power, as in the case of the Ottoman merchants who conscientiously
+22
+
+
+sought the protection of foreign powers, a privilege that enabled many of
+them to rise to commercial and social success in the port-cities of the
+Ottoman Empire. Instead, here we have merchants privileged enough to
+represent foreign commercial interests and as a result have better access
+to information and developments, in an era of slow information flow.52
+In most studies of firms or entrepreneurship in general, the sources
+used are the company records, especially commercial correspondence. In
+order to examine the collective as well as individual pursuit and promotion
+of interests, I have consulted a number of petitions submitted to the High
+Commissioner in office. Entrepreneurship or capital was not enough for
+the fruition of the new business ventures. Specific commercial interests
+were promoted through the numerous petitions written and submitted by
+merchants.53 These could be classified into two groups; petitions
+defending business interests of maritime insurance companies or aiming
+to redress damages incurred upon Ionian interests abroad by petitions
+submitted by groups of merchants. 54 The second type of petitions have
+been examined and their content analysed.
+52 As Sifnaiou has argued recently, Rallis, perhaps the most famous Greek merchant, who made his successful business in the Odessa grain trade, benefited from his post as consul for the U.S.A. and prudently changed his business focus to the India cotton trade, thus leading and not following economic changes; see, Sifnaiou (2004), 96. 53 The practice of petitioning was particularly widespread in the Ionian Islands. The number of petitions varied; between 300 and 800 petitions could be submitted per year, an average of 500-600. The registers of the petitions are the in files CO 136/1032 1062, in the T.N.A, an exceptionally rich source for the social and economic history of the Islands during the period of British rule. At a first stage, for the needs of this research, the registers of petitions were read and from those the petitions of individual merchants, e.g. petitions registered as ‘Merchants of Corfu’ ‘Merchants of Zante’, etc, were copied to a separate computer index created to facilitate the second stage of the research. The index followed the chronological and protocol numbering system of the Ionian State officials, who filed the petitions according to date. Also and, most importantly, for the identification of individuals, the petitions of individuals identified in previous stages of the research as merchants were also included in the index. 54 The Directors of the insurance companies, soliciting the intervention of the British Consul in places where shipwrecks had occurred, and requesting evidence to verify the circumstances of the shipwreck or the recovery of goods, wrote the first group of petitions.
+23
+
+
+In these collective petitions found in the National Archives records,
+merchants were advocating free markets for goods and services, such as
+the grain trade and shipping. Ideas of free trade became one of the
+defining elements of the public identity of merchants. The adoption of the
+doctrine was critical for the interests of the merchants and, following their
+arguments in the petitions, the implementation of a free trade policy was
+presented as being indispensable to the economy and, therefore, to the
+progress of the Islands. The merchants who signed the petitions
+advocating the free market of grain were all the main grain importers of
+Corfu. Grain was indispensable for the provision of bread to the islands’
+population.55 Wheat shortage was a problem for all Islands and grain
+imports from Zante and Kefalonia to Corfu or from Corfu to other Islands
+was not infrequent.56 During the period, and especially in times of dearth,
+the Government maintained a form of monopoly, in order to safeguard the
+population against famine; in times of abundance the market regulated
+the price and quantity of grain and bread. The petitions demonstrate the
+changes in policy, as Government by setting a Grain Administration in
+1833 oscillated between regulation and liberalisation, and indicate how
+the State and the merchants tackled issues of political economy and local
+administration. The documents show that the merchants specialising in
+the import of grain could articulate and pursue their interests collectively
+and, in fact, influence the policy of the State.57 Their arguments were
+55 The imposition of monoculture in the Islands (olive groves in Corfu, currants in Kefalonia and Zante) is the reason why the Islands on so many occasions suffered from grain shortage. Local production did not suffice for more than three months and, as a result, wheat had to be imported for the rest of the year. For the whole of the period of British rule, wheat constituted the principal import of the Ionian State. Grain imports represented between on average 35 per cent of the value of the Ionian State imports while reaching up to 50 per cent of the total imports in times of dearth. Ionian Islands Blue Books for the years 1827-1863, CO 136/1392-1427, T.N.A. 56 In 1828, Kefalonia experienced such a situation and requested a large supply of corn from Corfu; Kirkwall (1864), 123. 57 The language of interests is for some historians an alternative route of approaching social reality. Interests, it has been argued, ‘is a symbolic and political construction, not simply a pre-existing social reality’; see, Baker (1990), in Wahrman (1995), 91. In this
+24
+
+
+based both on the prosperity of their country, which, they argued, would
+derive from a policy favourable to commerce and in accordance with the
+rest of the ‘civilised’ world, but also on their firm belief that they were
+pursuing the prosperity of the Ionian people as well, given that they were
+trading the commodity indispensable to survival. The foundation for these
+arguments was precisely the free trade practice, as it was being
+propagated and applied by Great Britain, in some cases, even before free
+trade becoming the dominant economic policy of the metropolis.58
+The documents reveal merchants fluent in the relatively new
+science of political economy, as they were citing Say to argue that, as in
+1817-8 Paris, monopoly of grain did not reduce the price of bread, and to
+reject the argument of the Grain Administration (protection of the public
+against a famine in times of scarcity), by saying that ‘Smith has shown
+that the interest of the merchant speculator of wheat, and the interest of
+the mass of the people, although apparently opposite, are precisely the
+same in the years of the greatest famine (Lib. IV. Cap. 5)’.59 Merchants
+boasted about their connections with all the wheat exporting ports in the
+Black Sea, thus guaranteeing a safe provision of wheat at all times, even
+in times of need.
+The advent of the Crimean war made the circumstances of
+absolute necessity very real. In March 1854, after the ports of the Black
+Sea and the Sea of Azoff had closed and export of grain had been
+suspended, the Senate decided to prohibit the export of grain whether
+imported for domestic consumption or for transit.60 In June 1854, nine
+case the politics of merchants were constructed around their ideas of free trade, that is, very liberal ideas. 58 The debate becomes more lively from 1833 onwards when High Commissioner Nugent removed the tariff on grain and other cereals (unknown whether this was his own initiative or not), but in 1834 the Government founded the ‘Grain Administration’, a committee for the regulation of the price and imports of wheat. IIGG, No.119, 30 March 1833. 59 IIGG, No 676, 27 November 1843. 60 IIGG, No. 116, 6 March 1854.
+25
+
+
+merchants and firms, among them Rallis & Mavroyiannis, Fels & Co,
+Dimas, Kandonis & Seremetis, G. Marketis & Sons, and J Courage wrote
+a petition in Greek to the High Commissioner, ‘praying that private
+individuals may be allowed to purchase and sell grain’.61 The merchants
+who took the initiative claimed to represent the rest of their society and
+appear socially responsible while at the same time pursuing a liberal
+agenda, which would greatly benefit their own interests. They ended their
+petition by providing the example of the Kingdom of Naples and
+suggesting that the Grain Administration continued its work while
+permitting the sale and purchase of grain by individuals. This would allow
+a transitional period for returning to free trade policy. The grain merchants
+intervened in issues of economic administration, suggesting alternatives
+and promoting their interests under a façade of welfare considerations,
+and widening their appeal by claiming to represent national interests.
+The degrees of intervention by merchants in their attempt to
+structure their economic environment and improve markets were
+significant and their petitions to the central administration confirm this. In
+1849, when communication with the Islands of Zante and Kefalonia was
+poor as the Ionian steamers served them only infrequently, ‘merchants
+and proprietors’ came together requesting the linking of their Islands with
+the international trade routes.62 The petition was not addressed to the
+Lord High Commissioner but to the Colonial Secretary, Earl Grey, and
+Seaton forwarded it. The petitioners explained the situation in detail for
+the Secretary’s information, stressing the importance of the matter for the
+advancement of their commercial operations. The petitioners identified
+61 The merchants urged the Government to take the necessary measures to ‘protect all social classes’ without ‘destroying totally free competition, which is the soul of industry and the most natural, just and beneficial means for compromising the conflicting interests of producers, consumers and Merchants’. Petition 105, CO 136/832, T.N.A. 62 The communication between the Islands was established shortly afterwards. Albert Mousson travelled between the Islands a few years later, admiring the comfortable facilities provided by the steamboats during the trip. Mousson (1995), 47-9.
+26
+
+
+themselves as the ‘Ionian, British and Foreign Merchants, Proprietors and
+other residents of the Islands’.63 They petitioned for a better
+communication of the Islands through Trieste ‘between the Islands,
+Patras, Athens, Constantinople, the Black Sea, the Levant and Egypt on
+the one hand, and the Continent of Europe and England on the other’.64
+The petitioners anticipated the opening of the steamer communications
+market and were keen to secure the endorsement of the authorities for an
+extension of the privileges of the Austrian Lloyds to other steamer lines.
+The 1850s were to see the extension of these privileges to a number of
+other companies for which the merchants of Corfu acted as commercial
+agents. The merchants of the Islands knew it was indispensable for their
+business to establish better communication and fast business links with
+other markets and sought to address the challenges ahead.
+Concluding comments
+This paper has demonstrated some of the changes in the business
+culture and business organisation in the Ionian Islands during the period
+of British rule. Institutional change was critical in the process and can be
+best discerned in the new forms of business organisation. Through the
+joint-stock company in particular, local merchants and other
+63 Petition No. 85, 3 April 1849, CO 136/777, T.N.A. 64 Views on how the merchants of these two Islands perceived their business, the geographical networks linking the Islands with European markets, and also with the Black Sea for the grain trade, are expressed and a summary of the economic history of the Islands is provided in these paragraphs, as it is recorded that the people were entirely dependent on the Black Sea and Egypt for maize and wheat, while ‘the shipping interests of Kefalonia are deeply interested in a rapid and regular communication with the Levant’. Correspondence was important for: ‘Conveying remittances of bills, advices of shipments, insurance’. Communication also facilitated the transport of cash from ‘England and the Continent’, which was unnecessarily delayed in Corfu and was also subjected to extra expenses. This was the second application for the establishment of direct communications with the port of Trieste to the northwest, entrance and link to European markets on the one hand, and to the Levant on the other.
+27
+
+
+entrepreneurs embarked on the new and seemingly precarious economic
+activity of shareholding in the field of maritime insurance and commercial
+agriculture. Mechanisms, such as the Exchange and the Chamber of
+Commerce improved the quality of information, reduced risks (to some
+extent) and led to a regulation of commercial activity and the structuring
+of hierarchies among merchants. The participation of merchants in the
+new business opportunities advanced their cohesion as an economic and
+indeed as a social group.65
+At the same time, there was division among merchants over issues
+of power and control of the Chamber of Commerce by the already
+established group of the Borsa. Merchants were not divided, though, over
+issues of free trade, as they acknowledged in their petitions the
+importance of adopting a liberal philosophy on the issue of free trade by
+deregulating the grain market and steamer communication. Time and
+again merchants stated the importance of a liberal economic policy,
+claiming to be the bearers of the responsibility to provide the necessary
+grain and arguing for better steamer shipping services. These, in fact,
+were the politics of merchants. They may have not formed a party in the
+Ionian Assembly; they did form, though, pressure groups and temporary
+and more long-term alliances with each other.
+The development of joint-stock companies and the training of
+experts (company directors, bankers and other personnel of the Ionian
+Bank) for commercial operations such as banking and insurance does not
+preclude the historical evolution of a particular business culture, and
+Corfu and the other Ionian Islands did not develop into a business hub of
+the Mediterranean. Why that was the case is a question that matters and
+has to do more with the loss of the comparative advantage that Ionian
+merchants maintained for the period of British rule (entrepôt, currant and
+grain trade and British protection) than with the deficiencies of the
+65 See also Gekas (2004).
+28
+
+
+business structure, or political developments, namely the integration of
+the islands to the Greek Kingdom; the latter after all was much smaller
+than markets in a British Imperial/Mediterranean context which offered
+more opportunities for exchange. At the same time, the merchant elite of
+Corfu assumed greater power over the rest of the commercial world. Ever
+increasing involvement of merchants-creditors in the arbitration of cases
+of bankruptcy and insolvency may in fact have been damaging to
+entrepreneurship; the merchant oligarchy probably became more
+conservative as the era of British rule ended, business prospects
+worsened and the ports of Corfu and the other islands lost out to the rise
+of Patras and especially Piraeus as the main Greek ports. In that respect,
+the merchants of the Ionian Islands were not or could not be as volatile
+and versatile as merchants in other ports were. Volatility, it has been
+argued, and information asymmetries are what made Greek and other
+community-based merchant groups (Jews, Armenians) build impenetrable
+family firms and business structures.66
+To what extent did merchants in the Ionian Islands, Christian,
+Jewish, nationals, foreigners, advance a process of economic and
+business homogenisation? Could we talk of a Mediterranean business
+world with its own idiosyncratic characteristics in terms of business
+organisation, and, if so, what was the role of merchants and their
+institutions? It would be quite premature to state that there was a
+homogeneous business system extending from Marseilles to the Black
+Sea in different port-cities and several Empires. On the other hand,
+research on the merchant communities and houses in these port-cities
+and the commercial networks that these communities developed, has
+provided a common analytical framework, that of the diaspora networks,
+66 M-C. Hatzioannou argues that the need to avoid costly brokers and reduce all kinds of costs brought the use of relatives and kinship members in the business organisation of Greek merchants in Mediterranean trade; see, Hatzioannou (2003), 32.
+29
+
+
+in which business organisation and entrepreneurship can be examined.
+Nevertheless, more comparative research is needed to address the
+question of how important the commercial mechanisms created and used
+by merchants were for business development, and whether the means
+(petitioning) through which Ionian merchants articulated and advanced
+their commercial interests, were equally important in other port-cities; in
+other words, whether changes in the institutions of commerce and in the
+strategies of merchants had an impact on entrepreneurship and business
+culture. In the case of the Ionian Islands the example was set by no other
+than the Protecting Power itself, the representatives of which allowed the
+institutional changes to take place and the entrepreneurial opportunities
+to occur.
+30
+
+
+Bibliography
+Baghdiantz McCabe I., Harlaftis G. and Pepelasis Minoglu I., Diaspora
+Entrepreneurial Networks. Four Centuries of History, Oxford & New
+York, Berg, 2005.
+Baker K.M., Inventing the French Revolution: Essays on French Political
+Culture in the Eighteenth Century, Cambridge, 1990.
+Beerbuhl M., Vogele J. (eds.), Spinning the Commercial Web.
+International Trade, Merchants, and Commercial Cities, c. 1640
+1939, Frankfurt, Peter Lang, 2004.
+Bossenga G., ‘Protecting Merchants: Guilds and Commercial Capitalism
+in Eighteenth-Century France’, French Historical Studies, 15, 4
+(1988), 693-703.
+Calligas E., ‘Lord Seaton’s Reforms in the Ionian Islands, 1843-8: A Race
+With Time’, European History Quarterly, 24 (1994), pp. 7-29.
+Casson M., ‘Entrepreneurial Networks: A Theoretical Perspective” in M.
+Moss and A. Slaven (eds.), Entrepreneurial Networks and Business
+Culture, Proceedings, Twelfth International Economic History
+Congress, Madrid, August 1998.
+Casson M., “Entrepreneurship and Business Culture’, in J. Brown and
+M.B. Rose (eds.), Entrepreneurship Networks and Modern
+Business, Manchester 1993.
+Chatzioannou M.C., ‘The Emergence of a Business Culture in the Modern
+Greek State’, in A-M. Kuijlaars, K. Prudon, J. Visser (eds.),
+Business and Society. Entrepreneurs, Politics and Networks in a
+Historical Perspective, Proceedings of the Third European
+Business History Association (EBHA) Conference, Centre for
+Business History, Rotterdam 2000.
+Chatzioannou M.C., Oikogeneiaki stratigiki kai Emporikos antagonismos.
+O oikos Gerousi ton 19o aiona [Family strategy and commercial
+31
+
+
+competition. The Gerousi House in the Nineteenth century], MIET,
+Athens 2003.
+Curto D.R. and Molho A. (eds.), Commercial Networks in the Early
+Modern World, European University Institute, Florence Working
+Paper 467/2002/2.
+Dubin L.C., The Port Jews of Habsburg Trieste. Absolutist Politics and
+Enlightenment Culture, Stanford University Press, Stanford 1999.
+Emporikos Kodix ton Ionion Nison, [Commercial Code of the Ionian
+Islands], Government Printing Office, Corfu 1851.
+Gekas S., ‘Nineteenth-century Greek Port Towns; History, Historiography
+and Comparison. The Case of the Marine Insurance Companies’,
+New Researchers’ Session, Economic History Society Annual
+Conference, Royal Holloway, April 2004,
+http://www.ehs.org.uk/ehs/conference2004/assets/gekas.doc.
+Gekas S., ‘The Merchants of the Ionian Islands between East and West:
+Forming International and Local Networks’ in M. Beerbuhl , and J.
+Vogele (eds.), Spinning the Commercial Web. International Trade,
+Merchants, and Commercial Cities, c. 1640-1939, Frankfurt, Peter
+Lang, 2004.
+Godley A. and Westall O.M. (eds.), Business History and Business
+Culture, MUP, Manchester 1996.
+Grannovetter M., ‘Economic Action and Social Structure: The Problem of
+Embeddedness’, American Journal of Sociology, 91, 3 (1985), 481
+510.
+Grannovetter M., ‘Economic Institutions as Social Constructions: A
+Framework for Analysis’, Acta Sociologica, 35, 3 (1992), 3-11.
+Hadziiosif C., ‘Emporikes paroikies ke anexartiti Ellada: erminies ke
+provlimata’ [Merchant colonies and independent Greece:
+interpretations and problems] O Politis, 1983 (62), pp. 28-34.
+32
+
+
+Hitiris G., H Kerkyra sta mesa tou 19ou aiona, [Kerkyra in the middle
+nineteenth century], Dimosievmata Etaireias Kerkyraikon Spoudon,
+Kerkyra 1988.
+Jones G., Merchants to Multinationals, Oxford University Press, Oxford
+2000.
+Kardasis V., Ellines Omogeneis sti Notia Rosia 1775 – 1861 [Greek
+omogeneis in south Russia], Alexandreia, Athens 1997.
+Katsiardi-Hering O., H Elliniki paroikia tis Teryestis (1750 – 1830) [The
+Greek paroikia of Trieste], Athens 1986.
+Kirkwall V., Four Years in the Ionian Islands, vols. 1 and 2, Chapman &
+Hall, London 1864.
+LoRomer D., Merchants and Reform in Livorno, University of California
+Press, Los Angeles & London 1987.
+Mandilara A., ‘Ellinika epihirimatika diktia sti Massalia [Greek business
+networks in Marseilles], Istorika, 17, 33 (2000).
+Mousson A., Kerkyra and Kefalonia. Mia periigisi to 1858 [Corfu and
+Kefalonia. A tour in 1858], (Greek translation), Istoritis, Athens
+1995.
+Pamuk S. and Williamson J.G. (eds.), The Mediterranean Response to
+Globalization Before 1950, Routledge, London & New York 2000.
+Pepelasis Minoglou I. and Ioannides S., ‘Market-Embedded Clans in
+Theory and History: Greek Diaspora Trading Companies in the
+Nineteenth Century’, Business and Economic History On-Line, Vol.
+2, 2004.
+Progoulakis G., Anamesa stin timi kai to hrima. I Kerkyra sta hronia tis
+Agglkis kyriarhias (1814-1864) [Between honour and money. Corfu
+in the years of English rule], Istoriko Arheio, Emporiki Trapeza,
+Athens 2003.
+Prontzas E., ‘Prosodikes litourgies kai oikonomikoi thesmoi’ [Revenues
+functions and economic institutions], in A. Nikiforou (ed), Eptanisos
+33
+
+
+Politeia (1800-1807): ta meizona istorika zitimata [Septinsular
+Republic: the major historical issues], Arheia Nomou Kerkyras,
+Corfu 2001.
+Ridings E., ‘Chambers of Commerce and Business Elites in Great Britain
+and Brazil in the Nineteenth Century: Some Comparisons’,
+Business History Review, 75, (2001), 739-773.
+Sifnaiou E., ‘Oi allages sto rosiko sitemporio kai I prosarmostikotita ton
+ellinikon emporikon oikon’ [The changes in the Russian grain trade
+and the adaptability of Greek commercial houses], Istorika, 40,
+2004, 53-96.
+Stoianovich T., ‘The Conquering Balkan Orthodox Merchant’, Journal of
+Economic History, 20 No.2 (1960), 234 – 313.
+Vlami D., To fiorini, to sitari ke i odos tou kipou. Ellines emporoi sto
+Livorno 1750 – 1868 [The florin, the grain and the garden street.
+Greek merchants in Livorno], Themelio, Athens 2000.
+Wahrman D., Imagining the Middle Class. The Political Representation of
+Class in Britain, c.1780-1840, Cambridge University Press,
+Cambridge, 1995.
+Williamson O., ‘The New Institutional Economics: Taking Stock, Looking
+Ahead’, Journal of Economic Literature, 38 No. 3 (2000), 595-613.
+34
+
+
+LONDON SCHOOL OF ECONOMICS ECONOMIC HISTORY DEPARTMENT WORKING PAPERS (from 2002 onwards) For a full list of titles visit our webpage at http://www.lse.ac.uk/
+2002
+WP67 Precocious British Industrialization: A General Equilibrium Perspective
+N. F. R. Crafts and C. Knick Harley
+WP68 Social Insurance Regimes: crises and ‘reform’ in the Argentine and Brazil, since c. 1900
+Colin M. Lewis and Peter Lloyd-Sherlock
+WP69 Can profitable arbitrage opportunities in the raw cotton market explain Britain’s continued preference for mule spinning? Timothy Leunig
+2003
+WP70 The Decline and Fall of the European Film Industry: Sunk Costs, Market Size and Market Structure, 1890-1927 Gerben Bakker
+WP71 The globalisation of codfish and wool: Spanish-English-North American triangular trade in the early modern period Regina Grafe
+WP72 Piece rates and learning: understanding work and production in the New England textile industry a century ago Timothy Leunig
+WP73 Workers and ‘Subalterns’. A comparative study of labour in Africa, Asia and Latin America Colin M. Lewis (editor)
+WP74 Was the Bundesbank’s credibility undermined during the process of German reunification? Matthias Morys
+
+
+WP75 Steam as a General Purpose Technology: A Growth Accounting Perspective
+Nicholas F. R. Crafts
+WP76 Fact or Fiction? Re-examination of Chinese Premodern Population Statistics Kent G. Deng
+WP77 Autarkic Policy and Efficiency in Spanish Industrial Sector. An Estimation of the Domestic Resource Cost in 1958. Elena Martínez Ruiz
+WP78 The Post-War Rise of World Trade: Does the Bretton Woods System Deserve Credit? Andrew G. Terborgh
+WP79 Quantifying the Contribution of Technological Change to Economic Growth in Different Eras: A Review of the Evidence Nicholas F. R. Crafts
+WP80 Bureau Competition and Economic Policies in Nazi Germany, 1933-39
+Oliver Volckart
+2004
+WP81 At the origins of increased productivity growth in services. Productivity, social savings and the consumer surplus of the film industry, 1900-1938 Gerben Bakker
+WP82 The Effects of the 1925 Portuguese Bank Note Crisis Henry Wigan
+WP83 Trade, Convergence and Globalisation: the dynamics of change in the international income distribution, 1950-1998
+Philip Epstein, Peter Howlett & Max-Stephan Schulze
+WP84 Reconstructing the Industrial Revolution: Analyses, Perceptions and Conceptions of Britain’s Precocious Transition to Europe’s First Industrial Society
+Giorgio Riello & Patrick K. O’Brien
+
+
+WP85 The Canton of Berne as an Investor on the London Capital Market in the 18th Century Stefan Altorfer
+WP86 News from London: Greek Government Bonds on the London Stock Exchange, 1914-1929
+Olga Christodoulaki & Jeremy Penzer
+WP87 The World Economy in the 1990s: A Long Run Perspective Nicholas F.R. Crafts
+2005
+WP88 Labour Market Adjustment to Economic Downturns in the Catalan textile industry, 1880-1910. Did Employers Breach Implicit Contracts? Jordi Domenech
+WP89 Business Culture and Entrepreneurship in the Ionian Islands under British Rule, 1815-1864 Sakis Gekas

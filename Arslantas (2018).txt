@@ -1,0 +1,1038 @@
+Economic History Working Papers No: 280/2018
+Economic History Department, London School of Economics and Political Science, Houghton Street, London, WC2A 2AE, London, UK. T: +44 (0) 20 7955 7084. F: +44 (0) 20 7955 7730
+Drivers and Constraints of State
+Confiscation of Elite Property in the
+Ottoman Empire, 1750-1839
+Yasin Arslantas Department of Economics, Anadolu University
+
+
+LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE
+DEPARTMENT OF ECONOMIC HISTORY
+WORKING PAPERS
+NO. 280 – APRIL 2018
+Drivers and Constraints of State Confiscation of Elite Property in the Ottoman Empire, 1750-1839
+Yasin Arslantas Department of Economics, Anadolu University yarslantas@anadolu.edu.tr
+Abstract
+This paper examines the motives, timing and informal constraints of state confiscation in the Ottoman Empire, focusing on one of its most turbulent and confiscatory periods, 1750-1839. Utilizing a new dataset uncovered from confiscation inventories, I first demonstrate that confiscations were practiced on a selective basis, targeting some office-holders and tax farmers. Second, employing a two-step econometric framework inspired by the gradual nature of Ottoman confiscations, I argue that the initial decision whether to send an agent to confiscate one’s wealth was driven mainly by severity of war and expected costs of confiscation, while attributes of wealth and bargaining power of families vis-à-vis the central administration shaped the outcome of the second step.
+Keywords: Ottoman Empire, Confiscation, State Predation, Institutions, State Capacity, Property Rights.
+JEL Codes: N25, H13, P48
+
+
+1
+1 Introduction
+In 1786, Sultan Abdülhamid I (1774-1789) asked the opinion of the Grand Vizier whether
+it was appropriate to confiscate the wealth of a major tax farmer in central Anatolia. The
+response of the vizier was negative because the center could need the tax farmer’s family
+in future. The vizier reasoned his opinion as such: (1) the family was constantly manning
+the imperial army, and (2) its local know-how was immense that it could not be replaced
+easily by a centrally appointed official (Uzunçarşılı 1974). To put it differently, the family’s
+bargaining power vis-à-vis the center functioned as a mechanism of protection. Archival
+records explicitly demonstrate that confiscation attempts did not necessarily end with full
+confiscation of assets that other scenarios were possible. Some were more capable of pro
+tecting their wealth against the threat of confiscation. This paper studies what exactly led
+to these varying levels of protection.
+The practice of confiscation is one of the least studied topics of Ottoman history. One rea
+son for the lack of a systematic analysis could be the nature of sources, which are quite
+dispersed, and therefore require a tremendous work to locate. The well-established view
+that it was a non-codified convention applying to whoever made wealth by imperial grant
+is arguably another reason by making historians think of it as unworthy of examination.
+The most dubious assumption of this view is that it treats the practice of confiscation as a
+unit, overlooking its temporal, spatial, political and economic contextuality. (Abou-El-Haj
+2005: 48). Moreover, some economic historians have presented it as one of the culprits of
+economic underdevelopment (Kuran 2010) (Çizakça 2010). What these works inherently
+assume is that productive classes were greatly suffering from the threat of confiscation.
+The themes and method of this paper are new to the historiography, while it contributes
+to the above debate only indirectly by showing who were the most affected and why.
+
+
+2
+The paper has a relevance beyond Ottoman history. Confiscation by the ruler was histor
+ically a common phenomenon not only in the Ottoman Empire but in many parts of the
+world. Dating back at least to Adam Smith, it has long been argued to be detrimental to
+prosperity primarily due to its adverse effects on incentives.1 More recently, it was new
+institutional economics (NIE) that brought the question of state predation back into the
+center of growth literature (North and Weingast 1989) (Acemoglu and Robinson 2012).
+The proponents of NIE have acknowledged that a state powerful enough to protect prop
+erty rights and enforce contracts can use its power to confiscate the wealth of its subjects
+(Weingast 1995). Focusing on type of political institutions that constrain political execu
+tives, many studies find a positive relationship between precocious development of such
+institutions and economic growth (see, for example: (DeLong and Shleifer 1994))
+It must be recognized that historical growth literature is recently shifting away from the
+predatory state paradigm. An increasing number of works concentrate on the capacity of
+states not only to maintain law and order but to tax their subjects. It is argued that political
+and jurisdictional fragmentation, not predation, was the main problem of stagnant econ
+omies of pre-modern period (Epstein 2000) (Grafe 2012). Although it has been acknowl
+edged that property rights protection should be considered as a private, not public good,
+in pre-modern context (Epstein 2000: 14-15), the following questions are yet to attract
+sufficient interest. If there was not such a thing as unconstrained sovereign, what informal
+constraints and strategic calculation prevented rulers from confiscating more than they
+did? Similarly, on what basis did they allocate the public good of protection? How did ‘ab
+solutist’ states confiscate in times of crisis? Answering these questions can contribute to
+a more balanced understanding of historical state predation and limits of state power, and
+potentially explain why state predation was not the important culprit for underdevelop
+ment.
+
+
+3
+It is not that the whole literature ignored these issues, but that many did not choose to
+make them engines of their arguments. Like what happened in the opening anecdote, Ve
+itch (1986) conditions the happening of confiscation to the availability of an alternative
+group to serve the same function as the confiscated group. According to Olson (2000),
+expectance of short tenures is responsible for the sovereign’s becoming confiscatory. In
+an anarchic world, he writes, roving bandits would confiscate everything that is produced,
+which is why people prefer stationary bandits who would confiscate consistent with rev
+enue maximization. Hirschman (1970) inspired many subsequent scholars with his the
+ory of the relationship between power and predation. He suggests that asset mobility de
+termines one’s ability to escape from state predation. In a similar vein, Vahabi (2016) pre
+sents the role of appropriability of assets as the most important factor limiting govern
+ment confiscation. Bargaining power of wealth-holders vis-à-vis the ruler was empha
+sized by Levi (1988) and Greif (2008). Given the lack of centralization in most of early
+modern world, rulers heavily depended on other actors possessing military, economic
+and political resources (Glete 2002). The degree of this reliance was a determinant of their
+policies including confiscating the wealth of their agents. This paper interrogates such
+claims by employing the Ottoman case as a testing ground.
+The rest of the paper is organized as follows. Section 2 provides a historical background
+of the Ottoman practice of confiscation as well as the period under question. Section 3
+offers important theoretical considerations regarding the ruler’s incentive structure. Sec
+tion 4 introduces the data while presenting some descriptive statistics to help understand
+the nature of Ottoman confiscations. Section 5 presents the empirical strategy, whereas
+section 6 discusses results and their broader implications. Section 7 concludes.
+
+
+4
+2 Historical Context
+Confiscation by the ruler was known as müsadere in the Ottoman Empire. This convention
+as well as its name have been adopted from earlier Muslim states, where it had been used
+essentially as a punitive measure to prevent corrupt behavior of administrative agents
+such as bribery, embezzlement and overexploitation of tax payers. Over time, it evolved
+into a practice targeting those who made wealth by imperial grant irrespective of com
+mitment of a crime and was used as a tool of revenge and threat (Tomar 2007). Many
+medieval and early modern Muslim states resorted to confiscations though with varying
+motives (Islam 1985). Islamic law allows the ruler’s discretionary confiscation only if
+practiced as a method of punishment.2 Although it has never been mentioned in Ottoman
+codifications of law, confiscation remained an influential convention of and a useful tool
+in the hands of the sultans circa from 1453 to 1839.
+This long period cannot be treated as a single unit. It is essential to distinguish two periods
+of müsadere, namely those before the eighteenth century and those during the long-eight
+eenth century. During the first period confiscations were mostly directed at officials after
+their death. In the eighteenth century and especially during its second half, it was arguably
+employed more arbitrarily, that is, began to target traditionally untargeted groups such
+as local elites engaged in tax farming. A second distinction is that earlier examples com
+prised of efforts to distinguish between one’s personal wealth (usually left to family) and
+the wealth gained by office-holding (usually confiscated), such efforts simply disappeared
+later partly due to its impracticality (Barkan 1980). Furthermore, the process of confisca
+tion became more sophisticated in this century considering new methods of enforcement
+and agents introduced to the system.
+
+
+5
+These differences partly stemmed from the political atmosphere of the eighteenth cen
+tury. At that time the Empire was relatively decentralized marked by the rise of local elites
+to power. Deriving their sources of revenue from the practice of life-term tax farming in
+troduced in 1695, these new actors gradually took control of a significant part of provin
+cial resources. Enrichment, however, did not come without risks. From the second half of
+the century, they turned into new targets of confiscation. Yet archival records explicitly
+show that they did not face insecurity of property equally despite the official claim that
+sometimes pops up in sources was that whoever made wealth by office-holding shall be
+confiscated upon death or punishment (Yaycıoğlu 2016). One of the aims of this paper is
+to understand the dynamics of these varying levels of protection.
+A final dimension of historical context concerns the period covered by the data, 1750
+1839. This period was characterized by a fiscal and political crisis that threatened the very
+existence of the Empire. Fiscal innovations were not sufficient to increase tax revenues of
+the central administration necessary for financing wars abroad and containing domestic
+revolts. The Russo-Ottoman war of 1768-1774 turned a new page in the history of the
+Ottoman Empire due to its military and fiscal weaknesses becoming apparent (Neumann
+2006). To remedy these problems, the sultans have undertaken a series of reforms such
+as establishing a Western-style army and treasury. However, given the current institu
+tional setting, waging wars and implementing reforms could not be achieved without the
+support of provincial elites. Some put explicit support, while some were not willing and
+even occasionally rebelled against the center when their interests were harmed. This was
+both the cause and outcome of a centralization project launched by Mahmud II (r. 1808
+1839). He partially managed to curb the power of local elites by the 1820s (Shaw and
+Shaw 1977: 14-16).
+
+
+6
+Does the fact that the chosen period was exceptional in some ways pose a problem? It
+does not because this paper does not generalize its findings to earlier periods of Ottoman
+history. They reflect, before anything else, the characteristics of confiscations during this
+period. The advantage of focusing on this turbulent period, on the other hand, is that it
+allows to quantitatively measure the impact of wars and rebellions on the confiscation
+activity. That the first twenty years of the period was relatively more peaceful is benefited
+for comparison.
+3 Theoretical Considerations
+What are the main drivers of state confiscation and what can limit it? This section offers
+a theoretical perspective to this question. The context-specific model proposed here relies
+on an extended version of rational behavior, which considers not only economic but po
+litical incentives. It focuses solely on quantifiable behavior, however. That is, two types of
+observed behavior are excluded: agent cheating and military resistance of families.
+Under these assumptions, the sultan has two types of payoff, namely monetary and polit
+ical. Like every rational individual, he tries to optimize his gains and not to incur losses.
+To do so, he needs to calculate how profitable each case of confiscation is both in mone
+tary and political terms. This approach is consistent with historical reality. Confiscation
+records sometimes contain a section of monetary calculation. However, it was not uncom
+mon that wealth with unworthy or even negative net values was also confiscated, which
+makes it necessary to include the calculation of political payoff though in a more hypo
+thetical sense.
+For simplicity, first consider the case where political payoff is zero, meaning that political
+costs and benefits are equal. If this is the case, the decision to confiscate would be gov
+erned entirely by monetary calculation. Monetary payoff here concerns the profitability
+
+
+7
+of confiscation as the monetary value is the transferable amount or net value of wealth,
+which equal the total value of wealth and receivables minus debts and direct costs of con
+fiscation (Vahabi 2016: 154). Direct costs are the costs of transportation and agency.
+Agency costs are the commissions paid to confiscators and other less important agents
+taking part in the enforcement. Even though the value of these commissions was also de
+termined by the duration of the process, which is a function of the complexity, costs of
+agency and transportation were largely governed by various aspects of asset confiscabil
+ity.
+The components of asset confiscability are, to a large extent, associated with spatial con
+straints. This stems from the intuition that the capacity and willingness to confiscate of
+the sovereign should be unevenly distributed.3 I mainly consider here the distance from
+the physical location of the wealth to where it is transported (Istanbul with few excep
+tions) and to the sea, although there are other spatial constraints such as the conditions
+of the road to the destination and the administrative status of the location. The proximity
+from the destination matters as it affects direct agency and transportation costs. There
+was indeed a positive relationship between the distance and the confiscator’s commis
+sion. As for transportation costs, most assets were sent to the capital in kind, or else as
+cash acquired from auctions in which they were sold. In fact, the spatial aspects of asset
+confiscability could have been influenced by organizational, administrative and transport
+technology as well. However, the impact of technological change is rather negligible since,
+to the best of my knowledge, there was not any significant technological progress in the
+Ottoman Empire during the period of concern. The non-spatial elements of asset confisca
+bility are the concentration, specificity and measurability of assets. The more liquid assets
+are, for example, the more confiscable they are.
+
+
+8
+Political payoff, however, was hardly zero, especially when it comes to the confiscation of
+those who were closely linked with the central government politically and economically.
+Although, in theory, sultans had an unquestionable authority, there existed forces that
+balanced their power. In the eighteenth century, these forces derived mainly from the in
+creasing influence of local elites. It is true that their capacity to impact government poli
+cies, after all, proved insufficient to produce formal institutions that could effectively and
+sustainably constraint the sovereign power (Pamuk 2012). Nevertheless, sultans were
+hardly free from the risk of dethronement even though they were invariably replaced by
+other members of the same dynasty once dethroned. In addition to this risk, under intense
+external threat, the ruler could turn to confiscation as an extraordinary source of revenue
+regardless of whether it would have paid off monetarily.
+Another constraint of the ruler is facing a trade-off regarding whose wealth to confiscate.
+In that, they consider the bargaining position of the potential victims. That is, in the Otto
+man case, targeting an individual or family with high bargaining power was costlier for
+three reasons. First, some who were organized as patrimonial families had their own
+troops in which they had been investing for decades. They could and did sometimes use
+their military power against the central government. Certainly, the center’s military
+strength was superior to theirs. But the fact that they possessed armed troops had the
+effect of deterrence, especially when the opportunity cost of fighting a local trouble-maker
+was high. More importantly, many potential targets of confiscation had a symbiotic rela
+tionship with the imperial center, which required them to provision wars abroad by man
+ning imperial armies or sending food and munition to warzones (Yaycıoğlu 2016). Credi
+bility of these threats depended also on the nature of fiscal markets they operated. As for
+provincial elites, some enjoyed monopolies, while some had to compete with others. A
+
+
+9
+family particularly successful in rent-seeking, that is, capturing monopoly rents of its area
+of influence, was unlikely to be replaced when its wealth and power was fully confiscated.
+4 Data and General Patterns
+This study is based on information collected from confiscation inventories (muhallefat
+defterleri) preserved in the Prime Ministry Ottoman Archives in Istanbul. These invento
+ries were mostly prepared by an agent (mübaşir: literally bailiff), that I prefer to call con
+fiscator, sent to the location of wealth. These documents typically contain three parts. The
+introductory protocol consists of a summary of the case including the name, occupation
+and location of the individual and the names of third parties involved in the enforcement
+process. The second part provides a list of assets owned by the confiscated individual.
+Ranging from a single page to tens of pages, these lists come either with or without prop
+erty categories. The third section, which lacks from some inventories, contains a brief cal
+culation of net value.
+My sample includes 1,017 cases of confiscation. It must be stated at the outset that inevi
+table barriers make a ‘perfectly’ random sampling difficult. It is nearly impossible to know
+the entire population (N) and its characteristics primarily because we do not know if an
+inventory was prepared or survived for all confiscations. Thus, we cannot estimate the
+crucial ratio of n/N where n=1,017. Equally important, I had to rule some confiscations
+out due to important missing variables, especially the dependent variable. One positive
+point about the representativeness of the data is that the catalogue, where most invento
+ries used in the data come from (See: Appendix B), show a reasonable degree of diversity
+in terms of location, social groups, and period, and met my expectations on where and
+when confiscations were known to be the most prevalent. For example, as expected, the
+share in Istanbul is relatively higher than other locations.
+
+
+10
+What information was gathered in confiscation inventories? The introductory protocol
+provided the identity and location of wealth-holders. Titles present in official sources are
+quite telling, especially when it comes to the elites that constitute the focus of this paper.
+From one’s title, the historical can tell his or her gender, religion, secular title, social group
+as defined in Ottoman political thinking, family affiliation and whether he completed pil
+grimage.4 A wealth-holder’s profession was mostly affixed to the title as well. For women,
+however, profession was invariably missing. The protocol occasionally gives the justifica
+tion for confiscations (390 cases). The date included in the data set is the end date of the
+process of confiscation evident in the date of final inventory. In addition to the identity of
+Table 1.
+Targets of Confiscation by Occupation, 1750-1839
+Occupation Frequency Percent
+Military Officials (Askeriye) 267 26.25
+Administrative and Palace Officials (Kalemiye-Saray)
+231 22.71
+Legal Officials (İlmiye) 11 1.08
+Provincial Elites (Ayan) 349 34.32
+Merchants (Tüccar) 47 4.62
+Artisans (Esnaf) 9 0.88
+Moneychangers (Sarraf) 13 1.28
+Peasants (Köylü) 47 4.62
+Missing 43 4.23
+Total 1017 100
+Source: See appendix B for data sources.
+the wealth-holder, the protocol almost invariably specifies their location. Normally, the
+location is detailed down to village level. But a high majority of the individuals targeted
+
+
+11
+were urban dwellers. Finally, the size and distribution of wealth was obtained from the
+actual list of assets and/or the section of calculation at the end of inventories.
+Table 1 shows that the prime targets of confiscation were private tax contractors and gov
+ernment officials. The first three rows represent state officials expressed in three catego
+ries, i.e. military, administrative and legal officials. The fourth row displays provincial
+elites who were involved in the business of governance as private tax contractors yet were
+not officially affiliated with the center. It can therefore be argued that at least 83 per cent
+of the targets of confiscation were those benefiting from the fiscal system. In other words,
+people engaged in productive economic activities such as commerce and industry were
+not under direct threat. As the table displays, merchants and peasants represent 4 per
+cent of the sample population.5 Similarly, the shares of artisans and moneychangers are
+quite marginal, both around 1 per cent. Among these findings, the most surprising one is
+the relatively high proportion of peasants. To figure out why the wealth of ordinary peas
+ants was being confiscated, we need to look at how these were justified. It appears that
+21 out of 28 confiscations of peasant wealth for which I could identity official justification,
+out of a total of 47, were crime-related. These were invariably due to their participation
+in rebellion as the only type of crime they could commit against the central state. Figure
+1 demonstrates the temporal changes in the frequencies of the targets of confiscation ex
+pressed as a percentage of total number in the decades during the period 1750-1839.
+What is most striking in this figure is that it shows a boom in the number of local elites
+compared to the other groups. The figure reveals that starting from 13 per cent in 1750
+1759 the share of provincial elites moves around 40 per cent between 1780 and 1820.
+The period 1780-1820 was a time of centralizing efforts. The power of major provincial
+power-holders was curbed by the 1820s.
+
+
+12
+Figure 1.
+Occupational Distribution of Confiscation Targets over Time
+Source: See appendix B for data sources.
+A high majority of the targets of confiscation included in the dataset are Muslim men. Due
+to the lack of population data, it is not possible to argue in relative terms that non-Muslims
+faced less confiscation. However, if the data must be trusted, two factors explain why.
+First, they were generally not allowed to serve as government officials except for those in
+translation and minting. Likewise, they were not able to bid in tax farming auctions either,
+though they were involved in the fiscal system as moneylenders who lent to tax farmers
+needing capital. Second, those non-Muslim financiers and merchants, who constituted the
+majority in these professions in the eighteenth century, mostly operated under the legal
+protection of major European powers. That is, European consulates in the Ottoman lands
+were selling property rights to Greeks and Armenians, who were hired by consulates as
+0 10 20 30 40 50
+Percentage
+1760 1780 1800 1820 1840 Year
+Military Officials Administrative Officials Legal Officials Provincial Elites Merchants Artisans Peasants Moneychangers
+
+
+13
+dragoman (translators) though only on paper (Kuran 2010: 199). Regardless of European
+protection of non-Muslims, the Ottoman center must have recognized the role of trade for
+prosperity and developed a new institutional framework, guaranteeing the security of
+property and life of merchants (Kaymakcı 2013: 16-36).
+Map 1.
+Frequencies of Confiscation Attempts in Ottoman Locations and Provinces, 1750-1839
+Source: See appendix B for data sources.
+Notes: Provincial borders shown here are approximately drawn based on a geocoded map created by Harvard Geospatial Library accessed at http://hgl.harvard.edu:8080/opengeoportal/ on 18 January 2017. This map displays provincial borders of the Ottoman Empire, circa 1790. The Kaptanpaşa province is shown in the middle of Aegean Sea as it did not have clear-cut territories. Similarly, those confiscations conducted in frontier castles are shown at the top of the Black Sea under the name of ‘Frontier Castles.’
+How was the confiscation activity distributed spatially? Map 1 displays spatial frequency
+of confiscation at both location and province levels. The map illustrates that the largest
+number of confiscations took place in Istanbul, followed by such major cities as Bursa,
+
+
+14
+Antalya and Manisa. The common feature of most cities with a higher number of confisca
+tions is that they are either coastal or very close to the coast. This finding leads to two
+potential hypotheses. First, coastal regions could be more appealing since they were rel
+atively developed due to greater commercial exchange stemming from port presence and
+favorable climate. But that merchants were not confiscated much disproves this hypoth
+esis. It seems more likely that undertaking confiscations on the coast was less expensive
+because sea transport was historically cheaper than inland transport. Whether this was
+the case is left as an open question to be answered in the next section.
+Figure 2.
+Frequencies of Confiscation Attempts and Full Confiscation, 1750-1839
+Source: See appendix B for data sources.
+Figure 2 gives a broad sense of the timing of confiscations. The blue area shows the annual
+number of confiscation attempts while the red area represents the number of cases which
+0 10 20 30
+Number of Observations
+1750 1760 1770 1780 1790 1800 1810 1820 1830 1840 Year
+Total Number of Confiscation Attempts Full Confiscation
+
+
+15
+resulted in full confiscation. Apart from the years with dramatic falls, number of confisca
+tion attempts follows a generally increasing trend after the 1770s, coinciding with the de
+terioration of state finances after the Russo-Ottoman war of 1768-1774. A decreasing
+trend begins after 1820, continuing until the abolition in 1839. This is overall in line with
+the view that the crisis triggers confiscation activity. However, it is also important to note
+that the proportion of ‘full confiscation’ outcome in total number of attempts falls during
+the time of crisis. Like in the case of spatial patterns, this is also a question that can be best
+studied with an econometric approach.
+5 Empirical Strategy and Descriptive Statistics
+Empirical strategy adopted in this paper builds on two unique features of the process of
+Ottoman confiscations. The first one is that the enforcement of confiscation was most typ
+ically a two-step process as described below, though various scenarios were possible de
+pending on whether it was conducted after one’s normal death or punishment (See: Fig
+ure 3). Second, the process did not necessarily end with confiscation of all assets. The first
+step is the step before an inventory was made. Once informed by a potential case of con
+fiscation, the sultan and his agents follow one of the strategies below:
+Outcome 1
+n Send confiscator
+n No confiscation
+n Inheritance Tax
+Importantly, this initial decision was made without full information on the attributes of
+wealth because there was no existing inventory yet. Only if the outcome of the first step
+
+
+16
+was “send confiscator,” the process proceeded to the second step. By sending a confisca
+tor, the center already incurred the costs of agency no matter what the outcome of the
+second step would be. The outcome of “no confiscation” refers to the waiving of confisca
+tion, which resulted in no further action. The “inheritance tax” outcome implies that the
+family were to pay the amount of cash set by the central administration or offered by the
+family. This amount was mostly open to negotiation.
+Figure 3.
+Steps of Confiscation Process
+The second step is the one lasting from the sending of a confiscator until the end of the
+process. Its main difference from the first step is the revealing of more information gath
+ered from the prepared inventory. At this step, the sultan and his agents possess more
+precise information on the family’s power and the attributes of their wealth, such as its
+net value and liquidity. With this revealed information, the question of how worthwhile it
+is to confiscate becomes clearer. The process ends with one of the following outcomes:
+Outcome 2
+n Confiscation
+
+
+17
+n No confiscation
+n Inheritance Tax
+Table 2.
+Definitions of Explanatory Variables
+Variable name Definition
+WAR War pressure index based on war casualties.
+REBELLION The number of internal conflicts including revolutionary movements.
+DISTANCE Interaction of distance from Istanbul and distance from a port.
+RELIGION 1 if Muslim, 0 if non-Muslim.
+GENDER 1 if female, 0 if male.
+TITLE 1 if the wealth-holder has a title, 0 if he does not.
+FAMILY 1 if the wealth-holder is a member of a prominent family, 0 if not.
+WARZONE Distance of the wealth-holder’s
+ELAPSED The number of years elapsed after enthronement of the sultan.
+JUSTIFY 1 if justified, 0 if not.
+NET VALUE Net value of the wealth in tons of silver.
+LIQUIDITY Percentage of liquid assets, jewelry, slaves and watches, to total assets.
+The main dependent variable of the analysis is thus the outcome of the confiscation pro
+cess. It is a categorical variable taking two different forms, outcome 1 and outcome 2, in
+the two multinomial logistic models. One would ideally employ the exact share of confis
+cated wealth to the total value of wealth. It was impossible, however, to identify this pro
+portion for all cases, though I was more successful in determining which of the above cat
+egories each confiscation fell into.
+
+
+18
+The analysis employs multinomial logistic regression model (MNLM) to estimate what
+determined the ‘outcome’ of the two steps of the process of confiscation.6 MNLM is a type
+of logistic model used when the number of dependent variable categories is greater than
+two and there is no natural order between them. The formal models are presented in the
+two-step framework identified above. The information in the step each confiscation out
+come has happened has been gathered from a pool of over 7,000 correspondence docu
+ments.
+Table 3.
+Frequency Table of the Dependent Variable, ‘Outcome’
+Source: See appendix B for data sources.
+Outcomes Frequency Relative frequency
+All
+Confiscation 601 59.10
+No Confiscation 214 21.04
+Inheritance Tax 202 19.86
+Total 1017 100
+Step 1
+Send confiscator 832 81.81
+No confiscation 110 10.82
+Inheritance tax 75 7.37
+Total 1017 100
+Step 2
+Confiscation 601 72.24
+No confiscation 104 12.50
+Inheritance tax 127 15.26
+Total 832 100
+
+
+19
+In explaining the determinants of state confiscation, the impact of the following factors on
+the outcomes of the process of confiscation are of special interest: (1) conflicts or deteri
+orating state finances, (2) geographical limitations, (3) bargaining power of families, and
+(4) attributes of wealth such as magnitude and liquidity.
+Table 4.
+Frequency Table and Descriptive Statistics of Explanatory Variables
+Source: See appendix B for data sources.
+Variable Name Min Max Mean SD Freq. Relative Freq.
+Observation
+War 0.007 0.302 0.134 0.107 1017
+Rebellion 0 4 0.74 0.90 1017
+Distance Istanbul 1 2409.02 374.43 367.36 1017
+Distance Port 1.64 1454.26 269.53 173.19 1017
+Elapsed 0 31 10.16 6.82 1017
+Net Value -33.12 106.08 1.13 5.57 828
+Liquidity 0 100 29.00 33.12 357
+Justify
+Yes 305 70.01 1017
+No 712 29.99
+Gender
+Male
+Female
+979
+38
+96.26
+3.74
+1017
+Religion
+Muslim
+Non-Mus.
+957
+60
+94.10
+5.90
+1017
+Family
+Yes
+No
+135
+882
+86.73
+13.27
+1017
+Title
+Yes
+No
+306
+771
+1017
+
+
+20
+In doing so, I control for a set of variables such as one’s identity, the number of years
+elapsed after the ruling sultan’s enthronement, and the way confiscation was justified.
+The variable WAR is used to estimate whether wars have driven confiscations.7 Due to the
+lack of data on state revenues, it also serves the function of proxying fiscal distress as most
+revenues were spent on wars during the chosen period. Instead of the number of wars,
+which would not capture their magnitude, I use a war pressure index based on the number
+of causalities. Another potential determinant of the decision to confiscate could be inter
+nal conflicts, since this was a period of rebellions and independence movements. Unlike
+wars, there is no data on causalities from domestic conflicts. Thus, I use a dummy variable
+reflecting the number of rebellions that took place in each year of confiscation. To meas
+ure the impact of spatiality or of the direct costs of confiscation, I use an interacted dis
+tance variable, DISTANCE. This variable is an interaction of distance from Istanbul (the
+destination of confiscated assets) and distance from major ports.8
+As for bargaining power, the analysis employs two variables. One of them is a dummy
+variable called FAMILY, showing whether the wealth-holder was a member of a prominent
+family. Admittedly, this variable has certain limits. The family’s bargaining power vis-à
+vis the ruler is indeed the matter of a complex long-term relationship, reflecting not only
+how much the sovereign values the past conduct of the family but also how he thinks his
+dependence on the family will change in future. It is not possible to know the entire his
+tory of these mutual interdependences between the center and all 1,017 families. The po
+tential weakness of this variable is then mitigated using another variable of bargaining
+power. After considering that wars were important for the nature of dependence between
+the sultan and the confiscation targets, I created the variable WARZONE, which is the dis
+tance from the nearest warzone at the time of confiscation.9 It captures how the existence
+of a war nearby impacted the decision to confiscate the wealth of the family.
+
+
+21
+In the second-step regression, I introduce two additional variables regarding the wealth
+under target. Both are used to measure whether the outcome was shaped by cost-benefit
+calculation. The variable NETVALUE represents the transferable amount of capital. LI
+QUIDITY, which could be calculated only in 357 cases, shows the proportion of liquid as
+sets such as jewelry, cash, slaves and watches to total assets. Variables used in the first
+step and included in the second step regression are those that are time-specific that could
+have changed during the process of confiscation, which could at times take years.
+6 Results and Discussion
+The main results of the MNL models are presented in tables 5, 6, 7 and 8. The independ
+ence of irrelevant alternatives assumption inherent in the MNLM was tested with a Haus
+man-McFadden test (Hausman and McFadden 1984). The results are reported in relative
+risks rather than coefficients as the latter’s interpretation in the MLNM are inconvenient.
+Interpreting relative risks is like that of the odds ratios in binary choice models. That is,
+relative risk reflects the change for a one-unit change in the independent variables. Each
+regression treats a category of the outcome variable as base category. The first-step re
+gression uses ‘send confiscator’ as its main base category since the decision to send a con
+fiscator means incurring agency costs regardless of the outcome of the second step and is
+costlier than the other two outcomes, namely ‘no confiscation’ and ‘inheritance tax.’ Be
+cause sending a confiscator has greater costs, it is more convenient to interpret the results
+compared to the category of ‘send confiscator.’ The main reference category for the se
+cond-step regression is ‘confiscation’ simply because the other outcomes represent either
+a lesser degree of confiscation (inheritance tax) or no confiscation at all. Where necessary,
+I also take another category as reference category to see the interaction between the other
+two outcomes, which is not shown by one single comparison.
+
+
+22
+6.1 First-Step Estimates
+The first-step estimates are given in table 5. Before proceeding to the impact of wars and
+expected costs, it is necessary to have a brief look at two seemingly surprising results. At
+first sight, the direction of the relative risk of TITLE seems surprising. It suggests that
+holding a title increases the odds of the outcome ‘send confiscator’ compared to both com
+parison groups of ‘inheritance tax’ and ‘no confiscation.’ That is, the central government
+was more willing to continue the process of confiscation if the wealth-holder had a title.
+One may think that title-holders would be more capable of escaping confiscation due to
+their better bargaining position. Yet we must consider here that all who benefited from
+the ruler’s revenue pie were title-holders one way or another. What this implies is that a
+person with no title could be tolerated more than one with a title.
+ELAPSED represents the number of years that elapsed after the enthronement of the rul
+ing sultan. As it goes up, ‘send confiscator’ is the least likely outcome, while ‘no confisca
+tion’ is more likely than ‘inheritance tax.’ In other words, the longer the sultan stays in
+power, the less likely he is to continue the process of confiscation. If we assume that ruling
+for longer makes the sovereign more powerful and able to confiscate, this result curiously
+refers to a negative relationship between power and confiscation. A potential explanation
+for the first result is that sultans were arguably more interested in confiscation in the
+early years of their rule to finance their projects. Or, the above assumption does not hold
+true that their power just deteriorated with time.
+An insignificant result needs also to be interpreted. FAMILY is not significant in both com
+parisons shown in columns 1 and 2 because it was only after certain attributes of wealth
+were revealed via an inventory that a healthier analysis of the political costs and benefits
+of confiscation could occur. Since ‘no confiscation’ and ‘inheritance tax’ were outcomes
+
+
+23
+that could also be realized in the second step, the central government possibly did not
+want to decide before the value and liquidity of wealth was revealed by the confiscator.
+6.1.1 War Pressure: A Driver of Confiscation?
+It is generally argued that under fiscal distress created by external and internal wars, rul
+ers confiscate more of the wealth of their subjects. First-step estimates reported here re
+fer to an adverse relationship between war pressure and confiscation options of the sov
+ereign. The relative risks of WAR shown in panels 1 and 2 of table 5 reveal that one-unit
+increase in war pressure makes the category of ‘send confiscator,’ 8.852 times less likely
+than ‘no confiscation’ and 6.860 times less likely than ‘inheritance tax.’ This is to say that
+in relative terms, an increase in war pressure made the Ottoman rulers choose not to con
+fiscate or obtain inheritance tax over continuing the process of confiscation by sending a
+confiscator.
+There might be two reasons why. First, the time and resources of the center were spent
+on warzones during wartime. Unlike full confiscation which could have occurred at the
+end of the second step, inheritance tax was a quick and low-cost alternative even though
+extracted revenue was lower. The second reason is related to the symbiotic relationship
+between the center and some targets of confiscations. Relative risks of 1.068 and 0.907
+shown in the row of WARZONE lends further support to this mutuality. They imply that
+the proximity of the physical location of wealth to a warzone at the time of confiscation
+attempt made ‘no confiscation’ more likely relative to both ‘send confiscator’ and ‘inher
+itance tax.’ In other words, the more proximate to a warzone, the more they were able to
+escape confiscation. Like in the opening anecdote, this finding shows that elite coopera
+tion was more needed during wartime. It also helps to understand why ‘inheritance tax’
+is not necessarily superior to ‘no confiscation’ as expressed in the insignificant relative
+
+
+24
+risks of WAR. To be more precise, though inheritance tax pays better than no confiscation
+in terms of its monetary value, during wartime monetary value was not necessarily the
+Table 5.
+Relative Risks of the Outcome of the First Step of the Process of Confiscation
+Source: See appendix B for data sources
+Notes: ***, **, and * denote statistical significance at the 1, 5, and 10 per cent levels. C: Confiscation, NC: No Confiscation, IT: Inheritance Tax. The reference category is always the one after /. If relative risk is greater
+DV categories NC/SC IT/SC IT/NC
+Conflict Interstate Wars 8.852** 6.860* 0.774
+Rebellion 0.899 0.888 0.987
+Spatiality Distance 1.482*** 1.863*** 1.256
+Identity
+Gender
+Male 1 1 1
+Female 0.224 0.791 3.521
+Religion
+Muslim 1 1 1
+Non-Muslim 0.675 0.922 1.480
+Title
+No 1 1 1
+Yes 0.336*** 0.346*** 1.032
+Bargaining Power
+Family Affiliation
+No 1 1 1
+Yes 1.215 0.592 0.487
+Warzone 1.068** 0.969 0.907**
+Sultan Behavior Elapsed 1.067*** 1.003*** 0.939**
+Rules Justification
+No 1 1 1
+Yes 0.308*** 0.581** 1.882*
+N 1015 1015 1.015
+Pseudo R2 0.1485 0.1485 0.1485
+LR Chi2 180.25 180.25 180.25
+Prob Chi2 0.0000 0.0000 0.0000
+
+
+25
+than 1, the odds of reference category are higher compared to the comparison category. If it is lower than 1, the outcome is more likely to fall in the comparison group.
+most important element of the process. Elites’ military support was much needed and
+confiscating their wealth was not the priority of the sultan.
+Although another variable of conflict, REBELLION is not significant, it refers to a reverse
+relationship between conflict and confiscation. That is, with more rebellion happening at
+the time of confiscation attempt, the sovereign was more likely to send a confiscator. The
+reason why this result is the opposite of that of WAR is that confiscations were sometimes
+the result of rebellion. This cannot be confirmed though as the result is not significant.
+6.1.2 Expected Costs: A Constraint of Confiscation?
+Expected costs of confiscation also had an impact on the outcome of the first step. The
+relative risk of DISTANCE is higher than 1, which means that an increase in expected costs
+made both ‘no confiscation’ and ‘inheritance tax’ more likely compared to ‘send confisca
+tor.’ With increased distance from Istanbul and major ports, the sultan would prefer to
+not continue the process, by not sending a confiscator. When it comes to the decision be
+tween ‘no confiscation’ and ‘inheritance tax’ in a distant location, he is rather indifferent.
+This decision is determined by the proximity to a warzone, time elapsed after enthrone
+ment of the sultan and whether there was a justification (See: IT-NC comparison). These
+findings are consistent with the expected transport costs hypothesis as they demonstrate
+that the sultan is more hesitant to confiscate in remote areas. Another reason distance
+matters can be that the power of the center generally decreases with distance from the
+capital. Less power or legitimacy increases the expectance of resistance that would result
+in undesired costs.
+
+
+26
+6.2 Second-Step Estimates
+Table 6.
+Relative Risks of the Outcome of the Second Step of the Process of Confiscation
+Source: See appendix B for data sources.
+Notes: ***, **, and * denote statistical significance at the 1, 5, and 10 per cent levels. C: Confiscation, NC: No Confiscation, IT: Inheritance Tax. The reference category is always the one after /. If relative risk is greater than 1, the odds of reference category are higher compared to the comparison category. If it is lower than 1, the outcome is more likely to fall in the comparison group.
+The second-step estimates are shown in table 6. It reports the results with and without
+LIQUIDITY in panels 1 and 2. The second part of dependent variable categories are the
+base categories. The most striking result in this table is the relative risks of NETVALUE,
+which is highly significant in all columns. Those in the first two columns show that as the
+value of wealth increases, the sultan is more likely to confiscate relative to ‘no confisca
+tion.’ However, the same is not true with ‘inheritance tax.’ It appears that the likelihood of
+inheritance tax was higher for high value inheritances in comparison with confiscation.
+12
+DV categories NC/C IT/C IT/NC NC/C IT/C IT/NC
+Conflict Interstate Wars
+1.893 4.937* 0.528 11.973 19.582** 1.635
+Rebellion 1.152 1.162 1.008 1.888** 1.119 0.593
+Wealth Net Value 0.691*** 1.293*** 1.870*** 0.595*** 1.323*** 2.220***
+Liquidity 0.968** 0.954*** 0.985
+Bargaining Power
+Family Affiliation
+No 1 1 1 1 1 1
+Yes 1.839 4.906*** 2.667** 1.833 4.819*** 2.628
+Warzone 0.935* 1.051 1.123** 0.993 1.028 1.035
+N 774 774 774 344 344 344
+Pseudo R2 0.1247 0.1247 0.1247 0.2512 0.2512 0.2512
+LR Chi2 138.71 138.71 138.71 116.62 116.62 116.62
+Prob Chi2 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+
+
+27
+Figure 4.
+Graphs of Correlation in the First and Second-Step Regressions
+Source: See bibliography for data sources.
+Notes: These figures does not show results in relative terms. Although changes might not seem significant, it must be considered that the likelihood of sending a confiscator was already much higher than those of other outcomes at 0.
+0 .2 .4 .6 .8 1
+Relative Likelihood
+0 .1 .2 .3 .4 War Pressure
+NC SC IT
+0 .2 .4 .6 .8 1
+Relative Likelihood
+02468 Expected Transport Costs
+NC SC IT
+0 .2 .4 .6 .8 1
+Relative Likelihood
+0 10 20 30 Time Elapsed After Enthronement (Years)
+NC SC IT
+0 .2 .4 .6 .8 1
+Relative Likelihood
+01 Title
+NC SC IT
+0 .2 .4 .6 .8 1
+Relative Likelihood
+-10 -5 0 5 Net Value
+C NC IT
+0 .2 .4 .6 .8 1
+Relative Likelihood
+0 20 40 60 80 100 Liquidity (%)
+C NC IT
+0 .2 .4 .6 .8 1
+Relative Likelihood
+01 Family Affiliation
+C NC IT
+0 .2 .4 .6 .8 1
+Relative Likelihood
+0 .1 .2 .3 .4 War Pressure
+C NC IT
+
+
+28
+Figure 4 clearly shows the impact of an increase in net wealth on the outcome of the con
+fiscation process. Until a point, it increases the likelihood of confiscation relative to both
+‘no confiscation’ and ‘inheritance tax.’ But after that point, the confiscation-inheritance
+tax comparison changes in a way that inheritance tax becomes more likely. This is the
+explanation of the reverse U-shape that can be seen in the figure.
+This finding is better read in combination with the value of relative risks of FAMILY. That
+is, being a member of a prominent family increases the probability of the ‘inheritance tax’
+outcome compared to ‘confiscation’ by a factor of 4.906 and 4.819 with or without LI
+QUIDITY respectively. This is closely related to their power to bargain with the central
+government primarily but not exclusively for the reasons mentioned above. Another var
+iable of bargaining power, WARZONE, still has the same effect as in the first-step models
+in that it increases the likelihood of ‘no confiscation’ relative to the other two categories.
+To evaluate these results in light of qualitative sources, prominent families used their mil
+itary, economic and political sources of power to negotiate the institution of inheritance
+tax and even sometimes succeeded in reducing the amount of it. Thus, the interpretation
+of the variable FAMILY helps to explain why inheritance tax was more likely to occur with
+an increase in the amount of wealth. The reason why family affiliation is significant in the
+second step and not in the first step is that the first step outcome is of more of a decision
+while that of the second step is not necessarily so. As an outcome, it reflects a process
+during which both parties test their power.
+Panel 2 of table 6 reports the results with LIQUIDITY added as one of explanatory varia
+bles. Unfortunately, the number of observations is inevitably reduced to 344 due to the
+lack of liquidity data for many observations. In panel 2, we see that liquidity is highly cor
+related with the outcome of the second step. More liquid assets were not only more easily
+
+
+29
+convertible but also more easily transferable. As asset liquidity increases, confiscation
+turns into a more likely outcome relative to both comparison outcomes. An additional re
+gression with ‘no confiscation’ as the base category was also estimated and presented in
+the last column of the table. The insignificant relative risks of LIQUIDITY in the inheritance
+tax-no confiscation comparison indicate that the sultan was somewhat indifferent be
+tween these categories as liquidity level changed.
+Overall, the value and liquidity of wealth as well as the bargaining power of the family
+predict a good deal of the second step outcome. When the confiscation process reaches
+this step, the central government takes a final look at the confiscation inventory and the
+outcome is determined partly by the center and partly by ‘nature’ depending on the spe
+cifics of the case.
+6.3 Robustness Checks
+Appendix table A1 accounts for all variables without considering steps and liquidity, while
+appendix table A2 does the same with liquidity. Panel 1 of these tables shows the results
+with log transformed net value, while the second panel uses the actual value of wealth.
+The reason for this is that logged net value reduces the number of observations although
+log transformation is generally better for our purposes due to the very high standard de
+viation of that variable. Most results are consistent with the step regressions in tables 5
+and 6. However, inconsistent ones do not weaken but strengthen my analysis since they
+justify the use of the two-step framework. If we focus on the results that are inconsistent
+with step regressions, we first notice that the impact of interstate wars becomes less vis
+ible when considered without steps. Nevertheless, ‘inheritance tax’ still proves to be sig
+nificant more likely than ‘confiscation’ with an increase in war pressure. Although it is not
+
+
+30
+significant, the sign of the relative risks of no confiscation-confiscation comparison re
+mains the same. Another difference of the regressions without two-step framework is that
+even though the sultan was indifferent between ‘no confiscation’ and ‘inheritance tax’ as
+expected transport costs increased, here is more likely to obtain inheritance tax rather
+than waiving confiscation.
+Table 7.
+Relative Risks of the Mode of Transfer of Confiscated Wealth
+Source: See bibliography for data sources.
+Notes: ***, **, and * denote statistical significance at the 1, 5, and 10 per cent levels. SK: Sent in Kind, M: Mixed, SC: Sent in Cash. The reference category is always the one after /. If relative risk is greater than 1, the odds of reference category are higher compared to the comparison category. If it is lower than 1, the outcome is more likely to fall in the comparison group.
+Second, I test the impact of cost-benefit calculation in an alternative analysis. This looks
+specifically at the role of transportation costs. If the outcome of the confiscation process
+was confiscation, the next decision of the government was how to transfer confiscation
+gains to the public treasury. It must be noted at the outset that the analysis excludes those
+gains that were occasionally sent directly to warzones for military use. Apart from that,
+there were three modes of transfer: (1) transportation of all assets to Istanbul in kind, (2)
+auctioning all assets on premise and transferring revenues in cash and (3) a mix of these
+1 (W/O Liquidity) 2 (W Liquidity)
+DV categories SK/SC M/SC SK/SC M/SC
+Wealth Net Value 0.935** 0.992* 0.859* 1.404**
+Liquidity 1.034*** 1.019**
+Seasonality Month Included Yes Yes Yes Yes
+Spatiality Distance 1.553*** 1.744*** 1.738*** 1.713***
+N 633 633 290 290
+Pseudo R2 0.1563 0.1563 0.3050 0.3050
+LR Chi2 133.48 133.48 143.96 143.96
+Prob Chi2 0.000 0.000 0.000 0.000
+
+
+31
+modes. Independent variables included in the model are an interaction variable of dis
+tance from Istanbul and distance from the nearest major port, the month of confiscation,
+net value of wealth and liquidity. In contrast to previous regressions, the month of confis
+cation controls here for the effect of seasonality or whether climate or any other features
+of seasonality had an impact on the decision. If the decision to transfer was governed by
+minimization of transport costs, then this test should provide further proof for the above
+argument that cost-benefit calculation played an important role even in this stage which
+we might call the third stage of the process.
+As displayed in table 7, controlling for other variables, two of three variables of im
+portance lend support to the cost-benefit argument. This includes the finding that as the
+size of wealth increases, it becomes more likely for it to be sent in cash. That is, auctions
+were more often held in more distant regions. There were presumably costs of auction,
+but these costs can be negligibly included in the costs of agency that were already paid.
+As the liquidity increases, the assets are more likely to be sent in kind. This is because, in
+contrast to property such as real estate, liquid assets were easily moveable. Most liquid
+assets in the dataset are jewelries and cash. Yet the distance variables in the table do not
+support our hypothesis. The distance from Istanbul suggests that the more distant a loca
+tion was; the more likely assets were to be sent in kind.
+Finally, one can also look at the official reasoning behind the non-confiscation outcomes.
+150 cases, for which I could identify the reasoning, support the argument that confisca
+tions were conducted in light of cost minimization. If we look at the stated reasons behind
+‘no confiscation’ we see that there were essentially six reasons displayed in table 8. The
+most frequent two reasons are: (1) the person had too much debt, and (2) net value of
+wealth was insignificant.
+
+
+32
+Table 8.
+Official Reasoning Behind the Non-Confiscation Outcomes
+Reason/Outcome No Confiscation Inheritance Tax Total
+Having too Much Debt 49 10 59
+Appearance of Heirs 3 0 3
+Insignificant Sum 40 1 41
+Requests by Mediators 6 0 6
+Mercy of the Sultan 33 2 36
+Pardoning of the Punished
+3 36
+Total 134 16 150
+Source: See appendix B for data sources.
+7 Conclusion
+Ottoman rulers have confiscated elite property throughout centuries. However, enforce
+ment of confiscations during the chosen period was not smooth. They had to take many
+things into account when confiscating. Most importantly, during wartime they tended not
+to confiscate the wealth of an individual who was needed by the state. They also abstained
+from confiscation in remote areas, preferring locations proximate to Istanbul, where con
+fiscated assets were transported. Once these factors led to a decision to send a confiscator
+to the location of wealth to prepare an inventory, the second step outcome was based on
+the attributes of wealth and the family’s bargaining power. If the magnitude of wealth was
+bigger, confiscation was a more likely outcome. Likewise, confiscation was more likely to
+happen if the wealth was more liquid. A powerful family had a higher chance of turning a
+
+
+33
+potential full confiscation into inheritance tax in which case they were to pay an amount
+of cash to the public treasury.
+This paper does not aim to deny either the act of violence or arbitrariness embedded in
+Ottoman confiscations. Rather, it argues that confiscations were conducted in light of the
+above constraints. Historians have long emphasized the problem with the notion of ‘ab
+solutism.’ Economic historians have drawn attention to the fiscal, legal and administrative
+capacity of states as an important element of long-run economic growth. This paper con
+tributes to this line of literature by showing how low capacity of a state where the ruler
+was not constrained by a formal system of checks and balances could, in turn, determine
+the way government confiscation was practiced. In other words, low state capacity,
+caused by the size of the empire and its persistent dependence on local elites, decreased
+its ability to confiscate too.
+
+
+34
+References
+Abou-El-Haj, Rifa'at. 2005. Formation of the Modern State: the Ottoman Empire, Sixteenth to Eighteenth Centuries (Syracuse University Press: New York). Acemoglu, Daron, and James Robinson. 2012. Why Nations Fail: The Origins of Power, Prosperity and Poverty (Profile Books Ltd: London). Allen, John. 1997. 'Economies of Power and Space.' in Roger Lee and Jane Willis (eds.), Geographies of Economies (Arnold: London).
+Balzac, Daniel. 1992. 'International and Domestic Maritime Trade in the Ottoman Empire during the 18th Century', International Journal of Middle East Studies, 24: 189-206. Barkan, Ömer Lütfi. 1980. Türkiye'de toprak meselesi (Gözlem Yayınları: İstanbul). Bodin, Jean. 1955. Six Books of the Commonwealth (Blackswell's Political Texts: Oxford). Clodfelter, Micheal. 2008. Warfare and Armed Conflicts: A Statistical Reference to Casualty and Other Figures, 1618-1991 (McFarland: Jefferson, North Carolina; London). Coşgel, Metin, and Boğaç Ergene. 2015. 'Dispute Resolution in Ottoman Courts: A Quantitative Analysis of Ligitations in Eighteenth-Century Kastamonu', Social Science History, 38: 183-202.
+Çizakça, Murat. 2010. "Was Shari'ah Indeed the Culprit?" In MPRA. DeLong, James B., and Andrei Shleifer. 1994. 'Princes and Merchants: European City Growth before the Industrial Revolution', Journal of Law and Economics, 36: 671702. Dribe, Martin, Mats Olsson, and Patrick Svensson. 2012. 'If the Landlord So Wanted... Family, Farm Production, and Land Transfers in the Manorial System', Economic History Review, 65: 746-69. Epstein, S. R. . 2000. Freedom and Growth: The Rise of States and Markets, 1300-1750 (Routledge: London).
+Glete, Jan. 2002. War and the State in Early Modern Europe: Spain, the Dutch Republic and Sweden as Fiscal-Military States, 1500-1660 (Routledge: London and New York). Grafe, Regina. 2012. Distanty Tyranny: Markets, Power and Backwardness in Spain, 16501800 (Princeton University Press: Princeton). Greif, Avner. 2008. 'The Impact of Administrative Power on Political and Economic Developments: Toward a Political Economy of Implementation.' in Elhanan Helpman (ed.), Institutions and Economic Performance (Harvard University Press: Cambridge; London). Hausman, Jerry, and Daniel McFadden. 1984. 'Specification Tests for the Multinomial Logit Model', Econometrica, 52: 1219-40.
+Hirschman, Albert O. 1970. Exit, Voice and Loyalty: Responses to Decline in in Firms, Organizations and States (Harvard University Press: Cambridge, Mass). Islam, Zafarul. 1985. "The Mughal System of Escheat: An Analytical Study." In Indian History Congress, 337-39.
+Kaymakcı, Said Salih. 2013. 'The Sultan's Entrepreneurs, the Entrepreneurs’ Sultan: Beratlı Avrupa Tüccarı and Institutional Change in the Nineteenth Century Ottoman Empire (1835-1868)', Boğaziçi University.
+Kuran, Timur. 2010. The Long Divergence: How Islamic Law Held Back the Middle East (Princeton University Press: Princeton). Levi, Margaret. 1988. Of Rule and Revenue (University of California Press: Berkeley). Machiavelli, Niccolo. 2007. The Prince (Manor Classics: Rockville).
+
+
+35
+Mackinnon, Danny, and Andrew Cumbers. 2007. Introduction to Economic Geography: Globalization, Uneven Development and Place (Prentice Hall: Harlow). Naima. 1968. Naima Tarihi (Danışman Yayınevi: İstanbul). Neumann, Christoph K. 2006. 'Political and Diplomatic Developments ' in Suraiya N. Faroqhi (ed.), The Cambridge History of Turkey Volume 3. The Later Ottoman Empire, 1603–1839 (Cambridge University Press: Cambridge). North, Douglass C., and Barry Weingast. 1989. 'Constitutions and Commitment: The Evolution of Instutitions Governing Public Choice in Seventeenth Century England', Journal of Economic History, 49: 803-32. Olson, Mancur. 2000. Power and Prosperity: Outgrowing Communist and Capitalist Dictatorships (Oxford University Press: Oxford). Pamuk, Şevket. 2012. 'Political Power and Institutional Change: Lessons from the Middle East', Economic History of Developing Regions, 27: S41-S56.
+Pamuk, Şevket, and K. Kıvanç Karaman. 2013. 'Different Paths to the Modern State in Europe: The Interaction Between Warfare, Economic Structure, and Political Regime', American Political Science Review, 107: 603-26.
+Shaw, Stanford J., and Ezel Kural Shaw. 1977. History of the Ottoman Empire and Modern Turkey, Volume II: Reform, Revolution, and Republic: The Rise of Modern Turkey, 1808-1975 (Cambridge University Press: Cambridge). Smith, Adam. 1937. The Wealth of Nations (The Modern Library: New York). Tomar, Cengiz. 2007. "Müsâdere." In TDV İslâm Ansiklopedisi, 65-67. İstanbul: TDV Yayınları. Uzunçarşılı, İsmail Hakkı. 1974. 'Çapanoğulları', Belleten, XXXVIII: 215-61. Vahabi, Mehrdad. 2016. 'A positive theory of the predatory state', Public Choice, 168: 15375. Veitch, John M. 1986. 'Repudiations and Confiscations by the Medieval State', Journal of Economic History, 46: 31-36.
+Weingast, Barry R. 1995. 'The Economic Role of Political Institutions: Market-Preserving Federalism and Economic Development', Journal of Law, Economics and Organization, 11: 1-31. Yaycıoğlu, Ali. 2016. Partners of the Empire: Crisis of the Ottoman Order in the Age of Revolutions (1760-1820) (Stanford University Press: Stanford).
+
+
+36
+Appendix A.
+Appendix Table A1.
+Relative Risks of the Outcome of the Process of Confiscation without Liquidity (Full sam
+ple)
+Source: See bibliography for data sources.
+Notes: ***, **, and * denote statistical significance at the 1, 5, and 10 per cent levels. C: Confiscation, NC: No Confiscation, IT: Inheritance Tax. The reference category is always the one after /. If relative risk is greater than 1, the odds of reference category are higher compared to the comparison category. If it is lower than 1, the outcome is more likely to fall in the comparison group.
+12
+DV categories NC/C IT/C IT/NC NC/C IT/NC IT/NC
+Wealth Net value 0.663*** 1.319*** 1.987*** 0.737** 1.003 1.360**
+Conflict Interstate wars 0.564 6.087* 10.786 1.276 4.933* 3.863
+Rebellion 1.222 1.113 0.910 1.303** 1.030 0.790
+Spatiality Distance 1.164*** 1.365*** 1.172* 1.150*** 1.377*** 1.197**
+Identity
+Gender
+Male 1 1 1 1 1 1
+Female 0.267* 0.184 0.821 0.223** 0.167 0.751
+Religion
+Muslim 1 1 1 1 1 1
+Non-Muslim 0.164** 0.287* 1.788 0.130*** 0.269** 2.069
+Title
+No 1 1 1 1 1 1
+Yes 0.217*** 0.292*** 1.347 0.209*** 0.389*** 1.853**
+Bargaining Power
+Family Affiliation
+No 1 1 1 1 1 1
+Yes 1.626 4.115*** 2.530* 1.232 4.615*** 3.745***
+Warzone 0.925** 1.029 1.112** 0.940** 1.052 1.118***
+Sultan Behaviour
+Elapsed 0.951** 1.005 1.056* 0.969* 1.001 1.032
+Rules Justification 0.347*** 0.523*** 1.507 0.516** 0.559** 1.042
+N 775 775 775 826 826 826
+Pseudo R2 0.2162 0.2162 0.2162 0.1819 0.1819 0.1819
+LR Chi2 241.57 241.57 241.57 203.14 203.14 203.14
+Prob Chi2 0.0000 0.0000 0.0000 0.0000 0.0000 0.000
+
+
+37
+Appendix Table A2.
+Relative Risks of the Outcome of the Process of Confiscation with Liquidity (Full Sample)
+Source: See bibliography for data sources.
+Notes: ***, **, and * denote statistical significance at the 1, 5, and 10 per cent levels. C: Confiscation, NC: No Confiscation, IT: Inheritance Tax. The reference category is always the one after /. If relative risk is greater than 1, the odds of reference category are higher compared to the comparison category. If it is lower than 1, the outcome is more likely to fall in the comparison group.
+12
+DV categories NC/C IT/C IT/NC NC/C IT/NC NC/C
+Wealth Net value 0.553*** 1.319*** 2.385*** 0.895* 1.010 1.128*
+Liquidity 0.968** 0.958*** 0.989 0.969*** 0.957*** 0.986
+Conflict Interstate wars 3.319 23.318** 7.024 4.400 33.457** 7.603
+Rebellion 1.893** 0.909 0.480** 1.796** 0.809 0.450***
+Spatiality Distance 1.103 1.302*** 1.180 1.062 1.357*** 1.277**
+Identity
+Title
+No 1 1 1 1 1 1
+Yes 0.302** 0.364** 1.201 0.254*** 0.453** 1.782
+Bargaining Power
+Family Affiliation
+No 1 1 1 1 1 1
+Yes 1.464 4.331*** 2.957** 0.896 4.275*** 4.771**
+Warzone 0.952 1.005 1.055 0.949 1.042 1.097
+Sultan Behavior
+Elapsed 0.930* 1.027 1.104** 0.957 1.030 1.076*
+Rules Justification 0.314* 0.462** 1.471 0.745 0.450** 0.603
+N 344 344 344 360 360 360
+Pseudo R2 0.2451 0.2451 0.2451 0.2475 0.2475 0.2475
+LR Chi2 144.92 144.92 144.92 128.45 128.45 128.45
+Prob Chi2 0.0000 0.0000 0.0000 0.0000 0.0000 0.000
+
+
+38
+Appendix B: Sources of Data
+Ali Emiri Sultan Abdülhamid I
+304/20407
+Ali Emiri Sultan Mustafa III
+26/1797, 193/15240
+Ali Emiri Sultan Selim III
+5/244, 70/4188, 144/8720, 174/10429, 189/11380, 221/12949, 269/15545, 357/20462, 361/20660, 410/23604
+Başmuhasebe Kalemi Muhallefat Halifeliği Defterleri
+5618, 12442, 12456, 12571, 12585, 12586, 12587, 12590, 12591, 12592, 12593, 12594, 12597, 12603, 12606, 12609, 12612, 12617, 12618, 12619, 12620, 12629, 12634, 12635, 12636, 12637, 12639, 12640, 12652, 12653, 12654, 12656, 12657, 12659, 12660, 12662, 12663, 12664, 12666, 12668, 12669, 12670, 12671, 12673, 12674, 12675, 12676, 12677, 12678, 12679, 12680, 12681, 12682, 12683, 12684, 12685, 12686, 12690, 12691, 12694, 12695, 12696, 12697, 12698, 12699, 12701, 12702, 12703, 12704, 12705, 12706, 12708, 12710, 12711, 12712, 12713, 12714, 12717, 12719, 12720, 12721, 12722, 12723, 12725, 12726, 12727, 12728, 12730, 12731, 12732, 12733, 12734, 12735, 12736, 12739, 12746, 12748, 12749, 12750, 12752, 12754, 12756, 12757, 12758, 12759, 12761, 12763, 12766, 12769, 12771, 12772, 12774, 12775, 12777, 12778, 12779, 12781, 12782, 12784, 12785, 12786, 12788, 12789, 12790, 12793, 12794, 12796, 12797, 12799, 12800, 12801, 12802, 12803, 12805, 12806, 12807, 12808, 12809, 12810, 12812, 12813, 12814, 12815, 12816, 12817, 12818, 12819, 12822, 12823, 12826, 12828, 12829, 12830, 12831, 12832, 12836, 12837, 12838, 12839, 12840, 12841, 12842, 12843, 12844, 12846, 12847, 12848, 12849, 12852, 12853, 12854, 12855, 12856, 12858, 12859, 12860, 12861, 12862, 12863, 12864, 12865, 12866, 12867, 12868, 12869, 12870, 12872, 12873, 12876, 12878, 12882, 12883, 12884, 12885, 12886, 12887, 12888, 12889, 12890, 12892, 12894, 12895, 12896, 12898, 12899, 12900, 12901, 12902, 12906, 12907, 12908, 12909, 12910, 12912, 12913, 12914, 12915, 12917, 12918, 12919, 12920, 12921, 12922, 12923, 12924, 12925, 12926, 12928, 12929, 12930, 12931, 12932, 12934, 12936, 12937, 12938, 12939, 12940, 12941, 12942, 12943, 12945, 12946, 12948, 12949, 12950, 12952, 12955, 12956, 12957, 12958, 12960, 12961, 12962, 12963, 12964, 12966, 12967, 12968, 12969, 12970, 12972, 12975, 12979, 12980, 12981, 12982, 12983, 12984, 12985, 12986, 12988, 12989, 12990, 12992, 12993, 12995, 12996, 12997, 12998, 12999, 13001, 13002, 13003, 13004, 13005, 13006, 13007, 13008, 13009, 13010, 13011, 13012, 13013, 13014, 13015, 13016, 13017, 13018, 13020, 13022, 13023, 13024, 13025, 13027, 13028, 13029, 13030, 13031, 13034, 13035, 13036, 13037, 13038, 13039, 13040, 13044, 13046, 13047, 13048, 13049, 13050, 13051, 13052, 13053, 13055, 13056, 13057, 13059, 13060, 13061, 13062, 13063, 13064, 13068, 13069, 13070, 13071, 13072, 13074, 13075, 13076, 13077, 13079, 13081, 13082, 13084, 13085, 13086, 13087, 13088, 13089, 13090, 13091, 13092, 13093, 13094, 13095, 13097, 13098, 13099, 13100, 13101, 13102, 13103, 13107, 13110, 13111, 13112, 13114, 13115, 13116, 13117, 13119, 13120, 13121, 13122, 13123, 13125, 13126, 13129, 13130, 13131, 13132, 13133, 13134, 13135, 13136, 13137, 13140, 13141, 13142, 13143, 13144, 13145, 13151, 13152, 13153, 13155, 13156, 13158, 13159, 13160, 13161, 13162, 13163, 13164, 13165,
+
+
+39
+13166, 13167, 13168, 13170, 13171, 13172, 13173, 13174, 13175, 13176, 13177, 13179, 13180, 13181, 13182, 13183, 13185, 13186, 13187, 13188, 13190, 13191, 13192, 13193, 13194, 13195, 13196, 13197, 13198, 13199, 13200, 13202, 13203, 13204, 13205, 13206, 13207, 13208, 13209, 13210, 13211, 13215, 13216, 13217, 13218, 13220, 13221, 13222, 13223, 13224, 13225, 13226, 13227, 13228 ,13229, 13231, 13232, 13234, 13235, 13236, 13237, 13238, 13239, 13240, 13241, 13244, 13246, 13247, 13248, 13251, 13252, 13253, 13254, 13255, 13256, 13257, 13258, 13259, 13260, 13261, 13262, 13263, 13264, 13265, 13267, 13268, 13269, 13271, 13273, 13275, 13277, 13278, 13279, 13281, 13282, 13283, 13284, 13285, 13286, 13289, 13290, 13291, 13292, 13293, 13294, 13295, 13296, 13297, 13298, 13299, 13300, 13301, 13302, 13303, 13304, 13305, 13306, 13307, 13308, 13309, 13310, 13311, 13312, 13313, 13314, 13317, 13318, 13319, 13320, 13321, 13323, 13324 ,13325, 13326, 13327, 13329, 13330, 13331, 13332, 13336, 13337, 13339, 13340, 13341, 13342, 13343, 13345, 13347, 13348, 13349, 13350, 13351, 13359, 13360, 13361, 13362, 13363, 13365, 13366, 13367, 13368, 13369, 13370, 13371, 13372, 13373, 13374, 13375, 13379, 13380 ,13381, 13382, 13383, 13384, 13385, 13386, 13387, 13389, 13390, 13392, 13393, 13395, 13398, 13399, 13403, 13405, 13412, 13423, 13429, 13432, 13436, 13437, 13440, 13443, 13444, 13445, 13446, 13448, 13451, 13452, 13454, 13455, 13463, 13464, 13465, 13466, 13467, 13469, 13470, 13472, 13473, 13474, 13476, 13477, 13490, 13492, 13493, 13496, 13497, 13500, 13511, 13512, 13515, 13518, 13525, 13526, 13527, 13528, 13529, 13530, 13532, 13533, 13536, 13537, 13538, 13540, 13541, 13543, 13544, 13545, 13546, 13547, 13548, 13552, 13553, 13555, 13557, 13561, 13562, 13563, 13564, 13565, 13566, 13569, 13572, 13575, 13576, 13577, 13579, 13580, 13582, 13583, 13586, 13587, 13594, 13599, 13601, 13604, 13605, 13607 ,13608 ,13610, 13611, 13612, 13613, 13614 ,13616 ,13617 ,13619 ,13620, 13621, 13622, 13623, 13626, 13627, 13628, 13629, 13631, 13633, 13634, 13635, 13636, 13637, 13639, 13664, 13665, 13666, 13667, 13668, 13669, 13670, 13671, 13672 ,13673, 13674, 13675, 13676, 13677, 13678, 13680, 13681 ,13682, 13683, 13684, 13685, 13686, 13687, 13688, 13689, 13690, 13692, 13694, 13695, 13696, 13697, 13701, 13702, 13703, 13704, 13708, 13710, 13711, 13712, 13713, 13714, 13715, 13716, 13717, 13718, 13719, 13720, 13721 ,13722 ,13723 ,13724, 13725 ,13726, 41354
+Başmuhasebe Kalemi Zimmet Halifeliği
+13937
+Büyük Ruznamçe Kalemi Sergi Halifeliği
+21300, 21303
+Cevdet Adliye
+9/566, 61/3687, 84/5073, 101/6095, 104/6253, 105/6277, 25/1512, 45/2751, 54/3288, 55/3327, 60/3628, 61/3673, 62/3729, 62/3730, 63/3754, 93/5603, 93/5604, 95/5687, 703/28713
+Cevdet Askeriye
+1041/45716
+Cevdet Dahiliye
+2/83, 142/7090, 156/7795, 159/7901, 175/8713, 177/8815, 182/9098, 188/9381, 217/10808
+Cevdet Maliye
+
+
+40
+42/1942, 69/4129, 70/3229, 82/4979, 95/4268, 95/4269, 95/4270, 105/4660, 144/6093, 167/7001, 189/7845, 227/9489, 243/10117, 243/10130, 255/10503, 269/11038, 317/13048, 326/13431, 336/13768, 336/13774, 339/13926, 357/14626, 358/14690, 369/15158, 373/15355, 374/15389, 375/15406, 376/15449, 389/15918, 395/16165, 427/17283, 428/17301, 445/17993, 448/18138, 451/18257, 481/19623, 481/19624, 489/19929, 492/20005, 504/20468, 504/20496, 505/20550, 558/22906, 576/23646, 578/23731, 583/23998, 613/25271, 624/25689, 650/26610, 662/27099, 703/28713, 714/29165, 719/29421, 735/30007, 748/30460, 749/30520, 759/30930, 30930, 762/31051, 769/31398, 774/31578, 776/31697, 777/31744, 780/31846, 784/31951
+Darphane-i Amire
+692/1245, 9/427, 693, 1246
+Hattı Humayunlar
+105/4117C
+Kamil Kepeci Defterleri
+2397, 2448, 2450, 2451, 2452, 2455, 2456, 2459, 2460, 2462, 2463, 3294, 3295, 3296, 3297, 753
+
+
+41
+Footnotes
+1 The roots of this view can be traced back to early modern intellectuals such as (Machiavelli 2007), (Smith 1937), (Bodin 1955). 2 Halil İnalcık writes that “although Islamic law strictly forbids confiscation of private property from either Muslims or non-Muslims, the property of the tax-farmer or any government-related fortunes were always suspect as to their origin and were therefore subject to confiscation.” Yet the breakdown of the traditional fiscal-military system in the eighteenth century significantly made the practice of confiscation more selective than before. Thus, we cannot consider, at least in the eighteenth-century context, what İnalcık claims as a rule applicable to all periods of Ottoman history. 3 New Economic Geography suggests that economic activity is inherently unevenly distributed in terms of space (Mackinnon and Cumbers 2007: 27). The same logic can be applied to the spatial use of sovereign power. For this, see: (Allen 1997: 65-69) 4 Working with Ottoman titles is somewhat tricky. For example, it could well be that someone was mentioned with more than one title in different sources. When it comes to social class, I mean the one identified in Ottoman political terminology, primarily the well-known dichotomy between askeri and reaya (militaryadministrative and ordinary subjects). For more on the interpretation of Ottoman titles, see: (Coşgel and Ergene 2015: 182) 5 Property rights of merchants were generally well-respected. This is evident, for example, in a story narrated by the chronicler Naima. Here Derviş Mehmed Paşa, the governor of Basra reports the misbehavior of a certain Murtaza Paşa who was allegedly confiscating the wealth of merchants in this port city: “Our majesty! That castle at the shore is under the protection of the sultan. For many years the commodities of the merchants are kept there safely, and no one attacks this castle. The wellbeing of Basra and other port cities depends on the merchants, and confiscation of these commodities will result in the ruin of the country. Merchants are the immaterial treasure of the sultans. Persecuting merchants and confiscating their money and commodities can be observed neither in Islamic countries, nor in others. Be generous and surrender this ambition (Naima 1968).” 6 Choice models are widely used in migration economics. In these, various choices of migrants such as whether to migrate, where to migrate, or which occupation to choose are estimated by choice models, either binary or nominal. The use of multinomial regression is not popular either in economics or economic history. For one of the exceptions, see: (Dribe, Olsson, and Svensson 2012) 7 The baseline data on war pressure has been gathered from Şevket Pamuk. I have adjusted it according to the needs of this study by employing their main source: (Clodfelter 2008). Formula used in (Pamuk and Karaman 2013) can be found in the appendix of their paper. It suffices to say here that the variable is based on the number of casualties, including captives and missing soldiers and leaving off deaths among civilians. 8 Ports considered as major ports are: Thessaloniki, İzmir, Antalya, Mersin, Beirut, Samsun and Trabzon. Istanbul was excluded for it is irrelevant for our purposes. The names of major ports have been derived from: (Balzac 1992). 9 The data on warzones comes from: (Clodfelter 2008).

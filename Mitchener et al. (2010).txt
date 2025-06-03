@@ -1,0 +1,408 @@
+27
+Why Did Countries Adopt the Gold
+Standard? Lessons from Japan
+KRIS JAMES MITCHENER, MASATO SHIZUME, AND
+MARC D. WEIDENMIER
+Why did policymakers adopt the gold standard? We first examine the political economy of Japan’s adoption of the gold standard in 1897 by exploring the ex ante motives of policymakers as well as how the legislative decision to adopt gold won approval. We then show that joining the gold standard did not reduce Japanese interest rates or lead to a domestic investment boom. However, we find that membership in the gold standard increased Japan’s exports by lowering transactions costs. Joining gold allowed Japan to tap into its growing share of global trade that was centered on the gold standard.
+hy did countries join the gold standard? Recent research in economic history has generally focused on two explanations. Michael Bordo and Hugh Rockoff argue that adherence to the monetary rule was “a good housekeeping seal of approval,” which signaled to international capital markets that countries were committed to pursuing prudent monetary and fiscal policies.1 Investors rewarded countries that joined the gold standard by lowering their cost of capital in financial markets by approximately 30 basis points.2 Another explanation for joining the gold standard focuses on international trade. Marc Flandreau and Mathilde Maurel, and Ernesto Lopez-Cordova and Christopher Meissner provide evidence that the gold standard increased bilateral
+The Journal of Economic History, Vol. 70, No. 1 (March 2010). © The Economic History Association. All rights reserved. ISSN 0022-0507. Kris James Mitchener is Associate Professor, Department of Economics, Santa Clara University, 500 El Camino Real, Santa Clara, CA 95053; and Research Associate, NBER. E-mail: kmitchener@scu.edu. Masato Shizume is Director and Senior Economist, Institute for Monetary and Economic Studies, Bank of Japan, Nihonbashi-Hongokucho 2-1-1, Chuo-ku, Tokyo 103-8660, Japan. E-mail: masato.shizume@boj.or.jp. Marc D. Weidenmier is Associate Professor, Department of Economics, Claremont McKenna College, 500 East Ninth Street, Claremont, CA 91711; and Research Associate, NBER. E-mail: mweidenmier@cmc.edu. We thank Simon Bytheway, Steve Quinn, Hisahiko Saito, and Michael Schlitz as well as seminar participants at Rutgers University, Kobe University, IFN, Warwick University, the Solvay Business School at Universite Libre de Bruxelles, and the Bank of Japan for comments and suggestions. We thank Genna Tan, Ronald Choi, and Lydia Fung for excellent research assistance. Kris James Mitchener also thanks the International Institute at UCLA for supporting this research while visiting as a Global Fellow, and Masato Shizume thanks Grants-in-Aid for Scientific Research for its financial support. 1 Bordo and Rockoff, “Gold Standard.” Flandreau and Zumer, Making; and Ferguson and Schularick, “Empire Effect” and “Thin Film” provide evidence that the gold standard did not reduce the cost of capital. 2 Obtsfeld and Taylor, “Sovereign Risk.”
+W
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+28 Mitchener, Shizume, and Weidenmier
+trade flows between 50 and 100 percent during the period 1870–1913 by reducing transaction costs or exchange-rate volatility.3 Although these studies correlate economic outcomes with the adoption of a hard peg, they provide little insight into the choice decision itself and whether contemporaries believed gold standard adoption would affect trade and borrowing costs. To understand why countries would willingly choose to tie the hands of their monetary authorities and join the gold standard, it is necessary to examine the policy debates at the time of adoption and the factors that led to adoption. Then, one can test whether adoption had intended effect or unintended consequences. In this article, we suggest that Japan’s adoption of the gold standard in 1897 provides a well-suited laboratory for understanding why countries adopted hard pegs and how such a decision affected their economies. Japan’s experience is particularly interesting for three reasons. First, since late-nineteenth-century Japan was a small open economy with an expanding trade sector and a desire to borrow in international capital markets, its experience may help us better understand the decision making of countries that adopt hard pegs today. Second, Japan’s historical archives provide detailed information on the political economy of gold standard adoption. Furthermore, primary source materials from the nineteenth century also permit us to collect high frequency price and yield data on domestic stocks and bonds as well as annual data on bilateral trade flows that can be used to test ex ante and ex post economic effects of gold standard adoption. Third, previous researchers have argued that Japan represents the canonical case of a country benefiting from lower borrowing costs after adoption of a hard peg.4 We examine whether policymakers viewed this as a central objective of gold standard adoption, and using a more complete database of Japanese sovereign debt and domestic debt issues, we reassess whether borrowing rates actually fell after adoption. Evidence from the legislative debates of the 1890s suggests that policymakers believed gold standard adoption could impact borrowing costs, debt issuance, domestic investment, and trade. We show that the ruling government was able to engineer passage of the Gold Standard Act of 1897 by gaining the legislative support of a key opposition party during committee deliberations. Without the support of the Progressives, Prime Minister Masayoshi Matsukata would not have been able to carry the vote.
+3 Flandreau and Maurel, “Monetary Union”; and Lopez-Cordova and Meissner, “ExchangeRate Regimes.” The precise mechanism is not specified. 4 Sussman and Yafeh, “Institutions”; and Mauro, Sussman, and Yafeh, Emerging Markets.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 29
+Although some participants in the parliamentary debates suggested that Japan would benefit from lower rates of borrowing, we find no discernable trend in bond prices that would indicate that investors anticipated lower rates of borrowing. Furthermore, after it adopted the gold standard, Japan’s realized rates of borrowing in both international and domestic capital markets did not fall. Likewise, we find no evidence of domestic investors’ bidding up stock prices in anticipation of an investment boom, nor do we observe a boom in domestic investment in the wake of adopting the gold standard. Japanese policymakers also suggested that going onto gold would affect trade, but they were decidedly mixed as to whether it would increase it or reduce it. In examining the ex post effects of adoption, we find that both the opponents of adopting the gold standard (such as the business community, which had argued that Japan was receiving large benefits from being on silver) as well as proponents (such as the ruling government, which had argued Japan would benefit from lower transactions costs and exchange rate volatility) turned out to be correct. Estimates from a gravity model of Japanese exports suggest that Japan received a large boost in trade when Japan and its partners were on the silver standard. However, gold standard adoption also significantly boosted exports and trade. It did so in two ways. First, Japan adopted the currency system through which most of the world’s trade was being conducted by the end of the nineteenth century. By joining the gold standard, it lowered transactions costs and exchange rate volatility vis-à-vis other gold standard countries. The fact that it abandoned its regional and historically relevant silver standard trading partners for the gold standard enabled it to plug into the monetary system through which most of the world’s trade was being conducted by the end of the nineteenth century. By 1897 approximately 60 percent of Japanese exports and total trade were with countries that were on gold (or countries taking measures to join the gold club within a couple of years). Second, Japan’s fortuitous timing of gold standard adoption proved beneficial for some of its exports. In particular, Japanese exports to silver standard countries received an additional boost in competitiveness because Japan adopted the gold standard right as silver began to appreciate against gold.
+THE DECISION TO ADOPT GOLD
+During the Meiji period, Japan parted ways with its feudal past, turning outward in its orientation (initially induced by the “gunboat
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+30 Mitchener, Shizume, and Weidenmier
+diplomacy” of Western powers).5 It developed industries and trading companies that sold products such as silk in overseas markets and borrowed internationally to fund internal improvements and facilitate the movement of goods and people.6 At the same time Japan forged a national economy, it experimented with institutions to foster economic growth and stability. It introduced a national currency in 1871, it imported the U.S. model of a national banking system in 1872, and in 1876, allowed these national banks to issue paper notes backed by government bonds. These early monetary institutions resulted in unsustainably high inflation rates in the late 1870s and early 1880s, and paved the way for the Japanese government to centralize control over the money supply by founding the Bank of Japan in 1882, whose convertible notes hastened the demise of commercial bank note issuance. Japan adopted the silver standard in May 1885 and had made all yen-denominated paper money issued by the government convertible to silver by January 1886. It stayed on the silver standard for eleven years. Beginning in 1893 the government made preparations to join the gold standard. The finance minister, Count Masayoshi Matsukata, initiated the program. The government formed the Committee on the Monetary System to explore the global causes of gold-silver price fluctuations and their consequences on the Japanese economy, and recommended a monetary standard that would be best suited for Japan. The committee submitted its final report to Matsukata, on July 3, 1895. Only one of the seven task force members, a protégé of Matsukata, insisted on an immediate move to the gold standard. Of the 15 members on the main committee, seven wanted to retain silver, six suggested moving to gold at some point in the future, and two desired a bimetallic standard. Most of the committee members supporting gold standard adoption were bureaucrats and politicians with close relationships to Matsukata, whereas opponents were largely business leaders and academics. Despite the tepid response of the committee, Matsukata continued to press for monetary reform, and was emboldened to do so once China was forced to pay a large indemnity to Japan at the conclusion of the Sino-Japanese War in 1895. Matsukata’s strategy was to request that China pay the indemnity in pound sterling in London even though the original treaty stated it would be paid in silver taels. The pound sterling would then enable Japan to acquire gold reserves so that it could move onto the gold standard.
+5 For more details of the institutional settings of Meiji Japan and the background of the policy debates, see Mitchener, Shizume, and Weidenmier, “Why Did Countries?” 6 Its first national debt, issued in London in 1870, financed railway construction.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 31
+After acquiring gold reserves in overseas markets in March of 1897, the ruling government (led by Matsukata, who had been both prime minister and finance minister since September 1896) officially submitted legislation to the Imperial Diet authorizing a gold standard. Once the bill was introduced, fierce debate erupted in the legislative branch of the Japanese government. Although a relatively new political institution, the Japanese Imperial Diet of the 1890s served as a counterweight to the prime minister-led positions of the emperor’s ruling government.7 During the 1890s the Diet routinely rejected and cut the budget prepared by the ruling government, including military projects, hence exercising its right to provide a check on the national budget. In contrast, the military was not a major political player until at least the end of the Russo-Japanese War (1904/05).8 Without the support of at least some factions of the two major opposition parties (the Progressives and the Liberals), the ruling government stood little chance of passing any legislation, including authorization to establish the gold standard in the 1890s. For example, in September 1896, when Matsukata formed the cabinet, with which he eventually introduced the gold standard, there were 111 Liberals, 99 Progressives, and at most 89 out of the 300 seats (one vacant) of the House of Representatives (lower house of the Diet) who could be counted as supporting the ruling government (Table 1). National legislators such as Atsushi Kawashima, a member of Giin Kurabu [Assembly Members’ Club], a political faction that supported the ruling government, backed Matsukata’s position and made spirited arguments in favor of adoption. Kawashima argued, for instance, that “financial credibility would be improved” and opined that it would not only enhance Japan’s military power and domestic economy, but also stabilize Japanese finances. Japan’s yen-based payments would not be subject to exchange-rate risk. Kawashima suggested that adopting gold would enhance foreign investors’ faith in Japanese government debts and help Japan attract foreign capital at reduced rates, which could be used to build up a stronger military and promote domestic business activities.9 Legislative proponents also argued that going on gold would enhance trade. For example, Kawashima commented that “to compete with other countries in the trade sphere, we must have the common world currency
+7 Muramatsu, Ito, and Tsujinaka, Japanese Politics, p. 82. 8 Harada, “Sino/Russo-Japanese War,” pp. 34–42. 9 Imperial Diet, Minutes. Other policymakers, however, suggested this was unnecessary as Japan could simply issue debt denominated in gold.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+32 Mitchener, Shizume, and Weidenmier
+TABLE 1 COMPOSITION OF THE HOUSE OF REPRESENTATIVES, SEPTEMBER 1896 (Lower House of Diet)
+Party Affiliation Members in Diet Voting Coalition
+People’s Association 32 Government-oriented party Others/Independent 57 Government-oriented parties Progressive Party 99 Strategic alliance Liberal Party 111 Opposition party Total 299
+Notes: Members of “the government-oriented parties” (small parties associated with the ruling government and the People’s Association) were expected to vote for the adoption of the gold standard as they were supporters of Matsukata and the government’s favorable view of the gold standard. The ruling government formed a “strategic alliance” with the Progressive Party in September 1896; it was then expected that the Progressives would also vote in favor of gold standard adoption. Members of opposition parties (like the Liberals and the Progressives prior to their September 1896 alliance with the government) were expected to vote against the gold standard. Source: House of Representatives and House of Councilors, Seventy Years History.
+as others do . . . The gold standard is beneficial for the development of commerce and industries. Japan’s main trading partners are the gold standard countries.”10 Ministry of Finance officials had drawn similar conclusions in the 1895 report, arguing that “many of the once-famous silver standard countries such as Mexico . . . have already moved to the gold standard. These trends indicate the natural course for Japan in financial and economic spheres.”11 In addition to the benefits arising from what are now referred to as network externalities, politicians in the same camp as Kawashima suggested that gold standard adoption would reduce exchange-rate volatility and currency risk. Proponents of the gold standard suggested that adoption might also lead to an investment boom: “If we introduce the gold standard, foreign capital will invest in the Japanese markets and buy Japanese government bonds and private securities, and the Japanese commerce and industries will be booming.”12 Before becoming law, the legislation would have to first clear a vote at the committee level and then before the entire Diet. While the proponents of going onto the gold standard had the powerful backing
+10 Ibid. 11 Yoshio Sakatani’s remark in Committee on the Monetary System, Final Report. 12 Imperial Diet, Minutes; and Ministry of Finance, Meiji Financial History, pp. 182–83. In the introductory speech given to the Diet, Matsukata suggested that the way the gold standard would increase exports was by reducing price fluctuations and making commercial transactions more convenient (Matsukata’s speech cited in “The Gold Standard,” The Oregonian, 7 August 1897). Matsukata may have also believed that adopting gold would increase the prestige and standing of Japan internationally, and that it was broadly consistent with the national goals of modernizing Japan’s economy and military.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 33
+of Matsukata and the Ministry of Finance, many other legislators believed that adopting the gold standard would hurt the Japanese economy and that the timing was not propitious. They noted that the majority opinion of the 1895 report had concluded that recent fluctuations in the gold-silver price (while Japan was on the silver standard) had increased the volume of exports, reduced the burdens of debtors and fixed taxpayers, created a boom in agriculture, and led to prosperity in commerce and industry. As Eiichi Shibusawa, one member of the 1895 committee and a prominent business leader wrote: “The exports to gold standard countries increased by more than 260 percent from 1878 to 1893 while the imports from these countries only increased by 70 percent over the same period. This is because the price of exports has fallen while the price of imports has risen. This has promoted the development of industries, technical progress, and growth in the demand for labor. These benefits exceed the costs of being a silver standard country.”13 Business leaders such as Shibusawa argued that staying on silver would be consistent with Emperor Meiji’s goals of “bringing more wealth to the nation, and building a stronger military (fukoku kyouhei).” Shibusawa wrote, “The effects of the recent fluctuation in parity of gold and silver are quite beneficial to our economy in general under the current monetary system. Japanese exports to gold standard countries have increased more than imports from them. This is because the price of exported goods falls, while the price of imported goods increases. This has promoted development of industries, import substitution of many products, technical progress, growth in the demand for labor, and expanded national wealth. These benefits exceed the costs of being a silver standard country. If Japan introduces the gold standard, prices would fall, and business conditions would deteriorate, affecting the economy and society badly.”14 The business community was also largely in favor of remaining on the silver standard as export-producing sectors of the economy had benefited from the depreciation of silver. As economist Garrett Droppers stated in 1898: “From 1886 to 1897, a period of over a decade, it is doubtful whether there was the slightest demand for return to the gold standard. On the contrary, every so-called decline of silver was hailed with general satisfaction by those engaged in industrial and commercial pursuits.”15
+13 Committee on the Monetary System, Final Report. 14 Ibid. 15 Droppers, “Monetary Changes,” p. 164.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+34 Mitchener, Shizume, and Weidenmier
+Opposition from the business community to the gold standard was, in part, a function of the more unified voice of exporters. Based on data from the 1890s, Japan’s exports were concentrated in a few key commodities and industries. Forty-one percent of Japanese exports were silk products, and 27 percent were tea, rice, and matches.16 The value added of these commodities was almost entirely domestic, and Japanese producers of these goods had gained the most from the depreciation of the silver yen against gold standard currencies. In contrast to exports, there was no single import that accounted for a large portion of total imports. Raw cotton accounted for 19 percent, sugar for 10 percent, machinery for 9 percent, and petroleum for 4 percent. Given that imports were used as inputs into a variety of products or were final goods sold to consumers, it proved more difficult for policymakers to drum up support from the business community to jettison the silver standard, since no one industry was experiencing a disproportionate rise in input prices (due to the depreciation of silver). Politicians opposing the gold standard sided with the business community and many members of the Committee on the Monetary System in arguing against adoption. Kungoro Shigeoka of the opposition Liberal Party argued that Japan’s export industries would be hurt since the price of silver had been declining relative to gold while Japan was on the silver standard. He reasoned that the increase in exports outweighed the costs of exchange-rate volatility: “Although fluctuations in goldsilver exchange rates might induce some inconvenience for foreign trade, the advantages in competitiveness for the silver standard surpass the inconvenience effect.” Shigeoka also maintained that adoption of gold would commit Japan to persistent trade deficits driven by cheap imports and expensive exports (due to gold’s appreciation relative to silver). Ironically, it was the export boom during the silver standard that may have allowed Japan to go on the gold standard. Edward Miller argues that export revenues during the period of silver deflation enabled the Imperial Navy of Japan to purchase British cruisers, defeat China in the SinoJapanese War of 1894/95, and acquire the indemnity payable in gold, which made it possible to go onto the gold standard.17 In addition, Shigeoka claimed the time was not right because Japan had no tariff autonomy. The so-called “unequal treaties” it was forced to sign with European powers and the United States in the 1860s limited its ability to set tariff rates on imports. He also argued that, even if going on gold would allow Japan to borrow at lower rates, these rates
+16 Figures are average shares of exports based on data from 1893–1897. 17 Miller, Bankruptcy.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 35
+would only be temporary: the fall in exports to gold countries (due to leaving silver) would cause foreign investors to lower their assessment of Japan’s growth rate and, in the end, result in Japan having to borrow at higher rates.18 Despite this opposition, Matsukata and his allies prevailed by forging a strategic alliance with a key opposition party, the Progressive Party (Shinpo-to). In particular, when Matsukata formed the cabinet in September 1896, and as a condition of his acceptance of the post of prime minister, he offered the post of foreign minister to Shigenobu Okuma, the leader of the Progressive Party (another large political party in Japan).19 Indeed, the ruling government found itself in a crisis of leadership after the resignation of Prime Minister Ito in 1896, and commentators believed that the “Matsukata-Okuma coalition seems the only appropriate outcome of the crisis.”20 As Table 1 shows, the Progressive Party was a key player in the Diet and one of two parties that, along with the Liberals, had often voted to block the government’s legislation. More importantly, the Progressive Party was well represented on the House of Representatives Special Committee on Monetary System to which the legislation was referred. Matsukata also bought off some Liberal party members, a subset of which established the New Liberal Party (Table 2).21 When the voting record and composition of the committee is examined more carefully, it is apparent that without the support of Progressives (who held the committee chair and made up 8 of the 26 voting members), the legislation would have stalled at the committee level. To verify the importance of Matsukata’s alliance, we regressed each committee member’s vote on individual characteristics, including party affiliation (whether the member was part of the progressive-ruling party coalition), occupation (whether the member had served as a public servant), and district of representation (whether the member was from a silk growing region, the key export at this time). The coefficient on party (positive and statistically significant) suggests that committee members voted according to party affiliation (Table 3). With the support of the Progressives and some of the Liberals, the legislation narrowly passed 14 to 12.
+18 Imperial Diet, Minutes. 19 “Japanese Politics,” London Times, 4 December 1896, 8. 20 Idem. 21 A contemporary reported that some 40 members from the Liberal Party were bought off by Matsukata’s allies (Masumi, Thesis, p. 281).
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+36 Mitchener, Shizume, and Weidenmier
+TABLE 2 MEMBERS OF THE SPECIAL COMMITTEE ON MONETARY SYSTEM, HOUSE OF REPRESENTATIVES (1897)
+Last Name First Name
+Gold Standard Vote Party Coalition
+Electoral District Previous Profession
+Taketomi Tokitoshi neutral
+(chair) Progressive Ruling Saga politician
+Ito Tokutaro against Liberal Opposition Chiba business (landlord)
+Kurihara Ryoichi against Liberal Opposition Mie journalist (political)
+Shigeoka Kungoro against Liberal Opposition Ehime politician (lawyer)
+Horiuchi Kashikuro against Liberal Opposition Nagano business (landlord)
+Takahashi Anji against Liberal Opposition Saitama lawyer
+Tanaka Ichibeye against Business Opposition Osaka business (merchant)
+Matsuo Kanzo against Business Opposition Saga business (entrepreneur)
+Kosaka Zennnosuke against Business Opposition Nagano business (landlord)
+Amano Izaemon against Progressive Ruling Aichi business (merchant)
+Taguchi Ukichi against Progressive Ruling Tokyo journalist (economist)
+Wada Hikojiro against People Opposition Hiroshima business (landlord)
+Motoda Hajime against People Opposition Oita politician (lawyer)
+Takada Sanae for Progressive Ruling Saitama education
+Abe Okindo for Progressive Ruling Tokushima business (entrepreneur)
+Hamaguchi Kichiemon for Progressive Ruling Wakayama business (merchant)
+Shimada Takayuki for Progressive Ruling Toyama politician
+Nakano Buei for Progressive Ruling Tokyo business (stock exchange)
+Fujita Tatsuyoshi for Progressive Ruling Ehime business (merchant)
+Higashio Heitaro for Progressive Ruling Osaka business (landlord)
+Nakamura Kokusho for New-Liberal Ruling Kanagawa business (merchant)
+Kawarabayashi Yoshio for Liberal Opposition Kyoto business (rice trader)
+Komatsu Sansei for Liberal Opposition Kochi journalist
+Tsutsumi Michihisa for National Ruling Fukuoka bureaucrat (police officer)
+Kashiwada Morifumi for Assembly Ruling Kagoshima politician
+Kawashima Jun for Assembly Ruling Kagoshima bureaucrat (MOFA, MOF)
+Inoue Kakugoro for Independent Ruling Hiroshima business (entrepreneur)
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 37
+TABLE 2 — continued Notes: After a strategic alliance was formed between Matsukata’s ruling government and the Progressive Party, there was a change in the affiliation of party members. By March 1897, when the bill for the adoption of the gold standard was introduced to the Diet, “the governmentoriented parties” were the Progressive Party, Assembly Members Club, Nationalist Club, and New Liberal Party (which was separated from Liberal Party). “The opposition parties” were the Liberal Party, Businessmen’s Club, and People’s Association. MOFA is the Ministry of Foreign Affairs and MOF is the Ministry of Finance. Sources: House of Representatives and House of Councilors, Seventy Years History; House of Representatives, “Minutes of Committees”; Kodansha, Who’s Who; Sanseido, Biographic Encyclopedia; and Ooue, Meiji Obituary.
+This coalition again proved sustainable when the debate moved to the full Diet. The bill cleared the House of Representatives and the House of Lords and was proclaimed law on March 29th. The new currency act took effect on October 1, 1897.
+DID GOLD STANDARD ADOPTION AFFECT INTEREST RATES?
+Many of the arguments made in favor of gold standard adoption in the 1890s are quite similar to those made today: the ability to tap international capital markets at lower rates of borrowing, reduced exchange-rate instability, and greater trade. We now turn to assessing the consequences of gold standard adoption in order to examine whether policymakers’ ex ante beliefs about the effects of the gold standard were anticipated by market participants and whether they are consistent with realized outcomes. We begin with an assessment of the effects of gold standard adoption on sovereign bond yields. One testable implication of committing to a policy rule such as the gold standard is that it could lower the cost of borrowing internationally.22 Indeed, Japan’s adoption of the gold standard has been frequently cited as a canonical case of the beneficial effects of joining the gold standard, and contemporary media reports noted that this was the principal purpose of joining gold.23 Nathan Sussman and Yishay Yafeh find that country risk of Japanese debt on the London market, defined as the current yield on a long-term Japanese bond minus the yield on the risk-free British consol declined more than 50 percent (or approximately 200 basis points) when the country joined the monetary
+22 Bordo and Kydland, “Gold Standard.” 23 “It is supposed that the principal object the government has in bringing about the change is to enable it, should such a measure become necessary or expedient, to negotiate a loan in Europe on better terms than would be possible, as they believe, if Japan remained on a silver basis.” (“Japan’s Gold Standard,” The Sentinel, 30 March 1897.)
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+38 Mitchener, Shizume, and Weidenmier
+TABLE 3 PREDICTING VOTING BEHAVIOR IN THE HOUSE SPECIAL COMMITTEE (1897)
+Public-sector profession 0.00
+0.74
+Political party 1.93***
+0.61
+Silk district –0.19
+–0.24
+Constant –0.92*
+0.48
+Pseudo R-squared 0.35
+Prob > Chi-squared 0.01
+* indicates significance at the 10 percent level. *** indicates significance at the 1 percent level. Notes: Probit regression where unity equals a vote by a committee member in favor of referring the gold standard legislation the full Diet. Source: See the sources in Table 2.
+rule in October 1897. They conclude that “the gold standard did significantly reduce the perceived risk associated with Japanese bonds.”24 For their analysis of sovereign yield spreads, Sussman and Yafeh spliced the 7 percent Japanese sterling bond issued in 1873 and paid off in 1897 with an unspecified long-term bond issued in 1897 or thereafter. They argue that this is the best approach for testing the effect of adopting the gold standard on Japanese yield spreads since “data on domestic bond yields do not exist for Japan until the beginning of the twentieth century.”25 Their unspecified debt series that begins in 1897 is most likely the War Loan bond (fully redeemed by 1950), which had been underwritten by the Deposit Money Bureau (the Treasury Fund) in 1895/96 and resold in London in 1897 as the Imperial Japanese 5 percent bond of 1897. We infer that this is the bond they
+24 Sussman and Yafeh, “Institutions,” p. 442. Using the data set from Sussman and Yafeh, Tomita, History, p. 263, reaches similar conclusions. 25 Sussman and Yafeh, “Institutions,” footnote 9, p. 446.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 39
+FIGURE 1 JAPANESE INTEREST RATES ON THE LONDON MARKET (BASIS POINTS), MAY 1873–JULY 1910
+Source: The Economist, weekly issues, 1873–1910.
+used since it was the only debt issue actively traded on the London market that fits the time series plot shown in their paper. Using the current yield on the 7 percent sterling loan and the 5 percent bond issue that appeared on the London market in October 1897, Figure 1 seems to suggest that there was a dramatic fall in interest rates.26 However, there are some problems with splicing the two different bond series, some of which were noted by Sussman and Yafeh, but which we explore in greater detail in order to illuminate the discussion of how bond yields reacted to gold standard adoption.27 The Japanese government retired the 7 percent sterling issue in the first half of 1897 and then sold
+26 Ibid, figure 1, p. 451. 27 See footnote 24 in Sussman and Yafeh, “Institutions,” p. 457.
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+May-73
+May-74
+May-75
+May-76
+May-77
+May-78
+May-79
+May-80
+May-81
+May-82
+May-83
+May-84
+May-85
+May-86
+May-87
+May-88
+May-89
+May-90
+May-91
+May-92
+May-93
+May-94
+May-95
+May-96
+May-97
+May-98
+May-99
+May-00
+May-01
+May-02
+May-03
+May-04
+May-05
+May-06
+May-07
+May-08
+May-09
+May-10
+Basis Points
+Week
+7% Sterling Bond of 1873
+5% War Loan Bond
+Japan joins gold standard
+Russo-Japanese War
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+40 Mitchener, Shizume, and Weidenmier
+TABLE 4 JAPANESE GOVERNMENT BONDS TRADED IN THE LONDON MARKET
+Name of Bond Issue
+Issuance Date
+Coupon Rate
+Issue Price (par = 100)
+Maturity Date
+Total Amount
+Means of Issuing/Listing
+9% Sterling bond 1870 9 98 1882 4,880,000 indirect subscription
+7% Sterling bond 1873 7 92.5 1897 11,712,000 indirect subscription Consolidated Public Loan bond 1896 5 — 1950 
+quotation of domestic bond on London market War Loan bond 1897 5 99.9 1950 43,000,000 resale of domestic bond First 4% Sterling bond 1899 4 90 1953 97,630,000 indirect subscription
+Sources: Ouchi, Nihon Zaisei Ron; Ministry of Finance, ed., Meiji-Taisho Zaisei Shi, vol. 11; and Suzuki, Japanese Government Loan Issues.
+new long-term 5 percent bonds that would be completely redeemed by 1950 in the second half of the year. Japan had long planned to retire the bond issue in 1897, which means that the drawing had no connection with the country’s decision to join the gold standard except for the fact that the two events coincidentally took place in the same year.28 Importantly, the redemption provisions of the 7 percent debt issue placed a floor on interest rates of 7 percent because investors knew that the bonds would be redeemed at par (where par = 100) by April 1897. This means that the current yield provides little evidence about the Japanese cost of capital since bond market investors would necessarily take a capital loss if they purchased the 7 percent bond at a price above par and paid the necessary transactions costs. An alternative test for measuring the effects of joining the gold club on Japanese country risk is to use a single bond issue that traded both before and after gold standard adoption. If one examines the Investors’ Monthly Manual (IMM), the 5 percent Consolidated Loan bond was traded on the London Stock Exchange around the time of adoption.29 Not only is this bond quoted in London, but it was originally issued in Tokyo and actively traded on the Japanese market. (Table 4 lists the bonds issued and/or listed in London during the sample period and discussed in this article.) It began trading in London July 1896 and had terms similar to the other bonds sold by the Japanese government on the British market in 1897. The Consolidated Loan bonds had a maturity length of 50 years and were callable after five years. The only significant difference between the Consolidated Loan and the War Loan
+28 Ministry of Finance, Meiji Financial History.
+29 This bond listed in the IMM as the “92-3-5 red” bond.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 41
+FIGURE 2 FIVE PERCENT CONSOLIDATED LOAN IN TOKYO AND LONDON, 1896–1902
+Source: The Economist and Tokyo Stock Exchange, Monthly Report, various issues.
+bond sold by the Japanese government immediately after gold standard adoption was that the War Loan bond was endorsed to be paid in sterling.30 Matsukata’s book on gold standard adoption confirms the existence of this domestic Consolidated Loan bond.31 Figure 2 shows that, in the months prior to adoption, investors did not anticipate that the gold standard would lower future borrowing costs. Figure 2 also shows that country risk increased after adoption. In March 1897 the Consolidated Loan bond traded at the average price of 105.5 pounds with par value of 100 pounds. After the proclamation of the gold standard, the price dropped month by month to 95.875 pounds in August. In October, the price rebounded a little to 99.25 pounds, but then continued its decline. It traded at 97 pounds in December 1897.
+30 Ministry of Finance, Meiji Financial History, p. 837. 31 Matsukata, Report, table L, p. 378.
+300
+350
+400
+450
+500
+550
+600
+Jan-96
+Apr-96
+Jul-96
+Oct-96
+Jan-97
+Apr-97
+Jul-97
+Oct-97
+Jan-98
+Apr-98
+Jul-98
+Oct-98
+Jan-99
+Apr-99
+Jul-99
+Oct-99
+Jan-00
+Apr-00
+Jul-00
+Oct-00
+Jan-01
+Apr-01
+Jul-01
+Oct-01
+Jan-02
+Apr-02
+Jul-02
+Oct-02
+Basis Points
+Month
+Tokyo Yield London Yield
+Japan joins gold standard
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+42 Mitchener, Shizume, and Weidenmier
+Contrary to what has been asserted in some previous studies of Meiji-era Japan (such as Sussman and Yafeh’s analysis), an active and liquid market for domestic government bonds existed within Japan. From their inception in 1878, the Osaka and Tokyo stock exchanges listed both government bonds and company stocks. Prices and yields of bonds trading domestically can be used to clarify further whether Japan’s adoption of the gold standard had any effects on its borrowing costs. From 1870–1896 the Japanese government issued seventeen bonds in the domestic market and two in the London market, the holdings of which were widespread during our sample period. This market appears to have been well integrated with the rest of the world. Comparing the quotations for the Consolidated Loan bond in the London and Tokyo markets in Figure 2, we observe that the movements between the debt series are nearly identical. The minor differences between the interest rates probably reflect the fact that yields from the domestic Japanese market are computed from the average monthly bond price, while the yields for the London series are calculated from end-of-month prices reported in the IMM. Nevertheless, the Johansen Maximum Likelihood Procedure indicates that the null hypothesis of no cointegration can be rejected at the 5 percent level of significance for the two interest rate series.32 The two Japanese bond price series share a common stochastic trend, suggesting that the London and Tokyo markets were integrated. As of December 1896 Tokyo Stock Exchange (TSE) listed six government bonds, one municipal bond and 80 company stocks. Included in these domestically listed issues were two long-term bonds that traded actively on the Tokyo exchange before and after the country adopted the gold standard: (1) the previously mentioned 5 percent Consolidated Loan of 175 million yen that was sold at various dates between 1887 and 1895 and (2) the 5 percent War Loan of 125 million yen that was issued to help pay for the Japanese War with China in 1894/95. The 5 percent Consolidated Loan bond was to be redeemed in 1951 and the 5 percent War Loan bond was to be redeemed in 1910. Both issues paid interest in silver yen before the country adopted the gold standard in October 1897. After joining the monetary rule, the Japanese government began making interest payments on its domestic debt obligations in gold yen. This means that joining the gold standard could have also reduced exchange
+32 The estimated values for the MAX and TRACE test statistics were 15.20 and 17.12, respectively. Both the lambda max and lambda statistics indicate that the null hypothesis of no cointegration for yields of the Consolidated loan on the London and Tokyo markets can be rejected at the 5 percent level of significance.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 43
+FIGURE 3 DOMESTIC JAPANESE INTEREST RATES (BASIS POINTS), MARCH 1887–JUNE 1910
+Source: Tokyo Stock Exchange, Monthly Report, various issues.
+rate risk, the risk associated with changes in the value of the currency, in addition to country or political risk. Figure 3 shows current yields for these two bonds from 1887–1910. They are highly correlated and do not seem to decline significantly with the introduction of the gold standard. Figure 3 suggests that domestic interest rates in Japan may have actually increased after the adoption of the gold standard. Nor do they seem to have fallen prior to formal adoption, which might suggest that investors were anticipating lower future borrowing costs. Simple summary statistics show that Japanese interest rates were more or less flat prior to adoption and increased by approximately 30 basis points in the six months after the country
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+Mar-87
+Mar-88
+Mar-89
+Mar-90
+Mar-91
+Mar-92
+Mar-93
+Mar-94
+Mar-95
+Mar-96
+Mar-97
+Mar-98
+Mar-99
+Mar-00
+Mar-01
+Mar-02
+Mar-03
+Mar-04
+Mar-05
+Mar-06
+Mar-07
+Mar-08
+Mar-09
+Mar-10
+Basis Points
+Month
+Consolidated Loan 5% War Loan 5%
+Japan joins gold standard
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+44 Mitchener, Shizume, and Weidenmier
+adopted the gold standard.33 We can gain some additional insight into whether investors were anticipating lower borrowing costs by examining reports from the investment community at that time. The Economist (p. 879) wrote on June 19, 1897 that “the Japanese imagine that because they are adopting a gold standard currency their 5 percent loans should command a higher price,” but they are trading below par (at 98 percent) and “if any large amount were placed on the market there would soon be a considerable decline in the price.” Finally, if adopting the gold standard was meant to improve Japan’s reputation in capital markets and allow it to issue more debt, the period directly after adoption is very revealing. Confident with the victory of the Sino-Japanese War and the introduction of the gold standard, in 1899 the government floated a new ¥100 million bond issue in London. It sold at 90 percent of par with a current yield of 4.45 percent—a much higher interest rate than predicted by Matsukata and the Japanese authorities. The Japanese government then purchased much of the outstanding issue at 86 percent of par, an even deeper discount with a yield of 4.65 percent.34 If we also account for the fact that the bonds were denominated in sterling, which reduced exchange rate risk, then the new debt issue offered about the same yield (4.8 percent) as the yendenominated consolidated bonds that traded in London. Moreover, this debt issue met with tepid response from foreign investors. Less than 10 percent of the primary issue was purchased in the London market. The Japanese government (with assistance from the Bank of Japan) responded by purchasing nearly 45 percent of the issue, with the underwriters having to absorb the remainder. Japan had believed its credit rating, after adopting gold was “between Germany and Italy,” but according to Toshio Suzuki and Mark Metzler, it had overestimated its creditworthiness in foreign markets. Later additional attempts to engage foreigners in purchasing these bonds (including attempts by J. P. Morgan and Co., Baring Brothers, and the Rothschilds) were rebuffed by investors.35 Furthermore, archival evidence suggests that if, anything, the reason why Japan issued little debt in the 1880s and early 1890s had more to do with fear of being colonized by foreign creditor governments than it did with not being on gold. For example in July 1880, former Finance Minister Shigenobu Okuma and former Internal Minister Hirobumi Ito jointly proposed the establishment of “the specie bank,” which
+33 Japanese interest rates increased by about 15 basis points in the six months prior to Japan joining the gold standard.
+34 Suzuki, Japanese Government Loan Issues. 35 Ibid; and Metzler, Lever.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 45
+would be the Japanese equivalent of the Bank of England or the Bank of France. To this end, they proposed to issue a government bond which would be salable to foreign investors.36 Fearing foreign control in Japanese affairs, Internal Minister Matsukata strongly opposed this idea, writing in September, “We are now in a vulnerable position without having the independence of tariff and justice. If we depended on capital of foreigners, who are superior in knowledge and financial power, we should be in a big trouble even though we might see a temporary inflow of specie. We would have nothing to do when Japan should be a country like Egypt, Turkey, or India.”37 Matsukata turned down the proposal, and two years later, as finance minister, he established the Bank of Japan, which was purely domestic.
+HOW DID GOLD STANDARD ADOPTION AFFECT TRADE?
+As identified by the parliamentary debates and the Committee on the Monetary System, policymakers also believed that trade would be impacted by the adoption of the gold standard, but there was considerable disagreement as to how it would affect trade. Some believed that maintaining the silver standard was beneficial to trade as it enabled Japan to sell its exports more cheaply to gold standard countries. Others argued that adopting gold would be beneficial for trade as it would lower exchange-rate volatility and transaction costs. Other policymakers noted that the gains from being on silver were transitory, based on a favorable silver-gold price that would not persist, and that going on gold would at least permit Japan to trade among a global trade network that was organized around gold and not silver. To test these three hypotheses, we estimate a gravity model of Japan’s bilateral export flows during the late nineteenth and early twentieth centuries. We collected data on bilateral trade flows between Japan and other countries from the Principal Trade of Foreign Countries of the British Board of Trade Statistics and from Japan’s Ministry of Finance, Annual Return of the Foreign Trade of the Empire of Japan. These two primary sources contain more than 800 annual observations on Japanese bilateral trade with twenty-six of its main trading partners for the years 1877–1912. The sample contains data on bilateral trade between Japan and countries from Asia, Europe, and North and South America including: Australia, Canada, China, England, French Indochina, Hawaii, Hong Kong, India, Korea, New Zealand, Philippines, Siam, Straits
+36 Okuma, Proposal. 37 Matsukata, Report.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+46 Mitchener, Shizume, and Weidenmier
+Settlement, Austria, Belgium, Denmark, France, Germany, Italy, Netherlands, Peru, Portugal, Spain, Switzerland, Russia, Turkey, and the United States. As in a standard gravity equation, mass (measured here by the size of countries) is proportional to trade, whereas distance should vary inversely. Given that we do not have GDP estimates for many of the dyadic trade pairs in our sample, we use population as a proxy for mass which has been shown to have a correlation of nearly 90 percent with output estimates for the classical gold standard period.38 We include additional covariates which are meant to capture other influences on bilateral trade. We include railroad track miles to proxy for the importance of transportation infrastructure in promoting bilateral trade flows. We include a dummy variable to indicate whether Japan’s trading partner is landlocked. A war indicator variable is included to take into account the fact that Japan fought two wars during our sample period; it equals 1 when Japan was at war with China (1894/95) or Russia (1904/05) for those respective dyads. We also code a Most Favored Nation (MFN) dummy variable as unity in cases where Japan has a reciprocal MFN arrangement (or in Korea and China where it imposed unilateral agreements during our sample period).39 The basic estimation equation is
+ln(Exportsit) = 0 + PaperBimetit + PaperPaperit + PaperGoldit + (1)
+4SilverSilverit + 5GoldGoldit + 6SilverGoldit + SilverPaperit +
+GoldPaperit + 9GoldSilverit 10MFNit + 11ln(Dist)i + 12Lndlcki +
+13ln(RRi)t + 14ln(Popi)t 15Wari,t-k + it
+where i denotes a trade partner of Japan, t denotes time, k denotes lags, and other variables are defined as:
+Exportsit denotes Japanese exports to country i at time t; PaperBimetit is a binary variable which is unity if Japan is on the paper standard and country i is on the bimetallic standard; PaperPaperit is a binary variable which is unity if country i and Japan are both on a fiat money standard; PaperGoldit is a binary variable which is unity if Japan is on a fiat money standard and country i is on the gold standard;
+38 Mitchener and Weidenmier, “Trade.” 39 We use data from Mitchener and Weidenmier, “Trade.”
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 47
+SilverSilverit is a binary variable which is unity if country i and Japan both are on the silver standard; GoldGoldit is a binary variable which is unity if country i and Japan are both on the gold standard; SilverGoldit is a binary variable which is unity if Japan is on the silver standard and country i is on the gold standard; SilverPaperit is a binary variable which is unity if Japan is on the silver standard and country i is on a fiat money standard; GoldPaperit is a binary variable which is unity if Japan is on the gold standard and country i is on a fiat money standard; GoldSilverit is a binary variable which is unity if Japan is on the gold standard and country i is on the silver standard; MFNit is a binary variable that takes a value of 1 if Japan has negotiated a reciprocal most favored nation treaty with a trade partner or if it has imposed a unilateral MFN on a trade partner that is in effect at time t; Disti is distance between Japan and country i; Lndlck i is a binary variable which is unity if Japan’s trade partner is landlocked; RRi is railroad track miles; Popi is the product of country i and Japan’s population; Wari,t–k is a binary variable which is unity for Japanese exports to China during the Sino-Japanese War (1894/95) and unity for Japanese exports to Russia during the Russo-Japanese War (1904/05); and is a well-behaved error term capturing other influences on bilateral trade. The gold and silver dummy variables, SilverSilver and GoldGold, capture the network externalities associated with Japan first adopting silver and being on the same currency regime as other silver standard countries, and then later adopting gold and sharing that currency regime with other countries. If membership in the same monetary standard reduces transactions costs or exchange rate volatility, then the coefficients on the SilverSilver and GoldGold dummy variables should be positive and statistically significant. By coding additional dummy variables reflecting the currency arrangements of all its trading partners, not just those with which it shared the standard, we can simultaneously test for the other hypotheses that follow from the historical debates of gold standard adoption. In particular, the pairs SilverGold and GoldSilver enable us to determine whether Japan’s exports benefitted from movements in the price of silver relative to gold. While Japan was
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+48 Mitchener, Shizume, and Weidenmier
+TABLE 5 THE EFFECTS OF MONETARY STANDARDS ON JAPANESE EXPORTS, 1877–1912
+Independent Variables
+Fixed Effects PaperSilver Base
+Fixed Effects SilverSilver Base
+SilverSilver 2.482*** (0.93) GoldGold 2.335** 0.242 (1.15) (1.08) PaperPaper 2.267*** –1.388 (0.84) (1.07) SilverGold 2.262*** –0.17 (0.79) (0.49) SilverPaper 0.583 –1.793*** (0.93) (0.67) GoldPaper 2.424** 0.298 (1.24) (1.18) GoldSilver 2.788** 0.587 (1.23) (1.12) PaperBimetallic 1.737* –1.899 (1.05) (1.25) PaperGold 2.641*** –0.88 (0.68) (0.92)
+PaperSilver –4.807*** (1.07) MFN 0.85 0.791 (0.55) (0.53) Railroad 0.093 0.0515 (0.08) (0.08) Population –0.489** –0.306 (0.22) (0.22)
+on the silver standard, this metal was depreciating relative to gold, so Japan may have received a boost in its exports to gold standard countries as a result of this price movement. (This would be reflected in a positively signed and statistically significant coefficient on SilverGold.) Then, about the time when Japan joined the gold standard, gold began to depreciate against silver; so once Japan was on gold, its exports to silver countries may have been more competitive, and hence higher. We estimate equation 1 with importer-country fixed effects as well as year dummies to control for annual shocks such as global financial crises and recessions. Column 1 of Table 5, uses the paper standard as a basis of comparison; the omitted dummy variable is when Japan
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 49
+TABLE 5 — continued
+Fixed Effects PaperSilver Base
+Fixed Effects SilverSilver Independent Variables Base
+War –2.345 –2.337 (1.65) (1.63) War(–1) 0.983 0.982 (2.07) (2.05) War(–2) –1.429 –1.424 (2.36) (2.34) War(–3) 0.318 0.982 (2.39) (2.05) War(–4) –1.253 –1.231 2.34 (2.32) War(–5) 0.047 0.063 (2.07) (2.05) War(–6) –2.001 –1.409 (0.86) (1.61) Year Dummies YES YES Observations 801 801
+* indicates significance at 10 percent. ** indicates significance at 5 percent. *** indicates significance at 1 percent. Source: See the text for data used in regressions.
+was on the paper standard and other countries were on the silver standard (in our nomenclature, PaperSilver). Using this specification, we can directly assess the impact of switching from a fiat standard to a commodity exchange-rate regime. Since many of Japan’s most important trading partners historically were on silver, this specification allows us to examine whether there were gains to adopting the same standard as its neighbors on silver, such as China and Korea. When Japan switched from paper to silver and its trade partner was also on silver (SilverSilver), exports received a boost of over 1,094 percent ((e2.48–1)*100). This positively signed and statistically significant (at the 1 percent level) network externality effect suggests that there were initially large gains to moving to the same monetary standard as its regional trade partners; it reduced exchange rate volatility and lowered transactions costs. When Japan then switched to gold and traded with other gold standard countries, bilateral trade flows increased by approximately 953 percent (relative to the baseline of PaperSilver). (The effect is statistically significant at the 5 percent level.) The switch to the silver standard also appears to have raised Japan’s exports to gold standard
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+50 Mitchener, Shizume, and Weidenmier
+countries (SilverGold), and its subsequent adoption of gold appears to have then raised exports to silver standard countries. When Japan was on the silver standard and its trade partner was on gold, exports increased by 860 percent.40 Hence, some contemporaries were correct in emphasizing that when Japan was on the silver standard it had received an enormous boost in its trade due to the depreciation of silver. This statistically significant effect is consistent with policymakers’ beliefs of what had occurred prior to 1897: Japan’s manufacturing exports benefitted from the decline in the relative price of silver. However, when Japan was on the gold standard and its trade partner was on silver, exports increased by 1,525 percent. Hence, proponents of going to gold were also correct in that Japan’s exports did not lose out on their competitive advantage with the switch from silver to gold, although perhaps more out of luck than out of perfect foresight. That is, gold began to depreciate against silver at about the same time that Japan joined the gold standard. If Japan had remained on silver until 1913, it would not only have seen its competitiveness deteriorate, but it would also have lost out on the gain in competitiveness form gold’s depreciation relative to silver. Overall, these statistically significant coefficients suggest that, relative to initially being on a fiat standard, a substantial part of the gains from trade from going onto either gold or silver had to do with the movement in the silver-gold price ratio and the competitiveness effects associated with this movement. The second column of Table 5 uses a slightly different baseline for comparison so that we can more carefully consider the network externality effects of moving from the silver standard to the gold standard. In this regression, the omitted category is SilverSilver. The sign on GoldGold is positive, but statistically insignificant, suggesting that the gains from being part of the gold club were not substantially larger than those when Japan was on silver. This coefficient suggests that there was no differential impact in terms of a network effect relative to the silver standard’s network effect. So, if adopting gold did not raise Japanese exports (relative to the network externality effects of the silver standard), then did Japanese trade receive any benefits from gold standard adoption? The answer may lie in Japan’s growing share of global trade coming from gold standard countries. By the late 1890s most of the world’s largest economies were on gold (United States, United Kingdom, and Germany) and much of the rest of the world was abandoning bimetallic,
+40 Metzler, Lever, also suggests Japan saw an increase in trade when it was on the silver standard, although he does not provide a formal test as we do here.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 51
+silver, and paper standards for gold.41 For example, Austria pegged its currency to gold in the mid-to-late 1890s, Russia joined gold in 1897, India joined gold in 1898, and Argentina adopted in 1900. The benefits to remaining on silver, even in Asia, were declining as the world moved to gold.42 Hence, as the nineteenth century drew to a close, the longer Japan remained on silver, the smaller the benefit it would receive by being linked to the same monetary regime of its historical and regional trading partners (silver countries such as China and Korea). The network effect of silver was strong for Japan (as demonstrated by the statistically insignificant coefficient on GoldGold in column 2), but as emphasized by contemporary policymakers like Sakatani, Japan’s trade was turning outward, beyond Asia, to a world that was increasingly dominated by the gold standard. By 1897 nearly 60 percent of all Japanese exports and trade were conducted with gold standard countries. In comparison, silver accounted for approximately 30 percent of exports and 35 percent of total trade flows.
+DID THE GOLD STANDARD CREATE AN INVESTMENT BOOM?
+Some Japanese policymakers also believed that joining the gold standard could initiate a domestic investment boom by lowering domestic interest rates, leading firms to invest in new plant and equipment (due to lower overall borrowing costs in the economy). Declining interest rates may also precipitate a run-up in stock prices as stocks become relatively more attractive in comparison to bonds. In order to assess whether an investment boom occurred after gold standard adoption, we collected data on the investment-GNP ratio. We compared the average investment-GNP ratio for the five-year period before Japan (1893–1897) joined the gold standard with the five-year period after Japan joined gold (1898–1902). We chose to end the “gold standard effect” in 1902 since some scholars have noted that the RussoJapanese War (1904/05) enhanced the country’s international standing and credibility.43 The average investment-GNP ratio was actually higher in the five-year period before Japan joined the gold standard than afterwards (17.1 versus 16 percent). As a robustness check, we dropped the value of the ratio for 1897 from the pre-gold period (since Japan voted to join gold in March but did not formally adopt the monetary rule until September) and recomputed the investment-GNP ratio in the five-year period before and after 1897. The investment-GNP ratio is
+41 Meissner, “New World Order.” 42 Mitchener and Voth, “Trading.” 43 Metzler, Lever; and Sussman and Yafeh, “Institutions.”
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+52 Mitchener, Shizume, and Weidenmier
+slightly higher when Japan was on the silver standard than after it went on gold: 16.3 versus 16 percent. We also gathered monthly data on Japanese stock prices around the time of gold standard adoption from the archives of the Tokyo Stock Exchange and calculated a monthly capitalized market index for the period 1895–1899. The Japanese stock market index increased in the beginning of the sample period before declining by more than 35 percent in the one-year period before Japan joined the gold standard. This suggests that investors did not anticipate higher expected future profitability as a result of adoption. Then in the year after Japan joined the gold standard, the stock market index fell by an additional 10 percent, suggesting that, after adoption, firms were not large beneficiaries of dramatically lower interest rates.44 Contemporaries reported that the adoption of the gold standard did not expand the borrowing capacity of Japan nor did it bring about a domestic investment boom. Japanese newspaper accounts written at the end of 1897 generally condemned the gold standard. The Jiji Shinpo called adoption of gold, “the worst mistake ever committed by the government in the long history of the 30 years that have passed since the Meiji era began. The Matsukata ministry, however, must bear the full responsibility for it.”45 Newspapers generally acknowledged that “the financial situation in Japan is worse than it was in 1896. Public securities have fallen; railway and industrial shares are very low, and many new undertakings have stopped for lack of funds . . . Foreign capital has not come in, neither have the public securities appreciated.”46 On December 14, 1897 the nationwide newspaper, Yomiuri Shinbun, quoted prominent economist, Tameyuki Amano, as describing the current economic condition as a combination of insufficient capital and falling prices of stock and goods in general. He attributed the stagnating economy to lack of credibility of the Japanese economy among the international investors and the absence of capital inflow in spite of the adoption of the gold standard. The Yomiuri Shinbun also reported in December 1897 that adoption of gold may have led to a financial panic in Osaka—news that was also reported by the American press.47 On August 5, 1898 the Yomiuri Shinbun reported that even though a number of railway companies had tried to attract foreign investment, none had succeeded.
+44 Mitchener, Shizume, and Weidenmier, “Why Did Countries?” 45 The views of Japanese newspapers were summarized in the following article: “Japan and Her Gold Standard,” Denver Evening Post, 2 March 1898. 46 Idem. 47 See, for example, “Gold Standard Panic in Japan,” Daily News, Denver, 17 December 1897, 5.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 53
+On October 19, 1898 the newspaper further commented that investment in Japan was not attractive for international investors mainly because of lack of credibility despite the fact that Japan had been on gold for more than a year. Policymakers also saw no boom in the Japanese economy. The annual report of the Bank of Japan in 1897 said, “in light of larger expectation of capital inflow to Japanese markets, prominent investors from the United States and France came to Japan to explore the feasibility of investments. But, they returned home with no achievement for their goal.” The report in 1898 continued, “some (international) investors tried to launch new projects for foreign capital introduction into Japan, but all attempts failed . . . The government explored the feasibility of issuing bond in the foreign markets as well as in the domestic markets, but they were not able to do so. They were forced to finance the deficit by the remaining balance of Chinese indemnity.” 48 Clearly, Japan was failing to attract foreign capital or create an investment boom by adopting the gold standard.
+CONCLUSION
+Our examination of the historical record suggests that a priori policymakers were split over of Japan’s decision to join the gold standard in 1897. Many influential business leaders, academics, and government officials emphasized that adopting gold as the monetary standard would significantly impact trade, but they disagreed over whether it would be beneficial or detrimental. Some, like Matsukata, argued that it would increase exports because other countries were moving to gold and that Japan would have less exchange-rate volatility and lower transaction costs if it too were on gold. Others argued that it would prematurely terminate the benefits of being on silver: the declining price of silver since 1870 had been lowering the relative price of Japanese exports and many of Japan’s most important trading partners were on the silver standard. Other policymakers encouraged Japan to adopt the gold standard for different reasons—that it would be perceived by markets as a move towards better institutions and would hence lower Japan’s borrowing costs. Prime Minister Matsukata, however, forged a successful coalition with a rival party to overcome opposition to the legislation.
+48 Bank of Japan, Statistical Abstract, 1897 and 1898.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+54 Mitchener, Shizume, and Weidenmier
+Investors, however, did not seem to be swayed that gold standard adoption would have lasting effects on either borrowing costs or domestic investment. Using newly assembled data on asset prices, we show that stock prices and government bonds did not move in anticipation of gold standard adoption. We further show that Japan’s adoption of the gold standard did not lower Japan’s borrowing costs nor lead to a surge in domestic investment. Based on evidence from both international and domestic capital markets, if anything, there was a slight increase in the rates of borrowing after adoption. These findings suggest a reinterpretation of Meiji financial history since previous studies had associated a reduction in borrowing costs with gold standard adoption. While it is theoretically possible that a hard peg can serve as a mechanism for solving the time inconsistency problem, the case of Japan does not appear to be the canonical case study of such a mechanism. Instead, Japan’s experience suggests that metallic standards had a more significant effect on exports. Estimates from gravity models show that exports increased when Japan went onto both the silver and gold standards. Our results suggest that Japan received a large boost to its bilateral trade when it was on the silver standard both through network externalities and via competitiveness effects: the declining of silver relative to gold boosted exports to gold standard countries. Nevertheless, Japan’s adoption of the gold standard proved to be fortuitously timed as the decline in silver prices reversed course at around the same time Japan made the switch to gold and when the rest of the world was moving to the gold standard. We find evidence that when Japan was on the gold standard, its exports to other gold countries were higher, relative to the reference period of paper, and that its trade with silver countries benefitted due to the decline in the price of gold. If Japan had remained on the silver standard, it would have necessarily foregone a large gain in the competitiveness of its exports (something that was not known to policymakers ex ante) and faced a declining benefit via network externalities as more and more countries adopted gold. The political economy approach that we have used to study Japan’s adoption decision has shed new light on the reasons for and consequences of adoption, and suggests a robust alternative to the cross-country approach that could be employed to examine the adoption of gold for other countries during the classical gold standard era.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+Why Did Countries Adopt the Gold Standard? 55
+REFERENCES
+Bank of Japan. Statistical Abstract, 1897. (Reprinted in Bank of Japan (1957), Nihon Kin’yu Shi Shiryo: Meiji/Taisho Hen [Materials of Japan’s Financial History, Meiji/Taisho Edition], vol. 19: 279–326.) ______. Statistical Abstract, 1898. (Reprinted in Bank of Japan (1957), Nihon Kin’yu Shi Shiryo: Meiji/Taisho Hen [Materials of Japan’s Financial History, Meiji/ Taisho Edition], vol. 19: 327–66.) Bordo, Michael, and Finn Kydland. “The Gold Standard as a Rule: An Essay in Explorations.” Explorations in Economic History 32, no. 4 (1995): 423–64. Bordo, Michael, and Hugh Rockoff. “The Gold Standard as a Good Housekeeping Seal of Approval.” This JOURNAL 56, no. 2 (1996): 389–428. Committee on the Monetary System. Final Report, 1895. (Reprinted in Bank of Japan (1957), Nihon Kin’yu Shi Shiryo: Meiji/Taisho Hen, [Materials of Japan’s Financial History: Meiji/Taisho Edition], vol. 16: 571–957. Ministry of Finance, Printing Bureau, 1957.) Droppers, Garrett. “Monetary Changes in Japan.” Quarterly Journal of Economics 12, no. 2 (1898): 153–85. Economist, The. Weekly Report. London, various issues. Ferguson, Niall, and Moritz Schularick. “The Empire Effect: The Determinants of Country Risk in the First Era of Globalization.” This JOURNAL 66, no. 2 (2006a): 283–312. ______. “The Thin Film of Gold: The Limits of Monetary Commitments.” Working Paper, Harvard Business School, Cambridge, MA, 2006b. Flandreau, Marc, and Mathilde Maurel. “Monetary Union, Trade Integration, and Business Cycles in the Nineteenth Century.” Open Economies Review 16, no. 2 (2005): 135–52. Flandreau, Marc, and Frederic Zúmer. The Making of Global Finance. Paris: OECD, 2004.
+Harada, Keiichi. Nisshin-Nichiro Senso: Nihon Kin-Gendai Shi, [Sino/Russo-Japanese War: Modern and Contemporary Japanese History] Vol. 3. Tokyo: Iwanami Shoten, 2007. House of Representatives. “Minutes of Committees.” Official Gazette. Tokyo: House of Representatives, 1897. House of Representatives and House of Councilors. Gikai Seido Nanaju Nen Shi [Seventy Years History of Parliamentary System]. Tokyo: Ministry of Finance, Printing Bureau, 1961. Imperial Diet. “Teikoku Gikai Sokkiroku: Dai-Jukkai Teikoku Gikai” [Minutes of General Assembly and Committees of the 10th Session], 1897. (Reprinted in Bank of Japan. Nihon Kin’yu Shi Shiryo: Meiji/Taisho Hen, [Materials of Japan’s Financial History: Meiji/Taisho Edition], vol. 14: 1–274. Ministry of Finance, Printing Bureau, 1960.) Kodansha. Nihon Jinmei Daijiten [Japan Who’s Who]. Tokyo: Kodansha, 2001. Lopez-Cordova, J. Ernesto, and Christopher Meissner. “Exchange-Rate Regimes and International Trade: Evidence from the Classical Gold Standard Era.” American Economic Review 93, no. 1 (2003): 344–53. Masumi, Jun’nosuke. Nihon Seito-Shi Ron [A Thesis on the History of Japanese Political Party System] vol. II. Tokyo: University of Tokyo Press, 1966.
+Matsukata, Masayoshi. Report on the Adoption of the Gold Standard in Japan. Tokyo: The Government Press, 1899.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press
+
+
+56 Mitchener, Shizume, and Weidenmier
+Mauro, Paolo, Nathan Sussman, and Yishay Yafeh. Emerging Markets and Financial Globalization. Oxford: Oxford University Press, 2006. Meissner, Chris. “A New World Order: Explaining the International Diffusion of the Gold Standard, 1870–1913.” Journal of International Economics 66, no. 3 (2005): 385–406.
+Metzler, Mark. Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan. Berkeley: University of California Press, 2006.
+Miller, Edward S. Bankrupting the Enemy: The U.S. Financial Siege of Japan Before Pearl Harbor. Annapolis, MD: Naval Institute Press, 2007. Ministry of Finance. Meiji Zaisei Shi, 8: Kokusai [Financial History of the Meiji-Era, Vol. 8: National Debts]. Tokyo: Maruzen, 1904. ______. Meiji-Taisho Zaisei Shi, 11: Kokusai [Financial History of the Meiji-TaishoEra, Vol. 11: National Debts]. Tokyo: Zaisei Keizai Gakkai, 1936. Mitchener, Kris James, Masato Shizume, and Marc D. Weidenmier. “Why Did Countries Adopt the Gold Standard? Lessons from Japan.” NBER Working Paper No. 15195, Cambridge, MA, 2009. Mitchener, Kris James, and Hans Joachim Voth. “Trading Silver for Gold: Asian Exports and the Political Economy of Currency Unions.” Unpublished Working Paper prepared for the Asian Development Bank, 2009. Mitchener, Kris James, and Marc D. Weidenmier. “Trade and Empire.” Economic Journal 118, no. 533 (2008): 1805–34. Muramatsu, Michio, Mitsutoshi Ito, and Yutaka Tsujinaka. Nihon no Seiji [Japanese Politics], 2nd Edition. Tokyo: Toyo Keizai Shinpo Sha, 2001. Obstfeld, Maurice, and Alan M. Taylor. “Sovereign Risk, Credibility, and the Gold Standard, 1870–1913 versus 1925–1931.” Economic Journal 113, no. 487 (2003): 1–35. Okuma, Shigenobu. “Kousai Shinbo oyobi Ginkou no Setsuritu ni Kansuru Seigi” [A Proposal for a New Government Bond Issue and the Establishment of a Bank], 1880, reprinted in Bank of Japan, Nihon Kin’yu Shi Shiryo: Meiji/Taisho Hen, 4 [Materials of Japan’s Financial History: Meiji/Taisho Edition] 4 (1958): 754–56. Ooue, Shiro, ed. Meiji Obituary. Tokyo: privately printed, 1935. (Reprinted by Tokyo: Tokyo Bijutsu, 1971.) Ouchi, Hyoue. Nihon Zaisei Ron: Kousai Hen (Japanese Public Finance: Public Debts). Tokyo: Kaizo-sha, 1932.
+Sanseido. Concise Biographic Encyclopedia: Japanese Issue. Tokyo: Sanseido, 1976. Sussman, Nathan, and Yishay Yafeh. “Institutions, Reforms, and Country Risk: Lessons from Japanese Government Debt in the Meiji Period.” This JOURNAL 60, no. 2 (2000): 442–67.
+Suzuki, Toshio. Japanese Government Loan Issues on the London Capital Market, 1870–1913. London: The Athlone Press, 1994. Tokyo Stock Exchange. Tokyo Kabushiki Torihikijo 50 Nenshi [50 Years History of Tokyo Stock Exchange]. Tokyo: Tokyo Stock Exchange, 1928. ______. Monthly Report. Tokyo: Tokyo Stock Exchange, various issues. Tomita, Toshiki. Kokusai no Rekishi [A History of National Debts]. Tokyo: Toyo Keizai Shinpo Sha, 2006.
+https://doi.org/10.1017/S0022050710000045 Published online by Cambridge University Press

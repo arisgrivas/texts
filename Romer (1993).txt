@@ -1,0 +1,496 @@
+Openness and Inflation: Theory and Evidence
+Author(s): David Romer
+Source: The Quarterly Journal of Economics, Nov., 1993, Vol. 108, No. 4 (Nov., 1993), pp. 869-903
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/2118453
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to The Quarterly Journal of Economics
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+THE
+QUARTERLY JOURNAL
+OF ECONOMICS
+Vol. CVIII November 1993 Issue 4
+OPENNESS AND INFLATION: THEORY AND EVIDENCE*
+DAVID ROMER
+Because unanticipated monetary expansion leads to real exchange rate depreciation, and because the harms of real depreciation are greater in more open economies, the benefits of unanticipated expansion are decreasing in the degree of openness. Models in which the absence of precommitment in monetary policy leads to excessive inflation therefore predict lower average inflation in more open economies. This paper tests this prediction using cross-country data. The data show a strong and robust negative link between openness and inflation.
+I. INTRODUCTION
+In their classic paper Kydland and Prescott [1977] demonstrate that the absence of precommitment in monetary policy can lead to inefficiently high inflation. When imperfect competition or a distortionary tax system causes the natural level of output to be suboptimal and when monetary policy can affect real output, policy-makers have an incentive to attempt to create surprise inflation. But policy cannot on average be more expansionary than price- and wage-setters expect. As a result, in a one-time game without binding precommitment, the equilibrium rate of inflation is inefficiently high, and output remains at its natural rate. Kydland and Prescott's [1977] paper has given rise to a vast theoretical literature. The analysis of macroeconomic policymaking without precommitment has been extended to multiple periods, stochastic environments, asymmetric information, mul
+*I thank David Parsley and Brian A'Hearn for research assistance; Laurence Ball, Olivier Blanchard, Kenneth Rogoff, Christina Romer, an anonymous referee, and seminar participants at the Board of Governors, the Federal Reserve Bank of San Francisco, NBER, Stanford University, the University of California, Berkeley, and the University of Texas for helpful comments; and the National Science Foundation and the Sloan Foundation for financial support.
+? 1993 by the President and Fellows of Harvard College and the Massachusetts Institu Technology. The Quarterly Journal of Economics, November 1993
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+870 QUARTERLY JOURNAL OF ECONOMICS
+tiple policy-makers, multiple countries, and so on.1 Yet, fifteen years after Kydland and Prescott's paper, there is little empirical evidence on the question of whether the mechanism identified by Kydland and Prescott is important to actual inflations. One view, advocated for example by Barro and Gordon [1983a], is that Kydland and Prescott's model is a valuable model of actual monetary policies and that it gives significant insights into a broad range of phenomena. The other extreme, argued by Taylor [1983], is that there are institutions or mechanisms that largely eliminate policy-makers' tendency to attempt systematically to cause surprise inflation. Governments appear to be able to largely overcome the dynamic inconsistency problem in other contexts. For example, it would not be correct to deduce from the observation that governments generally do not make enforceable promises concerning future tax rates on capital that in seeking to understand actual capital taxation policies we should focus on the dynamically consistent equilibria of one-time games. In the case of monetary policy, reputational mechanisms [Barro and Gordon, 1983b] or the appointment of "conservative" policy-makers [Rogoff, 1985a] could overcome the tendency toward inefficiently high inflation. The purpose of this paper is to demonstrate and test a prediction of models in which the absence of precommitment in monetary policy leads to inefficiently high inflation. The source of the prediction is straightforward. In his extension of the basic models of dynamic consistency and monetary policy to openeconomy settings, Rogoff [1985b] notes that surprise monetary expansion causes the real exchange rate to depreciate, and that this reduces the incentives to undertake expansion. This observation is the source of Rogoffs result that international policy coordination can be undesirable in the absence of precommitment: because coordinated expansion by two countries cannot cause each country's currency to depreciate against the other's, the incentive to expand (and thus equilibrium inflation) is higher under coordination. To put it differently, by coordinating their monetary policies, two countries in effect turn themselves into a single larger, and hence less open, economy. This decreased openness reduces the harm of the real depreciation induced by surprise monetary expansion, and thus raises equilibrium inflation. The same reasoning leads directly to the prediction that I focus on in this paper: the larger, and
+1. For surveys, see Rogoff [1989] and Fischer [1990]. An important earlier paper is Phelps [1967].
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 871
+hence less open, an economy is, the greater is the incentive to expand, and so the higher is the equilibrium rate of inflation.2 Thus, models of inefficiently high inflation arising from the absence of precommitment predict an inverse relationship between openness and inflation. The core of theoretical models of monetary policy without precommitment involves policy-makers' incentives to inflate. By testing a prediction of the models concerning a determinant of the level of inflation, I am thus testing the central element of these models. Indeed, an important source of the appeal models' is that they provide a candidate explanation of modern economies' tendency toward what many perceive to be "excessive" inflation. The remainder of the paper consists of five sections and two appendixes. Section II discusses how allowing for different degrees of openness affects the familiar Kydland-Prescott analysis. In addition, Appendix 1 presents a simple model that demonstrates the prediction that I seek to test in the context of a specific model. Section III presents the basic empirical evidence concerning the relation between openness and inflation; the basic data are presented in Appendix 2. I find that there is a quantitatively large and statistically significant negative relationship between openness and inflation, confirming the prediction of the theory. Section IV investigates the robustness of the results. I find that the openness-inflation relationship is robust to inclusion of measures of political stability and central bank independence, which have been found by others to be important determinants of inflation. More importantly, I investigate interactions between these measures and openness. If the openness-inflation relationship arises from the dynamic inconsistency of discretionary monetary policy, the relationship should be weaker in countries that are more stable politically and have more independent central banks, since one would expect these countries to have had more success in overcoming the dynamic inconsistency problem. The data support this prediction. In addition, I find that the link between openness and inflation holds across virtually all types of countries with the exception of the most highly developed countries. In this small group of countries average inflation rates are low and are essentially unrelated to openness. The results are thus consistent with the view that these countries have largely overcome the dynamic inconsistency of optimal monetary policy.
+2. This argument is also made by Vaubel [1990].
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+872 QUARTERLY JOURNAL OF ECONOMICS
+Section V considers several alternative explanations of the openness-inflation relationship based on endogenous openness and on the impact of openness on governments' ability to obtain revenue from various sources. I find that these alternatives do not appear to fit the facts. Finally, Section VI offers concluding remarks.
+II. THEORETICAL CONSIDERATIONS
+Consider a standard closed-economy model of the dynamic inconsistency of optimal monetary policy (see, for example, Kydland and Prescott [1977], Barro and Gordon [1983a, 1983b], or Fischer [1990]). There are two key ingredients. First, unanticipated monetary shocks affect both prices and real output, and thus the departure of output from its "natural" or equilibrium value is positively related to departures of actual inflation from expected inflation. Making the usual assumption of a linear relationship for simplicity,
+(1) Y Y* +
+where y is actual output, y* the natural rate, ar inflation, and 'Me expected inflation, and where v > 0. This relationship could arise from imperfect information about the aggregate price level, as in the Lucas model, or from incomplete price adjustment, as in models of staggered wage- or price-setting and models of costs of changing prices. Second, the policy-maker is assumed to view higher output (at least in the vicinity of the natural rate) as desirable and higher inflation as undesirable. The suboptimality of the natural rate could arise either from imperfect competition or from positive marginal tax rates. Again making a standard assumption about the functional form for simplicity, the policy-maker's objective function is
+(2) W- 1 2 + Yy,
+where y > 0. The equilibrium of the one-time version of this model is straightforward. The policy-maker takes equation (1) and re as given, and chooses the rate of money growth. Equivalently, one can think of the policy-maker as choosing Tr directly. Private agents, however, know the optimization problem the policy-maker faces.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 873
+Thus (since there is no uncertainty), expected and actual inflation must be equal. Specifically, substituting (1) into (2) and maximiz
+ing, the policy-maker sets Tr = PyrP. Thus, the equilibrium is re = Ir -yr, and y = y*: inflation is positive, and output is at the natu rate. As is well-known, this outcome is suboptimal. In particular, the policy-maker would be better off if he or she could precommit to a no-inflation policy. In a model of this general type with equations (1) and (2) based on microeconomic foundations, an increase in the fraction of goods that are purchased from abroad affects equilibrium inflation in two ways. First, a greater degree of openness reduces a, the benefits of increases in output above its natural rate. Domestic expansion increases output at home relative to output abroad and thus, unless domestic and foreign goods are perfect substitutes, reduces the relative price of domestic goods.3 The larger the fraction of goods that are purchased from abroad, the greater is the cost of this real depreciation. Thus, -y is decreasing in the degree of openness. Second, openness affects the output-inflation trade-off. Specifically, increased openness raises the amount of inflation associated with a given expansion of domestic output; that is, it reduces the
+parameter 1P in equation (1). Again the reason is the real depreciation associated with the expansion of domestic output. This depreciation affects inflation through two channels. Most obviously, real depreciation means, by definition, that the prices of foreign goods in domestic currency units rise faster than those of domestic goods. Thus, for a given impact of output on the prices of domestic goods, the impact on inflation as measured by a consumer price index is increasing in the fraction of goods that are purchased from abroad. In addition, openness affects the link between output and domestic goods prices. Specifically, real depreciation raises the costs of domestic firms. For example, if nominal wages are at all flexible, the rise in the CPI causes wages to increase. As a result, increased openness causes a monetary expansion to lead to a larger increase in domestic prices for a given increase in output. Openness therefore affects both of the key determinants of inflation under discretionary policy: the output-inflation trade-off and the benefit of higher output relative to the cost of higher
+3. As long as domestically produced goods consumed at home and imports are imperfect substitutes, real depreciation is necessary even if the country faces a perfectly elastic demand curve for its export goods. Thus, the central results apply to economies that produce services and protected manufactures for domestic consumption and primary commodities for export.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+874 QUARTERLY JOURNAL OF ECONOMICS
+inflation. Policy-makers' incentives to expand are thus lower in more open economies, and equilibrium inflation under discretionary policy is therefore smaller. All of these effects stem from the simple fact that expansion of domestic output relative to output abroad drives down the relative price of domestic goods. Thus, the results are likely to be robust to the details of why monetary shocks have real effects, why expansion of output above the natural rate is desirable, and so on. The obvious concern, of course, is that explicitly modeling the impact of openness might modify the analysis in some manner not considered here in a way that reversed the central result. To address this possibility, Appendix 1 presents a specific model of the determination of equilibrium inflation in a setting where monetary shocks have real effects and policy is discretionary. The model is a straightforward extension to an open economy setting of existing models of the macroeconomics of imperfect competition with sticky prices (for example, Blanchard and Kiyotaki [1987] and Ball and Romer [1990]). I find that openness affects equilibrium inflation only through the channels described here, and thus that the conclusions of this section hold in the model. There is no evident reason that this would not also be true in, for example, either the model of staggered labor contracts that Rogoff employs to show that international policy coordination can be harmful or (more in the spirit of Kydland and Prescott's original paper) an open economy extension of models in which real effects of monetary disturbances arise from imperfect information about the money supply.
+III. BASIC EVIDENCE
+In this section I use cross-country data to test the prediction of the theory that inflation will be higher in countries that are larger and hence produce a greater fraction of the goods that they consume.
+Sample and data. I focus on the modern exchange rate system that began in 1973. Because the Bretton Woods system limited countries' ability to pursue independent monetary policies, the post-1973 regime appears to provide a better setting for testing the theory. I begin with as broad a sample of countries as possible. There is no a priori reason to expect the predictions of the theory to apply only to certain types of countries. In particular, the theory should apply to countries with fixed as well as flexible exchange rates. A
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 875
+worldwide fixed exchange rate regime like the Bretton Woods system might be a means of coordinating or precommitting policy. But it is difficult to see how just a stated policy by a country that it plans to hold its exchange rate fixed can serve as a precommitment or coordination device; certainly many countries with "fixed" exchange rates change their exchange rates ex post. In addition, the basic variables that the theory focuses on-inflation and the import share-can be measured, at least approximately, with relative ease. My basic sample therefore consists of all of the noncentrally planned economies listed by Summers and Heston [1988] for whom data on openness and inflation are available. This sample consists of 114 countries.4 In Section IV, I investigate the relationship between openness and inflation for a variety of narrower samples. National accounts data are from the International Financial Statistics of the International Monetary Fund.5 Inflation is measured as the average annual change in the log GDP or GNP deflator since 1973. For countries for which this series is not available, I use the change in the log CPI instead (this series is from the IMF [1986a]). Openness is measured as the average share of imports in GDP or GNP over the years beginning in 1973. Again, the standard IFS series is unavailable for a few countries. For these countries I use an alternative series also constructed by the IMF [1988]. Although the two measures of imports are slightly different conceptually (see IMF [1988], pp. v-viii), when both measures are available they are similar. Appendix 2 presents the basic data used in the tests. Specification. A few countries in the sample have extremely high average inflation rates. Thus, the parameter estimates from a linear regression would be determined almost entirely by a handful of observations. A simple change that reduces the importance of the countries with extreme inflation rates is to consider the log rather than the level of average inflation. Thus, the basic specification is a regression of the log of average inflation on a constant and the degree of openness.6
+4. Seven noncentrally planned economies listed by Summers and Heston are excluded from the sample because of insufficient data. They are Afghanistan, Angola, Chad, Guinea, Iraq, Mali, and Mozambique. 5. The IMF does not provide data for Taiwan. These data (which are comparable to the standard IFS data) are therefore taken from the Statistical Yearbook of the Republic of China. 6. Considering log inflation would not be appropriate if some countries had very low average rates of inflation, since the logarithmic transformation would give those countries undue weight. No countries in the sample have extremely low inflation rates, however: the lowest average rate (Singapore's) is 3.6 percent.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+876 QUARTERLY JOURNAL OF ECONOMICS
+My other specifications differ from the basic one by controlling for other factors. I consider three types of control variables. The first is real income per capita: this can serve as a general measure of development and thus may capture a variety of factors that influence average inflation.7 The second is a set of dummy variables for OECD membership and for various regions: these too are likely to be correlated with factors that influence average inflation. The third are dummy variables for the use of the CPI rather than the GDP deflator to measure inflation and for the alternative measure of openness: these capture any differences in the average levels of the alternative measures. Note that the exclusion of any factor that could potentially affect average inflation biases the coefficient on openness only if the omitted factor is correlated with openness. Thus, since there is no clear reason to expect such potential determinants of the average inflation rate as political stability, the independence of the central bank, and so on to be correlated with openness, the exclusion of variables capturing these additional influences on inflation is unlikely to cause bias. Section IV, however, explicitly investigates the robustness of the results to consideration of several of these factors. Results. Figure I and Table I present the results for the broad sample of countries. Figure I is a scatterplot of the mean rate of inflation since 1973 (measured on a logarithmic scale) against the degree of openness. The figure shows a negative relationship between openness and inflation. The corresponding regression is reported in the first column of Table I. The t-statistic on openness is -3.8: there is a statistically significant negative relationship between openness and inflation, just as the theory predicts. Moreover, the estimated impact of openness on inflation is quantitatively large. The point estimates in column (1), for example, imply an average rate of inflation of 18 percent for a closed economy, 14 percent for an economy with an import share of 25 percent, 11 percent for an import share of 50 percent, and 8 percent for an import share of 75 percent. Finally, the fraction of the variation in inflation explained by the regression is nontrivial: openness alone accounts for over 10 percent of the cross-country variation in average inflation rates.8
+7. The real income per capita data are for 1980; they are from Summers and Heston [1988]. 8. As Figure I shows, two countries in the sample, Singapore and Lesotho, have average ratios of imports to GDP in excess of 100 percent. In the case of Singapore, this simply reflects the facts that imports and exports are measured in terms of gross value and GDP in terms of value-added, and that value-added in Singapore is
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 877
+160%
+80 
+Inflation 40 - .
+(log scale) .. 2
+20 ., ;\@ *
+5..b. . ..
+* * 0g0
+0 20 40 60 80 100 120 140 160%
+Import Share
+FIGURE I Openness and Inflation
+The remaining columns of Table I investigate the robustness of these results to some simple changes in specification. Column (2) adds dummy variables for the use of the CPI to measure inflation and for the alternative measure of the import share. This change alters the results only trivially. In column (3) I also add log real income per capita to the regression. The regression suggests that higher real income is associated with a modest decline in average inflation. The estimated impact of openness on inflation is again little changed.9 Column (4) reports the results of including dummies for OECD membership, the major oil producers, South America, Central America (including the Caribbean), and Africa. The coefficients on the dummies (which are not reported in the table) confirm that there are differences in inflation rates across regions.
+low relative to the gross value of imports. In the case of Lesotho, the ratio in excess of 100 percent arises from the use of GDP rather than GNP as the measure of output and the importance of labor income earned abroad to that economy. Thus ratios of imports to GDP over 100 percent do not indicate data errors. Nonetheless one might be concerned that these few extreme observations had an excessive influence on the results. Reestimating the regressions with Singapore and Lesotho excluded, however, lowers the t-statistic on openness only modestly. 9. Because real income is an extremely poor index of development for the major oil-producing countries, all regressions that include real income are also estimated with the oil producers excluded from the sample. This change has no important effect on the results.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+878 QUAR TERLY JOURNAL OF ECONOMICS
+TABLE I BASIC RESULTS
+(1) (2) (3) (4)
+Constant -1.730 -1.740 -1.375 -1.919 (0.117) (0.118) (0.471) (0.718)
+Openness -1.006 -1.070 -1.019 -0.827 (0.266) (0.272) (0.280) (0.266)
+Log real income -0.049 -0.014 per capita (0.061) (0.099)
+Data dummies included? No Yes Yes Yes
+Regional dummies included? No No No Yes
+R2 0.114 0.124 0.129 0.373
+S.E.E. 0.671 0.673 0.674 0.585
+Standard errors are in parentheses. The dependent variable is the log of the average inflation rate since 1973. "Data dummies" are dummy variables for the alternative measures of openness and inflation (described in the text). "Regional dummies" are dummy variables for South America, Central America, Africa, OECD membership, and the major oil producers.
+The dummy for South American countries is large (1.17); those for Africa and Central America are of moderate size (0.20 and 0.30, respectively); and those for OECD membership and the oil producers are small (0.09 and 0.06). The null hypothesis that the coefficients on the dummies are all zero is strongly rejected. The estimated link between openness and inflation, however, is little changed: the coefficient is about 80 percent of its previous value, and the t-statistic remains greater than 3.
+IV. ROBUSTNESS
+Other determinants of inflation. Cukierman, Webb, and Neyapti [1992] and Cukierman, Edwards, and Tabellini [1992] present evidence that success in overcoming the problem of the dynamic inconsistency of optimal monetary policy varies systematically across countries. Specifically, Cukierman, Webb, and Neyapti show that inflation is generally higher in countries with less independent central banks. This is consistent with the view that reduced independence is likely to decrease both the central bank's ability to precommit to its policy choices and the government's ability to delegate monetary policy to individuals with strong aversions to
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 879
+inflation. Cukierman, Edwards, and Tabellini find that inflation is on average higher in countries that are less politically stable, and they observe that one possible explanation of this fact is that decreased stability reduces policy-makers' ability to precommit.10 These findings raise two issues. The first is whether the link between openness and inflation is robust to the inclusion of measures of political instability and central bank dependence. Second, and more important, these measures can be used to provide a sharper test of the explanation proposed here of the openness-inflation relationship. My basic argument is that the incentives to expand are low in highly open economies, and thus that inflation will be low in these countries even in the absence of precommitment. Thus, the argument predicts that the link between openness and inflation will be weaker in countries that are more stable and that have more independent central banks. These issues are addressed in Table II. Columns (1)-(3) consider political instability, and columns (4)-(6) central bank dependence. Following Barro [1991], political instability is measured as the mean number of revolutions and coups per year. The measure of central bank dependence is Cukierman, Webb, and Neyapti's [1992] overall index of central bank dependence for the 1980s.11 Cukierman, Webb, and Neyapti are able to construct this measure for only 62 of the 114 countries in the sample; thus, the samples for the regressions in columns (4)-(6) are considerably restricted. All of the regressions include log real income per capita and the dummy variables for the use of alternative data sources. Within each group of columns ((1)-(3) and (4)-(6)), the first column ((1) or (4)) reports the basic regression without any additional determinants of inflation. The next column ((2) or (5)) shows the effect of adding the measure of instability or dependence as a control variable. As expected, political instability and central bank dependence are strongly associated with average inflation. The estimated impact of openness on inflation is moderately reduced by including the measure of political instability, and moderately increased by including the measure of dependence. Thus, basic results are robust to the inclusion of these measures. The final column in each group ((3) or (6)) introduces the interaction terms. In both cases, the interaction term enters with
+10. Cukierman, Edwards, and Tabellini [1992] also include openness in their specifications, although they do not emphasize it. I discuss their interpretation of the openness-inflation relationship in Section V. 11. The data are from their Table 11, pp. 380-81.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+880 QUARTERLY JOURNAL OF ECONOMICS
+TABLE II OTHER DETERMINANTS OF INFLATION
+Political instability Central bank dependence
+(1) (2) (3) (4) (5) (6)
+Constant -1.406 -2.345 -2.381 -1.089 -3.706 -4.188 (0.485) (0.540) (0.536) (0.791) (0.762) (0.769)
+Openness -0.994 -0.723 -0.475 -1.445 -1.669 0.239 (0.289) (0.288) (0.325) (0.493) (0.391) (0.944)
+Log real income -0.045 0.038 0.032 -0.068 0.143 0.130 per capita (0.063) (0.065) (0.064) (0.102) (0.088) (0.085)
+Revolutions 1.027 1.837 and coups (0.303) (0.587)
+Rev. and coups -3.102 times openness (1.931)
+Index of central 6.737 9.493 bank dependence (1.128) (1.659)
+Central bank dep. -9.584 times openness (4.346)
+R2 0.116 0.203 0.222 0.177 0.497 0.538
+S.E.E. 0.680 0.649 0.644 0.787 0.621 0.600
+Sample size 112 112 112 62 62 62
+See notes to Table I. Coefficients and standard errors for the dummy variables for alternative measures of openness and inflation are not reported.
+the expected sign and is quantitatively large. Thus, the negative relationship between openness and inflation is much stronger in countries that are less stable and have less independent central banks, and where precommitment is therefore presumably weaker. For political instability (column (3)), the point estimates imply that as the measure of political instability rises from its twenty-fifth percentile value in the sample (0.0) to the seventy-fifth percentile value (0.32), the impact of openness on the log of average inflation changes from -0.47 to -1.47. The t-statistic on the interaction variable is only 1.6, however. For central bank dependence (column (6)), the t-statistic on the interaction variable is 2.2, and the estimated effect of openness on the log of average inflation changes from -0.43 to -1.58 as the measure of dependence changes from
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 881
+its twenty-fifth percentile value (0.07) to the seventy-fifth percentile (0.19).12 Robustness across samples. Table III investigates the results for a variety of subsamples. Again I focus on the specification that includes log real income per capita and the dummy variables for the use of alternative data sources. Column (1) excludes countries with average inflation rates greater than 30 percent from the sample. The estimated coefficient on openness is smaller than in the corresponding regression for the full sample (column (3) of Table I), but the t-statistic remains over 3. Thus, the results do not depend on a few countries with extreme inflation rates. Column (2) eliminates several types of countries whose monetary policies are closely tied to those of other countries, and to which the model thus does not clearly apply. Specifically, I exclude the members of the two Francophone African monetary unions, the members of the European Monetary System, and two countries (Liberia and Panama) that employ U. S. dollars rather than domestic currencies. This change has virtually no effect on the coefficient on openness, although the standard error does increase slightly. Column (3) restricts the sample to countries for which reliable data are available specifically, countries whose national accounts data receive a rating of "C" or better from Summers and Heston [1988], for which the alternative measures of inflation and the import share did not have to be used, and which are not major oil producers. This sample consists of 63 countries. The point estimates imply a larger impact of openness on inflation than does the regression for the full sample. The t-statistic on openness, however, is somewhat smaller. Columns (4) through (8) of the table examine the relationship between openness and inflation within regions (again considering the OECD as a "region"). For each region, the point estimates suggest a negative relationship. There is also no evidence that the
+12. When both political instability and central bank dependence are included (either with or without their interactions with openness), the coefficients on the instability variables are small and highly insignificant, and the estimates are very similar to those in columns (4)-(6). Cukierman, Webb, and Neyapti's [1992] index of central bank dependence is based on two variables: the turnover rate of the central bank governor and an index of legal dependence. When these two variables are considered separately (again either with or without interactions with openness), only the turnover variables are important, and the results are generally similar to those using the overall index of dependence.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+882 QUARTERLY JOURNAL OF ECONOMICS
+$. I ' r I -0 00 0 0 o t
+' CItt'O 01> r--l0 0-- CO 0
+C00-La)0Ca
+X c0 0 000 HD0 0 00
+L D I00 00 co 0 -0 t- 00
+oo ? cs o o o o~~LZt- oo co s t
+1o
+- ; .; CY D -Y - 0000
+co a) o
+"t Rt m 00ot- R
+X~~~~~~~~~~~~c T- oe oO cq oc C o oot
+cd~ ~~~~~~~~c
+CIv LO Rt t- C ILO LO cO
+cIJ 0~~~~~~c
+3~~~~~~ ?Y- 0 1>
+~ o6 i0 t- co t- - L LO
+0 ~ ~ ~ ~ ~ ~ ~~~~~0
+C6 C6 C6 4 6 6 6 6
+a z; ~~~~~ ~~I'- I'-'m
+0000 o
+. L000 C O- 00 - C 00 0 0t
+CO O Ce d d~~~~~~~~-- m m) CO- r-- H0 1>cl ".4 o
+; v; v co D D ~~~~~~~~~c C; C;
+1.4~~~~~~~~~~~~~~~~~~~~~~~.
+o t- LO oo oo m c) C C Co
+i~~~~~~~~~~L cq M 0 q LO LO Co > o% go
+0 8 q cq o 0 oq oRd " Rd
+(m CIO ' N
+0 co~~~~~~~~~~~~~~~0
+o co
+0) 0) .= ; c c; $
+= Q M; R g m
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 883
+relationship differs across regions. The null hypothesis that the coefficients on openness are equal for all regions cannot be rejected. Given the small sample sizes, however, the coefficients for the regional subsamples are generally insignificant. The robustness of the results is not surprising. The fifteen most open economies in the sample all have average inflation rates of less than 14 percent, and thirteen have rates less than or equal to the sample median of 11 percent. At the other extreme, the ten most closed economies include six of the fourteen countries with average inflation rates over 30 percent. It is difficult to see what characteristic differentiates such low inflation countries as Bahrain, Barbados, Guyana, Malaysia, Malta, Mauritania, the Netherlands, Papua New Guinea, Singapore, Surinam, and Tunisia from such high inflation countries as Argentina, Brazil, Ghana, Indonesia, Iran, Mexico, Nigeria, Peru, Sudan, Turkey, and Uganda other than the fact that the former are quite open and the latter relatively closed. Although the results are generally robust across subsamples, there is no evidence that the prediction of the theory holds for the most highly developed countries. Consider the eighteen wealthiest countries in the sample other than the major oil producers.13 Among these countries, there is virtually no link between openness and inflation, although a two-standard-error confidence interval also includes large negative values (column (9) of Table III). More important, average inflation rates in these countries are low. The average log inflation rate for the eighteen is -2.6 (corresponding to inflation of 7.4 percent), and the regression equation for the full sample, even controlling for per capita income (column (3) of Table I), underpredicts inflation for seventeen of the eighteen. Outside this small group of highly developed countries, in contrast, average inflation rates are high and are strongly related to openness. The average log inflation rate of countries other than the highly developed eighteen is -2.0 (which corresponds to 13.4 percent inflation). In this sample, controlling for per capita income, the t-statistic on openness is -4.6, and the point estimates imply that for a country with per capita income equal to the sample median, average inflation falls from 21 percent to 8 percent as
+13. The countries (listed in order of 1980 per capita income) are the United States, Canada, Norway, Luxembourg, Switzerland, Germany, France, Denmark, Japan, Iceland, Belgium, the Netherlands, Sweden, Finland, Australia, Austria, the United Kingdom, and New Zealand. For comparison, the next wealthiest countries (again excluding major oil producers) are Hong Kong, Italy, Trinidad and Tobago, Israel, Spain, Singapore, Ireland, Malta, and Uruguay.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+884 QUARTERLY JOURNAL OF ECONOMICS
+openness rises from 0 to 75 percent (column (10) of Table III). Finally, openness accounts for a substantial fraction of the variation in inflation among these countries: a simple regression of the log of average inflation on a constant and openness has an R2 of 0.17. Thus, the data are consistent with the view that there is a group of approximately fifteen to twenty highly developed countries that have largely solved the problem of dynamic inconsistency of optimal monetary policy. For these countries, average inflation rates are low and are unrelated to a measure of policy-makers' incentives to attempt surprise expansions. In the rest of the world, on the other hand, the problem of dynamic inconsistency does not appear to have been solved: average inflation rates are much higher and are strongly related to the benefits of expansion.14 The differences in political stability and central bank independence between the eighteen highly developed countries and the rest of the world provide some support for this interpretation. The measure of political instability is zero for seventeen of the eighteen wealthy countries, and its mean for this group is just 0.01. In contrast, the measure is positive in more than four-fifths of the remaining countries, with a mean of 0.23. There are similar, though less pronounced, differences in the two variables underlying Cukierman, Webb, and Neyapti's [1992] overall index of central bank independence, the turnover rate of the central bank governor and their measure of the bank's legal independence.15 The mean turnover rate is 0.11 (with a standard deviation of 0.04) for the eighteen wealthy countries and 0.27 (0.16) for the remaining countries. The mean of the legal independence index is 0.37 (0.16) for the eighteen wealthy countries and 0.35 (0.10) for the remainder. These differences account for a considerable portion of the
+14. For the sample that excludes the eighteen highly developed countries, there is no evidence either that average rates of inflation are declining in income or that the link between openness and inflation weakens as income rises. In this group of countries, average inflation is in fact increasing in average income (column (10) of Table III). And when an interaction term between openness and income is added to the regression, its coefficient is negative and significant, suggesting that the inverse link between openness and inflation becomes stronger rather than weaker as income rises. Thus, the data are not at all supportive of the view that the extent to which countries have solved the dynamic inconsistency problem is a smoothly increasing function of their level of development. 15. The weights on turnover and legal independence in Cukierman, Webb, and Neyapti's [1992] overall index are determined by regressions of average inflation on the two variables, using separate regressions for industrialized and nonindustrialized countries. This procedure (although appropriate for many purposes) has the effect that the overall index accounts by construction for the differences in average inflation rates between the two groups of countries.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 885
+differences in average inflation and its responsiveness to openness between the two groups of countries. The regression in column (3) of Table II, for example, implies that a change in political instability of 0.223 (the difference in the means between the two groups) is associated with a change of 0.16 in the log of average inflation for a country with the average level of openness, and with a change of 0.69 in the impact of openness on average inflation. For comparison, the differences in these two figures between the wealthy eighteen and the remainder of the sample are 0.60 and 1.22, respectively. Similarly, a regression analogous to column (6) of Table II using turnover and its interaction with openness (rather than the overall index of dependence and its interaction with openness) implies that the difference in average turnover between the two groups of countries accounts for differences of 0.36 in log inflation and 0.81 in the impact of openness on log inflation.16 It is likely that the differences in these very rough measures of instability and dependence understate the extent to which the highly developed countries have been more successful in overcoming the dynamic inconsistency problem. If this is correct, the portion of the differences in average inflation and its responsiveness to openness between the two groups of countries that is due to differential success in dealing with dynamic inconsistency could be considerably larger than these calculations suggest.
+V. ALTERNATIVE EXPLANATIONS
+This section considers two alternative explanations of the negative association between openness and average inflation. Endogenous openness. The first alternative is that openness is endogenous. The ratio of imports to GDP depends not just on a country's size-the variable emphasized in the theoretical modelbut also on the country's policy choices. It is possible, for example, that countries that adopt protectionist policies also adopt other policies benefiting particular interest groups, and that this in turn leads to large budget deficits and hence to high rates of inflation to generate seignorage revenues. If so, a negative correlation between openness and inflation could arise through this channel rather than through the impact of openness on policy-makers' incentives to pursue expansionary policies.
+16. The results using political instability and turnover together are similar to those using turnover alone. As described above (see footnote 12), legal independence has relatively little explanatory power for inflation.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+886 QUARTERLY JOURNAL OF ECONOMICS
+TABLE IV INSTRUMENTAL VARIABLES ESTIMATES
+(1) (2) (3) (4)
+Constant -1.615 -1.628 -1.388 -2.020 (0.161) (0.159) (0.474) (0.746)
+Openness -1.316 -1.395 -1.345 -0.994 (0.399) (0.410) (0.433) (0.422)
+Log real income -0.033 -0.010 per capita (0.063) (0.109)
+Data dummies included? No Yes Yes Yes
+Regional dummies included? No No No Yes
+R2 0.103 0.112 0.118 0.371
+S.E.E. 0.675 0.677 0.678 0.586
+See notes to Table I. The equations are estimated by instrumental variables, treating openness as endogenous and using log land area (along with the other right-hand-side variables) as an instrument.
+To address this possibility, I reestimate the basic regressions by instrumental variables, treating openness as endogenous and using a country's land area (in logarithms) as an instrument. Data on land area are listed in the final column of Appendix 2. A country's land area is not determined by its current policies. Thus, land area can reasonably be assumed to be uncorrelated with the policy determinants of the ratio of imports to GDP. At the same time, land area is strongly negatively correlated with openness. A regression of the ratio of imports to GDP on a constant and log land area produces a t-statistic on log land area of -9.5 and an R2 of 0.45.17
+Table IV reports the instrumental variables estimates. The instrumental variables estimates of the impact of openness on inflation are in fact larger than the ordinary least squares estimates. In the simple regression of the log of average inflation on openness and a constant, for example, the IV estimate is -1.32,
+17. This discussion makes it clear why I consider only the cross-section variation in openness: it is likely that a considerable part of movements in openness within countries over time are caused by changes in trade policy and by a variety of macroeconomic forces. These factors most likely affect inflation mainly through channels other than their impact on openness. Thus, investigating the time-series relationship between openness and inflation would be likely to yield biased estimates of the effects of openness. In other words, there is no evident instrument analogous to land area that can be used to isolate a component of the time-series variation in openness that is plausibly uncorrelated with other determinants of inflation.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 887
+while the OLS estimate is -1.01. In addition, the IV estimates are always highly significant. Hausman tests fail to reject the null hypothesis that the IV and OLS estimates are equal. Thus, these results provide no evidence that possible endogeneity of the import share is the source of the negative association between openness and inflation. These results are not entirely robust, however, to the choice of instruments. Population is a natural alternative to land area as a relatively exogenous measure of country size. A regression of openness on a constant and the log of population produces a t-statistic of -8.4 and an R2 of 0.38 (the population data are for 1985 and are from Summers and Heston [1988]). When both log area and log population are used as instruments, the results are very similar to the OLS results, and the estimated impact of openness on inflation remains highly significant in all four of the specifications considered in Tables I and IV. But when log population alone is used, the estimated impact of openness on inflation is much smaller than in the OLS regressions and is not statistically significant. I leave this finding as a puzzle for future work.18 Budgetary explanations. The second alternative interpretation that I consider is that the negative association between openness and inflation reflects considerations involving the government budget and seignorage rather than the absence of precommitment in monetary policy. The argument takes two specific forms. First, the amount of revenue generated by a given tariff is increasing in the openness of the economy. Thus, the governments of smaller countries may obtain larger fractions of their revenues from tariffs, and may therefore rely less on other sources of revenue, including seignorage. The result may be lower rates of inflation.19 Second, the elasticity of demand for domestic currency with respect to the inflation rate may be higher in more open economies: greater trade may make foreign currencies more easily available, and may therefore make it easier for residents to obtain substitutes for domestic currency. If this is the case, then the optimal tax rate on domestic currency-the inflation rate -is lower in more open economies. Although these budgetary arguments are not a priori implau
+18. These findings imply that inflation is lower in more densely populated countries. Direct regressions of log inflation on log density show that this relationship is highly statistically significant (t = 3.4) in a simple regression but not quite significant (t = 1.6) when the regional dummies (again treating the OECD and the oil producers as "regions") are included. 19. This argument is made by Cukierman, Edwards, and Tabellini [1992].
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+888 QUARTERLY JOURNAL OF ECONOMICS
+sible, three pieces of evidence strongly suggest that they do not account for the negative association between openness and inflation. First, tariffs and seignorage are much more important sources of revenue for poor countries than for rich ones. The average share of central government revenue in 1980 obtained from tariffs is 3 percent for the eighteen highly developed countries, 11 percent for countries with per capita incomes between $4000 and $7300, 26 percent for countries with per capita incomes between $1000 and $4000, and 32 percent for countries with per capita incomes below $1000. Similarly, the average shares of revenue coming from seignorage for these four groups of countries are 0 percent, 2 percent, 6 percent, and 8 percent, respectively [IMF, 1986b, pp. 8-9, 24-25).2o Since the budgetary arguments rest on the importance of these revenue sources, they predict that the link between openness and inflation should decline as per capita income rises. This prediction can be tested by adding an interaction term between openness and log real income per capita to the regressions. If the link between openness and average inflation lessens as tariffs and seignorage decline in importance, the coefficient on the interaction term will be positive. There is no evidence that the relationship between openness and inflation becomes weaker as income rises. Despite the fact that the openness-inflation link is absent among the most highly developed countries, for the full sample the interaction term enters with a negative coefficient, contrary to the prediction of the budgetary explanation of the results. In the regression analogous to column (3) of Table I, for example, the coefficient on the interaction variable is -0.37 (with a standard error of 0.28). The point estimates imply an effect of openness on log inflation that increases from -0.55 to - 1.33 as 1980 real income per capita rises from the twenty-fifth percentile ($730) to the seventy-fifth ($5974) among the countries in the sample. The hypothesis of no interaction cannot be rejected. Moreover, the data appear inconsistent with the view that the effect declines substantially as real income rises. Even if the true coefficient on the interaction variable were two standard errors larger than the point estimate, the effect of openness and log average inflation would change only by 0.41 as real income rose from its twenty-fifth percentile value to the seventy-fifth percentile.
+20. Since per capita income is a very poor measure of development for the major oil producers, these countries are excluded from the calculations.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 889
+Second, the importance of tariff revenue, and the strength of the link between country size and the use of tariffs, are much too small to account for the size of the link between openness and inflation. Because even very small countries obtain only moderate fractions of their revenues from tariffs, the use of tariffs does not free these countries from the need to obtain significant revenues from other sources. Consider, for example, a regression of the fraction of central government revenue obtained from tariffs on a constant, openness, the dummy for the alternative measure of openness, and log real per capita income.21 The coefficient estimates from this regression imply that for a country with per capita income equal to the sample median, as the share of imports in GDP falls from 60 to 20 percent, the fraction of the government's revenue coming from tariffs rises from 27 to 18 percent. Thus, the fraction coming from sources other than tariffs falls from 73 to 82 percent, or by about 12 percent. The basic openness-inflation regressions, however, imply that the same change in openness is associated with an increase of about 50 percent in average inflation. It is not plausible that this very large increase in inflation could be the result simply of shifting away from tariffs toward all other revenue sources. This could occur only if seignorage revenues were only very slightly increasing in the inflation rate. As I describe below, this does not appear to be the case. Thus, it appears that the tariff-based explanation can account for at most a small part of the openness-inflation relationship. The third piece of evidence that the budget-based explanations of the results are not correct is that the elasticity of money demand also does not appear to vary in a quantitatively important way with the degree of openness. Fair [1987] and Driscoll and Lahiri [1983] estimate money demand functions for large groups of countries.22 Fair focuses on developed countries: his sample consists of twenty OECD members and six less developed countries. He estimates money demand with the interest rate entered both in logarithms
+21. Because of the obvious simultaneity problem (increased reliance on tariffs reduces measured openness) the regression (like those in Table IV) is estimated by instrumental variables, treating openness as endogenous and employing log land area as an instrument. The data on tariff revenue are for 1980 and cover 97 of the 114 countries; they are from the IMF [1986b, pp. 24-25]. 22. The measure of money used by these authors is currency plus demand deposits rather than high-powered money, which is what is relevant for seignorage. But the argument that the interest elasticity of the demand for high-powered money is higher in more open economies appears to apply equally well to the demand for currency and demand deposits.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+890 QUARTERLY JOURNAL OF ECONOMICS
+TABLE V THE RELATIONSHIP BETWEEN OPENNESS AND THE ELASTICITY OF MONEY DEMAND
+(1) (2) (3)
+Interest Interest elasticity semielasticity Inflation sensitivity of money demand of money demand of inverse velocity [Fair, 1987] [Fair, 1987] [Driscoll and Lahiri, 1983]
+Constant -0.0364 -0.00073 -0.000031 (0.0153) (0.00190) (0.000758)
+Openness 0.0150 -0.00787 -0.00161 (0.0488) (0.00606) (0.00283)
+R2 0.004 0.066 0.031 S.E.E. 0.032 0.0039 0.00097
+and in levels: the dependent variable is the log of the real money stock in both cases. Driscoll and Lahiri consider twelve less developed countries. They use the inverse of velocity as their dependent variable and inflation (rather than the interest rate) as their measure of the cost of holding money, and inflation is entered linearly. Table V presents simple regressions of these estimates of the interest or inflation sensitivity of money demand on the degree of openness.23 The results suggest a small and statistically insignificant effect of openness on the slope of the money demand function. None of the estimated coefficients are significant, and in one case the regression suggests that money demand is in fact less elastic in more open economies. In addition, both Fair's [1987] and Driscoll and Lahiri's [1983] estimates suggest that the elasticity of money demand is small (less than 0.1), even in quite open economies.24 Thus, the possible loss of seignorage revenues is unlikely to be a central determinant of the average inflation rate in most situa
+23. Fair's [1987] estimates are from his Table 1; Driscoll and Lahiri's [1983] are from their Table 1. Adding the log of average inflation or the log of per capita income to the regressions has no important effect on the results. 24. To convert the fitted semielasticities in column (2) into elasticities, it is necessary to multiply by the interest rate. Since Fair enters the interest rate in percent, for an interest rate of 15 percent the fitted values must be multiplied by 15. For column (3) the conversion factor is the product of velocity and the inflation rate. Thus, for inflation of 15 percent and velocity equal to 5, the fitted values must be multiplied by 75. The resulting elasticities are consistently less than 0.1.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 891
+tions: over the relevant range, higher inflation leads to little erosion of the money stock.25 In sum, both budgetary explanations of the link between openness and inflation are contradicted by the fact that the link does not become weaker as real income rises. In addition, the basic mechanisms underlying both explanations appear much too weak to account for the magnitude of the openness-inflation link: small countries obtain only moderately more revenues from tariffs than large countries do, and the elasticity of money demand is small and is at most only slightly increasing in openness. The explanation based on the absence of precommitment in monetary policy, in contrast, provides an explanation not only of the basic opennessinflation relationship but of its interactions with central bank independence and political stability.
+VI. CONCLUSION
+This paper demonstrates that average rates of inflation are lower in smaller, more open economies. This relationship is statistically significant, quantitatively large, and robust. It holds over a wide range of countries, with the exception of a small group of highly developed countries in which average inflation rates are low and unrelated to openness. The relationship is stronger in countries that are less politically stable and have less independent central banks. Finally, the relationship accounts for a moderate amount of the overall cross-country variation in average inflation rates. The paper also proposes an explanation of this relationship. Because unanticipated monetary expansion causes real exchange rate depreciation, and because the harms of real depreciation are greater in more open economies, the benefits of surprise expansion are a decreasing function of the degree of openness. Thus, if the monetary authorities' temptation to expand is an important determinant of inflation-that is, if the absence of binding precommit
+25. The evidence from hyperinflations (both historical and modern) also suggests small inflation or interest elasticities of money demand. Despite vast increases in inflation, real money holdings (and real high-powered money holdings) typically fall by much less than a factor of ten in hyperinflations. The estimates in Cagan's [1956] classic study, for example, imply that the long-run inflation elasticity of money demand is generally less than 0.1 for inflation rates less than 20 percent, and that the inflation rate that maximizes steady state seignorage is typically not reached until inflation (measured as the change in the log of the price level) reaches about 300 percent.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+892 QUARTERLY JOURNAL OF ECONOMICS
+ment is important to monetary policy-monetary authorities in more open economies will on average expand less, and the result will be lower average rates of inflation. This interpretation of the results implies that the most highly developed countries may have found some means of overcoming the problem of dynamic inconsistency of optimal monetary policy, but that the remaining countries of the world have not. The paper considers two other candidate explanations of the inverse relation between openness and inflation, one based on endogenous openness and one based on how governments' ability to collect different types of revenue varies with openness, and finds that neither fits the facts. These findings suggest that models in which the absence of precommitment in monetary policy leads to inefficiently high average levels of inflation are essential to understanding inflation in most of the world. The results also suggest that increased economic cooperation and integration, particularly outside the most highly developed countries, should be viewed with caution: in the absence of some mechanism to overcome the dynamic inconsistency problem, increased integration may lead to large increases in inflation.
+APPENDIX 1: AN ILLUSTRATIVE MODEL
+This Appendix demonstrates the claims made in Section II concerning the impact of openness on equilibrium inflation under discretionary policy in the context of a particular model. Assumptions. Consider a country whose citizens consume a continuum of differentiated goods and that imports fraction a of those goods. a thus measures the country's degree of openness. Let e be the change from the preceding period in the log exchange rate, p* the change in the log price index for foreign goods in foreign currency units, and p the change in the log price index for domestically produced goods in domestic currency units. Then the rate of consumer price inflation (that is, the change in the log CPI), X, is given by
+(A.1) x = a(e +p*) +(1 a)p.
+Assume that an individual's utility from consumption is a CES combination of his or her consumptions of the different goods, and let a < 1 denote the inverse of the elasticity of substitution between any two goods. Because goods produced at home are imperfect substitutes for goods produced abroad, an expansion of
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 893
+domestic output drives down the relative price of domestically produced goods:
+(A.2) e +p* -p = ax(y -y*),
+where y is the change in log domestic output and y* the change in log foreign output. Assume that fraction f of domestic prices are flexible in the short run and the remaining 1 - f are rigid. (This could arise from overlapping contracts or heterogeneous costs of price adjustment, for example. I discuss below how f could be made endogenous.) Then
+(A.3) p = fp + ( - f )P-9
+where f and - are the rates of inflation of prices that are flexible in the short run and those that are fixed, respectively. Assume that flexible prices are set according to
+(A.4) P - X= 4Y, 1 > O,
+where uppercase symbols denote log levels (rather than log changes) of the corresponding lowercase variables. Equation (A.4) states that the real prices charged by firms that can adjust their prices ex post are increasing in aggregate output. 4+ measures the degree of responsiveness of the flexible prices to output. For example, in the simple case in which labor is the only input into production, the labor market is competitive, wages are flexible, and there are constant returns, 4+ would simply be the inverse of the elasticity of labor supply. Since, as will be seen below, initially prices are at their equilibrium values, equation (A.4) also holds in changes:
+(A.4') p5 - x = fly.
+Finally, money demand is given by
+(A.5) m -p =Y.
+where m is the change in the log money stock. Equation (A.5) could arise from a cash-in-advance constraint or from an assumption that money enters the utility function; alternatively, it can be viewed simply as a shortcut way of modeling aggregate demand. Analogous equations describe the rest of the world, which for simplicity consists of a single country. Thus, letting an asterisk denote a foreign variable:
+(A.6) x* = ap* + (1 - *p - e),
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+894 QUARTERLY JOURNAL OF ECONOMICS
+(A.7) p* = fp* + (1 - f )j,
+(A.8) p3 -x* = HY*
+(A.9) m* p p = y*.
+If all prices were perfectly flexible (f = 1), the equilibrium would bep = m, p* = m*,y = y* = 0, ande = m - m*. Because of imperfect competition, the equilibrium level of output is less than the socially optimal level. Assuming that each good is produced by a separate firm, each firm's ratio of price to marginal cost is 1/(1 - a). Thus, at the flexible-price equilibrium, the marginal impact of an increase in y on welfare (with the real exchange rate held fixed), measured in units of real output, is a. In addition, changes in the real exchange rate, because they represent changes in the real price of foreign goods, also affect welfare. Since the equilibrium level of output is one and since the fraction of goods purchased from abroad is a, the marginal welfare impact of a rise in e + p* - p (withy unchanged) is -a. Finally, following the standard practice in this literature, I assume a direct cost to inflation. Because it seems realistic, I assume that it is CPI inflation, rather than domestic price inflation, that is costly. (Assuming that the cost of inflation is associated with domestic inflation would not change the central results.) Let the cost be c(x), and assume that c'(*) > 0, c"(,*) > 0. The effects of a monetary expansion. Equations (A.1)-(A.9) can be used to find the effects of an increase in the money supply m with predetermined prices P (and price -*) already set. The effect on output, domestic inflation, CPI inflation, and the real exchange rate are given by
+(A. 1 Oa) dy _ (1 - f)[(l - f) + [(1 - a)a + 4]f ]
+(A.10a) ~dm A
+(A.10b) dp _f [1
+dm A
+(A.10c) dx f[(1 -f) +f(4) + a)] + (1 -f)aa(l +fi)
+dm A
+(A.10d) d(e+
+where
+(A.11) A =_ r( - fin + (^fl[(l -f) + (40+ o fl
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 895
+Since A does not depend on the degree of openness a, it follows immediately from (A.lOa)-(A.lOc) that the effect of a monetary expansion on output is smaller in a more open economy, and that its effects on both domestic and CPI inflation are larger. Thus, the
+output-inflation trade-off facing policy-makers (measured as either dy/dp or dy/dx) is less favorable in a more open economy. The impact of an increase in money growth on the real exchange rate, in
+contrast, is independent of openness. But since the welfare cost of a given real exchange rate depreciation is larger the more open the
+economy-since a larger fraction of goods are purchased from abroad-real exchange rate depreciation provides a greater disincentive to expansionary monetary policy in more open economies. Equilibrium inflation. To complete the model, it is necessary
+to specify how -, -*, m, and m* are determined. Assume that firms
+that set prices before m is known have the same objective function as firms that set prices ex post. Thus, paralleling (A.4') and (A.8),
+(A.12) T-= E[x + y],
+(A.13) j* = E[x* + My*],
+where E denotes expectations conditional on the information available when prices are set. Together with equations (A. 1)-(A.9), (A. 12) and (A. 13) imply that
+(A.14) -= E[mL
+(A.15) pa* = E[m*].
+There are two requirements for equilibrium. The first is that expectations are rational. Since there is no uncertainty in the
+model, from (A. 14) and (A. 15) this condition is simply P = m, ] m*. Thus, in equilibrium output equals its flexible-price level. The second equilibrium condition is that the monetary authority chooses money growth optimally ex post, taking pj (and ]-*) as given. This requires that
+(A.16) ~dy d(e +p* -p) (Xdx
+(A. 16) aL- a ( )-C' ) d
+dm dm dm.
+Together, (A.14) and (A.16) imply that in equilibrium (A.16) must hold at a point at which p- = m, and hence y = 0-that is, at the flexible-price equilibrium. In other words, expected inflation, and hence the growth rate of prices that are set in advance, must adjust
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+896 QUARTERLY JOURNAL OF ECONOMICS
+to the point where the monetary authority does n additional inflation ex post. Similarly, the conditi rium rate of money growth abroad is
+dy* d(e +p* -p) _ dx*
+(A.17) a dm* + (1 - a) dm* - c(x*) dm*=
+Equation (A.15) implies that this condition must hold at a point where-* = m Substituting (A.1Oa), (A.lOc), and (A.1Od) into (A.16) establishes formally the model's central prediction that increased openness reduces equilibrium inflation. dy/dm is decreasing in a, and a[d(e + p* - p)/dm] is increasing in a. Thus, the left-hand side of (A.16) is decreasing in a. In addition, dxldm is increasing in a. Since c'(x) and c"(x) are positive, maintaining the equality as a rises requires that x fall.26 Because the basic mechanism through which increased openness reduces equilibrium inflation is straightforward, the central results of the model-that increased openness worsens the outputinflation trade-off and lowers equilibrium inflation-are very robust. For example, assuming that foreign output and prices are unaffected by domestic monetary expansion does not change these conclusions. The same is true of allowing separate parameters to determine the effect of domestic output relative to foreign output on the real exchange rate and the welfare benefit of increased output (both of which are currently determined by a, the inverse of the elasticity of substitution between goods). Similarly, the choices of whether it is CPI inflation or domestic price inflation that is relevant for firms' price-setting decisions, for money demand, and for the costs of inflation are not important to the model's conclusions.
+26. Allowing the fraction of firms with flexible prices ( f ) to be endogenou would strengthen these results. Suppose that it is costly for a firm to retain t ability to adjust its price ex post, and suppose that this cost varies across firms. O can show that in response to a given surprise change either in m or in m*, a firm desired price change is larger the more open the economy (that is, dj3/dm a d13/dm* are increasing in a). The firm's incentive to adjust its price is theref greater in a more open economy. Under natural assumptions (for example, that t distribution of costs of having a flexible price is the same in the two countries an that the variances of the surprise monetary shocks in the two countries are equ the fraction of firms with flexible prices would therefore be larger in the more ope economy. This would provide another channel through which increased openness worsened the output-inflation trade-off, and would therefore cause increased openness to lower equilibrium inflation even further.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 897
+LO t- 0 LO 0 oo C Cl N 0 0 0 0> t m Cm N LO CD N a M a) O Lo t- 4 M CO cs 0 o C O t-t N 14 C O rcs M M 14 L
+Lo9 Q o r-- M N Lo r- - .t4 r- oo 4 oo N L- Lo 00 M r- L o C
+rn
+r- - O Co Lo r- 14 q Co 00 0 so r 0 Lo ,,d M M M
+Cd . o Ot4 Cq Cq r- Cq r- 0 N N 14~ m LO m L
+a)0) L
+M-1
+x cq ? 0 ? o Lo o N CO uLo oo o0 C O M 1 CO o
+C -I -ICo 0 C- Co o Co o
+m sH S A1- . . . . . . . . . . . . . . . . . . . . .
+" -4) 0 0 0 0 0 000 0
+1- 4ca.ioo o W 4 O Cd M u- CO CO M M Lo Cq - r u r o
+<; ~ ~~~~ .,1 ,o M 00 o ,1 Lo oq Co q t- Lo Lo 00 M t- M 0 t- Lo 00
+4.-.
+00 u u r- td4 0000 oo. M .td4 M -4 6 M Cq 66666666
+z
+a) CL a) J O cs u: .4> N oo oO cs cs > o LO a) '-4
+5 r.- *E- *=- 0 r O. e n t- r- LO Cq r-- N C
+0 : E ,cs q E X ;: E
+-4 -4~
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+898 QUARTERLY JOURNAL OF ECONOMICS
+Cq - _I t 0 0 0 M 0 M CO 00 C 0i N O x m 0
+m 0 m 0 0 C CO m C- O { 0 _I 0 l " 0 t O 0 CO
+| 6 06 Ce Q e 0 ci, t- O~ C6 6 c O~ O
+^0a~~O00000O0t00mC
+r co 'I r-- ?j N oo >q
+0
+cd c; c; o; o; o; o oo o
+4c
+o w b CS o C O r
+_~~ _~ oO oooooooo
+w; > Og. N 0 00 - U' O 10 In m 0 m fl 10 r- M N m n U' w 10 O CS 0 O Q O N O m 0 t- U- m N 0 U-. N M L- so 0
+PQ cs cU , N :0Co cn "t m o cm co m LO t- "t cm m co co o cN N
+1-4O
+c m M rj r ,d4 MZI - o Lo - M M 0 Cq t- 4-0 0 4 CO 0
+CZ
+> ..s r N.1 r rq r - 0. 0. r l r -q rC C co
+Q Co'0.C N C 0 C r d N N M L N . N > t C C X C
+n~~~~~~~~~~~~~~~~X
+c e E E X S = ? X Y = = A c U Q; = _ = W c
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 899
+W M 0 CO o N r- 14 L- o 0 o o o 0 o- Wo N M L- C
+9 ;, m Q s o N o o ~~~~~~ > s Q CO oo N o s Q Q~.0 1 N N L o C
+t~~~~~~~~ 6 Co Ce 4 ,^ d^ C6 t._^ ^ oo 6 _4 C:6 t:6 L6> oo^ t_
+m c q Cq ,, M Cq M ., Cq ,,4N
+Cd rJ
+04-4
+CC )
+oC 0 0 0 oo L L o L Lo M 0 W , o M 0 C
+-4
+0- 4 ' 0 '~~0 )
+~~~~~~~,,MLo,d.WLoNM,,d140MML-Q>Q~~
+A4 O
+b?~ Oo Qo OsC 0000000000000000000 00
+epo .= .=d M
+z Z 0 Cfj o 4W10 M 1 ~ 10 I 4r- ~ o 1
+? .;; .= .s
+00
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+900 QUARTERLY JOURNAL OF ECONOMICS
+. ) C CO 0 M o o
+ci oo6 6 6c,666x c 6 i06 t- 6 x x 6 L6 - 6
+; $, m ~~~~ Q Q oo oo o o Q CO o Q o Q N CO e rQ- ,td r-- ooeo
+4-4
+z -4
+cd
+b 0 o cl 0 N N
+-4 a 000 4 M 0 O N 14 N 0 M N
+O- 4
+c~~~l .0~~~~
+M, M Co r- ,,d Cq M 0 00 r-- q t- Lo LO M X w = = ~~~ ~ O O N ~~~ O ~ l N r- m
+0 .0 L 0 r- - ,d - ,d - L - - r
+=nZOOOOO OO OO OOO
+cd o664 v 6tz6c 6t1L6cicio 6666ci.
+> Q-QQOOn QOQQQ>
+S P- .0 t- 0 g Lo O0 - t- r- Lo .~d M ,,d Lo 0 C.0 M ,,d 0 00 ,, kC~ ~ ~~~~~~ ~~~~~ Lo M O M rU:) -4d ,,d O CdO od N NoO<q ? N M - M ,, d
+O~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-I
+; cas oo s s ~~~ ~ Cs e > o s e > e s Cs oOco OoO O O Co
+& o; v s s Q > Q s e Q > > ~~ e e s s Q e co Co bn -0 Q = .E .= c n ~~ e n n n ~~ ~ ~ N N N N N N n 4 C' n 4 .,
+0 C= o B4 0
+St t tt v vz v mm m
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 901
+0 o N r' 0d 0 0r o O 0 LO L 0 a C' 0 t- a) 0 C' "I W M oo CM L e s o N W t_ >C
+4 L6 tw sN C C6 t6 L
+a) LO Coo
+4-4
+0-4 o M b b Q Q00 C ' o o s e H Q Q o - o o
+oo ;-4 o o o >>o o6 66o6
+~Z
+W E
+n ~ ~ ~ ~ ~ ~ ,d Cq .,d . . 00 Lo t- M 0 M N N Cq 0 q W Cq O O
+X~~~~~~~- O6 c- ci v iQ oO Oi Oi 6 L6 t6 o6 o6 e, ai 6 6 t6 4 4
+0 P-4 t ~ ~ ~ ~ ~ 0 g~~
+m M 00 Co M .,d t 00 00 Lo M 0 r-- 00 00 Cq Cq O q O M M
+0 Lo Co Co L o - L- 0 .d oo Lo M L o M - oo N M M L- M n ,
+Q = *E *? .m N ~Cq M Lo t- M N ,,d N Cq ,, M ,,d m cq N q
+A
+|C, C .C
+u~u~u~u u *u~u~u~uDE~E~E~E~E E~E~>>>>>C
+HHHH H Q
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+902 QUARTERLY JOURNAL OF ECONOMICS
+LO "m LO w
+2|lomUs
+cof
+Ma c t o w - m
+Z LOC N; r.- X f
+$tEd -4o
+<.j .s Lq'
+=0 M ,
+>, r-4 U ,
+bC~~~~~~~~ U,~~~~CZc
+o -4-5 ig~~~~~~~~' a)
+U, Cs~
+0~~~~~~~~~~~~~
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms
+
+
+OPENNESS AND INFLATION 903
+UNIVERSITY OF CALIFORNIA, BERKELEY
+REFERENCES
+Ball, Laurence, and David Romer, "Real Rigidities and the Non-Neutrality of Money," Review of Economic Studies, LVII (April 1990), 183-203. Barro, Robert J., "Economic Growth in a Cross Section of Countries," Quarterly Journal of Economics, CVI (May 1991), 407-43. Barro, Robert J., and David B. Gordon, "A Positive Theory of Monetary Policy in a Natural Rate Model," Journal of Political Economy, XCI (August 1983a), 589-610. Barro, Robert J., and David B. Gordon, "Rules, Discretion and Reputation in a Model of Monetary Policy," Journal of Monetary Economics, XII (July 1983b), 101-21. Blanchard, Olivier Jean, and Nobuhiro Kiyotaki, "Monopolistic Competition and the Effects of Aggregate Demand," American Economic Review, LXXVII (September 1987), 647-66. Cagan, Phillip, "The Monetary Dynamics of Hyperinflation," in Milton Friedman, ed., Studies in the Quantity Theory of Money (Chicago: University of Chicago Press, 1956), pp. 25-117. Cukierman, Alex, Sebastian Edwards, and Guido Tabellini, "Seigniorage and Political Instability," American Economic Review, LXXXII (June 1992), 53755. Cukierman, Alex, Steven B. Webb, and Bilin Neyapti, "Measuring the Independence of Central Banks and Its Effects on Policy Outcomes," World Bank Economic Review, VI (September 1992), 353-98. Driscoll, Michael J., and Ashok K. Lahiri, "Income-Velocity of Money in Agricultural Developing Economies," Review of Economics and Statistics, LXV (August 1983), 393-401. Fair, Ray C., "International Evidence on the Demand for Money," Review of Economics and Statistics, LXIX (August 1987), 473-80. Fischer, Stanley, "Rules versus Discretion in Monetary Policy," in Benjamin M. Friedman and Frank H. Hahn, eds., Handbook of Monetary Economics, Volume 2 (Amsterdam: North-Holland, 1990), pp. 1155-84. International Monetary Fund, International Financial Statistics Supplement on Price Statistics, IFS Supplement Series, No. 12 (Washington, DC: International Monetary Fund, 1986a). International Monetary Fund, International Financial Statistics Supplement on Government Finance, IFS Supplement Series, No. 11 (Washington, DC: International Monetary Fund, 1986b). International Monetary Fund, International Financial Statistics Supplement on Trade Statistics, IFS Supplement Series, No. 15 (Washington, DC: International Monetary Fund, 1988). Kydland, Finn E., and Edward C. Prescott, "Rules Rather than Discretion: The Inconsistency of Optimal Plans," Journal of Political Economy, LXXXV (June 1977), 473-92. Phelps, Edmund S., "Phillips Curves, Expectations of Inflation, and Optimal Employment over Time," Economica, XXXIV (1967), 254-81. Rogoff, Kenneth, "The Optimal Degree of Commitment to an Intermediate Monetary Target," Quarterly Journal of Economics, C (November 1985a), 1169-90. __"Can International Monetary Policy Cooperation Be Counterproductive?" Journal of International Economics, XVIII (1985b), 199-217. , "Reputations, Coordination, and Monetary Policy," in Robert J. Barro, ed., Modern Business Cycle Theory (Cambridge: Harvard University Press, 1989), pp. 236-64. Summers, Robert, and Alan Heston, "A New Set of International Comparisons of Real Product and Price Levels Estimates for 130 Countries, 1950-1985," Review of Income and Wealth, XXXIV (March 1988), 1-25. Taylor, John B., "Comments," Journal of Monetary Economics, XII (July 1983), 123-25. Vaubel, Roland, "Currency Competition and European Economic Integration," Economic Journal, C (September 1990), 937-46.
+This content downloaded from
+158.143.233.108 on Sun, 17 Nov 2024 21:41:51 UTC All use subject to https://about.jstor.org/terms

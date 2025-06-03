@@ -1,0 +1,1184 @@
+Conditionality, fiscal rules and international financial control in the European periphery before 1914
+Ali Coşkun Tunçer*
+September 2016
+Abstract
+Ensuring fiscal discipline of debtor governments in order to reduce default risk
+has been a key concern for foreign creditors both today and in the past. This paper
+discusses the functioning and evolution of one particular method of securing
+payment from a historical perspective: lending conditionality via international
+financial control. By focusing on the major defaulters in the European periphery
+during 1870-1914, the paper maintains that the success of lending conditionality
+in the form international financial control was mainly determined by the
+willingness and ability of the debtor governments to comply with the advice of
+their foreign creditors -or in the modern language by the “country ownership” of
+fiscal programs. Limited fiscal capacity created incentives for the debtor
+governments to cooperate with foreign creditors but this willingness to cooperate
+was constrained by the political representation of taxpayers, since foreign control
+usually implied heavy taxation of key sectors. The findings of the paper suggest
+that, similar to today’s Eurozone fiscal discipline programs, the success of
+international financial control over government finances was dependent upon the
+political economy of fiscal and political institutions of debtors.
+Keywords: international financial control, sovereign debt, conditionality, fiscal rules, pre
+1914.
+* University College London, History Department, Gower Street, London WC1E6BT;
+a.tuncer@ucl.ac.uk
+
+
+1
+1. Introduction
+Following the recent European sovereign debt crisis, introducing and enforcing
+effective fiscal rules have increasingly been put forward as a remedy for ensuring
+fiscal discipline among the members of the Eurozone. The implications of
+different policy instruments, especially as regards to political feasibility and
+credibility, have been extensively debated amongst the economists and
+policymakers. In order to reduce the risk of future crises strict policy
+conditionality, mostly in the form of adopting a credible austerity package, has
+been put forward as a major requirement for financial assistance through
+European Stability Mechanism and Economic Adjustment Programme. At the
+extreme end, several proposals include establishment of independent fiscal
+agencies or fiscal councils in debtor states as a solution to the deficit bias of
+Eurozone countries (Castellani and Debrun, 2005; Featherstone, 2015; Grauwe,
+2011; Ioannidis, 2015; Hagemann, 2011; Kaplanoglou and Rapanos, 2013).
+This paper explores how European financial markets dealt with similar
+problems in the past, and discusses the functioning and evolution of lending
+conditionality and fiscal rules during 1870-1914, when global capital flows were
+at its peak. One of the consequences of the global expansion of capital markets
+during this period was the rapid increase in sovereign debt from surplus to
+deficit countries, which eventually led to defaults on foreign obligations in many
+debtor states (Suter, 1990).1 As a response to defaults, foreign bondholders and
+their respective governments adopted several coercive tools, which included
+seizing the assets of debtor countries through military intervention, imposing
+trade restrictions and preventing access to future credit. More refined solutions
+sought to reduce default risk through issue of loans, which were contracted on
+strict conditions. These different enforcement mechanisms, repayment
+incentives and lending strategies constituted the pillars of global governing
+sovereign debt before 1914.
+The focus of this paper is on the effectiveness of a particular type of
+lending conditionality via international financial control (IFC), which was
+introduced following defaults in a number of heavily indebted countries in the
+European periphery from 1860s to the First World War. IFC meant a partial or
+full loss of sovereignty for debtor countries, as it would assume the right of
+administering certain revenues of defaulting states on behalf of creditors. The
+first known example was established in Tunisia in 1869. Several others in the
+region, including Egypt, the Ottoman Empire, Serbia, Greece and Bulgaria,
+1 Including Tunisia (1868), Ottoman Empire (1876), Egypt (1876), Spain (1877), Argentina (1890), Portugal (1892), Greece (1893), Serbia (1895) and Brazil (1898).
+
+
+2
+followed this suit.2 In the case of Egypt, the establishment of IFC led to a direct
+takeover of the state finances and complete loss of political sovereignty, whereas
+in the Ottoman Empire, IFC took charge of several revenue sources and
+administered them on behalf of foreign creditors. These more direct methods of
+control emerged during 1875-76 had some key differences from the later
+episode of IFC, which appeared in Serbia and Greece during 1895-98. In these
+two cases the administrative structure of IFC was more refined, the extent of its
+control was more limited, and it mainly focused on measures concerning fiscal
+and monetary discipline. Having been administered by the representatives of
+foreign creditors and their respective governments, these multilateral
+enforcement bodies introduced a different set of fiscal and monetary rules in
+each country in return for reinstating credibility and restoring access to the
+international financial markets.
+In this context, the paper is structured as follows. In the next section, I
+document the evolution of IFC in the European periphery, and discuss the most
+prominent cases in the region: Ottoman Empire, Egypt, Greece and Serbia.
+Section 3 provides comparative evidence on the performance of IFC in
+administering the revenues of debtor states and it impact on the credibility of
+the defaulting sovereigns. Section 4 elaborates on the issue of “ownership” of
+policy advice in pre-1914 context. I suggest that political resistance to IFC and its
+operations can be interpreted as a sign lack of ownership and I explore the
+relationship between political regime types, debtor governments and IFC in
+search for some explanations. In conclusion, I highlight that the success of
+lending conditionality in the form IFC was mainly determined by the willingness
+and ability of the debtor governments to comply with the advice of their foreign
+creditors. I conclude that this cooperative attitude with foreign advice and
+control was mainly driven by the lack of political representation of taxpayers.
+2. Conditionality and international financial control before
+1914: a review
+Sovereign debt contracts are unique as they are concluded between parties, who
+do not enjoy the same degree of legal immunity. Despite the lack of legal
+enforcement by a third-party in the case of a default, debtor countries still repay
+their debts because of the costs of default, which are positively correlated with
+the ability of creditors to impose effective sanctions (Bulow and Rogoff, 1988;
+Kelly, 1998). Historically, in the context of the pre-1914 sovereign debt market,
+2 For a comparative history of sovereign debt and international financial control in the Ottoman Empire, Egypt, Greece, and Serbia see Tuncer (2015). For Bulgaria see Avramov (2003) and Tooze and Ivanov (2011). For Tunisia see Zourai (1998).
+
+
+3
+creditors employed a combination of direct and indirect forms of enforcement
+ranging from military interventions to preventing access to future credit.3
+Creditors also sought ways to strengthen the terms of sovereign debt contracts
+to claim their debts on legal grounds. Arbitration, renegotiation, sinking fund and
+collective action clauses were incorporated into agreements in order to reduce
+the risk of default and create incentives for repayment (Wynne, 1951; Choi,
+Gulati and Posner, 2012: 140-148). Moreover, bondholder protective
+organisations, such as British Corporation of Foreign Bondholders (1868), were
+established to provide market-based solutions to the debt renegotiations and
+collective action of bondholders (Mauro and Yafeh, 2003; Esteves, 2013).4
+Although the term conditionality has frequently been used in the context of IMF
+lending, it can be interpreted yet another mechanism to reduce the risk of future
+default, since it implies that if a country takes certain specified actions, continued
+financing will be provided (Drazen, 2002; Bird, 2003; Dreher, 2009, James,
+2003). In this broad sense of the term, IFC or foreign control over the revenues
+of the defaulting states was a direct form of conditionality as it increased the
+likelihood of future repayment of debts for creditors, and it implied a set of
+conditions for borrower countries to access international financial markets in
+the long term.
+IFC in the European periphery was organised as revenue collecting agents
+because of a particular feature of sovereign debt contracts. In pre-1914
+sovereign debt market, most of the bond issues of peripheral countries were
+implemented on the basis of a security, which could be placed beyond the reach
+of the borrowing country and be used only for the service of the relevant loan.
+These pledges could be very general and suggest that the bond repayment was
+secured “upon the entire revenue and assets and domains of the borrower” or
+they could be as specific as particular real estates of a sovereign or some other
+tangible assets (Wynne, 1951: 82). More frequently, bonds before 1914 were
+secured with future revenues from certain resources of the borrower sovereign.
+Depositing assets or assigning securities meant that, in theory, in the case of a
+default it would be relatively easy to seize these assets or demand hypothecated
+revenues in order to compensate the loss of creditors.
+In many instances these future revenues could come from governmental
+monopolies or other public services, commercial enterprises such as mines, they
+could be from future tax revenues. In majority of cases, indirect taxes and custom
+3 For the use of military intervention until the Second Hague conference in 1907 see Adams (1890), Borchard (1925: 314); Finnemore (2003). For trade sanctions see Rose (2005). For preventing access to future credit see Eaton and Gersovitz (1981), Bulow and Rogoff (1989), Panizza, Sturzenegger and Zettelmeyer (2009). For a general discussion on sanctions and costs of default see Borchard (1951), Kaletsky (1985), Mitchener and Weidenmier (2010), Waibel (2011). 4 More recent contributions point out that CFB’s significance in the pre-1914 sovereign debt is over-rated; instead it was the leading investment banks and intermediaries who would give the right signals to the creditors. Flandreau and Flores (2009), Flandreau (2013).
+
+
+4
+revenues from specified ports or products of the borrower were the most
+popular choice, as they constituted a stable source of revenue (Hyde, 1922: 534
+535; Wynne, 1951: 82-91). Although most of these pledges were quite valuable,
+creditors were aware that the securing future revenues for the payment of a loan
+did not mean that sovereign borrower would in fact utilize them for this purpose
+or manage them in a way to prove to the lender beneficial. In order to address
+this problem, in certain cases lending would be linked to the condition of
+establishing “creditor committees”, which were responsible of monitoring how
+the funds would be spent. An earlier example of this was the guaranteed
+Ottoman loan of 1855, which was granted by the Great Powers to support the
+Ottoman Empire against Russia during the Crimean War of 1854. One condition
+of the guaranty was to use the proceedings entirely for war purposes and British
+and French representatives were assigned to monitor the spending of funds. The
+role of these commissioners, who were sent to Istanbul despite the opposition of
+the Ottoman government, was to verify the treasury accounts and ensure the
+funds were in fact spent in support of the army. A problem with these types of
+arrangements was the lack of enforcement if the debtor state did not comply
+with the lending conditions. In fact, in this specific example, due to the
+opposition of the Porte to the arrangement, the work of the foreign commission
+started only in January 1856, after several army contracts had already been
+signed in order to evade its control. By September 1856 all funds were spent and
+the commission finished its work. 5 Similar problems emerged especially in the
+case of a default, as there was no automatic mechanism to transfer the
+hypothecated revenues of defaulted governments to the creditors. As early as
+1860s, well before any of the defaults took place in the European periphery, in an
+article published in the Economist, contemporary observers highlighted the
+potential limitations of the existing system of sovereign lending on the basis of
+guarantees:
+“Loans made on specific securities to a foreign state are never the
+most satisfactory sort of loans and this for a single plain reason: -the
+property which is pledged is almost wholly under the control of the
+indebted state, and if that state is inclined to repudiate, there is a
+necessary difficulty in getting at the security. Such is especially the
+case if the security consists, as is ordinarily the case, of a certain part
+of the state revenue. First it depends on the state itself whether that
+revenue is ever collected; and secondly, it depends on the state itself
+whether that revenue shall be paid to creditor... It is quite true that
+the creditors may apply to their own government for protection. If the
+English, for example, lend their money to Turkey upon certain specific
+5 For a detailed discussion of pre-1914 guaranteed bonds including the Ottoman loan of 1855 see Esteves and Tuncer (2014).
+
+
+5
+securities, they may apply more or less successfully to their own
+government to obtain for them the annual income of those securities.
+But if the government consent to give its aid, the probably result will
+be a political complication of which no one can foresee the end: and
+this is the best event, for if the government decline to aid by force the
+claims of its subject, we may be sure they will receive nothing from
+their repudiating debtor”.6
+This article, written in fact with reference to a new bond issue of the
+Ottoman Empire, predicted almost accurately the sequence of potential pitfalls,
+when the bonds were secured with specific revenues. To put it in other words,
+the pledged revenue could become a security in the hands of creditors if it could
+indeed be removed from the defaulting sovereign and transferred to the
+creditors. However, in practice this was not possible due to the nature of these
+revenue sources. Therefore, the proposed solution was to use an organisation
+independent from the defaulting sovereign to administer and control the
+pledged revenues on behalf of bondholders, and to transfer the receipts from
+these sources to all creditors for the unpaid debt (Borchard 1951: 91; Hyde,
+1922: 535). I name these ad hoc foreign revenue administration agents, which
+appeared in Egypt (1876), the Ottoman Empire (1881), Serbia (1895) and
+Greece (1898), collectively as IFC.
+The historical literature on IFC is limited to a few documentary studies
+published by contemporaries to outline their major functions and administrative
+structure (Andreades, 1925; Borchard, 1951; Deville, 1912; Wynne, 1951). One
+line of literature treats IFC on legal grounds and discusses them in the context of
+international law (Borchard, 1951: 93; Waibel, 2011: 42). Recent contributions
+in economic history literature argue that IFC was a form of “supersanction”
+which helped to enforce sovereign debt contracts, and that they were effective
+tools to reduce the cost of borrowing for the defaulting countries (Mitchener and
+Weidenmier, 2010). As oppose to economic and legal literature on the IFC,
+historiographies of the defaulting countries usually approach them in the context
+of imperialism debate, since a direct consequence of foreign control was the
+partial loss of fiscal and/or political sovereignty of the debtor states. In this view,
+foreign control of government revenues is seen as an extension of imperialist
+rivalry over the Middle East and the Balkans before 1914 (Blaisdell, 1966;
+Crouchley, 1938; Levandis, 1944; Zourai, 1998).
+In this paper, I focus on the mechanism through which IFC functioned and
+reinforced the credibility of the defaulting sovereigns in comparative
+perspective. Unlike previous line of research, I avoid labelling and discussing IFC
+as “sanctions” or “punishment” or direct instruments of imperialism. Instead, I
+6 “The New Turkish Loan”. Economist [London, England], 22 December 1860: 1417.
+
+
+6
+highlight the fiscal dimension of IFC as revenue collecting foreign agents and the
+lending conditionality it implied. In order to provide the historical context to the
+discussion, the next section focuses on the mechanism through which IFC
+operated in the region and the particular characteristics of each case. I then focus
+on the questions of ownership and success record of IFC.
+3. Evolution of international financial control in the European
+periphery
+For the period 1870-1913, it is possible to identify two distinct waves of
+sovereign defaults taking place during 1875-1882 and 1890-1900. Response to
+these defaults not only varied from case to case but there were also differences
+between the two episodes due to the evolution of institutions governing
+international sovereign debt market and more particularly of IFC. As mentioned
+briefly in the introduction, the early episode witnessed more direct forms of IFC,
+where the creditors involved in the financial affairs of defaulting countries more
+extensively. After 1890, the involvement of IFC into financial affairs remained
+relatively limited and supervisory. Below I first focus on the initial era of IFC,
+namely political and fiscal control in Egypt and the Ottoman Empire respectively.
+In the second half of this section, I turn my attention to the experience of Serbia
+and Greece, which was characterized by lesser degrees of infringement into the
+sovereignty of debtor states.
+3.1. From military takeover to fiscal control: Egypt and the Ottoman Empire
+The first IFC in the European periphery during the period 1870-1914 appeared
+in Egypt in 1875. Despite being a semi-autonomous country, Egypt was de jure
+part of the Ottoman Empire until 1914 and ruled by hereditary pashas called the
+Khedives. In 1862, for the first time in Egypt’s history, the Khedive negotiated a
+state loan with the permission of the Ottoman Sultan. This loan was followed by
+several others and during the period 1862-75 the Egyptian government issued
+ten bonds with the support of several British and French banking houses (see
+Table 1). The main lending conditionality for these bonds was the requirement
+to assign some of the tax revenues to the repayment of these loans. These
+included the land taxes of the several provinces, general revenues of the
+Egyptian state, and personal estates of the Khedive. Taken together the overall
+guarantees corresponded to almost entire revenues of the Egyptian government
+in 1875, hence it was not possible to contract further loans in international
+markets with a similar guaranty (Crouchley, 1938: 122; Tuncer, 2015: 29-34;
+Wynne, 1951: 582).
+
+
+7
+Meanwhile, the default of the Ottoman Empire in late 1875 had a direct
+impact on Egyptian credit abroad and it was no longer possible to obtain new
+loans from the international financial markets and, in April 1876, the payment of
+Egypt’s treasury bonds was suspended. This failure led to the foundation of IFC
+under the official name of “Caisse de la Dette Publique Égyptienne” on May 2nd,
+1876. Directed by foreign commissioners nominated by their respective
+governments the Caisse was authorized to receive the revenues intended to
+service the debt directly from the local authorities. Taxes from several Egyptian
+provinces, the salt and tobacco taxes along with custom revenues, which
+corresponded to almost three quarters of total government revenues in 1876,
+were assigned to the Caisse. The Egyptian government committed itself not to
+modify these revenues or to contract any new loans without the consent of the
+Caisse. In November 1876, in addition to the Caisse, a special administration of
+the railways and of the port of Alexandria was established, and placed under the
+direct control of a commission of foreign creditors. Moreover, two controllers
+general (one British and one French) would be appointed, who would exercise a
+supervision over the entire fiscal administration of the country, one mainly
+responsible of expenditure and the other of revenues. The budget was still to be
+framed by the Khedive and his ministers, though with the assistance of
+controllers-general. Finally, a special administration of Khedive’s personal lands
+would also be placed under a separate international control.
+[TABLE 1 HERE]
+The political consequence of all these new regulations was the exclusion
+of the Khedive from the administration of Egyptian finances, and transition from
+the personal government of the Khedive to a government by an executive council
+whose leading members were foreigners. This radical change first led to the
+burst of violent riots and later gained an anti-European character. It eventually
+resulted in military intervention of Britain in 1882. Within a few months after
+the British took charge, the Anglo-French dual control was abolished. The British
+Consul-General was given authority over all the English advisors that were
+placed in the Egyptian ministries. However, the British consuls did not have the
+power to modify the previous agreement with the bondholders. French
+government and bondholder representatives refused to permit any reduction in
+the authority of the Caisse. Moreover, the separate administrations of railways
+and estates of the Khedive, on all of which France was represented, were
+maintained (Wynne, 1951: 621-622).
+From 1885 onwards, Egyptian finances started to improve, and by 1890
+the budget yielded a surplus. In the meantime, the Caisse kept servicing the debt
+and accumulating extensive amount of reserve funds and refused the give
+authorisation to the Egyptian government to use any balance for the purposes of
+additional expenditure. The commissioners were content to maintain the Caisse
+
+
+8
+as an agent managing the servicing of the debt, however, its extensive privileges
+had started becoming too restrictive. This led to a new agreement between
+Britain and France in April 1904, the Entente Cordiale, which introduced a
+change in the constitution of the Caisse. After the agreement, the Egyptian
+government obtained full control of the reserve funds, leaving the Caisse a small
+reserve plus a working balance. The rigid model of balance was abandoned and
+the Egyptian government regained more control over fiscal matters. In theory,
+the Caisse still possessed considerable powers of control, retained its position in
+Egypt until the complete repayment of the debt, however its functions were now
+limited to receiving certain assigned revenues on behalf of the bondholders, and
+ensuring the due payments (Crouchley, 1938: 169-179; Feis, 1974: 393; Tuncer,
+2015: 48-52). The Caisse emerged out of a combination of political, economic and
+legal factors meant a direct form of conditionality as it transferred the entire
+fiscal policymaking into the hands of foreign creditors in return for future access
+in international financial markets.
+A similar process led to a different form of IFC in the Ottoman Empire,
+which faced with default almost at the same time with Egypt. Starting with the
+Crimean War in 1854, issuing bonds in international markets became the most
+important way of dealing with budgetary difficulties for the Ottoman Empire.
+From 1854 to 1876 the Ottoman government contracted 18 loans with a total
+face value of £219 million. In general, these loans had similar lending
+conditionality arrangements and they were secured on wide range of direct and
+indirect tax revenues, custom duties and Egyptian tribute (see Table 1). Financial
+markets were aware of the unsustainability of this rapid increase in debt,
+especially after the crisis of 1873 when overseas lending came to an end and it
+became almost impossible for the Ottoman government to contract a new loan.
+In October 1875, the Ottoman government first suspended part of the interest
+payments, and in January 1876 defaulted on all its outstanding debt, which then
+stood at around £191 million (Eldem, 2005; Kiray, 1988; Pamuk, 1978). This was
+a “long-predicted catastrophe”7, but what made it exceptional was the scale of it,
+as it was the biggest sovereign default to the date.8
+European press referred the event as “financial barbarism”9, which also
+meant that the international financial markets were closed to the Ottoman
+Empire after 1876 until the government and bondholders could reach a
+reasonable deal. The successful settlement of the debt would not be achieved
+until 1881. According to the agreement, the outstanding debt of the empire was
+reduced from about £191 million to £96 million, and unpaid interest payments,
+which were amounted £62 million, were reduced to approximately £10 million.
+In return, the Council of the Administration for the Ottoman Public Debt
+7 “The Turkish Repudiation” Economist [London, England] 9 Oct. 1875: 1190 8 The other two significant cases were Spain, which defaulted on an outstanding debt of £170 million, and Egypt on around £100 million as discussed above. Suter (1990: 67-69). 9 “The Turkish Default.” Economist [London, England] 6 Nov. 1875: 1310
+
+
+9
+(thereafter the Council) was established to represent the bondholders and act in
+their interest. The government agreed to transfer the revenues from the tobacco
+and salt monopolies, several custom duties and the silk tithe of several provinces
+to the foreign creditors, who would have complete freedom to decide on the way
+of collection and production (Tuncer, 2015: 58-63).
+Starting from 1883, the Council established more than twenty offices in
+the various provinces of the Empire extending from Yemen to Salonika, which
+were administered from the central office in Istanbul. This was an extensive tax
+collection network employing around 4500-5000 officers (including inspectors,
+collectors, security guards etc.). The lessons derived from the Egyptian
+experience, and the fear of resistance from the local population made the
+representatives of bondholders to choose the gradual method of replacing the
+existing local staff, introducing new techniques of production and reforming the
+existing collection system for the ceded revenues. One of the biggest obstacles
+that the Council was faced during this period was the widespread “armed
+banditry” and opposition against the administration of foreign creditors.
+However, the opposition to the presence of the Council remained limited to
+popular resistance, since there were no conflicts between the Ottoman
+government and the Council (Quataert, 1983; Tuncer, 2015: 64-76).
+Despite the contraband and popular resistance to the Council, it turned
+out to work efficiently in its management of the resources for which it was
+responsible. Both the revenues from direct contributions (silk, salt, spirits,
+stamps and fisheries), and from Tobacco Régie increased significantly. In fact,
+after 1889 the Ottoman government decided to extend the rights of the Council
+to collect revenues for its own account. According to the agreement the Council
+would be responsible of collecting the revenues especially for those loans
+concerning the railways together with tithes of several provinces. The Council,
+after collecting and reducing the collection expenses, would transfer the entire
+net revenue to the government. Therefore, the expenses of administration and
+collection of these revenues were borne by the revenues themselves, and did not
+fall upon the revenues ceded to the bondholders. From the perspective of the
+Ottoman Empire this operation was preferable not only to show its willingness
+to reinstate its credibility in the eyes of the creditors but also it reflected the fact
+that creditors were proven to be more successful to collect and administer the
+revenues. For the creditors, on the other hand, the extension of transfer of fiscal
+sovereignty was seen as a sign of trust between them and the government, which
+in return secured the position of the Council in the overall fiscal system of the
+Empire (Tuncer, 2015: 64-78).
+This brief historical presentation of sovereign debt in Egypt and the
+Ottoman Empire highlights some important aspects of pre-1914 lending
+conditionality. In both cases, international political considerations played an
+important role in the way IFC was established and organised, however the legal
+justification of such control was based on the lending conditionality clauses
+
+
+10
+included into the bond contracts –i.e. hypothecation of future revenues for
+repayment of bonds. Once in operation, IFC transformed into direct form
+conditionality as it secured access of Egypt and the Ottoman Empire into
+international financial markets by imposing a set of changes in fiscal policy. In
+Egypt, although IFC was originally planned to play a similar role as in the
+Ottoman Empire, it eventually became a prelude to British military take over and
+it was reinforced by other means of political and economic control. The Egyptian
+government did not have any choice but to “cooperate” -hence the weight of the
+Caisse in overall tax collection remained significant until 1904. The IFC in the
+Ottoman Empire, on the contrary, operated without the intermediation of the
+political representatives of the creditor states involved, hence its success would
+still depend on the “ownership” of the Ottoman government. Bondholder
+representatives, having autonomy on the way that they managed hypothecated
+revenues, implemented both short- and long-term solutions in an attempt to
+compensate for their losses and to increase the ceded revenues and eventually
+started managing revenues on behalf of the Ottoman government as well.
+3.2. From fiscal control to financial supervision: Serbia and Greece
+IFC established in 1875-76 in Egypt and the Ottoman Empire was economically
+and politically costly for creditors and their respective governments, since such
+an infringement into the sovereignty resulted in popular armed resistance in
+both cases. Therefore, when the new wave of sovereign debt crisis hit the small
+Balkan economies during 1890s, creditors and their respective governments
+were aware of the need for introducing more indirect and less costly forms of
+managing and transferring revenues.
+Although IFC was came into existence in Serbia three years earlier than
+Greece in 1895, the history of its sovereign debt did not start until it was
+recognised as an independent state in the Berlin Congress in 1878.10 From its
+independence to 1893, the Serbian government contracted 17 loans in the
+financial markets London, Paris and Vienna with a face value of around £16
+millions and an average effective interest rate of 6.7 per cent (see Table 1). The
+repayments of these loans were secured on future revenues of the state
+including import duties, revenues from railways, land taxes of several provinces
+and monopolies of tobacco and salt. However, these loans were not enough to
+meet increasing state expenditure driven mostly by the railway building, debt
+service and military spending.
+By 1893, the outstanding debt of the country had reached around £13
+million and the annual charges on the debt stock were consuming more than one
+10 The only exceptions to this were the loans granted in support of independence wars against the Ottoman Empire during the 1860s and 1870s with the help of Russia (Feis, 1974: 262; Gnjatovic, 2009: 5; Hinic et al., 2014; Sundhaussen, 1989: 500).
+
+
+11
+third of state revenues. In the meantime, with the default of Greece in the same
+year, there were further increasing concerns regarding the financial condition of
+Serbia. In late 1894, the Serbian monarch Milan started lobbying for a financial
+arrangement. A loan contract was signed on December 26, 1894, payments of
+which were secured by the state monopolies of petroleum, cigarette paper,
+matches and salt and overall revenues of the state. The proposed scheme also
+envisaged the establishment of a special administration consisting of four
+delegates –two nominated by the Serbian government, and two by contracting
+banks- to collect and administer the receipts from monopolies on a monthly
+basis. The Serbian National Assembly rejected this scheme as the arrangement
+was seen very similar what was offered to Greece at the time and implied a
+financial control and empowering a foreign financial group for the conversion of
+foreign debt.
+The decision to reject a debt conversion meant that by mid-1895 the
+government was unable to meet the amount due in interest and principal on the
+floating debt. In June 1895, negotiations to discuss a solution started between
+the syndicate of underwriting banks from London, Paris, Vienna and Berlin, the
+Russian government and the Serbian officials in a conference at Karlsbad.
+Eventually a new loan with a face value of around £14 millions at 4 per cent
+interest rate was agreed to convert the outstanding debt. This was secured on
+the net profits of certain railways, stamp duty, customs duties, profits from the
+salt monopoly and the revenue from the monopoly on mineral oils, matches and
+cigarette paper. More importantly the Autonomous Administration of
+Monopolies at Belgrade (hereafter the Administration) would control these
+revenues for the purposes of servicing the debt (Tuncer, 2015: 79-99).
+The managing council of the Administration was appointed by a royal
+decree from the Ministry of Finance, however the freedom of action of the
+Serbian government was still limited: two out of the six members were
+representatives of the foreign creditors. Other members consisted of the
+governor and the vice-governor of the National Bank of Serbia and two Serbian
+nationals appointed with the recommendation of the Administration. Overall,
+from 1895 to 1913 the Serbian government managed to contract a new series of
+loans with a face value of £39 million and an average effective interest rate of 5
+per cent (see Table 1). Despite the initial discontent, once in operation, the
+government and the Administration worked more or less in harmony and the net
+yield of the monopolies and other pledged revenues steadily grew to an extent
+that it not only covered the interest payments on the outstanding debt but also
+yielded a surplus. Although the Administration remained autonomous, it was
+bound by the technical and legal decision of the Ministry of Finance, therefore it
+did not enjoy the greater flexibility and freedom as much as the Ottoman Council
+or the Egyptian Caisse. (Lampe and Jackson, 1982: 156-195; Tuncer, 2015: 79
+99).
+
+
+12
+Unlike Serbia, the history of sovereign debt in Greece can be traced back
+to 1820s when Greece contracted three loans amounting to £6.8 millions to
+finance its independence war against the Ottoman Empire. These issues were
+secured with the future tax revenues of the Greek state, including custom duties,
+the salt mines and fisheries and ultimately by all public revenues. However, it
+was not easy to raise tax revenues in newly founded state and in 1843 the Greek
+government defaulted on all three loans (Kofas, 1981; Wynne, 1951: 283-287).
+This year marked the beginning of a long isolation from international financial
+markets. Despite repeated attempts of bondholder representatives, it was not
+until the 1860s that the parties formally began discussing proposals for a
+settlement, and an agreement was finally concluded in September 1878, which
+satisfied the both parties.
+From 1879 to 1893, the Greek government contracted 9 loans with a face
+value of approximately £25 million and average effective interest rate of 6.7 per
+cent. Similar to other cases, the payments of these bonds were secured through
+the special assignment of revenues. Among the loans contracted during this
+period, the Monopoly Loan of 1887 had a special place because it came with a
+particular lending conditionality, which later became the foundation on which
+the IFC was built. According to the agreement, besides the hypothecation of
+monopoly revenues, the creditors were given the right to establish a Monopoly
+Society (Société de Régie des Revenues de Gréce). This company was put under the
+control of the Greek government and granted the right to administer, collect and
+supervise the assigned revenues. The company was subject to Greek laws and
+was to be terminated upon the settlement of the loan. At the same time, the
+government was required to make up the difference from the treasury if the
+proceeds of the assigned monopolies were insufficient to meet the annual
+charges of the loan. In return for these concessions, the Greek government
+managed to contract the largest loan with lowest effective interest rate in this
+period. However, the Monopoly Loan was not enough to stop the deterioration of
+the Greek finances. In 1893, because of worsening economic conditions, the
+government defaulted on its foreign obligations. Moreover, the revenues, which
+were under the administration of the Monopoly Society, were handed directly to
+the public treasury, thus violating the earlier agreement with the creditors
+(Levandis, 1944: 55-69; Lazaretou, 2005).
+From the outset, one of the main concerns of the bondholders was the
+Greek government’s unilateral modification of the Monopoly Society’s rights, and
+the earlier agreement on the way in which these hypothecated revenues were
+collected. The revenues specially assigned as guarantees for the service of
+different loans consisted of the customs receipts from several major ports,
+tobacco tax, stamp dues, receipts of the monopolies of salt, petroleum, playing
+cards, matches, cigarette paper and emery and the revenues of several railways.
+The committee was keen to combine these revenues to create a surplus for the
+servicing the debt. Moreover, unlike other cases, creditors were concerned about
+
+
+13
+the situation of the money market, in particular the instability of the exchange
+rates and excessive amount of notes in circulation. As the Greek government
+opposed to several proposals of creditors and demanded significant reduction in
+the outstanding debt, the negotiations almost came to a dead end. Meanwhile, in
+1897, Greece found herself in conflict with the Ottoman Empire over the Cretan
+Question, which led to the Greek-Turkish War of 1897 and the defeat of Greece.
+According to the peace terms, determined through the mediation of six powers
+(Austria-Hungary, France, Germany, Great Britain, Italy and Russia), Greece was
+condemned to pay a war indemnity, which made the financial position of the
+country even worse. Under these circumstances, Greece no longer had
+bargaining power with its creditors.
+In 1898, the Greek government agreed to sign the Law of Control with the
+representatives of foreign powers. IFC was to be confided in a commission
+established in Athens and composed of diplomatic representatives of the
+mediating powers. The gross proceeds of the monopolies (salt, petroleum,
+matches, playing cards and cigarette paper), tobacco, stamp and import dues
+collected by the customs house of Piraeus were assigned to the service debt.
+Finally, the collection of these revenues was placed in the hands of the Society
+registered in Greece, which would be under the absolute control of the
+Commission. Immediately after the delegation of the Commission, the
+representatives of the powers started to investigate ways to improve and extract
+the highest sum from the revenues under their control. Therefore, in order to
+introduce a change in the production methods, the Commission could ask the
+government to modify the relevant laws and regulations regarding certain
+revenues, but did not enjoy the same right of direct management of revenues as
+in Egypt, the Ottoman Empire and Serbia. In order to increase the revenues
+under its control, the Commission urged the government to pass certain laws to
+modify production and taxation of revenues under its control, however these
+bills and laws were either not passed by the Greek Chamber, or, when they were
+passed, were not enforced by the government. Part of the problem was
+unwillingness of the Greek government to cooperate with the foreign creditors.
+As a result the Commission also showed reluctance to act as a trustee for future
+loans in international financial markets (Tuncer, 2015: 100-122).
+The Greek and Serbian cases show significant differences compared to the
+direct forms of control exercised over the Ottoman and Egyptian finances. The
+degree of cooperation of Greek and Serbian governments was not as extensive as
+the previous two cases, and IFC operated in a politically more challenging
+environment, hence the problem of ownership of IFC policies became even more
+important. Moreover, the tax collection was organised with the intermediation of
+semi-independent companies, which gave further scope of freedom to the
+governments. In the next section, I compare the varying degrees of success of IFC
+in a more systematic way. I then explore the issue of ownership or the
+willingness and ability of governments to cooperate with IFC.
+
+
+14
+4. Success and extent of international financial control
+In this section I aim to establish the degree of control exercised by IFC in a
+comparative way and relate it with the success in restoring access of debtor
+states into international financial markets. As a measure of credibility and
+sovereign risk, it is possible to rely on monthly bond spreads to judge the degree
+of recovery following defaults.11
+[FIGURE 1 HERE]
+As seen from the Figure 1, the impact of IFC following debt settlement
+was a steady decline in bond spreads in all four cases. However, in the longer
+term the Ottoman Empire and Egypt benefited from a much more significant
+decline: compared to pre-IFC period of borrowing the bond spreads declined on
+average 96 per cent and 80 per cent respectively. At the end of 1913, bond
+spreads of Egypt was around 2.1 per cent whereas the Ottoman bond spreads
+were as low as 0.78 per cent. For Serbia and Greece, the decline in bond yields
+was not as fast: in 1913 compared to pre-IFC period bond spreads declined
+around 70 per cent in Serbian case and almost 55 per cent in the case of Greece.
+By the end of 1913, Serbian bond spreads stood at 1.2 per cent whereas Greek
+spreads were still at a relatively higher level of 7.7 per cent. Overall, the evidence
+suggests that IFC was not always successful in reinstating the credibility and
+there was no uniform response of markets towards the lending conditionality
+introduced by IFC.
+A possible venue to seek an explanation for this difference is the degree of
+control exercised by bondholder representatives over host countries, which can
+be considered in administrative and fiscal terms. In terms of administration, in
+Egypt the IFC had the most extensive privileges and the foreign control over
+Egyptian politics and finance was reinforced by additional means and
+organisations and the Caisse transformed into the imperium in imperio. In the
+case of the Ottoman Empire, the Council also enjoyed the freedom of directly
+collecting the revenues assigned for the repayment of the outstanding debt. In
+doing so, it established an extensive network and worked in harmony with the
+Ottoman government, which was willing to extend the privileges of the IFC. On
+the other hand, in Serbia and Greece, the IFC operated via relatively more
+independent organisations and they did not penetrate into the finances of these
+11 Bond spreads are calculated as the difference between current yield of representative bonds of each country minus the British Consol and French Rentes yields. See the notes for Figure 1 for details.
+
+
+15
+economies as much as Egypt or the Ottoman Empire. In the case of Greece,
+diplomatic representatives, who had supervisory power over tax collection,
+found themselves in conflict with the parliament and it proved to be difficult to
+implement most of the fiscal reforms. In Serbia, the Administration and the
+government worked in relative harmony. However, unlike the other cases, the
+majority of the managing council of the Administration consisted of Serbian
+nationals, including the president and vice-president of the National Bank and
+two government officials, who contributed positively to the political justification
+of the Administration.
+[TABLE 2 HERE]
+In fiscal terms, as seen from Figure 2, the revenues under the control of
+IFC steadily increased in most of the cases. The most significant loss of fiscal
+sovereignty took place in Egypt, where the IFC revenues constituted on average
+40 per cent of total revenues of the government. In its early years, the revenues
+under the control of the Caisse reached to more than 70 per cent creating unrest
+among the taxpayers. In the case of the Ottoman Empire the revenues controlled
+by the Council on behalf of the creditors was on average 13 per cent, however
+after taking into account the revenues controlled on behalf of the Ottoman
+government, the assets under the control of the Council reached to 35 per cent of
+all revenues of the state. For Greece and Serbia the shares were respectively on
+average 29 and 35 per cent for the period IFC was in operation. In all cases the
+revenues of IFC at least doubled from the first year of the control to the World
+War 1. In absolute terms, the Ottoman Council was the biggest of all –at least
+after the Entente Cordiale, which changed the constitution of the Caisse and
+significantly reduced its influence in the overall Egyptian finances. Despite high
+level of revenues under control, in terms of growth performance, the Ottoman
+Council and the Egyptian Caisse managed an average annual growth rate of
+around 2 per cent and 0.7 per cent respectively. On the other hand, the Greek
+Commission and the Serbian Administration enjoyed an average annual growth
+rate of around 6 per cent. In other words, despite the political resistance, IFC in
+the Balkans performed relatively more efficiently in increasing its revenues. This
+was partly due to the low costs of collection in Serbia and Greece mostly
+conditioned by the type of revenue each IFC controlled and monetisation level of
+each economy.
+[FIGURE 2 HERE]
+To summarise, the enforcement and conditionality introduced by IFC was
+effective in improving the credibility of the defaulting sovereigns. They achieved
+this by regularly transferring the surplus from assigned revenues to the
+bondholders in order to compensate for their losses. On the other hand, local
+
+
+16
+resistance to/cooperation with IFC took place in changing degrees. After the
+initial discontent was over, IFC in Egypt and the Ottoman Empire worked with
+relatively little political challenge to their control and had extensive freedom
+over fiscal matters. In Serbia, thanks to the administrative structure of the IFC
+and strong representation of Serbian government in the Administration, the role
+of IFC was mostly confined to a supervisory level. Finally, in the case of Greece,
+the political resistance to IFC remained strong throughout the period, and the
+influence of the Commission was limited to monetary affairs. In the next section,
+I explore the issue of resistance towards IFC and propose a framework to
+interpret the different degrees of political compliance with foreign creditors.
+5. Political regimes and resistance to international financial
+control
+Based on the historical presentation so far, it can be suggested that the success of
+IFC in reinstating the credibility of debtor states was considerably influenced by
+its political environment, and more specifically the degree of political
+representation of taxpayers. This view is in line with the recent studies in fiscal
+sociology, which highlight that two important characteristics of state building
+process are the emergence of a social contract based on negotiation and
+bargaining around tax, and institution-building incentive provided by the
+revenue drive. Combined together these two characteristics increase the
+legitimacy of the state and accountability between the state and its citizens.
+Studies on long-term history of fiscal states echo these views and emphasize that
+negotiation and trust in functioning of fiscal systems was a common element in
+emergence of modern fiscal states (Brautigam,, Fjeltstad and Moore, 2008;
+Martin, Mehrotra and Prasad, 2009; Tilly, 1990; Yun-Casalilla, 2013: 12-13). This
+perspective provides a useful framework to consider the relationship between
+taxation, the public debt and the conditionality in the form of international
+financial control in the European periphery. Unlike many other debtor countries,
+the Ottoman Empire, Serbia, Greece and Egypt did not face with the trade-off
+between taxation and borrowing as their ability to borrow was restored by IFC.
+Moreover, the degree of development of the liberal fiscal state and evolution of
+representative institutions were different in each case, which had an impact on
+the incentives of the governments. An implication of the representative
+institutions for these dominantly agrarian economies of the region would be
+strong influence of the countryside in decisions over taxation of the rural sector
+given there existed a competitive election system, which resulted in rural
+representation.
+In terms of political regime, for the most of the nineteenth century, the
+Ottoman Empire remained as an authoritarian monarchy despite several
+
+
+17
+reforms aimed at modernising the state apparatus and significant political
+transformations (Karpat, 1972). An Ottoman parliament and the constitution for
+the first time emerged in 1876, which aimed at introducing accountability over
+fiscal matters and regularise the authority of the Sultan. However, in practice it
+did not empower any other group than the existing Ottoman political elite and
+bureaucracy. That is why when the Abdulhamid II decided to suspend the
+constitution and the parliament just two years later; there was no fight or
+resistance against this decision. A representative assembly was not successfully
+established until after the Young Turk Revolution of 1908. From this year
+onwards, the assembly had the power to pass legislation over Sultan’s authority
+and the dominant political force was the nationalist Committee of Union and
+Progress, which eventually led the Empire into the World War 1 (Brown, 2002:
+23-26). As for the tax revenues, they mostly relied on the traditional tithe
+collected almost exclusively with the help of tax farmers. In order to finance the
+costly reforms and shift the tax burden from the countryside to the urban
+centres, the government repeatedly but ultimately unsuccessfully attempted to
+replace tax farming with salaried tax collectors. Moreover, the taxation system
+remained still heavily reliant on land tax. Custom duties had the potential to be a
+significant revenue source, however, due to the capitulations and bilateral trade
+treaties, the Ottoman government was not able to modify the rates unilaterally.
+Only in 1905, the powers agreed for a minor increase in the import taxes. Finally,
+the personal tax, a symbol of transition to the modern tax state, was only
+introduced in 1903 (Aytekin, 2013; Karaman and Pamuk, 2010: 598; Özbek,
+2010; Quataert 1994: 764-855; Shaw, 1975). To summarise, unlike many
+European countries during the same period, in evolution of fiscal institutions in
+the Ottoman Empire, representation and negotiation with local elite played very
+little role. Throughout the period the Ottoman Empire struggled to introduce a
+centralized tax collection system and had to share of most of the tax revenues
+with other intermediaries such as local notables and tax farmers. Moreover, most
+of the revenues were based on direct taxes levied mainly upon the land. To put it
+crudely, at the time the Ottoman Empire defaulted on its foreign debt, it was a
+state that was unable to tax. Given its lack of monopoly over taxation, the
+Ottoman government was more willing to cooperate with the foreign creditors.
+Egypt went through a completely different political transformation,
+nonetheless the negotiation with local elites and limited government were not
+the determinants of increases in fiscal capacity before 1914. As early as 1841,
+Egypt managed to move away from tax farming thanks to the centralisation
+policies of Muhammad Ali. From Muhammed Ali’s death in 1848 to the
+establishment of the European control in 1876, the country was dominated by
+the dynastic state of the Khedives. Although there was a “Consultative Chamber
+of Delegates” since 1866 consisting of provincial notables and landowners, it did
+not have any significant power over taxation. In 1882, the new Khedive
+introduced the first constitution, which gave more authority to the Chamber,
+
+
+18
+however, the constitution was never fully implemented, and when Britain took
+control of Egypt the same year, it was suspended. Under the British rule two
+representative assemblies were founded in Egypt but they had very limited
+power over fiscal matters. The Legislative Council consisted of representatives of
+provincial assemblies but it could not pass any law and only had a consultancy
+role over the budget. The General Assembly, on the other hand, consisted of
+mostly provincial notables. Although it could not propose any legislation, it had a
+veto power on taxation and no new tax could be imposed without its approval.
+However, the influence of these institutions remained limited under the British
+rule, as on the side of the expenditure, almost the sole authority was the Caisse.
+Moreover, Khedive’s British financial advisor served as the key political figure
+since he had the veto power of all financial legislation. As regards the type of
+taxes, the land tax constituted a significant part of total revenue and it was
+collected with the help of accountants established in several villages. Although
+there were efforts to reduce the burden on the peasantry, the land tax was still
+considered as the most oppressive form of taxation in Egypt even under the
+British rule. As for indirect taxes, government officials also collected custom
+duties and it had the rate of 1 per cent on exports and 8 per cent on imports and
+the collection cost was as low as 4 per cent. However, Egypt was also bound with
+free trade treaties and capitulations of the Ottoman Empire (Aharoni, 2007;
+Crouchley, 1938: 42-57; Ezzel-Arab, 2009; Fahmy, 2002; Martin, 2004: 464;
+Shaw, 1962; Tuncer, 2015: 174-175). Overall, in Egypt the British controllers
+were the main deciding actors over fiscal matters and the role of parliament
+remained very limited until 1904 when the power of the Caisse over spending
+was reduced and its funds were partly went under the control of the Egyptian
+government.
+The relationship between fiscal and political institutions in the Balkans
+was rather different. Following the Greek independence, the three powers, which
+guaranteed Greek independence in the Protocols of 1832, implemented a
+monarchy without any constitutional restrictions. The first Greek constitution
+and representative assembly emerged in 1844 as a result of a coup d’etat against
+King Otto. Despite liberal nature of the constitution, there was no significant
+change in the existing political picture as the king maintained his influence over
+the parliament until he was overthrown by another coup in 1862. According to
+the new constitution of 1864, the representative assembly elected by universal
+direct suffrage held the whole legislative power. From 1875 to 1890s, C.
+Trikoupis emerged as the main political leader as a proponent of economic and
+political westernization. He supported the settlement of foreign debt and striking
+a deal with creditors. The implication of this plan in fiscal terms was more
+taxation, which was not a popular remedy. After 1895 he was followed by T.
+Deliyannis, who represented a more traditionalist and populist view, which was
+in favour of the idea of Greater Greece and a more adventures foreign policy. The
+competition between these two political parties shaped the attitudes towards
+
+
+19
+IFC.12 In terms of tax collection system, starting from 1860s the tithe was
+collected in cash and in the 1870s the fiscal policy constantly aimed at lowering
+the tax burden on the peasants, replacing direct taxation by indirect
+consumption taxes. As a final step, in 1880, the tithe was abandoned, tax farming
+was abolished and a new agricultural fiscal system was introduced reducing the
+burden on landowners. After 1860s, the fiscal policy of Greece rested on the
+principles of deficit financing and the low taxation of the higher classes and the
+peasantry. Greece was amongst the last countries in Europe to apply income and
+inheritance taxes, introduced respectively in 1910 and in 1898. As for the under
+taxation of the peasantry, which constituted the largest voting group in Greece.
+The fiscal burden as both direct and indirect taxation fell on the middle class and
+the urban sector. Peasants effectively escaped the burden of indirect taxes as
+they operated mostly with subsistence farming (Dertilis, 1986; Minoglou, 1995;
+Palamas, 1930; Tuncer, 2015: 176-177).
+Finally, in Serbia, there were significant similarities to Greece in terms of
+evolution of taxation system and political institutions. From the early years of
+the autonomy until late 1860s, the Serbian state continued to modernize the
+administrative structure and its army. Prince Milan Obrenović, who remained in
+power from 1868 to 1889, carried the Serbia to the independence and
+introduced a new constitution with significant provisions for parliamentary rule.
+The dominant party in the assembly until 1880s was the Liberal Party, which
+was supportive of restricting the powers of the King and of improving
+representative and parliamentary institutions. From 1887 to the World War 1,
+the Radical Party, which ideologically relied on peasant populism, remained in
+power. In 1889 a new constitution voted by the National Assembly gave the
+executive power to the King in conjunction with the National Assembly, which
+exercised the legislative authority. The State Council consisted of members
+appointed partly by the King, and partly by the Assembly kept the power to
+decide on the provincial taxes and loans, the expropriation of private property
+for public purposes, and the final settlement of debts. In terms of evolution of
+fiscal institutions, from 1815 onwards, when Serbian principality was granted
+independence in tax collection by the Porte, the revolutionary leader Prince
+Miloš treated local tax farmers as salaried officials, holding them responsible for
+collecting the head-tax, without letting them getting a share from the proceeds.
+With low taxation and mass peasant freehold landownership, the situation
+remained favourable for the peasantry. During the 1880s and the 1890s the
+budget was permanently in deficit, which only changed after the fiscal
+consolidation in 1903. As for different type of taxes, from the early years of
+independence, the major indirect tax revenue was the custom duties imposed on
+12 The picture only slightly changed following another coup d’etat in 1909 –similar in spirit to the Young Turk revolution of 1908- and a new constitution in 1911, which introduced a second chamber called the Council of State with supervisory function over legislation (Clogg, 1997; Spyropoulos and Fortsakis, 2009)
+
+
+20
+the border trade with Austria-Hungary. In the later years, as Serbia turned into a
+land of monopolies, the receipts of these constituted an important indirect tax
+category. Despite the importance of indirect taxes, direct tax on land income also
+remained considerable until 1914. In 1884, a new reform introduced a
+progressive tax rate in land, which favoured large producers and wealthy
+peasants. The opposition from this group prevented the introduction of heavy
+taxes at the top of the scale. In 1889, due to peasant pressure a new reduction
+over land tax was introduced. For the remaining period, Serbian budget more
+and more relied on the taxation of urban sector and merchants and the
+importance of direct taxes from the rural sector gradually diminished in the
+overall revenues of the state (Gnjatovic, 2006; Hinić et al, 2014; Lampe, 1971;
+Palairet, 1979; Tuncer, 2015: 177-178).
+The success of IFC in transferring funds from revenues under its
+management was heavily influenced by the underlying source of these revenues.
+In the cases of Egypt and the Ottoman Empire, the dominance of direct taxes
+from land meant a relatively small rate of growth in total revenues transferred to
+the creditors. Nonetheless, these countries enjoyed a greater recovery in their
+borrowing costs due to their political compliance with foreign creditors. On the
+contrary, in the small Balkan economies of Serbia and Greece, the underlying
+revenue source of IFC was mostly indirect taxes, which were relatively easier to
+manage, and they had significantly higher growth rates and better performance.
+However, this did not necessarily lead to a corresponding recovery in spreads as
+IFC in these two cases faced with constraints and resistance to its policies.
+6. Conclusion
+This paper demonstrates the multi-dimensional character of a pre-1914
+enforcement and conditionality mechanism implemented by the foreign
+creditors following sovereign defaults. IFC resulted with a partial loss of fiscal
+sovereignty, the extent of which was different in each case depending on the
+international political considerations and local institutions. As a direct form of
+conditionality, fiscal rules introduced by IFC were effective in improving the
+credibility of the defaulting sovereigns, however the speed and extend of
+recovery largely depended on the degree of cooperation of debtor governments
+with the policies of IFC. In explaining the lack of ownership in the context of IFC,
+the paper mainly highlighted the role of the political regime type, more
+specifically political representation of taxpayers. The limited fiscal capacity of
+the Ottoman Empire and Egypt created an incentive for the central governments
+to cooperate with foreign creditors and full compliance with the conditionality.
+This cooperation helped to access to cheap foreign capital until World War 1. In
+
+
+21
+the absence of democratic institutions, these two countries did not face with the
+political costs of conforming to fiscally oppressive policies of IFC. On the other
+hand young democracies of the Balkans, as in Serbia and Greece, where the
+centralisation of fiscal systems was already on its way, were less willing to share
+the tax revenues with foreign creditors and for that they were penalised (or not
+rewarded as much as the others) in the international financial markets. The
+broader conclusion to be drawn from this comparison is the importance of policy
+environment predefined by the political and fiscal institutions of the debtor
+governments. In the context of pre-1914 sovereign debt market, these
+institutions not only determined the success of conditionality and fiscal rules in
+reinforcing the credibility of debtor governments, but also they acted as
+constraints or stimuli in terms of country ownership of IFC programme.
+In this paper, it was not possible to analyse the impact of lending
+conditionality in the form IFC on the long-term development of fiscal capacity of
+debtor governments. Although the Ottoman Empire and Egypt were able to
+borrow during this period on a long-term basis with very low costs, there was
+limited accompanying transformation of political institutions and fiscal
+centralisation. It can be argued that reinforced credibility combined with lack of
+developed political institutions slowed down the fiscal centralisation even
+further, as the governments were more willing to choose the less costly path of
+borrowing. On the other hand, in Serbia and Greece, IFC operated in a relatively
+more developed fiscal and political institutional framework; hence the
+governments were less willing to cooperate with foreign creditors, resulting in
+more costly borrowing. The high cost of borrowing, especially in the case of
+Greece, acted as a catalyst to reform the monetary and fiscal institutions even
+further and accelerated its move towards fiscal centralisation. Testing these
+arguments would require going beyond the cases of this paper.
+7. References
+Aharoni, R. (2007) The Pasha’s Bedouin – Tribes and States in the Egypt of
+Mehmet Ali, 1805-1848, Routledge: New York.
+Andreades, A. (1925) Les Controles Financiers Internationaux, Athens.
+Avramov, R. (2003) “Advising, conditionality, culture: money doctors in Bulgaria,
+1900-2000” in M. Flandreau, Money Doctors: The Experience of International
+Financial Advising 1850–2000, Routledge.
+Aytekin E. A. (2013) “Tax Revolts During the Tanzimat Period (1839–1876) and
+Before the Young Turk Revolution (1904–1908): Popular Protest and State
+Formation in the Late Ottoman Empire” Journal of Policy History, 25, pp 308-333
+Blaisdell, D. C. (1966) European Financial Control in the Ottoman Empire, AMS
+Press, Inc.: New York.
+
+
+22
+Borchard, E. (1951) State Insolvency and Foreign Bondholders – Volume I 
+General Principles, Yale University Press: New Haven.
+Brautigam, D., Fjeldstad, O.-H., & Moore, M. (2008). Taxation and state-building in
+developing countries: capacity and consent. Cambridge, Cambridge University
+Press.
+Brown, N. J. (2002) Constitutions in a Nonconstitutionalist World. Albany: State
+University of New York Press,
+Bulow, J. and Rogoff, K. S. (1988) “A constant recontracting model of sovereign
+debt”, Journal of Political Economy, Vol. 95, No. 6.
+Bulow, J. and Rogoff, K. S. (1989) “Sovereign debt: is to forgive to forget?”,
+American Economic Review, Vol. 79, No. 1, pp.43-50.
+Castellani, F. and X. Debrun (2005) “Designing macroeconomic frameworks: a
+positive analysis of monetary and fiscal delegation”, International Finance, Vol. 8,
+pp.87- 117.
+Choi, S. J., M. Gulati, and E. A. Posner (2012) “The Evolution of Contractual Terms
+in Sovereign Bonds”, Journal of Legal Analysis. Open access.
+Clogg, R. (1997) A Concise History of Greece, Cambridge University Press:
+Cambridge.
+Crouchley, A. E. (1938) The Economic Development of Modern Egypt, Longmans,
+Green and Co.: London.
+Dertilis G. (1986) Banquiers, usuriers et paysans. Réseaux de crédit et stratégies du
+capital en Grèce (1780-1930), Paris.
+Deville, F. (1912), Les contrôles financiers internationaux et la souveraineté de
+l'état, Paris, Limoges.
+Drazen, A. (2001) “Conditionality and Ownership in IMF Lending: A Political
+Economy Approach”, IMF Working Paper.
+Dreher, A. (2009) “IMF conditionality: theory and evidence”, Public Choice, 141,
+233- 267.
+Eaton, J. and Gersovitz, M. (1981) “Debt with potential repudiation: theoretical
+and empirical analysis”, Review of Economic Studies, Vol. 48, No. 2, pp.289-309.
+Eldem, E. (2005) “Ottoman financial integration with Europe: foreign loans, the
+Ottoman Bank and the Ottoman public debt”, European Review, Vol. 13, No. 3,
+pp.431–445.
+Esteves, R. P. (2013) “The bondholder, the sovereign, and the banker: sovereign
+debt and bondholders' protection before 1914” European Review of Economic
+History, Vol. 17(4), pp. 389-407.
+
+
+23
+Esteves, R. and Tuncer, A. C. (2014) “Feeling the Blues. Moral Hazard and Debt
+Dilution in Eurobonds Before 1914” CEPR Discussion Paper No. 9860.
+Ezzel-Arab, A. (2009) “The Fiscal and Constitutional Program of Egypt’s
+Traditional Elites in 1879: A Documentary and Contextual Analysis of “al-Lā'iha
+al-Wataniyya”(“The National Program”)” Journal of the Economic and Social
+History of the Orient, 52, 301-324.
+Fahmy, K. (2002) All the Pasha’s Men – Mehmed Ali, his army and the making of
+Modern Egypt, The American University in Cairo Press: Cairo.
+Featherstone, K. (2015) “External conditionality and the debt crisis: the ‘Troika’
+and public administration reform in Greece”, Journal of European Public Policy
+Vol. 22, Iss. 3, 2015
+Feis, H. (1974) Europe, the World’s Banker 1870–1914, Kelley: New York.
+Finnemore, M. (2003). The purpose of intervention: changing beliefs about the use
+of force. Ithaca, Cornell University Press.
+Flandreau, M. (2013) “Sovereign states, bondholders committees, and the
+London Stock Exchange in the nineteenth century (1827–68): new facts and old
+fictions”, Oxford Review of Economic Policy (2013) 29 (4): 668-696
+Flandreau, M. and J. Flores (2009) “Bonds and Brands: Foundations of Sovereign
+Debt Markets, 1820 1830”, The Journal of Economic History, V. 69 (03)
+Gnjatovic, D. (2009) “Foreign Long Term Government Loans of Serbia 1862
+1914”, Bank of Serbia Working Paper. 2009-03.
+Grauwe, P.D. (2011) “A less punishing, more forgiving approach to the debt crisis
+in the eurozone”, CEPS Policy Brief, No. 230.
+Hagemann, R. (2011) “How Can Fiscal Councils Strengthen Fiscal Performance?”
+OECD Journal: Economic Studies, Vol. 2011/1.
+Hinic, B. et al. (2014) “Serbia/Yugoslavia: from 1884 to 1940” in South-Eastern
+European Monetary and Economic Statistics from the Nineteenth Century to World
+War II, Bank of Greece, Bulgarian National Bank, National Bank of Romania,
+Oesterreichische Nationalbank
+Hyde, C. C. (1922) “The Negotiation of External Loans with Foreign
+Governments”, The American Journal of International Law, Vol. 16, No. 4 (Oct.,
+1922), pp. 523-541.
+Ioannidis, M. (2015) “How strict is ‘strict conditionality’? The new Eurozone
+agreement on Greece” European Law Blog, url:
+http://europeanlawblog.eu/?p=2716#sthash.GZ1ZLCgz.dpuf, accessed on 23
+March 2015.
+
+
+24
+James H. (2003) “Who owns ‘ownership’? The IMF and policy advice” in M.
+Flandreau, Money Doctors: The Experience of International Financial Advising
+1850– 2000, Routledge.
+Kaplanoglou, G. and V. T. Rapanos (2013) “Fiscal Deficits and the Role of Fiscal
+Governance: The Case of Greece”, Economic Analysis and Policy, V.43, No.1.
+Karaman, K. and Pamuk, S. (2010) “Ottoman State Finances in European
+Perspective, 1500–1914” The Journal of Economic History, 70, p.593-629.
+Karpat, K. (1972) “The transformation of the Ottoman State, 1789-1908”,
+International Journal of Middle East Studies, Vol. 3, pp.243-281.
+Kaletsky, A. (1985) The Costs of Default, Priority Press Publications: New York.
+Kelly, T. (1998) “Ability and willingness to pay in the age of Pax Britannica,
+1890–1914”, Explorations in Economic History, Vol. 35, No. 1, pp. 31–58.
+Kiray, E. Z. (1988) Foreign Debt and Structural Change in ‘the Sick Man of Europe’
+– The Ottoman Empire – 1850–1875, unpublished PhD thesis, MIT.
+Kofas, J. V. (1981) Financial Relations of Greece and the Great Powers 1832-1862,
+East European Monographs: New York.
+Lampe, J. R. (1971). Financial structure and the economic development of Serbia,
+1878-1912, PhD University of Wisconsin.
+Lampe, J. R., & Jackson, M. R. (1982). Balkan economic history, 1550-1950: from
+imperial borderlands to developing nations. Bloomington, Indiana University
+Press.
+Lazaretou, S. (2005) “The drachma, foreign creditors, and the international
+mone- tary system: tales of a currency during the 19th and the early 20th
+centuries”, Explorations in Economic History, Vol. 42, No. 2, pp. 202–236.
+Levandis, J. A. (1944) Greek Foreign Debt and the Great Powers 1821-1898,
+Columbia University Press: New York.
+Martin, I. W., Mehrotra, A. K., & Prasad, M. (2009). The new fiscal sociology:
+taxation in comparative and historical perspective. Cambridge, Cambridge
+University Press.
+Mauro, P. and Yafeh, Y. (2003) “The Corporation of Foreign Bondholders”, IMF
+Working Paper, No. 03107.
+Minoglou, I. (1995) “Political Factors Shaping the Role of Foreign Finance: The
+Case of Greece (1832-1932)” in J.HARRISS, J.HUNTER, C.M.LEWIS (eds), The New
+Institutional Economics and Third World Development. Routledge, London
+pp.250-264.
+
+
+25
+Mitchener, K. J. and Weidenmier, M. D. (2010) “Supersanctions and sovereign
+debt repayment”, Journal of International Money and Finance, Vol. 29, Issue 1,
+pp.19–36.
+Özbek, N. (2010) “Osmanlı İmparatorluğu’nda Gelir Vergisi: 1903-1907
+Tarihli Vergi-i Şahsi Uygulaması.” Tarih ve Toplum Yeni Yaklaşımlar, no. 10
+(2010): 43-80.
+Palairet, M. (1979). “Fiscal Pressure and Peasant Impoverishment in Serbia
+before World War I”. The Journal of Economic History, 39, pp 719-740.
+Palairet, M. R. (1997). The Balkan economies c. 1800-1914: evolution without
+development. Cambridge, UK., Cambridge University Press.
+Panizza, U., Sturzenegger, F. and Zettelmeyer, J. (2009) “The economics and law
+of sovereign debt and default”, Journal of Economic Literature, Vol. 47, No. 3,
+pp.651–698.
+Quataert, D. (1983). Social disintegration and popular resistance in the Ottoman
+Empire, 1881-1908: reactions to European economic penetration. New York, New
+York University Press.
+Quataert, D. (1994) “The Age of Reforms”, Part 4 of H. Inalcik et al. (eds) An
+Economic and Social History of the Ottoman Empire 1600–1914, Vol. 2,
+Cambridge: Cambridge University Press.
+Palamas, L. K. (1930) History of monetary enactments in Greece, 1828-1885
+(Athens).
+Rose, A. K. (2005) “One reason countries pay their debts: renegotiation and
+international trade”, Journal of Development Economics, Vol. 77, pp.189–206.
+Shaw, S. J. (1962) The financial and administrative organization and development
+of Ottoman Egypt 1517-1798, Princeton University Press: Princeton.
+Shaw, S. J. (1975) “The Nineteenth-Century Ottoman Tax Reforms and Revenue
+System 1517-1798” International Journal of Middle East Studies, Vol. 6, No. 4
+(Oct., 1975), pp. 421-459
+Sundhaussen, H. (1989). Historische Statistik Serbiens, 1834-1914: mit
+europäischen Vergleichsdaten. München, R. Oldenbourg.
+Suter, C. (1990) Debt Cycles in the World Economy: Foreign Loans, Financial Crises
+and Debt Settlements, 1820–1990, Westview Press: Boulder, Colorado.
+Spyropoulos, P. K., & Fortsakis, T. (2009). Constitutional Law in Greece.
+Netherlands, Kluwer Law International.
+Tilly, C. (1990) Coercion, Capital and European States, AD 990– 1990. Blackwell.
+
+
+26
+Tooze, A. and Ivanov, M (2011), “Disciplining the ‘black sheep of the Balkans’:
+financial supervision and sovereignty in Bulgaria, 1902–38”. The Economic
+History Review, 64, 30-51.
+Tuncer, A. C. (2015). Sovereign Debt and International Financial Control: the
+Middle East and the Balkans, 1870-1913. Palgrave Macmillan.
+Tuncer, A. C. and Pamuk, S. (2014) “Ottoman Empire: from 1830 to 1914” in
+South-Eastern European Monetary and Economic Statistics from the Nineteenth
+Century to World War II, Bank of Greece, Bulgarian National Bank, National Bank
+of Romania, Oesterreichische Nationalbank
+Waibel, M. (2011). Sovereign defaults before International courts and tribunals.
+Cambridge, Cambridge University Press.
+Wynne, W. (1951) State Insolvency and Foreign Bondholders – Volume II - Selected
+Case Histories of Governmental Foreign Defaults and Debt Readjustments, Yale
+University Press: New Haven, Connecticut.
+Yun Casalilla, B., & O'brien, P. (2012). The rise of fiscal states: a global history,
+1500-1914. New York, Cambridge University Press.
+Zourai, A. J. (1998) European Capitalist Penetration of Tunisia, 1860-1881,
+Unpublished PhD Thesis, University of Washington.
+
+
+27
+8. Figures
+Figure 1 Bond spreads: 1850s to 1913
+Source: Tuncer (2015). The bonds used in calculations are as follows. Greece: 5% Independence Loans of 1879 (Old Greek loans converted), 5% Loan of 1881. Turkey: 6% Loan of 1852 and 1854, 6% Loan of 1858, 6% Loan of 1863–1864; 6% Loan of 1862, 5% Priority Bonds, 4% Priority Loan (new issues in 1890), 4% Loan of 1891. Egypt: 5% preferred Loan of 1877, 7% Loan of 1862, 3.5% preferred Loan of 1890. Serbia: 5% Loan of 1881, 5% Loan of 1890, 4% Loan of 1895. The spread is expressed as percentage points is the difference between the current yield of bonds and British consols. In the case of Serbia, as the price quotes are from Paris, I used French rentes to calculate bond spreads.
+Default
+0 2 4 6 8 10 12
+1860 1870 1880 1890 1900 1910
+Egypt
+Default
+0 2 4 6 8 10 12
+1880 1885 1890 1895 1900 1905 1910 1915
+Greece
+Default
+0 2 4 6 8 10 12
+1850 1860 1870 1880 1890 1900 1910
+O9oman Empire
+Default
+0 2 4 6 8 10 12
+1880 1885 1890 1895 1900 1905 1910 1915
+Serbia
+
+
+28
+Figure 2 Revenues collected by IFCs (in millions of £): 1876-1913
+Source: Tuncer (2015)
+0 5 10 15 20
+£ (millions)
+1875 1880 1885 1890 1895 1900 1905 1910 1915
+Egypt
+0 5 10 15
+£ (millions)
+1898 1900 1902 1904 1906 1908 1910 1912 1914
+Greece
+0 10 20 30
+£ (millions)
+1880 1885 1890 1895 1900 1905 1910 1915
+O?oman Empire
+12345
+£ (millions)
+1895 1900 1905 1910 1915
+Serbia
+Total government revenue Revenues of IFC
+
+
+29
+9. Tables
+Table 1 Summary of foreign loans: 1854-1913
+Number of foreign loans contracted
+Total nominal value of foreign loans (m£)
+Debt per capita (£)
+Average effective interest rate (%)
+Average yield (%)
+BEFORE IFC
+Egypt 9 69 7.2 8.5 8
+Ottoman Empire 18 219 8.9 8.6 8.6
+Serbia 17 16 6.2 6.7 6.2
+Greece 9 26 6.5 6.3 7.1
+AFTER IFC
+Egypt 10 55 7.5 4.5 5.4
+Ottoman Empire 23 90 6.2 4.7 4.7
+Serbia 7 25 9.1 5.1 5.4
+Greece 8 29 7.8 5 10.7
+Source: Tuncer (2015). Notes: The periods before IFC are 1862-76 for Egypt 1854-76 for the Ottoman Empire, 1879-1893 for Greece and 1881-94 for Serbia. The period after IFC is 1881-1913 for the Ottoman Empire, 1876-1913 for Egypt, 1898-1913 for Greece and 1895-1913 for Serbia. To eliminate double counting I only account for new issues and exclude bond conversions. Population estimates are from Maddison averages of same periods. Bond yields are average values before and after IFC, starting with the first date of borrowing, excluding episodes of defaults and ending in December 1913.
+
+
+30
+Table 2 IFCs in comparison: the administrative structure and reforms
+Egypt (Caisse)
+Ottoman Empire (Council)
+Serbia (Administration)
+Greece (Commission)
+Period 1876-1914 1882-1914 1895-1914 1898-1914
+Managing council
+Bondholder Bondholder Bondholder/gover nment
+Diplomatic
+Composition of the management
+Germany, Great Britain, AustriaHungary, Russia, France and Italy
+Britain, France, Netherlands, Germany, Italy and AustriaHungary bondholders, and a representative of the Ottoman government.
+France and Germany bondholders, director and four representatives of Serbian government.
+Diplomatic representatives of Austria-Hungary, France, Germany, Great Britain, Italy and Russia
+Revenue administration
+Direct collection and legislative power
+Direct collection Supervision and direct collection
+Supervision
+Acting as a trustee
+Yes Yes Yes No
+Monetary reform
+Extensive Limited Limited Extensive
+Resistance Contraband/armed Contraband/armed Political Political
+Source: Tuncer (2015)

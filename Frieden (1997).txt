@@ -1,0 +1,546 @@
+Monetary Populism in Nineteenth
+Century America: An Open Economy
+Interpretation
+JEFFRY A. FRIEDEN
+The battle over gold is typically explained as driven by proinflation debtors. However, going off gold would also have caused a depreciation, raising tradable prices relative to nontradables prices and helping producers of exportable primary products. An analysis of Congressional votes on monetary legislation indicates that higher constituency debt levels were not associated with opposition to gold, whereas mining and agricultural production were. This suggests that gold politics was at least as much about the impact of the exchange rate on relative prices as it was about inflation of the overall price level.
+F
+or the first century and a half of the American republic, money was at the center of national political debates. The high point of conflict over American monetary policy was reached between the 1870s and the 1890s, when the Greenback and Populist movements split groups, parties, and regions, defined the agenda of several national elections, and gave rise to some of the more vivid political rhetoric in the country's history. A defining principle of populism was its passionate hostility to the gold standard. Scholars have typically argued that the mostly agrarian populists opposed gold because of the heavy burden of farm debt. In this view, the populists wanted to take the country off gold to allow across-the-board inflation that would lighten the burden of nominally denominated debt. This article argues that monetary populism also, perhaps primarily, aimed at engineering a dollar devaluation. The principal impact of the devaluation would have been on the dollar prices of tradable goods, especially primary products. Going off gold and onto a depreciated silver standard (or, in more extreme variants, a floating paper greenback standard) would have raised the relative prices of such heavily exported tradable goods as wheat, cotton, and minerals, for which trade protection was not a generally available alternative. Populist monetary policies would certainly have raised the nominal price level and provided some debt relief. However, concern about the overall
+The Journal of Economic History, Vol. 57, No. 2 (June 1997). © The Economic History Association. All rights reserved. ISSN 0022-0507. Jeffry A. Frieden, Department of Government, Harvard University, Cambridge, MA 02138. The author acknowledges financial support from the UCLA Academic Senate Committee on Research, Center for American Politics and Public Policy, and International Studies and Overseas Programs. He thanks Michael Harrington and Kathleen O'Neill for research assistance, and Kathleen Bawn, Michael Bordo, Barry Eichengreen, Jim Ellis, David Lake, Naomi Lamoreaux, Gary Libecap, Susanne Lohmann, Lisa Martin, Brian Portnoy, Doug Rivers, Kenneth Snowden, Kenneth Sokoloff, Barry Weingast, Guy Whitten, and two anonymous reviewers for comments and suggestions.
+367
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+368 Frieden
+TABLE 1 REPRESENTATIVE RELATIVE PRICE INDICES, 1869-1899 (1879=100)
+Product
+Traded goods Agriculture Manufacturing Mining Nontraded goods and services Construction
+Traded goods Farm products Textile products Metal products Nontraded goods and services Building materials
+1869
+147 151 178
+133
+B.
+178 170 169
+149
+1874
+A. Gallman
+128 123 144
+124
+1879
+Series
+100 100 100
+100
+Warren and Pearson Series
+142 132 145
+136
+100 100 100
+100
+1889
+85 90 82
+119
+93 87 87
+109
+1894
+81 66 75
+116
+88 72 57
+97
+1899
+87 80 85
+126
+89 75 87
+107
+Note: Other series show similar price movements. See, for example, Shaw, Value, pp. 290-95; and Brady, "Price Deflators." Sources: For panel A, Gallman, "Commodity Output," his variant A is used for construction. For panel B, calculated from Warren and Pearson, Gold, pp. 30-32.
+price level—thus the real weight of nominal debt contracts—may have been secondary to concern about adverse relative price trends that a devaluation could reverse. This emphasis on the open economy (real exchange rate) rather than closed economy (nominal price level) effects of monetary populism helps resolve some logical and empirical puzzles. It also ties the populist experience into the broader political economy of exchange rates.
+MONETARY POPULISM: POLITICS AND POLICIES
+Despite variation, the defining characteristic of American monetary populism was the demand to keep or take the United States off the gold standard. The movement began after the Civil War, to preserve the floating paper currency ("greenback") standard adopted in 1862. Postwar attempts to appreciate the dollar in order to resume gold convertibility at the prewar rate put pressure on tradables producers, especially manufacturers and farmers, as the data in Table 1 indicate. The Greenback movement developed in response and enlisted support in both major parties as well as an independ
+ent Greenback Party that scored some modest successes.1 Initial support for
+1 The crucial source on the politics of the greenback period is Unger, Greenback Era. Other treatments include Weinstein, Prelude; Friedman and Schwartz, Monetary History, pp. 15-88; and Sundquist, Dynamics, pp. 106-33. The account that follows draws primarily on these four. Calomiris, "Greenback Resumption," presents a summary of the period as well as useful evidence of market operators' exchange rate expectations.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 369
+greenbacks came from manufacturers and railroad men; farmers and miners joined in the early 1870s as farm and mineral prices began a secular decline. Populist monetary demands eventually shifted from greenbacks to "free silver." In 1873 silver was removed from circulation ("demonetized"), and its price began to decline relative to gold. Miners and Greenbackers devised a common program to "re-monetize" silver at the old 16 to 1 rate against gold. The government's obligation to buy silver at well above the market rate would subsidize silver miners and keep the country off gold and on a de facto silver standard. Supporters of the gold standard were concentrated in the financial and commercial communities with ties to European trade and payments, as well as among textile and machinery manufacturers oriented toward world markets. Most indications are, however, that there was broad popular and Congressional support for staying off gold. Nonetheless, in January 1875 President Ulysses Grant got a lame-duck Republican Congress to pass the Resumption Act, mandating a return to gold on 1 January 1879. Subsequent attempts to repeal the Resumption Act typically passed, but without the twothirds majority necessary to override a presidential veto. Despite passage of the moderately silverite Bland-Allison Act of 1878, resumption was secured,
+and the country went back to gold at the beginning of 1879.2 Silver sentiment erupted again amid the agricultural depression that began
+in 1888.3 In 1890 a Republican Congress and President agreed to the Sherman Silver Purchase Act, that doubled the amount of silver purchased by the Treasury under the Bland-Allison Act. The bill was too mild to satisfy antigold interests, but hopes grew after the 1892 elections gave the Democrats, who had run on a silverite platform, control of the presidency and both houses of Congress for the first time since the 1850s. In the meantime the new People's (Populist) Party was scoring electoral successes throughout the West and South. Northeastern commercial and financial interests remained at the core of the pro-gold ("hard money") camp. The bankers' position had if anything toughened: as the international gold standard expanded and solidified, ironclad commitment to gold seemed an ever more important prerequisite to full
+participation in global financial activities.4 Manufacturers were more receptive to hard-money arguments than they had been in the 1870s. After their defeat on the money question manufacturers had turned to efforts to increase tariff protection. They had achieved
+2Unger, Greenback Era, p. 371. Friedman and Schwartz, Monetary History, p. 82n, support a position somewhere between the moderate Greenbackers and the strong silverites.
+3This section relies primarily upon Hicks, Populist Revolt; Hollingsworth, Whirligig; Hoffman, "Depression"; Timberlake, "Repeal"; RockofF, '"Wizard"'; Friedman and Schwartz, Monetary History, pp. 89-134; and Sundquist, Dynamics, pp. 134-69. ''The reasons are suggested in Bordo and Rockoff, "Gold Standard."
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+370 Frieden
+substantial success, especially with the McKinley Tariff of 1890. Most agrarian and mining populists were unsympathetic to protection. Manufacturers had little reason to compromise their hard-won tariffs by joining with antiprotectionists, even for monetary policies they supported. Most manufacturers remained mildly antigold in principle but feared the trade policies of the populists more than they favored their monetary policies. It was also the case that declining prices of manufactured products tended to be compensated by rapid productivity increases, so that few manufacturers felt substantially disadvantaged by the deflation. Hard-money supporters, including President Grover Cleveland in defiance of his party's platform, blamed the Panic of 1893 on uncertainty about the country's commitment to gold. Cleveland prevailed on Congress to repeal the silver purchase clause of the Sherman Act. After this repudiation of soft money, the Democrats lost the 1894 midterm elections, and free silver supporters took definitive control of the Democratic Party. The 1896 election was fought largely over the gold standard. Democrats and Populists jointly fielded William Jennings Bryan; Republican candidate William McKinley declared for gold to help cement an antipopulist alliance of Midwestern protectionists and Eastern hard-money interests. Bryan lost narrowly. In 1900 Congress passed the Gold Standard Act, Bryan was defeated a second time, and commitment to the gold standard was firm. The specific policies preferred by monetary populists varied around common themes, but going or staying off the gold standard was a constant. The most radical position was that of the Greenbackers, who wanted a fiat currency that would float freely against gold, as the original greenbacks did between 1862 and 1879. Silverites wanted free coinage of silver at 16 ounces of silver per ounce of gold. Both policies would have de-linked the dollar from gold, whether directly in the Greenback case or indirectly with free silver, as government silver purchases and the issue of silver dollars (and silver certificates) would have forced a change in the gold parity to
+depreciate the dollar relative to gold.5 The Populists also called for a series of related monetary and financial measures, primarily designed to reinforce reflationary monetary policies. Although Populism is commonly associated with free silver, most of the Populists' monetary thinkers preferred greenbacks. They typically regarded free silver as a compromise necessary to get the support of Western miners,
+5Fixing a gold-silver rate and a silver-dollar rate would cause arbitrage that would force the golddollar rate to adjust in accordance to these two, that is to a devaluation. The market rate for silver in terms of gold fluctuated in the 1880s and 1890s roughly between 20 to 1 and 25 to 1, so that sustaining a 16:1 parity would probably have implied about a 25 percent devaluation.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 371
+who were politically crucial because they were overrepresented in the Senate
+and because they were a large faction within the Republican Party.6 Some monetary activists hoped that the United States could go off gold as part of an internationally agreed bimetallic system. The "international bimetallists" hoped negotiations would allow commodity producing countries such as the United States to devalue and refix without losing international financial credibility. Their efforts led to a series of international monetary conferences to this end, but the conferences all failed and Populist proposals typically assumed that the United States would go off gold unilat
+erally, and that this would involve a dollar depreciation.7 The precise impact of free silver at 16 to 1 on American prices depends on the expected effect of increased American demand on the world price of silver. One set of estimates by Milton Friedman indicates that whereas the cumulative 1876 to 1879 deflation was of 13.9 percent and that of 1889 to 1896 was of 14.3 percent, a 16 to 1 silver standard would have led to a 1.7 percent cumulative inflation in the former instance and cumulative inflation of 16.3 percent in the latter. In light of the socio-economic effects of the deflation that instead took place, this leads Friedman to the judgement that the commitment to gold was "a mistake that had highly adverse
+consequences."8 Adopting or maintaining a paper currency or silver standard was in fact a common response of commodity-exporting nations to the decline in commodity prices in the late nineteenth century.
+MONETARY POPULISM: PROBLEMS OF INTERPRETATION
+Prevailing approaches present the "clash of the standards" as pitting debtors against creditors over the nominal price level. The story of Populism is typically told in terms of beleaguered farm debtors who wanted reflation to raise the overall price level and reduce the real burden of their debts. There is no doubt that many American farmers were in distress in the late nineteenth century. Some work by new economic historians in the 1950s and 1960s, it is true, found little deterioration in farmers' terms of trade over the late nineteenth century; nor did risk-adjusted interest rates or railroad rates
+appear particularly outlandish.9 More recent analyses, however, have con
+6See, for example, the observations of Ignatius Donnelly quoted in Hicks, "Political Career," especially at p. 126.
+7Some recent work, along the lines of Oppers, "Was the Worldwide Shift?,"suggests that bimetallism might not have required a depreciation. This would have been the case if the conversion of the United States to silver had increased (decreased) the world demand for monetary silver (gold) enough to hold the rates constant. For a counter, see Friedman, "Crime." "Friedman, "Crime," the quote is on p. 1177, the figures on pp. 1180-01. See also Drake, "Reconstruction"; and Yohe, "Economic Appraisal." 'For a summary of the findings, and an example of the perplexed reaction they evinced from economic historians, see the standard treatment in Lee and Passell, New Economic View, pp. 292-301.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+372 Frieden
+firmed that many farmers were subject to great volatility in income, that in many areas there was a significant deterioration in fanners' terms of trade for years at a time, and that these agrarian difficulties were roughly correlated (both over time and across place) with patterns of support for Populism
+(and propopulist Democrats).10 These studies explain farm discontent in the Populist era, but they leave unexplained why agrarian demands focused so heavily as they did, and in the ways that they did, on monetary issues. Indeed, from the standpoint of the standard story there is a puzzling weakness of evidence for a relationship between farm indebtedness and farm protest. Although some studies found such a correlation among farm communities, most have been less confident that indebtedness was a good predictor of support for Populism." The most careful study of voting for Populist candidates in the literature, on county patterns in Kansas in the 1890s, found that controlling for other economic characteristics, value of mortgages was actually associated with lower levels of Populist support. On the other hand, farm occupation and the variability of farm yields were positively correlated with Populist votes, and wealth (whether in banks or in land) and farm income were negatively correlated with Populist support. Once these and other factors are included in a multi
+variate analysis, debt levels enter negatively, if at all.12
+It might be objected that it was the inter-regional character of farm debt that led to the regional divisions observed during the Populist era. But even in those parts of the country with the largest proportions of mortgages held in other regions, the vast majority of farm mortgages were local. By one estimate, in the early 1890s in the West North Central and West South Central regions, those with the smallest local mortgage share, some 85 percent
+of all mortgages were held locally.13 Indeed, although Populist rhetoric did complain of farm debt, it tended to focus on other issues. First and foremost was the apparent tendency for farm prices to decline more than those of other goods. Associated with this was concern about the prices of particular inputs, such as railroad transportation
+'"Stock, "Real Estate Mortgages"; Bowman, "Economic Analysis"; Bowman and Keehn, "Agricultural Terms of Trade"; and McGuire, "Economic Causes." "For some indicators of a general correlation, see Stock, "Real Estate Mortgages"; and Nugent, "Some Parameters." More specific evidence from state-level studies can be found in, for example, Miller, "Background"; Farmer, "Economic Background"; and Barnhart, "Rainfall." Most of these studies, however, do not adequately distinguish between the other side of the pincer movement, adverse price trends; they tend simply to assume that if indebted farmers were in difficulty it was due to excessive debt levels rather than particularly negative price movements. Ostler, Prairie Populism, pp. 12—36, finds little support for indebtedness or other economic factors as explanations of voting for the People's (Populist) Party, but his focus is not on support for populist policies but for the alternative party movement, which is related but not identical. l2Williams, "Economics," the relevant table is on page 244, and the mention of mortgages (which are not included in the table) is on page 249. ''Calculated from Snowden, "Evolution," table 1.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 373
+and farm implements. For example, one survey of Kansas farmers in 1893 found that 65 percent attributed farm distress to low prices, 15 percent to drought, 11 percent to "money scarcity" and "interest rates" combined, 5
+percent to railroads, and the rest to scattered other factors.14 In addition other heavily indebted groups of the national population were not drawn to the Populist cause. Urban residential mortgages were the fastest growing segment of the loan market during the Populist period, but middle-class homeowners in the big cities are widely believed to have been
+hostile to Populist monetary schemes.15 So too were many manufacturing and commercial groups large net debtors, but their attitude toward easy money tended to be one of lukewarm support at best, opposition at worst. In fact, an argument that farmers were concerned only about the overall nominal price level rests on some strong assertions. Certainly any nominal contracts—such as farm mortgages—would have been less burdensome. But inflation typically affects the relative prices of goods and services in addition to the aggregate price level. If it had raised the price of farmers' inputs, such as farm implements, fertilizer, and transportation, more than the price of their output, farmers might have been made worse off. Either populist thinkers expected no relative price effects of their monetary policies—which is unlikely given the substantial relative price movements of the greenback period—or they anticipated that they would have been favorable to farmers. hi addition most farm mortgages were at very short term. One survey of representative counties found that mortgages in the West North Central and South Central states, where Populist support was strongest, averaged 3.8 and
+2.7 years in maturity, respectively.16 The lag between political action, policy implementation, and price effects; the short maturities of farm mortgages; and the inevitable readjustment of new loans to new monetary conditions, would all have reduced the ability of free silver to provide relief to indebted
+farmers.17 Problems with economic explanations of the period have led some historians to argue that Populism had important, even predominant, noneconomic components. These include the idea that protest was aimed at the process of commercialization of agriculture rather than at particular economic condi
+tions.18 Especially influential have been arguments that Populism was
+largely a cultural attempt by farmers to fashion a new social order.19 Although noneconomic factors played an important part in American politics in the late nineteenth century, it is hard to believe that Populist eco
+l4Farmer, "Economic Background," p. 426.
+15Snowden, "Mortgage Lending."
+l6Snowden, "Mortgage Rates," p. 675. "Rockoff, "'Wizard'," pp. 752-53.
+18Mayhew, "Reappraisal." "Goodwyn, Democratic Promise; see also McNall, Road.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+374 Frieden
+nomic demands were purely a smokescreen for cultural conflict. The Populists worked out elaborate monetary proposals and flooded the country with pamphlets about the implications of their economic policies. However, a clearer understanding of the economic bases of the Populist phenomenon requires rethinking the economic impact of soft money.
+REINTERPRETING MONETARY POPULISM IN AN OPEN ECONOMY
+Changing the aggregate nominal price level was only one of the goals of Populist monetary proposals. Emphasizing the effects of reflation on the aggregate price level may be appropriate in a closed economy, but the American economy in the late nineteenth century was not closed. American financial markets were tightly integrated with those abroad. Indeed, the United States was the world's largest borrower: net capital inflows to the United States averaged over 7.3 percent of net capital formation between
+1884 and 1893.20 Although there were barriers to the import of many manufactured goods, trade was over 12 percent of GDP (more than double the post—World War II figure); a fifth of the country's farm output was exported, with much higher proportions for such crops as wheat and cotton. hi an open economy with afloatingexchange rate, the principal effect of reflationary policies is to depreciate the currency, raising thereby the price of tradable goods relative to nontradable goods and services. Risk-adjusted interest rates are bound by integration with financial markets abroad; the local-currency price of tradables is bound by world prices and the exchange
+rate.21 Depreciation thus helps producers of tradables at the expense of producers of nontradables. Reflation cum depreciation requires a temporary or permanent abandonment of a commitment to a fixed exchange rate, such as the gold parity. During the gold standard era, it was in fact widely believed that a devaluation in anything other than extraordinary circumstances would destroy the credibility of the monetary authorities' commitment to maintain the gold
+parity.22 In this context, the implementation of soft-money proposals would have had two predictable effects: to depreciate the dollar and to float it. The dis
+20For more general evidence of international capital-market integration, see Neal, "Integration"; and Officer, "Efficiency."
+2lThe implicit model here is that of standard open-economy macroeconomics, in which asset prices adjust immediately and goods prices more slowly; and in which traded and non-traded goods and services are not perfect substitutes. For a summary see Krueger, Exchange-Rate Determination, pp. 41—53; see also Dombusch, "Currency Depreciation," "Devaluation,"and "Expectations." 22Bordo and Kydland, "Gold Standard," discusses the extent to which deviations from the "rules of the game" might not destroy the reputation ofthe country in question. Typically, only such dire exigencies as major war gave sufficient license. In this framework domestic agrarian distress would not provide acceptable reasons for suspension of convertibility, and would have had substantial reputational costs that would have made re-fixing very difficult.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 375
+tributional impact of these policies is substantially different from simply raising the nominal price level across the board. Inasmuch as the distributional effects were reflected in politics, this alternative emphasis gives rise to different expectations of the politics of Populism as well. The first set of distributional effects has to do with the depreciation of the
+currency.23 A depreciation raises the relative price of traded goods, and lowers the relative price of nontradable goods and services. This is especially beneficial to import-competitors and exporters. In the United States, a major agricultural and mineral exporter, a depreciation would have helped those farmers and miners who produced goods that entered into international trade (that is, almost all of them). Manufacturers would also have benefited from a depreciation, as they were largely competing with imports from Europe. Indeed, in the 1870s, manufacturers had supported the Greenback movement. However, unlike exporters, importcompeting manufacturers had a readily available policy substitute for a devaluation, in the shape of import tariffs. After the return to gold in 1879, manufacturers concentrated on obtaining tariffs and were indeed successful in protecting themselves from foreign competition by way of tariffs. A specific tariff accomplished essentially the same effect on output prices as a devaluation, did not involve raising imported input prices, and could be obtained relatively easily through targeted political action rather than requiring a change in national macroeconomic policy. Therefore, industrial support for soft money had been tempered by the 1890s by the imposition of high tariffs on manufactures. This alternative, needless to say, was not readily available to farmers and miners producing for export. For them, a devaluation was an excellent, and eminently feasible, way to use government policy to raise their output prices. The second dimension, the preferred currency regime (fixed or floating against gold, in the event), was of course related to the level of the exchange rate but is not the same. A floating rate was particularly noxious to those economic agents heavily involved in international trade and payments, especially the big Northeastern commercial and financial houses and some exporters of custom-made machinery, who regarded stability against other gold
+currencies necessary to keep their international business.24 For nontradables producers without international ties—for whom the exchange rate was irrelevant—the sacrifices associated with a fixed rate were unjustifiable.
+23This assumes that a nominal depreciation would have led to a real depreciation. Although there would undoubtedly have been some slippage, it would almost certainly have been relatively small. This was certainly the experience of the United States during the Greenback period, which was of course where most of the monetary populists formed their principal ideas.
+24Export-oriented farmers and miners were far less concerned about the impact of exchange rate volatility, as their goods were simple undifferentiated commodities that competed on price alone. But in financial markets and specialized manufactures, concern about the predictability of a financial or commercial contract could outweigh concern about the level of the exchange rate.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+376 Frieden
+Certainly this characterization is stylized and incomplete. It does not take into account nuances in economic actors' preferences that depended on demand and supply elasticities, the depth of forward markets, and a host of other things. Nor does it indicate the degree to which groups might prefer particular outcomes. Exporters might have a weak preference for a fixed rate but a strong preference for a depreciated one; nontradables producers might have a strong preference for a floating rate but a weak preference for an
+appreciated one, and so on.25 In practice, the two dimensions tended to collapse into one in the monetary debates. One side wanted a strong fixed rate, the other a weak floating rate. At the center of the first, hard-money, camp were international financial and commercial groups; at the center of the second, soft-money, camp were export-competing farmers and miners. Domestic nontradables producers, by most accounts, were divided but generally not heavily involved in the debates. Manufacturers' previous tendency toward a soft-money stance was tempered both by the relief provided by trade protection and by the fact that the core of the soft-money coalition in the 1890s was hostile to industrial tariffs. This open economy perspective leads to predictions about political cleavages that go beyond the traditional closed economy view. The standard story relies on preferences over the overall nominal price level and expects a debtor-creditor divide, with debtors inflationists and creditors deflationists. The open economy account adds preferences over the real exchange rate. It does not deny the potential importance of debtor-creditor divisions, but expects most crucially that soft-money advocates will be exposed tradables producers whereas hard-money advocates will be globally-oriented economic actors. The position of domestic nontradables producers is ambiguous —they would prefer an appreciated floating rate, but that option was not on
+the policy agenda.26
+THE POLITICS OF MONETARY POPULISM: EVIDENCE FROM CONGRESSIONAL VOTING
+This article assesses support for monetary populism by looking at the relationship between Congressional voting on monetary issues in the 1890s, on the one hand, and economic characteristics of political constituencies, on
+25It was precisely this difference in preference intensities that allowed for political horse trading, as in the 1896 election. For a more detailed discussion of the analytical issues dealt with in passing here, see Frieden, "Exchange Rate Politics," "Invested Interests," and "Economic Integration." 26There is another possible closed economy viewpoint. It is conceivable that some domestic prices were—regardless of their international economic status—more flexible than others. Producers of goods whose prices were especially flexible would have been more favorable to inflation than producers of goods whose prices were sticky, both because they would have suffered more during the deflation and because they would gain more from reflation.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 377
+the other. For the economic background, Table 1 indicates relative price movements over the course of the 1880s and 1890s. Although specifics vary from series to series, there was a consistent tendency for tradables prices to decline and nontradables prices (especially construction) to decline less or even rise. For example, between 1879 and 1894, according to the Robert Gallman series, farm prices declined 19 percent and construction prices rose 16 percent; the analogous figures by George Warren and Frank Pearson show a 12 percent decline against a 3 percent decline. This would certainly give rise to discontent among tradables producers. Manufacturers indeed responded with strong demands for trade protection, which they received. Farmers and miners, who sold heavily into world markets, pushed for a devaluation. To examine the politics of monetary populism, six House and four Senate votes widely recognized as central to the battle between gold and silver are analyzed (see the Appendix). In the statistical analysis, Senate and House votes are pooled separately to counteract the effects of bill-specific strategic
+voting and other contingent considerations.27 These votes are analyzed along with the economic characteristics of constituencies. All data, except for the party affiliation of the senator or member of Congress, are for states. Employment figures are simply measured as shares of the total labor force for the state. Indebtedness is introduced as the total value of real estate debt for the state as a proportion of the total value of all land in the state. Table 2 presents relevant information for the four Senate votes. The first column displays the means of all variables, according to whether the Senate votes in question were for the soft-money or hard-money position. For example, although 53.9 percent of all the Senate votes cast were cast by Democrats, 67.8 percent of the votes for soft money and 40.3 percent of those for hard money were by Democrats. Other variables are for the senators' states. Real estate debt averaged 11.5 percent of the total value of land in states whose senators voted soft money, whereas it was 15.2 percent in states whose senators voted hard money. It can readily be seen that a hard-money stance was associated with Republicans, higher levels of debt, and more employment in professional and personal services, trade and transport, and mechanical and manufacturing. A soft-money stance was associated with Democrats and more employment in agricultural and mining activities. Looking at means does not control for relationships among the variables, so the second column shows the results of a logit analysis. The dependent variable is coded so that a vote for the hard-money position takes the value of one, and a vote for soft money takes the value of zero. Thus a positive
+"A detailed data appendix, providing a statistical analysis of each of the ten votes, is available from the author upon request.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+378 Frieden
+TABLE 2 POOLED RESULTS FOR FOUR SENATE VOTES Means of all explanatory variables and statistical evaluation
+Variables
+Constant Democratic Party Soft money Hard money Real estate debt as share of land value Soft money Hard money Share of labor force in: Agriculture and mining Soft money Hard money Professional service Soft money Hard money Personal service Soft money Hard money Trade and transport Soft money Hard money Mechanical and manufacturing Soft money Hard money N
+Percent correctly predicted Percent voting hard-money
+pseudo R2
+(1) Means
+0.539 0.678 0.403 0.133 0.115 0.152
+0.448 0.542 0.35 0.041 0.039 0.043 0.185 0.173 0.196 0.133 0.117 0.15 0.194 0.129 0.261 295
+Logit
+1.467 -0.798"
+9.707"
+-4.256
+14.716
+-33.272"
+20.640"
+295 83.05 49.2 0.474
+(2) / - statistics
+0.32 -1.98
+2.89
+-0.80
+0.61
+-2.40
+2.92
+* = Significant at the 10 percent level. " = Significant at the 5 percent level. Notes: All means are statistically significant at the 95 percent level of confidence. The pseudo R2 statistic reported isC/(7V+C) where C is the - 2 log likelihood ratio and N is the number of observations. This is the variant suggested by Aldrich and Nelson, Linear Probability, p. 57. Dependent variables: For logit, votes of individual members of Congress or the Senate (0 = soft money, 1 = hard money.) For OLS, share of each state's congressional delegation voting for the hard-money position on each bill. For odds ratio, the log of the odds that the representative member of each state's congressional delegation voted for the hard-money position on each bill. A positive coefficient is hard-money, a negative coefficient is soft-money. Explanatory variables: For logit, Democratic Party is specific to each individual member of Congress; for OLS and odds ratio, Democratic Party is the Democrats' percentage of the state's congressional delegation. All other explanatory variables are for states. Sources: For all economic data, U.S. Bureau of the Census. Report, vol. 2 and vol. 20.
+coefficient implies a higher probability of voting for hard money, whereas a negative coefficient implies a lower probability of voting for hard money (personal service employment, which varied little, was excluded to avoid the employment variables summing to one). It can be seen that hard money was associated with higher levels of debt, and more employment in professional service and manufacturing (the coefficient on professional service is not
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 379
+statistically significant). Soft money was associated with the Democrats, and with employment in agriculture and mining, and trade and transport (with agriculture and mining not significant). Voting in the Senate can be hard to predict, which makes even the modest
+results here impressive.28 States are often very heterogeneous, and there are relatively few senators, hi many of the votes here, the Senate was of secondary importance to a bill's fate, which depended on developments in the House; this may have influenced senators' voting behavior. Analyzing votes in the House of Representatives, however, is hampered by the fact that the economic data are only readily available for states. Three different techniques are used to address this problem. First, state-level data for all members of Congress from a state are used in a logit analysis. That is, although each individual member of Congress's vote was a separate observation of the dependent variable, all members from any one state were assigned the same economic data. This imposes the clearly incorrect presumption that all congressional districts in a state are economically identical. Second, instead of looking at votes by individual members of Congress, the percentage of each state's delegation voting for the hard-money position on the bills is used as the dependent variable. That is, each observation of the dependent variable was the proportion of the state's members of Congress voting for hard money. This approach has the advantage of allowing states to vary along a continuum; however, it presumes that a dichotomous choice was really continuous and has other misleading properties. Third, the second dependent variable is used, but recognizing that it is constrained to vary
+between zero and one, it was transformed into the log of the odds ratio.29 In the second and third specifications, the economic variables were as in the first, but the partisan variable was recalculated as the share of the state's delegation that was Democrats.
+Table 3 presents the means of all variables and the results of the statistical analysis. As in the Senate, a hard-money stance was associated with higher debts, and more employment in professional and personal service, trade and transport, and manufacturing. Soft money was associated with the Democrats, and with more employment in agriculture and mining. It can be seen that the signs of the coefficients for all economic variables are as expected and the great majority also reach statistical significance. It is especially gratifying that, despite the different character of the three techniques, the
+28For an illustration of the difficulties inherent in analyzing Senate votes, see Bawn, "Strategic Responses." because the dependent variable is the share of the state's Congressional delegation voting for hard money, it is bounded by zero and one. The odds ratio is given by [Pl( 1 -P)], where P is the probability of an individual member of Congress voting hard money (that is, the share so voting). The resulting technique is similar to a logistic regression, but recall that in the logit variant here the dependent variable is the vote by the individual member of Congress whereas in this third variant the dependent variable is the share of the state delegation voting for hard money.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+380 Frieden
+TABLE 3 POOLED RESULTS FOR SIX HOUSE OF REPRESENTATIVES VOTES (Means of all explanatory variables and statistical evaluation)
+(1) (2) (3) (4)
+Variables
+Constant Democratic Party Soft money Hard money Real estate debt as share of land value Soft money Hard money Share of labor force in: Agriculture and mining Soft money Hard money Professional service Soft money Hard money Personal service Soft money Hard money Trade and transport Soft money Hard money Mechanical and manufacturing Soft money Hard money N
+Percent correctly predicted Percent voting hard-money pseudo R2
+Adjusted R2
+Means
+0.685 0.824 0.577
+0.149 0.119 0.175
+0.413 0.533 0.313 0.041 0.039 0.043 0.188 0.169 0.204 0.142 0.117 0.163
+0.215 0.142 0.276
+Logit
+3.764* -0.558"
+9.863"
+-7.071"
+10.591
+-30.963"
+12.543"
+1738 78.83 54.5 0.47
+t
+statistic OLS
+1.66 1.858 -3.58 0.091
+6.36 2.228"
+-2.67 -2.327*
+1.05 7.944
+-5.11 -8.851"
+3.65 0.702
+44
+0.63
+t
+statistic
+1.76 0.70
+3.19
+-1.93
+1.28
+-2.81
+0.61
+Odds Ratio
+8.020" 1.4
+16.137"
+-15.099
+65.673
+-66.849"
+8.935
+44
+0.62
+t
+statistic
+4.49 1.39
+2.95
+-1.60
+1.35
+-2.72
+0.99
+Notes: See the notes to Table 2. A negative coefficient indicates a soft-money stance.
+results are quite stable across them. The R2, pseudo R2, and percent correctly predicted statistics all indicate that the explanatory variables "explain" a relatively large share of the variance in the voting. In an attempt to further control for the impact of partisan considerations, House Democrats are examined alone. Means of all variables for House Democrats and statistical analyses of their pooled votes are given in Table 4. Although many of the coefficients are not as statistically significant as in the broader analysis, the overall results are largely analogous. All statistical
+analyses are robust to a wide variety of alternative specifications.30
+30Most regional dummy variables have no impact on effects of the socio-economic variables in any of the techniques and runs. Dummy variables for the South and the West typically are negatively signed, whereas one for New England is positive, but none is close to statistical significance. The only statistically significant regional dummy variable is one for four states with the country's principal inter
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 381
+Table 4 POOLED RESULTS FOR SIX HOUSE OF REPRESENTATIVES VOTES: DEMOCRATS ONLY (Means of all explanatory variables and statistical evaluation)
+Variables
+Constant Real estate debt as share of land value Soft money Hard money Share of labor force in: Agriculture and mining Soft money Hard money Professional service Soft money Hard money Personal service Soft money Hard money Trade and transport Soft money Hard money Mechanical and manufacturing Soft money Hard money N
+Percent correctly predicted Percent voting hard-money
+pseudo R2
+Adjusted R2
+(1)
+Means
+0.134 0.104 0.169
+0.450 0.562 0.326 0.038 0.035 0.042 0.184 0.165 0.204 0.132 0.107 0.160
+0.196 0.130 0.269
+(2) /Logit statistic
+6.523" 2.44
+10.347" 4.64
+-10.972" -3.47
+4.494 0.33
+-37.029" -4.81
+9.648" 2.25
+1190 80.08 47.4 0.472
+(3)
+OLS i
+2.018"
+1.650'
+-2.328
+3.259
+-7.762"
+0.715
+30
+0.666
+i
+statistic
+9.09
+1.89
+-1.76
+0.56
+-2.01
+0.59
+(4)
+Odds Ratio
+9.692"
+10.091
+-13.976
+4.940
+-56.670*
+11.404
+30
+0.671
+/statistic
+5.59
+1.48
+-1.36
+0.11
+-1.88
+1.21
+Notes: See notes to Table 2. A negative coefficient indicates a soft-money stance.
+Although space precludes an evaluation of individual votes, it is illustrative to look at one. Table 5 presents analogous statistics for what was arguably the most important Congressional vote of the period, to repeal the silver purchase provisions of the Sherman Act. This was a very hotly contested and politically explosive issue that divided both parties. The first panel presents the means of all variables; it can easily be seen that they closely
+nationally oriented financial and commercial centers: Massachusetts (Boston), New York (New York City), Pennsylvania (Philadelphia), and Maryland (Baltimore). This dummy variable was included due to the absence of any relevant census data on the socio-economic groups expected to be the strongest supporters of hard money. In all instances, this "international" dummy was positive (hard-money) and statistically significant, and did not appreciably alter the significance of other variables. The OLS pools suggest a correction for potential heteroskedasticity, as the error terms may be correlated with the number of members of Congress in the state. Such a correction (including a term for the numbers of members in each state) made no difference to the results. Using logs of all (nondichotomous) explanatory variables, so that all can be included simultaneously and to allow for nonlinearity in the distribution of the variables, yields nearly identical results.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+382 Frieden
+TABLE 5 HOUSE OF REPRESENTATIVES VOTE TO REPEAL THE SILVER PURCHASE CLAUSE OF THE SHERMAN ACT: 1 NOVEMBER 1893 (Means of all explanatory variables and statistical evaluation)
+Variables
+Constant
+Democratic Party
+Soft money Hard money
+Real estate debt as share of land value Soft money Hard money
+Share of labor force in: Agriculture and mining
+Soft money Hard money
+Professional service
+Soft money Hard money
+Personal service Soft money Hard money
+Trade and transport
+Soft money Hard money
+Mechanical and manufacturing Soft money Hard money N
+Percent correctly predicted
+pseudo R2
+Adjusted R2
+(1)
+Means
+0.670
+0.773 0.623
+0.151
+0.126 0.164
+0.408
+0.553 0.336
+0.041
+0.038 0.042
+0.189 0.162 0.202
+0.143
+0.116 0.156
+0.219
+0.130 0.263
+(2) Logit
+8.223 (1.37) 0.351 (0.76)
+4.747 (1.15)
+-12.134" (-1.73)
+58.688' (1.76)
+-69.050" (-3.90)
+23.278" (2.32)
+282 82.62 0.430
+(3) OLS
+2.696" (2.00) 0.368" (2.42)
+2.930" (2.13)
+-3.553" (-2.38)
+18.539" (2.37)
+-12.624" (-3.21)
+-0.428 (-0.28)
+41
+0.503
+(4) Odds Ratio
+11.858" (1.08) 3.267" (2.63)
+17.815" (2.4)
+-21.299" (-1.68)
+132.750' (2.08)
+-92.062* (-2.87)
+4.797 (0.39)
+41
+0.521
+(5) Democrats Only Logit
+17.465" (2.23)
+0.408 (0.06)
+-22.643" (-2.42)
+69.032" (1.33)
+-82.265" (-3.18)
+11.938 (0.89)
+189 82.54 0.519
+Notes: /-statistics are in parentheses. See the notes to Table 2. A negative coefficient indicates a soft-money stance.
+resemble the overall pool. The second panel presents statistical analyses of the vote. The first three columns are the logit, OLS, and "odds-ratio" analyses of the vote in the House; the fourth column presents just the logit analy
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 383
+sis of voting by Democratic members of the House. The results in this vote parallel those for the pooled analysis, despite the undoubted confounding impact of vote-specific contingencies and peculiarities. Results for the other individual votes used in the pooled analyses are analogous: although levels of significance vary widely, the signs and coefficients are broadly similar across the sample. One obvious potential objection to the analysis is that the measure for indebtedness includes all real estate debt, not just farm debt. In theory, it seems a fair test of the political implications of indebtedness to look at the effects of all such debt. In practice, the statistical analysis is not affected by using agricultural debt either instead of or in addition to total real estate debt. The alternative or additional agricultural debt measure has no appreciable effects on the statistical results: higher debt levels are still associated
+with less, not more, support for populism.31 The logit coefficients in the statistical analyses cannot be directly interpreted, as their substantive impact varies along the logistic curve. Table 6 presents one way of understanding the coefficients. The numbers in the second column indicate the impact of a one percentage point change in the specified explanatory variable on the vote of a senator or member of Con
+gress whose probability of voting either way is O.5.32 In other words, a one percentage point increase in agricultural and mining employment in a state is associated with a 1.06 percent decrease in the probability of such a senator, a 1.77 percent decrease in such a member of Congress, and a 2.74 percent decrease in such a Democratic member of Congress, voting for hard money. The substantive effects of the explanatory variables are quite large. Because the mean values of the variables are very different, it is also instructive to look at a more standardized measure. This can be done by examining the impact of a one-half standard deviation increase (over the mean) in each variable. These data are presented in column 3 of Table 6. They
+3lThe alternative agricultural debt measure used was the amount of incumbrance on all owned and incumbered farms as a share of the total value of all farms. This is a somewhat less direct measure than real estate debt, as it is taken from two different census sources (the first from table 9 of the Census Abstract, the second from table 32 in Volume 21 of the Census). All of the statistical analyses reported here were redone using the agricultural debt measure instead of real estate debt; and then using both measures together. When agricultural debt alone was used, it always had the same sign as real estate debt, with the exception of one instance in which the coefficient was not statistically significant. When both measures were used together, the sign, size, and statistical significance of the coefficients for real estate debt were not appreciably affected. Typically, the coefficients for agricultural debt had the same sign as real estate debt, and were rarely statistically significant.
+32The statistic in question is 1 / (1 + e 00lfll) - 0.5, where Bj is the coefficient of the explanatory variable we wish to study. This is a probability difference, P, - Po. The benchmark probability Po is defined to be 0.5, which is of relevance because it describes a senator or member of Congress with equal probability of voting either way. Observe that this is also convenient, as Po = 0.5 can be obtained by setting the entire linear term, AT3, equal to zero, that is, 1 / (1 + e °) = 0.5. If we consider a one percentage point increase in a particular explanatory variable, the probability difference is given by the first relationship above. This is computationally convenient and empirically relevant for our purpose.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+384 Frieden
+TABLE 6 ESTIMATED IMPACT OF EXPLANATORY VARIABLES IN LOGIT MODEL
+Variable
+Real estate debt as share of land value
+Share of labor force in: Agriculture and mining Professional service Trade and transport Mechanical/manufacturing
+Coefficient
+Votes
+9.707
+-4.256 14.716 -33.272 20.640
+Effect of a Percentage Point Increase in Variable on Probability of Voting Hard Money (percentages)
+in the Senate
++2.42
+-1.06 +3.67 -8.24 +5.14
+Votes in the House of Representatives
+Real estate debt as share of land value
+Share of labor force in: Agriculture and mining Professional service Trade and transport Mechanical/manufacturing
+9.863
+-7.071 10.591 -30.963 12.543
+Votes by Democrats Only
+Real estate debt as share of land value
+Share of labor force in: Agriculture and mining Professional service Trade and transport Mechanical/manufacturing
+10.347
+-10.972 4.494 -37.029 9.648
++2.46
+-1.77 +2.65 -7.68 +3.13
+Effect of a Half-Standard Deviation Increase in Variable on Probability of Voting Hard Money (percentages)
++7.23
+-9.46 +1.84 -19.67 +25.68
++8.54
+-16.19 + 1.32 -18.44 +16.59
+in the House of Representatives
++2.58
+-2.74 + 1.12 -9.15 +2.41
++8.96
+-23.93 +0.56 -21.62 +12.96
+Notes: See the text.
+indicate, for example, that a one-half standard deviation increase in agricultural and mining employment in a state reduces the probabilities (for politicians at 0.5 probability) voting for hard money by 9.46 percent in the Senate, 16.19 percent in the House, and 23.93 percent among House Democrats. Again, these are very substantial effects. The OLS results in column 2 of Tables 3 and 4 can be interpreted more simply. Those in Table 3, for example, imply the following relationships, looking only at coefficients reaching statistical significance. A one percentage point increase in real estate debt as a share of land value in a state was associated with a 2.256 percentage point increase in the share of the state's delegation voting for hard money. A one percentage point increase in employment in agriculture and mining as a share of total employment in a state was associated with a 2.044 percentage point decline (increase) in the share
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 385
+of the state's delegation voting for hard money (soft money); of trade and transport, with a 8.096 percentage point decline. The very large coefficients on trade and transport and professional service are a function of the relatively low levels of employment in these sectors. Two things are clear from these analyses. First, support for Populism actually declined with levels of indebtedness. This is hardly consonant with the traditional approach. The observed relationship may be due to the wealth effect associated with credit rationing. If, as is almost certainly the case, only the more creditworthy individuals could borrow, then measured levels of farm indebtedness would be biased toward more prosperous farmers. Second, states with large agricultural and mining sectors tended to support Populist monetary policies, whereas states with considerable manufacturing and professional services tended to oppose them. This finding is very much in line with the argument advanced here; voting on gold policy was linked to characteristics of the state's output, thus presumably to relative prices. This result, along with the finding on debt, is at odds with the standard
+nominal price level story.33 One interesting outcome is the degree to which trade and transport employment is associated with support for soft money. This relationship is the strongest, and most frequently statistically significant, in the analyses. It most likely reflects the support of many nontradables producers for a floating exchange rate, a group ignored in most historical accounts of the Populist debates. The results reported in Tables 2 through 5 provide a convincing argument for revising the standard view that the principal support for soft money came from debtors. Moreover, the results represent strong evidence for an approach in which support for soft money depends on the expected relative price effects of a depreciation.
+QUALITATIVE EVIDENCE AND IMPLICATIONS
+The statistical evidence does not necessarily imply that political actors had a full understanding of the economics of these issues, or that they organized themselves precisely along the lines these economic effects might suggest. Certainly American farmers wanted relief from debt, and certainly soft money would have provided some relief. But this does not appear to have been the whole story. Many Populist complaints focused on how price trends were affecting agricultural products particularly adversely. The focus was usually on declining nominal or relative prices for primary products, and the remedies proposed had to do with reversing this trend. Of course, this remedy would have alleviated some of the pressure on debtors, but
+33The result is, however, very much in line with the results obtained by an analogous evaluation of voting in the 1896 presidential election. The results are presented in Eichengreen, "Endogeneity."
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+386 Frieden
+typically debts were mentioned, if at all, as one among many problems caused by deflation. As William Jennings Bryan put it in his acceptance speech at the 1896 Democratic National Convention:
+The fanners are opposed to the gold standard because they have felt its effects. Since they sell at wholesale and buy at retail they have lost more than they have gained by falling prices, and, besides this, they have found that certain fixed charges have not fallen at all.
+Taxes have not been perceptibly decreased, although it requires more of farm products now than formerly to secure the money with which to pay taxes. Debts have not fallen.... Railroad rates have not been reduced to keep pace with falling prices, and
+besides these items there are many more.34
+Another example is found in the most famous populist propaganda tract of the 1890s, Coin's Financial School. The fictitious protagonist of this immensely popular pamphlet, after discussing the impact of deflation on debtors, went on to examine other prices. He imagined a farmer going forth to "see if he could buy as much of this world's goods with 50 cents as he formerly could with a dollar."
+We will suppose, before starting, he goes to pay his taxes. He will find that his 50cent wheat will not pay as much as his $1.40 wheat did in 1873. He will find his taxes just as much, and it will take all of twice as much wheat to pay them as in 1873.
+While passing out of the Court House suppose he meets a county official and should ask him what salary was paid to his office in 1873 and now. The answer would be the same number of dollars now as in 1873. The same is true of city, state, and national officers, also with the army, navy, and official abroad.... He starts for the depot and to get there he takes a street-car. He finds the fare the same as in 1873. He gets on a Pullman car to find the cost the same as in 1873. He registers at a first-class hotel. He finds the cost about the same as in 1873. He sends a telegram, and finds it costs the same as in 1873. He gets a shave with the same result. He buys tea and coffee, with the same result.... He finds interest, except in cities on first-class loans, about as high as in 1873. Should he now meet the man who told him that his 50-cent wheat would buy as much of the world's goods as it ever did, it might result seri
+ously for the other fellow.35
+Every price comparison mentioned here is with a nontraded good or service: government, transportation, lodging, communications, a shave, restaurant food, and financial services. This is probably not coincidental, for comparison with manufactured goods prices would almost certainly have shown (as in Table 1) a relative trend in favor of farm prices.
+MCited in Stevans, Free Silver, p. 224. "Harvey, Coin's Financial School, pp. 213-14. The book was first published in 1894 and probably sold about a million copies.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 387
+Populist monetary policies were indeed usually framed as policies to help primary producers in ways analogous to trade protection's support for manufacturers. Thomas Fitch of Nevada, a Republican concerned with influencing his colleagues in the party of protection, was explicit in addressing the first National Silver Convention in 1889:
+Protection is not a great moral principle in whose behalf men can be expected to sacrifice their personal interests. It is a coalition in which results should be mutual, and thus far the wheat and silver States have not received their share. In all Nevada there is neither a spindle nor a loom, and the prairies of the Dakotas stretch for hundreds of miles unlit by furnace fire. How can Massachusetts expect that the people of the Northwest will continue to vote for a high protective tariff to sustain New England factories when both political parties in Massachusetts openly avow hostility to the great exporting industries of the Northwest?
+. . . Free coinage would, as you know, not only restore silver to its former value, but it would, as has been shown here, add 35 per cent to the present prices of wheat, of cotton, and of farm produce, and it would increase the wages of the laborer and add
+to his opportunities for obtaining employment.36
+It is not surprising, even in the light of the traditional focus on debt, that Populists highlighted the relationship of free silver to primary product prices. After all, increasing primary prices would reduce debt burdens, and of course that was one of its attractions. However, the Populists were also explicit about other relative price effects of going off gold. Prominent among these were effects directly related to foreign trade. In the words of one Populist orator,
+A premium on gold will tend to increase our exports by causing a higher rate of foreign exchange—that is to say, by yielding a larger net return in dollars on the sale of bills of exchange drawn against goods exported. A premium will tend to diminish our imports by increasing the cost of bills of exchange with which to pay for goods imported.
+The tendency of increasing our exports and decreasing our imports will be, first, to set our spindles running, swell the number of paid operatives, increase their wages, thereby adding to the number and paying capacity of consumers, and thus enlarge our home market for all home products and manufactures, with prosperity in general as
+the result assured.37
+As this quote indicates, Americans spoke of a depreciated currency as one that had "a gold premium." This referred to the Greenback experience, in which a benchmark rate for the (non-existent) "gold dollar" included a premium above the Greenback rate. The gold premium was thus the differ
+36In Elliot, Proceedings, pp. 222-23. "William P. St. John, in Stevans, Free Silver, p. 266.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+388 Frieden
+ence between the gold-standard exchange rate and the Greenback (or, in hypothetical discussions, the silver) exchange rate. It was common indeed for Populists to argue that going off gold would stimulate exports and reduce imports. The principal objection that gold supporters raised to this line of argument was that the volatility of a silverbacked dollar against gold-backed currencies would depress trade. To this, Populist thinkers insisted that the price effects would dominate the impact of increased exchange-rate uncertainty—as perhaps it would have for the goods of interest to them. One, whose 1896 pamphlet bore the subtitle "A Campaign Handbook Against the Gold-Hoarding Millionaires," argued:
+It is true that with gold at a premium, exchange between New York and London would fluctuate, that the pound sterling would buy exchange for more dollars just as the premium rose and for fewer dollars just as it fell, but this would no more lead to the cessation of foreign buying of our products than such a premium checks the purchase of wheat, etc., in the Argentinian, Indian, and Russian markets by the British trader. In the face of a premium on gold, in fact stimulated by such premium, the exports of Russian and Argentinian wheat to Great Britain have grown very largely of late years, and just as this premium on gold, this bounty on exports, stimulates the export of wheat and other products from such countries, a similar premium
+on gold in the United States would result in increased exports of our products.38
+In fact, the experience of other primary exporting nations not on the gold standard—such as Argentina, India, and Russia—was the focus of much Populist attention. Indian agricultural products in particular were said to be driving American products out of third markets, and this was ascribed to India's silver standard. The refrain relating the export difficulties of American primary producers to the country's commitment to the gold standard was
+repeated in tract after Populist tract.39 It seems clear from this qualitative evidence that it is hardly far-fetched to assert that Populist monetary proposals were concerned to ensure a real depreciation of the dollar. The fact that the terms used were arcane, and seem to dance around the now-straightforward demand for a devaluation, is largely a result of the different baselines policy makers and publicists were working with. In late nineteenth-century America, all was framed in terms of the gold-standard juggernaut. Going off gold would lead to a gold premium, floating against gold would involve a fluctuating premium, the exchange rate would be felt in different prices for bills of exchange. All of these assertions are correct; but they tend to obscure the simple content of the monetary demands: to tie the dollar to a silver standard that would lead
+38Stevans, Free Silver, p. 165.
+39See, for example, the statements by T. B. Buchanan and M. J. Farrell in Elliott, Proceedings, pp. 168-71,245.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 389
+the currency to depreciate and float against the leading gold-backed currencies of the day. This is not to say that the Populists had a clear sense of the differential price effects of a real appreciation, only that they had a general understanding of the trends. After all, Americans had had 15 years' experience with a floating, depreciated currency in the Greenback era (which most Populist monetary thinkers had analyzed closely, and anyone older than about 35 in 1890 remembered). They had also, by 1896, had nearly ten years' experience with a real appreciation of the gold dollar. It is not surprising that there was general awareness of the broad contours of the relative price trends the country had been experiencing, and those likely to result from refloating the dollar against gold. This analysis is only a step in understanding the political economy of American Populism. However, it is a necessary step. For a long time, scholars have worked with an incomplete characterization of the expected economic effects of Populist monetary policies, and particularly of the expected impact of these policies on groups in society. This is especially limiting for those wanting to understand the politics of Populism, for a prerequisite to analyzing the politics of economic policies is to understand how these policies were expected to affect politically relevant groups. Although this approach may help us better understand the political economy of Populism, there are many characteristics of the era worth further investigation. To mention but a few, they include the circumstances that brought manufacturing over to the hard-money camp, the use of partisan and patronage weapons to affect Congressional voting, the relationship between the monetary and nonmonetary (especially financial and fiscal) components of Populist programs, and the international political aspects of the bimetallism controversies of the period. By the same token, many aspects of the economic issues of the day remain poorly understood, such as why export subsidies were never considered, intersectoral variation in price flexibility,
+and the economic impact of the monetary measures that were in fact taken.40 A better understanding of this episode in American history has broader implications. Agitation for soft money was not confined to the United States. Opposition to gold was something of an international movement from the 1870s until the 1930s. It won the backing of German Junkers, Argentine farmers and ranchers, Italian industrialists, and others for decades, in many
+40One interesting point is that half-hearted silverite policies might have harmed farmers. Silver purchases, which were inflationary, would help tradables producers if they led to a currency depreciation. With the nominal exchange rate held constant (something made possible because the inflationary impact of small silver purchases was modest), these policies led instead to a real appreciation of the exchange rate—quite the opposite of that anticipated. Of course, the Populists were not enthusiastic about the half-hearted silverite measures, and many of them actually opposed the silver purchase program so long as it was undertaken alone.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+390 Frieden
+guises. A clearer perspective on the political economy of the American
+variant of this trend may shed light on other national experiences.41 This episode and its interpretation can also shed light on the broader political importance of monetary policy. If monetary policy is aimed at the aggregate nominal price level—at changing relations between debtors and creditors—only the broadest-gauged of alternative policies can be imagined. If, however, it is intended to redress more specific relative price trends, such as a decline in the price of commodity exports, then alternate policy responses are easier to implement. In the American case, the real appreciation of the dollar led to two kinds of demands from tradables producers: for a nominal devaluation from fanners and miners, and for trade protection from manufacturers. The broad question of policy alternatives is an important one, especially where some policies are preferred on efficiency or other grounds.
+Indeed, the expected distributional effects of monetary policy are important to the analysis of macroeconomic political economy. Much of this burgeoning literature is based on closed economy assumptions. In some analyses, Left parties and the poor are expected to be more inflation-acceptant than Right parties and the rich; the reasons adduced range from the existence of an exploitable Phillips curve, through different net debtor positions, to rank empirical observation. An open economy perspective would lead to a different set of political expectations, more or less along the lines described
+in the 1890s American setting.42 This is relevant both to analyses of political business cycles, and of the impact of such institutions as independent central
+banks on macroeconomic policy outcomes.43 All these extensions and more are possible. The more limited point is that at least in one historically salient instance, an approach that focuses on the impact of monetary policy on the aggregate price level, rather than on relative prices, may be misleading and incomplete. The role of the real exchange rate, as it affects the relative prices of tradable and nontradable goods and services, can be very important.
+CONCLUSION
+Traditional analyses of monetary populism in nineteenth-century America^—and of monetary politics in most countries most of the time—have focused on the expected effects of inflation or deflation on the aggregate nominal price level. In an open economy this focus is incomplete. In an open
+41 For a briefly expanded treatment, see Frieden, "Dynamics."
+42Destler and Henning, Dollar Politics, carry out an analysis of American monetary politics in the 1980s that relies on a distributional view of the United States quite similar to that presented here. 43For examples of which see Alesina, "Politics"; and Grilli, Masciandaro, and Tabellini, "Political and Monetary Institutions."
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 391
+economy support for an expansionary monetary policy often comes from those who would benefit from a depreciation of the exchange rate—not simply from those who would be served by an inflating away of their nominally denominated debts. In the United States in the 1890s, opposition to the gold standard was not in fact strongest among the most heavily indebted. Indeed, the political representatives of states with higher levels of real estate debt typically opposed Populism. Soft money—leaving the gold standard—was supported first and foremost by farmers and miners the (domestic-currency) relative prices of whose products would have been raised by a dollar devaluation. It was also supported by those in such nontradables activities as trade and transportation, for whom a stable exchange rate was unimportant. Monetary populism was opposed by manufacturers who could achieve analogous, and targeted, relative price results by way of trade barriers. It was also almost certainly opposed by the country's international financial and commercial groups, although these are not identifiable in the data used here. Concern about relative prices was an important motivation for American monetary populism. Issues related to the overall nominal price level certainly played a role, but traditional interpretations may exaggerate this role. An open economy emphasis on the real exchange rate adds theoretically to the traditional view, and appears to be analytically consistent with what we know about the period. It is also borne out by the evidence brought to bear here about the impact of economic characteristics of the American states on House and Senate voting on monetary policy issues.
+Appendix: Brief description of votes analyzed
+HOUSE OF REPRESENTATIVES
+1. Table Free Coinage Bill. To table a Free Coinage Bill (H.R. 4426), 24 March 1892. Failed, 148 to 149. Democrats 81 to 130; Republicans 67 to 11; Populists 0 to 8. Administration (Republican) was in favor. A negative vote was soft-money. 2. Free Coinage Bill. Resolution to consider a Free Coinage Bill (S 51), 13 July 1892. Failed, 136 to 154. Democrats 121 to 94; Republicans 10 to 60; Populists 7 to 0. Administration (Republican) was opposed. A positive vote was soft-money. 3. Bland Amendment. An amendment, to set the mint prices of silver and gold at a ratio of sixteen to one (HR1 Amendment), 28 August 1893. Failed, 125 to 226. Democrats 97 to 115; Republicans 15 to 110; Populists 8 to 0. Administration (Democratic) was opposed. A positive vote was soft-money. 4. Repeal Sherman Act. To repeal the Purchase Clause of the Sherman Act (HR 1), 1 November 1893. Passed, 194 to 94. Democrats 123 to 72; Republicans 71 to 17; Populists 0 to 5. Administration (Democratic) was in favor. A negative vote was soft-money.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+392 Frieden
+5. Free silver override. To override the President's veto of the Silver Seigniorage Bill (HR 4956), 4 April 1894. Passed, 144 to 114, but this was insufficient to override the veto. Democrats 119 to 59; Republicans 18 to 55; Populists 7 to 0. Administration (Democratic) was opposed, needless to say. (The original bill had passed, 168 to 129, on 1 March 1994, with Democrats 144 to 15, Republicans 14 to 114, and Populist/Silverites 10 to 0.) A positive vote was soft-money. 6. Gold bonds authorization. To authorize gold bonds (HR 8705), 7 February 1895. Failed, 135 to 162. Democrats 89 to 95; Republicans 46 to 58; Populists 0 to 9. Administration (Democratic) was in favor. A negative vote was soft-money.
+SENATE
+1. Free coinage bill. To pass a Free Coinage Bill (S 51), 1 July 1892. Passed, 29 to 25. Democrats 19 to 7; Republicans 8 to 18; Populists 3 to 0. Administration (Republican) opposed. A positive vote was soft-money. 2. Peffer Amendment. An amendment, to restore the coinage law of 1837—free silver (HR1 Amendment), 27 October 1893. Failed 28 to 39. Democrats 18 to 18; Republicans 7 to 20; Populists 2 to 0. Administration (Democratic) opposed. A positive vote was softmoney. 3. Repeal Sherman Act. To repeal the Purchase Clause of the Sherman Act (HR 1), 1 November 1893. Passed, 43 to 32. Democrats 20 to 21; Republicans 23 to 9; Populists 0 to 2. Administration (Democratic) in favor. A negative vote was soft-money. 4. Free silver bill. To pass the Silver Seigniorage Bill (HR 4956), 15 March 1894. Passed, 44 to 31. Democrats 31 to 10; Republicans 11 to 21; Populists 2 to 0. Administration (Democratic) opposed. A positive vote was soft-money.
+Notes: Totals do not always add up due to minor party candidates and the cross-registration of a few members. In all instances the discrepancies are minor. In the regressions, but not in this accounting, those paired for and against are counted as having voted for and against, respectively.
+REFERENCES
+Aldrich, John, and Forrest Nelson. Linear Probability, Logit, and Probit Models. Newbury Park: Sage, 1984. Alesina, Alberto. "Politics and Business Cycles in Industrial Democracies." Economic Policy 8 (1989): 57-98. Barnhart, John. "Rainfall and the Populist Party in Nebraska." American Political Science Review 19, no. 3 (1925): 527-40. Bawn, Kathleen. "Strategic Responses to Institutional Change: Parties, Committees, and Multiple Referral." Public Choice, forthcoming. Bordo, Michael and Finn Kydland. "The Gold Standard As a Rule: An Essay in Exploration." Explorations in Economic History 32, no. 4 (1995): 423—64.
+Bordo, Michael, and Hugh Rockoff. "The Gold Standard as a 'Good Housekeeping Seal of Approval'." this JOURNAL 56, no. 3 (1996): 389-428. Bowman, John D. "Economic Analysis of Midwestern Farm Land Values and Farm Land Income, 1860 to 1900 "Yale Economic Essays 5, no. 2 (1965): 317-52. Bowman, John, and Richard Keehn. "Agricultural Terms of Trade in Four Midwestern States, 1870-1900." this JOURNAL 34 (1974): 592-609. Brady, Dorothy. "Price Deflators for Final Product Estimates." In Output, Employment,
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 393
+and Productivity in the United States After 1800. Studies in Income and Wealth Volume 30, 91-111. New York: Columbia University Press, 1966. Calomiris, Charles. "Greenback Resumption and Silver Risk: the Economics and Politics of Monetary Regime Change in the United States, 1862-1900." In Monetary Regimes in Transition, edited by Michael Bordo and Forrest Capie, 86-132. Cambridge: Cambridge University Press, 1994.
+Destler, I. M., and C. Randall Henning. Dollar Politics: Exchange Rate Policymaking in the United States. Washington, DC: Institute for International Economics, 1989. Dornbusch, Rudiger. "Currency Depreciation, Hoarding, and Relative Prices." Journal of Political Economy 81, no. 4 (1973): 893-915. . "Devaluation, Money, and Nontraded Goods." American Economic Review 63, no. 1 (1973): 871-80. _. "Expectations and Exchange Rate Dynamics." Journal of Political Economy 84, no. 6(1976): 1161-76. Drake, Louis. "Reconstruction of a Bimetallic Price Level." Explorations in Economic History 22, no. 2 (1985): 194-219. Eichengreen, Barry. "Mortgage Interest Rates in the Populist Era." American Economic Review 74 (December 1984): 995-1015. . "The Endogeneity of Exchange Rate Regimes." In Understanding Interdependence, edited by Peter Kenen, 3-33. Princeton: Princeton University Press, 1995.
+Elliott, E. A., ed. Proceedings of the First National Silver Convention, Held at St. Louis, November 26, 27 and 28, 1889. St. Louis: Buxton and Skinner, 1889. Farmer, Hattie. "The Economic Background of Frontier Populism." Mississippi Valley Historical Review 10, no. 4 (1924): 406-27. Frieden, Jeffry. "Invested Interests: The Politics of National Economic Policies in a World of Global Finance," International Organization 45, no. 4 (1991): 425-51. . "The Dynamics of International Monetary Systems: International and Domestic Factors in the Rise, Reign, and Demise of the Classical Gold Standard." In Coping with Complexity in the International System, edited by Robert Jervis and Jack Snyder, 137-62. Boulder, CO: Westview Press, 1993. . "Exchange Rate Politics: Contemporary Lessons from American History." Review of International Political Economy 1, no. 1 (1994): 81-103.
+_. "Economic Integration and the Politics of Monetary Policy in the United States." In Internationalization and Domestic Politics, edited by Robert Keohane and Helen Milner, 108-36. Cambridge: Cambridge University Press, 1996. Friedman, Milton. "The Crime of 1873." Journal of Political Economy 98, no. 6 (1990): 1159-94. Friedman, Milton, and Anna Jacobson Schwartz. A Monetary History of the United States, 1867-1960. Princeton: Princeton University Press, 1963. Gallman, Robert. "Commodity Output, 1839-1899." In Trends in the American Economy in the Nineteenth Century Studies in Income and Wealth Volume 24, 13—43. Princeton: Princeton University Press, 1960.
+Goodwyn, Lawrence. Democratic Promise: The Populist Moment in America. New York: Oxford University Press, 1976. Grilli, Vittorio, Donato Masciandaro, and Guido Tabellini. "Political and Monetary Institutions and Public Financial Policies in the Industrial Countries." Economic Policy 13 (1991): 342-92. Harvey, William. Coin's Financial School, edited by Richard Hofstadter. Cambridge, MA: Harvard University Press, 1963. Hicks, John. "The Political Career of Ignatius Donnelly." Mississippi Valley Historical
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+394 Frieden
+Review 8, no. 1-2 (1921): 80-132. _. The Populist Revolt. Minneapolis: University of Minnesota Press, 1931. Hoffman, Charles. "The Depression of the Nineties." this JOURNAL 16, no. 2 (1956): 137 -64.
+Hollingsworth, J. Rogers. The Whirligig of Politics: The Democracy of Cleveland and Bryan. Chicago: University of Chicago Press, 1963. Krueger, Anne O. Exchange-Rate Determination. Cambridge: Cambridge University Press, 1983. Lee, Susan Previant, and Peter Passell. A New Economic View of American History. New York: Norton, 1979. Mayhew, Anne. "A Reappraisal of the Causes of Farm Protest in the United States, 1870 -1900." this JOURNAL 32, no. 2 (1972): 464-75. McGuire, Robert. "Economic Causes of Late-Nineteenth Century Agrarian Unrest: New Evidence." this JOURNAL 41, no. 4 (1981): 835-52.
+McNall, Scott. The Road to Rebellion: Class Formation and Kansas Populism, 1865-1900. Chicago: University of Chicago Press, 1988. Miller, Raymond. "The Background of Populism in Kansas." Mississippi Valley Historical Review 11, no. 4 (1925): 469-89. Neal, Larry. "Integration of International Capital Markets: Quantitative Evidence from the Eighteenth to Twentieth Centuries." this JOURNAL 45, no. 2 (1985): 219-26. Nugent, Walter. "Some Parameters of Populism." Agricultural History 40, no. 4 (1966): 255-70. Officer, Lawrence. "The Efficiency of the Dollar-Sterling Gold Standard, 1890-1908." Journal of Political Economy 94, no. 3 (1986): 1038-73.
+Oppers, Stefan. "Was the Worldwide Shift to Gold Inevitable? An Analysis of the End of Bimetallism." Unpublished Manuscript.
+Ostler, Jeffrey. Prairie Populism: The Fate of Agrarian Radicalism in Kansas, Nebraska, and Iowa, 1880-1892. Lawrence: University Press of Kansas, 1993. Rockoff, Hugh. "The 'Wizard of Oz' as a Monetary Allegory." Journal of Political Economy 98, no. 4 (1990): 739-^0. Shaw, William. Value of Commodity Output Since 1869. New York: National Bureau of Economic Research 1947. Snowden, Kenneth. "Mortgage Rates and American Capital Market Development in the Late Nineteenth Century." this JOURNAL 47, no. 3 (1987): 671-91. . "Mortgage Lending and American Urbanization, 1880-1890." this JOURNAL 48, no. 2 (1988): 273-85. _. The Evolution of Interregional Mortgage Lending Channels, 1870-1940. Unpublished manuscript.
+Stevans, C. M. Free Silver and the People. A Campaign Handbook Against the GoldHoarding Millionaires. New York: F. Tennyson Neely, 1896. Stock, James. "Real Estate Mortgages, Foreclosures, and Midwestern Agrarian Unrest, 1865-1920." this JOURNAL 44, no. 1 (1984): 89-105. Sundquist, James L. Dynamics of the Party System. Washington, DC: Brookings Institution, 1983. Timberlake, Richard. "Repeal of Silver Monetization in the Late Nineteenth Century." Journal of Money, Credit, and Banking 10, no. 1 (1978): 27-45. Unger, Irwin. The Greenback Era: A Social and Political History of American Finance, 1865-1879. Princeton: Princeton University Press, 1964.
+U.S. Bureau of the Census. Report on the Population of the United States at the Eleventh Census: 1890. volume 2: Population, Part II, and volume 20: Real Estate Mortgages.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press
+
+
+Monetary Populism in An Open Economy 395
+Washington, DC: GPO, 1895. Warren, George, and Frank Pearson. Gold and Prices. New York: John Wiley and Sons, 1935.
+Weinstein, Allen. Prelude to Populism: Origins of the Silver Issue, 1867—1878. New Haven, CT: Yale University Press, 1970. Williams, Jeffrey C. "Economics and Politics: Voting Behavior in Kansas during the Populist Decade." Explorations in Economic History 18, no. 3 (1981): 233-56. Yohe, William. "An Economic Appraisal of the Sub-Treasury Plan." Appendix B to Lawrence Goodwyn. Democratic Promise: The Populist Moment in America. New York: Oxford University Press, 1976: 571-81.
+https://doi.org/10.1017/S0022050700018489 Published online by Cambridge University Press

@@ -1,0 +1,1432 @@
+BANK OF GREECE
+EUROSYSTEM
+Working Paper
+Andreas Kakridis
+Nobody's child:
+the Bank of Greece in the interwar years
+2
+JULY 2021
+WORKINGPAPERWORKINGPAPERWORKINGPAPERWORKINGPAPERWORKI
+90
+
+
+BANK OF GREECE Economic Analysis and Research Department – Special Studies Division 21, Ε. Venizelos Avenue GR-102 50 Athens Τel: +30210-320 3610 Fax: +30210-320 2432
+www.bankofgreece.gr
+Published by the Bank of Greece, Athens, Greece All rights reserved. Reproduction for educational and non-commercial purposes is permitted provided that the source is acknowledged.
+ISSN: 2654-1912 (online)
+DOI: https://doi.org/10.52903/wp2021290
+
+
+NOBODY’S CHILD: THE BANK OF GREECE IN THE INTERWAR YEARS
+Andreas Kakridis Bank of Greece and Ionian University
+ABSTRACT Neither history nor economic historians have been kind to Greece’s central bank in the interwar years. Born at the behest of the League of Nations to help the country secure a new international loan, the Bank of Greece was treated with a mixture of suspicion and hostility. The onset of the Great Depression pitted its statutory objective to defend the exchange rate against the incentive to reflate the domestic economy. Its policy response has generally been criticized as either ineffectual or detrimental: the Bank is accused of having pursued an unduly orthodox and restrictive policy, both during but also after the country’s exit from the gold exchange standard, some going as far as to argue that the 1932 devaluation failed to produce genuine recovery.
+Relying primarily on archival material, this paper combines qualitative and quantitative sources to revisit the Bank of Greece’s birth and operation during the Great Depression. In doing so, it hopes to put Greece on the map of international comparisons of the Great Depression and debates on the role of the League of Nations, the effectiveness of money doctoring and foreign policy interventions more generally. What is more, the paper seeks to revise several aspects of the conventional narrative surrounding the Bank’s role. First, it argues that monetary policy was neither as ineffective nor as restrictive as critics suggest; this was largely thanks to a continued trickle of foreign lending, but also to the Bank’s own decision to sterilize foreign exchange outflows, thus breaking the ‘rules of the game’. Second, it revisits Greece’s attempt to cling to gold after sterling’s devaluation, a decision routinely denounced as a critical policy mistake. Last but not least, it challenges the notion that Greece constitutes an exception to the rule that wants countries who shed their ‘golden fetters’ recovering faster.
+Keywords: central bank, Greece, gold standard, Great Depression, League of Nations
+JEL-Classification: E58, E65, N14, N24
+Acknowledgements: I am grateful to Barry Eichengreen, Chrysafis Iordanoglou, Sofia Lazaretou and two anonymous referees for their useful comments and suggestions. The views expressed in this paper are the author’s own and do not necessarily represent those of the institutions with which he is affiliated.
+Correspondence: Andreas Kakridis, Bank of Greece, 21 El. Venizelos Ave, Athens 10250, Greece Email: akakridis@bankofgreece.gr
+
+
+3
+1. Introduction
+History was not kind to Greece’s central bank in the interwar years. Born at the
+behest of the country’s foreign creditors during a time of financial distress and political
+rancor, the Bank of Greece was treated with a mixture of suspicion and hostility from
+the very beginning. Just over a year into its life, the newborn institution was thrust into
+the limelight, as the Great Depression rattled the international financial system.
+Charged with defending Greece’s exchange rate in the face of capital flight, the central
+bank faced a dilemma all too familiar to monetary authorities after 1929; one that pitted
+the external objective underpinning the country’s access to foreign capital against the
+internal incentive to support domestic liquidity and reflate the economy.
+Historians reviewing the Bank’s first years of operation have not been particularly
+kind either. More often than not, the Bank’s early policy has been described as either
+ineffectual or detrimental.1 The Bank is accused of failing to respond to the crisis or
+responding in an unduly restrictive fashion that pushed the economy further into reces
+sion. The ‘battle for the drachma’, as the futile attempt to remain on gold after the ster
+ling crisis became known, is regarded as the culmination of this folly. The subsequent
+decision to re-peg the drachma to gold in 1933, less than a year after devaluation, is
+taken as further evidence of an unhealthy “obsession with orthodoxy” (Kostis 2003:
+477; 2018: 256). More recently, Greece’s financial woes have rekindled interest in the
+interwar, which is now viewed through the lens of the country’s sovereign debt crisis
+(Chouliarakis and Lazaretou 2014). In this context, some used the ‘battle for the
+drachma’ to question the wisdom of Greece’s attachment to the euro, while others took
+the opposite stance, arguing that devaluation failed to produce genuine recovery (Chris
+todoulakis 2013). As is often the case, this use of history to settle modern debates
+proved a mixed blessing.
+The main objective of this paper is to provide a unified narrative of the Bank of
+Greece’s birth and operation during the Great Depression.2 In doing so, it hopes to put
+Greece on the map of international comparisons of the Great Depression and debates
+1 See Kostis (1986; 2003; 2018), Pepelasis-Minoglou (1993), Lazaretou (1996), Christodoulakis (2003); Mazower (1991) adopts a less critical stance, which is shared by Psalidopoulos (2019). Those interested in contemporaneously accounts of monetary policy could start with Pyrsos (1936; 1946), Vouros (1938), Pyrris (1934) and Zolotas (1936). 2 Making this narrative accessible to those who don’t have access to the Greek literature and sources is a second objective; to this end, priority is given to references – including archival documents – in English (or French); cf. Dertilis and Costis (1995) for a similar, albeit somewhat dated endeavour.
+
+
+4
+on the role of the League of Nations, the effectiveness of money doctoring and foreign
+policy interventions more generally. What is more, the paper also seeks to revise several
+aspects of the conventional narrative surrounding the Bank’s role. First, it argues that
+monetary policy was neither as ineffective nor as restrictive as critics suggest; this was
+largely thanks to a continued trickle of foreign lending, but also to the bank’s own de
+cision to sterilize foreign exchange outflows, thus breaking with the ‘rules of the game’
+in a way consistent with Nurkse’s (1944) findings. Secondly, it revisits the ‘battle of
+the drachma’, to add some context to what is systematically denounced as a critical
+policy mistake. Last but not least, it challenges the notion that Greece constitutes an
+exception to the rule that wants countries who shed their ‘golden fetters’ recovering
+faster (Eichengreen and Sachs 1985; Eichengreen 1992).
+This paper revisits the early years of the Bank of Greece by combining qualitative
+and quantitative sources. National archives aside, extensive use is made of the hitherto
+underutilized material in the Bank of England, which received weekly confidential up
+dates on developments in Athens and often orchestrated the international response
+through the League of Nations.3 On the quantitative front, the paper draws on numerous
+sources, challenging the reliability of some oft-used figures and constructing new se
+ries, where necessary. Despite valiant efforts in recent years to compile long-term data
+series, notably by Kostelenos et al. (2007) and Lazaretou (2014), problems of data re
+liability continue to plague historical research of inter-war Greece: budgets counted
+loans as revenue and failed to distinguish between primary and total expenditure; com
+mercial banks channeled assets to foreign branches and refused to share data with au
+thorities; volume indices were unweighted and composite indicators were often arbi
+trary. To this day, annual estimates of GDP growth remain sketchy. In this context, a
+better understanding of the data sources and their limitations would help reduce some
+of the contradictions present in some of the empirical work. This paper does not aspire
+to address all of these shortcomings, but it does caution against overreliance on sketchy
+figures.
+The rest of the paper is structured as follows. Section 2 provides the necessary
+context and explains how the new central bank emerged as the unintended by-product
+3 The main archives used are the Tsouderos Archive held at the Bank of Greece Historical Archives (henceforth IATE), the Venizelos Archive held at the Benaki Museum (VA) and the Bank of England Archive (BOEA). Bank of England archives have previously been used by Dritsa (2012), Christodoulaki (2015) Kakridis (2017) and Pantelakis (2018).
+
+
+5
+of Greece’s request for a foreign loan. The peculiar circumstances of its birth led to a
+series of ‘birth defects’, including a lack of liquidity that limited its ability to control
+the domestic money market. True to interwar form, its design emphasized separation
+from public finance and paid too little attention to its relationship with commercial
+banks. This ended up hobbling the new institution, as the government conducted its
+financial operations through other banks that the Bank of Greece was unable to super
+vise (Section 3). At the same time, however, these ‘birth defects’ offered a handy excuse
+to break with the gold standard ‘rules of the game’. Section 4 covers the period from
+1929 to the eve of Britain’s departure from the gold standard. Without questioning the
+inherent limits on its clout, it argues that the Bank of Greece exaggerated its own weak
+ness in order to deflect criticism and strengthen its position in the financial system. In
+practice, the Bank systematically sterilized foreign exchange losses, probably contrib
+uting to Greece’s relative resilience in the face of the global recession. Section 5 focuses
+on the few months between the sterling devaluation and the country’s default, in April
+1932, when Greece struggled in vain to remain on gold. What appears in retrospect to
+have been a costly mistake, was a calculated delay to try and salvage the country’s loan
+financed development strategy; there was never any true intention to deflate the econ
+omy and the Bank of Greece duly injected liquidity to bolster the banking system, pre
+cipitating the country’s departure from gold. Section 6 concludes with a brief review of
+the post-default years, challenging the notion that monetary policy was unduly restric
+tive or that Greece failed to recover after the 1932 devaluation.
+2. An unexpected birth
+Greece entered the roaring 1920s with a roar of pain. After a decade of almost
+uninterrupted war, the collapse of the Asia Minor front in the summer of 1922 left the
+country exhausted and flooded with refugees. The forced population exchange man
+dated by the Treaty of Lausanne served as the final act in a drama that had seen Balkan
+people and borders in constant flux since 1912. In Greece, reconstruction came with
+the dual challenge of integrating the country’s new territories to the north and settling
+more than a million refugees from the east. For a poor, agricultural country with a per
+capita GDP less than half the West European average at the time, the challenge was
+formidable.
+
+
+6
+Two thirds of the population still lived on the land, where 60% of output and 90%
+of exports – mostly tobacco and currants – were produced. Roads were fewer than riv
+ers, though often hard to tell apart; floods were commonplace and malaria was endemic.
+Cities lacked proper water and sewage, let alone electricity; housing was sparse, even
+before the arrival of the refugees. Sweeping land reform helped release social tensions
+in the countryside but hardly improved agricultural yields, which remained abysmally
+low. Despite devoting 70% of cultivable land to cereals, interwar Greece couldn’t feed
+itself. Its gaping trade deficit was financed by a steady inflow of invisibles, notably
+emigrant remittances from the US. But as emigration options narrowed and population
+growth accelerated in the 1920s, economists and politicians agonised over the country’s
+economic “viability”.4
+The quest for viability was expensive. Like many European countries, post-war
+Greece was financially drained. Its budget and currency lay in tatters. Despite signifi
+cant tax hikes, deficits remained high and were financed through the printing press.
+Between 1920 and 1927, prices rose five-fold and the drachma lost more than 90% of
+its pre-war value (Figure 1). Domestic funding alternatives were limited. Having twice
+resorted to cutting banknotes in half to convert a portion of the circulation into a forced
+loan, the government had ran out of ways to force the population to hold more of its
+bonds.
+Foreign capital was the obvious solution, but not an easy one. Thanks to the op
+eration of the International Financial Commission (IFC), a body set up by the country’s
+creditors in 1898 and administered by Britain, France and Italy, debt service had con
+tinued during the war. The IFC maintained direct control over a portion of state revenue,
+which it channeled for interest and amortisation (Tuncer 2015; Kakridis 2018). Still,
+political and financial instability – not to mention the uncertainty of wartime reparations
+and inter-allied debt settlement – hardly inspired confidence in capital markets, where
+Greek bonds traded at heavy discounts. In the aftermath of the Asia Minor debacle, the
+League of Nations helped Greece secure a £10,000,000 loan (net) in London and New
+York at an effective rate of 8.5%. Issued on the heels of League loans for Austria and
+Hungary, the 1924 Refugee Loan would be serviced by the IFC and managed by another
+autonomous agency under foreign administration, the Refugee Settlement Commission
+4 Mazower (1991) and Kostis (2018) offer the necessary details; viability concerns are discussed in Kakridis (2009), with Ploumidis (2013) drawing interesting parallels with other Balkan countries.
+
+
+7
+(RSC). The strict terms helped raise the loan, along with hopes of Greece’s financial
+rehabilitation. A military coup dashed those hopes in 1925 and soured relations with
+the League, causing London to impose an effective loan embargo on the country.5
+Democracy was restored in 1926 and a new coalition government re-opened ne
+gotiations for a supplementary refugee loan. Over the next year, war debts were settled
+with Britain, the US and France – the latter proving most intransigent, not least since
+the French disliked the prospect of another British loan initiative.6 But the message
+from London – echoed in Geneva – was clear: further assistance to Greece would come
+part and parcel with fiscal and monetary stabilisation. The former meant budget reform
+and a cap on public expenditure; the latter entailed a de jure return to gold and the
+establishment of an independent central bank.7
+These terms were reaffirmed by the League experts who visited Greece in the
+spring of 1927 and reported to the Financial Committee at its June session in Geneva.
+The mission, which comprised staff members Arthur Elliott Felkin, Jan van Walré de
+Bordes and a young Jacques Rueff, was headed by the League’s Deputy Secretary Gen
+eral, Joseph Avenol and fit neatly into the pattern of inter-war ‘money doctoring’
+(Schucker 2003). In a lengthy appendix to their report, the experts described how the
+country’s largest commercial bank, the National Bank of Greece, was also the sole note
+issuing authority working in tandem with the government.8 Established as a commercial
+bank with limited note-issuing rights back in 1841, the National Bank had gradually
+expanded to everything from discounts and business advances to agricultural credits,
+state loans and mortgages. Encouraged by the small size of the Greek market, this con
+centration also reflected the National Bank’s skillful exploitation of political leverage.
+5 The Refugee Loan is discussed at length in Tounta-Fergadi (1986) and Pepelasis-Minoglou (1993: 6493), who also offers details on the British loan embargo and poor relations with the regime of General Pangalos (pp. 101-115); cf. Norman to Niemeyer (Treasury), 1 February 1926, BOEA OV80-1/6; on the RSC, see Kontogiorgi (2006). 6 War debts were settled with Britain on 9.4.1927 and the US on 8.11.1927 (Pantelakis 1988). Poincaré threatened to use the French member of the IFC to block any new loans unless Greece accepted the French estimates of its obligations; Norman and Siepmann’s attempts to mediate through the Banque de France merely reinforced the French conviction that the Financial Committee was controlled by the Bank of England; see Siepmann to Quesnay, 22 September 1927, BOEA OV80-2/36 and the subsequent exchange between Moreau and Norman in the same file. The matter was eventually settled through arbitration, as agreed in December 1927. 7 The negotiations leading to the establishment of the Bank of Greece have been the subject of several monographs – see, amongst others, Pyrsos (1936), Pepelasis-Minoglou (1993: 121-171), Kostis (2003: ch. 11) and Christodoulaki (2015); in what follows, references are kept to a minimum. 8 See The National Bank of Greece, 6 June 1927 in A3-S1-Y1-F4/1; this is the third note accompanying the report submitted to the Financial Commission by the mission to Greece.
+
+
+8
+Its role in state finance – however perilous at times of overborrowing – guaranteed
+frequent cabinet appointments for its senior management and provided a steady stream
+of special privileges that helped reinforce its monopoly position; by 1920, the Bank had
+also become the country’s sole note-issuing authority.9
+By inter-war monetary standards the National Bank’s multiple roles were highly
+unorthodox. The bank’s governor, Alexandros Diomidis, may have insisted that its
+dominance made it “the most independent central bank in Continental Europe”, but few
+took him seriously.10 In Geneva, the Greek government was asked “to bring the Na
+tional Bank into closer conformity with Modern Central Banking”; that meant stripping
+it of commercial activities and severing its ties with the treasury. The government
+agreed “in principle” and submitted its official loan application on June 14, 1927.11
+When news of the deal reached Athens, Diomidis was incensed. The bank was
+not prepared to shed the most lucrative part of its business, nor could the Greek financial
+system be “tailored to the designs conceived by simple yet misty Nordic minds”, that
+were hardly applicable to a country where “credit was still in its infancy”.12 The gov
+ernment, for its part, was also reluctant to jeopardise the integrity of country’s largest
+commercial bank and hoped to keep the reform on hold for a few years. As the prospect
+of such a delay dimmed, negotiations came to an impasse.
+Emmanouil Tsouderos, the Deputy Governor of the National Bank’s, came up
+with a solution: instead of giving up its commercial portfolio, the bank could spin off
+the note issue – along with the foreign exchange reserves and a sizeable chunk of the
+public debt – to establish a new, separate central bank. The idea was first floated to
+Financial Committee members in London, Otto Niemeyer and Henry Strakosch, but
+soon gathered momentum in both Athens and Geneva.13 Only the Swiss member of the
+Financial Committee, Léopold Dubois, predicted that the government would continue
+to rely heavily on the National Bank and questioned whether the new institution would
+9 On the early history of the National Bank, Valaoritis (1902) remains a classic, while Thomadakis (1985) offers a rare contribution in English; cf. Kostis and Tsokopoulos (1988). 10 H. Siepmann, Note of Conversation with Mr. Al. N. Diomede, 14 February 1927, BOEA OV80-1/27. 11 See the list of questions posed “privately” by the Financial Commission to the Greek Minister of Finance on June 12, 1927 (along with his answers) in BOEA OV80-2/23; the official application, dated June 14, is appended to the Report to the Council of the Proceedings of the 27th Session of the Financial Commission (C.335.M.110.1927.II). 12 Diomidis to Tsouderos, 22 and 23 June 1927 in IATE A3-S1-Y1-F40/13 and Y2-F25/68. 13 Tsouderos to Diomidis, 29 June 1927, IATE A3-S1-Y2-F25/71; cf. Pyrsos (1936: 69ff) and Venezis (1955: 37-43).
+
+
+9
+be strong enough to stand its ground; prescient as they may have been, his concerns
+were brushed aside.14
+July was spent drafting the new statutes.15 The League had recently helped estab
+lish the Bank of Estonia and this served as the blueprint, while further inspiration was
+drawn from the Bulgarian and Austrian National Banks, as well as the Indian Reserve
+Bank. Limits on treasury bill discounts and state advances were copied from the Reichs
+bank. Tsouderos intervened to weaken the government’s hold on management, while
+Strakosch added a 7% minimum reserve requirement for commercial banks, which the
+Greek side eliminated from subsequent drafts.16 In retrospect, it is striking how little
+thought was given to the institution’s relationship with other banks, as opposed to its
+independence from government. Inter-war bankers were still haunted by the spectre of
+fiscal dominance and inflation.
+Negotiations continued through the summer, before the final drafts were submit
+ted to the Financial Committee to become the Geneva Protocol, which was signed on
+September 15, 1927. Banking reform aside, Greece promised to stabilise the drachma
+at the prevailing rate, cap public spending and overhaul its public accounting practices;
+it also agreed to submit quarterly progress reports, endure continued IFC and RSC con
+trol and even appoint a suitable “technical advisor” to the new bank.17 Opposition par
+ties in Athens rushed to accuse the government of capitulating to foreign interests with
+out exploring other loan options. In fact, records show the government welcomed alter
+natives, not least because they helped improve its negotiating position. Much to Lon
+don’s frustration, for example, a competitive Swedish loan was put forward during the
+negotiations.18 Given how these alternatives came with fewer strings attached, it is
+worth considering why the Greek government ended up opting for the League.
+14 de Bordes to Strakosch, 14 July 1927, BOEA OV9-190/93. 15 IATE A3-S1-Y1-F7 contains successive annotated drafts, identifying the source of each article; similar files appended to letter from Osborne to Niemeyer, 12 July 1927, BOEA OV9-190/1. 16 The requirement was limited to the National Bank, and only in cities where the Bank of Greece had a branch (i.e. Athens); all other commercial banks were exempt, effectively being allowed to continue the existing practice of depositing excess reserves with the National Bank; see Remarques du gouvernement Grec et de la Banque Nationale de Grèce sur les projets de loi monétaire, statuts de la Banque etc., September 1927 in IATE A3-S1-Y1-F8/2. 17 The idea was hardly new and paralleled the appointment of special commissioners that accompanied other stabilization loans; Greece objected strongly to the prospect of embedding yet another foreigner with veto power into its administration and managed to keep his role advisory. 18 The offer, which did not involve any League supervision, was for a £9,000,000 loan at an effective rate of 8%. Much like the League loan, it would be serviced through the IFC. This meant British, French
+
+
+10
+Both Santaella (1993) and Flores Zendejas and Decorzant (2016) have argued
+that League supervision helped countries access cheaper credit by improving credibility
+and promoting much-needed reforms; the latter also maintain that the League’s multi
+lateral approach was superior to the bilateral deals used elsewhere. Much of this rings
+true for Greece. Tied to monetary stabilisation, the League loan was conceived as part
+of a broader reform package that would act as a “good housekeeping seal of approval”,
+smoothing the country’s return to capital markets.19 External enforcement would make
+reforms more credible abroad, while deflecting some of their political cost at home.
+Politicians saw Geneva as a potential scapegoat for unpopular austerity; the National
+Bank regarded it as an ally against government pressure.
+Other aspects of the Greek case, however, are less consistent with this narrative.
+The IFC already provided Greece with an external enforcement mechanism that could
+be used to tap foreign markets at competitive rates and even orchestrate monetary sta
+bilisation.20 The Swedish loan offer, predicated on IFC guarantees, was a case in point.
+What ultimately undermined these alternatives was London’s unwillingness to allow
+Greece to fall into the financial orbit of any other country. Wielding considerable lev
+erage, Britain was opposed to any plan that did not go through the Financial Committee,
+where the Bank of England held most sway. Greek policy-makers were well aware of
+this; in response to a French suggestion to explore alternatives in Paris, Tsouderos won
+dered:
+“Is it worth pursuing financial restoration without the League’s cooperation? Could
+we succeed? What would our position be vis-à-vis the big central banks, whose help
+we need, especially the Bank of England and the New York Fed? These banks are
+working together and – for better or worse – control global markets. I’m sure we can
+obtain loans elsewhere [...] But pursuing an almost unilateral stabilisation without
+the blessing of [these] central banks would make the attempt short-lived.”21
+and Italian governments would have to approve of the scheme and charge the IFC with the new task (Pepelasis-Minoglou 1993: 162f). 19 The ‘seal of approval’ reference points to Bordo and Rockoff (1996), who investigate the effects of gold standard participation in the pre-war era; Lazaretou (2005) extends this framework to the Greek case. 20 In fact, the IFC had already drafted two plans for Greek monetary stabilization, both of which envisioned handing control of the money supply to a department of the National Bank under IFC supervision; see L. G. Roussin, Stabilisation of the Drachma, dated July 12, 1925 and updated March 15, 1926, in BOEA OV80-1/8-9. Both notes were circulated and discussed at the Treasury and the Bank of England at the time. 21 Tsouderos to Diomidis, 29 September 1927, IATE A3-S1-Y2-F25/71.
+
+
+11
+Coercion was thus an essential part of the process whereby Greece chose the League.
+Niemeyer’s threat was thinly veiled, when he described the Swedish loan to Tsouderos
+as a “foolish and short-sighted” idea, which threatened to upset Greece’s relationship
+with the League and “those who are anxious to be her friends”.22 London could not only
+veto IFC involvement in the servicing of the Swedish loan; less conspicuously and more
+ominously, it could also direct the City bankers to turn a deaf ear to Greece’s subsequent
+loan requests. By extension, it is worth considering whether the different inter-war loan
+experiences recorded in the literature do not reflect the superiority of the League’s mul
+tilateralism, but rather the superior firepower the Bank of England and the City of Lon
+don could bring to bear to help its friends or intimidate its foes.23
+Ratification of the Geneva Protocol, along with an improved budget and the de
+facto pegging of the drachma (Figure 1), opened the door to negotiate a “tripartite” loan
+of £9,000,000, to be split in three equal tranches: one for refugees, another to settle
+budget arrears and a third to boost the foreign exchange reserve of the new central bank.
+The loan was successfully floated in January 1928, setting the stage for the de jure
+stabilisation of the drachma.24 On May 12, 1928, the currency was fixed at 375 drach
+mas to the sterling as the country joined the gold exchange standard. Close to the aver
+age since 1926, the exchange rate was widely believed to undervalue the drachma, thus
+offering policymakers additional leeway.25 Henceforth, the note issue would be con
+trolled by the new central bank, which was mandated to hold gold or convertible foreign
+exchange reserves at no less than 40% of circulation. Diomidis became the first Gov
+ernor, with Tsouderos as his Deputy. At Niemeyer’s behest, Horace Finlayson, a Treas
+ury official stationed at the British embassy in Berlin, was chosen to be the technical
+22 Niemeyer to Tsouderos, 3 October 1927, IATE A3-S1-Y2-F51/16. 23 This is especially true of comparisons with such cases, like Romania and Poland, where bilateral loans were made that deliberately by-passed the Bank of England. On the imperial rivalries and concomitant central banks disagreements underpinning such loans, see Meier (1970); Tooze and Ivanov (2011) make a somewhat similar argument based on the Bulgarian experience. 24 By that time, the US government had also agreed to advance Greece $12,167,000 (i.e. £2,500,000) at 4% for refugee settlement. Thus, only the remaining £6,500,000 (net) were raised through public subscription in London and New York, some bonds being taken up in Italy, Sweden, Switzerland and Greece. The loan was issued at 91 (85.5 net of commission) with 6% coupon, raising the effective interest rate to 7%. 25 Christodoulakis (2013: 278) claims, rather unconvincingly, that the drachma was actually overvalued, compared to its trough value in August 1926. Why the month a military regime was toppled by another coup and the exchange rate dipped two standard deviations below its 1926 average should be taken as the drachma’s equilibrium value is not explained. Nor is the possible overvaluation of sterling relevant, given that the drachma did not seek to restore its pre-war parity, but rather re-pegged at 1/15 of its prewar sterling rate.
+
+
+12
+advisor.26 On May 14, 1928, the Bank of Greece opened its doors to the public for the
+first time. Much to everyone’s surprise, the quest for a supplementary refugee loan, had
+led to the birth of a new central bank.
+3. Nobody’s child
+The unexpected birth was followed by a difficult childhood. Created at foreign
+behest, the Bank of Greece was treated with a mixture of suspicion and hostility, as it
+struggled to establish a foothold in a market dominated by its predecessor.
+This struggle was uphill, not least since the Bank of Greece suffered from a hand
+ful of birth defects: 47.5% of its assets were tied up in unmarketable, low-interest loans
+to the state; with gold and foreign exchange reserves taking up another half its balance
+sheet, only about 1% was left for liquid drachma assets such as commercial bills or
+marketable securities. This meant the new central bank was effectively cut off from the
+market it was expected to control and could not rely either on rediscounting – a practice
+unfamiliar to most Greek banks anyway – or open market operations to reign in money
+and credit.27
+Some of these defects were genetic: a decade of fiscal profligacy had left much
+of the drachma issue covered by forced state loans. For those to be liquidated, Greece
+would have had to issue more foreign bonds, effectively replacing cheap domestic
+credit with expensive foreign loans. A compromise was struck: the Bank of Greece
+would assume about 3,800 million drachmas of debt and the government would amor
+tise it in instalments of no fewer than 200 million annually. Thus, as Dubois would put
+26 Finlayson’s career details are provided by Leith Ross to Niemeyer, 13 August 1927 in BOEA OV9190/109. The same folder contains correspondence concerning negotiations with the Greek side to secure Finlayson’s post; for the Greek side of the negotiations, see IATE A3-S1-Y2-F44 and F45. When the choice was announced to the Financial Committee, the French representative was the only one to grumble, no doubt since Finlayson’s presence in Athens would solidify British control of Greek financial affairs; see Comite Financier, 29ème Session, Procès-verbal de la 14ème séance tenue à Genève le 7 Décembre 1927, IATE A3-S1-Y1-F9/1. 27 Percentages are based on the Bank’s opening balance sheet but still held on 31.12.1928; see Pyrsos (1936: 100) and Bank of Greece (1929: 52); cf. the discussion in Lazaretou (2015, p. 74-78). The limited effectiveness of discounts in markets inundated with government securities was common to many interwar countries (Eichengreen 1992: 195); what made the Greek case different was the fact that the central bank was burdened with non-securitized debt, which meant it could not perform contractionary open market operations either.
+
+
+13
+it in September 1927, “the new bank would not be a bank of issue in the strict sense of
+the word, but it had been necessary to adapt to circumstances”.28
+Other defects, however, were due to the circumstances of the Bank’s birth: weary
+of foreign intervention, the government had allowed the National Bank to tailor mone
+tary reform to suit its own interests. Thus, when the two institutions were separated, the
+National Bank transferred the most unprofitable and indigestible public loans – includ
+ing some 1.1 billion drachmas unrelated to the note issue – to the new central bank,
+keeping the most lucrative and marketable securities to itself. As a pamphlet would
+later put it, “the National Bank secured all the meat for its stockholders, leaving the
+bones to the Bank of Greece”.29 What is more, the National Bank clung to several of
+its old privileges, most notably the sole right to hold the deposits of the country’s public
+agencies. By leaving a sizeable portion of public savings under National Bank control,
+the government thus “sold the birth right of the Bank of Greece”, breaching the spirit,
+if not the letter of the Geneva Protocol.30
+The upshot of all this was a new central bank with an 108 million drachma port
+folio in an eight billion drachma market that had just received a considerable liquidity
+boost, not least due to the tripartite loan. The elephant in the room was the National
+Bank, which controlled almost half the deposits and a third of short-term credits. A few
+months after the Bank of Greece had opened its doors, the National Bank spearheaded
+an initiative to establish the Hellenic Bank Association (HBA), which served to ‘regu
+late’ the market and represent commercial bank interests. Liberated from the state’s
+stifling embrace, the National Bank would only see its dominance grow over the next
+years.31
+28 Comite Financier, 28ème Session, Procès-verbal de la 10ème séance tenue à Genève le 7 Septembre 1927, IATE A3-S1-Y1-F8/1. For a succinct formulation of the trade-off involved, as seen from the Greek side, see the anonymous memo (probably drafted by Tsouderos) titled Signification de la Stabilisation, n.d., in IATE A3-S1-Y2-F173/1. 29 Petridis (ed.) (2000 [1932])· see also Tsouderos to Varvaressos, May 19, 1928, IATE A3-S1-Y1-F32/1 and Kyrkilitsis (1935: 30). 30 The formulation belongs to Finlayson, as recorded in Comite Financier, 38ème Session, Procès-verbal de la 2ème séance tenue à Genève le 8 Mai 1930, IATE A3-S1-Y1-F25/2, p. 27. The decision to keep these deposits – which amounted to some 450 million drs. – with the National Bank led to acrimonious debates with the Financial Committee. The compromise reached in July 1929 was mainly a face-saving exercise, inasmuch as the Bank of Greece merely got to ‘rubber stamp’ the deposits, which remained with the National Bank until 1950; cf. the heated debate at the Comite Financier, 35ème Session, Procèsverbal de la 3ème séance tenue à Paris le 5 Juin 1929, IATE A3-S1-Y1-F21/2.
+31 The numbers cited refer to discounts and other short-term credits outstanding on December 31, 1928 for the Bank of Greece and commercial banks as a whole, as published in Table 11 of the Bank of Greece Monthly Bulletin, Vol. 1(1), January 1930, p.15. On the meteoric rise of the National Bank after 1928,
+
+
+14
+Of course, none of this had seemed problematic back in 1927, when Diomidis
+and Tsouderos were negotiating in London and Geneva. Their objective had been to
+conform to the League’s prescriptions and protect the note issue from government in
+terference. Inasmuch as the Financial Committee also insisted on bank reform, their
+priority had been to keep the National Bank from harm’s way. Neither of them foresaw
+any trouble in relations between the new and old banks of issue. In fact, their private
+correspondence reveals their primary concern to have been the potential reaction of
+rival banks, notably the Bank of Athens, who might attempt to convert substantial
+amounts of drachmas into foreign exchange; Diomidis even went so far as to approach
+the Bank of England for a stand-by credit facility to stave off potential speculative at
+tacks.32 But the National Bank was beyond suspicion: a friendly giant, committed to
+pursuing ‘national’ interests and expected to work in harmony with the Bank of Greece.
+After 1928, Diomidis and Tsouderos would come to realise just how optimistic their
+expectations had been.
+Most of the Bank of Greece’s early policy initiatives can be seen as attempts to
+overcome its birth defects. The operation of clearing houses to reduce cash transactions
+and encourage banks to keep reserves with the Bank of Greece; the establishment of
+local branches to absorb foreign exchange in agricultural export towns; the elaborate
+plans to set up a nation-wide Savings Bank to drain liquidity from commercial banks
+or repackage state loans into marketable short-term securities; the legislative campaigns
+to force data disclosure and revive Strakosch’s 7% minimum reserve requirement – all
+reflect the Bank’s efforts to reinforce its position.33 Despite support from the Financial
+Committee, most initiatives failed to yield the desired results. What is more, they
+see Kyrkilitsis (1935) and Kostis (2003: chapter 17, aptly titled “The empire strikes back”); for a history of the HBA see Kostis (1997). 32 Diomidis had always pressed for such credits from the Bank of England to support the stabilization “psychologically”. As he explained to Siepmann “what he must have is a soldier dressed in gold from head to foot, standing at the door of a room which contains nothing whatever” (Note by H. A. Siepmann, February 24, 1927 in BOEA OV80-1/36). Demands became more persistent on the eve of stabilization, as speculative attacks were feared, not least from the Bank of Athens (Note of conversation between Siepmann and Tsouderos, January 30, 1928 in BOEA OV80-3/34), only to be rebuffed each time as “wholly absurd” (Niemeyer to Diomede, and Niemeyer to Finlayson, both on March 23, 1928 in BOEA OV9-190/183-4). 33 Pyrsos (1946) offers the most detailed discussion of the early years of the Bank’s policy; Finlayson’s confidential annual reports are also useful windows into the operation of the Bank, as are the minutes of Financial Committee meetings with Bank representatives. The Annual Report to the Governor of the Bank of Greece, April 6, 1929 in BOEA OV9-192/2, the Memorandum dated October 2, 1930 in IATE A3-S1-Y2-F60/1 and the Notes on statement to the Financial Committee, May 11, 1931 in BOEA OV804/107b offer key summaries.
+
+
+15
+provoked hostility from commercial banks, who viewed the institution’s actions as an
+tagonistic (Mazower 1991: 147). According to Tsouderos, one senior National Bank
+official even threatened him with an attack on the central bank’s reserves, should it
+continue to set up new branches and compete for foreign exchange and discounts on
+the open market (Venezis 1966: 63).
+Relations with the government were also fraught with difficulties. Mandated to
+report to the Financial Committee on a quarterly basis, the Bank was often the unwitting
+harbinger of uncomfortable news from Geneva. This strained its relationship with the
+government, which expected the Bank of Greece to do its bidding. Thus, senior gov
+ernment officials occasionally made “improper excursions into bank rate policy”,
+which led to further rounds of protest from abroad.34 Inevitably, as Dubois had pre
+dicted, the government continued to rely heavily on the advice and resources of the
+National Bank, often leaving the central bank on the side-lines.
+Politics also played a role. From the very start, bank reform had been the subject
+of intense political controversy. In August 1927, the conservative People’s Party had
+withdrawn from the coalition government, ostensibly because it disagreed with the pro
+posed reform; henceforth, the party would remain hostile to the Bank of Greece, peri
+odically proposing its abolition.35 Soon thereafter, the leader of the progressive Agri
+cultural Labour Party and Minister of Agriculture, Alexandros Papanastassiou, threat
+ened to withhold support for the Geneva Protocol, unless steps were also taken to es
+tablish an Agricultural Bank (Kostis 2003: 305f). Another campaign to avert bank re
+form was waged a few months later by another party leader, Georgios Kondylis, albeit
+to no effect.
+The largest blow came in June 1928, when the former Prime Minister and founder
+of the Liberal Party, Eleftherios Venizelos, launched a vehement campaign against the
+handling of negotiations in Geneva. The coalition government was forced to resign,
+paving the way for Venizelos’s return to the premiership. British officials in Athens
+informed the Treasury and the Bank of England that “the old man [was] on the war
+34 Niemeyer to Finlayson, November 27, 1928 in BOEA OV9-191/142, in reply to Finlayson’s complaints that Venizelos had pressured the Bank to lower its discount rate too soon. 35 The deeper reasons for its withdrawal were probably internal to the party; an unwillingness to share responsibility for the austerity measures concomitant of stabilisation may also have played a role; Dafnis (1997 [1974]: 381f); Pepelasis-Minoglou (1993: 149); cf. Tsouderos to Agnides, August 10, 1927 in IETA A3-S1-Y1-F35/16.
+
+
+16
+path”, proposing the de facto merger of the Bank of Greece with the National Bank.36
+By July, Athens was rife with rumours of Diomidis’s impending dismissal and the re
+versal of the bank reform. In what was to become an oft-repeated maneuver in coming
+years, London and Geneva put their foot down, pointing out that central bank independ
+ence had been an integral part of the 1927 Protocol and a precondition for continued
+League support.
+As it turned out, Venizelos was merely using the Bank of Greece as a stalking
+horse to attack the National Bank and renegotiate the division of the spoils created by
+the revaluation of its foreign exchange reserves at the new parity. Over the coming
+months, he attacked the National Bank for defrauding the state of its rightful ‘surplus
+value’ gains and threatened it with new taxes. The dispute was settled in June 1929,
+when the National Bank was forced to cede half the gains to the state.37 The unexpected
+offspring of this compromise was the Agricultural Bank, financed largely by the state’s
+share of the spoils, which started its operations in early 1930 and became the second
+most important new bank of the inter-war years. Much like the Bank of Greece, it spent
+its childhood in the shadow of the National Bank.
+All this controversy did not help bolster the position of the Bank of Greece, at a
+time when “important political and business sections assumed a definitely hostile atti
+tude to the new institution”, wrote Finlayson in the fall of 1928. Things might have
+been different if the government had made a public declaration in support of the new
+comer:
+“Unfortunately, no such declaration was ever made public and the private banks still
+assume an attitude of sullen hostility to the Central Institution. This is bound to con
+tinue so long as the Bank of Greece continues to work in a position of semi-complete
+36 Lorraine (Minister Plenipotentiary to Greece in Athens) quoted by Waley to Niemeyer, June 28, 1928 in BOEA OV9-191/90a. See also Finlayson, Memorandum, July 2, 1928 in BOEA OV9-205 and his letter to Niemeyer of July 4, 1928, in BOEA OV9-191/98. Having spent three years abroad, Venizelos returned to Greece in April 1927; about a year later – and less than a fortnight after the de jure stabilization – on May 23, 1928, he announced his intention to return the leadership of the Liberal party. 37 The National Bank argued these gains were its rightful compensation for having lost the note issue. Venizelos thus proposed the return of the note issue to the National Bank, to eliminate the need for any compensation. The ‘gold covers dispute’ raged for over a year and was ultimately a power-struggle between the country’s top bank and its top politician. Pyrsos (1936: chapter 7) and Kostis (2003: chapter 16) offer excellent summaries; for a peek into the negotiations themselves, see Finlayson to Niemeyer, dated August 3, 1928 in VA Φ357~36-37, as well as the exchanges between Niemeyer. Finlayson and Strakosch between October 1928 and January 1929 in BOEA OV9-206.
+
+
+17
+isolation. For the time being, it is nobody’s child and its real activities are little more
+than those of a rather pretentious exchange-shop.”38
+4. An unexpected crisis
+Following his triumphant return to the political centerstage in 1928, Venizelos
+won the August elections in a landslide. During his campaign, he promised to modern
+ise the country, introduce sweeping reforms and promote public investment. Over the
+next few years, extensive drainage and irrigation works reclaimed or protected some
+300,000 hectares and total cultivable land rose by 30%; road networks expanded by
+15%, port infrastructure was improved and more than three thousand new school build
+ings were erected, just as major projects to provide Athens with adequate water and
+power were concluded. Given the caps imposed by the Geneva Protocol on ordinary
+expenditures, many of these projects were kept off budget and financed through con
+tractors, who undertook to raise the necessary foreign capital. With the drachma back
+on gold, Greece rushed to tap international markets: between 1928 and 1932, public
+and private borrowing from abroad amounted to some £23.8 million, or about a quarter
+of GDP.39
+The rapid accumulation of foreign liabilities did not go unnoticed in London. As
+early as September 1928, Niemeyer warned Venizelos that “as experience has shown
+elsewhere, a newly stabilised economy at once becomes the happy hunting ground of
+foreign contractors and bond sellers, each anxious to sell his own particular interest”.40
+Eyebrows may have been raised, but no alarms went off, not least since many of those
+happy hunters were British contractors and financiers. Besides, ever since the Zaimis
+government had re-opened negotiations with the League in 1926, Greece had been quite
+38 Finlayson, Relations between the state and the central bank of issue, October 10, 1928 in BOEA OV9206/2. 39 This figure comprises foreign lending (‘assistance from abroad’) plus net bank credits (receipts minus payments), as recorded on the Balance of Payments for 1929-32, Table XIX of Bank of Greece (1934); GDP figures are from Kostelenos et al. (2007). Besides the tripartite loan (partially credited in 1929), the largest public loans credits 1932 are two loans for productive works (1928, 1931) and one for school buildings, worth a total of £7.9 million net (Dertilis 1936: 134). Pepelasis-Minoglou (1993) surveys public works financed with foreign capital, including some major private loans. For summaries of Venizelos’s economic policy, see Mazower (1991: 108ff) and Dafnis (1997 [1974]: 497-514). 40 Niemeyer to Venizelos, September 6, 1928 in VA Φ332-07. Niemeyer’s letter came at a time when Venizelos was flirting with Seligman, a New York investment bank, for a new loan, which the British actively sought to quash; cf. Niemeyer to Leith Ross (Treasury), November 29, 1928 in BOEA OV9-196 and Finlayson to Niemeyer, January 17, 1932 in BOEA OV9-206/32. Needless to say how competition between different foreign interests was closely monitored by diplomatic missions in Athens.
+
+
+18
+candid about the role of foreign capital in its development strategy: few of the League’s
+terms would have been tolerated without the prospect of securing foreign loans.
+In the long run, public works would boost agricultural production and close the
+country’s trade deficit, thus securing the foreign exchange necessary to service the debt
+incurred. In the short run, continued access to capital markets would ensure the steady
+refinancing of foreign liabilities. In other words, Greece’s outward-oriented develop
+ment strategy was predicated on its short-term ability to secure enough foreign ex
+change to service its debt. The strategy was both risky and ambitious, but it was hardly
+original. Many European countries, including most recipients of League loans, were on
+a similar path. There was just one problem: the year was 1928. The sands of interna
+tional capital mobility were about to run out – not just in Greece, but everywhere.
+No country escaped the grip of the Great Depression that swept the world after
+1929.41 Greece was no exception, although the insular nature of its more traditional
+sectors, coupled with the stimulus provided by foreign lending, cushioned the initial
+blow and shielded the economy from a deep recession (Table 1). Greece felt the onset
+of the crisis through the collapse of primary product prices and trade. By 1932, its ex
+ports had shrunk by 30% in volume and 60% in value, taking a heavy toll on such
+crucial cash crops as tobacco and currants. Bad weather and a succession of crop fail
+ures, the worst in 1931, further depressed rural incomes, prompting the government to
+suspend taxes, raise tariffs and guarantee higher minimum prices for farm products.
+Deflation was milder compared to other countries, but it was enough to increase real
+debt, which became unbearable to most farmers and many businesses. Stock-market
+prices tumbled and defaults multiplied, as manufacturing production shrank by about
+10%. Heavily concentrated, the financial sector proved quite resilient, although several
+smaller banks did not survive.42 The fall in imports offset the loss of exports, but not
+the collapse of invisibles, which traditionally financed the country’s trade deficit; as
+foreign exchange reserves began to shrink, the first seeds of doubt about the drachma’s
+ability to stay on gold were planted.
+41 This paragraph can’t do justice to the literature on the Great Depression in Greece; Kostis (1986) and Mazower (1991) remain classics, but see also some papers in Kakridis and Rizas (eds.) (2021). 42 Bank bankruptcies are discussed in Kyrkilitsis (1934: 12-14) and Alogoskoufis and Lazaretou (1997: 130). The stock market crash strained those with loans backed by securities, including stock-brokers, who pleaded for additional credits; see Finlayson to Niemeyer, December 3, 1929 in BOEA OV9-207/1.
+
+
+19
+Inevitably, the Bank of Greece found itself at the centre of the maelstrom. Wor
+ried about its cover ratio, the bank responded to the loss of reserves by allowing note
+circulation to fall (Table 1), fuelling complaints of “monetary stringency”. In the press,
+the Bank was accused of strangling businesses at the moment they needed liquidity
+most; in parliament, the government was interpellated over monetary policy, just as
+financial circles were abuzz with “hysterical rumours that the National Bank is out to
+bust [the central bank] and take over again”.43 Conscious of Geneva’s watchful gaze,
+Venizelos gave a half-hearted defence of the Bank in public. Privately, he kept pressing
+it to let the cover ratio drop to its legal minimum and inject additional liquidity. When
+Finlayson and Tsouderos demurred, he accused them of “gold fetishism”.44
+The accusations were exaggerated. The fall in circulation was modest compared
+to the loss of reserves; aggregate bank deposits and loans continued to increase and
+bank liquidity remained high – hardly a sign of “monetary stringency”. Inasmuch as
+complaints were incited by the National Bank, they might have been an attempt to de
+flect attention at a time when the government was pressing for moratoria on farmers’
+debt.45 Either way, the dispute was telling of the continued tension between the new
+bank of issue, the government and commercial banks; as for the Prime Minister, Fin
+layson was quite certain there would be “trouble with the old man”.46
+Trouble, however, was also brewing in Geneva. Unlike the Bank’s critics at
+home, the Financial Committee felt Greek policy had been far too complacent: the dis
+count rate had remained unchanged, the drachma had not depreciated to its gold export
+point and the central bank’s own discounts had increased. As Niemeyer would put it,
+“during the latter part of 1929, the Bank of Greece went to sleep”.47 As of 1930, the
+need to tighten domestic credit became a familiar adage of letters from London and
+Geneva.
+43 Finlayson to Niemeyer, February 13, 1930 in BOEA OV9-192/71A; the same letter contains details on the parliamentary interpellation. Details of the press campaign on “monetary stringency in Finlayson’s Memorandum dated November 25, 1929 in BOEA OV9-206/78. 44 Finlayson to Niemeyer, February 14, 1930 in BOEA OV9-192/72. Government pressure had started as early as October 1929; see Finlayson to Niemeyer, October 29, 1930 in BOEA OV9-206/68. 45 Finlayson to Niemeyer, October 29, 1929 in BOEA OV9-206/68. 46 Finlayson to Niemeyer, February 14, 1930 in BOEA OV9-192/76. 47 Notes of interview with O. Niemeyer in London, January 25, 1930 in BOEA OV9-192/70. The Bank kept the discount rate at 9% from late 1928 till September 1931. On the Bank’s reluctance to use the gold points, see Société des Nations – Comité Financier, 37ème session, Procès-verbal de la troisième séance tenue à Genève, le 21 Janvier 1931 in IATE A3-S1-Y1-F24/2.
+
+
+20
+The Bank of Greece pleaded innocent and pointed to its birth defects: given the
+size of its portfolio, neither a higher discount rate nor open market operations could
+have influenced domestic credit. Commercial banks, and especially the National Bank,
+were too strong, and could safely ignore – or even threaten the central bank.48 Working
+closely with the government, the National Bank was injecting additional cash to support
+farm prices; it spearheaded efforts to stabilise the stock market, bail out major industrial
+concerns and take over troubled banks. In many respects, the National Bank was acting
+as Greece’s lender of last resort (Kostis 2003: 423ff).
+This line of defense has since become a staple of the literature and is overdue for
+reassessment. During the crisis, the Bank of Greece deliberately exaggerated its weak
+ness, in order to deflect criticism and strengthen its position in the financial system.
+Commercial banks may have determined the money multiplier, but the Bank of Greece
+still controlled the monetary base and could – at the very least – reduce circulation pari
+passu with the drain in foreign exchange. Inasmuch as it sterilised part of the drain, that
+was a deliberate policy decision.
+Given its statutory obligation to keep foreign exchange reserves at 40% of circu
+lation, the Bank would have to withdraw 2.5 drachmas for every (equivalent) drachma
+of reserves lost in order to stabilise the cover ratio. Without an adequate portfolio to
+carry out open market operations, the Bank was indeed unable to contract as much. Its
+own data, however, reveal it was also unwilling to contract even at a one-to-one rate:
+between May 1928 and the sterling crisis of September 1931, the Bank lost reserves
+worth 1,622.6 million drachmas, but only withdrew 1,096.8 million from circulation,
+or 67.6% of the loss; by the time Greece left gold, that ratio had fallen to 27.4%. The
+Bank of Greece was actively leaning against the wind by injecting additional drachmas
+into the market whenever foreign exchange transactions drained the money supply.49
+The motive behind this policy is obvious: a more aggressive contraction would
+have hurt the economy. As a senior Bank official would explain, in January 1930, “the
+situation in Greece is different from that in other countries; there is the refugee question
+48 For a succinct formulation of the argument by Greek representatives, see Société des Nations, Comité Financier, 42ème session, Procès-verbal de la huitième séance tenue à Genève, le 7 Septembre 1931, p. 10 in IATE A3-S1-Y1-F29/1; see also Pyrris (1934: 85ff) and Pyrsos (1946: 326ff). 49 A more detailed version of the argument, which dates back to Nurkse (1944) and Bloomfield (1959) is found in Kakridis (2021); the Greek case fits neatly into Eichengreen’s (1990) cross-sectional estimates.
+
+
+21
+to be dealt with, and efforts must be made not to create unemployment”.50 Figure 2
+tracks the coefficient of correlation between monthly changes in reserves and circula
+tion over a six month ‘moving window’; a more ‘conventional’ plot of the cover ratio
+can be found in Figure 4. With the exception of a few months in mid-1929, the coeffi
+cient never approached unity. The Bank was systematically attempting to cushion the
+domestic money supply from changes in reserves. The timing of interventions is also
+telling: whenever the country was buffeted by international shocks – late in 1929, dur
+ing the Credit-Anstalt crisis or after the sterling devaluation – the Bank of Greece re
+sponded by increasing domestic circulation.51 This was not a sign of weakness – it was
+a deliberate policy choice.
+Priority to internal objectives, however, jeopardised the country’s external com
+mitment to the gold standard. Greece’s problem was that it needed both a buoyant econ
+omy to protect social stability and a stable exchange rate to finance its debt and ambi
+tious public works program. Faced with two conflicting objectives, the Bank of Greece
+– like many central banks in debtor countries on the gold standard – tried to have its
+cake and eat it: it attempted to stay on gold, but shied away from strict adherence to the
+‘rules of the game’. As its foreign reserves became depleted, it resorted to various ac
+counting tricks to inflate the cover ratio and pleaded with the IFC to defer foreign ex
+change purchases for debt service.52 Criticism abroad was deflected by an exaggerated
+appeal to the institution’s inherent defects. In retrospect, this strategy helped Greek
+monetary policy steer clear from a deeper recession. At the time, it was used to absolve
+the central bank of responsibility and garner support for its efforts to tighten control
+over the financial system. Bank of Greece officials blamed the loss of reserves on the
+“continued fight of [commercial] banks against us, which is carried on either out of
+spite or out of a bad estimation of things”, the National Bank invariably being the prime
+suspect.53
+50 Société des Nations – Comité Financier, 37ème session, Procès-verbal de la quatrième séance tenue à Genève, le 21 Janvier 1930, p. 20 in IATE A3-S1-Y1-F24/2. 51 The effect on broader money (M3) is, as one might expect, less pronounced, not least since the shocks also affect the money multiplier, an effect the Bank of Greece is trying to dampen. 52 The attempts to convince the IFC to defer foreign exchange purchases, reminiscent of the BIS mandate to minimize reparations-related shocks to Germanys’ foreign exchange market, led to a bitter conflict between the Bank and the IFC, documented in Pepelasis-Minoglou (1993: 181-184). 53 Tsouderos to Niemeyer, February 10, 1931 in BOEA OV80-4/83· cf. Tsouderos to Diomidis, Diomidis Archive owned by N. Pantelakis, F1-SF1-SE4-FI24-IT5.
+
+
+22
+Diomidis was more cautious. He agreed that “clipping the National Bank’s wings
+was advisable”, but attributed the loss of reserves to more fundamental macroeconomic
+imbalances. Writing to Tsouderos, in May 1931, he explained how “the cover keeps
+shrinking because of successive [current account] deficits; certainly, if other banks fol
+lowed a healthier policy, our position would be better, but I doubt it would make a large
+difference, for our entire economy is constantly in deficit”.54
+The Governor was right. Convenient as it may have been to blame the banks, they
+were not the main culprits for what was ultimately the effect of an international credit
+squeeze. As late as 1931, Greece borrowed a total of 8.0 million pounds to cover 42%
+of the foreign exchange needs (Figure 3). With both exports and net invisibles shrink
+ing, without continued access to foreign capital, the loss of reserves was guaranteed 
+no matter how commercial banks responded. But Diomidis was only half-right. The
+only bank that could have responded was the central bank, which he governed, but he
+was reluctant to sacrifice domestic economic activity to defend the cover. Greece’s out
+ward-oriented development strategy continued to unravel, along with expectations of
+the country’s ability to remain on gold. Under these circumstances, neither commercial
+banks nor investors could be blamed for walking away from the drachma. In September
+1931, the walk turned into a stampede.
+5. The final battle
+Sterling’s devaluation sent shockwaves through the global financial system. At
+an emergency meeting held at the Bank of Greece, government and bank representa
+tives agreed that the drachma would remain on gold.55 Having long touted the benefits
+of stabilisation, authorities were loath to abandon the linchpin of their externally-fi
+nanced development strategy, not least since devaluation was tantamount to default:
+debt service was largely payable in gold and absorbed 40% of budget revenue.56 On
+54 Diomidis to Tsouderos, May 23, 1931 in Diomidis Archive owned by N. Pantelakis, F1-SF1-SE4FI24-IT10; see also Pantelakis (2018: 303) and Venezis (1966: 76). 55 At the time of sterling’s devaluation, the Bank of Greece held roughly a quarter of its reserves in sterling (£1.6 million); losses were later estimated at 174.7 million drachmas, or 7.5% of the country’s reserves (Pyrsos 1946: 101). The statutory implication that sterling could no longer be considered part of the official reserves was a much greater challenge; in practice, this provision was ignored and the Bank of Greece kept its sterling, albeit at its market parity. 56 Most Greek foreign loans were either payable in currencies that were still pegged to gold or carried gold clauses; interestingly enough, this is rarely mentioned by those who favoured a Greek devaluation in September 1931, including Niemeyer, who seems to have had the sterling tranche of the League loans
+
+
+23
+Monday, September 21, 1931 the drachma was re-pegged to the dollar, though no ad
+ditional restrictions were imposed. The ‘battle for the drachma’ was on.
+Panic gripped markets almost immediately. Asset prices collapsed and on
+Wednesday, trading on the Athens stock market was suspended. By Friday, the Bank
+of Greece had lost $3.6 million and was forced to swallow its pride and ask the National
+Bank for emergency credits to prop up its cover ratio (Figure 4). Exchange controls and
+import restrictions were hurriedly introduced over the weekend. The discount rate,
+which had been kept at 9% since November 1928 was raised to 12%, only to be throttled
+back to 11% the next month; given the size of the Bank’s portfolio, the changes were
+largely meant to provide a signal, rather than exert any direct influence. The signal was
+picked up and commercial discount rates, which had hitherto followed an independent
+path, followed suit. Taken aback by the violence of capital flight and eager to pin the
+blame on someone, Venizelos forced Diomidis to resign. After a few weeks of political
+intrigue, he was replaced by Tsouderos, who found himself at the helm of the bank he
+had helped establish, just when calls for its abolition were making headlines again.57
+With the introduction of exchange controls, Greece joined the scores of countries
+that – while nominally still on gold – were already drifting away from their official
+parity (Eichengreen 1992: 231). Controls throttled capital outflows but also discour
+aged remittances and other invisible inflows; the current account was deep in the red
+and expectations of an impending devaluation became widespread. Within weeks, the
+drachma was trading at heavy discount on the black market.
+Subsequent authors have criticized Greek policy makers for “adhering to a legal
+istic view of the economy” (Kostis 2003: 376) and acting as “late proselytes”, willing
+to “choke off liquidity” to defend the gold standard (Christodoulakis 2014: 282), “na
+ively believing they would be able to further tap international capital markets” (Pe
+pelasis-Minoglou 1993: 186). Justified as they may be in hindsight, these critiques
+in mind when he proposed that the drachma follow sterling but continue servicing its debt. The composition of Greek foreign debt is discussed in L. Palamas, Note on the mode of service of the external Greek loans, November 2, 1931, in BOEA OV80-5/74. Greek authorities were acutely aware of the legal complications that would arise should the country seek to pay in depreciated currency; see the various memos drafted in the fall of 1931 in IATE A5-S1-Y5-F15. 57 For a more detailed chronicle, see Venezis (1955: 97ff), Mazower (1991: 143ff), Kostis (2003: 376ff) and Kakridis (2017: 68ff). For the English translation of a headline-making newspaper article calling for the Bank of Greece to be re-absorbed by the National Bank, written by the senior economic advisor to the Liberal party, Dimitrios Maximos, see BOEA OV80-5/94c; for reactions to the Maximos plan by Diomidis, see OV80-6/29.
+
+
+24
+ignore both the conditions and mindset of the times, while overestimating the strin
+gency of the Bank’s policy.
+Greece’s ability to defend its parity hinged on its ability to plug its current account
+deficit (Figure 3). In theory, this could be attempted through a massive contraction in
+domestic liquidity and imports; alternatively, as the French member of the Financial
+Committee unabashedly suggested, Greece could dismiss civil servants, cut salaries by
+20% and close down some of its schools.58 Fortunately, Greek authorities never con
+templated such a contraction, especially on the eve of an election year. Fiscal measures
+were modest, import volumes dipped only mildly and the Bank of Greece continued its
+policy of sterilization (Figure 2). The only alternative acceptable to the Greek side was
+some combination of debt relief and renewed capital injections. In the fall of 1931, this
+is exactly what Athens was expecting.
+As late as April 1931, Greece had floated a £4,600,000 loan to fund its public
+works through an international bank syndicate headed by Hambro’s. Placement had
+been difficult, with the British tranche being undersubscribed; given market sentiment
+at the time, however, the operation was considered a success and even Montagu Nor
+man expressed his surprise.59 Having thus confirmed the country’s financial standing,
+authorities were confident that – once the sterling crisis had blown over – access to
+international capital would be restored. Meanwhile, the country would continue to play
+by the rules of the game – or at least appear to be doing so. As the crisis drew on,
+authorities in Athens pinned their hopes on a coordinated initiative, presumably under
+League auspices. By January 1932, Venizelos was touring European capitals advocat
+ing a five year debt moratorium and a $50 million loan to complete his public works
+initiative.60 The battle for the drachma now resembled a siege, whose outcome hinged
+on the defenders’ ability to hold the fort until a foreign relief party came to the rescue.
+58 As reported in Tsouderos to Venizelos, March 12, 1932 in IATE A3-S1-Y2-F2/3.
+59 H. Finlayson, Report on Recent Loan negotiations in London, 1st March-19th April, April 30, 1931 in BOEA OV80-4/101b and Pepelasis-Minoglou (1993: 388-92). The loan carried an effective interest rate of 7.3%; £2 million were floated in London, £1 million was taken up by the National Bank in Athens, the balance being sold in Sweden, Switzerland, Holland and Italy. New York banks were also approached, but refused to participate; Speyer and the National City Bank, however, agreed to advance cash against £1,5 million-worth of Greek treasury bills, thus renewing past advances for another year. 60 Venizelos’s proposals are contained in Memorandum on Greek financial situation, January 20, 1932 in BOEA OV80-6/4. London’s reactions are hardly encouraging, as shown in the reply by Neville Chamberlain to Venizelos, January 28, 1932 in BOEA OV80-6/18.
+
+
+25
+Venizelos’s demands were unrealistic, but plans for an international relief opera
+tion were not without adherents in Geneva. Meeting in March 1932, the Financial Com
+mittee offered a sanguine assessment of the situation in Austria, Hungary, Bulgaria and
+Greece and proposed a “concerted effort” to guarantee loans to these countries, giving
+them some “breathing space” until the international situation improved.61 In Greece’s
+case, the proposed loan was $10 million and was accompanied by strict fiscal terms and
+a temporary transfer moratorium on amortization. Fears of contagion certainly in
+formed the Committee’s attitude. Niemeyer, who had recently visited Athens to assess
+the situation in person, had told Venizelos not to “monkey around” with League loans.
+Devaluation and default were all the more unpalatable to the Geneva, since Greece ap
+peared to be in better shape than other League debtors who were still clinging on to
+gold. A decision to suspend Greek debt service was bound to trigger further defaults.62
+Between 1929 and 1931, Greece’s economy had indeed been fairly resilient. The
+slump in agricultural prices had increased the country’s debt burden, but since Greece
+imported mainly food and raw materials, its terms of trade had not deteriorated. Thanks
+to a reserve army of urban refugees, wages were flexible and absorbed most price
+changes, just as tariffs offered manufacturing increased protection. The same tariffs
+propped up the budget, which had not come under serious strain before the imposition
+of exchange controls. Most significantly, foreign loans had provided external stimulus
+and funded extensive public works. Thanks to those loans and the willingness of the
+Bank of Greece to sterilize foreign exchange outflows, the financial system remained
+liquid and both credits and deposits had continued to grow, even in nominal terms, until
+August 1931. Legal protections afforded to foreign exchange deposits also meant com
+mercial banks had not witnessed extensive withdrawals over the summer.63 In this
+61 League of Nations Financial Committee, Report to the Council on the Work of the Forty-Fifth Session of the Committee (Paris, March 3rd to 24th, 1932), March 29, 1932, C.328.M.199.1932.II.A. 62 Niemeyer to Loveday, January 29, 1932 in BOEA OV80-6/17; a few days earlier, Niemeyer had noted that “the Greek position is by no means as bad as that of certain other countries which we know” (BOEA OV80-6/5); see also Tsouderos to Venizelos, March 12, 1932 in IATE A3-S1-Y2-F2/3. 63 Deposits in foreign exchange, a legacy of the pre-stabilization years and testimony to many people’s continued mistrust of the drachma, were payable in foreign exchange or their market equivalent in drachmas; parliament had imposed a five year moratorium on any law concerning such deposits, which was due to expire on June 8, 1932. Incidentally, this explains why no commercial bank was eager to abandon gold in September 1931: their extensive foreign exchange liabilities, many of them backed by goldbacked Greek sovereign bonds, meant that a devaluation would hurt commercial banks, especially if it were accompanied by a default. See also footnote 70.
+
+
+26
+context, it is less surprising that Greek policy makers felt the country could ‘hold the
+fort’ for some time.
+To critics of the Bank’s policy, none of this mattered, since no relief party was
+coming to lift the siege. Sooner or later, Greece would have to abandon the gold stand
+ard. The battle was merely postponing the inevitable, wasting valuable time and foreign
+exchange. In hindsight, there is no doubt the critics were right. Greek authorities mis
+read the prospects of international cooperation and underestimated the shift in investor
+sentiment (Accominotti and Eichengreen 2016). In September 1931, however, few in
+Greece could have been so clairvoyant as to opt for immediate devaluation and default
+– not least since the prospect of foreign retaliation had not been ruled out. It is not
+accident that, for all their complaints about specific battle tactics, no opposition party
+openly challenged the decision to defend the drachma. Nor was anyone willing to step
+up when Venizelos later offered to resign and proposed the formation of a coalition
+government (Dafnis 1997 [1974]: 533). What opposition parties lacked in policy ideas,
+they made up in schadenfreude.
+Ideas mattered. Many believed the crisis to have been caused by excess specula
+tion which had to be purged before the economy could recover. Finlayson had dubbed
+his proposed method of credit restraint the ‘castor oil method’, because of the cathartic
+effects it would allegedly bring to the economy.64 More importantly, memories of in
+flation were still fresh and added to the ‘fear of floating’ (Calvo and Reinhart 2002).
+Asked by a senior British Treasury official why Greece was not devaluing the drachma
+to relieve the pressure on its economy, Venizelos explained that he “was afraid it would
+cause general collapse and inflation”.65 Such cognitive lock-in, informed by inflation
+ary trauma, played a crucial role in delaying many countries’ exit from gold (Wolff
+2008).
+What is more, the country was sailing in unchartered waters. Despite their ‘ortho
+dox’ ideas, policy makers were well-aware that present conditions defied orthodoxy.
+Uncertainty about the future added to their vacillations. In a hurriedly scribbled post
+script to one of his letters to Venizelos, Tsouderos wondered whether there was any
+64 For an early formulation, see Finlayson, Report on the Proceedings of the meeting of the Financial Committee, February 1930, in BOEA OV9-192/66. For a tour d’ horizon of Greek economists’ views on the Great Depression, see the seminal work by Psalidopoulos (1989); cf. De Long (1990) on what he calls the inter-war ‘liquidationist’ view. 65 Leith-Ross, Note of an interview with Venizelos, January 28, 1932, in BOEA OV80-6/15.
+
+
+27
+point in keeping up the fight: “In the event of a global readjustment, wont everyone be
+in the same position anyway? Or might those who gave up sooner gain by arguing their
+burden had been intolerable? [...] Some moments are so challenging and extraordinary
+that one cannot know which road to take”.66
+As it turned out, neither road was long. By early 1932, negotiations in London
+and Paris had led nowhere. Geneva was increasingly pessimistic about the prospects of
+the upcoming Lausanne conference and officials were bracing for turbulence. Things
+in Athens were no better. From the first time since the onset of the crisis, commercial
+banks were feeling the pinch: liquidity was down and the fall in bond prices had left a
+hole in their balance sheets. In February, the default of a small commercial bank caused
+a minor bank run, which galvanized the Bank of Greece into action. For the first time
+ever, the country’s new bank of issue acted as the lender of last resort, promptly dou
+bling its credits.67 With import restrictions taking a toll on public revenue, the central
+bank also made its first advances to the state – thus resuming a practice that had been
+abandoned since the signing of the Geneva Protocol. By the end of March, central bank
+lending had more than tripled since the sterling devaluation and circulation was up for
+the first time in months. Having thus abandoned all pretence of stringency, Bank offi
+cials were already working out the details of the upcoming devaluation.68
+The final act was played out in April, during an emergency session of the League
+of Nations Council devoted to Greece, Austria, Hungary and Bulgaria. Debtor countries
+reiterated their proposals for a transfer moratorium and additional credits. The response
+was underwhelming, even by League standards: any moratorium or new loan had to be
+taken up directly with the bondholders. Venizelos promptly announced Greece had
+crossed the Rubicon. On Monday, April 27th, the drachma formally abandoned the gold
+standard. A few days later, Greece missed the coupon payments on its foreign debt. The
+battle had been lost.69
+66 Tsouderos to Venizelos, March 8, 1932 in IATE A3-S1-Y2-F2/1; at the time Tsouderos was in Paris, trying to solicit French support for new credits. For an astute discussion of the interplay between uncertainty and ideational lock-in, see Blyth (2002). 67 It is thus unclear why Chouliarakis and Lazaretou (2014: 26) believe the Bank did not undertake any rescue effort and “continued to implement a strongly anti-inflationary policy”. 68 As early as February 10, 1932, a Bank memo for Venizelos considers devaluation and default inevitable and proposes a dual exchange rate system. The decision to increase the discount rate (from 11%) to 12% in January 1932 was a statutory obligation inasmuch as the Bank’s cover had just fallen below 40% and should not be mistaken for a policy shift. 69 Details in the lengthy memorandum by Finlayson, Greece’s departure from the Gold standard, May 9, 1932 in BOEA OV80-6/167, which also contains translations of key legislation.
+
+
+28
+6. The aftermath, 1932-39
+The drachma’s fall was precipitous; within days, it was trading at half its par
+value. Expectations of further depreciation, fueled in part by the Bank of Greece’s se
+cret purchases of foreign exchange on the black market, led to overshooting. Early in
+1933, the exchange rate turned a corner and by late March the dollar devaluation had
+caused substantial capital inflows. Instead of letting the exchange rate rebound, how
+ever, the central bank rushed to re-peg to gold (via the Swiss franc), thus ‘locking in’ a
+58% devaluation and siphoning off foreign exchange to rapidly rebuild its reserves
+(Figure 5).70 Of course, convertibility was never restored and exchange controls re
+mained in place, as the state regulated trade and the Bank of Greece monopolized for
+eign exchange transactions. A de facto multiple exchange rate system was introduced,
+with basic food imports being afforded more favorable rates, paid for by de facto export
+levies. The official parity was maintained until September 1936, when the collapse of
+the ‘gold bloc’ promoted a switch back to a sterling peg.
+The Bank of Greece’s policy after 1932 has often been described as “conserva
+tive”; freed from the statutory shackles imposed by the gold exchange standard, the
+Bank is nevertheless said to have refrained from policy activism (Trapeza tis Ellados
+1978: 142). The 1933 decision to re-peg the drachma has been described as “surpris
+ingly inflexible”, revealing “an obsession with orthodoxy” (Kostis 2003: 477; 2018:
+256). Pushing the argument even further, Christodoulakis (2013) has recently argued
+that Greece constitutes an exception to the rule that wants countries released from their
+‘golden fetters’ recover faster. In his view, devaluation ended up eroding domestic de
+mand and prolonging the economy’s malaise, which ultimately led to the collapse of
+democracy in 1936, when Ioannis Metaxas dismissed parliament and imposed a dicta
+torship of fascist overtones. Using a broad brush, this section sketches post-1932 policy
+70 Another source of foreign exchange reserves was the so-called ‘drachmification’ decree of July 29, 1932, which forced the conversion of all domestic liabilities expressed in foreign exchange into drachmas at a rate that overvalued the drachma. The government defended the measure on equity grounds, arguing that foreign exchange creditors – including holders of deposits in foreign exchange – should not end up unduly profiting from devaluation. In fact, the measure was aimed to plug a hole in bank balance sheets, where foreign exchange liabilities outstripped assets. For more information see Pyrris (1934: 228-239), Vouros (1938: 52) and Finlayson to Niemeyer, August 6, 1932 in BOEA OV80-7/61; cf. H. Finlayson, The ‘drachmification’ decrees, September 25, 1935 in BOEA OV80-13/66.
+
+
+29
+and performance, focusing on these arguments, both of which are found unconvinc
+ing.71
+Economic recovery after 1932 was swift (Table 2). After previous crop failures,
+the 1932 harvest was exceptionally good and provided much needed relief to the trade
+balance. Ever since the first refugee loan, land reform and reclamations had been stead
+ily increasing the area under cultivation. Finally, the results were becoming apparent;
+along with a belated recovery in yields, agriculture soared: by the end of the decade,
+production had doubled. Manufacturing rebounded strongly in 1933 and continued to
+rise steadily thereafter; thanks to a rapid-built up in energy, industrial production grew
+even faster. Much of the stimulus for this growth came from the country’s inevitable
+shift to autarky. The effects of devaluation were compounded by import quotas that
+favored incumbent merchants and encouraged import substitution. The return of infla
+tion caused real interest rates to plummet and liquidated hitherto ‘frozen’ credits. These
+results are hard to miss or decouple from the country’s departure from gold.72 Greece
+is no exception to the golden fetters rule; nor is there a simple correlation between eco
+nomic and political crisis. Most historians pin the unravelling of Greece democratic
+institutions to social cleavages that emerged after the country’s expansion during the
+Balkan wars, as well as the failure of the political class to adapt to changing circum
+stances. If anything, “it was economic growth, which taxed the capacities of the existing
+system and pointed the way to an eventual realignment of political forces” (Mazower
+1991: 285, emphasis in original).
+Of course, one should not paint too rosy a picture of Greece’s post-1932 economy. Shut
+off from global financial markets, the country was forced to rely on a much smaller
+pool of domestic resources. Imports fell from approximately 40% of GDP in 1928 to
+an average of 20% in the 1930s and balance of payments constraints remained binding
+(Figure 3). The shift to autarky led to de-specialization, eroding productivity.
+71 Greece’s economic developments and policy in the 1930s are discussed more generally by Mazower (1991: part IV); for those able to read Greek, Kostis (2018: chapter 3) offers a modern tour d’ horizon while Petmezas (2012) provides valuable insights into agricultural policy. Monetary developments are best chronicled in Pyrsos (1946); in what follows, references to these works are kept to a minimum. 72 Christodoulakis (2013) places undue weight on notoriously unreliable data, not least unemployment figures ‘estimated’ by the federation of labor unions and used primarily as a bargaining chip (Charitakis et al. 1932: 355-8). He also draws on the Kostelenos et al. (2007) data which is less reliable as a source of annual growth rates; production volume indices are far more reliable for those years and far more consistent with the estimates of GDP growth used here (and adopted by Maddison (2003: 29), who also explains the limitations of alternative series).
+
+
+30
+Impressive growth rates built upon meagre baseline figures. Manufacturing, which still
+accounted for a fraction of total output, was fragmented and uncompetitive. Conditions
+in the countryside remained precarious and debt continued to weigh heavily on farmers’
+shoulders. Export industries such as mining, metalworks and tobacco suffered the most
+and cities that had once been export hubs became rife with discontent. Unable to medi
+ate in labor disputes, authorities turned increasingly to repression, directed against the
+threat of communist agitation – more imagined rather than real. Exports stagnated, with
+tobacco proving the hardest to recover, at least until clearing arrangements gradually
+made Germany into Greece’s main trading partner.73
+Faced with these challenges, economic policy struggled to adjust. The People’s
+Party government that came to power after 1932 was torn between the need for greater
+state intervention and its own conservative predilections. Ambitious policy initiatives
+faltered on opposition from the party’s own base (Mazower 1991: 236ff). Industrial
+investment was discouraged to minimise capital imports and promote ‘rationalization’.
+It was only in agriculture that the institutional apparatus established over the previous
+decade was put to extensive use: minimum price guarantees, improved crop varieties,
+increased credit facilities and debt moratoria – courtesy of an increasingly activist Ag
+ricultural bank – became the norm. Public works continued, albeit at a diminished pace.
+The suspension of external debt amortisation and the curtailment of interest payments
+provided much needed relief to the budget.74 After 1932, annual debt service (interest
+plus amortization) dropped to around 4% of GDP, down from almost 11% in the 1927
+31 period.75 Along with a gradual rebound in tax revenue, this helped Greece avoid a
+severe retrenchment on primary spending. The Bank of Greece had to step in to provide
+sizeable advances to the government, with the amounts outstanding averaging 5% of
+73 Greece’s external trade policy and the role of clearings in particular is discussed at length in Kacarkova (1976) and Pelt (1998), with Kakridis (2017: 118-31) focusing on the role of the Bank of Greece in clearing arrangements. 74 Negotiations with foreign bondholders started in the summer of 1932. A stopgap agreement to suspend amortisation and transfer 30% of interest due was reached on the eve of the September elections, but final settlement would be postponed for decades. Since no political party was willing to concede more than its predecessor, negotiations were hampered by political antagonism; by the time that had been overcome, foreign bondholders had become increasingly intransigent. Temporary agreements were renegotiated almost annually; by January 1940, interest transfers were up to 43%. A summary of these negotiations is found in Wynne (1951: 352-7); for the Bank of Greece’s role see Kakridis (2017: 85-91 and 115-8). 75 Vouros (1938: 64) and Mazower (1991: 198-202) reach similar conclusions but provide more modest estimates; their calculations omit economies from the suspension of amortization or the curtailment of interest on internal debt.
+
+
+31
+GDP at year’s end. But these were largely offset by the drachma deposits held by the
+IFC, which continued to collect revenue pledged for debt service and refused to release
+it without foreign bondholder consent (Vouros 1938: 102-110). Such accounting squab
+bles aside, the overall budgetary position remained quite satisfactory, with the first def
+icits appearing after 1936, when the Metaxas regime increased defence expenditure for
+rearmament (Table 2).
+Turning to monetary policy more generally, there is little evidence of it being
+unduly restrictive. Inasmuch as exchange controls and trade restrictions remained in
+place, the decision to re-peg the drachma to gold in 1933 primarily served as an anchor
+to guide domestic inflation expectations. In practice, effective exchange rates were de
+termined by a host of restrictions, import levies and export subsidies – not to mention
+the special rates at which trade was carried out through clearing arrangements. Moreo
+ver, there was an obvious difference between re-pegging after a 58% devaluation and
+trying to avoid a devaluation in the first place. It thus comes as little surprise that, after
+Chile, Greece experienced the most rapid reflation of any of the countries tracked by
+the League of Nations after 1931. Still, inflation remained below the rate of deprecia
+tion, restoring the real exchange rate to its pre-crisis levels.
+None of this seems consistent with monetary stringency. Of course the devalua
+tion caused a temporary dip in total loans and deposits, not least since all foreign cur
+rency deposits were forcibly converted into drachmas at an unfavourable rate (Figure
+6). Yet most monetary indices soon surpassed their pre-crisis levels and commercial
+discount rates drifted from their peak of 12% on the eve of devaluation to 7% by Janu
+ary 1934. The Bank of Greece stood by to inject liquidity whenever bank deposits were
+threatened by political instability and gradually increased its relative position within the
+banking system. Government advances notwithstanding, the Bank’s private loan port
+folio increased from a trifling 2% of total lending in early 1931 to 15% by the end of
+1938. The National Bank remained by far the largest institution and had privileged con
+nections to government but the new central bank could no longer be ignored or intimi
+dated as easily.
+Relations with the government were harder to navigate. Once the political pen
+dulum had swung back in conservative territory, the Bank of Greece was regarded as a
+hostile, Venizelist institution that had to be liquidated. The new People’s Party
+
+
+32
+government immediately revived plans to merge the Bank of Greece with the National
+Bank.76 It was only after repeated protests by London and Geneva that senior govern
+ment officials reaffirmed their commitment to the Geneva Protocol, in June 1933. But
+relations with the government remained prickly, for political rather than economic rea
+sons. Following an abortive Venizelist coup, in March 1935, Tsouderos was publicly
+accused of having abused his position to bankroll the insurgency and had to step down
+for 91⁄2 months. The ensuing counter-coup purged the upper echelons of the army and
+bureaucracy from Venizelos supporters and rekindled plans for a merger with the Na
+tional Bank (Venezis 1955: 182; 1966: 126ff).
+In this context, the Bank’s apparent ‘conservatism’ can also be cast in another
+light. In a hostile political milieu that questioned the Bank’s raison d’ être, the decision
+to peg the exchange rate could be interpreted as an attempt to maintain a semblance of
+independence by adopting a visible, albeit largely symbolic, nominal anchor. A similar
+line of reasoning explains the considerable efforts made to maintain a direct line of
+communication with Geneva. Finlayson’s services were retained until May 1937, sev
+eral years after his initial contract had expired. Not that there was much reason to ques
+tion the Bank’s allegiance to the government.77 In practice, it was probably the shared
+memory of inflation more than anything else, that explains why Greek policy makers
+remained cautious not to inflate the economy after 1932 (cf. Eichengreen 1992: 300).
+But to blame them for undue conservatism or a delayed recovery is hard to reconcile
+with the data.
+The Metaxas dictatorship did not bring any radical change to the balance of fi
+nancial power or the outlines of economic policy. Nor did political intrigue subside, as
+shown by Tsouderos’s subsequent removal from office. After a failed attempt to over
+throw the dictatorship in 1938, the underground dissenters agreed that the Governor of
+the Bank of Greece was the most suitable candidate to lead the next coup against Met
+axas. His liberal connections aside, Tsouderos was also favoured as a guarantor of mon
+etary stability; apparently, conspirators also had to consider the inflationary
+76 Finlayson to Niemeyer, November 14 and 26, 1932 both in BOEA OV80-8/37 and 46. 77 The handling of bilateral clearing balances is a case in point. Over time, tobacco exports to Germany led to the accumulation of substantial credits. By late 1935, the Bank of Greece held a net balance of 24.3 million Reichsmarks (or 984.2 million drachmas). Normally, such balances would be offset by opposite trade flows, but Greece was unable to procure sufficient imports from Germany. Meanwhile, exporters received the equivalent drachmas, thus boosting the money supply and saddling the Bank with overvalued Reichsmarks. When the Bank sought to reduce these credits in 1936, mass protests by tobacco workers broke out. The government was forced to back down and the Bank followed suit.
+
+
+33
+implications of their actions. Alas, in June 1939 the police intercepted some of the Gov
+ernor’s private correspondence. Tsouderos was promptly dismissed and replaced by a
+member of Metaxas’s inner circle, the Governor of the National Bank, Ioannis
+Drossopoulos. Inasmuch as Drossopoulos was known for his hostility toward the cen
+tral bank, this was probably as close as the Bank of Greece ever came to being amalga
+mated with its predecessor. Yet Drossopoulos died a few days into the job and was
+replaced by Varvaressos, an inside man with every intention of keeping the Geneva
+Protocol intact.78
+On the eve of the Second World War, the Bank of Greece had come a long way
+from where it had started off in May 1928. Its balance sheet had almost quadrupled and
+its loan portfolio had grown from a modest 50 million to more than four billion drach
+mas – not to mention the extra 11 billion in state advances. It’s original staff of 400 had
+grown to 2,200, scattered across 20 branches and a brand-new headquarters in down
+town Athens. Several of its handicaps persisted, but the orphan was in a growth spurt.
+It would take the hyperinflation brought by foreign occupation and monetary anarchy
+in the 1940s to place the Bank of Greece in complete control of the commercial bank
+system.
+78 The best background source for the narrative in this paragraph is Dafnis (1997 [1974]: 874-9); on Varvaressos’s ascent and policy, see Kakridis (2017: 140ff).
+
+
+34
+References
+Unpublished (archival) sources:
+Istoriko Archeio Trapezas tis Ellados (IATE) [Bank of Greece Historical Archives], Bank of Greece, Athens. Α3 Emmanouil Tsouderos Archive A5 Kyriakos Varvaressos Archive
+Archeio Eleftheriou Venizelou, (VA) [Eleftherios Venizelos Archive], Benaki Museum, Athens; digitally accessible via http://www.venizelosarchives.gr.
+Bank of England Archive (BOEA), Bank of England, London. OV80 Greece - Country file (Greece) OV9 Papers of Otto Ernst Niemeyer
+Published sources:
+Accominotti, O. and Eichengreen, B. (2016). ‘The mother of all sudden stops: Capital flows and reversals in Europe, 1919-32’, Economic History Review, Vol. 69(2), pp. 469-492.
+Alogoskoufis, G. and Lazaretou, S. (1996). I Drachmi: Nomismatika kathestota kai dimosionomikes diataraches sti neoteri Ellada [The drachmaː monetary regimes and fiscal disturbances in modern Greece]. IMOP - Athinaïki Oikonomiki Publications, Athens.
+Anotaton Oikonomikon Symvoulion (1935). Oi deiktai oikonomikis drastiriotitos tis Ellados kata ta eti 1928-1934 [Economic activity indicators for Greece in the years 1928-1934]. National Printing Office, Athens.
+Bank of Greece (1929). Report for the year 1928 of the Governor of the Bank of Greece Alex. N. Diomede at the General Meeting of Shareholders on April 6, 1929. Bank of Greece, Athens.
+Bank of Greece (1934). The economic situation in Greece and the Bank of Greece in 1933: Report read by Mr. E. J. Tsouderos, Governor of the Bank of Greece, before the general meeting of shareholders held on February 14, 1934. Bank of Greece, Athens.
+Bloomfield, A. I. (1959). Monetary Policy under the International Gold Standard: 1880-1915. Federal Reserve Bank of New York, New York.
+Blyth, M. (2002). Great Transformations: Economic ideas and institutional change in the Twentieth Century. Cambridge University Press, Cambridge.
+Bordo, M. D. and Rockoff, H. (1996). ‘The Gold Standard as a “good housekeeping seal of approval”’, Journal of Economic History, Vol. 56(2), pp. 389-428.
+Calvo, G. A. & Reinhart, C. M. (2002). ‘Fear of floating’, Quarterly Journal of Economics, Vol. 117(2), pp. 379-408.
+
+
+35
+Charitakis, G., Kalliavas, A. and Mikelis, N. (eds.) (1932). Oikonomiki Epetiris tis Ellados 1931 [Greek Economic Yearbook 1931]. Typografeion S. K. Vlastou, Athens.
+Chouliarakis, G and Lazaretou, S. (2014). ‘Déjà vu? The Greek crisis experience, the 2010s versus the 1930s: Lessons from history’, Bank of Greece Working Paper 176.
+Christodoulakis, N. (2013). ‘Currency crisis and collapse in interwar Greece: Predicament or policy failure?’, European Review of Economic History, Vol. 17(3), pp. 272293.
+Christodoulaki, O. (2001). ‘Industrial growth in Greece between the wars: A new perspective’, European Review of Economic History, Vol. 5, pp. 61-89.
+Christodoulaki, O. (2015). The origins of central banking in Greece. PhD Dissertation. London School of Economics and Political Science.
+Dafnis, G. (1997 [1974]). I Ellas metaxy dyo polemon, 1923-1940 [Greece between two wars, 1923-1940]. Second Edition. Originally published in 1974. Kaktos Publications, Athens.
+De Long, B. J. (1990). ‘“Liquidation” Cycles: Old-Fashioned Real Business Cycle Theory and the Great Depression’, National Bureau of Economic Research Working Paper Series, No. 3546.
+Dertilis, G. B. and Costis, C. (1995). ‘Banking, Public Finance, and the Economy: Greece, 1919–1933’. In: Feinstein, C. H. (ed.), Banking, Currency, and Finance in Europe Between the Wars. Oxford University Press, Oxford, pp. 458-471.
+Dertilis, P. B. (1936). Le problème de la dette publique des états balkaniques. Éditions Flamma, Athens.
+Dritsa, M. (2012). Emmanouil Tsouderos, 1882-1956: kentrikos trapezitis kai politikos [Emmanouil Tsouderos, 1882-1956: central banker and politician]. Bank of Greece, Athens.
+Eichengreen, B. (1990). ‘International monetary instability between the wars: Structural flaws or misguided policies’. In: Suzuki, Y., Miyake, J., and Mitauaki, O. (eds.) The future of the international monetary system. University of Tokyo Press, Tokyo, pp. 71-116.
+Eichengreen, B. (1992). Golden fetters: the gold standard and the Great Depression, 1919-1939. Oxford University Press, New York.
+Eichengreen, B. and Sachs, J. (1985). ‘Exchange Rates and Economic Recovery in the 1930s’, Journal of Economic History, Vol. 45(4), pp. 925-946.
+Flores Zendejas, J. H. and Decorzant, Y. (2016). ‘Going multilateral? Financial markets’ access and the League of Nations loans, 1923-8’, Economic History Review, Vol. 69(2), pp. 653-678.
+Kacarkova, V. (1976). ‘Handelsbeziehungen zwischen Deutschland und Griechenland in den 30er Jahren des XX. Jh.’, Études Balkaniques, Vol. 3, pp. 43-60.
+
+
+36
+Kakridis, A. (2009). ‘Deus ex machina? Truman/Marshall aid, engineers, and Greece’s post-war development discourse’, Journal of Modern Greek Studies, 27(2), pp. 241274.
+Kakridis, A. (2017). Kyriakos Varvaresos: I viografia os oikonomiki istoria [Kyriakos Varvaressos: Biography as economic history]. Bank of Greece, Athens.
+Kakridis, A. (2018). ‘I ptochefsi tou 1893 kai o Diethnis Oikonomikos Elegchos’ [The 1893 default and International Financial Control], Neoellinika Istorika, Vol. 5, pp. 195240.
+Kakridis, A. and Rizas, S. (eds.) (2021). I Krisi tou 1929 kai i Ellada: Oikonomikes, politikes kai thesmikes opseis [Greece and the Crisis of 1929: Economic, political and institutional aspects]. Bank of Greece, Athens.
+Kontogiorgi, E. (2006). Population Exchange in Greek Macedonia: The Rural Settlement of Refugees 1922-1930. Oxford University Press, Oxford.
+Kostelenos, G., Vasileiou, D., Kounaris, E., Petmezas, S. and Sfakianakis, M. (2007). Piges oikonomikis istorias tis Neoteris Elladas: Posotika stoicheia kai statistikes. Akatharisto Egchorio Proion, 1830-1939 [Sources in Modern Greek economic history: quantitative data and statistics. Gross Domestic Product, 1830-1939]. National Bank of Greece Historical Archive & Center for Planning and Economic Research, Athens.
+Kostis, K. P. (1986). Oi trapezes kai i krisi, 1929-1932 [Banks and the crisis, 19291932]. Commercial Bank of Greece Historical Archive, Athens.
+Kostis, K. P. (1997). Synergasia kai antagonismos: ta 70 chronia tis Enosis Ellinikon Trapezon [Cooperation and competition: 70 years of the Hellenic Bank Association]. Alexandreia Publications, Athens.
+Kostis, K. P. (2003). Istoria tis Ethnikis Trapezas tis Ellados, 1914-1940 [History of the National Bank of Greece, 1914-1940]. National Bank of Greece, Athens.
+Kostis, K. P. (2018). O ploutos tis Elladas: I elliniki oikonomia apo tous Valkanikous polemous mechri simera [The wealth of Greece: Greece’s economy from the Balkan wars until today]. Pataki Publications, Athens.
+Kostis, K. P. and Tsokopoulos, V. (1988). Oi Trapezes stin Ellada, 1898-1928 [Banks in Greece, 1898-1928]. Hellenic Bank Association & Papazisis Publications, Athens.
+Kyrkilitsis, A. D. (1934). Ai trapezai en Elladi [Banks in Greece]. Athens.
+Kyrkilitsis, A. D. (1935). I Ethniki Trapeza tis Ellados kai allai emporikai trapezai kata tin periodon 1928-34 [The National Bank of Greece and other commercial banks during 1928-34]. Kyklos Publications, Athens.
+Lazaretou, S. (1996). ‘Macroeconomic policies and nominal exchange rate regimes: Greece in the inter-war period’, Journal of European Economic History, Vol. 25, pp. 647-670.
+
+
+37
+Lazaretou, S. (2005). ‘The drachma, foreign creditors, and the international monetary system: tales of a currency during the 19th and the early 20th centuries’, Explorations in Economic History, Vol. 42, pp. 202-236.
+Lazaretou, S. (2014). ‘Greece: from 1833 to 1949’. In South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II. Bank of Greece, Bulgarian National Bank, National Bank of Romania and Oesterreichische Nationalbank, Athens, Sofia, Bucharest and Vienna, pp. 101-170.
+Lazaretou, S. (2015). ‘The Evolution of banking and central banking in modern Greece: A historical retrospect’, History of Economic Thought and Policy, Vol. 1, pp. 59-82.
+Maddison, A. (2003). The world economy: Historical statistics. Organisation for Economic Co-operation and Development, Paris.
+Mazower, M. (1991). Greece and the inter-war economic crisis. Oxford University Press, Oxford.
+Meyer, R. H. (1970). Banker’s diplomacy: Monetary Stabilization in the Twenties. Columbia University Press, New York and London.
+Nurkse, R. (1944). International currency experience: Lessons of the inter-war period. Columbia University Press for the League of Nations Economic, Financial and Transit Department, New York.
+Pantelakis, N. S. (2018). Alexandros N. Diomidis (1874-1950): Enas afthentikos ekprosopos tis astikis taxis [Alexandros N. Diomidis (1874-1950): A genuine representative of the bourgeoisie]. Metamesonykties Publications, Athens.
+Pantelakis, N. S. (1988). Symmachikes pistoseis: Kratos kai Ethniki Trapeza (19171928) [Allied credits: State and the National Bank of Greece (1917-1928)]. National Bank of Greece Cultural Foundation, Athens.
+Pelt, M. (1998). Tobacco, arms and politics: Greece and Germany from World Crisis to World War, 1929-41. Museum Tusculanum Press, Copenhagen.
+Pepelasis-Minoglou, I. (1993). The Greek State and the International Financial Community, 1922-1932: Demystifying the Foreign Factor. PhD Dissertation. London School of Economics.
+Petmezas, S. (2012). Prolegomena stin istoria tis ellinikis agrotikis oikonomias tou mesopolemou [Prolegomena to the history of the agricultural economy in interwar Greece]. Alexandreia Publications, Athens.
+Petridis, P. V. (ed.) (2000 [1932]). To ergon tis Kyverniseos Venizelou kata tin tetraetian 1928-1932: Ti ypeschethi proeklogikos kai ti epragmatopoiise [The Venizelos government in action between 1928 and 1932: election promises and actions]. Originally published in 1932. University Studio Press, Athens.
+Ploumidis, S. (2013). ‘“Peasantist nationalism” in inter-war Greece (1927–41)’, Byzantine and Modern Greek Studies, Vol. 37(1), pp. 111-129.
+
+
+38
+Psalidopoulos, M. (1989). I krisi tou 1929 kai oi Ellines oikonomologoi - Symvoli stin istoria tis oikonomikis skepsis stin Ellada tou mesopolemou [Greek economists and the crisis of 1929 – A contribution to the history of economic though of interwar Greece]. Studies in Modern Greek History. Commercial Bank of Greece Foundation for Research and Education, Athens.
+Psalidopoulos, M. (2019). History of the Bank of Greece, 1928-2008: From government’s banker to guardian of financial stability. Bank of Greece, Athens.
+Pyrris, N. (1934). La crise monétaire en Grèce. Librairie L. Rodstein, Paris.
+Pyrsos, G. A. (1936). Symvoli eis tin istorian tis Trapezis tis Ellados. Tomos A ́ - Ta kata tin idrysin [Contribution to the history of the Bank of Greece. Volume A – Founding the Bank]. Kyklos Publications, Athens.
+Pyrsos, G. A. (1946). Symvoli eis tin istorian tis Trapezis tis Ellados. Tomos Defteros. [Contribution to the history of the Bank of Greece. Second Volume]. Typoekdotiki, Athens.
+Riginos, M. (1987). Paragogikes domes kai ergatika imeromisthia stin Ellada, 19091936: Viomichania-Viotechnia. [Productive structures and labour wages in Greece, 1909-1936: Industry and small-scale manufacture.] Commercial Bank of Greece Foundation for Research and Education, Athens.
+Santaella, J. A. (1993). ‘Stabilization Programs External Enforcement’, Staff Papers International Monetary Fund, Vol. 40(3), pp. 584-621.
+Schuker, S. A. (2003). ‘Money doctors between the wars: The competition between central banks, private financial advisers, and multilateral agencies, 1919-39’. In: Flandreau, M. (ed.), Money Doctors: The experience of international financial advising 1850-2000. Routledge, London and New York, pp. 49-77.
+Tooze, A. and Ivanov, M. (2011). ‘Disciplining the “black sheep of the Balkans”: Financial supervision and sovereignty in Bulgaria, 1902-38’, Economic History Review, Vol. 64(1), pp. 30-51.
+Tounta-Fergadi, A. (1986). To prosfygiko daneio tou 1924 [The 1924 refugee loan]. Paratiritis Publications, Thessaloniki.
+Trapeza tis Ellados (1978). Ta prota peninta chronia tis Trapezis tis Ellados [The first fifty years of the Bank of Greece]. Bank of Greece, Athens.
+Tunçer, A. C. (2015). Sovereign debt and International Financial Control: The Middle East and the Balkans, 1870-1914. Palgrave Macmillan, Hampshire and New York.
+Valaoritis, I. A. (1902). Istoria tis Ethnikis Trapezis tis Ellados, 1842-1902 [History of the National Bank of Greece, 1842-1902]. Athens.
+Venezis, I. (1955). Chronikon tis Trapezis tis Ellados [Chronicle of the Bank of Greece]. Bank of Greece, Athens.
+
+
+39
+Venezis, I. (1966). Emmanouil Tsouderos, o prothypourgos tis Machis tis Kritis [Emmanouil Tsouderos, the Prime Minister of the Battle of Crete]. Athens.
+Vouros, G. K. (1938). Ta deka eti tis Trapezis tis Ellados [Ten years of the Bank of Greece]. Athens.
+Wynne, W. H. (1951). State insolvency and foreign bondholders, Vol. II. Yale University Press, New Haven.
+Wolf, N. (2008). ‘Scylla and Charybdis. Explaining Europe’s exit from gold, January 1928-December 1936’, Explorations in Economic History, Vol. 45(4), pp. 383-401.
+Zolotas, X. E. (1936). Katefthynseis tis oikonomikis mas politikis [Directions of our economic policy]. Publications D.N. Tzaka - S. Delagrammatika & Co., Athens.
+
+
+40
+Appendix: Notes on data sources
+Historical gross domestic product (GDP) estimates by Kostelenos et al. (2007) deflate
+values by a price index heavily reliant on agricultural prices, which fluctuate wildly and
+exaggerate overall output swings; Kostelenos et al. (2007) figures for 1920-1929 are
+thus spliced with growth estimates used by Maddisson (2003: 29), which are more con
+sistent with production volume indices.
+Annual Statistics of Agricultural Production provide yearly volume and price data on
+production for 22 products; the agricultural production index used here is derived by
+chain-linking value estimates in terms of the previous year’s prices. Similarly, Chris
+todoulaki (2001) finds the oft-cited Supreme Economic Council (AOS) indices mis
+leading and comes up with an improved manufacturing and industrial activity index,
+both of which are used here. Nominal average wage estimates are based on figures for
+male workers in Riginos (1987: 38), whose estimates are superior to those by Anotaton
+Oikonomikon Symvoulion (1935: 22).
+Banknote circulation, money supply and foreign exchange reserve data are taken from
+the Bank of Greece Monthly Bulletin, along with monthly data on commercial and cen
+tral bank deposits, loans and cash balances; reserve data between September 1931 and
+December 1933 are corrected for creative accounting practices used to mask the drain
+in reserves, as discussed in Pyrsos (1946: 113). Money supply (M0, M3) data follow
+the definitions and methodology of Lazaretou (2014), which is also the source of ex
+change rates and price indices. Official and commercial discount rates are derived from
+Kyrkilitsis (1934) and successive issues of George Charitakis’s Greek Economic Year
+book (Oikonomiki Epetiris tis Ellados).
+Balance of Payments data are reconstructed from annual Bank of Greece Governor Re
+ports, starting from table PED 32 in the Report for 1932. The public revenue and ex
+penditure data cited in most secondary sources are mutually inconsistent and mislead
+ing. Many of the sources for this confusion are discussed in a short report published by
+the League of Nations’ Economic Intelligence Unit in 1936, titled Public Finance,
+1928-35. The data used here are compiled from primary sources, with interest and
+amortization payments derived separately from Dertilis (1936: 151).
+
+
+41
+Tables and Figures
+Figure 1. Post-war stabilization
+Money supply, inflation, depreciation and fiscal balance, 1920-28
+Source: See appendix.
+Figure 2. Playing by the rules?
+Correlation between monthly changes in foreign reserves and circulation (previous six months)
+Source: See Appendix.
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+1920 1921 1922 1923 1924 1925 1926 1927 1928
+Budget balance (% of GDP)
+Rate of inflation (CPI)
+Rate of depreciation (vs. sterling)
+Monetary circulation (% change)
+-0,8
+-0,6
+-0,4
+-0,2
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+1,2
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+1928 1929 1930 1931 1932
+Sterling
+devaluation
+Drachma
+devaluation
+‘Breaking the rules’
+Correlation coefficient
+Partial sterilization
+No sterilization
+
+
+42
+Figure 3. Greece’s balance of payments, 1929-1938 (millions of gold £ sterling)
+Source: See Appendix.
+Figure 4. Flight from the drachma
+Bank of Greece foreign exchange reserves and cover ratio, 1928-1932
+Source: See Appendix.
+-16,7 -13,2 -12,2
+-6,2 -3,5 -3,6 -4,1 -5,0 -5,9 -4,9
+13,8 12,4 9,0 5,4 5,4 3,9 4,3 7,6 6,8 7,1
+-6,3
+-6,3 -4,3
+-1,5
+-1,3 -1,4 -0,6 -2,8 -1,2 -1,7
+9,0 10,7
+8,0 0,7 2,7 2,2 1,0 0,2
+-2,8
+-3,9
+-2,5
+-0,7
+-0,7 -1,1 -0,5
+-0,6 -0,4 -0,6
+-30
+-20
+-10
+0
+10
+20
+30
+1929 1930 1931 1932 1933 1934 1935 1936 1937 1938
+million of gold £ sterling
+Financial account payments Financial account receipts (loans, etc.) Public debt service, etc. Invisible balance, excl. public debt service Trade balance
+Default
+& devaluation
+-3,0 -0,3 -2,0 -2,3
+2,6 0,1
+-0,9 -0,8
+0,4 0,1
+-5
+0
+5 Change in reserves
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+0
+500
+1.000
+1.500
+2.000
+2.500
+3.000
+3.500
+4.000
+4.500
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+Feb
+May
+Aug
+Nov
+1928 1929 1930 1931 1932
+Foreign exchange reserves Cover ratio (actual) Cover ratio (official)
+Reserves, mil. of euqivalent drachmas
+% cover
+Sterling
+devaluation
+Drachma
+devaluation
+
+
+43
+Figure 5. Drachma exchange rate, prices and foreign exchange reserves,
+1931-39
+Source: See Appendix.
+Figure 6. Monetary variables, 1931-39
+Source: See Appendix.
+0
+20
+40
+60
+80
+100
+120
+140
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+1931 1932 1933 1934 1935 1936 1937 1938 1939
+(May 1928 = 100)
+Wholesale Price Index
+Pound sterling (£/drs.)
+‘Gold bloc’ (French Franc/drs.)
+Foreign exchange reserves
+US dollar ($/drs.)
+0%
+5%
+10%
+15%
+20%
+25%
+80
+100
+120
+140
+160
+180
+200
+220
+240
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+Jan
+May
+Sep
+1931 1932 1933 1934 1935 1936 1937 1938 1939
+% of total bank credits to private sector
+April 1932 = 100
+Bank of Greece credits to the private sector (right hand side axis)
+Deposits
+Credits
+Narrow money (M0)
+Broad money (M3)
+April 1932 = 100 (left hand side axis)
+
+
+44
+Table 1. Greece and the Great Depression, 1928-1932
+Economic activity, prices/wages, monetary, bank and fiscal data
+1928 1929 1930 1931 1932
+Economic activity (1928=100)
+Gross Domestic Product (real) 100,0 104,7 102,2 97,9 106,3
+% change 4,7% -2,4% -4,1% 8,5%
+Agricultural production 100,0 90,1 97,0 87,2 117,4
+% change -9,9% 7,6% -10,1% 34,6%
+Manufacturing production 100,0 105,6 97,8 94,6 93,2
+% change 5,6% -7,4% -3,2% -1,5%
+Industrial production (incl. electricity) 100,0 107,8 103,9 103,3 102,8
+% change 7,8% -3,6% -0,6% -0,5%
+Prices & wages (1928=100)
+Wholesale price index (WPI) 100,0 105,3 95,7 85,5 102,7
+% change 5,3% -9,1% -10,7% 20,1%
+Consumer price index (CPI, Athens) 100,0 100,7 95,0 91,3 97,5
+% change 0,7% -5,7% -3,8% 6,8%
+Average wages in manufacturing 100,0 98,2 96,3 90,0 89,4
+% change -1,8% -1,9% -6,6% -0,6%
+Monetary & bank data (end of year, 1928=100/mil. drs.)
+Foreign exchange reserves (1928=100) 100,0 73,5 71,0 41,6 37,7
+% change -26,5% -3,4% -41,4% -9,5%
+Banknote circulation (1928=100) 100,0 91,3 84,4 70,4 82,9
+% change -8,7% -7,5% -16,6% 17,8%
+Monetary base [M0] (1928=100) 100,0 90,5 88,2 74,7 80,7
+% change -9,5% -2,5% -15,2% 8,0%
+Money supply [M3] (mil. drs.) : : 22.344 21.776 20.707
+% change : : -2,5% -4,9%
+Commercial bank deposits (mil. drs.) : : 18.118 17.140 16.444
+% change : : -5,4% -4,1%
+Commercial bank credits (mil. drs.) : : 15.316 15.164 14.708
+% change : : -1,0% -3,0%
+Fiscal data (% of GDP)
+Primary balance (excl. interest & amortiz.) 12,2% 10,5% 8,9% 5,4% 2,2%
+Budget balance 3,0% -1,1% -3,1% -6,6% -3,1%
+: data not available (in the course of 1930, the Bank of Greece changed its data
+collection methodology, forcing commercial banks to report activity in all curren
+cies and branches; this creates a data discontinuity that makes comparison with pre
+vious years problematic).
+Sources: See Appendix.
+
+
+45
+Table 2. Greece after 1932
+Economic activity, prices/wages, monetary, bank and fiscal data
+1933 1934 1935 1936 1937 1938 1939
+Economic activity (1928=100)
+GDP (real) 112,5 115,2 120,0 120,5 137,6 134,7 134,5
+% change 5,8% 2,4% 4,2% 0,3% 14,2% -2,1% -0,1%
+Agricultural production 145,6 140,8 142,3 140,0 200,9 180,6 :
+% change 24,0% -3,3% 1,0% -1,6% 43,4% -10,1% :
+Manufacturing prod. 105,2 120,2 125,2 129,9 135,3 140,8 :
+% change 12,8% 14,3% 4,2% 3,7% 4,2% 4,0% :
+Industrial production. 114,4 133,0 141,3 152,2 159,5 168,8 :
+% change 11,3% 16,2% 6,2% 7,7% 4,8% 5,8% :
+Prices & wages (1928=100)
+Wholesale prices 116,1 114,5 116,5 118,5 132,6 129,5 128,4
+% change 13,0% -1,4% 1,8% 1,7% 12,0% -2,4% -0,8%
+Consumer prices 106,5 109,6 111,9 114,7 127,6 128,6 127,3
+% change 9,2% 2,9% 2,1% 2,5% 11,3% 0,7% -1,0%
+Manufacturing wages 96,8 97,6 102,4 : : : :
+% change 8,3% 0,8% 4,9% : : : :
+Monetary & bank data (end of year, 1928=100/mil. drs.)
+FX reserves (1928=100) 93,2 95,3 76,9 74,8 82,3 84,0 86,9
+% change 147,3% 2,3% -19,3% -2,7% 10,0% 2,1% 3,4%
+Circulation (1928=100) 95,8 99,9 105,2 109,0 119,1 127,2 166,1
+% change 15,6% 4,4% 5,3% 3,6% 9,3% 6,8% 30,6%
+M0 (1928=100) 108,8 119,8 107,4 117,6 120,7 127,7 158,5
+% change 34,7% 10,1% -10,4% 9,5% 2,6% 5,9% 24,1%
+M3 (mil. drs.) 23.296 24.499 24.686 25.665 29.168 31.388 34.066
+% change 12,5% 5,2% 0,8% 4,0% 13,6% 7,6% 8,5%
+Deposits (mil. drs.) 18.350 19.376 19.202 19.999 22.967 24.733 25.189
+% change 11,6% 5,6% -0,9% 4,2% 14,8% 7,7% 1,8%
+Credits (mil. drs.) 14.764 16.139 17.048 18.187 21.717 21.067 20.838
+% change 0,4% 9,3% 5,6% 6,7% 19,4% -3,0% -1,1%
+Fiscal data (% of GDP)
+Primary balance 5,3% 4,9% 4,5% 1,5% 1,7% : :
+Budget balance 1,7% 0,9% 1,0% -2,4% -1,3% : :
+: data not available.
+Sources: See Appendix.
+
+
+46
+BANK OF GREECE WORKING PAPERS
+277. Anastasiou, D., Z. Bragoudakis and S. Giannoulakis, “Perceived vs Actual Financial Crisis and Bank Credit Standards: Is There Any Indication of SelfFulfilling Prophecy?”, January 2020.
+278. Gibson, D. H., S. G. Hall, P. Petroulas, V. Spiliotopoulos and G.S. Tavlas, “The Effect of Emergency Liquidity Assistance (ELA) on Bank Lending During the Euro Area Crisis”, January 2020.
+279. Tavlas, G., “On the Controversy over the Origins of the Chicago Plan for 100 Percent Reserves”, June 2020.
+280. Milionis E. A, N.G. Galanopoulos, “A Study of the Effect of Data Transformation and «Linearization» on Time Series Forecasts. A Practical Approach”, June 2020.
+281. Gibson, D. H., S.G. Hall, D. GeFang, P. Petroulas, G.S. Tavlas, “Did the Absence of A Central Bank Backstop in the Sovereign Bond Markets Exacerbate Spillovers During the Euro-Area Crisis?”, July 2020.
+282. Gibson, D. H., S.G. Hall, G.S. Tavlas, “A Suggestion for A Dynamic Multi Factor Model (DMFM)”, July 2020.
+283. Balfoussia, H., H. D. Gibson, D. Malliaropulos, D. Papageorgiou, “The Economic Impact of Pandemics: Real and Financial Transmission Channels”, September 2020.
+284. Avgeri, I., Y. Dendramis, H. Louri, “The Single Supervisory Mechanism and its Implications for the Profitability of European Banks”, October 2020.
+285. Avramidis, P., I. Asimakopoulos, D. Malliaropulos, “Bank consolidation, firmbank relationship and firms’ strategic default decision: evidence from the tourism industry during the Greek economic crisis”, January 2021.
+286. Papageorgiou, D. and S. Tsiaras, “The Greek Great Depression from a neoclassical perspective”, February 2021.
+287. Lazaris, P., A. Petropoulos, V. Siakoulis, E. Stavroulakis, N. Vlachogiannakis, “Interest Rate Pass Through in the Deposit and Loan Products Provided by Greek Banks”, February 2021.
+288. Kollintzas, T., D. Papageorgiou and V. Vassilatos, “Implications of Market and Political Power Interactions for Growth and the Business Cycle I: Private Sector Equilibrium”, March 2021.
+289. Lolos, S., P. Palaios, E. Papapetrou, “The Greek Tourism-Led Growth Revisited: Insights and Prospects”, June 2021.

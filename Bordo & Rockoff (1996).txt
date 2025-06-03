@@ -1,0 +1,827 @@
+The Gold Standard as a "Good
+Housekeeping Seal of Approval"
+MICHAEL D. BORDO AND HUGH ROCKOFF
+In this article we argue that during the period from 1870 to 1914 adherence to the gold standard was a signal of financial rectitude, a "good housekeeping seal of approval," that facilitated access by peripheral countries to capital from the core countries of western Europe. Examination of data from nine widely different capital-importing countries, using a model inspired by the Capital Asset Pricing Model, reveals that countries with poor records of adherence were charged considerably more than those with good records, enough to explain the determined effort to stay on gold made by a number of capital-importing countries.
+T
+he global economy in its present form emerged in the half century before World War I. That "golden age" was characterized by massive interregional flows of capital, labor, and goods. It was also an era when most nations adhered to (or attempted to adhere to) the gold standard rule of convertibility of national currencies into a fixed weight of gold. Common adherence to gold convertibility in turn linked the world together through fixed exchange rates. In this article we argue that adherence to the gold standard also served as "a good housekeeping seal of approval" that facilitated access by peripheral countries to capital vital to their development from the core countries of western Europe.
+We view the gold standard as a contingent rule or a rule with escape clauses. Members were expected to adhere to convertibility except in the event of a well-understood emergency such as a war, a financial crisis, or a shock to the terms of trade. Under these circumstances, temporary departures from the rule would be tolerated on the assumption that once
+the emergency passed, convertibility at the original parity would resume.1 It is well known that a number of core countries (England, France, and Germany as well as several other developed western European countries) adhered to this rule before 1914. Even a number of developing peripheral countries also did so (Canada, Australia, and the United States), or
+The Journal of Economic History, Vol. 56, No. 2 (June 1996). © The Economic History Association. All rights reserved. ISSN 0022-0507. Hugh Rockoff and Michael Bordo are Professors of Economics at the Center for Monetary and Financial History at Rutgers University, P.O. Box 5055, New Brunswick, NJ 08903-5055. We owe an immense debt to our research assistant Zhongjian Xia who went beyond the usual duties to make valuable contributions to the analysis in the paper. For helpful suggestions we would like to thank Ehsan Choudhri, Michael Edelstein, Richard Grossman, Peter Kenen, Bruce Mizrach, Lawrence Officer, Gerardo Delia Paolera, Angela Redish, Anna Schwartz, Hiroki Tsurumi and participants at the International Economics Seminar at Princeton University. For providing us with data we are also indebted to Eliana Cordoso, Rudiger Dornbusch, Jaime Reis, Fernando Santos, and Franco Spinelli. 1 Bordo and Kydland, "Gold Standard."
+389
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+390 Bordo and Rockoff
+attempted to do so (Argentina, Brazil, and Chile), or "shadowed" the
+performance of the gold standard (Italy, Spain, and Portugal).2 One possible reason for faithful adherence to the rule is that adherence
+provided improved access to capital vital to development.3 This point, we
+believe, has been strangely neglected.4 It explains why countries were so determined to adhere to gold even when doing so involved substantial costs: faithful adherence significantly lowered the cost of loans from metropolitan Europe. Thus, "the good housekeeping seal" provides an alternative to traditional explanations for the popularity of the gold standard that turn on internal differences between creditors and debtors or even on irrational prejudices in favor of gold. If adherence to the rule was evidence of financial rectitude—like "the good housekeeping seal of approval"—it would signal that a country followed prudent fiscal and monetary policies and would only temporarily run large fiscal deficits in well-understood emergencies. Monetary authorities then could be depended on to avoid defaulting on externally held debt. In many cases loans were made with gold clauses or were sterling denominated, to minimize currency risk. But there still would be risk of abrogation of the gold clauses or of total default on the debt, which would
+be reflected in a country risk premium on the loan.5 Moreover, in a world of asymmetric information, a credible commitment to the gold-standard rule would provide a signal to lenders of the costs borrowers would be willing to bear to avoid default and hence would circumvent the aversion
+to lending imposed by asymmetric information.6
+2 Eichengreen, Golden Fetters; Giovannini, "Bretton Woods"; Grilli, "Managing Exchange Rate Crises"; Bordo and Schwartz, "Operation"; and Morgenstern, International Financial Transactions.
+3 There is a debate about whether the United States should be treated as a core or peripheral country. Those who view it as a peripheral country do so for two reasons: first, because it was a net capital importer and hence more like Australia and Canada than the core countries that provided the capital; second, because the silver agitation and legislation of 1878 and 1890 threatened the convertibility of U.S. currency into gold. See Eichengreen, Golden Fetters; Giovanni, "Bretton Woods"; and Grilli, "Managing Exchange Rate Crises." The view that the United States was a core country stresses three reasons: first, the United States was wealthier and more populous than the United Kingdom and certainly than France or Germany; second, the United States was a capital exporter as well as an importer in the late nineteenth century, and by 1914 it was a net capital exporter; and third, the silver threat was temporary, and convertibility was never suspended. Therefore, the United States by the end of the nineteenth century, a colossus on the world stage, belongs in the core. See Bordo and Schwartz, "Operation"; and Morgenstern, International Financial Transactions. For purposes of this article, because we are focusing on the determinants of capital flows from the mature economies of western Europe to countries of new settlement (as well as other developing countries), we include the United States with the other peripheral countries. Nevertheless, in terms of its role as a player in the international monetary system, we view it as part of the core.
+4 With the exception of Gallarotti, Anatomy, p. 39.
+5 Frankel, On Exchange Rates, pp. 41-69; and Frankel and Okungwu, "Liberalized Portfolio," decompose interest differentials between emerging and developed countries into a country-risk premium and a currency-risk premium. In our empirical work, in the absence of data suitable to measure expectations of change in exchange rates and hence to account for the currency-risk premium, we use to the extent available to us, gold denominated securities to account for the country-risk premium. 6 Stiglitz and Weiss, "Credit Rationing."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 391
+In this article, we first define the concept of the gold standard as a contingent rule and as a credible commitment mechanism to serve as "the good housekeeping seal of approval." Then we survey the historical background of gold-standard adherence in the period from 1870 to 1914 by nine important peripheral countries. We next discuss the data and methodology for a test of "the good housekeeping seal of approval" hypothesis. We then present the results for the nine countries. The evidence suggests that in most cases successful adherence to gold significantly improved the terms at which peripheral countries could borrow from the core countries. Finally, we conclude with some lessons from history.
+THE GOLD STANDARD AS A COMMITMENT MECHANISM
+Traditionally, a monetary rule such as the gold standard (or other specie standards such as silver or bimetallism) by causing a nation's money supply to vary automatically with the balance of payments, was deemed to be superior to entrusting policy to the discretion of well-meaning monetary
+authorities.7 In contrast to this view, which stresses both impersonality and automaticity, we adopt the approach to rules in the recent literature on the
+time inconsistency of monetary and fiscal policy.8 A rule then serves as a credible commitment mechanism binding policy actions over time. In the simplest sense, government policy is said to be time inconsistent when a policy plan, calculated as optimal based on the government's objectives and expected to hold indefinitely into the future, is subsequently revised. Discretion, in this context, means setting policy sequentially. This could then lead to policies and outcomes that are very different from the optimal plan as market agents rationally incorporate government actions into their planning. For that reason, society would benefit from the government having access to a commitment mechanism to keep it from changing planned future policy. According to this approach, adherence to the fixed price of gold served as a credible commitment mechanism to prevent governments from following the otherwise time-inconsistent policies of creating surprise fiduciary money issues in order to capture seigniorage revenue or default
+ing on outstanding debt.9 On this basis, adherence to the gold-standard rule before 1914 enabled many countries to avoid the problems of high inflation and stagflation that troubled the late twentieth century.
+7 Simons, "Rules." The Currency School in England in the early nineteenth century made the case for the Bank of England'sfiduciarynote issue to vary automatically with the level of the Bank's gold reserve ("The currency principle"). Such a rule was preferable (for providing price-level stability) to allowing the note issue to be altered at the discretion of the directors of the Bank (the position taken by the opposing Banking School). For a discussion of the Currency Banking School debate, see Viner, Studies; Fetter, Development; and Schwartz, "Banking School." 8 Kydland and Prescott, "Rules."
+9 Bordo and Kydland, "Gold Standard"; and Giovannini, "Bretton Woods."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+392 Bordo and Rockoff
+The simplest example of how a commitment mechanism operates is in a modern closed economy where monetary authorities attempt to maintain full employment and zero inflation. Assume the monetary authority has announced at the beginning of the year a rate of monetary growth consistent with zero inflation. Assume further that the public believes the announcement, and it is incorporated into wage bargaining and other contracts that are binding over the year. In this circumstance, the authorities, in the absence of precommitment, have an incentive to create a monetary surprise (follow an expansionary monetary policy), to reduce unemployment (stimulate the economy), or to capture seignorage revenue. However, the public, with rational expectations, will incorporate the government's actions into their behavior and in the next year, when new contracts are formed, will demand higher wages and prices. This will in turn lead to higher inflation and a return to the original level of employment and economic activity. In addition, desired real cash balances will decline reducing the tax base for seigniorage. A credible precommitment mechanism, such as a rule that prevents the authorities from altering monetary growth from its preannounced path, by preventing the govern
+ment from cheating, can preserve long-run price stability.10 A second example is in the use of fiscal policy. Governments use debt finance to smooth tax revenues over time. When faced with unusual government expenditures such as in wartime, it is more efficient to sell bonds than to impose higher taxes that can reduce work effort. The debt is issued on the assumption that taxes will be raised once the emergency is passed in order to service and reduce the debt. In this context, a time-inconsistent fiscal policy would be to impose a capital levy or to default on the debt, once the public has purchased it. Following such a policy would capture additional resources for the government in the present but in the event of a future emergency would make it very difficult for the government to sell its bonds at favorable prices. A credible commitment mechanism can force the government to honor its outstanding debt. The pledge to fix the price of a country's currency in terms of gold was just such a rule or commitment mechanism to prevent governments from following the previously mentioned practices. The rule defined a gold coin as a fixed weight of gold called, for example, one dollar. The monetary authority was then committed to keep the mint price of gold fixed through the purchase and sale of gold in unlimited amounts. Under the bimetallic system based on gold and silver that prevailed in most countries until the third quarter of the nineteenth century, the monetary authorities would define the weight of both gold and silver coins. Maintaining the bimetallic ratio fixed is a variant of the basic convertibility rule, since it is the fixed
+10 Barro and Gordon, "Rules."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 393
+value of the unit of account that is the essence of the rule.11 The gold-standard rule in the century before World War I can be viewed as a
+contingent rule, or a rule with escape clauses.12 The monetary authority maintains the standard—keeps the price of the currency in terms of gold fixed—except in the event of a well-understood emergency such as a major war. In wartime it may suspend gold convertibility and issue paper money to finance its expenditures, and it can sell debt issues in terms of the nominal value of its currency on the understanding that debt will eventually be paid off in gold. The rule is contingent in the sense that the public understands that the suspension will last only for the duration of the wartime emergency plus some period of adjustment and that afterwards the government will adopt the deflationary policies necessary to resume
+payments at the original parity.13 Observing such a rule will allow the government to smooth its revenue from different sources of finance:
+taxation, borrowing, and seigniorage.14
+Examples of discretion—breaches of the rule—include postponement of resumption after the war and reasonable delay period had passed and pegging to specie at a devalued parity. As a result, in the event of another war within memory of the previous one, the public would be less willing to absorb government debt, even if the situation were otherwise similar, and the government proposed a reasonable delay. It is crucial that the rule be transparent and simple and that only a limited number of contingencies be included. Transparency and simplicity avoided the problems of moral hazard and incomplete information, which prevented the monetary authority from engaging in discretionary policy
+under the guise of following the contingent rule.15 In this respect a second contingency—a temporary suspension in the face of a financial crisis, which in turn was not the result of the monetary authority's own
+" A s a rule in the traditional sense—as an automatic mechanism to ensure price stabilitybimetallism may have had greater scope for automaticity than the gold standard because of the possibility of a switch from one metal to the other. See Friedman, "Bimetallism."
+12 Grossman and Van Huyck, "Sovereign Debt"; DeKock and Grilli, "Endogenous Exchange"; Flood and Isard, "Simple Rules"; and Bordo and Kydland, "Gold Standard."
+13 This description is consistent with a result from a model of Lucas and Stokey, "Optimal Fiscal and Monetary Policy," in which financing of wars is an optimal contingency rule. In their example, where the occurrence and duration of the war are uncertain, the optimal plan for the debt is not to service it during the war. Under this policy, people realize when they purchase the debt that it will be defaulted on in the event the war continues longer than expected. 14 See Lucas and Stokey, "Optimal Fiscal and Monetary Policy"; and Mankiw, "Optimal Collection." A case study comparing British and French finances during the Napoleonic Wars shows that Britain was able to finance its wartime expenditures by a combination of taxes, debt, and paper money issue to smooth revenue; whereas France relied primarily on taxation. France relied on a less efficient mix of finance than Britain because it had used up its credibility by defaulting on outstanding debt at the end of the American War of Independence and by hyperinflating during the French Revolution. Napoleon ultimately returned France to the bimetallic standard in 1803 as part of a policy to restore fiscal probity, but because of the previous loss of reputation France was unable to take advantage of the contingent aspect of the bimetallic standard rule. See Bordo and White, "British and French Finances." 15 Canzoneri, "Monetary Policy Games"; and Obstfeld, "Destabilizing Effects."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+394 Bordo and Rockoff
+actions—might also have been part of the rule. However, because of the greater difficulty of verifying the source of the contingency than in the case of war, invoking the escape clause under conditions of financial crisis (or in the case of a shock to the terms of trade, a third possible contingency) would be more likely to create suspicion that discretion was the order of the day.
+The gold-standard contingent rule worked successfully for three core countries (in the traditional sense) of the classical gold standard: Britain,
+France, and the United States.16 In all these countries the monetary authorities adhered faithfully to the fixed price of gold except during major wars. During the Napoleonic War and World War I for England, the Civil War for the United States, and the Franco-Prussian War for France, specie payments were suspended and paper money and debt were issued. But in each case, after the wartime emergency had passed, policies leading to
+resumption at the prewar parity were adopted.17 Indeed, successful adherence to the pre-World War I rule may have enabled the belligerents to obtain access to debt finance more easily in subsequent wars. In the case of Germany, the fourth core country, no occasions arose for application of the contingent aspect of the rule before 1914. Otherwise, its record of adherence to gold convertibility was similar to that of the other three countries. A number of other countries also followed the rule. These included the British Dominions of Canada and Australia; the western European countries of Sweden, The Netherlands, and Switzerland; and Japan. In marked contrast to this group are the countries of southern Europe and Latin America (see Table 1 for a chronology of adherence). For the southern European countries, adherence to the gold standard was an important objective but, for most of them, difficult to achieve. Their experience of low money growth, of low fiscal deficits (with the principal exception of Italy), and of exchange rates that never drifted far from parity suggests that the rule was important. The Latin American countries suspended convertibility in wartime and also in the face of financial crises and terms-of-trade shocks. They usually returned to gold at a depreciated parity. Their experience was characterized by higher money growth rates,
+16 Bordo and Schwartz, "Operation."
+17 The behavior of asset prices (exchange rates and interest rates) during suspension periods suggests that market agents regarded the commitment to gold as credible. For the United States, see Roll, "Interest Rates"; and Calomiris, "Price," who present evidence of expected appreciation of the greenback during the American Civil War based on a negative interest differential between bonds that were paid in greenbacks and those paid in gold. Also, see Smith and Smith, "Wesley Mitchell," who demonstrate that movements in the premium on gold from the Resumption Act of 1875 until resumption was established in 1879 were driven by a credible belief that resumption would occur. For the case of Britain's return to gold in 1925, see Smith and Smith, "Stochastic Process Switching"; and Miller and Sutherland, "Britain's Return" and "Speculative Anticipations." An application of the literature on stochastic process switching suggests that the increasing likelihood that resumption would occur at the original parity gradually altered the path of the dollar-pound exchange rate towards the new ceiling, several months in advance of resumption.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 395
+higher fiscal deficits, and higher inflation rates than the other countries.
+For them gold convertibility was the exception rather than the rule.18 The gold-standard rule originally evolved as a domestic commitment mechanism, but its enduring fame is as an international rule. The classical gold standard emerged as a true international standard by 1880 following the switch by the majority of countries from bimetallism, silver monomet
+allism, and paper to gold as the basis of their currencies.19 As an international standard, the key rule was maintenance of gold convertibility at the established par. Maintenance of a fixed price of gold by its adherents in turn ensured fixed exchange rates. The fixed price of domestic currency in terms of gold provided a nominal anchor to the international monetary system. Recent evidence suggests that, indeed, exchange rates throughout the 1880 to 1914 period exhibited a high degree of fixity in the principal countries. Although exchange rates frequently deviated from par, viola
+tions of the gold points were rare, as were devaluations.20 According to the game theoretic literature, for an international monetary arrangement to be effective, both between countries and within them, a time-consistent credible-commitment mechanism is required. In other
+words each member must adhere to a credible rule.21 Adherence to the gold convertibility rule provided such a mechanism. Indeed, Giovannini finds the variation of both exchange rates and short-term interest rates within the limits set by the gold points in the period from 1899 to 1909 consistent with market agents' expectations of a credible commitment by
+the core countries to the gold-standard rule in the sense of this article.22 In addition to the reputation of the domestic gold standard and constitutional provisions that ensured domestic commitment, adherence to the interna
+tional gold-standard rule may have been enforced by other mechanisms.23 These include the operation of the rules of the game, the hegemonic power of England, central-bank cooperation, and improved access to international capital markets, the subject of this article. One of the enforcement mechanisms of the gold-standard rule for peripheral countries was presumably access to capital obtainable from the
+core countries.24 To the extent that adherence to the gold standard served as a signal of good behavior we would expect to see countries that always
+18 Bordo and Schwartz, "Operation."
+19 Eichengreen, "Editor's Introduction."
+20 Officer, "Efficiency;" and Eichengreen, "Editor's Introduction."
+21 Canzoneri and Henderson, Monetary Policy.
+22 Giovannini, "Bretton Woods." Also see Officer, "Gold-Point Arbitrage." His calculations of speculative bands (bands within which uncovered interest arbitrage prevails consistent with gold-point arbitrage efficiency) for the interwar dollar-sterling exchange rate show serious violations only in 1931, at the very end of the gold-exchange standard.
+23 Bordo and Kydland, "Gold Standard."
+24 In addition to developing countries seeking long-term capital, countries also sought short-term loans, such as Japan, which financed the Russo-Japanese War of 1905 to 1906 with foreign loans seven years after adopting the gold standard. See Hayashi, "Japan's Saving Rate."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+396 Bordo and Rockoff
+adhered to gold convertibility to pay lower interest rates on loans contracted in London and other metropolitan centers than others with less consistent performance. Our approach suggests that adherence to gold would affect the volume of capital attracted as well as the terms. However, we have been unable to assemble enough high-quality data to tell us how much more capital flowed to good adherents because of their reputation for financial rectitude
+relative to others.25 An extensive earlier literature on capital flows focused
+on the determinants of long-term capital flows.26 Those scholars attempted to ascertain whether "pull factors" (higher expected rates of return) in the periphery or "push factors" (poor investment prospects and higher savings rates) in the core predominated. Our approach builds upon this earlier literature to the extent that we grant that the key determinants of capital flows are the traditional variables they utilized: the expected real rates of return in both countries, the levels of real activity, the terms of trade, and the phase of the business cycle. But in addition we posit that adherence to the gold-standard rule would have an incremental and significant impact.
+THE RECORD OF ADHERENCE TO THE GOLD STANDARD
+To assess evidence for the "good housekeeping seal of approval" we examine the behavior of long-term bond yields for nine peripheral countries in the classical gold-standard period from 1870 to 1914. Our choice of countries was dictated partly by availability of the data and to give us a diverse sample reflecting four groups of countries. The groups include countries that always adhered to gold (Canada and Australia); countries that followed the contingent rule and temporarily suspended payments but returned to gold at the original parity (the United States and Italy for part of the period); countries that, for the period with data available to us, did not adhere to gold but may have shadowed it (Portugal, Spain, and Italy for part of the period); and countries that broke the gold-standard rule by intermittently suspending payments and devaluing their currencies (Argentina, Brazil, and Chile). The chronology in Table 1 summarizes the adherence record until 1914 for each of the countries mentioned. In addition it shows the reasons for a change in monetary standard and an indication as to whether a country changed its parity when it returned to gold. A brief convertibility history of
+25 Virtually all of the available data o n long-term capital flows for the countries we consider (if it exists) is calculated as the difference between the current account and changes in international reserves. Little attempt is made to distinguish between invisible items, errors, and omissions or to adequately separate short-term from long-term capital movements. An alternative measure is capital calls on new issues in London; see Davis and Cull, International Capital Markets. Preliminary investigation for a subset of our sample of the connection between capital calls, on the one hand, and a number of fundamental determinants and gold standard adherence, on the other, however, did not yield meaningful results. 26 Ford, Gold Standard; Bloomfield, Patterns; Abramovitz, "Monetary Side"; Davis and Cull, International Capital Markets; and Edelstein, Overseas Investment.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 397
+1.2 Portugal
+/*""' Spain'
+Brazil
+* " « » . * ~ ~ •*
+' Argentina
+"V Chile
+0 I I I I I I I I I I I I I I I I II I I I I I I I I II I I I I I I I I I II I I I I I
+O O O O O "*
+Is* 00 O5 O «— 1
+00 00 00 en en en
+FIGURE 1
+NORMALIZED EXCHANGE RATES FOR SEVEN COUNTRIES
+Note: Australia and Canada are omitted because their currencies remained at par during the period. Sources: See the exchange rates (EXRT) for each country in the Appendix.
+the nine countries follows. Also, Figure 1 shows each country's exchange rate in terms of sterling relative to gold parity at the beginning of the period (with the exception of Australia and Canada, which never depart from parity). Canada adopted the gold standard in 1853. Although it experienced a sharp cyclical downturn in the years 1907 to 1908, Canada did not suspend convertibility until 1914. Australia adopted the gold standard in 1852. Despite severe banking problems in the 1890s, Australia did not suspend convertibility until July 1915 during World War I. The United States Coinage Act of 1792 defined a bimetallic standard at a mint ratio of 15 to 1. In 1834 and again in 1837 the mint ratio was altered, remaining unchanged thereafter at 16 to 1. This ratio overvalued gold at the mint so that by 1849 the United States was on a defacto gold standard. The Civil War led to suspension of specie payments from 1862 through 1878. Despite contentious political opposition to deflation that resumption enforced, resumption to gold was achieved at the prewar parity on January 1, 1879, in line with the declaration of the Resumption Act of 1875. Apart from the silver threat to gold convertibility in the mid 1890s stemming from Populist agitation, convertibility in the United States was never in
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+398 Bordo and Rockoff
+doubt from 1879 to 1914. It was preserved even during two banking panics in 1893 and 1907 when banks restricted payments. In 1862 Italy adopted the bimetallic standard, although in fact the standard was gold. In 1865 Italy joined the Latin Monetary Union. Fiscal improvidence and war against Austria in 1866, however, ended convert
+ibility.27 Fiscal and monetary discipline was achieved by 1874, and exchange-rate parity was restored. The government announced on March 1, 1883, that it would restore convertibility on April 12, 1884, but convertibility took place only in silver because silver was overvalued at the mint. Public finances then deteriorated, and unlawful bank issues indicated an absence of monetary discipline. By 1894 Italy was back on a paper standard. Inconvertibility lasted until 1913. After a period of laxity ending by 1903, the government embraced fiscal and monetary rectitude as if it
+were on a gold standard but did not formally resume (see Figure I).28
+Although Spain adopted a bimetallic regime in April 1848, with a ratio of 16 to 1, only after the currency reform of 1868 that established the peseta as the monetary unit was the regime fully operative. In 1868, following six reductions in the ratio, it was set at 15.5 to 1, as in the Latin Monetary Union (which Spain, however, did not join). With the fall in the market price of silver in the 1870s, the 15.5 to 1 ratio undervalued gold. Gold was driven out of circulation, and the gold reserves of the Bank of Spain declined. A declining trade balance and capital outflows from 1881 to 1883 led Spain to end convertibility to avoid deflation. Between 1888 and 1900 the peseta exchange rate depreciated, a budget deficit arose in every year but three from 1884 to 1899, money creation largely financed the war with Cuba in 1898 and 1899, and Spanish prices until 1905 fell much less than world prices. All of these factors proved hostile to resumption. After 1900 these factors mainly turned favorable to resumption, but it did not take place. Efforts by finance ministers to restore convertibility and adopt the gold standard before World War I foundered on the opposition of the Bank of Spain. Nevertheless, the behavior of the exchange rate and of both monetary and fiscal variables in this period
+suggest that Spain shadowed the gold parity rule (Figure I).29 Portugal had been on a bimetallic standard since the 1680s with de facto gold predominance alternating with de facto silver predominance. The decision to shift to a gold standard in 1854 was made because gold
+circulation was ample.30 The parity with the pound was unchanged from 1854 until 1891, a period during which there were no convertibility crises. Furthermore, the mint ratio the law established favored gold. All this came to a halt after an increase in the ratio of debt service payments to revenues, and government support of failing domestic enterprises clouded Portugal's
+27 Fratianni and Spinelli, "Italy."
+28 Tonniolo, Economic History.
+29 Acena, "Spain."
+30 Reis, "Gold Standard."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 399
+reputation as a creditworthy nation. Suspension of convertibility in 1891 lasted until after World War I. However, from 1895 to 1914 Portugal pursued conservative fiscal and monetary policies as if it were shadowing
+the gold standard (see Figure I).31
+Gold convertibility in Argentina began in February 1867 after a failed
+attempt in 1863.32 Convertibility was suspended in May 1876 after several years of political unrest and rising government deficits. Although the exchange rate reached parity by 1881, resumption that year failed. Convertibility was restored in 1883 but lasted only until January 1885, at a time of financial crisis in Europe and following a period of expansionary fiscal policy. Inconvertibility thereafter until 1899 was associated with a lax
+fiscal policy leading to debt default in 1890 in the infamous Baring crisis.33 In 1899 convertibility was restored at the original parity of 5 gold pesos to the pound with the return to fiscal orthodoxy in 1896 and the establishment of a currency board. However, paper pesos that had been circulating since 1885 at a large discount relative to gold were frozen at 2.27 per gold peso, giving the effect of a substantial devaluation (see Figure 1). Argentina suspended convertibility in 1914 on the outbreak of war. From 1808 onwards Brazil was on a bimetallic standard at the colonial ratio of 16 to 1. From then until 1846, when it was altered to favor gold, the ratio was changed three times. Gold convertibility was suspended in November 1857 in the wake of a banking crisis and resumed in 1858. It was subsequently abandoned on several succeeding occasions, notably during
+the war with Paraguay.34 Suspension lasted for slightly more than a year in 1888 and 1889. A republican revolution in November 1889 coincided with
+the ending of convertibility.35 In 1906 Brazil restored convertibility to prevent continued appreciation of the milreis exchange rate that was harmful to coffee and rubber exporters. In addition it created a Conversion Office with a limit set to its issue of convertible notes at a newly established parity. Convertibility ended at the outbreak of World War I. Chile was on a bimetallic standard from 1818 to 1851; it then made a technical change in the mint ratio but maintained the bimetallic standard until 1866. Although it resumed in 1870, by the end of 1874 with the fall in the price of silver, it was on a de facto silver standard. After bank runs in
+1878 the authorities made bank notes inconvertible.36 For the next 17 years, Chile remained on a paper standard. The War of the Pacific (1879 to 1883) was financed by government note issues. The first attempt to return to a metallic standard was made in 1887, but it failed. An
+31 Macedo, "Convertibility."
+32 Cortes Conde, Dinero.
+33 Full service on the Argentine external national debt was postponed for three years by a moratorium arranged by a consortium of London creditor banks. Marichal, Century, p. 160. The provincial bonds were in default until 1898. We thank Gerardo Delia Paolera for pointing this out.
+34 Pelaez and Suzigan, Historia.
+35 Fritsch and Franco, "Aspects."
+36 Llona-Rodriguez, "Chile."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+400 Bordo and Rockoff
+eight-month civil war from January to August 1891 resulted in further monetary expansion and exchange-rate depreciation. A second conversion law in November 1892 was strictly implemented, and the exchange rate appreciated, but again the government responded to political discontent by issuing notes. The exchange rate thereupon depreciated. A new conversion law of February 11, 1895, set June 1 as the day for redemption of government notes, devalued the gold content of the peso, and authorized loans and sales of nitrate fields to accumulate a gold reserve. Following rumors of war with Argentina and a run on the banks in July 1898, the legislature ended convertibility and, to deal with the panic, bank notes were declared government obligations. Thus our survey suggests a wide variance in adherence to the gold standard rule by peripheral countries. If the "good housekeeping seal of approval" hypothesis has validity we would expect, other things equal, that the country-risk premium on long-term bond yields would be lowest for Canada and Australia, followed by the United States and Italy, then by Spain and Portugal, and then by Argentina, Brazil, and Chile. The next section considers the evidence.
+DATA, MODELS, AND ECONOMETRIC METHODOLOGY
+Data
+Our data consist of annual interest rate observations (typically government bond rates) and related variables, including exchange rates, real income, fiscal deficits, and the money supply for nine countries during the
+classical gold-standard era.37 The nine countries, as noted above, were chosen with one eye on the availability of the data and the other on the variety of experiences with the gold standard. The sample is divided into four groups of countries. The first group includes two countries that were always on gold, Australia and Canada. The second group includes the United States and Italy, two countries that observed the gold-standard contingent rule in the sense that they abandoned convertibility in the face of an emergency such as a war but returned to the original parity afterwards. Although, unlike the U.S. experience, Italy, after its second suspension in 1894, did not restore convertibility at the original parity, but its exchange rate shadowed it (see Figure 1). The countries also differed on the reasons for departure (see Table 1). For the United States it was a wartime emergency; for Italy it was lax fiscal policy. The third group consists of Spain and Portugal, which in the period before our data begin adhered to convertibility but during our sample period did not do so. However, the performance of their exchange rates (see Figure 1), and their
+37 All the series used except for the United States were yields on national or federal government debt. For the United States we used a long-term corporate bond rate. Here we follow Friedman and Schwartz, Monetary Trends, p. 120, who prefer this series because some U.S. long-term governments bore the circulation privilege and because none were outstanding in some years.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 401
+TABLE 1 A CHRONOLOGY OF ADHERENCE TO THE GOLD STANDARD FOR NINE COUNTRIES: CIRCA, 1870-1914
+Country
+Canada Australia United States
+Italy
+Spain
+Portugal
+Argentina
+Brazil
+Chile
+Period
+1853-1914 1852-1915 1792-1861
+1862-1878 1879-1917" 1862-1866
+1866-1884 1884-1894 1894-1914 1868-1883 1883-1914 1854-1891 1891-1914 1867-1876 1876-1883" 1883-1885 1885-1899 1899-1914 1857-1888 1888-1889 1889-1906 1906-1914 1870-1878 1878-1895C 1895-1898 1898-1925
+Standard
+Gold Gold Bimetallic (de facto gold after 1834) Paper (Greenbacks) Gold Bimetallic
+Paper Gold Paper Silver Paper Gold Paper Gold Paper Gold Paper Gold Paper Gold Paper Gold Bimetallic Paper Gold Paper
+Reason for Change
+War War
+War War Lax fiscal policy, war
+Lax fiscal policy
+Crisis
+Crisis
+Lax fiscal policy
+Lax fiscal policy War
+Revolution War Crisis
+War threat
+Change in Parity?
+No No No
+No No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes Yes
+Yes
+a Gold Embargo 1917-1919, Standard not suspended. b Failed attempt to restore convertibility in 1881. c Failed attempt to restore convertibility in 1887. Source: Bordo and Schwartz, "Operation."
+inflation, money growth rates, andfiscaldeficits suggest that their policies
+shadowed gold.38 The final group includes Argentina, Brazil, and Chile, which intermittently adhered to gold convertibility but at altered parities. The appendix gives full descriptions of the data and sources. The interest rates are plotted in Figures 2 through 7. The panels in each figure show the rate of return on representative long-term bonds for a particular country (or, to save space, two comparable countries) and, for comparison, the return on British consols. The periods when a country was on the gold standard are indicated by boxes within the figures. Interest rates for Canada and Australia, the only countries that stayed on the gold standard throughout the period from 1870 to 1914, were generally quite close to the consol rate, especially after 1900, when a
+38 Bordo and Schwartz, "Operation."
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+402 Bordo and Rockoff
+I I Australia and Canada on Gold Standard
+Canada
+U.K.
+1875 1885 1895 1005
+FIGURE 2
+LONG-TERM RATES FOR AUSTRALIA AND CANADA
+Sources: See LTIR.UK, LTIR.AUS, and LTIR.CAN in the Appendix.
+1910 19U
+general convergence of foreign rates with the consol rate took place
+(Figure 2).39 Of the two interest rates for the United States over the period 1870 to 1914, the higher rate from 1870 to 1878 is for gold bonds (bonds that promised interest and principal in gold before the United States returned to gold), and the lower rate is for bonds that promised interest and
+principal in paper, the famous greenbacks (Figure 3).40 At first glance it may seem strange that the gold rate is above the paper rate during a time of flexible exchange rates. The explanation is that gold was the depreciating currency. At the end of the Civil War the price of gold dollars in terms of greenback dollars was well above one, but this price was expected to fall, as it in fact did, until resumption of convertibility in 1879 at the rate of one greenback dollar per one gold dollar. The gold interest rate, in other words, had to be higher before redemption to compensate for the expected future loss on the conversion of gold into greenbacks. As can clearly be seen in Figure 3 both the gold and paper rates lay well above the U.K. consol rate before resumption and converged quite markedly thereafter.
+39 One possible explanation for the similarity between the U.K. consol rate and the Australian and Canadian rates, in addition to our maintained hypothesis, is that after 1893 Dominion government securities were endowed with the status of "trustee investments" by the British government. This could be construed as a strong signal of their quality. See Havinden and Meredith, Colonialism, pp. 88-90. We thank Shizuyu Nishimura for bringing this to our attention. 40 The attempt to estimate gold rates and paper rates for the United States has a long history, going back at least to Fisher, Theory of Interest, pp. 401-03. Here we use recent estimates by Calomiris, "Historical Perspectives," pp. 137-43, although we also tried the estimates computed by Macaulay, Movements, table 19, pp. 217-18, in our regressions to see if it made a difference.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 403
+1875 1885 1895 1905
+FIGURE 3
+LONG-TERM RATES FOR THE UNITED STATES
+Sources: See LTIR.UK, LTIR.US, and LR.USGC in the Appendix.
+Two rates for Italy, a gold rate and a paper rate, were somewhat higher
+than the rates for Australia, Canada, and the United States (Figure 4).41
+Also note that there is no decisive downward movement during the brief
+period in which Italy was officially on the gold standard. If anything, there
+is an upward trend during this interval.
+Paper rates for Spain (beginning in 1883) and Portugal (beginning in
+1891), after both countries had abandoned convertibility, appear to have
+been declining (Figure 5). The Spanish rate, in particular, closes in on the
+consol rate after 1900 in much the same way as the Australian, Canadian,
+Italian, and U.S. rates. The gold rate for Argentina (beginning in 1885) peaks with the 1890 Baring crisis. Brazil's rate begins in 1892. Both rates fell after 1900 as both countries returned to the gold standard (Figure 6). But it is difficult to determine whether it was the result of adherence to gold or of some other factor that produced the general convergence of rates after 1900. For Chile, Figure 7, the relationship between the London rate payable in gold and a domestic rate payable in paper differs from the U.S. case. The paper rate is well above the gold rate, confirming our intuition that paper rates are higher because of the risk of a fall in the gold value of the currency. More telling is that the gold rate, although lower than the paper rate, is substantially higher than are the Australian, Canadian, U.S., and Italian gold rates. Simply promising to pay in gold was not enough to achieve the lowest international rates; country risk mattered even for gold bonds.
+41 The gold rate for Italy is the rate for long-term government bonds quoted in Paris. The rates for other countries in our sample were quoted in London.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+404 Bordo and Rockoff
+10
+B
+6
+4
+2
+" \ .,«
+Italy Paper « ! V ^ _
+~ U.K.
+
+1 1 Italy on Gold Standard
+0 .870 )B7f. 1 8 8 0 iRfl5 ,890 iflfl5
+FIGURE 4
+LONG-TERM RATES FOR ITALY
+Sources: See LTIR.UK, LTIR.IT, and LTIR.ITG in the Appendix.
+1900
+One phenomenon apparent in all the figures is convergence after 1900 of the long-term yields with the U.K. consol yield. One explanation is growing confidence in the safety of international investments (a decline in the market price of risk), produced in part by the general acceptance of the
+gold standard.42 But there may also have been other factors at work such as factor-price equalization reflecting the high degree of mobility of capital
+as well as labor during the "golden age" before 1914.43 Thus, a preliminary inspection of the long-term yields suggests that long-term commitment to the gold standard mattered, even when bonds were denominated in gold. Countries that remained on gold throughout the classical era were charged lower rates than countries that had a mixed record of adherence. The evidence on the effect of short-term attachments to or departures from the gold standard, however, is less clear.
+The Model
+To explore these issues further we estimated regressions of the following form.
+Ru ~ RVKI = &i + bu(R, - RVKl) + bi2dumit + bi3Miyt _ j + bi4Di>t _ y + e,, (1)
+e,v = P,e,, _ x, i = 1, 2, . . . 9
+42 Friedman and Schwartz, Monetary Trends, pp. 515-16, concluded that the decline in the difference between short-term interest rates in the United States and the United Kingdom after 1896 was the result of the resolution of concerns about the free-silver movement in the United States.
+43 O'Rourke and Williamson, "Were Hechsher and Ohlin Right?"
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 405
+1 8 7 0 .875 1 8 8 ° .865 1 8 9 ° .895
+FIGURE 5
+LONG-TERM RATES FOR PORTUGAL AND SPAIN
+Sources: See LTIR.UK, LTIR.POR, and LTIR.SP in the Appendix.
+19.0 19.4
+where Rit equals the interest rate of country i in year t; RVKl equals the interest rate of the United Kingdom in year t; Rt equals the average of all rates in the sample at time t; dumu equals a dummy variable that takes the value 1 if country i is on the gold standard in year t; Mit_x equals the rate of growth of money less the rate of growth of real GNP in country i between t - 2 and t - 1, (Monetary Policy); and Dit_1 equals the level of government expenditures less taxes divided by nominal GNP in country I
+in year t — \, (Fiscal Policy).44_
+We use the average spread (R, — RVKl) as our benchmark because our preliminary inspection of the data suggested that some sort of benchmark was needed to account for market-wide rate fluctuations. One possible rationale for this benchmark is the Capital Assets Pricing Model
+(CAPM).45 On this analogy, R, is a proxy for the return on the efficient market portfolio (although, obviously, it is far removed from the variable prescribed by the theory) and i?UK, is a proxy for the risk free rate (perhaps not a bad proxy given the reputation of British consols). Thus, bn can be viewed as an analogue of beta, the measure of systejnatic risk in CAPM. Below we report results for an unweighted average Rt and for an average weighted by a country's share of debt in the total issued by the sample
+44 Durbin-Watson tests on O L S regressions for equation 1 always show significant positive autocorrelation in error terms. We assume that the error terms follow an AR(1) process.
+45 The CAPM was first developed in classic papers by Sharpe, "Capital Asset Prices"; and Lintner, "Valuation." Since then an enormous literature has grown up describing limitations, variants, and alternatives. Brennan, "Capital Asset Pricing Model," is an accessible recent survey.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+406 Bordo and Rockoff
+Argentina on Gold Standard
+1870
+| I Brazil on Gold Standard
+FIGURE 6
+LONG-TERM RATES FOR ARGENTINA AND BRAZIL
+Sources: See LTIR.UK, LTIR.ARG, and LTIR.BRZ in the Appendix.
+countries and held by Britain in 1914.46 We also experimented with a GNP weighted average, but the results were unsatisfactory because the average was completely dominated by the United States. To test directly whether adherence to gold influences rates paid we include a dummy variable that takes the value one when a country is on the gold standard and zero when it is off. An on-off dummy is the simplest way to estimate the effects of adherence to gold, but it may miss subtler, long-run effects. For a country on the gold standard, but subject to political and economic upheaval, long-term interest rates might not be unusually low. For a country off the gold standard because of a war but expected shortly to resume, long-term interest rates might not be unusually high. In both cases a country's beta (bn) may yield as much or more information as the gold dummy because the beta reflects, we conjecture, long-term commitment. The model also includes monetary and fiscal policy variables to test whether investors looked beyond adherence to gold to fundamentals that would determine the probability that a country would be unable to pay its debts or could do so only in a depreciated currency. Rapid growth of the
+46 The weights in percentages were Canada 22.8, Australia 18.5, the United States 33.5, Italy 0.6, Spain 0.8, Portugal 0.4, Argentina 14.2, Brazil 6.6, and Chile 2.7; Feis, Europe, p. 23. Feis's estimates have been subject to considerable criticism. It is not clear, however, that there are superior alternatives for our purposes. Moreover, although London was the principal capital market during the era of the classical gold standard, Paris was not far behind. In our sample the three southern European countries borrowed more in Paris than in London so the weights we use understate their role as borrowers in the world capital market.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a ''Good Housekeeping Seal" 407
+I | Chile on Gold Standard
+1870 1B75 I860 1890
+1885 1B95
+FIGURE 7
+LONG-TERM RATES FOR CHILE
+Sources: See LTIR.UK and LTIR.CH in the Appendix.
+leos 1910 1914
+stock of money relative to output, we presumed, would raise the probability of a devaluation and raise interest rates. (Although alternatively, in the short run, it would lower interest rates via the liquidity effect.) A large government deficit relative to national income, we conjectured, would raise interest. (Alternatively, a country charged a low interest rate might be
+encouraged to borrow more, creating a negative correlation.)47
+Econometrics Methods
+We first estimated separate regressions for each bond in our sample using only the data for the country that issued the bond. These results are reported below. However, there are two problems with estimating separate equations for each country. First, the gold dummy cannot be included for those countries that were always on gold (Australia and Canada) or that were always off during our sample period (Portugal and Spain). With no change in the country's status, the effects of being on or off gold cannot be separated from the constant term in equation 1. Second, innovations in interest rates may be correlated across countries. Although estimates of equation 1 are consistent, even when each country is treated separately, a seemingly unrelated-regressions (SUR) model that pools data for a number of countries increases the efficiency of our procedure. We use a restricted SUR model that allows for autocorrelation and
+47 The level of national debt, a variable we did not have, might have been a better measure of the creditworthiness of a country. But the interest payments on a burdensome debt should be reflected eventually in the fiscal deficit.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+408 Bordo and Rockoff
+unequal numbers of observations. Our assumptions for the innovations are as follows.
+e«/ = Pftt - 1 + Ma, /i-,7 ~ ( 0 , o j 2 ) , f o r j - 1, 2 . . . 9 ( 2 )
+j,.) = 0, if t*t*
+That is, innovations in country i's interest rate are first-order autocorrelated, and the innovations in the interest rates of country i and j are also correlated, provided there is an observation for both countries in that year. We applied the SUR model separately to a sample including only gold bonds (seven countries) and only paper bonds (five countries) because we expected them to react differently to a country's commitment to gold. We checked this division of the sample by applying the SUR model to two pooled samples that combined gold and paper bonds. One included one rate from each country, choosing the gold rate when it was available (seven gold rates and two paper rates); the other was a paper-weighted sample that included four gold rates and five paper rates. The results for these pooled regressions were similar to those reported below. The coefficients on the gold dummy are restricted to be the same across countries. This allows information for those countries that are always on or off gold to be used. The coefficients on the fundamentals are also restricted to be the same across countries. We used the following procedure to estimate the model. We ran OLS regressions for the nine countries. The original data were transformed
+using the Cochrane-Orcutt method.48 We ran OLS regressions on the transformed data and used the residuals to estimate the contemporaneous covariance, a,-,-. The transformed data were then used in a SUR model to
+produce final estimates of the coefficients of equation 1. We created an R2 that is analogous to the one used with ordinary least square regressions, but the statistical properties of our analogue is unknown.
+THE RESULTS
+Tables 2 and 3 show individual country regressions with the sample
+divided into gold bonds and paper bonds.49 For each country we show two regressions: a pure CAPM regression and a CAPM-plus-policy-variables regression. In most cases the improvement in the equations from adding the policy variables was marginal at best. The results for the gold dummy for the gold bonds (Table 2) offer some support for our story. The coefficient is negative for four of the five
+48 The first observations were dropped because alternative procedures became extremely complicated.
+49 We include Australia and Canada with the countries issuing gold bonds because their currencies were convertible throughout the period.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 409
+TABLE 2 INDIVIDUAL COUNTRY REGRESSIONS DEPENDENT VARIABLES: YIELDS ON GOLD BONDS
+Country
+Canada
+Australia
+United States
+Italy
+Argentina
+Brazil
+Chile
+Intercept
+-0.17 (0.91) -0.03 (0.12) 0.21 (1.05) -0.58 (1.22) 0.047 (0.08) 0.34 (0.71) 0.12 (0.40) -0.51 (0.16) 0.13 (0.23) -0.29 (0.43) 0.87 (0.74) 1.19 (0.88) 2.35 (38.3) 1.40*** (10.3)
+Beta
+0.63*** (4.84) 0.57*" (5.02) 0.53*** (3.99) 0.72*** (3.70) 1.00*** (4.01) 0.72** (3.10) 1.04*** (4.56) 0.39* (1.90) 2.06*** (5.04) 2.57*** (5.86) 1.67** (2.17) 1.41 (1.63) 0.44 (1.22) 0.89** (2.28)
+On Gold?
+
+
+
+-0.42 (1.46) -0.41 (1.60) -0.17 (0.92) -0.34** (2.04) 0.004 (0.02) -0.19 (0.62) -0.11 (0.19) -0.08 (0.13) -0.99*** (4.67) -0.89*** (3.62)
+Monetary Policy
+-0.19 (-1.07) 
+-0.40 (1.08) 
+-0.48 (0.95) 
+0.37 (0.91) 
+-0.53 (0.80) 
+0.18 (0.39) 
+0.04 (0.11)
+Fiscal Policy
+0.46 (0.29) 
+3.83 (1.53) 
+2.20 (0.18) 
+-0.74 (0.37) 
+0.50 (0.10) 
+-3.21 (0.96) 
+1.59 (0.68)
+AR(1)
+0.79'** (11.0) 0.93*** (14.9) 0.53*** (3.82) 0.70*** (5.41) 0.90*** (17.2) 0.83*** (18.6) 0.61*" (6.99) 0.97*** (20.5) 0.81*** (5.47) 0.47*** (1.96) 0.82*** (5.97) 0.86*** (6.15) 0.93*** (7.54) 0.76*** (5.35)
+Adj/?2
+0.91
+0.94
+0.60
+0.56
+0.96
+0.96
+0.91
+0.94
+0.91
+0.90
+0.80
+0.79
+0.38
+0.30
+DW
+1.08
+1.62
+1.89
+1.95
+2.24
+2.62
+1.27
+1.77
+1.81
+1.63
+1.45
+1.20
+2.05
+2.00
+N
+44
+42
+44
+42
+44
+42
+44
+42
+29
+27
+24
+24
+38
+36
+* means significant at the 10 percent level. ** means significant at the 5 percent level. *** means significant at the 1 percent level. Notes: The coefficients in each row were estimated from the data for the country named on the left by ordinary least squares with an adjustment for first order autocorrelation. The "On Gold?" dummy was omitted for countries that were at par throughout the period. The Monetary and Fiscal variables were excluded in the top regression for each country. Absolute values of /-statistics are in parentheses.
+countries and statistically significant in the case of Chile and the case of Italy when the CAPM-plus-policy-variables model is used. The gold dummy is marginally significant in the case of the United States. These bonds, we should note, were payable in gold even when the ordinary currency of the country was not convertible into gold at a fixed rate. The higher price of gold bonds when the domestic currency was convertible presumably reflected the lower probability of some kind of national bankruptcy. A stronger confirmation is provided by the beta coefficients. Almost all of the betas are highly statistically significant, except for one regression each in the cases of Brazil and Chile. The betas are substantially less than
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+410 Bordo and Rockoff
+TABLE 3 INDIVIDUAL COUNTRY REGRESSIONS DEPENDENT VARIABLES: YIELDS ON PAPER BONDS
+Country
+United States
+Italy
+Spain
+Portugal
+Chile
+Intercept
+0.35 (1.08) 0.26 (1.02) 0.41 (1.29) -0.30 (0.10) 0.32 (0.31) 0.16 (0.25) 0.56 (0.74) -0.33 (0.35) 3.59*" (20.0) 3.62*'* (18.5)
+Beta
+0.42* • • (3.50) 0.49"* (4.16) 0.75*** (3.16) 0.36* (1.75) 1.22*** (2.12) 0.49 (0.88) 1.81*** (2.87) 2.30*** (3.43) 0.79** (2.33) 0.78** (2.26)
+On Gold?
+-0.11 (0.78) -0.07 (0.53) -0.09 (0.51) -0.27 (1.58) 
+
+
+
+0.23 (0.84) 0.29 (1.02)
+Monetary Policy
+-0.45* (1.83) 
+0.14 (0.34) 
+-0.04 (0.04) 
+1.30 (0.66) 
+0.23 (0.52)
+Fiscal Policy
+-11.3* (1.87) 
+0.23 (0.11) 
+19.3 (1.51) 
+24.2 (0.81) 
+-1.31 (0.51)
+AR(1)
+0.91"* (25.2) 0.88*** (21.2) 0.64*** (8.15) 0.97*** (17.8) 0.86*** (9.09) 0.84*** (5.53) 0.60* *• (3.44) 0.53*** (3.10) 0.62*** (5.43) 0.58*** (4.84)
+Adjfl2
+0.97
+0.97
+0.89
+0.92
+0.83
+0.72
+0.68
+0.69
+0.11
+0.09
+DW
+1.77
+1.78
+1.38
+2.18
+1.79
+1.61
+1.95
+1.75
+1.29
+1.27
+N
+44
+42
+44
+42
+31
+11
+23
+22
+42
+42
+* means significant at the 10 percent level. ** means significant at the 5 percent level. *** means significant at the 1 percent level. Notes: The coefficients in each row were estimated from the data for the country named on the left by ordinary least squares with an adjustment for first order autocorrelation. The "On Gold?" dummy was omitted for countries that were at par throughout the period. The Monetary and Fiscal variables were excluded in the top regression for each country. Absolute values of /-statistics are in parentheses.
+one for Canada and Australia, two countries that demonstrated considerable commitment to gold. For the United States, also a strong gold adherent, the beta equals one in the simple CAPM regression and was less than one in the augmented regression. At the other extreme, two countries with poor records of adherence, Argentina and Brazil, had very high betas as expected. In the case of Italy, which for a few years followed the gold standard contingent rule and for a longer period shadowed gold, the beta in the simple regression was close to that of the United States. However, when the policy variables were added the beta was somewhat lower than we would have expected. This was also the case for Chile, although these
+equations were the least well estimated in the gold sample.50 For the paper bonds (Table 3) none of the coefficients on the gold dummy are statistically significant at conventional levels. Again, however, the betas confirm the importance of long-term commitment. In this subsample the U.S. beta is well below one, a result consistent with its relatively high commitment. Italy, Spain, and Portugal, which shadowed
+50 This may reflect missing observations in a number of crisis periods.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 411
+TABLE 4 POOLED REGRESSIONS DEPENDENT VARIABLES: YIELDS ON GOLD BONDS
+Intercept
+Canada
+Australia
+United States
+Italy
+Argentina
+Brazil
+Chile
+On gold?
+Monetary policy
+Fiscal policy Simulated R2
+DW N
+Average
+(1)
+0.15 (1.30) 0.47*** (5.67) 0.54*** (6.96) 0.42*** (2.79) 0.72*** (8.07) 1.49*** (14.2) 1.49*** (13.0) 1.26*** (9.05) -0.34*** (4.15) 
+0.57
+1.87 267
+Interest Differential: Unweighted
+(2)
+0.30** (2.24) 0.37*** (4.41) 0.49*** (5.66) 0.49*** (5.10) 0.50"* (4.08) 1.42*** (11.1) 1.43*** (13.6) 1.22*** (8.34) -0.38*** (4.70) -0.08 (0.74) -0.17 0.24 (0.63) 1.98 255
+Average Interest Differential: Weighted by Overseas
+(3)
+0.41*** (4.44) 0.53*** (5.65) 0.73*** (7.19) 0.90* ** (4.61) 0.79* ** (5.89) 1.99*** (14.2) 2.06*** (7.58) 1.16*** (3.08) -0.41*** (5.51) 
+
+0.70 1.81 267
+share in British Investment
+(4)
+0.37*** (4.01) 0.62*** (6.03) 0.66*** (7.15) 0.80*** (5.76) 0.60** (2.62) 1.95*** (13.0) 2.06**' (8.34) 1.43*** (4.45) -0.41*** (6.02) -0.22**' (3.10) 0.88* (1.72) 0.66 1.87 255
+* means significant at the 10 percent level. ** means significant at the 5 percent level. *** means significant at the 1 percent level. Notes: The coefficients in each column were estimated from the pooled sample of gold bonds by seemingly unrelated regression with adjustments for autocorrelation and the unequal number of observations for each country. The coefficient for each country is its "beta," the relationship between its interest rate differential with London and an average differential. Absolute values of /-statistics are in parentheses.
+gold, in general had higher betas, although the results were not uniform across specifications and countries. In the case of Chile, as with the gold bonds, the beta was somewhat lower than expected. In general the OLS results are consistent with the "good housekeeping" hypothesis, although there are some anomalies. Part of the problem may be the inefficiency of the OLS approach, and there is some evidence for
+this in the insignificant coefficients and low R2 in some of the regressions. The pooled seemingly unrelated regressions presented in Tables 4 and 5, we believe, address these issues. Turning to the results for the unweighted gold-bond sample, the gold dummy is negative and highly significant in both regressions. Moreover,
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+412 Bordo and Rockoff
+TABLE 5 POOLED REGRESSIONS DEPENDENT VARIABLES: YIELDS ON PAPER BONDS
+Intercept
+United States
+Italy
+Spain
+Portugal
+Chile
+On gold?
+Monetary policy
+Fiscal policy
+Simulated R2 DW N
+Average
+(1)
+0.09 (0.68) 0.39* ** (5.21) 0.64*** (7.57) 1.35*** (5.44) 1.41*** (16.7) 2.10*** (10.6) 0.06 (0.71) 
+
+0.74 1.61 184
+Interest Differential: Unweighted
+(2)
+0.28** (2.02) 0.36*** (5.54) 0.42*** (3.24) 0.55*** (4.40) 1.38*** (15.6) 2.13*** (14.4) -0.01 (0.16) -0.19 (1.31) -0.42 (0.38) . 0.81 1.44 159
+Average Interest Differential: Weighted by Overseas
+(3)
+0.78*** (3.80) 0.44*** (3.39) 0.45*** (2.88) 1.17*** (2.87) 1.66*** (6.73) 2.34*** (7.40) -0.24** (2.27) (0.49) (0.62) 0.66 1.60 184
+share in British Investment
+(4)
+0.88* ** (4.48) 0.31** (2.36) 0.38** (2.12) 0.18 (0.85) 1.64*** (6.36) 2.50*** (9.24) -0.18** (2.05) -0.08
+-0.78
+0.76 1.54 159
+* means significant at the 10 percent level. ** means significant at the 5 percent level. *** means significant at the 1 percent level. Notes: The coefficients in each column were estimated from the pooled sample of paper bonds by seemingly unrelated regression with adjustments for autocorrelation and the unequal number of observations for each country. The coefficient for each country is its "beta," the relationship between its interest rate differential with London and an average differential. Absolute values of /-statistics are in parentheses.
+the betas line up for the most part as expected. And most supportive of our hypothesis is that the betas for the three countries with poor adherence records were considerably higher than the others. The results for the sample in which the average rate was weighted by the shares in British overseas investment were quite similar to the regressions that use unweighted averages. The main exceptions are that the monetary policy variable is significant and the U.S. beta is somewhat higher than expected. The latter result may reflect the heavy weight of the United States in the weighted average. Table 5 shows the pooled seemingly unrelated regressions for the paper-bond sample. The gold dummy is insignificant in the regressions that use the unweighted average interest rate and significant in the regressions that use an average interest rate weighted by the shares of British overseas
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 413
+investment. However, the coefficients are half the size of those in the gold-bond sample. One explanation is that the paper sample includes more temporary departures and returns to the gold standard that the market ignored, whereas the gold sample includes more cases of long-term commitment. It is also possible that paper and gold bonds appealed to different classes of investors and that the more risk-averse investors who insisted on gold bonds were more sensitive to whether a country was currently adhering to gold. Alternatively, the explanation may be that borrowers could effectively
+price discriminate between domestic and foreign lenders.51 As in the case of the gold-bond sample the betas in both unweighted cases lined up as expected. The only anomaly is Spain in the Britishoverseas-investment weighted-policy-variables regression where the beta is
+unusually low and insignificant.52 In sum the pooled results provide strong support for the "good housekeeping seal." In both the pooled-gold and pooled-paper samples we find a similar correspondence between gold standard adherence (including shadowing) and low country risk as measured by the betas. In addition, the gold adherence dummy that may capture the impact of adherence not accounted for by the betas was negative and significant as predicted. Indeed, if we were to single out one number to represent our findings with respect to the significance of the gold-adherence dummy it would be 40 basis points, approximately the coefficient of the gold dummy in the British-overseas-investment weighted regression (or in the current parlance the "haircut" charged for not being on gold.) In other words, all other things equal, the rate on a gold bond would be 40 basis points lower if the country were on the gold standard. Other factors, perhaps related to regional preferences, undoubtedly also played a role in determining the country-risk premia. But our analysis suggests that a willingness to commit to the discipline of the gold standard was an important determinant of the risk premia established in the London capital market.
+The Bottom Line
+Was it worthwhile for a country to adopt the gold standard to gain the seal of good (financial) housekeeping? Figures 8 and 9 illustrate the benefits. On the left in each figure, for comparison, is the average British consol rate over the years 1870 to 1914, our proxy for the risk-free rate. Next to it are predicted rates for each country measured in percentage. The countries are ranked from left to right in descending order according to their adherence to gold. Figure 8 shows the gold bonds, which were especially important because they were a major vehicle for the transmission of capital from the core to the periphery, and Figure 9 shows the
+51 Calomiris, "Motives," shows that the United States tailored its debt in the nineteenth century on the assumption that the long-term bond market was more sensitive to default risk.
+52 This may reflect the small number of observations for Spain.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+414 Bordo and Rockoff
+3
+2
+1
+U.K.
+Canada United States
+FIGURE 8
+Argent i na Chi le
+THE VALUE OF ADHERING TO GOLD: GOLD BONDS, 1870-1914
+Note: Data were computed by using the coefficients of regression 3 in Table 4.
+paper bonds. In each case we computed the predicted rate from the betas and gold dummy that we estimated and the average price of risk (the average return for the sample less the average consol rate) for the entire period. In this way we were able to compare countries even when the underlying interest series were not available for the same periods. It is clear from Figure 8 that the benefits of committing to gold were significant in economic as well as statistical terms. Where commitment was high, rates were low; where commitment was low, rates were high. Over the whole period the risk-free rate averaged about 3 percent. Canada, Australia, and the United States, countries with strong commitments, paid about one percentage point more. Italy, which had a decidedly worse formal adherence record, paid only a fraction more. Presumably the markets attached nearly as much weight to close shadowing the gold standard as actual adherence. Argentina, Brazil, and Chile, which adhered intermittently at altered parities, paid two to three percentage points
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 415
+U.K. United States Italy Spain
+FIGURE 9
+Chi le
+THE VALUE OF ADHERING TO GOLD: PAPER BONDS, 1870-1914
+Note: Data were computed by using the coefficients of regression 3 in Table 5.
+more.53 Figure 9 for the paper bonds tells a similar story. In this sample the United States and Italy paid a little more than one percentage point above the U.K. rate (125 and 140 basis points respectively). The Chilean rate, on the other hand, was over four percentage points higher. The Spanish and Portuguese rates lie between these extremes. Both figures underscore the point that the difference in rates was substantial for countries that were attempting to raise large amounts of capital on international markets. Or to put it somewhat differently, the numbers make it easy to see why there were strong economic pressures on countries that were off the gold standard to resume and strong pressures on countries that were on the gold standard to stay on.
+53 Although Chile had a worse gold-standard-adherence record than Argentina and its exchange rate depreciated more, the fact that Argentina defaulted on its gold debt in 1890 while Chile did not, may explain why its projected interest rate was over 100 basis points lower.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+416 Bordo and Rockoff
+CONCLUSIONS
+Our principal findings are that the interest rates charged on long-term bonds in core capital markets during the era of the classical gold standard differed substantially from country to country and that these differences were correlated with a country's long-term commitment to the gold standard. Countries that adhered faithfully to the standard were charged rates only slightly above the British consol rate; countries that made only sporadic attempts to maintain convertibility and that altered their parities were charged much higher rates. Countries that did not formally adhere but that followed policies that shadowed gold fell in between. We interpret these findings to mean that adhering to gold was like the "good housekeeping seal of approval." It should be emphasized that adherence to the gold standard rule, although a simple and transparent test, implied a far more complex set of institutions and economic policies. Indeed, those countries that adhered to the gold standard rule generally had lower fiscal deficits, more stable
+money growth, and lower inflation rates than those that did not.54 But those countries that adhered to gold also paid a price for doing so because they gave up the flexibility to react to adverse supply shocks by following expansionary financial policies and altering the exchange rate. Those countries that did not adhere to the rule in fact faced greater supply shocks
+than those that did.55 In responding to those shocks, and thereby sacrificing the rule, this group of countries, through the substantial risk premia they had to pay, may have reduced their long-run growth prospects. However, countries may have abandoned the rule not in response to adverse supply shocks but in response to other (possible political economy) factors. Whether in particular cases sacrificing the rule was worth it or not is an empirical question and a subject for future research. Although the world today is very different from the world before 1914, the same issues are at stake. Many emerging countries have tried to recreate the "good housekeeping seals" by pegging their currency to a stronger one or by establishing currency boards. However, whether a "good housekeeping seal" as transparent and durable as the gold standard can be recreated today is an open question.
+54 Bordo and Schwartz, "Operation."
+55 Bordo and Jonung, "Monetary Regimes," and Bordo and Schwartz, "Operation."
+Appendix: Data Description
+In this study we use annual data for nine countries: Argentina, Australia, Brazil, Canada, Italy, Portugal, Spain, the United Kingdom, and the United States. Our goal was to include data for each country for the entire era of the classical gold standard, 1870 to 1914, but in a number of cases we were able to find data for only part of the period. The series are
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 417
+arranged by country. In each case we give our variable name (which identifies the series in a spreadsheet file on disk available on request), the definition of the variable, and a parenthetical reference. In some cases we include notes that describe special features of the series. Cross-country studies of this sort are inevitably a community effort. In a number of cases variables were supplied to us by scholars from their personal files, for which we are very grateful. These series may not be available in published sources. Users of this data set should consult these scholars directly for permission to use their data.
+Argentina
+CCAL.ARG($m): Total Capital Calls of Argentina, 1865-1914. Sources: Figures provided by Lance Davis, California Institute of Technology and Robert Gallman, University of North Carolina, Chapel Hill.
+FB.ARG($M): Foreign Borrowing of Argentina, 1884-1900. Source: Ford, Gold Standard, table 14, p. 139.
+CUK.ARG($M): U.K. issues for Argentina, 1881-1914. Source: Ford, Gold Standard, table 25, p. 195.
+LNCI.ARG($M): Net Capital Inflow of Argentina, 1884-1914. Source: Ford, Gold Standard, derived from table 25, p. 195.
+DFT.ARG: GDP Deflator of Argentina, 1884-1914. 1913 = 1. Source: Delia Paolera, "How the Argentine Economy," table 37, p. 186.
+EXRT.ARG(Arg / $): Exchange Rate of Argentina (5 gold pesos = 1 pound), 1884-1914. Source: Delia Paolera, "How the Argentine Economy," table 37, p. 186.
+GDP.ARG (millions of paper pesos): Nominal GDP of Argentina, 1884-1914. Source: Delia Paolera, "How the Argentine Economy," table 37, p. 186.
+RGDP.ARG (millions of paper pesos): Real GDP of Argentina, 1884-1914. Source: Delia Paolera, "How the Argentine Economy," table 37, p. 186.
+G.ARG (millions of paper pesos): Government Expenditure of Argentina, 1883-1914. Source: Delia Paolera, "How the Argentine Economy," table 36, p. 183.
+T.ARG (millions of paper pesos): Government Revenue of Argentina, 1883-1914. Source: Delia Paolera, "How the Argentine Economy," table 36, p. 183.
+LTIR.ARG: Argentina Average Annual Yield on External Bond, 1884-1913. Source: Delia Paolera, "How the Argentine Economy," table 33, p. 178.
+M.ARG: (millions of paper pesos) Argentina Money Supply, 1883-1913. Source: Delia Paolera, "How the Argentine Economy," table 37, p. 186.
+POP.ARG (millions): Argentina Population. Source: Mitchell, International Historical Statistics: The Americas.
+TOT.ARG: Argentina Terms of Trade, 1884-1913. 1913 = 100. Source: Delia Paolera, "How the Argentine Economy," table 37, p. 186.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+418 Bordo and Rockoff
+Australia
+CCAL.AUS(U.S. $m): Total Capital Calls of Australia in millions of U.S. dollars, 1865-1914. Sources: Figures provided by Lance Davis, California Institute of Technology and Robert Gallman, University of North Carolina, Chapel Hill.
+LNCI.AUS($M): Net Apparent Capital Inflow of Australia. Source: Pope, "Australia's Payments," appendix 2, pp. 231-32.
+CPI.AUS: Consumer Price Index of Australia, 1913 = 100. Source: Pope, "Australia's Payments," appendix 2, pp. 231-32.
+DFT.AUS: GDP Deflator of Australia. 1913 = 1. Source: Pope, "Australia's Payments," appendix 2, pp. 231-32.
+EXRT.AUS($A/U.S. $): Exchange Rates of Australia. Source: Pope, "Australia's Payments," appendix 2, pp. 231-32.
+G.AUS($m): Government Expenditures of Australia. (1870-1971 as 1870). Source: Pope, "Australia's Payments," appendix 2, pp. 231-32.
+GDP.AUS($m): Nominal GDP of Australia, 1861-1900. Sources: Pope, "Australia's Payments," appendix 2, pp. 231-32. The original was in £m; we converted to $m. Figures after 1900 are from Butlin, "Our 200 Years," pp. 229-30.
+RGDP.AUS($m): Real GDP of Australia. RGDP.AUS = GDP.AUS / (GDP Deflator).
+LTIR.AUS: Long-term Interest Rates of Australia. Government bonds. Source: Vamplew, Australians, p. 2.
+STIR.AUS Short-term Interest Rates of Australia. Savings bank deposit rates. Source: Vamplew, Australians, p. 2. PF1, p. 240.
+M2.AUS($m): Australian Money Stock. M2. M2.AUS = Ml.AUS + public's saving banks deposits, where Ml.AUS is currency held by the public + trading banks current deposits. Source: Vamplew, Australians, p. 247, PF 57-63, column 61 (original in calendar years), and p. 248, PF 64-71, column 69 (converted to calendar years).
+POP.AUS(millions): Population of Australia. Source: Mitchell, International Historical Statistics: The Americas.
+T.AUS($m): Government Revenue of Australia. Source: Pope, "Australia's Payments," appendix 2, pp. 231-32.
+TOT.AUS: Australian Terms of Trade. TOT.AUS = (Export price index) / (Import price index). Source: Pope, "Australia's Payments," appendix 2, pp. 231-32. The base year is 1913. The 1914 figure was obtained by averaging the 1913 estimate (1.163) and the 1914 to 1915 estimate (1.210).
+Brazil
+DFT.BRZ: GDP Deflator of Brazil, 1880-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 419
+EXRT.BRZ (cruzeiros / $): Exchange Rate of Brazil, 1889-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+GDP.BRZ (millions of cruzeiros): Nominal GDP of Brazil, 1880-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+RGDP.BRZ (millions of cruzeiros): Real GDP of Brazil. The base year is 1913. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+G.BRZ (millions of cruzeiros): Government Expenditure of Brazil, 1880-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+T.BRZ (millions of cruzeiros): Government Tax Revenue of Brazil, 1880-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+LTIR.BRZ: Long-Term Interest Rates of Brazil, 1890-1914. Sources: Figures provided by Eliana A. Cardoso, World Bank, and Rudiger Dornbusch, Massachusetts Institute of Technology; and Commercial and Financial Chronicle. A graph of the price of the bonds is presented in Cardoso and Dornbusch, "Brazilian Debt Crises." We use the current yield: the coupon divided by the price of the bond. We also calculated yields to maturity because there were deep discounts on Brazilian bonds, the case in which current yields and yields to maturity will differ the most. But the yield to maturity produced almost identical results in the regressions. In our results we report only regressions on current yields to maintain comparability with the other series.
+M.BRZ (millions of cruzeiros): Money Supply of Brazil, 1880-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+POP.BRZ: Population of Brazil, 1880-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+TOT.BRZ: Terms of Trade of Brazil, 1870-1914. Estatisticas historicas do Brasil, p. 597.
+Canada
+CCAL.CAN(U.S. Smillion): Total Capital Calls of Canada, 1865-1914. Sources: Figures provided by Lance Davis, California Institute of Technology and Robert Gallman, University of North Carolina, Chapel Hill.
+LNCI.CAN: Long-Term Net Capital Inflow, 1871-1913. Source: Dick and Floyd, Canada, table Bl, pp. 190-91.
+CPI.CAN: Consumer Price Index of Canada, 1870-1914. 1913 = 100. Source: Maddison, Dynamic Forces, table E2, pp. 296-97.
+DFT.CAN: Price Deflator of Canada. 1913 = 1. Source: Urquhart, "New Estimates," pp. 30-31.
+EXRT.CAN: Exchange Rate of Canada, 1870-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+G.CAN(in millions of $): Government Expenditure of Canada, 1870-1914. Source: Mitchell, International Historical Statistics: The Americas, pp. 654-56.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+420 Bordo and Rockoff
+T.CAN (in millions of $): Government Revenue of Canada, 1870-1914. Source: Mitchell, International Historical Statistics: The Americas.
+LTIR.CAN: Long-term Interest Rates of Canada. Sources: Bordo and Jonung, Long-Run Behavior, p. 160; and Neufeld, Financial System, table 15.
+M.CAN: Money Supply of Canada. (M2). Source: Bordo and Jonung, Long-Run Behavior, p. 160.
+GNP.CAN($mm): Nominal GNP of Canada, 1870-1914. Source: Urquhart, "New Estimates of GNP," pp. 30-31.
+RGNP.CAN($mm): Real GNP of Canada, 1870-1914. Source: Urquhart, "New Estimates of GNP," pp. 30-31.
+TOT.CAN: Terms of Trade of Canada. 1913 = 1. Source: Social Science Federation of Canada, Historical Statistics, pp. 299-300.
+POP.CAN(millions): Canada Population, 1870-1914. Source: Mitchell, International Historical Statistics: The Americas.
+Chile
+DFT.CH: GDP deflator of Chile. Derived from GDP.CH and RGDP.CH.
+EXRT.CH (peso/$): Exchange Rate of Chile, 1880-1914. Source: Bordo and Jonung, "Monetary Regimes," data appendix.
+RGDP.CH (millions of paper pesos): Real GDP of Chile, 1870-1914. The base year is 1913. Source: Llona-Rodriguez, "Chilean Monetary Policy." RGDP in 1913 gold pesos (table 8, p. 37), was converted to 1913 pesos using the exchange rate in table 65 (p. 285).
+GDP.CH (millions of paper pesos): Nominal GDP of Chile, 1870-1914. Source: LlonaRodriguez, "Chilean Monetary Policy." Nominal GDP is constructed from RGDP in 1913 gold peso and Conversion Factor II in table 64 (pp. 284-85).
+G.CH (millions of paper pesos): Government Expenditures of Chile, 1870-1914. Source: Llona-Rodriguez, "Chilean Monetary Policy," table 8, p. 37. The original is in 1913 gold pesos. Conversion Factor II (table 64, p. 284) was used to convert to current pesos.
+T.CH (millions of paper pesos): Tax Revenue of Chile, 1870-1914. See G.CH.
+LTIR.CH: Long-Term Interest Rate of Chile, 1870-1914. We have two long-term rates for Chile: 4.5 percent external Sterling bonds and 7 percent internal peso bonds. Source: Mamalakis, Historical Statistics, table 8.2, p. 365; table 8.5, p. 387.
+M.CH (millions of paper pesos): Money Supply of Chile, Ml, 1870-1914. Source: Mamalakis, Historical Statistics, p. 36.
+POP.CH (millions): Population of Chile, 1870-1914. Source: Mitchell, International Historical Statistics: The Americas, pp. 62-63.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 421
+Italy
+CPI.IT: Consumer Price Index of Italy, 1870-1914. 1913 = 100. Source: Fratianni and Spinelli, "Italy."
+DFT.IT: GNP Deflator of Italy, 1870-1914. 1913 = 1. Source: Fratianni and Spinelli, "Italy."
+EXRT.IT (lire / $): Exchange Rate of Italy, 1880-1914. Source: Fratianni and Spinelli, "Italy."
+GNP.IT (millions of lires): Nominal GNP of Italy, 1870-1914. Derived from RGNP.IT and DFT.IT.
+RGNP.IT (millions of lires): Real GNP of Italy, 1870-1914. 1913 = 1. Source: Fratianni and Spinelli, "Italy."
+G.IT (millions of lires): Government Expenditure of Italy, 1870-1914. Source: Mitchell, International Historical Statistics: Europe, p. 797.
+T.IT (millions of lires): Government Tax Revenue of Italy, 1870-1914. Source: Mitchell, International Historical Statistics: Europe, p. 812.
+LTIR.IT: Long-Term Interest Rates of Italy (long-term government bond rates), 18701914. Source: Figures provided by Franco Spinelli, Universita Degli Studi Brescia.
+LTIR.ITG: Yields of Long-Term Government Bonds sold in Paris, net of taxes. Source: Figures provided by Franco Spinelli, Universita Degli Studi Brescia, from ISTAT, Annuario Statistica Italiano. The coupon was 4 lire net of taxes until 1906 when a conversion lowered the coupon to 3.75 lire. Payments made abroad by the Italian Treasury were made in gold.
+M.IT (millions of lires): Money Supply of Italy, Ml, 1870-1914. Source: Fratianni and Spinelli, "Italy."
+POP.IT (million): Population of Italy, 1870-1914. Source: Spinelli, "Demand."
+TOT.IT: Terms of Trade of Italy, 1870-1914. 1913 = 1. Source: Spinelli and Fratianni, Storia Monetaria, pp. 69-70.
+Portugal
+DFT.POR: GDP Deflator of Portugal, 1880-1914. Source: Bordo and Schwartz, "Operation," data appendix.
+EXRT.POR (escudo / $): Exchange Rate of Portugal, 1890-1914. Source: Bordo and Schwartz, "Operation," data appendix.
+GDP.POR (millions of escudos): Nominal GDP of Portugal, 1880-1914. Source: Bordo and Schwartz, "Operation," data appendix.
+RGDP.POR: Real GDP of Portugal, 1880-1914. Source: Bordo and Schwartz, "Operation," data appendix.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+422 Bordo and Rockoff
+G.POR: Government Expenditure of Portugal, 1890-1914. Sources: Figures provided by Fernando Teixeria dos Santos, Porto University; and Bordo and Santos, "Portugal," data appendix.
+T.POR: Tax Revenue of Portugal, 1890-1914. Sources: Figures provided by Fernando Teixeria dos Santos; and Bordo and Santos, "Portugal," data appendix.
+LTIR.POR: Long-Term Interest Rates of Portugal, 1891-1914. Sources: Figures provided by Fernando Teixeria dos Santos; and Bordo and Santos, "Portugal," data appendix.
+M.POR (millions of escudos): Money Supply of Portugal, Ml, 1890-1911. Source: Bordo and Schwartz, "Operation," data appendix.
+POP.POR: Population of Portugal, 1880-1914. Source: Bordo and Schwartz, "Operation," data appendix.
+TOT.POR: Terms of Trade of Portugal, 1870-1914. 1913 = 1. Source: Lains, "Economia Portuguesa."
+Spain
+CPI.SP: Consumer Price Index of Spain, 1870-1914.
+DFT.SP: GDP Deflator of Spain, 1901-1914. Sources: Bordo and Schwartz, "Operation," data appendix; and Estadisticas historicas de Espana.
+EXRT.SP(peseta / $): Exchange Rate of Spain, 1870-1914. Sources: Bordo and Schwartz, "Operation," data appendix; and Estadisticas historicas de Espana.
+GDP.SP (millions of pesetas): Nominal GDP of Spain, 1901-1914. GDP.SP (millions of pesetas) = RGDP.SP X DFT.SP.
+RGDP.SP (millions of pesetas): Real GDP of Spain, 1901-1914. Estadisticas historicas de Espana, p. 554.
+G.SP (millions of pesetas): Government Expenditure of Spain, 1870-1914. Source: Mitchell, International Historical Statistics: Europe, p. 798.
+T.SP (millions of pesetas): Tax Revenue of Spain, 1870-1914. Source: Mitchell, International Historical Statistics: The Americas, p. 814.
+LTIR.SP: Long-Term Interest Rates of Spain, 1883-1914. Source: Martin-Acena, "Spain," p. 163.
+M.SP (millions of pesetas): Money Supply of Spain, Ml, 1874-1914. Source: Estadisticas historicas de Espana, pp. 385-86.
+POP.SP (million): Population of Spain, 1870-1914. Source: Estadisticas historicas de Espana, p. 70.
+TOT.SP: Terms of Trade of Spain, 1870-1914. Source: Estadisticas historicas de Espana, p. 352.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 423
+United Kingdom
+CPI.U.K.: Consumer Price Index of U.K., 1870-1914. 1913 = 100. Source: Capie and Webber, Monetary History, p. 535.
+DFT.U.K.: GNP Deflator of U.K. 1913 = 1. Source: Capie and Webber, Monetary History, p. 535.
+EXRT.U.K. (pound / $): Exchange Rate of the U.K., 1870-1914. Friedman and Schwartz, Monetary Trends, table 4.9, pp. 130-31.
+GNP.U.K. (£m): Nominal GNP of U.K. Source: Capie and Webber, Monetary History, p. 535.
+RGNP.U.K. (£m): Real GNP of U.K. RGNP.U.K. = GNP.U.K. / DFT.U.K.
+G.U.K. (millions): Government Expenditures of the U.K., 1870-1914. Source: Mitchell, International Historical Statistics: Europe, pp. 798-99.
+T.U.K. (millions): Revenue of the U.K. government, 1870-1914. Source: Mitchell, International Historical Statistics: Europe, pp. 815-16.
+M.U.K. (fm): Money Stock of the U.K. Source: Friedman and Schwartz, Monetary Trends, table 4.9, pp. 130-31. M.U.K. is "the sum of gross deposits at London and country joint stock and private banks (later London clearing banks and other domestic deposit banks,) and at Scottish and Irish banks, less interbank and transit items, plus private deposits at Bank of England and currency held by public" (Friedman and Schwartz, Monetary Trends, p. 134).
+LTIR.U.K.: The U.K. Long-term Interest Rates. (Yields on Consols). Sources: Bordo and Jonung, Long-Run Behavior, and Annual Abstract.
+STIR.U.K.: The U.K. Short-term Interest Rates. (Rates on Three-month Bills). Sources: Bordo and Jonung, Long-Run Behavior, p. 162; and Annual Abstract.
+POP.U.K. (millions): The U.K. Population. Source: Mitchell, International Historical Statistics: Europe.
+TOT.U.K.: Terms of Trade of the U.K., 1870-1913. 1913 = 1. Source: Mitchell, Abstract.
+United States
+CCAL.U.S. (Smillion): Total Capital Calls of the United States, 1865-1914. Sources: Figures provided by Lance Davis, California Institute of Technology and Robert Gallman, University of North Carolina, Chapel Hill.
+CCAL.USH (SMillion): Capital Net Inflow derived from the balance of payments. U.S. Bureau of Census, Historical Statistics, pp. 564-65.
+CCAL.USW (Smillion): Long-Term Capital Imports of the United States. Source: Williamson, American Growth, table 36, p. 151.
+CPI.US: Consumer Price Index of the United States, 1870-1914. 1913 = 100. Source: U.S. Bureau of the Census, Historical Statistics, pp. 210-11.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+424 Bordo and Rockoff
+DFT.US: Implicit Price Deflator. 1913 = 1. Source: Friedman and Schwartz, Monetary Trends, table 4.8, pp. 122-23.
+EXRT.US (Pound / $): Exchange Rate in the United States. Source: Friedman and Schwartz, Monetary Trends, table 4.9, pp. 130-31.
+GNP.U.S. (Smillion): Nominal Income of the United States. Source: Friedman and Schwartz, Monetary Trends, table 4.9, pp. 130-31.
+RGNP.US (Smillion): Real Income of the United States. Source: Friedman and Schwartz, Monetary Trends, table 4.9, pp. 130-31.
+G.US (millions): Government Expenditures of the United States, 1870-1914. Source: Mitchell, International Historical Statistics: Americas, pp. 654-56.
+T.US (millions): Revenue of the U.S. Government, 1870-1914. Source: Mitchell, International Historical Statistics: Americas, pp. 671-74.
+M.US (Smillion): Money Stock of United States. Source: Friedman and Schwartz, Monetary Trends, table 4.8, pp. 122-23. M.US is the sum of currency held by the public plus adjusted deposits at all commercial banks: M2.
+LTIR.US: Long-term Interest Rates of the United States, 1870-1914. (Yields on HighGrade Corporate Bonds). Source: Friedman and Schwartz, Monetary Trends, table 4.8, pp. 122-23. Unfortunately, there do not appear to be enough long-term federal government bond quotes to construct a long-term government yield series. Partly this was because most government bonds were held by banks as security for bank notes. The rate we use is the usual substitute.
+LR.USGC: Long-Term Interest Rate of the United States, Gold Rate Computed by Charles Calomiris. Source: Calomiris, "Historical Perspectives."
+LR.USGM: Long-Term Interest Rate of the United States, Gold Rate Computed by Frederick Macaulay. Source: Macaulay, Movements, table 19, pp. 217-18.
+STIR.US: The Short-term Interest Rates of the United States. (Commercial Paper Rate). Source: Friedman and Schwartz, Monetary Trends, table 4.8, pp. 122-23.
+POP.US (millions): The U.S. Population. Source: Mitchell, International Historical Statistics: The Americas.
+TOT.US: Terms of Trade of the United States. 1913 = 1. Source: Williamson, American Growth, table B4, pp. 261-62.
+REFERENCES
+Abramovitz, Moses. "The Monetary Side of Long Swings in U.S. Economic Growth." Stanford University Center for Research on Economic Growth. Memorandum No. 146, Mimeo 1973. Acena, Pablo Martin. "Spain During the Classical Gold Standard Years, 1880-1914." In
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 425
+Monetary Regimes in Transition, edited by Michael D. Bordo and Forrest Capie, 135-72. Cambridge: Cambridge University Press, 1993. Annual Abstract of Statistics. Central Statistics Office, London. Barro, Robert J. and David B. Gordon. "Rules, Discretion, and Reputation in a Model of Monetary Policy." Journal of Monetary Economics 12 (1983): 101-21. Bordo, Michael D. "The Bretton Woods International Monetary System: An Historical
+Overview." In A Retrospective on the Bretton Woods System: Lessons for Monetary Reform, edited by Michael D. Bordo and Barry Eichengreen, 3-98. Chicago: University of Chicago Press, 1993.
+Bordo, Michael D. and Lars Jonung. The Long-Run Behavior of the Velocity of Circulation: The International Evidence. Cambridge: Cambridge University Press, 1987. . "Monetary Regimes, Inflation, and Monetary Reform: An Essay in Honor of Axel Leijonhufvud." In Inflation, Institutions, and Information: Essays in Honor of Axel Leijonhufvud, edited by D.F. Vaz and K. Vellapillai. London: MacMillan Press, 1996. Bordo, Michael D. and Anna J. Schwartz. "The Operation of the Specie Standard: Evidence for Core and Peripheral Countries, 1880-1990." In Historical Perspectives on the Gold Standard: Portugal and the World, edited by Barry Eichengreen and Jorge Braga de Macedo. London: Routledge, 1996. Bordo, Michael D. and Fernando Santos. "Portugal and the Bretton Woods International
+System." In The History of International Monetary Arrangements, edited by Jaime Reis, 181-208. London: Macmillan, 1995. Bordo, Michael D. and Eugene N. White. "British and French Finances During the Napoleonic Wars." In Monetary Regimes in Transition, edited by Michael D. Bordo and Forrest Capie, 241-73. Cambridge: Cambridge University Press, 1993.
+Bloomfield, Arthur. Patterns of Fluctuations in International Investment before 1914. Princeton Studies in International Finance, No. 21. Princeton: Princeton University Press, 1968. Brennan, M. J. "Capital Asset Pricing Model." In The New Palgrave Dictionary of Money & Finance, edited by Peter Newman, Murray Milgate, and John Eatwell, s.v., 287-91. London: The Macmillan Press, Ltd., 1992.
+Butlin, Noel G. Australian Domestic Product, Investment and Foreign Borrowing, 1860-1938/ 39. Cambridge: Cambridge University Press, 1962. . "Our 200 Years: Australian Wealth and Progress Since 1788, A Statistical Picture." In Commemorative Bicentenary Diary. Brisbane, Australia: Sunshine Diaries, 1987. Calomiris, Charles W. "Historical Perspectives on The Tax-Based Theory of Money." Ph.D. diss., Stanford University, 1985. . "Price and Exchange Rate Determination During the Greenback Suspension." Oxford Economic Papers 40, no. 4 (1988): 719-50.
+_. "The Motives of U.S. Debt-Management Policy, 1790-1880: Efficient Discrimina
+tion and Time Consistency." Research in Economic History 13 (1991): 67-105. Canzoneri, Matthew. "Monetary Policy Games and the Role of Private Information." American Economic Review 75(1985): 1056-70.
+Canzoneri, Matthew B. and Dale W. Henderson. Monetary Policy in Interdependent Economies. Cambridge, MA: MIT Press, 1991. Capie, Forrest and A. Webber. A Monetary History of The UK 1870-1982. London: George Allan & Unwin, 1985. Cardoso, Eliana A. and Rudiger Dornbusch. "Brazilian Debt Crises: Past and Present." In
+The International Debt Crisis in Historical Perspective, edited by Barry Eichengreen and Peter H. Lindert, 106-39. Cambridge: MIT Press, 1989. Commercial and Financial Chronicle, various dates. Cortds Conde, Roberto. Dinero, deuda y crisis: Evolution fiscal y monetaria en la Argentina. Buenos Aires: Editorial Sudamericana, Instituto Torcuato Di Telia, 1989.
+Davis, Lance and Robert Cull. International Capital Markets and American Economic Growth. Cambridge: Cambridge University Press, 1994.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+426 Bordo and Rockoff
+DeKock, Gabriel and Vittorio Grilli. "Endogenous Exchange Rate Regime Switches." NBER Working Paper No. 3066, Cambridge, MA, 1989. Delia Paolera, Gerardo. "How the Argentine Economy Performed during the International Gold Standard: A Reexamination." Ph.D. diss., University of Chicago, 1988.
+De Mattia, Renato. Storia del capitale della Bane d'ltalia e degli istitute predecessori. Rome: Banca d'ltalia, 1977. Dick, Trevor J. O. and John E. Floyd. Canada and the Gold Standard. New York: Cambridge University Press, 1992.
+Edelstein, Michael. Overseas Investment in the Age of High Imperialism: The United Kingdom, 1850-1914. New York: Columbia University Press, 1982.
+Eichengreen, Barry. Golden Fetters: The Gold Standard and the Great Depression, 19191939. Oxford: Oxford University Press, 1992. Eichengreen, Barry and Peter H. Lindert, eds. The International Debt Crisis in Historical Perspective. Cambridge, MA: MIT Press, 1989. Eichengreen, Barry. "Editor's Introduction." In The Gold Standard in Theory and History, edited by Barry Eichengreen, 1-35. London: Methuen, 1985.
+Estatisticas historicas do Brasil: Series economicas, demograficas e sociais de 1550 a 1988. Rio de Janeiro: Brasilia. 1990. Estadisticas historicas de Espana, Siglos xix-xx Madrid: Fundacion Banco Exterior 1989.
+Feis, Herbert. Europe: The World's Banker, 1870-1914: An Account of European Foreign Investment and the Connection of World Finance with Diplomacy before the War. New York: Council on Foreign Relations. Reprinted by Augustus M. Kelley, 1974.
+Fetter, F. Development of British Monetary Orthodoxy, 1797-1875. Cambridge: Harvard University Press, 1965.
+Fisher, Irving. The Theory of Interest: As Determined by Impatience to Spend Income and Opportunity to Invest It. New York: The Macmillan Company, 1930. Flood, Robert P. and Peter Isard. "Simple Rules, Discretion and Monetary Policy." NBER Working Paper No. 2934, Cambridge, MA, 1989.
+Ford, A. G. The Gold Standard 1880-1914: Britain and Argentina. Oxford: Clarendon Press, 1962. Frankel, Jeffrey A. On Exchange Rates. Cambridge, MA: Cambridge University Press, 1993. Frankel, Jeffrey A. and Chudozie Okongwu. "Liberalized Portfolio Capital Inflows in Emerging Markets: Sterilization, Expectations, and the Incompleteness of Interest Rate Convergence." NBER Working Paper No. 5156, Cambridge, MA, 1995. Fratianni, M. and F. Spinelli. "Italy in the Gold Standard Period, 1861-1914." In A
+Retrospective on the Classical Gold Standard, 1921-1931, edited by Michael D. Bordo and Anna J. Schwartz, 405-41. Chicago: University of Chicago Press, 1984. Friedman, Milton. "Bimetallism Revisited." Journal of Economic Perspectives 4, no. 4 (1990): 85-104.
+Friedman, Milton and Anna J. Schwartz. Monetary Trends in the United States and the United Kingdom: Their Relation to Income, Prices, and Interest Rates, 1867-1975. Chicago: University of Chicago Press for the NBER, 1982. Fritsch, Winston and Gustavo H. B. Franco. "Aspects of the Brazilian Experience Under the Gold Standard." PUC Rio de Janeiro. Mimeo, 1992.
+Gallarotti, Giulio M. The Anatomy of an International Monetary Regime: the Classical Gold Standard 1880-1914. New York: Oxford University Press, 1995. Giovannini, Alberto. "Bretton Woods and Its Precursors: Rules Versus Discretion in the History of International Monetary Regimes." In A Retrospective on the Bretton Woods System, edited by Michael D. Bordo and Barry Eichengreen, 109-47. Chicago: University of Chicago Press, 1993. Grilli, Vittorio. "Managing Exchange Rate Crises: Evidence from the 1890s." Journal of International Money and Finance 9 (1990): 258-75.
+Grossman, Herschel J. and John B. Van Huyck. "Sovereign Debt as a Contingent Claim:
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+Gold Standard as a "Good Housekeeping Seal" 427
+Excusable Default, Repudiation, and Reputation." American Economic Review 78 (1988): 1088-97.
+Havinden, Michael and David Meredith. Colonialism and Development: Britain and its Tropical Colonies, 1850-1960. London: Routledge, 1993.
+Hayashi, Fumio. "Japan's Saving Rate: New Data and Reflections." NBER Working Paper No. 3205, Cambridge, MA, 1989.
+ISTAT Annuario Statistica Italiano, Rome, various years.
+Kydland, Finn E. and Edward Prescott. "Rules Rather than Discretion: The Inconsistency of Optimal Plans." Journal of Political Economy 85 (1977): 473-91. Lains, Pedro. "A economia Portuguesa no seculo XIX: Crescimento economico ecomercio externo, 1850-1913." Unpublished Manuscript, 1995. Lintner, J. "The Valuation of Risk Assets and the Selection of Risky Investments in Stock Portfolios and Capital Budgets." Review of Economics and Statistics 47 (1965): 13-37. Llona-Augustin. "Chilean Monetary Policy: 1860-1925." Ph.D. Diss., Boston University, 1990. Llona-Rodriguez, Augustine. "Chile During the Gold Standard: A Successful Paper Money Experience." Mimeo. Instituto Torcuato Di Telia, 1993. Lucas, Robert E. Jr. and Nancy L. Stokey. "Optimal Fiscal and Monetary Policy in an Economy Without Capital." Journal of Monetary Economics 1 (1983): 55-93. Macedo, Jorge Braga de. "Convertibility and Stability 1834-1994: Portuguese Currency Experience Revisited." Mimeo. Nova University, Lisbon, 1995.
+Macaulay, Frederic. R. The Movements ofInterest Rates, Bond Yields and Stock Prices in The United States Since 1856. New York: NBER, 1938.
+Maddison, Angus. Dynamic Forces in Capitalist Development. Oxford: Oxford University Press, 1991. Mankiw, Gregory. "The Optimal Collection of Seigniorage: Theory and Evidence." Journal of Monetary Economics 20, no. 2 (1987): 327-41. Mamalakis, Markos J. Historical Statistics of Chile. Vol. 5. New York: Greenwood, 1989.
+Marichal, Carlos. A Century of Debt Crisis in Latin America: From Independence to the Great Depression 1820-1930. Princeton: Princeton University Press, 1989. Miller, Marcus and Alan Sutherland. "Britain's Return to Gold and Entry into the ERM."
+In Exchange Rate Targets and Currency Banks, edited by Paul Krugman and Marcus Miller, 82-106. Cambridge: Cambridge University Press, 1992. Miller, Marcus and Alan Sutherland. "Speculative Anticipations of Sterling's Return to Gold: Was Keynes Wrong?" Economic Journal, 1994. Mitchell, Brian R. Abstract of British Historical Statistics. Cambridge: Cambridge University Press, 1962.
+. International Historical Statistics: Europe, 1750-1988. New York: Stockton Press, 1992.
+. International Historical Statistics: The Americas, 1750-1988. 2d ed. New York:
+Stockton Press, 1993. (This volume includes data on Australia).
+Morgenstern, Oskar. International Financial Transactions and Business Cycles. Princeton: Princeton University Press, 1959. Neufeld, Edward P. The Financial System of Canada. Toronto: Macmillan, 1972. Obstfeld, Maurice. "Destabilizing Effects of Exchange Rate Escape Clauses." NBER Working Paper No. 3606, Cambridge, MA, 1992. Officer, Lawrence. "The Efficiency of the Dollar-Sterling Gold Standard, 1980-1908." Journal of Political Economy 94 (1986): 1038-073.
+. "Gold-Point Arbitrage and Uncovered Interest Arbitrage Under the 1925-1931 Dollar-Sterling Gold Standard." Explorations in Economic History 30, no. 1 (1993): 98-127. O'Rourke, Kevin and Jeffrey Williamson. "Were Hechsher and Ohlin Right? Putting the Factor Price Equalization Theorem Back Into History? NBER Working Papers on Historical Factors in Long-Run Growth, No. 37, Cambridge, MA, 1992.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press
+
+
+428 Bordo and Rockoff
+Pelaez, Carlos M. and Wilson Suzigan. Historia monetaria do Brazil. Editoria Universidade de Brazilia, 1976. Pope, David. "Australia's Payments Adjustments and Capital Flows Under the International Gold Standard, 1870-1913." In Monetary Regimes in Transition, edited by Michael D. Bordo and Forrest Capie, 201-37. Cambridge: Cambridge University Press, 1993. Reis, Jaime. "The Gold Standard in Portugal, 1854-1891." Mimeo. Universidale Nova de Lisbon, 1992. Roll, Richard. "Interest Rates and Price Expectations During the Civil War." This JOURNAL 32, no. X (1972): 476-98. Schwartz, Anna. J. "Banking School, Currency School, Free Banking School." In New Palgrave Dictionary of Economics, 148-521. London: Macmillan, 1987.
+Sharpe, W. F. "Capital Asset Prices: A Theory of Market Equilibrium Under Conditions of Risk." Journal of Finance 19(1964): 425-42. Simons, Henry C. "Rules Versus Authorities in Monetary Policy." In A.E.A. Readings in Monetary Theory edited by Friedrich A. Lutz and Lloyd W. Mintz, 337-68. Homewood, Illinois: Richard D. Irwin, 1951. Smith, Gregor and Todd Smith. "Wesley Mitchell and Irving Fisher and the Greenback Gold Reforms, 1865-1879." Mimeo. Queens University, 1993. Smith, W. S. and Smith, R. T. "Stochastic Process Switching and the Return to Gold." Economic Journal 100(1990): 164-75. Social Science Federation of Canada. Historical Statistics of Canada. 2d ed. Ottawa: Statistics Canada in joint sponsorship with the Social Science Federation of Canada, 1983.
+Spinelli, Franco and Michele Fratianni. Storia monetaria D'ltalia: I'Evoluzione del sistema monetario e bancario. Milano: A. Mondadori, 1991. Spinelli, Franco. "The Demand For Money In The Italian Economy: 1867-1965," Research Report. Department of Economics, University of Western Ontario, 1978. Stiglitz, Joseph and Andrew Weiss. "Credit Rationing in Markets with Imperfect Information." American Economic Review 71, no. 8 (1981): 393-410.
+Tonniolo, G. An Economic History ofLiberal Italy: 1850-1918. New York: Routledge, 1990. Unger, I. The Greenback Era: A Social and Political History of American Finance, 1865-1879. Princeton: Princeton University Press, 1964. Urquhart, Malcolm C. "New Estimates of GNP, Canada, 1870-1926." In Long-Term Factors in American Economic Growth, NBER Studies in Income and Wealth, vol. 51, edited by Stanley L. Engerman and Robert E. Gallman, 9-94. Chicago: University of Chicago Press, 1986.
+U.S. Bureau of Census. Historical Statistics of the United States: Colonial Times to 1957. Washington, DC: GPO, 1960.
+. Historical Statistics of the United States, Colonial Times to 1970, Bicentennial Edition. Washington, DC: GPO, 1975. Vamplew, Wray. Australians, Historical Statistics. Broadway, N.S.W. Australia: Fairfax, Syme, and Weldon Associates, 1987. Viner, J. Studies in the Theory of International Trade. Chicago: University of Chicago Press, 1937.
+Williamson, Jeffrey G. American Growth and the Balance of Payments. Chapel Hill: The University of North Carolina Press, 1964. Wilson, Roland. Capital Imports and the Terms of Trade. Melbourne: Melbourne University Press in association with Macmillan & Co., 1931.
+https://doi.org/10.1017/S0022050700016491 Published online by Cambridge University Press

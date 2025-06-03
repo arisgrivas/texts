@@ -1,0 +1,547 @@
+Journal of International Economics 42 (1997) 327–347
+Inflation in open economies
+Philip R. Lane
+Department of Economics, Columbia University, 420 W. 118th St, New York, NY 10027, USA
+Abstract
+This paper relates the time-consistent inflation rate to the degree of trade openness of an economy. The mechanism linking the welfare effects of monetary surprises (and hence the incentives to inflate) to openness does not rely on a large-country terms of trade effect but rather is due to imperfect competition and nominal price rigidity in the non-traded sector. The empirical evidence supports the main predictions of the model. 1997 Elsevier Science B.V.
+Keywords: Inflation; Openness; Imperfect competition; Price rigidity
+1. Introduction
+It is an empirical regularity that inflation performance is inversely related to trade openness in a broad cross-section of countries (Romer, 1993). A corollary is that the prevalence of trade liberalization schemes around the world in recent years may have important monetary consequences, lowering inflation rates in tandem with barriers to trade. This paper provides a framework that is helpful in understanding the role of openness in determining inflation. The conventional explanation of the influence of trade openness on inflation is that a more open country gains less from surprise inflation (and therefore inflates less) because it suffers more from the negative terms of trade effect of an expansion in domestic output (see Romer, 1993). This is a limited explanation
+because it applies only to countries large enough to affect the structure of
+1
+international relative prices.
+1If country A increases its tradable output relative to the rest of the world, and country A is large, the relative price of country A’s tradable output must fall to preserve equilibrium in world markets. If country A is small, however, the demand curve for its output is effectively horizontal. Of course, it is possible for a small country to have market power in a specialized niche of a world market but it is probably a fair approximation to identify size in world markets with the total size of an economy.
+0022-1996 / 97 / $17.00  1997 Elsevier Science B.V. All rights reserved PII S0022-1996(96)01442-0
+
+
+328 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+The first objective of this paper, then, is to provide an equilibrium relationship (from welfare microfoundations) between inflation and trade openness that holds even for an economy too small to affect international relative prices. The view of policy determination adopted in this paper runs along the lines of the timeconsistency literature initiated by Kydland and Prescott (1977) and Barro and Gordon (1983). According to this approach, absent an ability to precommit, actual inflation is increasing in the size of the incentive to unleash a surprise monetary expansion. To derive the gains from a surprise monetary expansion, and the sensitivity of these gains to openness, we develop a two-sector small open economy model. In the model, the non-traded sector faces a domestic market-clearing condition, is assumed to be monopolistic in market structure and face nominal rigidity in changing prices. Monopolistic production in the non-traded sector implies a level of non-traded output that is (socially) inefficiently low. For simplicity, we treat traded sector output as a constant endowment of a homogeneous good, which is a
+perfect substitute for foreign output, with its foreign currency price exogenously
+2
+determined on world markets. Money enters the utility function directly, in Sidrauski fashion. The government chooses monetary policy on welfare-based criteria. In this set-up, monetary policy has the following transmission mechanism. A
+surprise monetary expansion, given predetermined prices in the non-traded sector,
+3
+increases production of non-tradables. This expansion in non-traded output is socially beneficial because of the inefficient monopolistic underproduction in the non-traded sector in the no-shock equilibrium. The more open an economy, the smaller is the share of non-tradables in consumption and the less important is the correction of the distortion in that sector. Assuming the existence of a government that cares about social welfare, this generates an inverse relationship between openness and the incentive to unleash a surprise monetary expansion, even for a country too small to affect its terms of trade. In turn, this implies an inverse relationship between openness and the time-consistent discretionary inflation rate. In the second part of the paper, we build on the empirical work of Romer (Romer, 1993). We show that the inverse relationship between openness and inflation in a cross-section of countries is strengthened when country size is held constant, which is consistent with the small country explanation of the relationship that is advanced in this paper. This result is robust to the inclusion of additional determinants of inflation such as per capita income, measures of central bank independence and political stability and to alternative measures of trade openness. The model is based on the sketch of a small open economy model contained in
+2This assumption is not necessary for the results. See the discussion in Section 2. 3An anticipated change in monetary policy has no real effect, given forward-looking behavior on the part of price-setters.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 329
+the appendix to Obstfeld and Rogoff (Obstfeld and Rogoff, 1995). That model, however, lacks a welfare analysis and does not address government behavior or
+variation in openness across countries. Imperfect competition has been incorpo
+4
+rated into open-economy settings by a number of authors. The importance of open economy models that explicitly incorporate nominal rigidities is underlined by the
+fact that the behavior of open economies perhaps provides the strongest evidence
+5
+that nominal magnitudes affect real outcomes. Akerlof and Yellen (Akerlof and Yellen, 1985), Mankiw (Mankiw, 1985) and Blanchard and Kiyotaki (Blanchard and Kiyotaki, 1987) have previously highlighted the potential for monetary policy to raise welfare in a monopolistically competitive economy with nominally rigid prices. In Section 2, the model is laid out. Section 3 computes the welfare effects of a monetary shock and derives the relationship between this welfare effect and the degree of openness of the economy. In Section 4, the monetary policy problem of a welfare-maximizing government is analyzed and the time-consistent inflation rate is derived. In Section 5, the main prediction of the model is empirically investigated. Section 6 concludes.
+2. The model
+Our objective is to demonstrate the logic of the transmission mechanism described above in the simplest possible general equilibrium setting. The formal specification of the model is as follows. There is a unit mass of domestic agents. Each agent has monopoly rights over one variety of the non-tradable good. Agents have a love of variety in consumption of non-tradables. As such, the specification of the non-traded sector is similar to the set-up in Blanchard and Kiyotaki (Blanchard and Kiyotaki, 1987) and Ball and Romer (Ball and Romer, 1990). Each also receives a constant endowment of a homogeneous tradable good which is a perfect substitute for foreign-produced tradables, with a foreign currency price
+4Two-country (large-country) models have been developed by a number of authors (Aizenman, 1989; Svensson and Van Wijnbergen, 1989; Romer, 1993; Beaudry and Devereux, 1994, unpublished); Obstfeld and Rogoff, 1995). Small open economy models with a competitive traded sector and an imperfectly competitive non-traded sector have been developed by Dixon (Dixon, 1994) and DeGregorio and coworkers (DeGregorio et al., 1994a). The former is a static analysis, while the latter introduces a second distortion by assuming a monopoly union which maximizes an objective function that is not clearly based on welfare criteria. Closed-economy monetary models that allow market structure to differ across sectors include those of Blinder and Mankiw (Blinder and Mankiw, 1984) and Waller (Waller, 1992). 5The seminal contribution is Mussa (Mussa, 1986) (see also Clarida and Gali, 1994; DeGregorio et al., 1994b; Eichenbaum and Evans, 1995).
+
+
+330 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+6
+determined exogenously on world markets. Agents are free to borrow and lend from abroad at a constant real interest rate (defined in units of the traded good), which permits intertemporal substitution in consumption (and hence production). A dynamic framework is adopted to distinguish impact and long-run effects of monetary shocks, facilitate comparison with standard monetary models such as Dornbusch (Dornbusch, 1976) and allow a more comprehensive welfare analysis. We should emphasize that a similar analysis would obtain under alternative assumptions. In a previous version of this paper, agents were assumed to be immobile between sectors and traded output was endogenously determined.
+Another option would be to allow workers to be mobile across sectors, with a fixed
+7
+real wage. The precise specification in this paper is adopted to derive the theoretical results in the most transparent way. We first describe the consumption and production decision problems facing each agent. Next, we solve for a benchmark steady-state equilibrium. We analyze
+short-run and long-run adjustment to a monetary shock around this initial
+8
+equilibrium. In Section 3, we compute the welfare effects of a monetary shock and the sensitivity of this welfare calculation to the degree of openness of the economy. In Section 4, we exploit these calculations to provide a welfare-based model of government behavior and derive the time-consistent inflation rate.
+2.1. Consumption and production behavior
+The representative agent has the maximand
+` 12f
+m
+hd
+t
+te
+]] ] ]
+V 5Ob alogc 1 (1 2 a)logc 1 2 y ( j) (1)
+FG
+SD
+Nt Tt Nt
+12f p e
+ct
+t50
+where a,b [ (0,1), h, f, d . 0, e$ 1, c and c are consumption of non
+NT
+tradables and tradables, respectively, m is money holdings, p is the consumer
+c
+price index and y ( j) is production of jth variety of the non-tradable good. e2 1
+N
+is the elasticity of marginal disutility with respect to production. We define
+6This is the polar form of the condition that the elasticity of demand be larger in the traded sector than in the non-traded sector. Alogoskoufis (Alogoskoufis, 1990) estimates a two-sector model in which the non-traded sector is oligopolistic and the traded sector is competitive and finds that the model performs quite well in explaining the UK business cycle. 7See also Dixon (Dixon, 1994). Taking this approach would complicate the analysis by inducing fluctuations in tradable output and hence the current account, unless the real wage were fixed by a constant marginal disutility of work effort. 8We assume that effective nominal rigidity is present only in the non-tradable sector. Allowing nominal rigidity in the traded sector would not affect the main results. Adopting the polar case permits a clearer exposition of the qualitative forces driving the general equilibrium response to a monetary shock.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 331
+u
+1 u] 21
+u] 2u 1
+c ; Ec ( j)dj
+NN
+34
+0
+where c ( j) is consumption of the jth variety of non-tradable and the elasticity of
+N
+substitution between varieties of the non-tradable good u . 1. The consumer price
+a 12a a 12a
+index is defined as p ; p p /a 1 2 a where the price level for non
+sd
+c NT
+tradables
+1 1] 12u
+12u
+p ; Ep ( j)dj
+NN
+34
+0
+**
+and the domestic currency price of tradables p 5 Ep , where p is the
+TT T
+exogenously determined world price of the traded good and E is the nominal
+9*
+exchange rate. We normalize p 5 1.
+T
+The nominal exchange rate is assumed to follow a pure float and is subject to a no-speculative bubbles condition. We define the real exchange rate as the relative price of tradables to non-tradables q ; p /p . We could allow for productivity
+TN
+differences across sectors by having the parameter d vary between sectors but we make the simplification that productivity is identical across sectors (see Obstfeld and Rogoff, 1995). Only domestic agents hold domestic money. Real balances provide ‘services’ to agents and hence appear directly in the utility function. The dynamic budget constraint is
+p f 1 m 5 p (1 1 r) f 1 m 1 p y 1 p ( j)y ( j) 2 p c
+Tt t t Tt t21 t21 Tt T Nt Nt Tt Tt
+2 p c 1t (2)
+Nt Nt t
+where f are holdings of foreign assets, y is the constant endowment of the
+tT
+tradable good and t are transfers received from the government. The government
+t
+returns to the public the net revenues from printing money in the form of lump-sum transfers. Private agents, in standard fashion, do not link these transfers to money creation. The government budget constraint is
+c2
+]
+t 5 m 2 m 2 log(m ) 2 log(m ) (3)
+fg
+t t t21 t t21
+2
+The wedge between revenue from money creation and transfers paid to households reflects collection, administrative and lobbying costs in operating the seigniorage
+9Adopting a more general CRRA utility function would not change the qualitative analysis of the impact effect of monetary shocks. If the intertemporal elasticity of consumption is different from unity, monetary shocks also have long-run effects. If the intertemporal elasticity of consumption is less than unity, a surprise permanent monetary expansion generates a short-run current account surplus and a long-run real appreciation. If the elasticity is greater than one, the currrent account declines in the short-run and a long-run real depreciation occurs. These effects are interesting but we omit them here for the sake of clarity.
+
+
+332 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+system. This wedge is an increasing cost to printing money. p ( j) is a choice
+N
+variable, where the demand constraint is
+2u
+p (j)
+NA
+]]
+y ( j) 5 c (4)
+FG
+NN
+pN
+A
+where c is aggregate demand for non-tradables. In what follows, for any variable
+N
+ ̃
+x, define x ; dx /x where x is the value of x in the initial steady-state. Define
+00
+ˆ  ̃* *
+x ; x where dx is the steady-state change in a variable x. For simplicity, we assume equality of the discount rate and the world interest rate: b(1 1 r) 5 1. That is, agents choose a flat path for tradables consumption and, absent fluctuations in the income path, a zero current account balance. Agents maximize the present value of utility subject to the intertemporal budget constraint and the appropriate terminal condition. In the log utility case, the Euler equations linking periods t and t 1 1 are given by
+ ̃ ̃
+c 5 c (5)
+Tt11 Tt
+ ̃  ̃  ̃ ̃
+c 5 c 2 q 1 q (6)
+Nt11 Nt t t11
+That is, consumption of tradables is made smooth. The path of non-tradable consumption is tilted by fluctuations in the relative price of tradables to nontradables. Money demand is implicitly given by
+2f
+mR
+1 tt
+a( 1 2f)
+]] ] ]]
+c q h 5 (7)
+SD
+Tt
+12a p 11R
+Tt t
+where 1 1 R ; [ p (1 1 r)] /p is the (gross) nominal interest rate, where the
+t Tt11 Tt
+relevant price level is the price of tradables. Demand for real balances (in terms of the price of tradables) is increasing in consumption of tradables, with elasticity 1 /f, is falling in the nominal interest rate and is increasing (decreasing) in the real exchange rate according to whether the consumption elasticity of money demand is less than (greater than) unity. Each agent takes aggregate demand for nontradables as given. Equilibrium supply schedules, incorporating increasing demand for leisure as consumption increases, are given by
+11
+u21 a
+]]
+e211 A
+s ud u
+]] ]
+SD
+y 5 c (8)
+SD
+NN
+ud cN
+2.2. Flexible price equilibrium
+We focus on that symmetric steady state in which agents hold zero net foreign
+A
+asset positions as an appropriate benchmark. Symmetry implies c 5 c and a
+NN
+level of non-traded output
+]1
+a(u2 1) e
+]]]
+FG
+y 5 (9)
+N ud
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 333
+Non-traded output is increasing in u, the degree of competition in that sector. The competitive level of output would be
+1
+a ]e
+]
+y 5S D
+Nd
+That is to say, the output of non-traded goods is too low, by virtue of the monopoly distortion in that sector. The real exchange rate is given by
+y
+12a N
+]] ]
+*S D
+q 5 (10)
+SD
+a yT
+*
+From Eqs. (9,10), the steady-state real exchange rate q is decreasing in u, e, yT and a.
+2.3. Sticky-price adjustment to a monetary shock
+10
+To analyze monetary shocks, we log-linearize around this steady state. We
+assume that non-tradable prices are predetermined at the beginning of each
+11
+period. It follows that full adjustment to a shock in period t is completed at the beginning of period t11. We can write the postshock steady-state proportional change in consumption levels as
+df
+ˆ ]ˆˆ
+c 5 (1 2 a) r 1 y 2 q (11)
+SD
+TN
+cT0
+ˆˆˆ
+c 5 c 1 q (12)
+NT
+Steady-state consumption of tradables increases in proportion to the steady-state increase in the value of non-traded output plus the steady-state increase in income from holdings of foreign assets. Steady-state consumption of non-tradables increases by more (less) than the steady-state increase in tradables if the steadystate real exchange rate depreciates (appreciates). The proportional change in non-tradable output in the postshock steady state is
+10We consider the experiment of an unanticipated permanent change in the money stock (see Dornbusch, 1976). Given the one-period duration of price stickiness and Eqs. (3,7), the government would always prefer a surprise permanent increase in the money stock to a similar temporary increase or an increase in the growth rate of the money supply. The increase in money is introduced into the economy via increased government transfers to citizens. 11We assume symmetry among non-tradable producers and do not allow for propogation mechanisms such as staggered pricing or idiosyncratic shocks which would generate dynamic responses simply by virtue of the price-setting structure. We could allow for a state-dependent pricing option (firms pay a menu cost to change prices within a period) and then the analysis would apply only to that range of monetary shocks that do not trigger immediate adjustment. The government would take that constraint into account in making monetary policy decisions.
+
+
+334 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+]1 ˆ ˆ
+SD
+e2 1 1 y 5 2 c (13)
+NN
+u
+Money demand moves according to
+1
+ˆ]
+ ̃  ̃  ̃ ̃
+c 2 fm 1 [a(1 2 f) 1 f]p 5 (p 2 p ) (14)
+Tt t Tt Tt11 Tt
+r
+ ̃
+(given that p 5 0). Given the specification of the nominal rigidity, the steady
+N
+state after a shock in period t is attained in period t11. This means we can replace t11 period variables by their steady-state values in the above equations. In the new steady-state
+ˆ ˆˆ ˆ
+c 2 f(m 2 p ) 1 [a(1 2 f)]q 5 0 (15)
+TT
+Within the period in which non-traded prices do not adjust, non-tradable output is
+12
+demand-determined. It follows that short-run change in non-tradable output is given by
+ ̃N  ̃
+y 5 c (16)
+NN
+Finally, adjustment in external assets is given by
+d]f  ̃
+5 2 c (17)
+T
+cT0
+These equations determine the solution to the model. The driving variable in the model is the exogenously given money stock. As noted above, given b(1 1 r) 5 1, agents desire a flat profile for traded-goods consumption. With a constant endowment of tradable output and zero initial net foreign assets, this implies c 5 y and a zero trade balance each period. From
+TT
+market-clearing in the non-traded sector and Eq. (12), it also follows that the short-run (long-run) level of non-tradable output and consumption changes proportionally to the short-run (long-run) change in the real exchange rate. However, in the new steady state, non-tradable output must also satisfy the supply equation (Eq. (13)), which implies the long-run change in non-tradable output and consumption is zero. In turn, this implies the long-run change in the real exchange rate must be zero. That is to say, the economy reverts to its initial steady state once full adjustment to the shock takes place: there is long-run output neutrality with respect to monetary shocks. However, in the short-run, output and consumption of non-tradables increases  ̃ ̃
+by the amount of the short-run real depreciation q. It remains to determine q. Because tradables consumption remains unchanged, we can write short-run and steady-state money market equilibrium conditions as
+12Non-traded producers are pricing above marginal cost and therefore do not make a loss on the extra output.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 335
+ˆ ˆˆ
+fm 5 [a(1 2 f) 1 f]p 2 [a(1 2 f)]p (18)
+TN
+11
+ˆ ] ]ˆ
+F G ̃
+fm 5 a(1 2 f) 1 f1 p 2 p (19)
+TT
+rr
+We can rewrite Eq. (18) so that the long-run change in the domestic currency price of the traded good (which is the long-run change in the nominal exchange rate) is a function of the change in the money stock and the long-run change in the real exchange rate
+a(1 2 f)
+ˆ ˆ ˆ ]]] ˆ
+E 5 p 5 m 2 q (20)
+FG
+Tf
+ˆ
+We know that the long-run change in the real exchange rate q is zero which
+ˆˆ ˆ
+implies E 5 p 5 m. That is to say, in the long-run, money supply changes fully
+T
+pass through to the nominal exchange rate. Given short-run rigidity in the price of non-tradables, short-run real depreciation equals the short-run nominal deprecia ̃ ̃
+tion of the exchange rate (i.e. q 5 p ) and we can rewrite Eq. (19) as
+T
+1 1 rf ˆ
+ ̃ ]]]]]] ˆ ˆ
+ ̃ ̃
+E 5 q 5 p 5 m ; Sm 5 SE (21)
+HJ
+T 1 1 r[f1 a(1 2 f)]
+ˆ
+ ̃
+where S . 0. Overshooting (S . 1, E . E ) occurs if the inverse of the consump
+ˆ
+ ̃
+tion elasticity of money demand f. 1; there is undershooting (S , 1, E , E ) if
+f, 1; and the nominal exchange rate jumps immediately to its new long-run level
+13
+ˆ
+ ̃
+if f5 1 (i.e. S 5 1, E 5 E ). It is interesting to note that the size of the depreciation (and the expansion in non-traded output) is increasing in f. If the nominal overshooting condition holds, the size of the depreciation is decreasing in openness; if the condition for nominal undershooting holds, the size of the depreciation is increasing in the openness of the economy. Finally, in this set-up, a surprise temporary monetary expansion gives qualitatively similar results. The difference is that the depreciation (and expansion in non-traded output) is smaller in the temporary case. In summary, an unanticipated permanent increase in the money stock generates a short-run expansion in non-traded output, owing to nominal price rigidity in the non-traded sector. The current account does not change. Both real and nominal depreciation occurs in the short-run. After one period, non-tradables prices adjust and the only permanent effect of the monetary shock is a proportionate increase in the price level and the nominal exchange rate. In the model, the perfect substitutability of domestic and foreign tradables rules out price stickiness in the traded sector. The model could easily incorporate price
+13See also the appendix to Obstfeld and Rogoff (Obstfeld and Rogoff, 1995). This is the same condition as in Dornbush (Dornbusch, 1976): here the short-run elasticity of non-traded output with respect to the real exchange rate is fixed at unity.
+
+
+336 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+stickiness in the tradables sector: the comparative results with respect to openness would hold so long as there is price stickiness in the non-traded sector and the non-traded sector is relatively more distorted than the traded sector. We turn now to welfare analysis. In Section 3, we calculate the gains to a surprise monetary expansion and show how these gains vary with openness. In Section 4, we then provide a model of government behavior and derive the time-consistent inflation rate as a function of openness.
+3. Welfare
+Following Obstfeld and Rogoff (Obstfeld and Rogoff, 1995), we can decompose welfare changes into ‘real’ and ‘monetary’ parts dV 5 dV 1 dV , where dV refers
+RM R
+to the welfare effect of changes in consumption and work effort and dV to the
+M
+14
+welfare effect of changes in real balances. We can write
+e
+ ̃ ̃  ̃
+dV 5 1 2 a c 1 ac 2 dy y
+s d sd
+R T N N0 N
+(22)
+be
+]] ˆ ˆ ˆ
+1 1 2 a c 1 ac 2 dy y
+fs d s d g
+T N N0 N
+12b
+12f ˆ  ̃
+dV 5 h(m /p ) (m 2 p ) (23)
+M c0 c
+In the expression for dV , the expression in square brackets is zero, from the
+R
+long-run neutrality of a monetary shock. We also know tradables consumption does not change even in the short-run and that the short-run change in nontradables production and consumption equals the rate of short-run real depreciation. This allows us to write
+aa
+]ˆ ] ˆ ˆ
+dV 5 q 5 Sm ; Lm,
+R u u (24)
+≠L ≠L
+]]
+L . 0, . 0, , 0
+≠a ≠u
+In words, the larger is the share of non-tradables in consumption, a, and the more distorted is the non-traded sector (the smaller is u), the bigger is the net welfare gain from the increase in production and consumption of non-tradables that is induced by a surprise monetary expansion.
+ ̃ ̃
+We turn next to the real balance component of utility. From p 5 (1 2 a)p and
+cT
+Eq. (21), we can write the proportional change in real balances as
+14Dixon (Dixon, 1994) performs welfare analysis for a static economy but does not consider the welfare effect of variation in openness.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 337
+(1 1 r)a ≠T
+ˆ ]]]]]] ˆ ˆ ]
+ ̃
+m 2 p 5 m ; Tm . 0 (25)
+HJ
+c ≠a
+1 1 r[f(1 2 a) 1 f]
+This implies that we can rewrite Eq. (23) as
+12f
+]m ˆ
+dV 5 h Tm . 0 (26)
+SD
+M pc 0
+Real balances rise because prices adjust less than proportionally to the increase in the money stock. The importance of this positive real balance effect to overall welfare depends on the weighting factor h and the marginal utility of real balances. Consider the special case of a unitary consumption elasticity of money demand (f5 1) and normalize tradable consumption (output) so that initial real balances are unity. In this case, we can write the overall welfare change from a surprise monetary expansion as an increasing function of the share of non-tradables in consumption a
+a (1 1 r)a ≠b
+] ]]]] ˆ ˆ ]
+dV 5 1 h m ; b(a; u, r, h)m . 0 (27)
+FG
+u ≠a
+2 1 r(1 2 a)
+4. Government behavior
+To determine equilibrium inflation, we now analyze the government’s problem. We assume the government desires to maximize the welfare of the representative agent, Eq. (1), subject to the constraints, Eqs. (2,3). Given that all inflation is anticipated in equilibrium, it would like to commit to a constant money stock
+15
+policy. However, in the absence of an effective commitment device, the government would face an incentive to renege on this policy because a surprise monetary expansion is welfare enhancing. The net gain to a surprise permanent increase in the money stock in any period t is given by
+c
+e2
+]
+G 5 b a log m 2 log m 2 log m 2 log m (28)
+s df s dg
+s d f s d s dg
+t t t t t21
+2
+The first term is the gain to a surprise permanent expansion in the money stock, from Eq. (26). The coefficient b is increasing in the share of non-tradables in
+16
+consumption a. The second term represents the costs of changing the money
+15We assume the costs of changing the money supply in Eq. (3) are sufficiently high that a constant money stock is the first-best solution. 16From Eqs. (24,26), it is clear that the gain to a surprise monetary expansion is increasing in a even in the case when the consumption elasticity of money demand and initial real balances are different from unity.
+
+
+338 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+17 e
+supply, from Eq. (3). Atomistic private agents form expectations m knowing the
+t
+structure of the government’s maximization problem. This set-up is similar in reduced form to the game analyzed in Barro and Gordon (Barro and Gordon, 1983). The time-consistent process for the money stock is given by
+b(a)
+]]
+log m 5 1 log m (29)
+sd s d
+t t21
+c
+which implies a steady-state inflation rate
+*
+b(a) ≠p
+]] ]]
+p* 5 , . 0 (30)
+c ≠a
+In the absence of an effective commitment technology, this is the actual inflation that will prevail. Notice that there are no actual gains to inflation in this equilibrium as all inflation is anticipated and hence generates only costs. However, the greater are the potential gains to surprise inflation (i.e. the larger is the non-tradable share a), the higher is actual inflation in this equilibrium. This predicts an inverse relationship between inflation and openness in a cross-section of countries, if we rule out an ability to precommit. We test this prediction in the next section.
+5. Empirical analysis
+The proposition that an inverse relationship exists between openness and average inflation is tested in this section. In the model developed above, such a prediction emerges. The empirical equation we estimate is of the form
+log(p) 5 a1 b X 1 b S 1gZ 1 u (31)
+i 1 i 2i i i
+where p is country i’s average inflation rate (in logs) over 1973–1988, X is the
+ii
+share of imports in GDP, S is total GDP and Z is a set of control variables. We
+ii
+measure average inflation over a long time interval because we are not claiming that openness explains the cyclical behavior of inflation. Moreover, we built the theoretical model with the share of non-tradables in consumption a as a parameter, so the model is better suited to explaining cross-country differences than the
+change in inflation performance over time within a country as the level of trade
+18
+openness changes.
+17A surprise permanent increase in the money stock does not raise the expected steady-state rate of inflation and so does not depress the steady-state level of real balances (See also Calvo and Guidotti, 1990). 18It would be interesting to extend the model to address this dynamic problem. So long as trade openness changes are exogenous to the inflation process, the necessary transformation should be comparatively straightforward.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 339
+Following Romer (Romer, 1993), we use the logarithm of the inflation rate because of the presence of a number of very high inflation data points in the
+sample. X proxies for a country’s trade openness or the share of tradables in
+i 19
+consumption. It follows that X is inversely related to the variable a in the model
+i 20
+and so we predict b to be negative. S is intended to proxy for a country’s
+ii
+economic size. The model we developed assumed a country was of negligible size in world markets. For a given level of openness, the larger is an economy, the
+more the terms of trade channel discussed in the introduction reduces the benefits
+21
+of a surprise monetary expansion. Because openness and size are correlated variables in the data, omitting size from the regression would introduce a bias into the estimation of the effect of openness on size, in the direction of understating the true contribution of openness in reducing inflation. We expect b to be negative,
+2
+reflecting the terms of trade effect. The set of control variables Z is included because the model developed in this
+i
+paper does not claim to be a complete account of steady-state inflation determination. For instance, for any level of openness, a government may choose to inflate in order to obtain seigniorage revenues to finance government spending. We assume this is more likely the poorer is a country (perhaps because there is a fixed
+Table 1 Summary statistics
+Statistic Mean / SD/ Median Full sample OECD
+Inflation Mean 17.3 10.9 SD 24 8 Median 10.7 8.9 Openness Mean 37.1 32.3 SD 23.8 16 Median 32.5 30 GDP per capita (thousands) Mean 3790.0 8246.9 SD 4155.7 2406.4 Median 2000 8885 GDP (billions) Mean 94.8 304.5 SD 29.2 58 Median 13.65 81.65
+Source: Romer (Romer, 1993) data set, provided by author. National accounts data are from the ‘International Financial Statistics’ of the IMF. Inflation is measured as the average annual change in the log GDP or GNP deflator over 1973–1988. For some countries the change in log CPI is used. Dummies are included in the regression to control for the different measures of inflation. One hundred and fourteen countries. Openness measure is the average imports / GDP ratio over 1973–1988. GDP figures are in US dollars.
+19Imports / GDP is a good measure of the share of tradables in consumption if, for example, consumers have a love of variety in tradables. We use an alternative measure of openness later in the paper. 20From Eq. (27), the size of the coefficient on openness should be larger, the more distorted is the non-traded sector (i.e. the smaller is u). We do not have the data to test this prediction of the model. 21A terms of trade effect could be incorporated into the model by endogenizing tradable output and allowing sticky prices and market power in the tradable sector.
+
+
+340 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+cost to building a tax system) and the more politically unstable is a country (an unstable government may have higher spending needs or may discount the inflationary effects of budget deficits). To control for these effects, per capita income and a measure of political instability are included in some of the regressions. The model also assumed the absence of any commitment technologies on the part of the government. For a given discretionary inflation rate, the presence of such a commitment technology can reduce the equilibrium inflation rate. For this reason, measures of central bank independence, which represents one such commitment technology, are included in some of the regressions. 22
+The data cover 114 countries and are a cross-section over 1973–1988. Summary statistics on inflation and some key country characteristics are presented in Table 1 for the full sample and for the OECD group of countries. The simple correlation between openness and inflation, for both the full sample and the OECD, is negative (20.213 and 20.154, respectively) and openness and GDP are also negatively correlated (20.247 and 20.491). The latter negative correlation is
+twice as strong for the OECD as for the full sample, reflecting the greater
+23
+incidence of policy-induced closedness in the non-OECD economies. In Table 2, we report results for the full sample. In column 1, the relationship between openness and inflation, controlling only for country size, is estimated. The coefficient on openness is negative and highly significant. That country size is itself significant is consistent with the existence of a terms of trade effect. These results do not change if we add per capita income as an extra regressor (see column 2). Columns 3 and 4 introduce measures of central bank independence: an index of central bank independence (bank), and the average annual number of changes in the chief executive of the central bank (turnover), developed by Cukierman and coworkers (Cukierman et al., 1992). Column 5 introduces a measure of political instability, the average annual number of revolutions and coups (revcoups). In column 6, turnover and revcoups are entered jointly. With the exception of column 5, the coefficient on openness is raised in each case. We note that governor turnover and revolutions and coups also are significant in determining inflation outcomes. In column 6, turnover and revcoups are entered jointly: of these, only turnover remains significant. This reflects the fact that central bank governors are more likely to have a short tenure in office, the more politically
+unstable is a country. Finally, in column 7, we exclude countries with average
+24
+inflation rates above 60%. The results are essentially similar to column 2, indicating the estimates are not being driven by outliers.
+22I thank David Romer for generously providing his data set. 23Using total imports instead of total GDP as the measure of size on international markets gives closely similar results. The correlation between total imports and total GDP is 0.89 for the full sample and 0.9 for the OECD. 24These countries are Argentina, Bolivia, Brazil and Israel. Similar results are obtained, even dropping all countries with inflation rates above 20%.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 341
+Table 2
+Openness and inflation
+(1) (2) (3) (4) (5) (6) (7)
+Constant 20.33 (0.72) 20.33 (0.54) 1.96 (1.3) 20.15 (1.03) 21.25 (0.74) 20.42 (0.8) 2.18 (0.56)
+Openness 21.31 (0.3) 21.41 (0.35) 22.5 (0.64) 22.09 (0.49) 21.14 (0.35) 22.03 (0.4) 21.28 (0.26)
+Log income per capita 0.04 (0.08) 0.11 (0.13) 0.18 (0.1) 0.14 (0.08) 0.21 (0.09) 0.03 (0.06)
+Log income 20.08 (0.04) 20.1 (0.05) 20.23 (0.08) 20.19 (0.06) 20.1 (0.05) 20.19 (0.06) 20.11 (0.04)
+Bank 20.39 (0.88)
+Turnover 2.65 (0.53) 2.53 (0.48)
+Revcoups 1.04 (0.3) 0.36 (0.5)
+2
+ ̄
+R 0.12 0.12 0.19 0.44 0.19 0.43 0.18
+NOBS 114 114 63 62 112 62 110
+Data are from Romer (Romer, 1993). The dependent variable is log inflation 1973–1988. Robust standard errors in parentheses. Data dummies to capture
+variation in data measurement not reported. Bank is central bank independence index over 1980–1989. Turnover is turnover rate of the central bank governor.
+Both measures are taken from Cukierman and coworkers (Cukierman et al., 1992). Revcoups is mean number of revolutions and coups per year, from Barro
+and Wolf (Barro and Wolf, 1989, unpublished). Openness is measured as imports / GDP. Column (7) drops four high-inflation countries: Argentina, Bolivia,
+Brazil and Israel.
+
+
+342 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+Table 3 Rich country sample
+(1) (2) (3) (4)
+Constant 3.54 (1.5) 8.3 (9.8) 4.9 (7.2) 2.5 (6.3) Openness 22.35 (0.8) 20.1 (0.8) 22.3 (0.8) 22.5 (0.72) Log income per capita 21.2 (1.1) 20.16 (0.8) 0.16 (0.73) Log income 20.29 (0.07) 20.29 (0.08) 20.29 (0.07) Bank 21.2 (0.52)
+R ̄ 2 0.48 20.05 0.44 0.58 NOBS 18 18 18 18
+Data are from Romer (Romer, 1993). The dependent variable is log inflation 1973–1988. Robust standard errors in parentheses. Data dummies not reported. Bank is central bank independence index. Openness is measured as imports / GDP. See the notes to Tables 1 and 2 for data sources.
+We turn now to an examination of inflation determination in the industrialized
+nations. In Table 3, inflation determination is examined for the 18 country
+25
+subsample selected by Romer. In column 1, the relationship between openness and inflation is examined, holding fixed country size. As in the full sample, openness is significantly negative (the t-statistic is 22.94). In column 2, for purposes of comparison, we report the Romer regression that omits country size. The significance of openness, once country size is controlled for, is robust to the inclusion of per capita income and central bank independence as additional regressors (see columns 3 and 4). The results on openness and country size are even stronger for this subsample than for the whole sample. In Table 4, all the OECD countries are included. The results are basically similar to those in Table 3.
+Table 4 OECD sample
+(1) (2) (3) (4)
+Constant 4.75 (1.63) 6.86 (2.22) 9.68 (1.88) 10.63 (1.68) Openness 23.03 (0.81) 20.3 (0.6) 22.2 (0.69) 22.24 (0.6) Log income per capita 21.02 (0.25) 20.75 (0.21) 20.80 (0.18) Log income 20.34 (0.08) 20.25 (0.07) 20.25 (0.06) Bank 21.18 (0.43)
+R ̄ 2 0.43 0.41 0.64 0.73 NOBS 24 24 24 24
+Data are from Romer (Romer, 1993). The dependent variable is log inflation 1973–1988. Robust standard errors in parentheses. Data dummies not reported. Bank is central bank independence index. Openness is measured as imports / GDP. See the notes to Tables 1 and 2 for data sources.
+25The countries (listed in order of 1980 per capita income) are the United States, Canada, Norway, Luxembourg, Switzerland, Germany, France, Denmark, Japan, Iceland, Belgium, the Netherlands, Sweden, Finland, Australia, Austria, the United Kingdom and New Zealand.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 343
+Table 5
+The Lee Measure: full sample
+(1) (2) (3) (4) (5) (6)
+Constant 21 (0.3) 0.45 (0.8) 0.56 (0.8) 3 (1.4) 1.01 (1.3) 20.53 (0.8)
+Freeop 24.5 (1.1) 24.8 (1) 25.8 (1.5) 27.4 (2) 23.1 (1.3) 25 (1.3)
+Log income per capita 0.14 (0.1) 0.22 (0.7) 0.07 (0.1) 0.25 (0.1)
+Log income 20.08 (0.04) 20.14 (0.06) 20.28 (0.09) 20.14 (0.07) 20.15 (0.05)
+Bank 20.02 (0.7)
+Turnover 2.7 (0.5)
+Revcoups 1.2 (.4)
+2
+ ̄
+R 0.17 0.2 0.21 0.28 0.48 0.33
+NOBS 86 86 86 52 51 86
+Data are from Romer (Romer, 1993). The dependent variable is log inflation 1973–1988. Robust standard errors in parentheses. Data dummies not reported.
+Bank is central bank independence index. Turnover is governor turnover measure. Revcoups is revolutions and coups index. Freeop is measure of natural
+openness, from Lee (Lee, 1993). See the notes to Tables 1 and 2 for other data sources.
+
+
+344 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+As was pointed out by Romer, it might be objected that: (1) openness is itself an endogenous variable and is chosen jointly with the inflation policy; and (2) openness and inflation may be mechanically linked via budgetary effects: e.g. a more open economy is more able to substitute import tariffs for the inflation tax in financing public spending. In Table 5 and Table 6, we report estimation of the inflation equations for the full sample and the OECD, where Lee’s (Lee, 1993)
+constructed measure of ‘natural openness’ (freeop) is used as the measure of trade
+26
+openness. This variable can be interpreted as a policy-independent measure of openness and, as such, can help in rejecting the alternative hypothesis that openness and inflation are linked because countries that are likely to have high inflation have a high probability of also adopting protectionist trade policies. The results in Table 5 and Table 6 also generally support the inverse relationship between openness and inflation, which is inconsistent with the ‘endogenous openness’ hypothesis. In tackling the budgetary explanation, Romer noted that both tariffs and seigniorage are both much more important sources of revenue for poor countries than for rich ones. It follows that the importance of openness should be declining in the wealth of a country if the budgetary explanation is important. As in Romer (Romer, 1993), a regression containing an interaction term between openness and per capita income (not reported) in fact turns out to be negative and insignificant, rejecting this hypothesis. An alternative budgetary channel predicts an inverse relationship between openness and inflation on the basis of a greater elasticity of
+Table 6 The Lee measure: OECD
+(1) (2) (3) (4) (5)
+Constant 22 (0.5) 2.4 (2) 8.5 (1.1) 8.9 (0.9) 12 (3) Freeop 21.7 (1.6) 23.4 (1.6) 21.9 (0.8) 21.4 (0.8) 22.5 (0.9) Log income per capita 20.06 (0.06) 21.1 (0.1) 21.4 (0.3) Log income 20.21 (0.09) 21 (0.1) 20.04 (0.06) 20.04 (0.06) Bank 20.9 (.4) Turnover 22.5 (1.7)
+R ̄ 2 0.01 0.19 0.69 0.76 0.72 NOBS 21 21 21 21 21
+Data are from Romer (Romer, 1993). The dependent variable is log inflation 1973–1988. Robust standard errors in parentheses. Data dummies not reported. Bank is central bank independence index. Turnover is governor turnover measure. Freeop is measure of natural openness, from Lee (Lee, 1993). See the notes to Tables 1 and 2 for other data sources.
+26 Lee (Lee, 1993) regresses imports / GDP on log (area), log (distance), log (11tariff rate) and log (11black market premium), for a sample of 79 countries in 1985. Area is a country’s physical area. Distance is a measure of distance from major world markets. FREEOP is constructed as the fitted value from the policy free variables in this regression. That is, FREEOP 5 0.528 2 0.026log (area) 2 0.095log (dist).
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 345
+money demand with respect to inflation in more open economies, reducing the optimal seigniorage rate. As Romer notes, the empirical evidence rejects a strong influence of openness on money demand, as documented by Fair (Fair, 1987) and Driscoll and Lahiri (Driscoll and Lahiri, 1983). This evidence, together with the insignificance of the interaction term between openness and per capita income, rules out the budgetary hypothesis as an important component of the opennessinflation relationship. Finally, it would be desirable to have some direct evidence on a key assumption of this paper that trade openness and the degree of imperfect competition in an economy are inversely related. Unfortunately, to this author’s knowledge, such a study has not been conducted. A potentially fruitful research project would be to extend Hall’s (Hall, 1986) study to a cross-country framework.
+6. Conclusions
+In this paper, we have developed an explicit general equilibrium model of the small open economy with a monopolistic distortion and nominal price rigidity in the non-traded sector. We analyzed the welfare effect of a monetary shock in this model economy and provided a welfare-based model of government behavior, in order to generate the time-consistent inflation rate. We showed that the gains to surprise monetary expansion, and hence the incentives to inflate, are lower in a more open economy, even in an economy too small to affect international relative prices. Remove an ability to precommit, and these results have implications for inflation outcomes. Using cross-country data on average inflation, we found considerable support for these propositions and their quantitative significance. Importantly, the openness effect is strengthened when country size is included as a control variable, which suggests that openness is not just working through a terms of trade effect. The strength of the empirical evidence suggests trade openness should be taken seriously as a determinant of average inflation over the long-run. In Lane (Lane, 1995, unpublished), we find that more open economies are more likely to have pegged exchange rates, which offers further support for the openness–inflation relationship, given that the ability to commit to an exchange rate peg is a decreasing function of the gains to surprise inflation.
+Acknowledgments
+This paper is based on chapter 1 of my dissertation at Harvard. I am grateful to my thesis committee of Jeffrey Sachs, Alberto Alesina and Aaron Tornell for their help and encouragement. David Romer kindly provided data. I also thank two anonymous referees and seminar participants at Brown, Chicago, Columbia,
+
+
+346 P.R. Lane / Journal of International Economics 42 (1997) 327–347
+Dartmouth, Harvard, NYU, the World Bank and the 1995 Tokyo Econometric Society Meetings. All errors are my own.
+References
+Aizenman, J., 1989. Monopolistic competition, relative prices, and output adjustment in the open economy. J. Int. Money Finance, 8, 5–28. Akerlof, G. and Yellen, J., 1985. A near rational model of the business cycle, with wage and price inertia. Q. J. Econ., 100, 823–838. Alogoskoufis, G., 1990, Traded goods, competitiveness and aggregate fluctuations in the United Kingdom. Econ. J., 100, 141–163. Ball, L. and Romer, D., 1990. Real rigidities and the nonneutrality of money. Rev. Econ. Stud., 57, 183–203. Barro, R. and Gordon, D., 1983. Rules, discretion and reputation in a model of monetary policy. J. Monetary Econ., 12, 101–120. Barro, R. and Wolf, H., 1989. Data appendix for economic growth in a cross section of countries. National Bureau of Economic Research (unpublished). Beaudry, P. and Devereux, M., 1994. Monetary policy and the real exchange rate in a price setting model of monopolistic competition. University of British Columbia (unpublished). Blanchard, O. and Kiyotaki, N., 1987. Monopolistic competition and the effects of aggregate demand. Am. Econ. Rev., 77, 647–666. Blinder, A. and Mankiw, N.G., 1984. Monetary policy in a multisector economy. J. Monetary Econ., 13, 100–140. Calvo, G. and Guidotti, P., 1990. On the flexibility of monetary policy: the case of the optimal inflation tax. Rev. Econ. Stud., 60, 667–687. Clarida, R. and Gali, J., 1994. Sources of real exchange rate fluctuations: how important are nominal shocks? Carnegie–Rochester Conf. Ser. Public Policy, 41, 1–56. Cukierman, A., Webb, S. and Neyapti, B., 1992. Measuring the independence of central banks and its effects on policy outcomes. World Bank Econ. Rev., 6, 353–398. DeGregorio, J., Giovannini, A. and Krueger, T., 1994. The behavior of nontradables prices in Europe: evidence and interpretation. Rev. Int. Econ., 2, 284–305. DeGregorio, J., Giovannini, A. and Wolf, H., 1994. International evidence on tradables and nontradables inflation. Eur. Econ. Rev., 38, 1225–1245. Dixon, H.D., 1994. Imperfect competition and open economy macroeconomics. In: F. van der Ploeg (Editor), Handbook of International Macroeconomics. Basil Blackwell, Oxford, pp. 31–61. Dornbusch, R., 1976. Expectations and exchange rate dynamics. J. Polit. Econ., 84, 1161–1176. Driscoll, M.J. and Lahiri, A.K., 1983. Income-velocity of money in agricultural developing economies. Rev. Econ. Stat., 65, 393–401. Eichenbaum, M. and Evans, C., 1995. Some empirical evidence on the effects of monetary policy shocks on exchange rates. Q. J. Econ., 110, 975–1010. Fair, R.C., 1987. International evidence on the demand for money. Rev. Econ. Stat., 69, 473–480. Hall, R., 1986. Market structure and macroeconomic fluctuations. Brookings Papers Econ. Activity, 2, 285–322. Kydland, F. and Prescott, E., 1977. Rules rather than discretion: the inconsistency of optimal plans. J. Political Econ., 85, 473–492. Lane, P.R., 1995. Determinants of exchange rate regimes, 1982–91. Columbia University (unpublished). Lee, J.-W., 1993. International trade, distortions and long-run economic growth. Int. Monetary Fund Staff Papers, 40, 299–328.
+
+
+P.R. Lane / Journal of International Economics 42 (1997) 327–347 347
+Mankiw, N.G., 1985. Small menu costs and large business cycles: a macroeconomic model of monopoly. Q. J. Econ., 100, 529–537. Mussa, M., 1986. Nominal exchange rate regimes and the behavior of real exchange rates: evidence and interpretation. Carnegie–Rochester Conf. Ser. Public Policy, 25, 117–214. Obstfeld, M. and Rogoff, K., 1995. Exchange rate dynamics redux. J. Political Econ., 103, 624–660. Romer, D., 1993. Openness and inflation: theory and evidence. Q. J. Econ., 108, 870–903. Svensson, L. and van Wijnbergen, S., 1989. Excess capacity, monopolistic competition, and international transmission of monetary disturbances. Econ. J., 99, 785–805. Waller, C., 1992. The choice of a conservative central banker in a multisector economy. Am. Econ. Rev., 82, 1006–1012.

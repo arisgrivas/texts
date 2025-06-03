@@ -1,0 +1,1856 @@
+Working Paper No. 86/04
+News from London: Greek Government Bonds on the London Stock Exchange, 1914-1929
+Olga Christodoulaki
+&
+Jeremy Penzer
+© Olga Christodoulaki & Jeremy Penzer Department of Economic History London School of Economics
+November 2004
+
+
+Department of Economic History London School of Economics Houghton Street London, WC2A 2AE
+Tel: +44 (0) 20 7955 7860 Fax: +44 (0) 20 7955 7730
+
+
+News from London: Greek Government Bonds on the London Stock
+Exchange, 1914-1929*
+Olga Christodoulaki &Jeremy Penzer
+Abstract
+Statistical analysis of Greek sovereign debt denominated in gold and traded on the London Stock Exchange from the outbreak of the First World War until the advent of the Great Depression is employed to explore the way that historical events including political and institutional changes shaped investors’ expectations of the capacity of the Greek government to honour its debt obligations. No a priori specification of important dates is made. Military defeat and its aftermath exerted a strong negative impact on the value of Greek sovereign debt. The statistical analysis shows that investors acted upon news of public debt, fiscal performance and money supply. Unforeseen political events also influenced bondholders’ expectations over future payments. By contrast, institutional innovations such as the adoption of the Gold Exchange Standard and the establishment of a central bank de novo did not produce any quantitative market response. Stabilisation and the concomitant institutional reforms however, were factored into the market price of Greek sovereign debt traded in London.
+*This work has benefited considerably from the thorough and astute comments of Nicholas F.R. Crafts and William P. Kennedy. Thanks are also due to Stephen Broadberry, Gregory Clark, Anthony Courakis and James Foreman-Peck whose suggestions helped to improve our work. An earlier and shorter version of this article was presented to the Fourth Conference of the European Historical Economics Society, Merton College, Oxford, 21st-23rd September 2001 and the Economic History Workshop, Department of Economics, University of Warwick, 26th April 2002. We are indebted to the participants in these meetings for their questions. Olga Christodoulaki is grateful to the librarians at Guildhall Library, the City of London for their help and hospitality while undertaking research there. Particular thanks go to Phyllida Melling for recommending ‘The Extracts’ of the Council of the Corporation of Foreign Bondholders. Responsibility for any remaining errors is, of course, accepted by the authors.
+1
+
+
+1. Introduction
+‘Greece has always lived beyond her resources’.1 Not only has she
+borrowed heavily but by 1932 she had defaulted on her sovereign debt four
+times.2 As a consequence the country experienced financial embargoes,
+foreign intervention into its monetary policy and control of its fiscal revenues.
+A Byzantine relationship arose between Greek governments and foreign
+financial markets, making an historical examination of the way that market
+prices of Greek government bonds fluctuated even more compelling.
+The aim of this paper is to explore the way that historical events
+including political and institutional changes shaped investors’ expectations of
+the capacity of the Greek government to honour its debt obligations. The
+underlying assumption is that information that affects a security's expected
+pay-off is incorporated into its price.3 Hence, this work contributes to a
+recently growing literature which combines historical data with statistical
+evidence, to study the way that news interacts with capital markets to
+determine asset prices.4
+Four time series of Greek government loans denominated in gold and
+traded on the London Stock Exchange, have been constructed to
+demonstrate movements in the price of Greek government bonds on the
+London market. Three of the time series, that of the Monopoly Loan, the
+1 Leontaritis, Greece and the First World War, p.195. 2 In 1827, 1843, 1893 and 1932. 3 Willard, Guinnane and Rosen, "Turning Points in the Civil War," p. 1002. See also Fama, "Efficient Capital Markets". 4 Brown Jr, Burdekin, and Weidenmier, "Consols, Financial Stability"; Frey and Waldenstrom, "Markets Work in War"; Oosterlinck, "The Bond Market and the Legitimacy of Vichy France"; Brown Jr and Burdekin, "German Debt Traded in London"; Waldenstrom and Frey, "How Government Bond Prices Reflect Wartime Events"; Brown Jr and Burdekin, "Turning Points in the U.S. Civil War,"; Wells and Wills, "Revolution, Restoration, and Debt Repudiation"; Sussman and Yafeh, "Institutions, Reforms and Country Risk"; Frey and Kucher, "History as Reflected in Capital Markets,"; Weidenmier, "The Market for Confederate Cotton Bonds"; and Willard, Guinnane, and Rosen, "Turning Points in the Civil War."
+2
+
+
+Bonds Loan and the 1914 Loan are from monthly data and span the period
+from the outbreak of the First World War until the advent of the Great
+Depression. The fourth time series, that of the Refugee Loan, represents
+daily observations and covers the period from 1925 until 1929. The period in
+question is historically complex. For Greece in particular it includes wars,
+military triumph and final defeat as well as political and monetary upheaval.
+It ends with Greece experiencing, albeit short-lived, political and monetary
+stability.
+This is the first time that market prices of Greek government loans
+have been compiled and presented in such a systematic way.5 The data
+was collected by hand from the Investor’s Monthly Manual and the Stock
+Exchange Daily Official List and has been considered in isolation from its
+historical context. No a priori specification of important dates was made. A
+structural model was employed to identify the location of two types of
+unusual behaviour in the time series under consideration, namely outliers
+and level shifts.
+The remainder of the paper is organised as follows. Section 2
+provides a brief history of the period under consideration while in Section 3
+the data employed are described. In Section 4 research into the British press
+demonstrates that information about developments in Greece was available
+to investors in the London market. The method followed in the statistical
+analysis is developed in Section 5 and the results are presented. In Section
+6 the unusual points located in the time series are discussed and correlated
+with news that shifted investors’ expectations. The findings of the statistical
+5 There have been references in the literature to market prices of Greek government loans traded on the London Stock Exchange but these references are sporadic and fail to construct a fair picture of the period that they refer to. See for example Kostis, A History of the National Bank, p. 216 ; and Pepelasis Minoglou, "The Greek State and the International Financial Community," p. 73.
+3
+
+
+analysis are also related to historical events that played a prominent role in
+the political and economic historiography of the period in question and to the
+news on Greece in the British press that the Council of the Corporation of
+Foreign Bondholders collected to assess the creditworthiness of the Greek
+government. The paper finishes with some concluding remarks.
+2. Historical Context
+When the guns fell silent on the western front late in 1918, Greece
+was on the victorious side and her government was led by Eleftherios
+Venizelos, an able and forceful statesman. ‘Unprecedented prosperity and
+reckless optimism’6 prevailed as the end of the Great War coincided with
+territorial expansion and economic prosperity. The creation of a Greater
+Greece in the Near East, a long-standing national aspiration that had been
+embraced by most political leaders since Independence, seemed within
+reach. In May 1919 Greek troops disembarked in Smyrna and the Treaty of
+Sévres granted Greece sovereignty over Thrace as far as the Chatalja line.
+At that time the drachma maintained its pre-war parity and had become a
+symbol of the economic vigour of the country.
+Careful analysis however, shows up contradictory evidence of
+macroeconomic weakness. Between 1914 and 1919 the price level had
+more than tripled and the currency in circulation had increased by more than
+fivefold. The increase in the money supply did not raise any concern with
+the monetary authorities who believed at the time that the stability of the
+drachma was indisputable. This faith in the stability of the drachma was
+based on the operation of a law, introduced in 1910, which authorised the
+6 Cited in Mazower, Greece and the Inter-War Economic Crisis, p.62.
+4
+
+
+Issuing Bank to increase the currency in circulation on the condition that
+these freshly printed banknotes were fully covered by foreign exchange.
+This law known as ‘GXMB’, was used by the government to finance active
+participation in the Great War. Under an agreement signed in early 1918,
+Britain, France and the United States opened book credits in equal shares to
+the Greek government to a total value of 750 million French francs.7 On the
+strength of these Book Credits the National Bank of Greece printed banknotes
+that were used by the government to meet the expenses of the armed forces
+during 1918. These Book Credits could be drawn upon by the Greek
+government from their Allies six months after the conclusion of peace.
+The jubilation of victory at the end of the war temporarily concealed
+the extent of the national schism created by the Great War.8 This schism
+had literally divided the country into two; the Premier of the country
+Eleftherios Venizelos, had aspired to a policy of intervention on the side of
+the Allies while the King had been in favour of the country remaining neutral.
+The Premier believed in the final victory of the Entente which would bring
+territorial gains to Greece whilst the King had faith in the military supremacy
+of Germany. This crisis had come to a head in 1916-17. King Constantine
+was forced to leave the country and in June 1917, the Venizelos government
+declared war on the central powers .
+A few months after the signing of the Treaty of Sévres, in November
+1920 Venizelos was overwhelmingly defeated in a general election.9 This
+general election that brought the Populist Party to power together with the
+7 In May 1919 a supplementary agreement was signed and a further 100 million French francs of Book Credits were granted to Greece by the Allies under the same terms and conditions as those of the 1918 agreement. 8 For more see Bochotis, "Domestic Policy," pp. 83-95; and Yanoulopoulos, "Foreign Policy," pp. 125-129. 9 For more see Bochotis, "Domestic Policy," p. 98-100; and Yanoulopoulos, "Foreign Policy," p. 132.
+5
+
+
+unexpected death of the young King Alexander who had succeeded his
+father, paved the way for the return of the exiled King Constantine to Athens.
+Following a referendum held on 22nd November (Julian)/5th December
+(Gregorian)10 1920, King Constantine was officially returned to the Greek
+throne. Immediately, the Allied governments warned Athens that the
+repatriation of King Constantine meant that they were no longer bound by the
+Treaty of Sévres. Greece would also encounter a financial embargo and
+cancellation of the Book Credits.11 Political historiography and military
+sources correlate subsequent events in Asia Minor with the return of King
+Constantine to the Greek throne. Careful examination, however, of
+geopolitical developments in the area late in 1920 does not support the view
+that the outcome of the election had a catalytic effect on the course of
+history.12 Economic history literature on the period links the cancellation of
+the Book Credits with the depreciation of the drachma and the difficulties the
+country faced in raising capital from the financial markets in the 1920s.13 With
+hindsight, the return of the exiled King to Athens, served as an excuse on the
+part of the Allies to cancel the Book Credits at a time when their domestic
+preoccupations prevailed over international agreements.
+The Greek army marched into the interior of Asia Minor meeting little
+resistance but giving time to Mustapha Kemal to prepare his army for an
+10 At the time, Greece was following the Julian calendar which lagged 13 days behind the Gregorian that was used by almost all of the rest of Europe. Greece introduced the Gregorian calendar on 16th February 1923, which became 1st March. During the period in question when Greece was following the Julian calendar dates are given on both calendars. It should be emphasized that the data collected, both the time series employed and the press cuttings gathered, come from London publications where the Gregorian calendar was followed.
+11 Yanoulopoulos, Foreign Policy and 'National Issues', pp. 270-01; and History of the Greek Nation, p. 150. 12 Yanoulopoulos, Foreign Policy and 'National Issues', p. 273.
+13 Pepelasis Minoglou, "The Greek State and the International Financial Community," pp. 54-7; and Diomides, The Financial Position of Greece.
+6
+
+
+attack. In August 1922, the army of Ataturk launched its final offensive.14
+Hundreds of thousands of people fled the Turkish advance. Many of them
+headed to Smyrna believing that they would be protected there. On 27th
+August (Julian)/9th September (Gregorian), the Turkish army entered
+Smyrna in pursuit. What followed is vividly described in history books and in
+the press of the day. The panic and desperation culminated on 31st August
+(Julian)/13th September (Gregorian) when Smyrna was set on fire. A mass
+of destitute refugees, allegedly 300,000 people, had already gathered at the
+port, desperately seeking any kind of craft on which to escape the horror.15
+Hundreds of thousands of refugees, chiefly women, children and old men
+reached Piraeus or the Greek islands near Asia Minor. In January 1923, the
+Treaty of Lausanne provided for a compulsory exchange of populations
+between Greece and Turkey, recognising in this way, an event that to a
+great extent had already occurred.16 In a very short period of time, the
+population of Greece increased by twenty per cent.17
+The ‘Catastrophe,’ as the Asia Minor debacle is known in Greece, had
+an immediate impact upon Greek politics. A military faction of officers,
+supporters of Venizelos, formed a Revolutionary Committee, deposed the
+Royalist government in Athens and assumed power on 15th (Julian)/28th
+September (Gregorian) 1922. King Constantine was forced to abdicate, this
+time in favour of his eldest son, and left Athens for the last time.
+At first private initiative and philanthropic organisations provided relief
+for refugees. However, it soon became apparent that huge resources would
+14 For more on the Greek campaign in Asia Minor see Margaritis, "The Wars," pp. 177-186; and History of the Greek Nation, pp. 157-233. 15 History of the Greek Nation, pp. 236-39.
+16 Mazower, Dark Continent, pp. 61-2;and Pentzopoulos, The Balkan Exchange of Minorities, p.61-71.
+17 For more on the impact of refugees on the Greek economy see Hadziiossif, "The Refugee Impact," pp. 8-57.
+7
+
+
+be needed for the settlement of more than a million of people that had
+crossed the Aegean Sea from Asia Minor. As Figures 1, 2, and 3 show, the
+creditworthiness of the Greek government on the London market was very
+low late in 1922. In London, market rates of Greek public debt had rocketed
+to nearly 22 per cent, reflecting the political, economic and financial distress
+that prevailed in Athens. In February 1923 Greece approached the Council
+of the League of Nations hoping to float an international loan under their
+aegis for the settlement of refugees. The negotiations with the League were
+protracted and a Geneva Protocol was only signed in September 1923.18
+The League scheme that was implemented in Greece as a result, was
+mainly confined to the settlement of refugees. For this purpose, an
+autonomous organisation was established, namely the Refugee Settlement
+Commission. This handled the proceeds of the First Refugee Loan and was
+made responsible for the settlement of refugees primarily in rural areas.19
+The period that followed the Asia Minor campaign is characterised by
+political and monetary instability.20 One short-lived government after another
+assumed the governance of the country until June 1925 when General
+Pangalos with the help of a few officers seized power and established a
+dictatorship. Fourteen months later, General Pangalos was himself
+overthrown by a military coup d’etat organised by another officer, General
+Condylis. Condylis immediately declared himself in favour of a return to
+normal political conditions by holding parliamentary elections. In December
+1926 and for the first time since 1915, Venizelists and Anti-Venizelists,
+Republicans and Monarchists co-operated and formed a coalition
+18 For more see Pepelasis Minoglou, "The Greek State and the International Financial Community," pp. 64-99; and Minoglou Pepelasi, "The Negotiations of the Refugee Loan," pp. 331-66.
+19 Pentzopoulos, The Balkan Exchange of Minorities, pp. 75-119; Eddy, Greece and the Greek Refugees; and Morgenthau, I Was Sent to Athens, 1929.
+20 For the political conditions see Daphnes, Greece between the Two Wars.
+8
+
+
+government. The priority that united these politicians, in spite of their deep
+rooted differences, was the stabilisation of the drachma, the Greek currency
+having lost approximately 95 per cent of its pre-war value by mid-December
+1926.
+The Greek authorities resorted to the League of Nations for a second
+time, in the spring of 1927 in order to obtain an international loan under its
+auspices to stabilise the drachma and to continue the work with the refugees.
+The reconstruction scheme prepared by the Financial Committee was a
+typical League stabilisation plan, comprising institutional reforms focused
+mainly on the central banking system and the flotation of an international loan.
+In the Greek example, however, there was a domestic twist on the League’s
+norms; reorganisation of the issuing bank in Greece as recommended by the
+Financial Committee led to the establishment of a fully-fledged central bank
+de novo, the Bank of Greece which opened its doors for business on 14th
+May 1928, two days after the drachma was de jure stabilised.21 Prior to this,
+on 31st January, the flotation of a Stabilisation Loan was launched
+simultaneously in London and New York. This loan is also known as the
+Tripartite Loan as one third of the proceeds was allocated to repaying a part
+of the state debt to the central bank and in this way to strengthen its reserve
+position. Another third was used for paying off outstanding budget arrears
+and the remainder was allocated to the further settlement of the refugees.
+3. Overview of the Data
+Four times series, each representing a Greek Government loan
+denominated in gold and traded on the London market which was the most
+21 For more on the establishment of the Bank of Greece see: Christodoulaki, "The Origins of the Central Bank in Greece"; and Christodoulaki, "Banking Reform."
+9
+
+
+important borrowing market for the Greek government in the 1920s, have
+been compiled for the purpose of the analysis in this paper. The data are
+hand-collected from sources extensively used by contemporaneous market
+participants to assess the creditworthiness of the Greek government. The
+four Greek Government loans employed are presented in Table 1. They are
+the Monopoly Loan of 1887, the Bonds Loan issued in 1910, the five per cent
+Loan of 1914 and the Refugee Loan of 1924. The first three time series cover
+the period from 1914 until June 1930, are monthly observations and have
+been collected from the Investor's Monthly Manual, 1914-1930. The
+observations represent the latest price as a percentage of par value quoted at
+the end of each month on the London Stock Exchange. The last time series,
+that of the Refugee Loan are daily observations and come from the Stock
+Exchange Daily Official List.22 This time series starts on 29th April 1925, the
+first day that the Refugee Loan was traded on the London Stock Exchange
+and finishes on 31st December 1929. The data gathered represent each
+day’s final transaction. If the number of transactions that took place each
+day is used as a yardstick, then the seven per cent Greek Refugee Loan
+was one of the most popular loans on the London market during the period
+in question. Moody’s Manual of Investments which at the time furnished
+investors with ‘a key to the relative security and stability of particular
+investment bonds,’ valued the Refugee Loan as a safer investment than the
+other three Greek loans examined. Under their system of ratings, the
+Refugee Loan carried a ‘Baa’ rating whilst the Monopoly Loan, the Bonds
+Loan and the 1914 Loan carried a ‘Ba’.23 The four time series constructed
+are plotted on Figures 1, 2, 3 and 4.
+22 Stock Exchange Daily Official List, Guildhall Library, London.
+23 Moody’s rating system (from highest to lowest) was: Aaa, Aa, A, Baa, Ba, Caa, Ca, C.
+10
+
+
+Table 1: Description of the Loans
+Monopoly Loan
+Bonds
+Loan 1914 Loan Refugee Loan
+Year of Issue 1887 1910 1914 1924 Maturity (years) 70 50 50 40
+Coupon Rate 4%1 4% 5% 7%
+Sum Authorised £5,955,000 £19,850,000 £12,300,000
+Sum Issued £5,400,000 £4,367,000 £13,402,960 £12,300,000
+Price of Issue 78.50 86.50 92.252 883
+Comments
+Repayable at par by halfyearly drawings
+Purchases possible when the market price was below par
+Repayable at par by halfyearly drawings
+Notes: 1 See the text for the actual interest paid on the Monopoly Loan during the period in question. 2 This was the London issue price. 3 Price of issue in London and New York. The part floated in Athens was issued at 86 per cent. Sources: Adreades, Works; Aggelopoulos, Public Debt of Greece; Dertiles, ‘Public Debt’; Fifty Third Annual Report of the Council of the Corporation of Foreign Bondholders for the Year 1926, pp.194-203; League of Nations, League of Nations Reconstruction Schemes, pp.166-7; Mood, ‘Public Debt of Greece,’ pp.19-20; Stefanides, Inflow of Foreign Capital; Stock Exchange Year-Book for 1928, p.123-24; and Wynne, State Insolvency, pp.299-300 and pp.347-8;
+The loans used were issued at different historical points primarily to
+finance the budget deficits of the Greek government and the rearmament of
+the country.24 The only notable exception is the Refugee Loan, the proceeds
+of which were used for the settlement of refugees that came to the country
+after the Asia Minor debacle. All four loans contained several features
+designed to minimise the risk of default and to ensure smooth repayment.
+These loans were denominated in gold and were paid off semi-annually
+24 Wynne, State Insolvency, pp. 299-301; Andreades, Works, p. 429, pp. 552-53 and pp. 558-59; Aggelopoulos, Public Debt of Greece, p. 24 and p.30; and Stefanides, The Inflow of Foreign Capital, pp. 180-81 and pp. 202-03.
+11
+
+
+according to the terms of their contracts. In spite of the economic and
+monetary turmoil in the country, the Greek government serviced its debt
+obligations according to the terms and conditions applied throughout the
+period. In fact, a 19th century institution, the International Financial
+Commission (I.F.C.), was responsible for the service of the loans used in this
+paper. The I.F.C. was established in 1898 by the ‘Law of Control’ that was
+introduced following the Greek government’s default of 1893. It was an
+international body and its members were originally appointed by the
+governments of Great Britain, France, Germany, Austria-Hungary, Italy and
+Russia.25 This Commission assumed responsibility for the service of the
+Greek public debt that was placed under its jurisdiction. Accordingly, the
+Greek government assigned a large part of its public revenues to the I.F.C.
+and the latter administered these in accordance with the terms of the ‘Law of
+Control’.26
+25 After 1921, the I.F.C. was confined to members of Great Britain, France and Italy. 26 Wynne, State Insolvency, pp. 320-25; Andreades, Works, pp.482-86; and "Greek Law of Control," pp. 11-13.
+12
+
+
+Figure 1: 4% Monopoly Loan
+20.00
+25.00
+30.00
+35.00
+40.00
+45.00
+50.00
+55.00
+60.00
+65.00
+70.00
+1913 1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930
+Note: The latest price as a percentage of par value quoted at the end of each month on the London Stock Exchange.
+Source: Investor’s Monthly Manual, 1914-1930.
+13
+
+
+Figure 2: 4% Bonds Loan
+10.00
+20.00
+30.00
+40.00
+50.00
+60.00
+70.00
+80.00
+90.00
+1913 1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930
+Greece declares war
+on the Central Powers
+End of the
+Great War
+Greek Army in
+Smyrna
+Treaty of
+Sévres
+Return of King
+Constantine
+Mustapha Kemal in
+Smyrna
+Greece approaches
+the League of
+Nations
+The Refugee
+Loan is issued
+Geneva
+Protocol
+An all party
+government in
+Greece
+Geneva Protocol
+The
+Stabilisation
+Loan is floated
+de jure stabilisation of
+the Drachma
+Trial of the Six
+Source: Investor’s Monthly Manual, 1914-1930.
+14
+
+
+Figure 3: 5% Loan of 1914
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930
+Note: The latest price as a percentage of par value quoted at the end of each month on the London Stock Exchange.
+Source: Investor’s Monthly Manual, 1914-1930.
+The ‘Law of Control’ introduced a rescheduling of public debt
+contracted before 1897. The debt readjustment plan that was developed
+defined the minimum interest rate to be paid to the bondholders of the
+Monopoly Loan at 43 per cent of the original interest rate of this loan. In other
+words the minimum interest rate that the I.F.C. should pay the holders of the
+Monopoly Loan was 1.73 per cent. The I.F.C. however, aimed at increasing
+both the interest paid and the sinking fund for the loans under its control to
+their full contractual level using public revenues earmarked for this purpose.
+The rate of interest paid to holders of bonds of the Monopoly Loan during the
+period in question, exceeded the minimum interest rate fixed by the ‘Law of
+15
+
+
+Control’ and varied from year to year according to the disposable revenues of
+the Commission.27 Bondholders were informed via announcements in the
+British press in February or March each year of the additional coupon rate or
+plus value as it was known to investors, that the I.F.C. would pay on top of the
+minimum rate fixed by the ‘Law of Control’.28 Customarily the plus value was
+payable on the coupon of the first half of the year on the strength of the
+surplus revenue of the year before. The interest rate paid to Monopoly Loan
+bondholders during the period in question is presented in Appendix I, and as
+Table A11 shows the interest paid in 1920 and 1921 was at the full
+contractual level for the first time since the introduction of the ‘Law of Control’.
+Subsequently, it retained either its original level or remained close to that
+level.
+The Bonds Loan was issued in 1910; its interest rate was four per cent
+and the amortisation period fifty years. Although this loan was secured by tax
+revenues assigned to the I.F.C., it was not placed under their direct control.29
+In accordance with the terms of the Bonds Loan the Greek government could
+increase the drawings or pay off the whole loan at par after January 1921.
+The five per cent Loan of 1914 was the largest borrowing operation that
+Greece had entered into, prior to the outbreak of the Great War. After the
+Balkan Wars of 1912-1913 the country was in urgent need of capital not only
+to liquidate the floating debt incurred during the war years, but to provide for
+27 The coupon rate thus paid to the Monopoly Loan bondholders fluctuated within a band from 1.73 to 4 per cent, from year to year, depending on the volume of the surplus revenues of the I.F.C. For this reason, the Monopoly Loan is not suitable for assessing sovereign risk after the introduction of the ‘Law of Control’. See for example Obstfeld and Taylor, "Sovereign Risk," p. 256 and p. 269. 28 See Council of the Corporation of Foreign Bondholders, Greek Extracts, vol. 6th (27th October 1904-25th September 1916); and Council of the Corporation of Foreign Bondholders, Greek Extracts, vol. 7th (25th September 1916-31st October 1931). 29 Wynne, State Insolvency, p. 348; Andreades, Works, pp. 552-54; Aggelopoulos, Public Debt, p. 30; and Stefanides, The Inflow of Foreign Capital, pp. 202-03.
+16
+
+
+administrative expenses in the newly annexed territories and to carry out
+infrastructure programmes.30 The sum of £19,850,000 or 500,000,000 French
+francs was authorised but in the end owing to the outbreak of the Great War
+only £13,402,960 was issued. From the total amount issued 51.84 per cent
+was reserved for Paris, 12.59 per cent was reserved for London and 9.63 per
+cent for New York, Athens and Egypt.31 The remaining 25.95 per cent of the
+total amount issued was given by the government to the National Bank of
+Greece, the central bank in the country prior to 1928.32 In this way, the
+government cleared part of its debt to the Bank of Issue. The 1914 Loan was
+placed under the direct control of the I.F.C. and its service was secured
+against additional tax revenues assigned to the Commission. The Greek
+government reserved the option of redeeming the whole or any part of the
+loan after March 1924.
+The Refugee Loan was issued under the auspices of the League of
+Nations late in 1924. This loan was raised to provide funds for the settlement
+of refugees that came to the country after the Asia Minor debacle. A special
+body, the Refugee Settlement Commission, was established to administer the
+proceeds of this loan. The Refugee Settlement Commission was an
+autonomous body, its statutes having been developed by the Financial
+Committee of the League of Nations and it was under the strict supervision of
+the League Council.33 The total sum issued was £12,300,000. The price of
+30 Wynne, State Insolvency, pp. 347-48; Andreades, Works, pp.558-60; Aggelopoulos, The Public Debt, p. 30; Stefanides, The Inflow of Foreign Capital, pp. 203-05; Stock Exchange Official Intelligence, p. 146; Corporation of Foreign Bondholders, Annual Report for 1926, pp. 201-02; and Stock Exchange Year-Book for 1921, p. 81.
+31 In other words £6,947,500 was issued in Paris, £1,687,250 in London and £1,290,250 in New York, Athens and Egypt. 32 Or £3,477,960. 33 For more information on the Refugee Loan see Pepelasis Minoglou, "The Greek State and the International Financial Community," p. 64-99; Minoglou Pepelasi, "The Negotiations of the Refugee Loan,"; Wynne, State Insolvency, pp. 349-50; League of
+17
+
+
+issue was 88 per cent in London and New York and 86 per cent in Athens.34
+A substantial part of the loan (£7,500,000) was issued in London. The rest
+was floated in almost equal parts in Athens and New York.
+Archival material shows that policymakers in Greece observed the
+market price movements of the 1914 Loan and the Bonds Loan in order to
+evaluate the creditworthiness of the country on the London market.35 It also
+reveals that the National Bank of Greece, possibly in co-operation with the
+government, attempted to manipulate the market prices of Greek bonds twice
+during the period in question.36 Certainly an organised intervention by the
+National Bank began in September 1924, a couple of months before the
+flotation of the Refugee Loan.37 A second intervention seems to have been
+planned to coincide with the issue of the Stabilisation Loan.38 The available
+information on these two market adjustments is summarised in Table 2.
+Nations, League of Nations Reconstruction Schemes, pp. 74-76; and Stefanides, Inflow of Foreign Capital, pp. 234-35. 34 League of Nations, League of Nations Reconstruction Schemes, p.167.
+35 Emmanuel Tsouderos Archive, Bank of Greece, File 22: Tripartite Loan of 1928, 61: Document undated signed by Diomides, p.2. 36 Emmanuel Tsouderos Archive, Bank of Greece, File 22: Tripartite Loan of 1928, 61: Document undated signed by Diomides; Alexandros Diomides Archive, Greek Literary and History Archive, File 11, Document 16: Diomides writes to Kaphandares, 22nd December, 1927. 37 The London tranche of the Refugee Loan was issued between 8th and 10th of December 1924. 38 The Stabilisation Loan was issued on 31st January 1928 under the aegis of the League of Nations.
+18
+
+
+Table 2: Support Purchases
+Sum Allocated for Bond Purchases
+Loans Targeted
+Amount Quoted of Loans Targeted in London
+Total Amount of Greek Loans Quoted in London2
+September 
+December 1924
+£630,000
+1914 Loan
+Bonds Loan
+£883,9001
+£3,943,6191 £24,600,9093
+Early 1928 £170,000 not known £44,887,4594
+Notes: 1 In September 1924. 2 The 1898 Loan is not included. The amount quoted of the 1898 Loan was £3,751,000 in September 1924 and £3,150,800 in January 1928. 3 This sum refers to September 1924 and includes the following loans: the 1881 Loan, the 1884 Loan, the 4% Monopoly Loan, the 4% Rentes Loan, the 1890 Loan, the Funding Loan of 1893, the Railways Loan of 1902, the National Loan of 1907, the Bonds Loan and the 1914 Loan. 4 This refers to January 1928 and includes the above loans plus the Refugee Loan of 1924. Sources: See the text; Investor’s Monthly Manual.
+4. Developments in Greece: The Fleet Street Perspective
+The main objective of this work is to use historical statistics to
+evaluate market response to news. Analysis of the statistical results,
+however, presupposes that research into the press establishes how well
+informed market participants in London were about developments in Greece.
+As information is by nature asymmetric, only research into the press of the
+period in question will eliminate asymmetries of information between present
+day economic historians attempting to answer the kind of questions posed in
+this paper and contemporaneous investors. Economic historians have the
+benefit of ex post historical information established by research into archival
+material that might have not been available to the period’s contemporaries.
+Research into the press of the period will verify the timing of information,
+19
+
+
+which was important to market actors in evaluating country risk, being
+disclosed by policy makers to the public.
+The Council of the Corporation of Foreign Bondholders, besides
+publishing an Annual Report, systematically collected invaluable information
+from the British press on countries at the centre of their interest. This
+published material, tracked down in a wide range of mainly daily press, was
+neatly organized in a continuous format in the form of cutting books.39 The
+material on Greece consists of nine volumes, covering the period from 1867
+until January 1971. Volumes six and seven, full of information that appeared
+in the British press during the period in question, have been used for the
+purposes of this article.40 In addition to the Greek Extracts, the Economist of
+the period and the Times of 1922 were examined.41
+The Greek Extracts provide ample evidence that British investors were
+able to be well informed about developments in Greece and promptly. They
+also indicate the kind of qualitative information that an investors’
+organisation whose principal objective was ‘the protection of the interests of
+the holders of foreign securities’42 observed to evaluate the creditworthiness
+of a country, in this case Greece. The information that is collected in the
+Greek Extracts is presented in Tables 3 and 4 and Table A12.
+39 These volumes, adding up to a total of 503 volumes, are kept at the Guildhall Library, London. The cuttings are almost entirely in English, taken primarily from British daily newspapers, the weeklies and the financial press. 40 Council of the Corporation of Foreign Bondholders, Greek Extracts [hereafter Greek Extracts], vol. 6th (27th October 1904-25th September 1916); and Council of the Corporation of Foreign Bondholders, Greek Extracts [hereafter Greek Extracts], vol. 7th (25th September 1916-31st October 1931). The cuttings that appear in these two volumes come from the Times, Financial News, Financial Times, Morning Post, Daily Telegraph, Board of Trade Journal, Stock Exchange Journal, Stock Exchange Gazette and Evening Standard. There is also a small number of cuttings from the Message d’Athenes.
+41 The Economist (London: 1914-1929); Palmer's Index to the Times Newspaper (1922). 42 Corporation of Foreign Bondholders, Annual Report.
+20
+
+
+Table 3: Number of Press Cuttings on Greece collected for the Council of the Corporation of Foreign
+Bondholders, 1914-1929
+1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929
+January 20
+9 4 3 2 5 4 9 5 6 11 10 6 6 6 9 6
+9 8 2 8 7 8 17 10 9 11 8 10 9 12 5
+February 8 7 4 3 3 5 4 7 10 7 8 7 9 12 5 5
+March 20 11 9 10 8 9 17 10 20 14 11 7 13 14 7 9
+April 17 9 10 2 7 8 4 9 14 9 6 15 14 14 5 5
+May 10 5 23 5 7 5 5 11 12 3 11 11 1 7 4 9
+June 17 4 20 7 9 6 7 12 10 17 5 9 10 11 10 5
+July 5 5 6 10 7 8 9 13 7 9 7 9 8 6 10 2
+August 1 6 3 7 3 3 1 4 6 10 4 5 10 8 5 6
+September 7 4 10 8 6 6 3 15 7 9 11 12 8 11 10 5
+October 6 6 12 7 8 7 4 7 11 8 13 18 5 8 10 8
+November
+December 4 4 3 5 6 7 17 6 10 8 8 10 6 10 5 5
+Total: 124 74 111 68 77 75 88 116 123 114 105 117 100 116 92 70
+Notes: (1) This table shows the absolute number of press cuttings on Greece, per month and per year, that were gathered in
+the Greek Extracts. (2) The number of press cuttings gathered for the first six months of the year is generally higher than that
+for the second half. (3) The total number of cuttings for the first half of 1914 is considerably higher than the average number
+observed during the first six months of each subsequent year during the period in question and is, to a large extent, explained
+by the flotation of the 1914 Loan which attracted a lot of publicity in the press. In addition, the number of press cuttings
+clustered as ‘National Issues’ in Table 4 during the first semester of 1914 is substantial both in comparison with other years and
+the second part of 1914. (4) 1922 is the year of the Asia Minor debacle.
+Sources: Council of the Corporation of Foreign Bondholders, Greek Extracts, Volumes 6th and 7th; See the text.
+21
+
+
+Table 3 shows the absolute number of press cuttings per month and
+per year that the Greek Extracts include during the period under
+examination. Table 4 illustrates the wide range of issues covered by the
+press cuttings in the Greek Extracts. It also shows the wealth of issues
+associated with Greece that the British press thought worthy of coverage. At
+the same time, Table 4 indicates the kind of news that the Council
+considered important in evaluating the creditworthiness of the Greek
+government.
+The system employed to compose this table was to read the Greek
+Extracts and then divide the issues tackled in the cuttings into categories.
+Often, one press cutting refers to more than one topic related to Greece.
+For this reason the total of Table 4 is different from the total of Table 3 which
+is simply the number of press cuttings per year that the volumes include.
+22
+
+
+Table 4: Greek Issues Tackled in the Press Cuttings on Greece Collected by the Council of the
+Corporation of Foreign Bondholders
+1914 1915 1916 1917 1918 1919
+%% % % % %
+Public Debt 60 37.04 42 39.25 68 40.00 40 45.45 53 49.07 50 45.87
+Public Finance 23 14.20 20 18.69 39 22.94 16 18.18 31 28.70 27 24.77
+Domestic Politics 8 4.94 11 10.28 14 8.24 5
+0 000000000
+00 0 0 0 0 0 0 0 0 0
+5.68 4 3.70 0 0
+National Issues 24 14.81 2 1.87 0 0 0 0 0 0 2 1.83
+War 2 1.23
+0
+6 5.61
+0
+7 4.12 5 5.68 2 1.85 0 0
+Refugees
+Economic
+Conditions 8 4.94 1 0.93 1 0.59 0 0 2 1.85 2 1.83
+Primary Sector 4 2.47 0 0 2 1.18 5 5.68 1 0.93 0 0
+Industry 5 3.09 0 0 0 0 1 1.14 0 0 0 0
+Trade 7 4.32 4 3.74 0 0 1 1.14 3 2.78 4 3.67
+Shipping 1 0.62 1 0.93 5 2.94 0 0 0 0 1 0.92
+Infrastructure 8 4.94
+0
+0 0 3 1.76 0 0 1 0.93 3 2.75
+Stabilisation
+The Exchange Rate 0 0 3 2.80 1 0.59 0 0 0 0 2 1.83
+The Money Supply 1 0.62 3 2.80 9 5.29 0 0 0 0 2 1.83
+The National Bank 2 1.23 2 1.87 7 4.12 5 5.68 0 0 3 2.75
+The Banks 1 0.62 1 0.93 1 0.59 0 0 0 0 2 1.83
+Miscellaneous 8 4.94 11 10.28 13 7.65 10 11.36 11 10.19 11 10.09
+Total: 162 100 107 100 170 100 88 100 108 100 109 100
+23
+
+
+1920 1921 1922 1923 1924 1925
+%% % % % %
+Public Debt 49
+23
+97
+31.82 66 43.42 73 42.2 76 41.08 62 40.79 68 31.43
+Public Finance 28 18.18 23 15.13 30 17.34 36 19.46 31 20.39 36 16.67
+Domestic Politics 9 5.84 6 3.95 15 8.67 7 3.78 19 12.50 6 2.78
+National Issues 10 6.49 4 2.63 8 4.62 4 2.16 7 4.61 16 7.41
+War 0 0 0 0 1 0.58 0 0 0 0 0 0
+Refugees 0 0 0 0 0 0 4 2.16 3 1.97 12 5.56
+Economic
+Conditions 1 0.65 2 1.32 3 1.73 1 0.54 1 0.66 0.9
+Primary Sector 3 1.95 1 0.66 2 1.16 0 0 1 0.66 1 0.46
+Industry 3 1.95 1 0.66 0 0 1 0.54 0 0 0 0
+Trade 8 5.19 9 5.92 4 2.31 2 1.08 1 0.66 6 2.78
+Shipping 2 1.30 1 0.66 0 0 1 0.54 0 0 1 0.46
+Infrastructure 3 1.95 0 0 2 1.16 4 2.16 1 0.66 8 3.70
+Stabilisation 0 0 0 0 0 0 0 0 0 0 2 0.93
+The Exchange Rate 8 5.19 12 7.89 16 9.25 14 7.57 8 5.26 20 9.26
+The Money Supply 8 5.19 3 1.97 6 3.47 14 7.57 2 1.32 17 7.87
+The National Bank 0 0 4 2.63 1 0.58 6 3.24 3 1.97 10 4.63
+The Banks 8 5.19 3 1.97 0 0 2 1.08 1 0.66 2 0.93
+Miscellaneous 14 9.09 17 11.18 12 6.94 13 7.03 12 7.89 4.1
+Total: 154 100 152 100 173 100 185 100 152 100 216 100
+24
+
+
+1926 1927 1928 1929
+%% % %
+Public Debt 59 37.58 77 36.32 71 47.97 54 52.43
+Public Finance 32 20.38 30 14.15 24 16.22 21 20.39
+Domestic Politics 13 8.28 6 2.83 4 2.70 2 1.94
+National Issues 13 8.28 18 8.49 5 3.38 6 5.83
+War 0 0 0 0 0 0 0 0
+Refugees 4 2.55 3 1.42 2 1.35 1 0.97
+Economic
+Conditions 2 1.27 1 0.47 1 0.68 1 0.97
+Primary Sector 1 0.64 0 0 1 0.68 0 0
+Industry 1 0.64 0 0 1 0.68 0 0
+Trade 0 0 1 0.47 2 1.35 1 0.97
+Shipping 1 0.64 0 0 0 0 0 0
+Infrastructure 2 1.27 5 2.36 9 6.08 3 2.91
+Stabilisation 5 3.18 24 11.32 10 6.76 2 1.94
+The Exchange Rate 7 4.46 6 2.83 2 1.35 0 0
+The Money Supply 5 3.18 4 1.89 2 1.35 2 1.94
+The National Bank 3 1.91 16 7.55 3 2.03 2 1.94
+The Banks 2 1.27 6 2.83 3 2.03 1 0.97
+Miscellaneous 7 4.46 15 7.08 8 5.41 7 6.80
+Total: 157 100 212 100 148 100 103 100
+Notes: (1) The system employed to compose this table was to read the Greek Extracts and then divide the issues tackled in the
+cuttings into categories. One press cutting related to Greece may refer to more than one issue. For this reason the total of
+observations in Table 4 is different from the total of Table 3 which shows the absolute number of press cuttings per year
+included in the Greek Extracts.
+(2) ‘National Issues’ is a generic term that contains news on foreign diplomacy, reports on Greek minorities in the Near East and
+the Balkans, Greek War debts as well as the issue of Book Credits and rearmament.
+25
+
+
+(3) Cuttings grouped as ‘National Issues’ in 1914 refer mainly to minority issues of Greek populations in surrounding areas not
+belonging to Greece and to a strained relationship between Greece and Turkey. In 1925, 1926 and 1927 ‘National Issues’
+includes news on the negotiations for the settlement of War Debts with Great Britain, France and the United States.
+(4) News in the Greek Extracts on the macroeconomic situation in Greece are divided into the following categories: Economic
+Conditions where general references on economic progress and development have been classified; Primary Sector, containing
+information on agriculture and minerals; Industry, Trade, Shipping as well as Infrastructure which contains news on
+infrastructure projects proposed or underway and on railways; Stabilisation, the Exchange Rate, the Money Supply and the
+National Bank which was the central bank in Greece until 12th May 1928; and finally, the Banks where references to banks
+other than the National Bank are included.
+(5) Information on macroeconomic conditions can be separated into two groups: news on the real economy (Economic
+Conditions, Primary Sector, Industry, Trade, Shipping and Infrastructure) and monetary and financial information (Stabilisation,
+the Exchange Rate, the Money Supply, the National Bank and the Banks).
+(6) The Greek Extracts include press cuttings with information for British investors on entrepreneurial opportunities in Greece.
+(7) Miscellaneous primarily contains information on foreign direct investment in Greece.
+Sources: Council of the Corporation of Foreign Bondholders, Greek Extracts, Volumes 6th and 7th; See the text.
+26
+
+
+It is apparent that the Council pedantically collected information on
+Greek government debt as it appeared in the British press. References to
+public debt account for between one third and over half of the total
+references to Greece in a year. If information on public debt in the Greek
+Extracts is thematically disaggregated, as in Table A12, news on the service
+of the debt predominates. Special consideration was also paid to gathering
+announcements in the press that described efforts of the Greek government
+to raise fresh capital both on the international financial markets and in
+Athens. In retrospect, reports in the press on fresh borrowing and its terms
+might have been instigated frequently by Greek officials in an attempt to
+influence market expectations. Ex post, having the benefit of archival
+research, reports on new loans during periods that the Greek government
+faced difficulties in borrowing or a financial embargo as the London market
+‘was not the free market of the pre-war days’43 illustrate the method and the
+terms on which Greek officials wished to borrow.44
+The information presented in Table 4 demonstrates that public finance
+comes after government debt in terms of importance. References to the
+finance of the Greek government vary from 14 percent to nearly 29 percent
+of the total theme references of a year. In the 1920s, it was customary to
+report the budget presentations of the Greek Minister of Finance in the
+British press. In these reports, the tenor was positive and expenditure
+typically met revenues. Public borrowing was added up with ordinary
+revenues to present a budget in equilibrium, a practice that was not
+overlooked by newspaper correspondents.45
+43 Atkin, "Official Regulation," p. 326. 44 See for example Greek Extracts for 1921 and Greek Extracts, F. News, 8th April 1927. 45 See The Ecomomist, 2nd September 1922.
+27
+
+
+Citations on politics vary from no reference at all in 1919, a year of
+political stability, to twelve and a half percent of total citations in 1924 which
+was a year of constitutional change as the country became a republic, and
+had only short-lived governments. The collection of press cuttings in the
+Greek Extracts on the political situation is eclectic and hardly paints the
+picture of political crisis and bitter polarisation that characterised these
+times. Having said that however, one can find press cuttings on all major
+political changes or general elections of the period.
+War and refugee problems have serious implications for fiscal
+equilibrium. It is therefore surprising that both these issues, as Table 4
+demonstrates, are hardly covered by the press cuttings collected in the
+Extracts. Cuttings on the Greek presence in Smyrna or on the advance of
+the Greek army in Asia Minor and ultimate defeat are scarce in the Greek
+Extracts. By contrast, events in Asia Minor and the debacle were more than
+adequately reported in the British Press.46 In addition, despite the refugee
+problem in Greece being ‘more acute ... than in any other country’47 and at
+the time attracting wide-spread attention, press cuttings on refugees
+included in the Greek Extracts are limited and mainly related to the Refugee
+Loan of 1924.48
+News on the macroeconomic health of the country can be divided into
+two parts: news on the three sectors of the economy and monetary and
+financial information. In the 1920s, a period of high inflation in Greece, news
+on monetary conditions dominate. Information on fluctuations of the
+drachma is provided as well as articles that discuss the root of that problem.
+Economic and policy changes are reported and there is plenty of information
+46 See Palmer's Index to the Times Newspaper (1922).
+47 Cited in Pentzopoulos, The Balkan Exchange of Minorities, p. 77-78. 48 By contrast the Economist reported regularly on the refugee question in Greece.
+28
+
+
+on the central banking reforms that led to the establishment of a fully fledged
+central bank. In total, news on the three sectors of the economy together
+with monetary and financial news fluctuates between six and a half percent
+of the total observations in 1918 and over thirty percent in 1925.49 Both in
+qualitative and quantitative terms, news on macroeconomic developments
+gathered in the Greek Extracts plays a more central role than information on
+the political situation, supporting the assertion that ‘economics, not politics,
+were a key factor in allocating [...] exports of capital’.50
+A secondary objective of the Council of the Corporation of Foreign
+Bondholders was to provide information on ‘the economic and financial
+condition’ of states that were at the centre of their interest.51 They never
+attempted to develop a system of formal rating.52 However, they collected
+ample information to enable investors to assess sovereign risk. The cuttings
+from the British press collected in the Greek Extracts indicate that news on
+public debt took precedence over any other issue and public finance
+followed. News on macroeconomic conditions was also a vital component of
+the information gathered in the Greek Extracts. The question arises
+therefore as to whether this kind of news, collected in the Greek Extracts by
+the Council to encapsulate events, really influenced investors’ expectations
+and determined prices of Greek government bonds on the London market as
+indicated by the statistical analysis of the time series employed in the
+following section of this paper.
+49 In 1918, all references are on the economy and trade opportunities in Greece for British merchants. In 1925, the emphasis is shifted to the exchange rate and to news on the money supply; nearly 24 per cent of the total references are on monetary and financial issues whilst only eight per cent refer to the economy. 50 Flandreau, "Caveat Emptor," p.31. 51 Corporation of Foreign Bondholders, Annual Report. 52 See Flandreau, "Caveat Emptor," for a 19th century attempt to provide formal ratings to monitor sovereign risk and Moody, Moody's Manual for creation of sovereign ratings in the 1920s.
+29
+
+
+5. A structural approach to detecting turning points
+5.1. Method
+Willard, Guinnane, and Rosen53 use rigorous statistical analysis to
+detect unusual points in historic data. Their method, based on the work of
+Banerjee, Lumsdaine, and Stock,54 involves fitting autoregressive models in
+a moving window and identifying breaks sequentially. Wells and Wills55
+apply this idea using a vector autoregressive model. The moving window
+approach is appropriate for long series with an autoregressive structure.
+However, the detection process involves somewhat arbitrary choices
+including the order of auto-regression and the width of the window. No
+consideration is given to single outlying points which may exert strong
+influence on the parameter estimates. Repeated model fitting is not the
+most efficient method particularly for shorter series or when observations are
+made with lower frequency.
+Figures 1, 2 and 3 are time series plots of the data under
+consideration. The salient features include levels which change over time
+and seasonal behaviour. A basic structural model is appropriate for these
+data.56 The model is based on the classical decomposition, for t=1,...,n,
+, { } ~ NID(0, 2 ), (1)
+yt = μt +γt + εt εt σε
+53 Willard, Guinnane, and Rosen, "Turning Points in the Civil War." 54 Banerjee, Lumsdaine, and Stock, "Recursive and Sequential." 55 Wells and Wills, "Revolution, Restoration, and Debt Repudiation." 56 Harvey, Forecasting, Structural Time Series Models.
+30
+
+
+where NID denotes normal and independently distributed,μt is the trend, γt
+is the seasonal component and εt is an error term. The trend is taken to be
+locally linear
+, { } ~ NID(0, ).
+, { } ~ NID(0, ),
+2 1
+2 1
+ς
+η
+β βς ς σ
+μ μ βη η σ
+t tt t
+t t tt t
+=+
+=++
++
++
+This can be thought of as a simple regression model in which the intercept
+and slope parameters are allowed to evolve over time. Let s be the
+seasonal period. We use a dummy seasonal component,
+, { } ~ NID(0, 2 ).
+1
+1
+γ 1 γ 1 ωt ωt σω
+s
+j
+t = −∑− t j +
+=
++ +−
+All of the error terms in the model are mutually independent. In a basic
+structural model the parameters of interest are the variances of the
+components, namely , , and . These are known as hyper
+parameters.
+2
+σε 2
+ση 2
+σς 2
+σω
+We use the basic structural model (1) as our null. Our aim is to detect
+and categorise departures from the null model. Two common types of
+unusual behaviour in economic data are measurement outliers and level
+shifts. A measurement outlier, often referred to as just an outlier, is a single
+point which does not fit in with the rest of the data. A permanent change in
+the underlying level of the series is known as a level shift. Once we have
+detected an outlier or level shift, we account for them by including additive
+interventions in our model. Interventions are dummy explanatory
+variables, , which have simple forms. For an outlier at time ,
+Dt i
+31
+
+
+⎩⎨⎧ =
+= 0, otherwise,
+1, if t i,
+Dt (2)
+and for a level shift
+⎩⎨⎧
+≥
+<
+= 1, for .
+0, for ,
+ti
+ti
+Dt (3)
+The usual regression t-statistics based on the estimated magnitude
+associated with a fitted intervention are used to determine significance.
+Our diagnostic statistics are based on moving an intervention along
+the series. For example, in order to detect an outlier we could sequentially
+fit the intervention (2) and evaluate the corresponding t-statistics. A large t
+statistic at point i is indicative of an outlier at that point. Regression t-statistic
+based diagnostics can be evaluated very efficiently using the output of the
+Kalman filter and associated smoother. This approach avoids repeated
+fitting of intervention variables. Details are omitted here but can be found in
+De Jong and Penzer.57
+For sample sizes over 30, the distributions of the diagnostics under
+the null are closely approximated by standard normals. However, we are
+simultaneously testing n points, so the usual 5% critical values of -1.96 and
++1.96 will give a test with a much larger size. Critical values which yield a
+better size of test are generated easily using the first Bonferroni inequality.
+Suppose X1, . . . , Xn are random variables with identical marginal
+distributions, and X(n) is the last order statistic, that is, the largest value.
+Using the Bonferroni inequality, we can show that if k is a point such that
+P(X1 > k) = α/n then P( X(n) > k) : α. Hence, using k as a critical value for
+the maximum gives a test with significance level less than or equal to α.
+57 De Jong and Penzer, "Diagnosing Shocks in Time Series."
+32
+
+
+Table 5 gives values of k such that P(X1 < k) = 1 - α/n. Thus, critical values
+of -3.5 and +3.5 will give an approximate 5% test in a sample of size 100.
+These results are confirmed by simulation experiments.58 For samples of
+the order of 102, we consider points with t-statistics greater than 3.2 in
+absolute value which corresponds to a significance level of approximately
+10%. This is an arbitrary choice which can be adjusted to suit the situation.
+Practical experience indicates that 10% provides a good compromise
+between size and power in detecting historical breaks.
+Table 5: Bonferroni Approximate Critical Values, k, where Xj ~ N (0,1)
+for j = 1,..., η
+100 x α 100
+n
+1000 10000 0.1 4.265 4.753 5.199 0.5 3.891 4.417 4.892 1.0 3.719 4.265 4.753 2.5 3.481 4.056 4.565 5.0 3.291 3.891 4.417 10.0 3.090 3.719 4.265
+The series analysed in this paper contain several unusual points. We
+use a stepwise approach to detection in which significant interventions are
+introduced one by one. The process is divided into forwards and backwards
+steps.
+58 Penzer, "Critical Values ."
+33
+
+
+a) Forward steps
+(i) Fit the current model and generate diagnostics statistics for outliers
+and level shifts for every point in the series.
+(ii) Locate the single largest value from both sets of diagnostic
+statistics.
+(iii) If this is significant, update our current model by including an
+appropriate intervention. For example, if the largest statistic was in the
+outlier diagnostic series we would add intervention (2) to our current model.
+b) Backward steps
+(i) Fit the current model and evaluate the t-statistics associated with
+the intervention which are in the model.
+(ii) If any interventions have ceased to be significant, update current
+model by removing them and go to step i.
+The procedure is initialised with the null model and repeated until
+there are no more significant outliers or level shifts left unaccounted for. The
+output is a final fitted model and a set of points at which unusual events may
+have occurred, categorised as outliers or level shifts. Computational results
+were produced with code written in Ox59 using Ssfpack60 and with the
+package STAMP61.
+5.2. Results
+We fit a basic structural model with dummy seasonal component to
+each of the series. The hyper-parameter estimates and residual based
+59 Doornik, Ox: An Object-Oriented Matrix Programming Language.
+60 Koopman, Shephard, and Doornik, "Statistical Algoriths for Models." 61 Koopman et al., Stamp 5.0: Structural Time Series Analyser.
+34
+
+
+diagnostic statistics are given in Table 6. For each of the series most of the
+variability is in the level component. The slope components in these models
+are not significant so the trend is reduced to a random walk. The residual
+based diagnostic checks are the Bowman-Shenton test for normality, the
+Durbin-Watson test for serial correlation and the portmanteau Box-Ljung Q
+statistic based on the first 11 sample residual autocorrelations. Approximate
+critical values for these statistics in test with significance level 5% are given
+in brackets. It is clear that there is no evidence of serial correlation in the
+residuals. However, for each series, there is some indication that the
+residuals are not normally distributed. This non-normality may be attributed
+to the presence of unusual points.
+Table 6: Null Model Hyperparameter Estimates (variances) and Residual-based Diagnostic Statistics
+Monopoly Bonds 1914 Loan
+Hyperparameters Estimates
+Irregular (σε2) 0.056 0.000 0.000
+Level (ση2) 3.702 4.260 6.868
+Slope (σξ2) 0.000 0.007 0.005 Seasonal 0.000 0.000 0.000 Residual Based Diagnostics
+Normality (6.0) 14.456 9.195 9.995 DW (1.6, 2.4) 2.038 1.800 1.727 BL (15.5) 7.294 7.272 6.364
+Figures A6, A7 and A8 show the outlier and level shift diagnostic
+statistics for the null model for each series. We apply the stepwise process
+described above to detect and account for outliers and level shifts. The final
+fitted model is summarized in Table 7 whilst Table 9 provides details of the
+interventions fitted.
+35
+
+
+Table 7: Final Model Hyperparameter Estimates, Residual-based Diagnostic statistics and interventions fitted
+Monopoly Loan Bonds Loan 1914 Loan Hyperparameters Estimates
+Irregular (σε2) 0.000 0.000 0.000
+Level (ση2) 4.116 2.915 4.377 Seasonal 0.011 0.003 0.000 Residual-Based Diagnostics
+Normality (6.0) 0.853 0.689 1.590 DW (1.6, 2.4) 1.986 1.862 1.783 BL (16.9) 14.115 13.037 11.560
+Figure 4 is a series of daily observations from Wednesday 29th April
+1925 to Tuesday 31st December 1929 (1180 observations). The key feature
+of this series is regularly spaced, biannual drops in the level of the series.
+These can be seen clearly from Figure 5, the plot of first difference of the
+series. Level shift intervention variables are included at approximate six
+month intervals starting on 4th May 1925. The series is of order 103 so using
+critical values –3.8 and +3.8 gives an approximate 10% significance level to
+test for the presence of unusual points. Several outliers and levels shifts are
+detected in the series and presented in Table 10. However, the key feature
+of these data, once the regular downward shifts in level have been
+accounted for, is the non-normality of the residuals. A QQ-plot, as in Figure
+A9, indicates that the residuals are heavy-tailed. A distribution with higher
+kurtosis than the normal, such as a t-distribution with low degrees of
+freedom, may be suitable for the error process of the series. This is an
+interesting direction for future work.
+36
+
+
+Table 8: Results for Final Model Fitted to Refugee Loan Series
+Refugee Loan Hyperparameter Estimates
+Irregular (σε2)
+Level (ση2)
+Slope (σξ2)
+0.031 0.048 0.000
+Residual based Diagnostics
+Normality (6.0) DW (1.88, 2.12) BL (44.99)
+21.872 2.068 37.488
+6. Turning Points and Historical Events
+Table 9 provides details of the interventions fitted in the Monopoly,
+Bonds and 1914 loans. The number in columns two, three and four is the
+usual regression t-statistic associated with the estimated magnitude of the
+intervention. Column five of this table refers to historical events that caused
+the level shifts and the outliers detected.
+Table 9: Correlation of Structural Breaks to Historical Events, 19141929
+Interventions Monopoly Loan
+Bonds Loan
+1914 Loan
+Historical Events
+t-statistic Level Shifts
+December 1919 -4.20 -3.40 See the text. April 1920 -3.20 Allied Conference at San Remo, Italy. Flotation of the 5% Lottery Loan in Athens.1 December 1920 -3.30 King Constantine returns to Athens. Cancellation of Book Credits. February 1922 4.00 Unknown. November 1922 -3.40 -4.50 Immediate political aftermath of the Asia Minor Debacle. February 1923 4.00 See the text.
+37
+
+
+March 1923 6.00 4.30 Positive news about the service
+of public debt.2 April 1924 3.30 Greece is declared a Republic. November 1928 3.40 Announcement of the decision of the umpire appointed to arbitrate on the difference between the Greek government and the I.F.C. which arose in March 1927.3
+Outliers
+November 1922 -5.40 Immediate political aftermath of the Asia Minor Debacle. March 1923 4.50 Positive news about the service of public debt.2 January 1924 3.80 Venizelos becomes Premier.
+Notes:
+(1) In April 1920, a public loan denominated in drachmas, the 5% Lottery Loan, was floated in Athens with great difficulty in spite of concessions from the government to encourage subscription. See also the text. (2) The I.F.C. announced payment of the interest and sinking fund for the loans under its jurisdiction beyond the minimum rates fixed by the ‘Law of Control’. See also the text. (3) In March 1927, a serious dispute arose between the Greek government and the I.F.C. as to the method of calculating the plus values payable in 1927. The Greek government demanded arbitration. Pending the outcome, coupons maturing on the loans issued prior to 1893 were paid at their minimum rate. In November 1928, a few days after the decision of the umpire was made known, the I.F.C. announced the additional interest rates due on these loans. (See Greek Extracts, F. Times, 28th November 1928.) The Monopoly Loan is one such and its market price jumps from 53.50 per cent of its face value in October 1928 to 60.50 per cent at the end of November of that year. Source: See the text.
+The three time series shown by Figures 1, 2, and 3, present a
+consistent picture of the period in question. The statistical analysis,
+however, reveals that there is some discrepancy in the behaviour of the
+three loans. It is evident from the results presented in Table 9 that the 1914
+Loan distinguishes itself from the Monopoly and Bonds loans. This
+difference in the behaviour of the three loans could be a ‘guide to the
+38
+
+
+labyrinth’62 of the Greek public debt and at the same time could show the
+complexity of the way that markets operate. It is consistent with the efficient
+market hypothesis, in particular with the weaker form of this hypothesis.63
+This feature does not manifest itself if only one historical time series, as has
+been the case in the literature, is employed or an index of the values of
+government bonds is used to examine market response to news.64
+The discrepancy in the behaviour could be explained by different
+attributes of each loan that are not always readily apparent. For example,
+the seniority sequence in the service of these three loans was dissimilar; the
+Monopoly and the 1914 loans were under the direct control of the I.F.C. but
+the Bonds Loan, although secured by public revenues assigned to the
+Commission, was not placed under their direct control. Knowing the identity
+of the ultimate buyers and sellers of Greek government bonds on the
+London Stock Exchange could also shed light on why there is a discrepancy
+in the behaviour of the three time series.
+The statistical analysis indicates that the two organised interventions
+of the National Bank to manipulate market prices of the Greek government
+bonds in London described in Table 2, did not produce any statistically
+significant market reaction that would indicate a change in market
+expectations. As Tables 9 and 10 show, no positive level shifts and outliers
+occurred during the attempts of the National Bank to improve the market
+price of Greek sovereign debt and in this way to influence the terms of
+borrowing of the Greek government on the London market, as the organised
+62 The Economist, 27th January, 1923. 63 See Fama, "Efficient Capital Markets." 64 In Brown Jr and Burdekin, "German Debt Traded in London" two loans are examined, the 7% Dawes Loan of 1924 and the 5.5% Young Loan of 1930, and the statistical analysis shows some difference in their behaviour. See p.657 for their comments on this. For the use of a weighted index of market values of government bonds see Frey and Kucher, "History as Reflected in Capital Markets."
+39
+
+
+interventions coincide with the two most important borrowing operations of
+the Greek government in the 1920s.
+In the text that follows, the level shifts and the outliers detected by the
+statistical analysis are related to historical events that shaped investors’
+behaviour on the London Stock Exchange.
+6.1. Expectations and Reality: Political Rhetoric versus Market Forces
+The jubilation stirred up by the Great War victory soon faded away.
+During the summer of 1919, the first doubts about the presence of Greek
+troops in Asia Minor were openly expressed, particularly by France.65 In a
+report, prepared for the Overseas Trade Department in Britain on the
+economic situation in Greece that summer, reservations were expressed
+about the capacity of Greece to carry out her financial obligations even if
+taxation was increased. This report was never circulated because it
+provoked a strong negative reaction from the Greek government. The three
+loans under scrutiny here, present a falling tendency after June 1919, a
+month after Greek troops disembarked in Smyrna, and by the end of 1919
+there had ‘been considerable reduction in the quotations of Greek loans on
+the London market’.66 Two of the three time series analysed in this paper,
+those for the Bonds Loan and the Monopoly Loan show a sudden level shift
+downwards in December 1919, demonstrating a change in that month in the
+investors’ perception of the fiscal health of the country. This drop indicates
+that as early as December 1919 investors considered it possible that the
+Greek government would not be able to service its debt and at the same time
+to pursue its territorial aspirations in Asia Minor.
+65 History of the Greek Nation, p.152.
+66 Greek Extracts, D. Telegraph, 1st January 1920.
+40
+
+
+Geopolitical changes in the area generated ‘uncertainty as to the
+measure in which the [Greek] national claims [would] be satisfied’.67 This
+uncertainty coupled with the economic and military capacity of Greece to
+sustain its presence in Asia Minor stimulated the sustained downward trend in
+the market price of Greek government bonds on the London Stock Exchange.
+News, however, in December 1919 of the fiscal situation of the Greek
+Government must have caused the sudden negative effect on the value of the
+Monopoly and Bonds Loans, at the end of that month. The uncomfortable
+‘discrepancy between revenue and expenditure’68 that was disclosed, coupled
+with the presence of Greek troops in Smyrna encouraged investors to sell
+Greek government bonds and perhaps restructure their portfolios, taking
+advantage of the opportunities that the London market offered at the end of
+1919. During the last two months of 1919 the London market enjoyed a
+short-lived boom in overseas issues as regulations introduced by the
+Treasury to control the City were repealed in November 1919 and the Bank
+of England had not yet come into the picture to regulate intermittently the
+flotation of new overseas loans.69
+Analysis of the 1914 Loan distinguishes it from the Monopoly and the
+Bonds loans. The 1914 Loan presents a sudden downward level shift for the
+first time in April 1920. In April 1920, a public loan denominated in drachmas,
+the 5% Lottery Loan, was floated in Athens with great difficulty, in spite of
+concessions from the government to encourage subscription.70 This was the
+last attempt of the Greek government to issue a public loan on the Athens
+market before the stabilisation of the drachma. This downward level shift also
+67 The Economist, 25th October 1919. 68 Greek Extracts, D. Telegraph, 1st January 1920. 69 For more see Atkin, "Official Regulation"; and Atkin, British Overseas Investment, pp. 125-97. 70 National Bank of Greece, Annual Report for 1920, p. Z; Zolotas, Monetary and Foreign Exchange Issues, p. 102; Dertiles, "Public Debt,", p.84.
+41
+
+
+coincides with the end of the Allied conference which took place at San
+Remo, in Italy. The outcome of this conference catalysed the course of the
+war in Asia Minor.71 This time series of the 1914 Loan also displays a
+downward level shift in December 1920. This downward level shift coincides
+with developments in Greece, described in Section 2, that the political
+historiography views as crucial to the course of history on the Asia Minor front
+and that the economic history literature sees as central in explaining the slide
+of the drachma.
+The 1914 Loan level shift in December 1920 reflects beliefs in the
+conventional historiography. The question that is raised is why the decrease in
+the market value of the 1914 Loan mirrors history in its conventional form.
+Light could be shed on this question if it was known who were the ultimate
+buyers and sellers of Greek government bonds on the London Stock
+Exchange during the period in question. Knowledge of the volume of
+transactions that took place would also be helpful. This is evidence that it
+may not be possible to find for the period in question. Research, however,
+shows that at the time one of the major bondholders of the 1914 Loan was the
+National Bank of Greece.72 In addition, the amount of this loan traded on the
+London Stock Exchange in 1920 as quoted by the Investor’s Monthly Manual
+is small.73 Hence, it can be safely assumed that the downward level shift in
+the market prices of the 1914 Loan in December 1920 and possibly also in
+April of that year, mirror the expectations of a specific group of investors in
+Greek government bonds.
+71 History of the Greek Nation, p. 138.
+72 National Bank of Greece, Annual Reports. 73 See Investor's Monthly Manual for 1920.
+42
+
+
+6.2. The Debacle
+Figures 1, 2 and 3 demonstrate in a graphic way why Greek
+governments faced great difficulties in the financial markets in raising capital
+to finance the Asia Minor campaign, beyond the politics and embargoes
+referred to in the literature. After 1919, Greek government bonds sustained
+their downward trend and consequently the risk premium on Greek
+government debt rocketed, reflecting the decreased credibility of the Greek
+government as a borrower on the London market. The Economist repeatedly
+reassured holders of Greek government bonds that although the situation in
+Athens, both financially and politically, was critical there was no reason to
+suppose that this would affect the service of public debt.74 Market signals
+were also encouraging to investors: in 1920, the I.F.C. paid holders of
+Monopoly Loan bonds their full contractual interest rate, as Table A11 shows,
+for the first time since the introduction of the ‘Law of Control’.
+The Asia Minor campaign ended disastrously for Greece in the late
+summer of 1922. The effect of this outcome along with the political changes
+in the country that followed the military defeat are illustrated dramatically as
+the market value of the bonds in each of the three time series presented
+here plummets. The statistical analysis reveals that both the Monopoly and
+the Bonds Loan present a level shift downwards in November 1922 while the
+1914 Loan shows a negative outlier in that same month.
+The Revolutionary Committee, as it is known, that is the military
+faction of officers supporting the Liberal Party that assumed power after the
+debacle, immediately searched for an answer to what had caused the
+military defeat of the Greek army in Asia Minor. They responded to the
+debacle in the conventional way by seeking out those ‘responsible’ for the
+74 The Economist, 22nd October 1921, 4th March 1922 and 5th August 1922.
+43
+
+
+tragedy. The trial of five prominent politicians close to King Constantine 
+three of whom had served as prime ministers and two as ministers- and the
+last Commander-in-Chief of the Greek Army in Asia Minor began on 31st
+October (Julian)/13th November (Gregorian). The charge was ‘high
+treason’. The trial ended on 14th (Julian)/27th November (Gregorian) and
+the court announced its decision in the early hours of the following morning.
+In the case of each defendant the sentence was death and the executions
+took place a few hours later at 11.27 a.m. on 15th (Julian)/28th November
+(Gregorian) 1922.75 There was an international outcry at this development
+and Britain immediately recalled her ambassador from Athens.76
+Clearly, developments on the Asia Minor front influenced decisively
+the value of the country’s sovereign bonds traded in London. Political
+developments in the country and the determination that the Revolutionary
+Committee showed in handling domestic issues had a strong impact on
+investors’ confidence that the Greek government would continue to honour
+its debt obligations. The value on the London market of the Bonds Loan, for
+example, fell to 17.50 per cent of face value indicating a dramatic decrease
+in public confidence in the Greek government. This market value of the
+Bonds Loan amounted to a sovereign risk of nearly 19 per cent, a country
+risk indicating a government approaching bankruptcy.77
+75 Yanoulopoulos, Foreign Policy and 'National Issues', pp. 297-303; History of the Greek Nation, pp. 255-59; Daphnes, Greece between the Two Wars, pp. 10-20; and Morgenthau, I Was Sent to Athens, pp. 105-06.
+76 On 29th November 1922, the day after the execution of the Six, the leading article of the Times of London entitled ‘Greece in Peril’ was devoted to the latest events in Athens. The act of execution was strongly condemned and deemed as damaging the interests of Greece abroad ‘at a moment when [the] country more than ever need[ed] support and aid’. See the Times, 29th November 1922; and Greek Extracts, Times, 29th November 1922. 77 Country risk is measured by a loans spread in London relative to the British consuls at the end of November 1922. The country risk that the Bonds and the 1914 loans indicate is respectively 18.51 and 15.26 per cent. As has been explained, the coupon rate paid to the Monopoly Loan bondholders fluctuated within a band, from year to year, depending on the
+44
+
+
+6.3. Credibility, Commitment and Institutions: Market Reception
+Figures 1, 2 and 3 clearly show that late in 1922 market actors
+believed that the Greek government was approaching default. By contrast,
+none of the Greek governments of the period, despite the difficulties they
+encountered in financing public expenditure, considered default an option.
+The humiliation of the military defeat in 1922 combined with the transaction
+costs and the embarrassment of the 1893 default that still loomed large in
+politicians’ minds in Athens, as well as the belief that foreign aid would be
+forthcoming, led governments to opt for controversial measures to cover
+expenditure rather than ceasing to honour their interest bearing
+obligations.78 Even the Revolutionary Committee ‘though they had not
+flinched at taking the lives of six of Greece’s most prominent citizens,
+astonished the world by the subsequent moderation ... of their rule’79 and did
+not behave differently.
+The three monthly time series analysed present a swift reversal in
+their trend after the November 1922 events in Athens and subsequently as
+Table 9 shows, exhibit a significant statistical change in March 1923. The
+Monopoly and the 1914 loans show an upward level shift in March 1923
+while the Bonds Loan takes precedence and presents a positive level shift in
+February 1923 followed by a positive outlier in March. It is difficult to explain
+why the Bonds Loan has a lead over the other two loans and is the first to
+show a positive change in the investors expectations about future service of
+Greek government debt.
+surplus revenue of the I.F.C. Using therefore, the coupon rate paid to Monopoly Loan bondholders in 1922, this loan points to a country risk of 10.76 per cent. There is again a discrepancy between the three loans; the three loans point to a sovereign risk with a difference between the lowest and the highest of nearly eight basis points. 78 The most controversial measure adopted was the Forced Loan of April 1922. The experiment was repeated in 1926. 79 Morgenthau, I Was Sent to Athens, p. 106.
+45
+
+
+Good news on the service of public debt caused these optimistic
+structural shifts.80 After the Asia Minor debacle, the customary
+announcements on the service of Greek public debt appeared in the British
+press on time and debt service obligations were met on schedule. The
+shaky fiscal position of the Greek government and a rapidly falling drachma,
+however, jeopardised the prospects of the future incomes of bondholders, in
+particular the income of holders of old Gold Loans whose coupon rate
+fluctuated within a band depending on the surplus revenue of the I.F.C.81 In
+March 1923, the I.F.C. announced the payment of interest and sinking fund
+beyond the minimum rates fixed by the ‘Law of Control’ on the loans under
+their jurisdiction.82 Yields were higher than anticipated because of a
+concession by the Greek government to the I.F.C. This was a deliberate act
+on the part of the Revolutionary Committee to change market expectations
+to their advantage during a period when they desperately sought capital
+abroad. It is therefore possible that news on the service of public debt
+produced favourable impressions on the market and changed investors’
+assessments regarding future debt service of the Greek government.
+80 In an earlier version of this paper -see Christodoulaki and Penzer, "News from London"it was argued that these positive level shifts were due to the fact that the Greek government had approached the Council of the League of Nations hoping to gain their support to float a loan for the settlement of refugees. Research in the press of the period suggests that talks with the League were kept confidential and were not disclosed to the press. As an article in the Economist (16th June 1923) states, news that the Greek government was negotiating with the Financial Committee for a League loan, was first announced to the public early in May 1923. It was however, well known to investors at the time that the Greek government had been searching for sources of capital without success, at European capital markets. They also sought capital for public works. See Greek Extracts: Financial News, 26th February 1923; Financial News, 22nd March 1923; and Financial News, 24th March 1923. 81 25th August, 1922 the drachma stood at 142 drachmas to the pound sterling; 2nd March, 1923 it was 440 drachmas to the pound sterling in London. (Source: the Economist.)
+82 The Economist, 17th March 1923; Greek Extracts: F. News, 15th March 1923; Times, 15th March 1923; D. Telegraph, 15th March 1923; For articles commenting on the news see Greek Extracts: F. Times, 16th March 1923; Times, 19th March 1923.
+46
+
+
+The extended period of restoration of the institutions of the country,
+both political and economic, is delineated by the three time series of monthly
+data analysed here. They all present a steady recovery. The statistical
+analysis of the three monthly time series however, does not reveal any
+structural changes between March 1923 and the implementation of a League
+of Nations stabilisation plan in 1928. (The exception being again the 1914
+Loan which shows a positive outlier in January 1924, when Venizelos
+returned to Athens and for a short period became the Premier, and an upward
+level shift in April of that same year when the country was declared a
+republic.) It is apparent, however, in Figures 1, 2 and 3 that eventual
+stabilisation and the concomitant institutional reforms had already been
+factored into the market value of the bonds. At the end of 1928 the market
+value of the bonds of the Monopoly Loan in London was 60 per cent of their
+par value, the Bonds Loan 62 per cent and the 1914 Loan 77 per cent.83
+Given that the statistical analysis of the three monthly time series
+shows that central banking reforms and the de jure embrace of the Gold
+Exchange Standard in Greece in 1928 did not prompt any statistically
+significant market response, daily prices of Greek government debt on the
+London Stock Exchange have been employed to provide further insight into
+the way that investors responded to news of currency stabilisation and
+institutional changes in Greece in the late 1920s. (The daily observations of
+83 A comparison of the risk premium of the three loans at the end of December 1928 with their risk premium in November 1922 conveys the improvement of the credibility of the Greek government on the London market. In December 1928, the sovereign risk of the Monopoly Loan –the coupon rate paid in 1928 is used to estimate the country risk of this loan- is 2.08 per cent, the Bonds Loan 2.01 per cent and the 1914 Loan 2.05 per cent. It is noteworthy that by 1928, there is convergence in the risk premium that the three loans indicate. By contrast to 1922, this time the lowest country risk is indicated by the Bonds Loan. See also footnote 77.
+47
+
+
+the Refugee Loan from April 1925 until the end of 1929 are used, see Section
+3.)
+Table 10: Structural Breaks in the Refugee Loan, 1925-1929
+Interventions t
+Statistics
+Events
+Regularly Spaced Level Shifts
+4th May 1925 (Tuesday) -5.00 3rd November 1925 (Tuesday) -7.90 3rd May 1926 (Monday) -10.50 2nd November 1926 (Tuesday) -9.10 3rd May 1927 (Tuesday) -7.50 2nd November 1927 (Wednesday)
+-10.10
+2nd May 1928 (Wednesday) -7.80 2nd November 1928 (Friday) -10.80 2nd May 1929 (Thursday) -10.30 4th November 1929 (Monday) -11.00
+Coupons and bonds drawn by lot were honoured at par following 1st May and 1st November each year.
+Others Level shifts
+25th June 1926 4.00 Unknown.1 18th February 1927 4.10 Unknown.3 22nd March 1927 -3.90 A serious dispute between the Greek Government and the I.F.C. had arisen. The former asked for arbitration. It was announced that coupons maturing on the loans issued prior to 1898 will be paid at the minimum rate pending the results of arbitration.4 21st November 1929 7.30 Money supply announcement.6 Outliers
+23rd August 1926 -4.60 Dictator Pangalos had been overthrown the previous day by a military coup d’etat headed by a General Kondylis.2 10th April 1928 -4.10 Unknown 2nd April 1929 4.10 Fiscal and public debt news.5
+48
+
+
+Notes:
+(1) The Press reports of this month painted an optimistic picture of the economic situation in Greece. It was also reported that a new Refugee Loan under the auspices of the League was imminent. (See Greek Extracts, June 1926.) (2) News of this coup d’etat appeared in the London Press on 23rd August 1926. (See Greek Extracts, F. Times, 23rd August 1926.) (3) It is not easy to explain the timing of this positive structural change. At the end of January 1927 the Committee of Greek Experts, appointed by the coalition government to suggest measures for fiscal and monetary stability, submitted its report. News on the measures suggested and steps to be taken by the government to overcome obstacles to stabilisation dominated the British press. (See Greek Extracts, 25th January to 15th February.) It would perhaps be far fetched to argue that this positive structural change shows the confidence of the London market in the coalition government in achieving fiscal and monetary stability. (4) The Monopoly Loan examined in this paper belonged to this category of Greek foreign loans. The Monopoly, the Bonds and the 1914 loans also presented a drop at the end of March 1927 after having shown a significant recovery in January 1927. The statistical analysis, however, of these monthly time series does not reveal any structural change. (5) A mixture of fiscal and public debt news might have produced this positive outlier. An official announcement from the Minister of Finance stated that the financial year that had just expired ended in surplus. In fact, it had resulted in deficit although small, both in terms of its size and as a percentage of GDP. (6) It became known late in October 1929 that an agreement signed between the Greek Government and Seligmans for the flotation of a loan for public works had been cancelled by mutual consent. The official reason given for the termination of this agreement was that the I.F.C. had refused to assume responsibility of the service of this loan. Service by the I.F.C. was a condition in the contract for the opening of the credit and the flotation of the loan. The Refugee Loan market price started dropping after this statement. News of an intended increase in the money supply might have influenced a further decrease in the market price of Refugee Loan bonds. The reasons used by the Government to justify this proposed increase in the currency in circulation were reminiscent of the arguments used in the 1920s for employing the printing press. This intervention by the Government violated the independence of the Bank of Greece, the newly established central bank, and the Geneva Protocol. In the end it was announced, the Bank of Greece also making a statement, that the printing press would not be used as a monetary policy tool. The Central Bank would be in charge of the situation and banks were encouraged to avail themselves of the rediscounting facility of the Bank of Greece. It is interesting to note that the Monopoly, the Bonds and the 1914 loans all present a drop at the end of October and then an increase at the end of November 1929. (For the way that the press covered these events see the Greek Extracts, October 1929-November 1929; the Economist, 19th October 1929 and 23rd November 1929.) Source: See the text.
+Table 10 presents details of the statistical analysis of the Refugee Loan
+and suggests events that might be responsible for the statistical deviations
+detected. The key feature of this daily time series is regular spaced, biannual
+49
+
+
+drops in the level of the series that occur on the first day of trading after each
+of the First of May and First of November.84 Figure 5, which is the plot of the
+first difference of the time series, captures graphically these biannual drops
+whilst Figure 4 shows the market price of the Refugee Loan as a percentage
+of par. The biannual drops in the level of this series of the Refugee Loan
+coincide with coupon payments and redemption of bonds drawn by lot. After
+each 1st May and 1st November coupons were paid off at Hambros Bank in
+London. Simultaneously, bonds drawn by lot for redemption could be
+redeemed.85
+84 The London Stock Exchange was closed on Saturdays and on the First of May and First of November during the period in question. See City Diary and Almanack. See for the origin of these holidays on 1st May and 1st November Duguid, The Story of the Stock Exchange, p.83.
+85 Draws of bonds of the Refugee Loan took place in Athens twice a year in March and September, commencing in September 1925. The numbers drawn were announced in the press including British newspapers and repayment at par could take place correspondingly after 1st May and 1st November each year.
+50
+
+
+Figure 4: 7 % Refugee Loan
+0 100 200 300 400 500 600 700 800 900 1000 1100
+87.5
+90
+92.5
+95
+97.5
+100
+102.5
+Note: Each day’s final transaction as a percentage of par.
+Source: The Stock Exchange Daily Official List, 1925-1929.
+51
+
+
+Figure 5: Time Series Plot of First Differences of the Refugee Loan series
+0 100 200 300 400 500 600 700 800 900 1000 1100
+-3
+-2
+-1
+0
+1
+2
+Source: Figure 4; and see the text.
+In addition to these regularly-spaced drops, several level shifts and
+outliers are also detectable, as Table 10 demonstrates. Column three of
+Table 10 suggests events that might have triggered the level shifts and the
+outliers exposed by the statistical analysis. News on the service of public
+debt, fiscal and money supply announcements, as well as unexpected
+political changes produced the non-regularly-spaced level shifts and the
+outliers for the Refugee Loan. These events that elicited an immediate
+market response are also reflected in the information about Greece collected
+from British newspapers by the Council of the Corporation of Foreign
+Bondholders and summarised in Table 4. By contrast, no level shifts or
+outliers correspond to events that the literature regards as playing a
+significant role in achieving monetary stability; that is the elections of
+52
+
+
+November 1926, settlement of war debts with Great Britain86, resort to the
+League of Nations in 1927, and finally the flotation of the Stabilisation Loan
+in 1928. Crucially, there is no statistically significant change to coincide with
+the establishment of the central bank and de jure stabilisation of the
+drachma.
+Central banking reforms and the adoption of the Gold Exchange
+Standard in Greece in 1928 could hardly surprise investors.87 Both events
+were publicised in the press. In addition, there was generally a lengthy time
+span between the first, and possibly informal, announcement and the
+promulgation of the reforms. Statements about the intention of the Greek
+government to stabilise the drachma appeared in the British press as early
+as July 192588 and then, as Table 4 illustrates, it was frequently in the news
+until de jure stabilisation. The formal announcement and the timing of de
+jure stabilisation of the drachma close to its market value was therefore
+anticipated by market participants. The drachma had been de facto
+stabilised for a whole year before May 1928 and monetary authorities as well
+86 Pepelasis overemphasises the role of the settlement of the War Debts with Britain in opening the road to stabilisation. See Pepelasis Minoglou, "The Greek State and the International Financial Community". 87 Sussman and Yafeh (2000) argue that by contrast to innovations in Japan such as the establishment of the Bank of Japan in 1882 that failed to elicit an immediate market response, the adoption of the Gold Standard in 1897 did significantly reduce the perceived risk associated with Japanese bonds traded on the London Stock Exchange. They conclude that in sharp contrast to the Gold Standard which was a well-understood economic rule, institutional changes were difficult to evaluate at the time and therefore had no effect on the London market’s perception of Japanese debt. The few reports in the press on these institutional changes in Japan did not help to win investors’ appreciation as credible signs of development or of the government's ability to repay its foreign debt. The swift reduction, however, in the risk premium at the time of the introduction of the Gold Standard in Japan, so vividly illustrated in Figure 1 of their article and detected by the statistical analysis, could be attributed to debt restructuring that took place to facilitate the financial and monetary reform endorsed by the Coinage Law of 1897. See for similar comments Flandreau and Zumer, "Sovereign Risk and Reputation," pp. 13-14. 88 Greek Extracts, F. News, 6th July 1925. See also the Economist, 10th January 1925.
+53
+
+
+as government officials involved, advocated at every opportunity, legal
+stabilisation without ‘revalorisation’.89
+News about possible central banking reforms in Greece appeared in
+the British press on the same day that the Greek representatives in Geneva
+officially asked the Council to authorise a stabilisation loan for Greece. The
+Financial News of 15th June reported that the National Bank, under the
+League’s scheme, ‘would be transformed into an issue bank and would
+engage a foreign advisor’.90 Some central banking reforms would in any
+event, have been anticipated by the markets as they were an integral part of
+all the League-sponsored reconstruction schemes that had preceded the
+Greek stabilisation plan. Three weeks later, the Economist published a long
+article on the negotiations between Greek officials and the Financial
+Committee of the League. It was reported that a prerequisite for the flotation
+of a League sponsored loan was that the Greek parliament authorised ‘the
+gradual conversion of the National Bank of Greece into a central bank of
+issue of modern type’.91 By that time, however, not only the manner of
+central banking reform in Greece had been agreed upon, but the statutes of
+the New Bank of Issue had been drafted.92 Discussions between the Greek
+side and the representatives of the League were difficult as there was a
+89 Greek Extracts: F. Times, 31st January 1927; F. News, 9th May 1927; F. Times, 27th June 1927; M. Post, 5th October 1927; F. News, 23rd January 1928; F. Times, 14th May 1928. The Economist, 14th May 1927. 90 Greek Extracts, Financial News, 15th June 1927. 91 The Economist, 9th July, 1927. The requirements set by the League for the reorganisation of the National Bank to operate as a central bank of issue and maintain the stable value of the drachma were also stated. 92 See Bank of England Archive: OV9/190, 1: J.A.C.Osborne to Otto Niemeyer, 12th July 1927; OV9/190, 93: Osborne to Strakosch, 14th July, 1927. Christodoulaki, "The Origins of the Central Bank in Greece".
+54
+
+
+fundamental disagreement over the way that each side envisaged central
+banking reforms taking place in the country.93
+The architects of the reform at first withheld and then influenced the
+release of news of the establishment of the Bank of Greece. On 17th July,
+the day that the Ministers of Finance and Foreign Affairs returned to Athens,
+the first reference to the creation of a New Central Bank appeared in the
+Greek press as an option under consideration.94 The first public
+announcements by the Minister of Finance to the press stated clearly that
+two plans were being considered: the government was thinking either of
+transforming ‘the National Bank into a pure bank of issue by transferring all
+its other functions to another bank’ or of forming ‘a new independent bank of
+issue’.95 By early August 1927, details of the sweeping reforms had been
+made publicly known as had been the opposition of the leader of the populist
+party to the arrangements provided by the Geneva Protocol. As a result, the
+populist party withdrew from the coalition government objecting to the
+establishment of a new fully-fledged central bank. Political opposition did not
+endanger the reforms. A reshuffled government brought the stabilisation plan
+to parliament, which ratified it the following December, the Populist Party
+being absent. Previously, the Council of the League had approved the
+scheme in its September session.
+The London press reported developments in Athens as they unfolded.96
+A statistically significant and not necessarily positive, market reaction might
+93 For more see Christodoulaki, "Banking Reform," pp. 256-61. 94 Venezis, Chronicle of the Bank of Greece, footnote 1, p.44.
+95 Greek Extracts, Financial News, 22 July 1927; Venezis, Chronicle of the Bank of Greece, p. 44.
+96 Greek Extracts: F. News, 18th July 1927; F. News, 22nd July 1927; F. Times, 4th August 1927; F. Times, 13th August 1927; F. Times, 3rd September 1927; Times 14th September 1927; F. News, 17th September 1927; Times, 28th September 1927; F. News, 3rd October 1927; Morning Post, 5th October 1927; Times, 28th October 1927; and Times,
+55
+
+
+be expected to occur at the time at which news of the imminent establishment
+of the Bank of Greece was announced. In fact, the statistical analysis of both
+the daily observations of the Refugee Loan and the monthly data of the three
+loans employed, show that financial market actors’ behaviour was not
+dramatically influenced by the news. However, market prices of Greek
+government bonds, as Figures 1, 2, 3 and 4 show, did respond to available
+information. Bond prices drifted gradually upwards as news of institutional
+changes in Athens reached the market. Between the end of December 1926
+and May 1928 the market price of the Monopoly and the 1914 loans rose by
+more than 17 and 19 per cent respectively, while that of the Bonds Loan
+recovered by nearly 26 per cent.
+Political authorities expected that institutional developments that
+ended with the establishment of a central bank and the adoption of the Gold
+Exchange Standard would facilitate an influx of foreign capital essential for
+economic growth. The impact, however, that these institutional reforms
+could have, at least in the short-run, on the cost and of course the volume of
+Greek borrowing ‘should reflect external circumstances as well’.97 By May
+1928 the Greek government was over-borrowed and the international
+economy was about to enter the most severe depression that has ever been
+experienced. A few months after the adoption of the Gold Exchange
+Standard by Greece, in December 1928, a loan for public works with a
+nominal value of four million pounds was issued on the London market, on
+similar terms to the Stabilisation Loan. Only one third of this loan was
+covered. A month later, in January 1929, the Greek government signed an
+agreement with Seligman & Co for a loan with a nominal value of up to 54
+26th November 1927. The Economist, 8th October 1927, 31st March 1928 and 26th May 1928. 97 Drazen and Masson, "Credibility of Policies".
+56
+
+
+million dollars.98 The agreement provided for the flotation of a loan on terms
+similar to the Stabilisation Loan. The I.F.C. would assume responsibility for
+its service and Seligman would take any part of the loan that remained
+uncovered. On 30th October 1929, the Evening Standard announced the
+cancellation of this loan.99 The official reason for the termination of this
+agreement was that the I.F.C. had refused to assume responsibility for the
+service of this loan.100 The timing of the termination of the agreement is
+more revealing than the official announcement.
+7. Conclusion
+This work contributes to the literature that focuses on the interaction of
+historical events including institutional changes and capital markets. The
+evidence presented is for the impact of political and economic developments
+on asset price determination and consequently on the cost of sovereign
+borrowing. Statistical analysis has been applied to evaluate capital market
+responses to historical events and in this way to offer new insights into
+understanding the difficulties that Greece faced in raising capital from the
+financial markets during the period in question.
+The three time series of monthly data examined, provide a coherent
+picture of the period under examination despite discrepancies in the results
+obtained from the statistical analysis. Geopolitical events in the area
+98 The nominal value of this loan in sterling was approximately eleven million, close to that of the Refugee Loan of 1924. This means that the Seligman Loan was potentially a bigger lending operation than the Stabilisation Loan. 99 Greek Extracts, 30th October 1929. 100 Greek Extracts: M. Post, 2nd November 1929; F. News, 25th November 1929. For the refusal of the I.F.C. see Greek Extracts: Times, 30th August 1929; The Economist, 19th October 1929. See also Stefanides, The Inflow of Foreign Capital, pp. 257-58.
+57
+
+
+impacted on the value of Greek sovereign debt on the London market. The
+value of Greek bonds traded on the London Stock Exchange decreased
+dramatically in response to developments in Asia Minor. News related to the
+military campaign in Asia Minor was a proxy for fiscal news, an important
+determinant of the capacity of the country to sustain the service of its
+sovereign debt. A level shift downwards of the 1914 Loan in December
+1920, coincides with domestic political events that conventional
+historiography regards as having a decisive effect on the course of history.
+The Asia Minor debacle as well as domestic political developments
+exerted a strong negative effect on the market price of Greek sovereign
+debt. The aftermath of the military defeat created uncertainty among holders
+of Greek government debt over future payments. By contrast, punctual and
+encouraging announcements regarding the service of public debt altered
+market perceptions of the capacity of the Greek government to honour its
+debt obligations.
+It is a genuine challenge, using advanced statistical analysis, to
+attempt to understand what caused changes in investors’ expectations over
+future payments of sovereign debt, in particular during such a complex
+historical period. The analysis both of the monthly data on Greek
+government loans examined and the Refugee Loan daily observations,
+clearly shows that investors acted upon news on public debt and fiscal
+performance. Unexpected political events that created uncertainty among
+the bondholders over future service of public debt exerted a negative impact
+on the price of Greek loans on the London market. The analysis of the daily
+observations also indicates that news of the money supply played an
+important role in influencing market prices of the country’s sovereign debt
+traded on the London Stock Exchange.
+58
+
+
+Institutional innovations such as the adoption of the Gold Exchange
+Standard and the establishment of a central bank did not produce any
+quantitative market reaction. This is confirmed by the statistical analysis of
+the daily observations of the Refugee Loan that cover the long period
+towards stabilisation. The statistical analysis shows that the introduction of
+the Gold Exchange Standard and central banking reforms did not produce
+any immediate market response. Research into the press shows that
+market participants were able to be very well informed about the nature and
+the implementation of the institutional reforms. Formal announcements on
+institutional changes such as the adoption of the Gold Exchange Standard
+and the establishment of a central bank could hardly contain new
+information. These reforms generally take a long time to be promulgated
+and need to be ratified by parliament. Market actors observed and
+evaluated every step taken towards stabilisation carefully. As a result,
+stabilisation and the concomitant institutional reforms were factored into the
+market price of Greek sovereign debt traded in London.
+If the results of the statistical analysis are juxtaposed with the
+information on Greece collected from British newspapers on behalf of the
+Council of the Corporation of Foreign Bondholders, an organisation whose
+prime objective was to protect the interests of investors in sovereign bonds,
+then it is evident that both sources point to similar influences on
+bondholders’ expectations during the period in question. The statistical
+analysis shows that public debt and fiscal performance, two key macro
+economic fundamentals, played an important role in determining investors’
+expectations. These two determinants are equally prominent in the Greek
+Extracts.
+59
+
+
+Appendices:
+Appendix I:
+Table A11: Interest Rate Paid on the Monopoly Loan, 1914-1930
+% of Original Interest Rate
+Rate of Interest Paid
+% of Original Interest Rate
+Rate of Interest Paid 1914 55 2.20 1923 85 3.40 1915 63 2.52 1924 85 3.40 1916 67 2.68 1925 97 3.88 1917 65 2.60 1926 100 4.00 1918 65 2.60 1927 97 3.88 1919 69 2.76 1928 97 3.88 1920 100 4.00 1929 100 4.00 1921 100 4.00 1930 100 4.00 1922 85 3.40
+Note: The minimum interest rate fixed by the ‘Law of Control’ was 1.72 per cent or 43 per cent of the original interest rate.
+Source: Wynne, State Insolvency, p. 336; and The Stock Exchange Year Book (19141930).
+60
+
+
+Appendix II:
+Table A12: Issues of Public Debt in the Greek Extracts
+1914 1915 1916 1917 1918 1919
+% %% %% %
+Service of Debt 20 33.33 35 62.50 33 36.67 29 52.73 44 59.46 41 62.12
+Raising Capital 26 43.33 7 12.50 35 38.89 8 14.55 6 8.11 7 10.61
+Reports of the I.F.C. 12 20.00 14 25.00 13 14.44 13 23.64 22 29.73 17 25.76
+Actions of the I.F.C. 0 0 0 0.00 7 7.78 2 3.64 0 0 0 0
+Others 2 3.33 0 0 2 2.22 3 5.45 2 2.70 1 1.52
+Total: 60 100 56 100 90 100 55 100 74 100 66 100
+1920 1921 1922 1923 1924 1925
+% %% %% %
+Service of Debt 33 53.23 28 35.00 32 37.21 41 43.16 30 37.04 44 48.89
+Raising Capital 3 4.84 27 33.75 32 37.21 32 33.68 21 25.93 19 21.11
+Reports of the I.F.C. 11 17.74 11 13.75 15 17.44 15 15.79 15 18.52 13 14.44
+Actions of the I.F.C. 4 6.45 2 2.50 0 0 1 1.05 5 6.17 3 3.33
+Others 11 17.74 12 15.00 7 8.14 6 6.32 10 12.35 11 12.22
+Total: 62 100 80 100 86 100 95 100 81 100 90 100
+61
+
+
+1926 1927 1928 1929
+% %% %
+Service of Debt 41 48.81 38 39.58 47 51.65 34 47.89
+Raising Capital 19 22.62 34 35.42 15 16.48 13 18.31
+Reports of the I.F.C. 14 16.67 15 15.63 14 15.38 14 19.72
+Actions of the I.F.C. 3 3.57 5 5.21 4 4.40 4 5.63
+Others 7 8.33 4 4.17 11 12.09 6 8.45
+Total: 84 100 96 100 91 100 71 100
+Notes: (1) In this table news in the Greek Extracts grouped as Public Debt are disaggregated into references to: service of
+public debt which includes announcements of place and dates for coupon and bond payments; news on raising fresh capital
+from the international markets and Athens; summaries of reports of the I.F.C.; Actions of the I.F.C. which includes news related
+to the Commission and Others.
+(2) It is worth noting that summaries of the I.F.C. reports provided detailed information on the collection of the public revenues
+assigned to the Commission and were often published on behalf of the Council of the Corporation of Foreign Bondholders.
+(3) Every year, in February or March the I.F.C. announced the interest rate that they would pay beyond the minimum rate fixed
+by the ‘Law of Control’ for loans under their jurisdiction contracted before 1897.
+Source: Council of the Corporation of Foreign Bondholders, Greek Extracts, Volumes 6th and 7th; See the text.
+62
+
+
+Appendix III:
+Figure A6: M onopoly- outliers and level shift diagnostics for null m odel
+1920 1925 1930
+-2.5
+0
+2.5
+5 Outlier
+1920 1925 1930
+-2.5
+0
+2.5
+5 Level shift
+63
+
+
+Figure A7: Bonds - outliers and level shift diagnostics for null model
+1920 1925 1930
+-2
+0
+2
+4 Outlier
+1920 1925 1930
+-2
+0
+2
+Level shift
+Figure A8: 1914 Loan - outliers and level shift diagnostics for null model
+1920 1925 1930
+-2.5
+0
+2.5
+Outlier
+1920 1925 1930
+-2.5
+0
+2.5
+Level shift
+Source: See the text.
+64
+
+
+Appendix IV:
+Figure A9: QQ-plot of residuals from final model fitted to Refugee Loan
+series
+-3 -2.5 -2 -1.5 -1 -.5 0 .5 1 1.5 2 2.5 3
+-3
+-2
+-1
+0
+1
+2
+3
+QQ plot
+Source: See the text.
+65
+
+
+Archival Sources:
+Alexandros Diomides Archive, Greek Literary and History Archive, File 11.
+Bank of England Archive, OV9/190.
+Emmanuel Tsouderos Archive, Bank of Greece, File 22.
+References:
+Aggelopoulos, Aggelos. The Public Debt of Greece. Athens: Zacharopoulos,
+1937. (In Greek)
+Andreades, Andreas. Works. Vol. II. Athens: Faculty of Law, University of
+Athens, 1939. (In Greek)
+Atkin, John. "Official Regulation of British Overseas Investment, 1914-1931."
+Economic History Review 23, (1970): 324-35.
+Atkin, John Michael. British Overseas Investment 1918-1931. Ph.D.diss.,
+University of London 1968 ed. New York: Arno Press, 1977.
+Banerjee, A., R. L. Lumsdaine, and J. H. Stock. "Recursive and Sequential
+Tests of the Unit Root and Trend Break Hypothesis: Theory and
+International Evidence." Journal of Business and Economic Statistics
+10 (1992): 271-87.
+Bochotis, Thanasis. "Domestic Policy." In History of Greece in the Twentieth
+Century: The Beginning, 1900-1922, edited by Christos Hatziiossif,
+106-47. Athens: Bibliorama, 1999. (In Greek)
+Brown Jr, William O., and Richard Burdekin. "German Debt Traded in
+London During the Second World War: A British Perspective on
+Hitler." Economica 69 (2002): 655-69.
+66
+
+
+Brown Jr, William O., and Richard C.K. Burdekin. "Turning Points in the U.S.
+Civil War: A British Perspective." Journal of Economic History 60,
+(2000): 216-31.
+Brown Jr, William O., Richard Burdekin, and Marc Weidenmier. "Consols,
+Financial Stability, and Pax Britannia." Claremont McKenna College
+WP 2004-05 (2004).
+Christodoulaki, Olga. "Banking Reform and the Establishment of the Bank of
+Greece." In History of Greece in the 20th Century: The Interwar
+Period, 1922-1940, edited by Christos Hadziiossif, 250-67. Athens:
+Bibliorama, 2002. (In Greek)
+———. "The Origins of the Central Bank in Greece, the Bank of Greece."
+Ph.D. diss., London School of Economics, Work in Progress.
+Christodoulaki, Olga, and Jeremy Penzer. "News from London: Greek
+Government Bonds on the London Stock Exchange, 1914-1930."
+Paper presented to the Fourth European Historical Economics Society
+Conference, Merton College, Oxford, 21st-23rd September 2001.
+The City Diary and Almanack for 1927. London: W. H. & L. Collingridge, City
+Press, 1927.
+Corporation of Foreign Bondholders. Annual Report of the Council of the
+Corporation of Foreign Bondholders. London: Council House, Various
+Years.
+Council of the Corporation of Foreign Bondholders. Greek Extracts. Vol. 6th,
+27th October 1904-25th September 1916.
+———. Greek Extracts. Vol. 7th, 25th September 1916-31st October 1931.
+Daphnes, Gregoreos. Greece between the Two Wars, 1923-1940. Vol. A.
+Athens: Ikaros, 1955. (In Greek)
+De Jong, P., and J. R. Penzer. "Diagnosing Shocks in Time Series." Journal
+of the American Statistical Association 93 (1998): 796-806.
+67
+
+
+Dertiles, P.V. "Public Debt." In Economic and Accounting Encyclopaedia, 55
+89. Athens: I. Sideris, 1957. (In Greek)
+Diomides, Alexandros. The Financial Position of Greece before and after the
+1st November 1920. Athens: A.Raphtanes, 1922. (In Greek)
+Doornik, J. A. Ox: An Object-Oriented Matrix Programming Language. West
+Wickham, Kent: Timberlake Consultants Press, 1998.
+Drazen, Allan, and Paul Masson. "Credibility of Policies Versus Credibility of
+Policymakers." Quarterly Journal of Economics 109, (1994): 735-54.
+Duguid, Charles. The Story of the Stock Exchange: Its History and Position.
+London: Grant Richards, 1901.
+The Economist. London, 1914-1929.
+Eddy, Charles B. Greece and the Greek Refugees. London: George Allen &
+Unwin Ltd., 1931.
+Fama, Eugene F. "Efficient Capital Markets: Ii." Journal of Finance 46, no. 5
+(1991): 1575-617.
+Flandreau, Marc. "Caveat Emptor: Coping with Sovereign Risk without the
+Multilaterals." Discussion Papers Series, CEPR, no. 2004 (1998).
+Flandreau, Marc, and Frederic Zumer. "Sovereign Risk and Reputation:
+Development Perceptions in the First Age of Globalisation." Paper
+presented to the Fifth European Historical Economics Society
+Confenrence, Universidad Carlos III, Madrid, 24th-27th July 2003.
+Frey, Bruno S., and Marcel Kucher. "History as Reflected in Capital Markets:
+The Case of World War II." Journal of Economic History 60, (2000):
+468-96.
+Frey, Bruno S., and Daniel Waldenstrom. "Markets Work in War: World War
+Ii Reflected in the Zurich and Stockholm Bond Markets." Financial
+History Review 11, (2004): 51-67.
+68
+
+
+Hadziiossif, Christos. "The Refugee Impact, Constants and Changes in the
+Greek Economy." In History of Greece in the 20th Century: The
+Interwar Period, 1922-1940, edited by Christos Hadziiossif, 8-57.
+Athens: Bibliorama, 2002. (In Greek)
+Harvey, A. C. Forecasting, Structural Time Series Models and the Kalman
+Filter. Cambridge: Cambridge University Press, 1989.
+History of the Greek Nation: Modern Greece, 1913-1941. Vol. IE. Athens:
+Ekdotiki Athinon, 1978. (In Greek)
+Investor's Monthly Manual. London: Published at the Investor's Monthly
+Manual Office, 1914-1930.
+Koopman, S. J., A. C. Harvey, J. A. Doornik, and N. Sliephard. Stamp 5.0:
+Structural Time Series Analyser, Modeller and Predictor. London:
+Chapman and Hall, 1995.
+Koopman, S. J., N. Shephard, and J. A. Doornik. "Statistical Algorithms for
+Models in State Space Form Using Ssfpack 2.2." Econometrics
+Journal 2 (1999): 113-66.
+Kostis, Kostas in colaboration with George Kostelenos. A History of the
+National Bank of Greece, 1914-1940. Athens: National Bank of
+Greece, 2003. (In Greek)
+League of Nations. The League of Nations Reconstruction Schemes in the
+Inter-War Period. Vol. Official No.: C.59.M.59. 1945. II.A. Geneva:
+League of Nations, 1945.
+Leontaritis, George B. Greece and the First World War: From Neutrality to
+Intervention, 1917-1918. Boulder, New York: East European
+Monographs, Columbia University Press, 1990.
+Margaritis, Giorgos. "The Wars." In History of Greece in the Twentieth
+Century: The Beginning, 1900-1922, edited by Christos Hatziiossif,
+148-87. Athens: Bibliorama, 1999. (In Greek)
+69
+
+
+Mazower, Mark. Dark Continent. First Published 1998 ed. London: Penguin
+Books, 1999.
+———. Greece and the Inter-War Economic Crisis. Oxford: Clarendon
+Press, 1991.
+Minoglou Pepelasi, Ioanna. "The Negotiations of the Refugee Loan of 1924."
+In Eleftherios Venizelos: Society, Economy, and Politics in His Era,
+edited by Thanos Veremis and G. Goulimi, 331-36. Athens: Gnosi,
+1989. (In Greek)
+Mood, James R. "Public Debt of Greece." Supplement to Commerce
+Reports, United States Department of Commerce Trade Information
+Bulletin No.321 (1925): 1-21.
+Moody, John. Moody's Manual of Investments and Security Rating Service;
+Foreign and American Government Securities. New York: Moody's
+Investors Service, 1926.
+Morgenthau, Henry. I Was Sent to Athens. Garden City, New York:
+Doubleday, Doran & Company, Inc., 1929.
+National Bank of Greece. Annual Reports. Athens: S.K.Vlastos, Various
+Years. (In Greek)
+Obstfeld, Maurice, and Alan M. Taylor. "Sovereign Risk, Credibility and the
+Gold Standard:1870-1913 Versus 1925-31." The Economic Journal
+113, (2003): 241-75.
+Oosterlinck, Kim. "The Bond Market and the Legitimacy of Vichy France."
+Explorations in Economic History 40, (2003): 326-44.
+Palmer's Index to the Times Newspaper, 1922.
+Pentzopoulos, Dimitri. The Balkan Exchange of Minorities and Its Impact
+Upon Greece. Paris, the Hague: Mouton & Co, 1962.
+Penzer, J. R. "Critical Values for Diagnosing Shocks Statistics." LSE
+Department of Statistics, Research Report LSERR59 (2001).
+70
+
+
+Pepelasis Minoglou, Ioanna. "The Greek State and the International
+Financial Community, 1922-1932: Demystifying the Foreign Factor."
+Ph.D. diss., London School of Economics, 1993.
+Stefanides, Demosthenes. The Inflow of Foreign Capital and Its Political and
+Economic Consequences. Thessaloniki, 1930.(In Greek)
+The Times, London, 1922.
+The Stock Exchange Daily Official List. Guildhall Library, London, 1925
+1929.
+The Stock Exchange Official Intelligence. London: Spottiswoode, Ballantyne
+& Co., 1914-1930.
+The Stock Exchange Year-Book. London: Thomas Skinner and Co, 1914
+1930.
+Sussman, Nathan, and Yishay Yafeh. "Institutions, Reforms and Country
+Risk: Lessons Form Japanese Government Debt in the Meiji Era."
+Journal of Economic History 60, (2000): 442-67.
+United Kingdom, House of Commons. "Greek Law of Control." Despatch
+from Her Majesty's Minister at Athens Greece, no. 1 (1898).
+Venezis, Elias. Chronicle of the Bank of Greece. Athens: Hellenic Printing
+Company, 1955. (In Greek)
+Waldenstrom, Daniel, and Bruno S. Frey. "How Government Bond Prices
+Reflect Wartime Events. The Case of the Stockholm Market."
+SSE/EFI Working Papers in Economics and Finance, no. 489 (2002).
+Weidenmier, Marc. "The Market for Confederate Cotton Bonds."
+Explorations in Economic History 37 (2000): 76-97.
+Wells, John, and Douglas Wills. "Revolution, Restoration, and Debt
+Repudiation: The Jacobite Threat to England's Institutions and
+Economic Growth." Journal of Economic History 60, (2000): 418-41.
+71
+
+
+Willard, Kristen L., Timothy W. Guinnane, and Harvey S. Rosen. "Turning
+Points in the Civil War: Views from the Greenback Market." American
+Economic Review 86 (1996): 1001-18.
+Wynne, William H. State Insolvency and Foreign Bondholders. 2 vols. Vol. II.
+New Haven: Yale University Press, 1951.
+Yanoulopoulos, Yanis. "Foreign Policy." In History of Greece in the
+Twentieth Century: The Beginning, 1900-1922, edited by Christos
+Hatziiossif, 106-47. Athens: Bibliorama, 1999. (In Greek)
+———. Foreign Policy and 'National Issues' from the Defeat of 1897 until the
+Asia Minor Debacle. Athens: Bibliorama, 1999. (In Greek)
+Zolotas, Xenophon E. Monetary and Foreign Exchange Issues in Greece,
+1910-1927. Athens: Greka, 1928. (In Greek)
+72
+
+
+LONDON SCHOOL OF ECONOMICS ECONOMIC HISTORY DEPARTMENT WORKING PAPERS (from 2002 onwards) For a full list of titles visit our webpage at http://www.lse.ac.uk/
+2002
+WP67 Precocious British Industrialization: A General Equilibrium Perspective
+N. F. R. Crafts and C. Knick Harley
+WP68 Social Insurance Regimes: crises and ‘reform’ in the Argentine and Brazil, since c. 1900
+Colin M. Lewis and Peter Lloyd-Sherlock
+WP69 Can profitable arbitrage opportunities in the raw cotton market explain Britain’s continued preference for mule spinning? Timothy Leunig
+2003
+WP70 The Decline and Fall of the European Film Industry: Sunk Costs, Market Size and Market Structure, 1890-1927 Gerben Bakker
+WP71 The globalisation of codfish and wool: Spanish-English-North American triangular trade in the early modern period Regina Grafe
+WP72 Piece rates and learning: understanding work and production in the New England textile industry a century ago Timothy Leunig
+WP73 Workers and ‘Subalterns’. A comparative study of labour in Africa, Asia and Latin America Colin M. Lewis (editor)
+WP74 Was the Bundesbank’s credibility undermined during the process of German reunification? Matthias Morys
+
+
+WP75 Steam as a General Purpose Technology: A Growth Accounting Perspective
+Nicholas F. R. Crafts
+WP76 Fact or Fiction? Re-examination of Chinese Premodern Population Statistics Kent G. Deng
+WP77 Autarkic Policy and Efficiency in Spanish Industrial Sector. An Estimation of the Domestic Resource Cost in 1958. Elena Martínez Ruiz
+WP78 The Post-War Rise of World Trade: Does the Bretton Woods System Deserve Credit? Andrew G. Terborgh
+WP79 Quantifying the Contribution of Technological Change to Economic Growth in Different Eras: A Review of the Evidence Nicholas F. R. Crafts
+WP80 Bureau Competition and Economic Policies in Nazi Germany, 1933-39
+Oliver Volckart
+2004
+WP81 At the origins of increased productivity growth in services. Productivity, social savings and the consumer surplus of the film industry, 1900-1938 Gerben Bakker
+WP82 The Effects of the 1925 Portuguese Bank Note Crisis Henry Wigan
+WP83 Trade, Convergence and Globalisation: the dynamics of change in the international income distribution, 1950-1998
+Philip Epstein, Peter Howlett & Max-Stephan Schulze
+WP84 Reconstructing the Industrial Revolution: Analyses, Perceptions and Conceptions of Britain’s Precocious Transition to Europe’s First Industrial Society
+Giorgio Riello & Patrick K. O’Brien
+
+
+WP85 The Canton of Berne as an Investor on the London Capital Market in the 18th Century Stefan Altorfer
+WP86 News from London: Greek Government Bonds on the London Stock Exchange, 1914-1929
+Olga Christodoulaki & Jeremy Penzer

@@ -1,0 +1,352 @@
+Inflation, openness, and exchange-rate regimes
+The quest for short-term commitment
+Laura Alfaro*
+Harvard Business School, Morgan Hall 263, Soldiers Field Road, Boston MA 02163, United States
+Received 1 August 2002; accepted 1 February 2004
+Abstract
+This paper further tests Romer’s [Romer, D., 1993. Openness and inflation: theory and evidence. Quarterly Journal of Economics 58, 869–903] extension of Kydland and Prescott’s [Kydland, F., Prescott, E., 1977. Rules rather than discretion: the inconsistency of optimal plans. Journal of Political Economy 85, 473–491] predictions for dynamic inconsistency problems in open economies. In a panel data set of developed and developing countries from 1973 to 1998, I find that openness does not play a role in restricting inflation in the short run. On the other hand, a fixed exchange-rate regime plays a significant role. The results are robust to controlling for other variables that determine inflation, performing sensitivity analysis, and using a de facto exchangerate regime classification. D 2005 Elsevier B.V. All rights reserved.
+JEL classification: E31; F31; F41
+Keywords: Commitment mechanisms; Exchange-rate regimes; Inflation; Openness
+1. Introduction
+The 1990s probably will be remembered, among other things, as the decade in which average inflation came under control around the world. According to the IMF, average inflation in industrialized economies between 1982 and 1991 was 4.9%; at the end of
+0304-3878/$ - see front matter D 2005 Elsevier B.V. All rights reserved. doi:10.1016/j.jdeveco.2004.02.006
+* Tel.: +1 617 495 7981; fax: +1 617 496 5985. E-mail address: lalfaro@hbs.edu.
+Journal of Development Economics 77 (2005) 229 – 249
+www.elsevier.com/locate/econbase
+
+
+1999, it was 0.8% as measured by the GDP deflator (Table 1a). More remarkably, average inflation in developing countries went from 45.1% between 1982 and 1991 to 6.9% in 1999. The 1990s also will be remembered as the bglobalizationQ decade. Trade of goods as a percentage of PPP GDP went from 21.2% in 1988 to 28.3% in 1998 (Table 1b). This increase is even more striking when analyzed as a percentage of goods production, which increased from 71.9% in 1988 to 92.1% in 1998. Although concerns remain about lingering tariffs, nontariff barriers, and other protectionist practices, it is hard to deny that the global economy has become more integrated. The obvious question is then: Are these events related? Romer’s (1993) work shows that inflation and openness are negatively and significantly correlated. Using Kydland and Prescott (1977) and Barro and Gordon (1983) type models, Romer argues that the negative openness–inflation relationship arises from the dynamic inconsistency of discretionary monetary policy. Romer’s empirical work, using cross-country averages spanning more than a decade (beginning in 1973), tests the long-run commitment effect of openness on restricting the usefulness of discretionary monetary policy. The question remains, however, whether openness or other mechanisms bind in a short-term horizon. In this paper, I test whether openness serves as a commitment mechanism for restraining inflation in the short run. In addition, I consider the role of other variables that affect the short-term dynamics that drives inflation and the time inconsistency problem, in particular the exchange-rate regime.
+Table 1a Inflation in selected regions of the world
+Average
+1982–1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+GDP deflator Advanced countries 4.9 3.2 2.7 2.2 2.3 1.8 1.7 1.4 0.8 1.4 Consumer prices Advanced countries 4.9 3.5 3.1 2.6 2.6 2.4 2.1 1.5 1.4 2.3 Developing countries 45.1 42.8 48.7 55.3 23.2 15.4 10.0 10.6 6.9 6.1 Africa 19.5 47.1 39.1 54.7 35.3 30.2 14.6 10.9 12.3 14.2 Asia 9.7 8.6 10.8 16.0 13.2 8.3 4.8 7.7 2.5 1.9 Western Hemisphere 163.0 150.1 195.2 200.2 36.0 21.2 12.9 9.8 8.9 8.2
+Source: World Bank, World Development Indicators, 2001.
+Table 1b Integration with the global economy: trade in goods
+% Share of PPP GDP % Share of goods GDP
+1988 1998 1988 1998
+World 21.2 28.3 71.9 92.1 Low income 6.8 8.3 38.6 62.5 Latin America and Caribbean 9.4 19.1 52.3 74.5 Sub-Saharan Africa 15.4 16.8 73.2 99.5 High income 28.3 38.3 75.2 95.1
+Source: World Bank, World Development Indicators, 2001.
+230 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+One of the central issues underlying the time inconsistency problem is a government’s inability to make binding commitments to future policies. Due to the sequential nature of policy-making, it is generally optimal ex-post for governments to deviate from earlier, ex-ante optimal plans or preannounced policy rules. Private agents, aware that policy-makers have incentives to deviate in the future, base their current actions on the expectation that deviations will occur. The final outcome is a suboptimal high inflation rate. Without binding commitments that impose high costs for reversing policy, a plan with desirable properties might encounter serious credibility problems.1 These considerations give rise to important empirical puzzles. Although we do observe high periods of inflation, we do not see them in all countries at all times. What does this say about the ability to commit? Does it change, or correlate to other policy instruments? What mechanisms enable countries to relax incentive constraints and mitigate the credibility problem? Judging from observed outcomes, the efficiency of such mechanisms varies across societies and time. Unfortunately, there is little empirical evidence that the time inconsistency problem identified by Kydland and Prescott (1977) and Barro and Gordon (1983) is important to actual inflation. Romer’s (1993) worthy contribution is to test the prediction that the absence of precommitment in monetary policy, given by the degree of openness, leads to inefficiently high inflation. The theoretical reasoning follows from Rogoff’s (1985) model, which shows that more open economies gain less from surprise inflation. Surprise monetary expansions cause the real exchange rate to depreciate, leading to a negative terms-of-trade effect. The more open the economy, the more the real exchange depreciates, thus reducing incentives to undertake expansion. Using cross-country data, Romer finds a robust negative link between openness and inflation.2 I further explore the robustness of the cross-section results to adding more than a decade of observations and controlling for other variables that might determine inflation. The cross-section empirical work, however, tests the long-run commitment effect of openness on restricting the usefulness of discretionary monetary policy. A more relevant exercise, given the very nature of the time inconsistency problem, is to test the effectiveness of openness on restricting discretionary monetary policy over shorter-time horizons. Accordingly, and in contrast to previous work, I also use a panel data set of developing and developed countries from 1973 to 1998. I take advantage of the time dimension of the data to analyze whether openness serves as a commitment mechanism for restraining inflation in the short run. It could be argued that the correlation in the cross-section analysis might be driven by time-invariant omitted variables that often are difficult to measure. As a result, one could find evidence of a negative effect of openness on inflation where no such restraint on inflationary policy takes place. In
+1 See Persson and Tabellini (1994) for a survey of the time-inconsistency literature. 2 Lane (1997) considers alternative mechanisms beyond the large-country terms of trade effects that link inflation and openness. Empirically, Lane (1997) finds in a cross-section, after controlling for country size, that inflation and openness are inversely related, even for countries that face exogenous terms of trade.
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 231
+
+
+effect, once time and country dummies are considered to capture this difference, I do not find a negative relationship between openness and inflation. In the short run, there is no robust evidence that openness has restrained inflation. I further explore which other variables might affect the short-term dynamics that drive inflation. In particular, I analyze the relationship between inflation, openness, and the exchange-rate regime as a commitment device. Romer (1993) argues that the choice of exchange-rate regime is not an important determinant of inflation.3 But, as Frankel (1999) observes, fixing the exchange rate has the advantage of providing an observable commitment to monetary policy. Calvo and Vegh’s (1999) work on stabilization programs shows that exchange-rate pegs, albeit usually ending in balance of payment crises, enable countries to reduce inflation temporarily. The other often mentioned advantage of fixing the exchange rate is that it reduces transaction costs and exchange-rate risks that might discourage trade (Frankel, 1999). This argument implies that fixed exchange-rate regimes could be associated with higher levels of trade. Excluding a fixed exchange-rate variable from an analysis that considers the relationship between inflation and openness can thus bias the results. I find a significant negative relationship between a fixed exchange-rate regime and inflation that is robust to the inclusion of other control variables used in the literature. Ghosh et al. (1997) use a similar approach when studying the relation between inflation and different exchange-rate regimes across a panel of countries from 1960 to 1990. A main difference from previous work is that this paper focuses on the role time-invariant omitted variables play in driving the results for which I control for country and year fixed effects. In addition, I use a new exchange-rate regime classification constructed by Rogoff and Reinhart (2004), which considers parallel exchange-rate data when assessing whether a country has, de facto, maintained a pegged or a flexible regime. The main results are robust to using this classification. The rest of the paper is organized as follows. The data are defined in Section 2. Section 3 examines the cross-section evidence on openness and inflation. Section 4 discusses the panel empirical approach and the main results. Section 5 concludes.
+2. Data
+The sample and data cover the period of the modern exchange-rate system following the breakdown of the Bretton–Woods arrangement in 1973. The full sample covers 130 countries from 1973 to 1998.4 Inflation is measured by changes in the GDP
+3 Campillo and Miron (1997) find the exchange-rate regime to be relatively unimportant in a cross-section between 1973 and 1994. They introduced this variable as a dummy taking the value of 2 for countries in multilateral exchange-rate systems in 1974, 1 for countries in unilateral exchange-rate systems, and 0 for floating regimes. But, by using data for 1974, they fail to capture the effects of future regime changes. 4 All data are described in detail in Appendix A. The analysis excludes the period following the introduction of the Euro as particularly important limitations were imposed on the member countries’ ability to pursue independent monetary policy. Following Romer (1993), the post-Bretton Woods pre-Euro period provides a better setting for testing the dynamic inconsistency problems of discretionary monetary policy in open economies.
+232 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+deflator. Following Romer (1993) and Lane (1997), I use the logarithm of average annual inflation as the dependent variable in order to reduce the importance of extreme inflation countries. Consumer price index data are used as a robustness check. For openness measures, I use both the share of imports as a percentage of GDP and the share of exports as a percentage of GDP. As an additional control variable, I use the log of real income per capita measured by the real per capita GDP in constant dollars. To capture the effects of fiscal policies on inflation, I use fiscal deficits as a percentage of GDP as well as government debt as a percentage of GDP. Data are taken from theWorld Bank, World Development Indicators. The exchange regime classification is taken from the International Monetary Fund’s (a,b) (IMF) Annual Report on Exchange Arrangements and Exchange-Rate Restrictions. In the robustness tests, I use a new classification of de facto regimes by Rogoff and Reinhart (2004). Summary statistics on inflation and other key variables for the period 1973–1998 are presented in Table 2a. It is clear that there is extensive cross-sectional variation. Table 2b presents the correlation matrix for the main variables. Fig. 1 plots the correlation between the log of inflation and openness (imports as a percentage of GDP) from 1973 to 1998. The negative correlation persists even after adding more than a decade of observations over Romer’s work. Finally, Table 2c shows the average inflation in fixed
+Table 2a Descriptive statistics
+Sample: 130 countries (1973–1998)
+Mean S.D. Minimum Maximum
+Inflation 44.5 143.9 0.8 1121.1 Imports 40.4 24.0 7.4 158.5 Exports 34.6 23.5 7.3 171.1 GDP per capita 5244 5149 382 19762 Fiscal deficit 4.3 4.4 0.1 31.5 Government debt 47.2 38.3 4.2 220.9
+All variables are sample averages for 1973–1998. Inflation is the log of the average annual change in the GDP deflator. Imports are the share of imports to GDP. Exports are the share of exports to GDP. GDP per capita is gross domestic product in constant U.S. dollars divided by the population. Fiscal deficit is the government’s deficit as a percentage of GDP. Government debt is the central government’s debt as a percentage of GDP (see Appendix A for sources).
+Table 2b Correlation matrix
+Sample: 130 countries (1973–98)
+Imports Exports GDP capita Deficit Debt
+Imports 1.00 Exports 0.87 1.00 GPD per capita 0.13 0.36 1.00 Fiscal deficit 0.07 0.01 0.20 1.00 Government debt 0.15 0.03 0.20 0.68 1.00
+This correlation matrix is for the main explanatory variables (see Appendix A for sources and definitions of the variables).
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 233
+
+
+regimes to be higher than in floating regimes for both the de jure and de facto classifications.
+3. Cross-section analysis
+I first test whether the negative correlation between openness and inflation is robust to expanding the data set. I include in this test nearly an additional decade of observations over Romer’s (1993) analysis. I follow Romer’s estimation strategy by regressing inflation on a constant, the degree of openness, other control variables, and an i.i.d. error term:
+log InflationiÞ 1⁄4 b0 þ b1Opennessi þ b2Controlsi þ vi
+ð ð1Þ
+where i represents each country. Table 3 presents the main results of the cross-section estimates from 1973 to 1998. Column (1) reports the results of a regression between inflation and imports as a share
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0 20 40 60 80 100 120 140 160 180 200
+Log of Inflation
+Imports as share of GDP
+Fig. 1. Inflation and openness: 1973–1998. See Appendix A for countries included in the sample.
+Table 2c Average inflation across exchange-rate regimes
+IMF exchange-rate regime Reinhart–Rogoff exchange-rate regime
+Mean S.D. Mean S.D.
+Fixed 27.1 235.5 10.3 17.6 Floating 52.7 255.4 67.1 318.4
+Inflation is the log of the annual change in the GDP deflator. IMF exchange-rate regime (IMF) refers to the IMF’s classification of a country’s exchange rate as fixed or floating. Reinhart–Rogoff exchange-rate regime (RR) refers to the Reinhart–Rogoff classification of country exchange rates as fixed or floating. Intermediate regimes are included in the floating category. Table excludes hyperinflation episodes in order to smooth the effect of outliers (see Appendix A for sources and definitions of the variables).
+234 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+of GDP as the measure of openness. The coefficient on openness is negative and highly significant. The point estimates imply an average inflation of 23% for a close economy and 13% for an economy with the sample’s average import share (40%). Column (2) shows this effect to be robust to controlling for the development level. The results suggest inflation to decline with real GDP per capita. Column (3) shows the negative and significant relationship between openness and inflation to be robust to the inclusion of regional dummies. The income per capita estimate, however, is not significant. Column (4) shows the results to be robust to using exports as a share of GDP as the openness measure. Although not reported due to space considerations, the negative relationship is robust to using alternative measures of inflation, such as the consumer price index.
+3.1. The role of fiscal policies
+There is, however, debate about the forces that drive the openness–inflation relationship result. The fiscal view of inflation suggests that the ultimate cause of inflation is the government’s fiscal imbalance. As the work by Sargent and Wallace (1973) shows, government’s financing of their excess spending through money creation leads to inflation. However, as Cat ̃ao and Terrones (2003) note, most cross-section studies do not control for fiscal deficits, presuming either that fiscal imbalances play no role in determining inflation, or that their effect is captured by the other variables.5 Table 4 explores the inflation–fiscal deficit link. As seen in column (1), fiscal deficits
+Table 3 Openness and inflation: long-term commitment (cross-section)
+Dependent variable: inflation
+(1) (2) (3) (4)
+Imports 0.014*** (0.004) 0.013*** (0.004) 0.015*** (0.004) Exports 0.016*** (0.005) GDP per capita 0.181** (0.078) 0.047 (0.127) 0.078 (0.137) Constant 3.159*** (0.194) 4.569*** (0.615) 3.678*** (0.969) 2.650*** (0.994) Regional dummies No No Yes Yes R2 0.09 0.12 0.23 0.22 Number of observations 130 130 130 130
+All regressions correspond to the cross-sectional average for the period 1973–1998 and are estimated by OLS with White’s correction for heteroskedasticity. All variables are in levels except inflation and GDP per capita, which are in logs in order to smooth the effect of outliers. Imports, exports, fiscal deficit, and government debt correspond to the respective percentages of GDP. Regional dummies include OECD, Latin America, Africa, and East Asia (see Appendix A for sources and descriptions of the variables). ** Robust standard errors are in parentheses denoting 5% significance. *** Robust standard errors are in parentheses denoting 1% significance.
+5 The empirical works by Romer (1993), Lane (1997), Campillo and Miron (1997), and Bleaney (1999) do not control for fiscal deficits (see Calvo and Vegh, 1999; Fisher et al., 2002; Cat ̃ao and Terrones, 2003 for the role of fiscal deficits in inflation).
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 235
+
+
+have a positive and significant effect on inflation. The openness coefficient, however, remains negative and significant even when controlling for regional differences, the development level, and fiscal deficits. Similar results, not reported due to space considerations, are obtained using exports as a share of GDP. Terra (1998) argues that the negative relationship between openness and inflation across countries is driven by a group of severely indebted countries. The author argues that the smaller a country’s trade share, the more depreciated the real value of the currency must be to generate a given trade surplus as a share of GDP. The more depreciated the currency, the greater the pressure on the government’s budget and the greater the pressure to inflate, thus explaining the negative correlation. Romer’s (1998) main counterargument is that the relationship was significant both before and after the debt crisis. As shown in column (2) in Table 4, the results on openness and inflation are robust to controlling for government debt as percentages of GDP.6 In order to reduce the effect of outliers, columns (3) and (4) in Table 4 perform the same exercise controlling for episodes with average inflation rates above 50%, countries with
+Table 4 Robustness—inflation and openness: long-term commitment
+Dependent variable: inflation
+(1) (2) (3) (4) (5) (6)
+Imports 0.018*** (0.004)
+0.016*** (0.005)
+0.009*** (0.003)
+0.013*** (0.003)
+0.011** (0.005)
+0.003 (0.006) GDP per capita 0.024 (0.129)
+0.032 (0.169)
+0.094 (0.090)
+0.038 (0.082)
+0.195 (0.181)
+0.225 (0.178) Fiscal deficit 0.060*** (0.019)
+0.051*** (0.010)
+0.052*** (0.010)
+0.049* (0.025)
+0.127* (0.065) Government debt 0.004* (0.003) Constant 2.929*** (0.979)
+3.342*** (1.276)
+3.253*** (0.668)
+3.007*** (0.623)
+3.880*** (1.322)
+3.529** (1.461) R2 0.32 0.34 0.72 0.76 0.36 0.44 Number of observations
+123 103 123 123 123 123
+All regressions correspond to the cross-sectional average for the period 1973–1998 and are estimated by OLS with White’s correction for heteroskedasticity. All regressions include regional dummies (OECD, Latin America, Africa, and East Asia). All variables are in levels except inflation and GDP per capita, which are in logs in order to smooth the effect of outliers. Column (3) controls for high inflation countries (average inflation greater than 50%). Column (4) controls for high inflation countries, low inflation countries (average inflation less than 2%), and high openness countries (imports as a percentage of GDP greater than 100%). For column (5), the sample period is 1980–1998; for column (6), it is 1990–1998 (see Appendix A for sources and descriptions of the variables). * Robust standard errors are in parentheses denoting 10% significance. ** Robust standard errors are in parentheses denoting 5% significance. *** Robust standard errors are in parentheses denoting 1% significance.
+6 The results are robust to using both fiscal deficits and government debt in addition to the development variable and regional dummies as control variables. The estimated coefficient on openness in this case is 0.016 (0.005).
+236 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+average inflation levels below 2%, and high openness countries (higher than 100% of GDP).7 The results are robust to controlling for outliers.8
+3.2. Decades
+Are the results robust throughout the different decades and sample periods? Stokey (2002), for example, argues that the 1970s inflationary episode might reflect more than a reputation problem, a misguided response based on bflawed economic analysisQ from a time when many economists believed there to be a significant tradeoff between inflation and growth (Phillip’s curve analysis). Government officials accommodated the real shocks of the 1970s, as opposed to engineering surprise inflation. The notion that only unanticipated inflation could stimulate output and the subsequent tradeoff was not well understood until much later. As can be seen in Table 3, the results after adding data for the late 1980s and 1990s remain robust. Table 4, column (5) reports the estimates of using cross-section averages only for the 1980s and 1990 (i.e., it excludes the 1970s); the coefficient for the openness measures is negative and significant. However, as seen in column (6), the results are not robust for the 1990s.9 In particular, once we control for episodes in Latin America during the 1990s, openness is not significant at conventional levels.10 This suggests that important country-specific effects might be driving these results. This particular result and the overall analysis of the cross-section averages raise an important question about the correct time horizon for studying dynamic inconsistency problems. Is this a long-run or a short-run phenomenon? Is the time frame relevant to study openness as a commitment device for 30 years, 20 years, or 10 years? Does it change over time? Across countries? What role do country-specific variables play? Romer (1993), for example, analyzes the long run, but a study by Alesina and Roubini (1990) uses a short-term horizon profile. Di Tella and MacCulloch (2000), who find in a panel of 21 OECD countries a strong negative correlation between inflation and welfare state, argue that establishing unemployment benefits makes the monetary authority less concerned about the plight of the unemployed. Section 4 explores whether an openness–inflation relationship arises from dynamic inconsistency of discretionary policy in the short run.
+4. Panel analysis
+I exploit the time dimension of the data and present the regression analysis controlling for country and time-fixed effect. It could be argued that the correlation in
+9 A similar result is reported by Bleaney (1999), who finds the robust negative correlation between openness and inflation found in the 1970s and 1980s to disappear in the 1990s. 10 If no regional dummies are considered, the estimated coefficient on openness is 0.010 (0.006).
+8 As Romer (1993) argues, log of inflation might not be an appropriate transformation if some countries have very low average inflation rates, as the logarithmic transformation would give these countries a weight close to zero. The estimate on openness of a regression using inflation as the average change in the GDP deflator and excluding high inflation episodes is 0.105 (0.034).
+7 High openness countries were Singapore, Lesotho, Hong Kong, and Luxembourg.
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 237
+
+
+the cross-section analysis might by driven by time-invariant omitted variables, such as institutional variables, that often are difficult to measure. Romer (1993), Lane (1997), Terra (1998), and Campillo and Miron (1997) consider, in a cross-section, additional variables such as central bank independence and political instability—variables that, being available for only a subset of countries and years, are of limited use in a panel investigation. Time and country dummies, however, should capture their effect. Country dummies are included to control for omitted variables driven by individual time-invariant effects, thereby eliminating a potential source of omitted-variables bias; period dummies are included to control for period individual-invariant variables such as global shocks that might affect aggregate inflation in any period but are not captured by the explanatory variables. This technique, however, does not adjust for all omitted-variable bias since it does not control for omitted variables whose values change over time. However, institutional variables that might affect the inflationopenness relationship, such as central bank independence, tend to have little time variation. Accordingly, I investigate the relation between the log of inflation against openness measures, controlling for country and time-fixed effects:
+log InflationitÞ 1⁄4 b1Openessit þ b2Controlsit þ gi þ kt þ eit
+ð ð2Þ
+where i represents each country and t represents each time period; g refers to country fixed effect (country dummies), k is year fixed effect (period dummies), and eit is an i.i.d. error term. One additional consideration is the role of nonstationary variables in the data. Several unit root tests have been extended to panel data, and in particular to large N panel data sets such as the one used in this paper.11 A common test in the literature is Levine et al. (2002). The test assumes that the coefficient of the lagged dependent variable is homogeneous across all cross-section units of the panel and allows for fixed effects, time effects, and possibly a time trend. The null hypothesis is that each series in the panel contains a unit root (i.e., H0: q=1), against the alternative hypothesis that all individual series are stationary (i.e., H1: qb1). Alternatively, Im et al. (2003) provide a test that allows for heterogeneous coefficients in the lagged dependent variable and propose an alternative procedure based on averaging individual unit root test statistics.12 The null hypothesis is that each series in the panel contains a unit root (i.e., H0: qi=1 for all i), against the alternative hypothesis that at least one of the individual series is stationary (i.e., H1: qib1).
+12 The Levine et al. (2002) test can be viewed as a pooled Dickey–Fuller (DF) or pooled Augmented DickeyFuller (ADF) test. The authors provide transformation factors such that the test has a normal distribution in the limit. The test does require a balanced panel; the data set was reduced to 22 years and 92 countries (22 and 56, respectively, for the fiscal variables) in order to maximize the number of observations. The Im et al. (2003) test can be viewed as the average of the individual ADF statistics and, after transformation, the test has a normal distribution.
+11 See Baltagi (2001) for an overview of nonstationary panels.
+238 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+I applied both tests to the main variables.13 Results reject the hypothesis of a unit root for the openness variable. However, we cannot reject the hypothesis that the GDP per capita variable has a unit root. I thus first-differenced this variable and used it as one of the regressors.14 Both tests reject the hypothesis that the first difference of this variable has a unit root.15 Table 5 reports the main results using annual data. The first interesting result is that the negative relationship between openness and inflation disappears when controlling for time and country fixed effects.16 In fact, the relation becomes positive and significant at conventional levels in many of the specifications. Since country dummies control for a country’s unobservable time-invariant characteristics or fixed effect, instead of analyzing differences in inflation and openness across countries, the estimation focuses on changes
+Table 5 Openness and inflation: short-term commitment (panel data)
+Dependent variable: inflation
+(1) (2) (3) (4) (5) (6) (7)
+Imports 0.012*** (0.003)
+0.013*** (0.003)
+0.017*** (0.004)
+0.009** (0.001)
+0.012*** (0.002)
+0.004 (0.010) Exports 0.018*** (0.003) Growth GDP per capita
+1.892*** (0.574)
+2.828*** (0.672)
+2.011*** (0.585)
+3.123*** (0.660)
+3.560*** (0.706)
+4.092*** (0.737) Fiscal deficit 0.004 (0.008)
+0.015*** (0.006)
+0.013** (0.005) R2 0.54 0.54 0.58 0.56 0.09 0.12 0.07 Number of observations
+2033 2033 1563 2033 2033 1563 1561
+All regressions correspond to annual panel data for 1973–1998. All specifications include year and country dummies except for columns (5)–(7), which include only year dummies. All variables are in levels except inflation, which is the log of the annual change in the GDP deflator in order to smooth the effect of outliers. Growth GDP per capita corresponds to the first difference of the log of the annual GDP per capita. In column (7), imports correspond to the first difference of the share of imports to GDP (see Appendix A for sources and descriptions of the variables). ** Robust standard errors are in parentheses denoting 5% significance. *** Robust standard errors are in parentheses denoting 1% significance.
+13 The adjusted t statistics for the Levin Lin and Chu test (one lag) for imports, log of GDP per capita, first different log GDP per capita, log of inflation, and fiscal deficits were 3.71, 1.19, 19.48, 12.78 and 5.98 respectively. The adjusted t-statistics for Im, Perasan, Shin test (one lag) were 1.91, 5.02, 18.89, 12.72 and 5.50 respectively. 14 See Ghosh et al. (1997, 2002) for a similar treatment. 15 Note however, as Baltagi (2001) points out, that the use of such panel data methods is not without criticism, in particular, regarding the properties of both tests when N is large relative to T. As an additional robustness check, Table 5, column (7), runs the regression using the first difference of the openness variable. 16 The fixed-effect model is generally more appropriate than a random-effects model for macro datasets. Most macro datasets tend to include most of the countries of interest as opposed to be a random sample from a larger universe. In addition, Hausman specification tests comparing the fixed-effect specifications with the randomeffects models rejected the assumptions required for random effects.
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 239
+
+
+in these variables within each country across time—in other words, how changes in openness relate to changes in inflation within a given country. The results suggest that an increase in openness does not lead to lower inflation. Column (2) shows this result to be robust to the inclusion of the growth of the GDP per capita measure. As expected, growth has a negative and significant effect on inflation. As seen in column (3), fiscal deficits have a positive coefficient, although the coefficients are not significant as obtained in the cross-section analysis.17 As seen in column (4), the results are robust to using exports as a percentage of GDP as the openness measure. As an additional exercise, columns (5) and (6) compare the previous results that control for country and time-fixed effects against those obtained if no country dummies are included in the regression. This latter specification is closest to the spirit of the earlier cross-section analysis. As seen in column (5), in this case, the estimate for the openness variable is negative and significant, as in the cross-sectional results. Column (6) shows a positive and significant effect for fiscal deficits. These results suggest that, in effect, previous results could be driven by omitted-time invariant variables. Finally, as an additional test, column (7) uses the first difference of the share of imports as a percentage of GDP as the openness measure. In this case, the openness variable has a positive effect on inflation. The result, however, is not significant. Table 6 performs robustness checks to the previous results. In particular, columns (1)–(3) show the results to be robust to controlling for high openness, high inflation, and low inflation episodes. The coefficient on openness is positive and significant.18 In this case, the fiscal deficit variable has a positive, although not significant, effect on inflation. Columns (4) and (5) in Table 6 also analyze the effects of openness and inflation during different sample periods. As seen in column (4), the openness variable has a positive and significant effect on inflation during the 1980s and 1990s. However, as column (5) shows, none of the variables has significant estimates for the 1990s. Notice, however, that this can be due to the reduction in the sample size. Finally, columns (6) and (7) control for the development level. Column (6) shows the openness variable to be positive but not significant for high-income countries, although, again, the sample size is reduced dramatically. The results, however, are significant for middle and poor income countries. Summarizing, controlling for time and country fixed effects that capture cyclical and other time-invariant determinants of inflation, and performing several robustness tests, the data show that openness does not, in the short run, seem to be a constraint on policymakers’ incentives to inflate.
+17 Similar results are obtained when using government debt as a percentage of GDP. The related empirical work using panel data has yet to find a strong and significant relation between fiscal deficits and inflation across a broad range of countries. Fisher et al. (2002), using fixed effects in a panel of 94 countries, find that fiscal deficits drive inflation rates in excess of 100 per year; but fiscal deficits have no inflationary effect in low-inflation episodes. Using a larger data set and a dynamic panel estimator, Cat ̃ao and Terrones (2003) find a strong association between deficits and inflation among high inflation and developing countries, but not among low inflation or advanced countries. 18 As an additional robustness test, the estimate on openness of a regression using inflation measured as the annual change in the GDP deflator and excluding high inflation episodes was 0.053 (0.026).
+240 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+4.1. The role of the exchange-rate regime
+Moving to a shorter-term horizon leads us to ask what other mechanisms might limit the benefits of unanticipated monetary expansions in the short run. One mechanism is the exchange-rate regime. A classical argument for adopting fixed exchange-rate regimes is that doing so creates incentives for policy-makers to control monetary supply and, thus, inflation. In an open economy, a fixed exchange-rate regime can provide a commitment device for a country that pegs its economic policy to a more stable currency and imports its monetary policy. By using the exchange rate as a nominal anchor, the monetary authorities tie down the price of trade goods, which eventually will force other prices to come down. The more open the economy, the more efficient will be the mechanism of pegging the exchange, as more prices will be btied down.Q This argument explains why countries such as Spain, Italy, and Portugal were eager to import Germany’s monetary discipline. The stabilization literature reviewed by Calvo and Vegh (1999) shows how often countries have used a fixed exchange rate to provide a nominal anchor to reduce inflation. Over the last four decades, a number of Latin American stabilization programs pegged their exchange rates to the U.S. dollar. All of this assumes, of course, that a country wants to defend the peg and is pursuing policies consistent with this end. The peg does not eliminate the incentive to create inflation; it merely imposes a constraint on the central bank’s ability to act on
+Table 6 Robustness—inflation and openness: short-term commitment
+Dependent variable: inflation
+(1) (2) (3) (4) (5) (6) (7)
+Imports 0.011*** (0.003)
+0.008*** (0.003)
+0.011*** (0.003)
+0.018*** (0.004)
+0.002 (0.007)
+0.004 (0.008)
+0.009** (0.003) Growth GDP per capita
+1.390*** (0.466)
+1.387*** (0.408)
+1.639*** (0.497)
+2.524*** (0.678)
+1.084 (1.242)
+0.080 (1.111)
+2.012*** (0.587) Fiscal deficit 0.0003 (0.006) R2 0.63 0.72 0.74 0.54 0.71 0.72 0.53 Number of observations
+2033 2033 1563 1669 744 351 1682
+All regressions correspond to annual panel data for 1973–1998. All specifications include year and country dummies. All variables are in levels except inflation rate, which is the log of the change in the GDP deflator in order to smooth the effect of outliers. Growth GDP per capita corresponds to the first difference of the log of the annual GDP per capita. Column (1) controls for high inflation episodes (average inflation greater than 50%). Columns (2) and (3) control for high inflation episodes, low inflation episodes (average inflation less than 2%), and high openness (imports as a percentage of GDP greater than 100%). The sample period in column (4) is 1980–1998; the sample period in column (5) is 1990–1998. Column (6) includes only highincome countries; column (7) includes only middle- and low-income countries (see Appendix A for sources and descriptions of the variables). ** Robust standard errors are in parentheses denoting 5% significance. *** Robust standard errors are in parentheses denoting 1% significance.
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 241
+
+
+that incentive, which will depend on the political (or other) costs of breaking the peg.19 The other major advantage of fixing the exchange rate is that doing so reduces transaction costs and exchange-rate risks that discourage trade (Frankel, 1999). The higher exchange-rate variability associated with floating exchange-rate regimes creates uncertainty that can discourage trade and investment. Although the argument that fixing the exchange rate can eliminate excessive exchange-rate volatility and risk and encourage trade and investment tends to be downplayed in countries in which exchange-rate risk hedging is possible due to forward markets and other instruments, trade and investment promotion in Europe were clearly a prime motivator of the European Monetary Union. Although the empirical findings regarding the relationship between trade and fixed exchange rates tend to be ambiguous, we cannot, however, reject the associated theoretical implications.20 As observed by Rose (2000), there is little consensus on the effects of exchange-rate volatility on trade, save that the effects are difficult to estimate. Possible explanations for this difficulty in time series analysis include the difficulty of measuring exchange-rate volatility and using derivatives to hedge risk as well as problems with data sets. Kenen and Rodrik (1986) find, however, that volatility tends to depress the volume of international trade. This second line of arguments implies that because fixed exchange-rate regimes might be associated with higher levels of openness and trade, excluding the fixed exchange-rate regime variable can bias the results. In order to take into account these considerations, I estimate a regression of the log of inflation on the degree of openness—a variable that controls for the exchange-rate regime, other control variables, and country and year dummies:
+logðInflationitÞ 1⁄4 b1Openessit þ b2ExchangeRateRegimeit þ b2Controlsit
+þ gi þ kt þ mit ð3Þ
+where gi refers to country fixed effect, k is year fixed effect, and mit is the i.i.d. error term. The exchange-rate regime was taken from the IMF’s Annual Report on ExchangeRate Arrangements and Exchange Restrictions. The regime variable was defined as a dummy variable that takes the value of 0 if a country maintained a floating regime, 1 if a country maintained an intermediate regime, and 2 if a country a maintained a fixed regime, at each t. Table 7 reports the main results. Column (1) reveals the openness measure to be positive and significant and the exchange-rate regime variable to be both negative and significant. Note again that because the regression includes fixed effect and period dummies, only the time series variation in openness and the exchange-rate regime are picked up by the coefficient. Hence, the coefficient reflects the effect of moving from floating to fixed regimes on inflation. The results are also economically significant. A
+20 Bacchetta and Van Wincoop (2000), using a general equilibrium framework with deviations from purchasing power parity caused by rigid price setting in the buyer’s currency, find that both trade and welfare can be higher under either a fixed or flexible regime depending on the preferences and monetary rules pursued.
+19 See Tornell and Velasco (2000) for arguments against the discipline imposed by fixed exchange-rate regimes.
+242 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+Table 7
+Inflation and openness—short-term commitment: the role of the exchange-rate regime (IMF classification)
+Dependent variable: inflation
+(1) (2) (3) (4) (5) (6) (7) (8)
+Imports 0.009
+(0.003)
+0.010***
+(0.003)
+0.007***
+(0.001)
+0.014***
+(0.004)
+0.008***
+(0.002)
+0.007*
+(0.004)
+0.013***
+(0.003)
+0.007**
+(0.003)
+Growth GDP
+per capita
+1.932***
+(0.565)
+3.511***
+(0.655)
+0.283***
+(0.661)
+1.431***
+(0.459)
+2.011***
+(0.582)
+1.909***
+(0.551)
+2.264**
+(0.555)
+Exchange
+regime—IMF
+0.260***
+(0.036)
+0.262***
+(0.036)
+0.294***
+(0.029)
+0.242***
+(0.044)
+0.227***
+(0.020)
+0.184***
+(0.039)
+Fiscal deficit 0.004
+(0.007)
+Pegged
+regime—IMF
+0.352***
+(0.067)
+0.205**
+(0.088)
+R2 0.56 0.56 0.13 0.60 0.65 0.54 0.57 0.45
+Number of
+observations
+2033 2033 2033 1563 2033 1682 1517 1517
+All regressions correspond to annual panel data for 1973–1998. All specifications include country and year dummies except for column (3), which includes only year
+dummies. All variables are in levels except inflation rate, which is the log of the annual change in the GDP deflator in order to smooth the effect of outliers. Growth GDP
+per capita corresponds to the first difference of the log of the annual GDP per capita. Exchange-rate regime (IMF) refers the IMF classification of a country’s exchange-rate
+regime (2 if fixed; 1 if intermediate; 0 if floating). Column (5) controls for high inflation episodes (greater than 50%). Column (6) includes only middle- and low-income
+countries. In column (7), pegged regime is a dummy variable taking the value of 1 if the country has a fixed exchange-rate regime according to the IMF classification.
+Column (8) controls for endogeneity of regime choice (see Appendix A for sources and descriptions of the variables).
+* Robust standard errors are in parentheses denoting 10% significance.
+** Robust standard errors are in parentheses denoting 5% significance.
+*** Robust standard errors are in parentheses denoting 1% significance.
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 243
+
+
+country adopting a fixed exchange-rate regime would experience a reduction in inflation close to 40% relative to that under a floating regime. The result, as reported in column (2), is robust to the inclusion of growth of GDP per capita, which has a negative and significant effect on inflation. In this case, the coefficient on openness is positive and significant. Column (3) compares these results with those obtained not controlling for country fixed effects. In this case, the openness measure is negative and significant. The exchange-rate regime dummy, however, remains negative and significant with a higher estimated reduction in inflation. This indicates that countries with fixed regimes tend to have lower inflation levels, not only moving from floating to a fixed-regime reduces inflation. Column (4) adds the fiscal deficits variable. The openness measure remains positive and significant and both the exchange-rate regime variable and the log of GDP are negative and significant. The fiscal variable, although having the right sign, is not significant. Column (5) shows the results to be robust to controlling for high inflation. The coefficient on openness is positive and significant. The results, not reported due to space considerations, are robust to controlling for fiscal deficits.21 Column (6) controls for the development level and shows the exchange-rate regime variable to be significant for middle and poor income countries.22
+4.2. Causality
+In particular, it might be that low inflation countries are better able to maintain a pegged exchange-rate regime. I follow Ghosh et al.’s (1997, 2002) approach and test for endogeneity of the exchange-rate regime choice. Following Maddala (1989), the authors implement a simultaneous equation framework whereby the reduced form for the regime choice is first estimated using a probit model. The predicted values from the probit estimation are substituted into the inflation equation with the appropriate correction for standard errors.23 Since it is difficult to find plausible instruments that distinguish between pegged and intermediate regimes, the authors use only pegged regimes (and group intermediate and floating together). In addition, lagged values were used as instruments to control for potential endogeneity of the other variables. As a benchmark result, column (5) shows the estimates of a regression of the log of inflation on openness, a dummy for pegged regime, the control variables, and country and time dummies. Column (6) shows the results of controlling for regime choice.24 The lower estimate indicates that there is some choice endogeneity in the OLS estimates. However,
+23 In principle, the nonlinearity of the probit function is sufficient for identifying the inflation regression; however, the authors use country size and export concentration as exclusion restrictions.
+22 Results were not significant for a rich-countries subsample, although this might be due to the smaller sample size.
+24 In the first-stage probit regression, export concentration and openness had the expected sign and significant estimates of 0.025 (0.003) and 0.018 (0.003), respectively. The estimates for other variables were not significant.
+21 The estimate on openness and the exchange-rate regime of using inflation measured as the annual change in the GDP deflator and controlling for high inflation episodes were 0.032 (0.026) and 2.402 (0.356), respectively.
+244 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+even after taking this into consideration, adopting a fixed exchange-rate regime has a significant and economically important impact on reducing inflation.25
+4.3. Exchange-rate regime classification
+An additional concern is related to the differences between what governments have announced and what they have actually done in terms of exchange-rate regimes. De jure regimes capture the importance of public announcements as a signal to set expectations. As an additional test, I also use de facto regimes. Table 8 presents the main results of performing a similar exercise using the exchange-rate classification developed by Rogoff and Reinhart (2004). These authors use data based on market-determined parallel exchange rates to classify the exchange-rate regime.26 As they note, this new method found that an important number of countries floated the exchange rate while announcing peg regimes and vice versa—several countries that claim to float in de facto pegging. In
+Table 8 Inflation and openness—short-term commitment: the role of the exchange-rate regime (Reinhart–Rogoff classification)
+Dependent variable: inflation
+(1) (2) (3) (4) (5) (6) (7)
+Imports 0.013*** (0.003)
+0.014*** (0.003)
+0.018*** (0.004)
+0.011*** (0.003)
+0.011*** (0.003)
+0.017*** (0.004)
+0.004 (0.004) Growth GDP per capita
+1.230* (0.629)
+2.206* (0.777)
+0.714 (0.537)
+1.410** (0.633)
+1.944** (0.635)
+2.179*** (0.620) Exchange regime—RR
+0.393 (0.042)
+0.387*** (0.042)
+0.376*** (0.050)
+0.279*** (0.032)
+0.346*** (0.045) Fiscal deficit 0.006 (0.008) Pegged regime—RR
+0.444*** (0.070)
+0.344*** (0.121) R2 0.57 0.57 0.61 0.65 0.55 0.59 0.26 Number of observations
+1810 1810 1421 1810 1492 1404 1404
+All regressions correspond to annual panel data for 1973–1998. All specifications include country and year dummies. All variables are in levels except inflation rate, which is the log of the change in the annual GDP deflator in order to smooth the effect of outliers. Growth GDP per capita corresponds to the first difference of the log of the annual GDP per capita. Exchange-rate regime (RR) refers the Reinhart–Rogoff classification of a country’s exchange-rate regime (2 if fixed; 1 if intermediate; 0 if floating). Column (4) controls for high inflation episodes (greater than 50%). Column (5) includes only middle- and low-income countries. In column (6), pegged regime is a dummy variable taking the value of 1 if the country has a fixed exchange-rate regime according to the Reinhart and Rogoff classification. Column (7) controls for endogeneity of regime choice (see Appendix A for sources and descriptions of the variables). * Robust standard errors are in parentheses denoting 10% significance. ** Robust standard errors are in parentheses denoting 5% significance. *** Robust standard errors are in parentheses denoting 1% significance.
+25 The results are robust to including fiscal deficits and controlling for endogeneity choice. The estimated coefficient on the exchange-rate regime dummy was 0.249 (0.095). 26 Appendix A describes the classification in detail.
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 245
+
+
+order to ease comparisons with the results that use the IMF classification, their floating regimes were coded as 0; intermediate regimes as 1; and fixed as 2. Column (1) in Table 8 shows the exchange rage regime variable to have a positive and significant value. Once considering for de facto regimes, adopting a fixed exchange-rate regime has a significant effect in reducing inflation. Columns (2)–(5) show the result to be robust to including growth, fiscal deficits, excluding high inflation episodes and middle- and low- income countries. Finally, column (7) controls for the endogeneity of the regime choice. The results can be contrasted against the benchmark case that uses a dummy for fixed regimes in column (6).27 Although the OLS estimates were also subject to simultaneity bias, the main results are still significant and economically important. Summarizing, at short-term horizons, the exchange-rate regime betters openness in restraining inflation.
+5. Conclusions
+This paper demonstrates empirically the non-significant role openness seems to play as a commitment mechanism in the short term. Pegged exchange-rate regimes, however, have been associated with significantly better inflation performance. These results hold after controlling for country and time-fixed effects and using Rogoff and Reinhart (2004) de facto exchange-rate regime classification. The negative and strong relationship between inflation and a fixed exchange-rate regime is consistent with the classical literature, which argues that fixed exchange-rate regimes impose bdisciplineQ on individual countries, reflecting the greater observability, accountability, and transparency of the exchange rate over openness. The relationship is consistent as well with the literature on dynamic inconsistency problems, which suggest that the absence of precommitment in monetary policy leads to inefficiently high levels of inflation. A government that decides to pursue an inflationary policy risks undermining the viability of the fixed exchange-rate regime, which can constrain its intentions. There being a stronger link between the exchange rate and inflation than between inflation and openness in the short term, inflation might be more effectively restrained through economic cooperation and by integrating the design of macroeconomic policies consistent with maintaining fixed exchange rates. The message of the paper is not that a peg inconsistent with fiscal and monetary policies can achieve low, long-term, sustainable inflation. Rather, this paper argues that, in the short run, a fixed exchange rate has served as a commitment mechanism and thereby limited inflation.
+Acknowledgement
+I am grateful to Carlos Vegh, an anonymous referee, Rafael Di Tella, and Fabio Kanczuk for valuable comments and suggestions, and Lluis Parera-i-Ximenez and Bilal Zia for excellent research assistance.
+27 The first-stage probit estimates for export concentration and openness were 0.017 (0.003) and 0.003 (0.001), respectively. Estimates for the other variables were not significant.
+246 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+Appendix A. Countries and samples
+(1) Sample of countries included in cross-section (2) Sample of countries included in panel: Algeria (1,2), Angola (1), Argentina (1,2), Australia (1,2), Bahamas (1), Bahrain (1,2), Bangladesh (1,2), Barbados (1,2), Belgium (1,2), Belize (1,2), Benin (1,2), Bolivia (1,2), Botswana (1,2), Brazil (1,2), Bukina Faso (1,2), Burundi (1,2), Cameroon (1,2), Canada (1,2), Cape Verde Islands (1), Central African Republic (1), Chad (1), Chile (1,2), Colombia (1,2), Comoros (1), Congo (1,2), Costa Rica (1,2), Cyprus (1,2), Denmark (1,2), Djibouti (1), Dominica (1), Dominican Republic (1,2), Ecuador (1,2), Egypt (1,2), El Salvador (1,2), Ethiopia (1,2), Fiji (1,2), Finland (1,2), France (1,2), Gabon (1,2), Germany (1,2), Ghana (1,2), Greece (1,2), Guatemala (1,2), Guinea (1), Guinea-Bissau (1), Guyana (1,2), Haiti (1,2), Honduras (1,2), Hong Kong (1,2), Hungary (1), Iceland (1,2), India (1,2), Indonesia (1,2), Iran (1,2), Iraq (1), Ireland (1,2), Israel (1,2), Ivory Coast (1,2), Jamaica (1,2), Japan (1,2), Jordan (1,2), Kenya (1,2), Korea (1,2), Kuwait (1,2), Laos (1), Lesotho (1), Liberia (1,2), Luxembourg (1,2), Madagascar (1,2), Malawi (1,2), Malaysia (1,2), Mali (1), Mauritania (1,2), Mauritius (1,2), Mexico (1,2), Morocco (1,2), Mozambique (1,2), Myanmar (1,2), Namibia (1), Nepal (1), Netherlands (1,2), New Zealand (1,2), Nicaragua (1,2), Niger (1,2), Nigeria (1,2), Norway (1,2), Oman (1,2), Pakistan (1,2), Panama (1,2), Papua N. Guinea (1,2), Paraguay (1,2), Peru (1,2), Philippines (1,2), Portugal (1,2), Puerto Rico (1), Rwanda (1), Saudi Arabia (1,2), Senegal (1,2), Seychelles (1), Sierra Leone (1,2), Singapore (1,2), Solomon Islands. (1), Somalia (1,2), South Africa (1,2), Spain (1,2), Sri Lanka (1,2), St. Lucia (1), St. Vincent and Grenada (1), Sudan (1,2), Suriname (1,2), Swaziland (1,2), Sweden (1,2), Switzerland (1,2), Syria (1,2), Thailand (1,2), Togo (1,2), Trinidad and Tobago (1,2), Tunisia (1,2), Turkey (1,2), UK (1,2), USA (1,2), Uganda (1), United Arab Emirates (1,2), Uruguay (1,2), Venezuela (1,2), Yemen (1,2), Zaire (1,2), Zambia (1,2), Zimbabwe (1,2).
+Appendix B. Data sources and descriptions
+Inflation: Logarithm of inflation measured by the GDP deflator, 1973–1998. Source: World Bank Development Indicators (2001).
+Openness measures: Imports as a percentage of GDP and exports as a percentage of GDP, 1973–1998. Source: World Bank Development Indicators.
+Real GDP per capita: Log of real per capita GDP in constant 1995 dollars, 1973–1998. Source: World Development Indicators, World Bank (2001).
+Growth real GDP per capita: First difference of log of real per capita GDP in constant 1995 dollars, 1974–1998. Source: World Development Indicators, World Bank (2001). Fiscal deficit: Overall government deficit including grants as a percentage of GDP, 1973–1998. Source: World Development Indicators, World Bank (2001). Public debt: Central government’s debt as a percentage of GDP, 1973–1998. Source: World Development Indicators, World Bank (2001).
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 247
+
+
+Export concentration: Share of total exports to three largest trading partners, 19731998. Source: Ghosh et al. (2002). Exchange-rate regime: Dummy variable defined as 0 if the country maintained a floating regime; 1 if country maintained an intermediate regime; 2 if the country maintained a fixed regime, 1973–1998. Source: IMF’s Annual Report on ExchangeRate Arrangements and Exchange Restrictions, various issues, 1973–1998.
+Fixed exchange-rate regime: Dummy variable defined as 1 if the country maintained a fixed exchange-rate regime; 0 otherwise, 1973–1998. Source: IMF’s Annual Report on Exchange-rate Arrangements and Exchange Restrictions, various issues, 1973–1998. Regime Reinhart–Rogoff: Exchange-rate taxonomy constructed by Rogoff and Reinhart (2004) that classifies de facto exchange rates by considering the role of marketdetermined parallel exchange rates among other variables. In their classification, the least flexible arrangements are assigned lower values in their scale. The coarse grid differentiates five categories: (1) fixed regimes (no separate legal tender, preannounced peg or currency board arrangement, preannounced horizontal band that is narrower or equal to F2%, and de facto pegs); (2) crawling pegs (preannounced and de facto crawling pegs and preannounced crawling band that are wide than or equal to F2%); (3) managed floating (which includes de facto crawling band that is narrower than or equal to F5% and a moving band that is narrower than or equal to F2%); (4) freely floating; and (5) freely falling (a category for counties whose 12-month inflation rate is above 40%). In order to compare results with the IMF classification, the exchange-rate regime was defined as dummy variable defined as 0 if the country maintained a floating regime—(3), (4), and (5) in their original classification; 1 if country maintained an intermediate regime—(2) in their original classification; and 2 if the country maintained a fixed regime—(1) in their original classification, 1973–1998. Source: Rogoff and Reinhart (2004). Fixed Reinhart–Rogoff: Dummy variable defined as 1 if Rogoff and Reinhart (2004) classified a country as one with a fixed exchange-rate regime (1); 0 otherwise, 1973–1998.
+References
+Alesina, A., Roubini, R., 1990. Political cycles in OECD economies. Review of Economic Studies 59, 663 – 688. Bacchetta, P., Van Wincoop, E., 2000. Does exchange-rate stability increase trade and welfare? American Economic Review 90, 1093 – 1109. Baltagi, B.H., 2001. Econometric Analysis of Panel Data. John Wiley and Sons, Chichester, UK. Barro, R., Gordon, D., 1983. A positive theory of monetary policy in a natural rate model? Journal of Political Economy 91, 589 – 610. Bleaney, M., 1999. The Disappearing Openness–Inflation Relationship: A Cross-Country Analysis of Inflation Rate. IMF Working Paper. Calvo, G., Vegh, C., 1999. Inflation stabilization in chronic inflation countries. In: Taylor, J., Woodford, M. (Eds.), Handbook of Macroeconomics. North Holland, Amsterdam. Campillo, M., Miron, J., 1997. Why does inflation differ across countries? In: Romer, C., Romer, D. (Eds.), Reducing Inflation: Motivation and Strategy, NBER Studies in Business Cycles. University of Chicago Press, Chicago.
+248 L. Alfaro / Journal of Development Economics 77 (2005) 229–249
+
+
+Cat ̃ao, L., Terrones, M., 2003. Fiscal Deficits and Inflation. IMF Working Paper. Di Tella, R., MacCulloch, R., 2000. The Welfare State as a Substitute for a Conservative Central Banker. Harvard Business School Working Paper. Fisher, S., Sahay, R., Vegh, C., 2002. Modern hyper- and high inflations. Journal of Economic Literature 40, 176 – 187. Frankel, J., 1999. No Single Currency Regime is Right for All Countries or at All Times. NBER Working Paper 7338. Ghosh, A., Gulde, A., Ostry. J., 1997. Does Nominal Exchange Regime Matter? NBER Working Paper 5874. Ghosh, A., Gulde, A., Ostry, J., 2002. Exchange-rate Regimes. Choices and Consequences. MIT Press, Cambridge, MA. Im, K.S., Pesaran, M.H., Shin, Y., 2003. Testing for unit roots in heterogeneous panels. Journal of Econometrics 115, 53 – 74. International Monetary Fund, Annual Report on Exchange Arrangements and Exchange Restriction, various issues. IMF, Washington, DC. International Monetary Fund, International Financial Statistics on CD-ROM. IMF, Washington, DC. Kenen, P., Rodrik, D., 1986. Measuring and analyzing the effects of short-term volatility in real exchange-rates. Review of Economics and Statistics 68, 311 – 315. Kydland, F., Prescott, E., 1977. Rules rather than discretion: the inconsistency of optimal plans. Journal of Political Economy 85, 473 – 491. Lane, P., 1997. Inflation in open economies. Journal of International Economics 42, 327 – 347. Levine, A., Lin, C., Chu, C.J., 2002. Unit root tests in panel data: asymptotic and finite sample properties. Journal of Econometrics 108, 1 – 24. Maddala, G.S., 1989. Limited Dependent and Qualitative Variables in Econometrics. Cambridge University Press, Cambridge, England. Persson, T., Tabellini, G., 1994. Introduction, in Monetary and Fiscal Policy. MIT Press, Cambridge, MA. Rogoff, K., 1985. Can international monetary policy coordination be counterproductive? Journal of International Economics 18, 199 – 217. Rogoff, K., Reinhart, C., 2004. The modern history of exchange-rate arrangements: a reinterpretation. Quarterly Journal of Economics 119 (1), 1 – 48. Romer, D., 1993. Openness and inflation: theory and evidence. Quarterly Journal of Economics 58, 869 – 903. Romer, D., 1998. A new assessment of openness and inflation: reply. Quarterly Journal of Economics 63, 649 – 652. Rose, A., 2000. One money, one market: estimating the effect of common currencies on trade. Economic Policy 15, 7 – 33. Sargent, T., Wallace, N., 1973. The stability of models of money and growth with perfect foresight. Econometrica 41, 1043 – 1048. Stokey, N., 2002. Rules versus discretion after twenty five years. University of Chicago Conference Draft for the NBER Macroeconomics Annual 2002. Terra, C., 1998. Openness and inflation: a new assessment. Quarterly Journal of Economics 63, 641 – 648. Tornell, A., Velasco, A., 2000. Fixed versus flexible exchange-rates: which provides more fiscal discipline? Journal of Monetary Economics 45, 399 – 436. World Bank, 2000. World Development Indicators, CD-ROM. World Bank, Washington, DC.
+L. Alfaro / Journal of Development Economics 77 (2005) 229–249 249

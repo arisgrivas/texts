@@ -1,0 +1,524 @@
+Monetary and Fiscal Policies in Greece: 1833-1914 Lazaretou, S Journal of European Economic History; Fall 1993; 22, 2; Periodicals Archive Online pg. 285
+Monetary and Fiscal Policies in Greece: 1833-1914*
+Sophia Lazaretou
+Athens University of Economics and Business
+1. Introduction
+From 1833 — when reconstruction started — to 1914 — when the international gold standard broke down — the Greek economy experienced sharp and permanent increases in government expenditure, a continuous fall in income tax revenues as well as a persistent monetization of budget deficits. It is well known (Phelps, 1973; Barro, 1979, 1987; Mankiw, 1987; Grilli, 1988, 1989) that inflation is viewed as a public finance phenomenon. Studying the behaviour of Greek monetary and fiscal authorities across different time periods in the past, we conclude that governments largely used inflation in order to derive revenues (seigniorage) and finance their budget deficits. Ultimately, several episodes of supension of metallic convertibility took place and Greece experienced long-lived irredeemable paper currency standards. The main purpose of this paper is to present some historical perspective on the behaviour of the monetary and fiscal policies pursued in Greece during the period from the early 1830s until the collapse of the gold standard. Furthermore, the existence of reliable
+* This paper is based upon a part of my Ph. D. dissertation at the Athens University of Economics and Business. I am very indebted to George Alogoskoufis for directing my attention towards these issues and providing helpful comments. I have benefited from the comments and suggestions of Nicos Christodoulakis and Panayotis Kapopoulos on an earlier draft. I would also like to thank the Archives of the National Bank of Greece for permission to use their material. Any errors are mine alone.
+285
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+data for monetary and fiscal aggregates gives us the chance to highlight the link that exists between government budget problems, fluctuations of monetary variables and exchange rate movements. It should be noted that these data are not only unpublished but also their existence is probably unknown to Greek scholars. Hence, we consider that an appendix containing the main time-series with their sources would be useful to Greek and non-Greek researchers. We proceed as follows. We divide the story of Greek monetary and fiscal policies into three parts. The first part (Section 2.1) concerns the period from 1833 to 1876. The starting point is 1833 because this year is the earliest for which we have a complete data series at least for the fiscal variables. The ending point is 1976 when bimetallism ended anda long period of irredeemable paper currency standards started. The second part of the story (Section 2.2) concerns the period from 1877 to 1909. During this period a fiat monetary system prevailed. The third part (Section 2.3) concerns the period from 1910 — when Greece adopted a gold-exchange based regime — until 1914 — when WWI broke out and the gold standard collapsed. Finally, Section 3 offers some concluding remarks while an appendix at the end of the paper contains some of the historical data.
+2. The pre-WWI Period (1833-1914)
+Tables 1 and 2 present the main features of the fiscal and monetary policies pursued. They reveal the existence of a close link between fiscal considerations and monetary policies. Periods of high levels of government expenditure were characterized by large seigniorage needs, sharp and divergent increases in note circulation and sharp and divergent reductions in the metallic reserves of the central bank. Moreover, linking the Drachma/French franc exchange-rate movements! with government financing decisions we can have some evidence on what caused the suspensions of metallic convertibility.
+1 For the pre-WWI period we only study the Drachma/French franc exchange rate movements since the drachma was tied to the French franc, the nominal anchor of the Latin Monetary Union to which Greece belonged.
+286
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+Table 1 Selected Fiscal Indicators: Greece, 1833-1914
+Monetary Government _Interest Income _Seigniorage Episodes Spending Payments Taxes (%) (%) (%) (%)
+Gold-Silver Standard 1833-47 144.6 37.6 55.7 0.3* Suspension of Convertibility(1st epis.) 1848 118.3 28.9 49.2 = -4.5 Gold-Silver Standard 1849-68 124.0 23.3 45.7 5.03 Suspension of Convertibility(2nd epis.) 1869-70 126.1 31.6 33.9 5.3 Gold-Silver Standard 1871-76 109.5 26.6 32.7 4.2 Suspension of Convertibility(3rd epis.) 1877-84 163.1 32.5 24.3 14.4 Gold Standard 1885 206.8 51.8 19.0 12.3
+Suspension of Convertibility(4th epis.)
+1886-1909 — 127.5 40.8 18.6 2.8 Inflationary period 1886-97 135.8 34.5 20.1 5.5 Deflationary period 1898-1909 119.3 48,3** 17.2 0.07 Gold-Exchange Standard 1910-14 166.7 31.8*** 17.3 18.3
+Notes: The Table presents the mean values of the variables in question in selected sub-periods. All variables are expressed as percent of total tax revenues. Government Spending is central government spending inclusive of interest payments. Seigniorage has been measured as the product of the rate of growth of monetary base by the real Monetary base as percent to total tax revenues, i.e., (O¢M;.1/TR). We measure monetary base as the banknotes in circulation only. This is because commercial banks did not exist and if they did exist they were not obliged to keep deposits at the central bank. Also, data for coin circulation do not exist. Total tax revenues are used as a proxy for GNP. *1846-1847. **Data are not available for the years 1907 and 1909. ***Data ate available for the years 1912 and 1913 only. (end-of-period data).
+287
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+Table 2: Selected Monetary Indicators: Greece, 1848-1914
+Episodes Banknote Circulation Metallic Reserves’ Reserve iu o yu o Banknote (%) (%) (%) (%) Ratio(%)
+Suspension of Convertibility(1st epis.)
+1848 -66.2 a -24,5 —_ 0.4
+Gold-Silver Standard
+1849-68 14.6 14.2 15.1 21.3 0.6 Suspension of Convertibility(2rd epis.)
+1869-70 9.8 5.6 13.0 45.2 0.4
+Gold-Silver Standard
+1871-76 4.9 To 3.7 11.8 0.5 1877-84 11.3 20.5 1.2 39.8 0.2 Gold Standard
+1885 -23.7 —_ 36.5 _— 0.4
+Suspension of Convertibility(4th epis.)
+1886-1909 2.6 10.6 2.3 30.2 0.2 Inflationary period 1886-1897 5.2 14.0 5.4 38.9 0.1
+Deflationary Period
+1898-1909 -0.1 4.6 9.9 16.2 0.2
+Gold-Exchange Standard
+1910-1914 14.1 14.6 32.6 24.1 0.8
+Notes: 1 is the average growth rate of banknote circulation; o is the standard deviation computed as percent per year. a. For the period 1848-76 — because of the lack of data — we take as metallic reserves (gold-+-silver) only those that the Bank used to hold in its Treasury in the form of barren
+metal. While for the period 1877-1914 metallic reserves (mainly gold) are defined as the
+sum of reserves that the Bank held in its Treasury and interest-bearing deposits denominated in foreign currencies and readily convertible into gold. (The data are yeat averages).
+288
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+Table 3: Exchange rate volatility: 1877-1914 (annual percentage changes)
+Period pt (%) © (%)
+Whole sample period
+1877-1914 0.1 6.4 Flexible-rate period 1877-1884 0.3 5.3 Fixed-rate period 1885 1.0 _
+Flexible-rate period
+1886-1909 0.2 72
+Inflationary period 1886-1897 4.1 6.6 Deflationary period 1898-1909 3.8 6.4 Fixed-rate period 1910-14 -0.5 1,3
+———_.
+Note: 1 is the year average rate of change of the nominal Dr/FF exchange rate. o is the Standard deviation of exchange rate changes computed as percent per year. (The data are year averages).
+2 . 1
+B i m e t a l l i s m
+( 1 8 3 3 - 1 8 7 6 )
+1 8 2 8 - 1 8 4 7
+From 1828 — when for the first time a national monetary system Was introduced? — to 1832 Greece was on a silver standard. The legal tender was the silver phoenix. It was 9/10 of pure (or fine) silver and 1/10 of copper; it was equal to 3.747 grams of pure silver?. In
+? Until 1828 money transactions were carried out mainly in Turkish coins and foreign
+swtencies like the Spanish distilo. Greek coins did not exist. Although the phoenix was defined as equal to 1/6 of the Spanish distilo (4.511 grams ot 4.074 grams of pure silver) it weighed (perhaps by a “mistake”) only 4.163 grams (or -/47 grams of pure silver). Probably, this “mistake” was one of the main reasons for © subsequent monetary reform. (See the decree of 8 February 1833).
+289
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+1831 silver convertibility was suspended and paper currency was issued to finance the budget deficits 4. Bimetallism was introduced in 1833 as a consequence of the political reform that took place (monarchy succeeded democracy). The new legal tender was the silver drachma (9/10 of pure silver and 1/10 of copper) and the gold drachma, equal to 20 drachmas, (9/10 of pure gold and 1/10 of copper). The silver drachma was fixed as equal to 4.029 grams of pure silver (and 0.448 grams of copper) and the gold drachma as equal to 0.25994 (x 20=5.199) grams of pure gold (and 0.577 grams of copper). In other words, the silver drachma contained 15.5 times as many grams of silver as ofgold. Thus, the legal ratio was 1:15.59. In 1842 the National Bank of Greece was established. It had two departments: the Issuing Department and the Banking Department. It had the exclusive privilege of banknote issue ®. At the same time, it accepted private deposits in banknotes and metallic money, and provided loans. Also, it had reserve responsibilities: it held metallic (gold plus silver) reserves in its treasury and interest-bearing deposits
+4 By the decree of 17 June 1831, it was defined that the upper limit of paper money in circulation should be 3 mil. phoenix. The money transactions between the government and the private sector were to be carried out 1/3 in paper money and 2/3 in silver coins. Six months later, by the decree of 4 January 1832, it was defined that the money transactions were be carried out only in paper money. > It should be noted that due to the limited quantity of Greek circulation currency, foreign currencies were allowed by law to circulate freely in the Greek money market.(By the decree of 8 February 1833, the parities between Greek and foreign coins — 29 silver and 16 gold coins — were fixed). As a result, Greek silver and gold coins quickly outflowed since holders of foreign debased coins exchanged them for drachmas. Ultimately, the Greek money market was flooded by foreign currencies with a face value much higher than their market value. The silver drachma like the phoenix, was also tied to the Spanish distilo. Although it was defined as equal to 1/6 of the distilo, it equals only to 4.477 grams (or 4.029 gm of pure silver). In other words, the same «mistake» was made again. We should note that the distilo was mainly used in trade transactions in the Spanish Colonies in South America. It was a coin that counterfeiters could copy easily and cheaply. If we make the assumption that the monetary authorities knew that the distilo had a false market value, we can get an explanation of this “mistake”. 6 There were also three other central banks. The Ionian Bank, established in 1839, had the exclusive privilege of banknote issue in the Ionian Islands only. This privilege was withdrawn in 1920. The Bank of Epirus and Thessaly, established in 1880, had the exclusive privilege of issuing banknotes in Epirus and Thessaly. In 1899 it merged with
+290
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+readily convertible into gold or silver in foreign banks abroad’. The lower limit of metallic reserves to banknote ratio was fixed at 1/4, i.e, 25% of banknotes in circulation could be readily converted into metallic coins. It becomes clear that although the National Bank acted as a commercial bank, it had all the responsibilities and privileges of a central bank.
+1848-1868
+Six years after the establishment of the National Bank, metallic redemption was suspended for the first time on 4 April 1848. However, that was the only time in the monetary history of Greece that the decision of suspension of convertibility was not directly related to government-financing decisions. A world-wide trade crisis occurred due to political instability in West Europe (originated in the social upheaval in France) which quickly took the form of a world-wide monetary crisis. The increased trade balance deficits caused large reserve losses. While in January 1848 35% of banknote circulation was tedeemable in gold or silver, in April the reserve banknote ratio was sharply reduced to 10%. Thus, the National Bank of Greece suspended convertibility in order to keep its metallic reserves intact. The episode of metallic inconvertibility lasted for eight months only. On 16 December, Greece reverted back to the bimetallic standard. The numerous gold discoveries in Russia, California and Australia in 1850s and 1860s depressed the market price of gold relative to silver. The Consequence was an inflow of gold and an outflow of silver. In 1865, France, Belgium, Italy and Switzerland agreed to maintain the bimetallic Standard. So, the Latin Monetary Union was established. The legal gold-silver ratio was fixed at 1:15.5 and France provided her currency as
+the National Bank. The Bank of Crete, established in 1899 after the Greek-Turkish war of 1897, had the exclusive privilege of note issue in Crete. This privilege was withdrawn in 1919. Due to the limited quantity of note circulation of the other banks and mainly to the lack of data, we consider as total note circulation only the banknote circulation of the National Bank. The Bank of England, Banque de France and Reichsbank.
+291
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+the common monetary unit. On 10 April 1867, Greece signed the LMU agreement but she did not adopt it until November 1882.
+1869-1876
+In December 1868 for the first time monetary expansion was closely related to government budget problems. A fiat monetary standard prevailed for almost two years. From 1865 a continuous increase in interest payments on domestic debt was in progress. The Crete revolution in 18688 caused an increase in military expenditure and threw some burden on the budget. Consequently, the large budget deficits and the
+Figure 1: Government Budget Deficits, 1833-1914
+thous. drs.
+50000
+PZ ZZ22222
+-100000 
+-150000 ~
+-200000 +
+-2500007
+-300000
+fa
+144)
+1912
+=
+oO
+bard SZ2Z22Z2
+DS OF7IIILIZILL, Li
+CALMS
+DPYLLLIIIIILI VILETIILIEED EA
+ALA AM AA A hh hhh hh ihhls
+g
+L
+A
+1850
+302 OBO ee
+1860 1870 1880
+Terry
+1890 1900
+8 Crete was under Turkish occupation until 1899.
+292
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+a Oa e ae a
+1910
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+inability to finance them either through tax revenues (income tax over the total tax revenues ratio was reduced from 38.6% in 1868 to 30.8% in 1869) or issuing debt, forced monetary authorities to use inflation as a financing instrument ®. In July 1870 convertibility was restored and Greece reverted back to bimetallism. The Franco-Prussian War of 1870-71 brought an end to bimetallism. France lost the war and was forced to pay a huge war indemnity to Germany in funds redeemable in gold. Germany used the war indemnity to shift froma silver to a gold standarTdh.e huge German silver sales together with the discovery of a vast amount of silver in Nevada, depressed the market price of silver relative to
+gold 1°, The consequence was a reversal of the movement of 1860s; an
+Outflow of the gold and an inflow of silver. The continuous flood of silver coinage and convertibility threatened the economies with inflationary pressures. Hence, in 1874 the four members of the LMU agreed to limit silver coinage. In 1875 the National Bank of Greece devalued silver relative to gold in order to avoid the inflation threat. In 1876 France and Belgium prohibited silver coinage and convertibility while a year earlier Italy suspended silver coinage. Following the LMU members, Greece closed her mint to silver.
+> The data for budget deficits are expressed in nominal terms rather than in real terms. This is because data for a price index do not exist. A cost-of-living price index started to io Constructed only from 1914. It is quite interesting to note that the National Bank was unwilling to finance the udget deficits through inflation. To preserve the confidence in its banknote, the Bank tefused to lend its metallic reserves and banknotes to the government, and issue 'ttedeemable paper currency. The pressing finance requirements, however, forced the 80vernment to threaten the Bank with suspension of its exclusive privilege of note issue. 1 fact, by a decree of 23 December 1868 the government announced that it was going ~ Issue paper money. As a result, there was a run on the Bank as people rushed to €deem their banknotes in metallic coins. Thus, the pressure on the metallic reserves Steed the Bank to suspend convertibility and create money. It lent the government mil. drs in metallic money and 10 mil. drs in banknotes and issued fiat money until the “Upper allowable limit of 36 mil.drs. (Valaoritis (1902, pp. 50-58) offers a description of © chronology of the conflict).
+293
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+2.2 Fiat Monetary Standards (1877-1909)
+1877-1885
+However, Greece did not adopt the gold standard, like the other LMU members, since new government budget problems forced monetary authorities for the third time to revert back to an irredeemable paper currency standard (June 1877-December 1884). In 1876 a new period of high levels of government expenditure and thus large budget deficits started. To ensure convertibility of domestic banknotes, the government tried to avoid inflation as a tax instrument but rather incurred welfare losses in return for income tax revenues. Indeed, income taxes (as a percentage of total tax revenues) sharply increased (from 23% in 1875 to 33% in 1876) while seigniorage revenues were reduced. Considering the increase in wartime expenditures that occurred in 18771! as temporary, the government decided to finance them by issuing domestic debt . However, the ability to derive funds from domestic loans ? was limited, so the government decided to use inflation for revenue collection. Indeed, seigniorage increased to 21% while income taxes
+were reduced to 30%. Therefore, Greece switched back to
+a flexible-rate regime. Figure 2 plots the time-series of note circulation and metallic reserves. Note that while in the pre-1877 sub-period the two variables moved together (the episode of 1868 was so brief that it did not seriously affect the long-run time series properties of the variables), in the post-1877 period they moved in opposite directions. The upward
+11 While in the 1840s the market price ratio was 1:15.83, the many gold discoveries 1n
+1850s and 1860s reduced the ratio to 1:15.36 and 1:15.45, respectively. However, the .downward movement was quickly reversed by an upward one. In the first half of the
+1870s the ratio increased to 1:15.98 while in the second half it sharply increased to
+1:17.87. (Katselidis (1902, p. 61) and Simantiras (1905, p. 207) present the time-series data for the market price ratio during the nineteenth century).
+12 The Russian-Turkish War of 1877-78. Greece freed Thessaly and Epirus from
+Turkish occupation.
+13, In March 1877 the upper limit of issued Treasury Bills was increased by the law of 7 March to 9 mil. drs.
+294
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+movement of note circulation was accompanied by a downward movement of metallic reserves so that the reserve-banknote ratio was reduced at very low levels, as seen in Figure 3. It becomes apparent that a long period of fiat money had started.
+Figure 2: Banknote Circulation and Metallic Reserves (1847-1914)
+thous. drs.: 30000
+banknote Circulation
+r 20000
+IETALLIC (GOLD) ESERVES
+Dz
+'t
+\t
+250000 + you CT
+t
+! - 10000
+200000 + Fay, Y
+150000 + Pa eee ee
+were
+100000 +
+BANKNOTE CIRCULATION
+500007 reserves thous. drs.
+Cn ee eg RALREAITELLER LERRaEE RERRIRERIEGELERE nT 50 55 60 65 7 75 80 8 90 95 00 05 10
+1879 was the beginning of a period of extensive foreign borrowing 14, The foreign loans were used for financing the budget deficits and increasing the gold reserves of the Bank. As can be seen in
+Figure 1, the budget deficit was sharply reduced in 1882 and Temained at low levels until 1884. In addition, the curve of the Metallic reserves (see Figure 2) exhibits two peaks in the years of the heavy foreign gold loans (1879, 1884). Consequently, the devaluation Pressures of the drachma/French franc exchange rate were restrained (see Figure 4) and the monetary authorities were able to restore
+14 : . . ele
+in Foreign creditor countries seemed reluctant to lend to Greece. The political cretlity of the time and the underdeveloped financial market reduced the country’s “dit-worthiness and prevented the inflow of foreign capital.
+295
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+a fixed-rate regime. This occurred in December 1884 when Greece adopted the gold standard 4.
+Figure 3: Reserve-Banknote Ratio, 1847-1914
+1.25
+1,00 7
+0,75 5
+0,50 7
+0,25 4
+i)ie A OAs RRR BORE ROE OO EE OR ee ee OO Oe Be 50 55 60 65 70 75 80 8 90 9 00 05 10
+MRBR=metallic reserves - banknote ratio TRBR= total reserves- banknote ratio
+Even though the monetary authorities waived discretionary power over money-supply policies— as is required by a fixed-rate regime, like the international gold standard— at the same time, they desired to maintain some degree of fiscal sovereignty. As Tables 1 and 2 show, while note circulation decreased by 23.7%, government spending was more than double the total tax revenues.
+15 In 1879 Greece borrowed from abroad 60 mil. gold FF. It was agreed that the loan be used to restore gold convertibility but in actual fact the government used it to finance its deficits. In 1881 the country borrowed 120 mil. gold FF; it was also used for financing the budget deficit. In 1883 a loan of 10 mil. gold FF was contracted; it was
+used for paying interest on the foreign debt. In 1884 Greece borrowed 170 mil. gold The loan was used to increase the gold reserves of the Bank and restore convertibility: (For details see Valaoritis (1902), pp. 69-92).
+296
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+An interesting fact is that during the period from 1885 the servicing cost of the national debt started to increase rapidly. In 1885 interest payments absorbed more than half of total revenues and produced an increased burden on the budget. The high interest payments as well as the trade crisis that occurred in the second semester of 1884 —due to a bad domestic crop !“— caused large gold outflows. In addition, the long-lived fiat standard that the country experienced before its entrance to the gold standard, causeda lack of confidence in domestic banknotes and set in motion a run on the gold reserves of the Bank 17. From December to August 1885 the rate of teduction of gold reserves was almost 48%. 18 However, the exchange tate was not maintained fixed at the 1:1 parity. The drachma tended to devalue against the FF: Jan. 1.01, Feb. 1.01, Mar. 1.005, Apr. 1.01, May 1.02, Jun. 1.0225, July 1.0105, Aug. 1.0105. The situation got Out of hand in September. For one more time, the government faced increased military expenditure. As a result, a new phase of money Creation occurred and thus, Greece switched back to an inconvertible Paper currency standard }.
+6 In November 1882, a change in the Greek monetary system occurred in order to adopt the standard of the LMU. According to the LMU agreement, the members’ Currencies were equal to one another, i.e. one gold drachma should be equal to one gold French franc. The gold French franc (20 FF) was fixed as equal to 0.2903 (x20=5.806) cams of pure gold while one Greek gold drachma was equal to only 0.2599 X20=5,.199) grams of pure gold. Thus, the par exchange rate was 1FF=1.1168 drs.
+© achieve the 1 FF=1 Dr parity, the new drachma was introduced as the new Monetary unit. It was fixed as 0.29 grams of pure gold and was equal to 0.8954185 of the old drachma. a Greek trade exports were completely made up of agricultural products. se © defend its gold reserves against the speculative runs on them, the Bank used
+Vera] expedients (e.g. it converted banknotes into silver and not into gold, it reduced
+a © office hours for transactions with the public, etc). However, it did not carry out ate 'Scount rate policy since the underdeveloped domestic financial market could not 19 tact foreign capital. en ile in December 1884 the reserve-banknote ratio was 0.68, in August 1885 it was . Srmously reduced to 0.43, in September to 0.39 and in December it was just 0.18.
+297
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+1886-1909
+The period from 1886 to 1909 can be separated into two different subpetiods: an inflationary period from 1886 to 1897 and a deflationary one fram 1898 to 1909. The first period was characterized by high government spending, high rates of money creation, large reserve losses and a strong devaluation of the Dr/FF exchange rate. The massive scale of foreign borrowing 2° and the persistent budget deficits led to government failure to pay off the accumulated and enlarged foreign debt by 1893. In December the government started negotiations with foreign lenders that continued until 1896, without any result. The government reduced the interest payments on its outstanding foreign debt to 30% and refused to amortize it. The negotiations stopped in 1897 when the Greek-Turkish war broke ou (April-May 1897). : It is quite striking to note that while the war was completely financed by paper money creation?! the downward movement of the Dr/FF exchange rate was not restrained, as seen in Figure 4. When debt repudiation occurred and negotiations started, private agents expected that a debt compromise would soon occur and gold would flow into the country. Thus, they acted so that the revaluation movement of the Dr/FF exchange rate was not affected by the 1897
+monetary expansion.
+Greece suffered a defeat and was forced to pay a huge wat indemnity in funds convertible into gold. So, she restarted negotiations with creditor countries that led to the establishment of an International Committee for Greek debt management. By law (26 February 1898) ”
+20 From January to August 1885 banknote circulation decreased by —2.3% while from
+September to December it increased by 7.2%. As a consequence, the drachma started to devalue heavily. In September the Dr/FF exchange rate was 1.05, in October it was 1.0 while in November it sharply increased to 1.21. ;
+21 From 1886 to 1890 Greece borrowed 255 mil. gold FF. Governments relied primarily on borrowing to service the outstanding foreign debt. (see Simantiras (1905),
+pp. 63-64).
+2 In 1896 note circulation had decreased by 1.8%; in 1897 it had sharply increased by
+17.4%.
+298
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+the use of money creation as a financing instrument was strictly prohibited (article 30). By the same article, it was arranged that the government, starting from 1900, should pay to the Bank every year 2 mil. drs in banknotes until its domestic debt 23 was reduced to 40 mil. drs. (This was only achieved in 1924). A loan of 150 mil.gold FF was provided to Greece in order to pay the war indemnity to Turkey. Finally, it was agreed by the Treaty of Peace (September 1897, article 2) that tax revenues collected by the Debt Service Committee ?4 should be used for a period of 30 years for paying interests on foreign debt.
+Figure 4: The Drachma/French franc Nominal Exchange Rate
+(1876-1914)
+1,9
+1,85
+174
+1,6 +
+1,55
+1.44
+1,34
+1,24
+Is
+1,0 4
+09-4 Lae a a ee ee es ea ee Oe ee ee ea nr
+
+1880 1885 1890 1895 1900 1905 1910
+233, See Valaoritis (1902), pp. 177-194.
+1.e. the government’s debt to the Bank.
+299
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+Figure 5: Government Spending and Seigniorage
+gov. spend. 75 percent }1
+—1 r
+seigniorage 1 ft a
+{ ‘ii " \ 1 iN
+mip A | ip 28
+la A ‘A ' 1 \ ‘ ‘ A A i ‘
+i ft ‘oan nt Nh { i \ ! ty 4 Hon t
+350 4 fre’ x 4 sd Vv \; ul 1 a Jl iMa ay Ay
+LY Ni ne 0
+v ' /j W
+W"y
+250 4 Government L- 50
+200 + Spending
+150 5 sei; gniorage
+1004 percent
+50 —— Peers pers 1840 1850 1860 1870 1880 1899 1900 1910
+ae | a hilt DOR ER ORDORO e
+Figure 6: Government Spending and the Dr/FF Exchange Rate
+, (1876-1914)
+Or/FF
+percent 350
+: + 300
+hoo Hl r 250
+H ‘e i Government ; i
+Pot yg Spending; | / | 200
+i \ f\ 7 \% i H /
+20 4 i 1 7 Vi oN eo 7-150
+t 17 ‘ N U ' /
+~1 ¢
+{ L-7 bad \ ‘ 1 ay!
+a! om - 100
+10 4 r 50
+0“
+Dr/ FF gov. spend
+(rate of change) percen
+~104
+-20 py aa pp aa nana
+1880 1885 1890 1895 1900 1905 1910
+300
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+It becomes apparent that a deflationary period had begun. It was characterized by reductions in government expenditure, low seigniorage needs, large gold inflows and a strong revaluation of the Dt/FF exchange rate2>. The average growth rate of note circulation was negative (-0.13%) and seigniorage revenues were close to zero (0.07%). Confidence in domestic currency was fostered (agents not only noticed the annual reduction in note circulation but they also knew that governments could not increase it any more) and large gold inflows occurred. As a result, a sharp revaluation of the drachma against the FF was in progress (see Figure 4)26, In 1909 the par exchange rate was achieved. Since government expenditure remained stable at low levels, the monetary authorities could switch to a fixed-rate regime. This Occurred in March 1910.
+2.3 A Gold-Exchange-Based Regime, 1910-1914
+The tight monetary policy pursued since 1898 threatened the economy with deflation. In order to avoid deflationary pressures while at the same time ensuring the maintenance of the fixed Dr/FF parity, the Bank was allowed by law (19 March 1910)27 to increase note Circulation only if banknotes were fully convertible into gold or foreign exchange. In other words, the Bank could create money in an amount €qual to the increase in gold or foreign exchange reserves. Moreover, the Bank was obliged by law to exchange domestic banknotes into French francs using the parity 1:1 (gold points: + 0.5
+> This was established in 1895 and came under the control of the International
+3ommittee in 1898.
+; Is interesting to note that creditor countries forced Greek authorities to adhere to € “Monetary discipline rules”, since they benefited from the drachma’s revaluation. In ecular, according to the debt compromise (article 5), Greece starting from 1903
+" i d pay every year a fixed amount of 15 mil. drs (or 9 mil. gold FF) to the creditor
+Cuntries, It was agreed that when the drachma was revalued against the FF, interest tae as well as amortization should increase by 30%. (see Simantiras (1905), p.
+7Not, e in Table 3 that during the deflationary period the drachma was revalued feria the FF at a rate almost equal to the rate of devaluation during the inflationary
+Od,
+301
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+drs.) and into gold using the parity 1:1 (+ 0.001). It was also stipulated that the Bank could hold as official reserves interest-bearing deposits denominated in foreign currencies (mainly in French francs) and readily convertible into gold, while only 10% of its reserves could be held as gold stock 28, It becomes apparent that a kind of gold-exchange standard was established’. As can be seen in Table 2, note circulation co-varied positively with gold reserves. Both moved in a way so that the reserve-banknote ratio remained stable and was close to unity (see Figure 3), Consequently, the Dt/FF exchange rate exhibited a small variability3°. Indeed, as Table 3 shows, the Dr/FF exchange rate was almost four and six times as volatile (measured by the standard deviation computed as percent per year) in the flexible-rate period as in the fixed-rate period. In the summer of 1914 WWI broke out. The pressure to finance wartime expenditures was so high that the use of money creation was inevitable. The sharp monetary expansion soon caused a confidence problem and set in motion a run on the central banks’ gold stock. Consequently, all European governments closed the «gold window» and imposed controls on gold outflows. Greece was not involved in
+28 For a description of the law see Pharmakidis (1921), pp. 111-127. 29 Note in Figure 3 that while the metallic reserves-banknote ratio remained at very low
+levels, the reserve-banknote ratio was close to unit.
+30 There were many powerful advocates as well as opponents to the gold-exchange-based regime of the early 1910s. The advocates (Valaoritis (1911), Larkworthy (1917), Damiris (1920)) supported the well-known advantages of the gold-exchange
+standard: (i) foreign exchange or gold flows through the effects on relative prices caus¢
+an automatic adjustment of balance-of-payments towards equilibrium; (ii) the centr bank gained some profit by keeping interest-bearing deposits denominated in foreig" currencies instead of holding barren metal in its treasury; (iii) since currency circulation was not based on gold coins but rather on banknotes, the money supply could exhibit
+a critical flexibility towards money-demand shocks. On the contrary, the opponents © the system (Thompson (1919), Zolotas (1927), Spourgitis (1929)) believed that ‘potential devaluations of foreign currencies as well as wars would endanger the foreig®
+reserves of the Bank. Indeed, when WWI broke out, the devaluation of the French franc and the controls imposed on gold exports caused a loss in foreign reserves. They a! argued that the system did not introduce a rapid adjustment of the money supply since the increase in banknote circulation had to be 100% convertible into foreign exchange OF
+gold. Finally, they foresaw that the system would cause inflation since gold or exchange inflows accommodated an increase in banknote circulation.
+302
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+the war (until the summer of 1917) and remained on the gold-exchange based regime of the early 1910s. However, in July, following the belligerent countries, she prohibited gold outflow3s! and the central bank raised the discount rate (from 6.5% to 8%) but in November lowered it to the initial level. Using the data for the pre-WWI period we plot in Figure 5 government expenditure with seigniorage and in Figure 6 with the Dr/FF exchange rate movements. The figures suggest that there exists a positive relationship between government expenditure and seigniorage as well as between government expenditure and exchange rate movements32, Note that government expenditure and Seigniorage move together. Note, also, that high and_ persistent increases (decreases) in government spending are accompanied by strong devaluations (revaluations) of the drachma exchange rate while Moderate spending is associated by small exchange-rate movements 33,
+The International Committee stipulated that the central bank could issue banknotes
+(i.e. paper money) up to the limit of 66 mil. drs. The inelasticity that this imposed on note Issue caused an excess money demand and strong revaluations of the drachma against the » mainly in the months of exports of agricultural products. In order to restrain eflationary pressures, the Bank was allowed to issue banknotes over the above limit only for buying gold or foreign exchange in the parity. In November 1910 the upper limit of ote circulation (convertible to gold or foreign exchange) was fixed at 25 mil. drs. In Jecember 1911 it increased by 10 mil. drs. Furthermore, increased foreign borrowing to Inance the Balkan Wars of 1912-14, as well as increased emigrants remittances and the igh profits from shipping during the war, produced large reserve inflows and accommodated an increase in note ‘culation. In 1912 the upper limit of banknote circulation increased to 100 mil. drs, :1 1913 to 165 mil. drs and in 1914 to 200 mil. drs. Ince banknotes were 100% convertible into FF or gold, confidence in the domestic sattency was not affected and thus, the Dr/FF exchange rate remained fixed at parity. Although the controls on gold outflows suspended gold convertibility, foTelgn-exchange convertibility was still maintained. Moreover, the quantity of gold coins Circulated in the Greek money market was very limited. Therefore, the controls were
+speaningless, Using the historical time-series for the pre-WWI period it is found (Lazaretou, 1991) that a strong positive long-run relationship exists between inflation tax Seigniorage) and permanent government spending as well as between permanent 8evernment spending and the Dr/FF exchange rate movements.
+303
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+3. Concluding Remarks
+This brief overview of the history of Greek monetary and fiscal policies reveals the existence of a link between fiscal behaviour and
+fluctuations of monetary variables. Furthermore, this link was one of the main causes of the Dr/FF exchange rate crises in the nineteenth
+century.
+More specifically, studying the time-series behaviour of the monetary and fiscal variables we conclude that in periods of high levels of government spending and thus, high revenue needs, governments used inflation as a financing instrument. Monetary
+expansion produced a confidence problem and set in motion a run on
+the reserves of the Bank. The monetary authorities could not maintain the Dr/FF exchange rate fixed and thus, they switched to a flexible-rate regime. This occurred three times: in December 1868, in June 1877 and in September 1885. When government spending became moderate and confidence in the domestic currency was strengthened, monetary authorities reverted back to a fixed-rate regime. This occurred three times: in July 1870, in December 1884
+and in March 1910.
+304
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+Appendix
+Table Al: Main Fiscal Variables, 1833-1914 (in ‘000. new. drs)
+Year () (2) (3) (4) (5) (6)
+1833 13357 7098 1907 4250 1971 n.a.
+1834 28849 9280 14241 5065 2478 na.
+1835 16085 11563 3361 7464 2447 n.a.
+1836 15560 11878 2550 6948 2646 haa.
+1837 17814 12357 3124 6774 3177 n.a.
+1838 15290 13012 3432 7264 3644 na. 1839 15424 13814 3341 7878 3472 n.a.
+1840 15927 14259 4123 8232 3764 naa.
+1841 15972 13243 4289 7600 3718 na.
+1842 15871 11779 3685 6548 3611 na. 1B43 14356 10990 3472 5771 3340 n.a. 1844 13717 9271 3468 4910 3116 naa.
+1845 14672 12505 3466 6530 3366 naa.
+1846 14395 13012 3469 6481 3658 4.4
+1847 15290 9952 4063 5237 2980 3.8
+1848 15719 13293 3853 6543 3800 4.5
+1849 15639 14718 3646 7694 3630 2.0
+1850 16610 13105 3632 6713 3623 4.4
+1851 15885 12752 3461 6508 3544 3.3
+1852 16267 13955 3473 6247 4237 2.0
+1853 16183 13632 3465 6477 3844 0.8 1B54 17494 14655 3480 8281 3355 4.3
+1855 19204 16342 3641 8381 4638 4.9
+1856 19292 15551 3559 7643 4455 12.6
+1857 19667 17031 3688 8470 4559 10.9
+1858 22769 18360 3710 7981 5939 “Ll
+1859 23165 19348 3576 9389 5953 0.3
+1860 23281 19453 3643 8451 6061 2.9
+1861 25101 19335 4566 9344 6037 10.4
+1862 25414 22319 3568 10494 6464 8.3
+1863 23397 15526 3920 7167 4796 19.5
+1864 24426 20847 4895 9368 6616 6.0
+1865 28256 22216 6060 6310 9951 11
+1866 27867 22067 6404 7793 9069 3.0
+1867 37923 28124 6399 10398 11273 9.8 1868 44335 29918 6233 11562 12411 8.5
+1869 37116 29403 8956 9044 11673 10.5 1870 35701 28335 9263 10486 11222 0.02
+1871 36744 31817 9017 10794 12970 4.9
+1872 32847 32309 7266 11456 12588 9.9
+1873 32202 31030 7298 10901 12902 16.1
+1874 45221 33402 14344 12086 13261 6.3
+1875 27927 27650 6259 6245 15208 -11.6
+1876 34628 34668 6851 11370 14469 0.3
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+305
+
+
+Sophia Lazaretou
+1877 32547 33148 6827 9953 16088 20.6
+1878 36853 36174 8414 11479 16327 41.6
+1879 95312 38234 12149 9914 19373 -21.0
+1880 88063 37644 12809 8575 20067 32.7
+1881 101657 41789 16695 8542 22816 63.8
+1882 57375 50983 18176 10819 25811 3.5
+1883 67796 58538 20641 «12003 32151 7.9
+1884 91347 60745 24063 13309 33719 -44.1
+1885 «122798 59375 30736 11283 33038 12.3
+1886 «129717 62151 35486 «13067 36820 263
+1887 —-107128 82850 29949 «17178 43536 3.4
+1888 108051 89551 36006 «18860 46848 15.9
+1889 168739 83732 29817 17415 51448 2.2
+1390 «141465 79932 35806 «14763 51513 18.1
+1891 122836 86112 36881 ‘18347 53055 19.4
+1892 107683 94973 33742 «18580 59387 27
+1893 92134 92954 26248 20718 59701 -6.8
+1894 85136 99718 22284 «19145 64916 42
+1895 91642 93828 22721. ~—«:19107 64059 2.1
+1896 90891 95282 23216 18546 66295 2.0
+1897 ‘137044 86359 20023 ~—-14145 60634 20.9
+1898 312057 102685 -229401_-~Ss«17416 73978 1A
+1899 104608 109778 29706 19418 75242 -0.9
+1900 —«-109318 111597 33420 «19209 75950 10.5
+1901 114131 114746 33737 21589 80425 0.7
+1902 124504 114410 33460 20674 80444 5.1
+1903 —«116260 114838 36234 «19671 82572 54
+1904 «116150 115883 35294 «19080 83753 47
+1905 116321 122436 33593-19949 84345 49
+1906 121600 125910 32245 20885 92815 2.9
+1907 «132123 123032 na. 20794 87868 55
+1908 «133697 122989 35206-20979 89512 69
+1909 136970 117049 na. 20837 84060 6.3
+1910 140547 129574 na 21642 92935 AS
+1911: 181020 137871 na. 21795 99668 8.3
+1912 207984 131129 38028 20607 96190 46.8
+1913 261973 129059 44537 «19338 97541 29.2
+1914482341 207684 na. 48342 151511 8.5
+Definitions:
+(1) Central Government Expenditure (inclusive of interest payments). (2) Total Tax Revenues. (3) Interest payments on foreign and domestic public debt. (4) Income Tax Revenues. (5) Indirect Tax Revenues. (6) Seigniorage Revenues, % of total tax revenues.
+306
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+The variables are in nominal terms. (end-of-year data).
+Monetary and Fiscal Policies in Greece: 1833-1914
+Source: (1)-(5) Greek Government Budget: Annual Report, 1833-1914. (Various issues). General Records of the
+Government. (6) see notes at the bottom of Table 1.
+N.a.: not available.
+Table A2: Main Monetary Variables, 1847-1914 (in 000 new drs)
+Year (7) (8) (9) (10)
+1847 2077 1433 n.a. n.a. 1848 1071 413 n.a. na. 1849 1095 729 n.a. n.a. 1850 1519 1004 n.a. na. 1851 1882 1153 n.a. n.a. 1852 1762 1239 na. na. 1853 1800 1401 n.a. n.a. 1854 2574 2648 na. na. 1855 2987 3545 na. n.a. 1856 4143 4080 n.a. na. 1857 6145 5085 na. n.a. 1858 6911 4182 n.a. n.a. 1859 6356 4542 na. n.a. 1860 7325 3684 n.a. na. 1861 8267 4155 n.a. n.a. 1862 10745 5719 n.a. naa. 1863 12941 6504 na. n.a. 1864 14179 6795 n.a. n.a. 1865 16420 6262 n.a. n.a, 1866 15175 5977 na. na. 1867 16207 7379 na. na. 1868 19699 8476 n.a. n.a. 1869 22604 7012 na. na. 1870 23964 10994 n.a. n.a. 1871 24130 11533 na. n.a. 1872 26586 11115 4407 15522 1873 31317 12924 3612 16491 1874 34004 14960 2380 17341 1875 32405 16107 1866 18013 1876 32210 13770 2591 16335 1877 34475 10810 3870 14680 1878 50719 7423 798 8221 1879 50365 11250 1206 12457 1880 50809 19115 1752 20866
+307
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+1881 1882 1883 1884 1885 1886 1887 1888 1889 1890 1891 1892 1893 1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909 1910 1911 1912 1913 1914
+Definitions:
+(7) Banknotes in Circulation.
+77651 87782 97605 80362 63383 94879 97271 89015 85576 91850 108841 116129 107154 103226 101692 99834 118807 115594 112192 125441 127038 126753 129804 123170 116626 113836 118528 118661 116985 119353 122013 149301 215253 236389
+5825 6834 6593 10235 21935 5222 3882 3374 3282 2907 3451 2638 2263 2024 1887 1787 2226 1841 2949 2035 1904 1899 1638 2251 2393 2422 3658 3095 3592 4759 6847 11742 14315 26605
+6725 5755 7614 7714 4409 3417 4841 6926 8244 5488 8147 7301 6214 7243 6918 6903 11361 8632 12342 14434 14993 15475 19607 19523 25730 32882 37417 42212 41451 44672 57748 70783 65571 37100
+12550 12589 14207 17948 25844 8640 8723 10300 11525 8396 11598 9939 8477 9267 8805 8694 13587 10473 15208 16469 16897 17373 21244 21775 28123 35303 41075 46140 45043 49430 90778 132380 216157 229920
+(8) Metallic (gold + silver) Reserves in the form of barren metal that the central bank held in its treasury.
+(9) Foreign Exchange Reserves in the form of interest-bearing deposits denominated in foreign currencies and readily convertible into gold. (10) Total Reserves. (the data are year averages).
+Source: National Bank of Greece: Annual Report of the Governot, 1847-1914, (arious issues). Historical Records of the Nat!onal Bank of Greece.
+308
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+Table A3: Reserve-Banknote Ratio
+Year (11) (12) Year (11) (12)
+1847 0.69 naa. 1881 0.07 0.16
+1848 0.39 na. 1882 0.08 0.14
+1849 0.67 na. 1883 0.07 0.15
+1850 0.66 na. 1884 0.13 0.22
+1851 0.61 na. 1885 0.34 0.41
+1852 0.70 na. 1886 0.05 0.09
+1853 0.78 na. 1887 0.04 0.09
+1854 1.03 na. 1888 0.04 0.12
+1855 1.19 na. 1889 0.04 0.13
+1856 0.98 na. 1890 0.03 0.09
+1857 0.83 na. 1891 0.03 0.11
+1858 0.60 n.a. 1892 0.02 0.08
+1859 0.71 na. 1893 0.02 0.08
+1860 0.50 na. 1894 0.02 0.09
+1861 0.50 na. 1895 0.02 0.09
+1862 0.53 na. 1896 0.02 0.09
+1863 0.52 na. 1897 0.02 0.11
+1864 0.48 na. 1898 0.01 0.09
+1865 0.38 n.a. 1899 0.03 0.14
+1866 0.39 na. 1900 0.02 0.13 1867 0.45 na. 1901 0.01 0.13
+1868 0.43 n.a. 1902 0.01 0.14
+1869 0.31 na. 1903 0.01 0.16
+1870 0.46 na. 1904 0.02 0.18 1871 0.48 n.a. 1905 0.02 0.24 1872 0.42 0.58 1906 0.02 0.31 1873 0.41 0.53 1907 0.03 0.34 1874 0.44 0.51 1908 0.02 0.39 1875 0.49 0.56 1909 0.03 0.38 1876 0.43 0.51 1910 0.04 0.41
+1877 0.31 0.43 1911 0.06 0.74
+1878 0.14 0.16 1912 0.08 0.89
+1879 0.22 0.24 1913 0.07 1.00
+1880 0.38 0.41 1914 0.11 0.97
+Definition:
+(11) Metallic Reserves-Banknote Ratio: (8)/(7)
+(12) Total Reserves-Banknote Ratio: (10)/(7)
+309
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Sophia Lazaretou
+Table A4: The Drachma/French franc Nominal Exchange Rate, 1876-1914
+Year (13) Year (13)
+1876 1.0320 1896 1.7389 1877 1.0257 1897 1.6757 1878 1.1071 1898 1.4741 1879 1.0476 1899 1.5650 1880 1.0254 1900 1.6439 1881 1.0476 1901 1.6580 1882 1.0971 1902 1.6250 1883 1.1406 1903 1.5650 1884 1.0475 1904 1.3782 1885 1.0580 1905 1.2312 1886 1.2325 1906 1.1000 1887 1.2633 1907 1.0865 1888 1.2733 1908 1.0812 1889 1.2300 1909 1.0296 1890 1.2350 1910 0.9998 1891 1.2983 1911 0.9994 1892 1.4363 1912 0.9993 1893 1.6077 1913 1.0000 1894 1.7492 1914 1.0017 1895 1,8021
+Definition:
+(13) Drachmas per French franc (spot), year average data.
+Sources: 1876-1901 ValaoritisJ,.A. (1902) and Simantiras, J. (1905). 1902-1908 Pharmakidis, E. (1921). 1909-1914 National Bank of Greece: Annual Report of the Governor. (Various issues).
+310°
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.
+
+
+Monetary and Fiscal Policies in Greece: 1833-1914
+REFERENCES
+Barro, J. R. (1979), «On the Determination of the Public Debt», Journal of Political
+Econonry, 87, 940-971. Barro, J. R. (1987), «Government Spending, Interest Rates, Prices, and Budget Deficits in the United Kingdom, 1701-1918», Journal ofMonetary Economics, 20, 221-247. Damiris, C. (1920), Le Systésme Monétaire Grec et la Change. Paris. Eichengreen, B. (1985), Editor’s Introduction in B. Eichengreen (Ed.): The Gold Standard in Theory and Practice. Metheun, London. Friedman, M. (1990), «Bimetallism Revisited», Journal of Economic Perspectives, 4,
+85-104. Grilli, V. (1988), «Fiscal Policies and the Dollar/Pound Exchange Rate: 1870-1984», NBER Working Paper, no 2482. , Grilli, V. (1989), «Exchange Rates and Seigniorage», European Economic Review, 33,
+580-587.
+Greek Government Budget, Annual Report, 1833-1914. (Various issues). General Records of the Government.
+Katselidis, G. (1902), The Currency. Athens. (in Greek). Larkworthy, F. (1917), Memorandum explaining the desirability of supplementing the existing laws in Greece relating to the forced currency and to the exchanges. London. Lazaretou, S. (1991), «Government Spending, Monetary Policies and Exchange Regime Switches: the drachma in the gold standard period», Ph.D. Dissertation, Athens University of Economics and Business. Ch.4. (Unpublished). Mankiw, G. (197), «The Optimal Collection of Seigniorage: Theory and Evidence», Journal of Monetary Economics, 20, 327-341. National Bank of Greece, Annual Report of the Governor, 1847-1914. (Various issues). Historical Records of the National Bank of Greece. Pharmakidis, E. (1921), Exchange Rates during and after World War I. Athens. (in Greek). Phelps, E. (1973), «Inflation in the Theory of Public Finance», Swedish Journal of _ Economics, 75, 67-82. Simantiras, J. (1905), The Issue over the Suspension ofConvertibility. Athens. (in Greek). Spourgitis, A.N. (1928), Studies on Banking and Exchange Rates, Book 1: 255-349 and Book 2: 431-660. Athens. (in Greek). Thompson, N. (1919), « Mr Falconer Larkworthy’s Currency Proposals», The Economtic Journal, 19, 363-367. Tsalikis, C. (1929), The Drachma Exchange Rate during the 30-year period 1898-1928. Athens, (in Greek).
+“alaoritis, J. A. (1902), The History ofthe National Bank of Greece, 1842-1902. Athens.
+in Greek).
+Valaoritis, J. A. (1911), Annual Report of the Governor for the year 1910. National Zo Bank of Greece. lotas, X. (1927), Monetary and Exchange Rate Phenomena in Greece: 1910-1927. Greka,
+Athens, (in Greek).
+J1d
+Copyright © 2010 ProQuest LLC. All rights reserved. Copyright © UniCredit Banca Di Roma.

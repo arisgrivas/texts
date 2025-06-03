@@ -1,0 +1,648 @@
+The French Crime of 1873: An Essay on
+the Emergence of the International Gold
+Standard, 1870-1880
+MARC FLANDREAU
+This article attempts to provide a new view of how the bimetallic standard was maintained before 1873 and how it came to change into a monometallic gold standard between 1870 and 1880. The conventional view that the gold standard emerged out of the contradictions of bimetallism is not persuasive. Instead, this article claims that bimetallism might have survived and provides an alternative explanation of the emergence of the gold standard. Political and historical factors proved essential in precipitating the uncoordinated emergence of the international gold standard.
+T
+he 1870s was a decade of dramatic changes in the organization of the international monetary system. Before 1870 nations were roughly divided into three categories. The members of the first group (United Kingdom, Portugal, Turkey, Brazil, Australia) were on the gold standard. The members of the second (German states, Austria, Holland, Scandinavia, Mexico, Asian countries) were on some form of silver standard. The members of the third (the United States, France, Switzerland, Italy, Belgium) were on a dual standard, called at the time the "double standard," and eventually known as "bimetallism." In these countries, a fixed ratio (implicitly defined by stating the number of grams of gold or silver one had to give up in order to settle a debt) was set between the two metals. By 1880 however, most industrialized nations had moved to gold: the monetary role of silver declined. Its price (which had been virtually fixed until the early 1870s) began an irreversible fall. Central banks started to peg the value of their notes in terms of gold. The international gold
+standard was born.1
+The Journal of Economic History, Vol. 56, No. 4 (Dec. 1996). © The Economic History Association. All rights reserved. ISSN 0022-0507. The author is Researcher at Centre National de la Recherche Scientifique (CNRS) and Chercheur Associe at the Observatoire Francais des Conjonctures Economiques (OFCE). The author owes an enormous debt to Barry Eichengreen who asked several of the questions that motivated this article. Thanks are also due to J.-C. Asselain, Forrest Capie, Milton Friedman, Peter Garber, Avner Greif, Pierre-Cyrille Hautcoeur, John James, Charles Kindleberger, D. LacoueLabarthe, Maurice Levy-Leboyer, Ian McLean, Alan Milward, Gilles Postel-Vinay, Massimo Roccas, Jean-Laurent Rosenthal, Pierre Sicsic, participants to seminars at Berkeley, Stanford, the OFCE (the Convergences en Histoire Economique Seminar), the Institut Universitaire des Hautes Etudes Internationales at Geneva, and the University of Bordeaux, as well as to participants to the 1995 ASSA meetings in Washington, for their suggestions. The careful and extensive comments and criticisms of Joel Mokyr as well as of two anonymous referees proved extremely helpful. Of course none of them should be held responsible for the views expressed in this article.
+1 For a description of the evolution of nineteenth-century monetary geography, see Eichengreen and Flandreau "Geography."
+862
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 863
+The causes of these phenomena have been variously assessed. So far, four arguments have dominated the literature. The fundamentals theory emphasizes the importance of rising silver production in the late 1860s and 1870s. This would have led to silver depreciation and thus forced nations
+to abandon that metal.2 Alternatively, the strategical theory posits that the forces of rising silver production were supplemented by Germany's demonetization of silver. Germany's move from silver to gold in the early 1870s would have inevitably led to silver depreciation and thus triggered a
+general flight away from silver, thereby reinforcing the depreciation itself.3 The third type of argument, the technological theory, stresses the role of micromotives. Silver, it is said, was bulkier than gold and hence more costly for international payments. A gold standard was a necessarily superior
+regime, and its introduction was only delayed by technical reasons.4 Finally the political economy interpretation emphasizes the respective properties of a gold, a silver, and a bimetallic standard in terms of price stability and argues that it was the actions of the creditors' class (the dominant bourgeoisie) that favored a stable standard of value that produced the
+convergence to gold in the 1870s.5 Although analytically distinct, these four main arguments often concur in standard analyses of the emergence of the classical gold standard (see in particular Jacques Mertens's authoritative account, which probably remains the best—yet often underrated—source for the period). What differentiates the various descriptions is mainly the weight they attach to each cause. But they all assume that the making of the gold standard was inevitable. This research started as an attempt to disentangle these theories in order to provide a clearer understanding of their relative explicative power. However, it became increasingly clear that these interpretations were incomplete and generally unsound. Indeed, far from being preordained for structural, technological, or political reasons, the making of the gold standard was an accident of history. Conventional interpretations suffer a number of flaws. First, it is not clear how rising silver production in the late 1860s could really threaten bimetallism, since this rise was proportionately much smaller than the one that had affected gold after 1848 without determining dramatic changes. Second, France would have been able to buffer the impact of Germany's move to gold so that Germany's reform could not by itself trigger the flight away from silver. Third, contrary to popular beliefs, it is not true that gold strongly dominated silver as an instrument for international transactions. Fourth, before 1873 the political support in favor of gold was much less homogeneous than what is commonly believed: as a creditor-debtor
+2 Kindleberger, Financial History, pp. 67-68.
+3 Kenwood and Lougheed, Growth, chap. 7.
+4 Redish, "Persistence."
+5 Gallarotti, "Scramble" and Anatomy.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+864 Flandreau
+opposition, it developed after the emergence of the gold standard, not before. The policy shifts of the 1870s are better understood as being based on
+the interaction between network externalities and switching costs.6 During the 1860s growing trade led commercial interests (especially in Europe) to be attracted by the advantages of having a common standard. Given the predominance of gold or partly gold-based nations in world trade, a gold standard appeared to be a natural choice. On the other hand, the practical implementation of such a reform implied discarding silver. This involved considerable difficulties, especially for silver-standard nations such as Germany. These countries had to find the means to purchase gold, and they had to be able to get rid of demonetized silver on the best possible terms. Until the late 1860s, the difficulty of the exercise deterred many countries from actually moving to gold. However, after 1870, the FrancoPrussian war gave Germany the resources necessary to carry on its adoption of the gold standard. It also planned to get rid of its demonetized silver through the agency of France's bimetallic system, which had so far acted as a stabilizer of the international monetary system. The French retaliated in suspending silver coinage, in an attempt to block Germany's move to gold. But the bulk of legislation adopted in Germany in the early 1870s prohibited such a reversal, and France's decision only provoked the world's flight away from silver. In other words, the emergence of the gold standard was a blatant failure of international cooperation.
+The first section of the article documents the operation of the international monetary system prior to 1870 and develops a framework in which conventional theories of the making of the gold standard will be conveniently discussed. The second section reviews and criticizes conventional
+explanations. The last section presents an alternative view.7
+THE OPERATION OF THE INTERNATIONAL MONETARY SYSTEM BEFORE 1870
+Despite its monetary heterogeneity, the pregold standard regime was one of quasi-fixed exchange rates. From 1820 until the 1870s, the
+5 For a formal analysis of the interaction between network externalities and switching costs, see Dowd and Greenaway, "Currency Competition." In this model, the advantage of using one given currency depends positively on the number of people who use it. On the other hand moving to a new currency entails expenses. As a result, instead of tending to converge towards a single currency world, one converges towards a regime in which several currency areas may coexist.
+7 The counterfactual assessment of the effects of not suspending silver coinage in the 1870s has a long tradition in the U.S. context. See for instance Hiitter, L'incidence economique; Drake, "Reconstruction"; and Friedman, "Crime." Studies of the same issue in the French context include Mertens Naissance; and recently Oppers "Was the Worldwide Shift." Both tend to reject the conventional view, as I do here. This article, however, is the first to rely on a sound time series. (Flandreau, "Coin Memories"). In addition, it provides an alternative explanation of the emergence of the gold standard. Milward, "Origins," contains a good survey of the historiography on the emergence of the gold standard.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 865
+Gold-silver exchange rate in London
+(N 00 -rf O
+oooooooooooooooooooooooooooooooooo
+FIGURE 1
+GOLD-SILVER EXCHANGE RATE, 1800-1900
+Source: Warren and Pearson, Prices.
+gold-silver ratio modestly fluctuated around the 15.5 to 1 legal ratio defined by the French bimetallic system (Figure 1). As a result, exchangerate stability between monies based on different metals was quite amaz
+ing.8 In fact, this stability is something of a puzzle: after all, gold and silver are both commodities, and their relative price should fluctuate. How is it that their exchange rate remained so stable? To answer that question, a number of authors have assumed that it was the active policy of some monetary institution (such as central banks) that provided the pre-1873 stability of the gold-silver exchange rate. In case of excess supply of (for instance) gold, those institutions would buy the surplus against their silver reserves. According to Barry Eichengreen, for instance, France "attempted to operate a commodity price stabilization scheme, using
+reserves of gold and silver to stabilize the relative price of the two metals."9 This hypothesis, however, was rejected by historical research on the actual behavior of central banks and treasuries in bimetallic nations. Separate accounts for the United States, Belgium, Italy, and France consistently support the view that central institutions were never commit
+8 For instance, Collins ("Sterling Exchange Rates") reports that between 1846 and 1880 coefficients of the variation of exchange rates between gold, silver, and bimetallic countries are usually smaller than 2 percent. 9 Eichengreen, Gold Standard. See also Roccas, "L'italia."
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+866 Flandreau
+ted to exchange one metal for the other.10 For instance, the Bank of France, a private institution, had, as any other private agent, the option to redeem its notes in whatever metal it wished. This leaves open the question of how the gold-silver exchange rate was stabilized. In fact, the answer lies in an argument that was initially developed by Jean-Baptiste Say but the implications of which have never been fully understood, even by its own author. In a bimetallic regime, agents (not only central banks) have the option to pay their debts using the metal of their choice. They thus look for the less expensive currency (per unit of purchasing power). This tends to increase their demand for the relatively depreciated metal and feeds back onto its price, which is eventually stabilized at a level that has to be close to the legal ratio. Moreover, since agents realize that the equilibrium gold-silver exchange rate is the legal ratio, they compete to wipe out any discrepancy between the two relative prices. And indeed, between 1850 and 1870 (the period of focus in this section), the gold-silver exchange rate was pegged within an interval reflecting the costs associated with melting one metal and minting the
+other one.11 These arbitrages implied that in the bimetallic bloc, monetary holdings adjusted endogenously to buffer shocks on bullion markets. Holdings tended to become relatively more intensive in the metal that was relatively more abundant.
+What constitutes probably the most important conclusion of the previous analysis is that the operation of the pregold standard international monetary regime relied on the existence of some particular national monetary system that adjusted to preserve the worldwide stability of the gold-silver exchange rate. Those countries' commitment to bimetallism enforced the credibility of the ratio that in turn led to stabilizing interventions by private agents. The bimetallic bloc acted as an arbitrageur of last resort for the world monetary system at large, absorbing disequilibria originating on the international bullion markets. A priori, this buffer role was likely to depend upon the size of the bimetallic block, where France, with a huge specie circulation, played a dominant role. In 1850 France held about 2.3 billion French francs in silver, and the annual gold production was just about 360 million. The
+system was thus likely to cushion many gold supply shocks.12 However, speculating upon the durability of this scheme certainly requires a more careful analysis. To do so, I constructed a model of the international economy that focuses on the interactions between various monetary blocs. The model pictures a unified world economy that is formed by three
+10 For the United States, see Laughlin, History; for Belgium, see Kauch, Banque; for Italy, see Luzzatti, "Delle Attinenze"; and for France, see Flandreau, "Les regies."
+11 Flandreau, "As Good." For a dissenting view see Oppers, "Arbitrage," which does not estimate arbitrage costs, however. For a concurring view, see Friedman, "Bimetallism."
+12 At the same date, France held one billion French francs in gold while annual silver production was of about 250 million.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 867
+CORRELATION
+Gold (U.K.) Bimetallic (France) Silver (Germany) Silver (Asia)
+TABLE 1 BETWEEN INFLATION RATES: VARIOUS
+Gold (UK.)
+1 0.60 0.67 0.84
+Bimetallic (France)
+1 0.77 0.63
+COUNTRIES,
+Silver (Germany)
+1 0.44
+1848-1870
+Silver (Asia)
+1
+Note: Asia is represented by a bundle of oriental goods (Soetbeer, Materiaux). Source: Flandreau, L'ordu monde.
+regions being respectively on a gold, a silver, and a bimetallic standard. The gold-silver exchange rate (pG) is given by the legal ratio of the bimetallic bloc. The price of silver is set equal to one. There is one consumption good that is traded, and its price p (the world price level) is uniform across regions. The relative harmlessness of this assumption is supported by Table 1, which illustrates the tendency of prices in various
+areas to move together.13 Indeed, Table 1 shows that intrabloc correlations (such as those between Asia and Germany, which were on a silver standard) were not larger than interbloc correlation (such as those between Germany and the United Kingdom), suggesting that there is no rationale for discriminating between blocs on the basis of prices. The model can be shown to derive from a general equilibrium (static) framework, in which money demand is introduced through cash in advance constraints. However, for the sake of simplicity, I will focus on its semireduced form that distinguishes between monetary and nonmonetary
+demand for bullion in the various blocs.14 Furthermore, as in any static model, this framework may be interpreted as representing the steady state of some more complex dynamic system. Money demand in the gold, silver, and bimetallic blocs are respectively given by the following equations where Y' represents exogenously given real wealth, defined as beginning of period stock of consumption goods, monetary and nonmonetary metal, Mj is the monetary demand for metal
+j by country i, k1 is bloc fs Cambridge coefficient, i equals g for gold, s for
+silver, and b for bimetallism:15
+MhPc = k8pY* (1)
+13 Correlations reported in Table 1 are at least as strong as those reported for the gold-standard period by McCloskey and Zecher, "Success."
+14 As a result of Walras's Law we can drop one market, for instance, the commodity market. My model may be shown to derive from an explicit general equilibrium system, with Cobb-Douglas utility function and cash in advance constaints. The Cobb-Douglas specification (although admitedly not general) has the convenient implication that demand for each commodity is dependent only on own price and endowments. This renders the model tractable and allows straight-forward estimation. 15 A "proper" bimetallic equilibrium must have A^ > 0 and M% > 0, that is strictly positive holdings of both metals.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+868 Flandreau
+(2)
+M*GpG + Mbs = kbpYb (3)
+The demand for nonmonetary gold and silver in the three blocs is given by:
+DG =^C—Y a n d D ^ ^ p Y 1
+PG
+with i = g,s,b (4)
+Finally, we consider that the various blocs have stable relative sizes, and
+time independent monetization rules.16
+Y8 = (3gYb and Ys = psYb (5)
+Where j3g and /35 are parameters reflecting relative sizes. The model is closed by equating gold and silver resources. In equilibrium, the outstanding world gold resources (or supply) must equal the aggregate uses for monetary and nonmonetary gold (or demand). Calling G (respectively 5) the world stock of gold (respectively silver), we have:
+and S = M5S + Mbs+ 2D'S (6)
+As shown in the appendix, this set of equations can be solved for equilibrium prices (p and pc). This in turn can be used to solve for the bimetallic bloc gold and silver holdings. We finally get equations 7 and 8, which describe the equilibrium effect of a marginal increase in the stock of either metal and thus allows to sort out relations between stocks and flows (mc and ms are functions of the parameters of bullion demand for both monetary and nonmonetary uses). In this system, left-hand side variables (endogenous bimetallic specie holdings) are determined by right-hand side variables (exogenous world stocks of gold and silver). These equations show how the structure of the bimetallic bloc's circulation adjusts to exogenous shocks on bullion markets:
+PGMbG=pGG-(l-mG)-S-mG (7)
+Mbs= -pGG-ms + S-(l-ms) (8)
+This system may be thought of as capturing the economics of Gresham's Law in a bimetallic regime. If the world stock of gold increases by one franc, the gold holdings of the bimetallic bloc will increase by (1 - mc) franc, while its silver holdings will decrease by ms franc. In other words, the relatively more abundant metal drives the other one out of the
+16 Note that the model allows for different monetization behaviors in different blocs: the only requirement is that the relative monetization behavior be stable across time.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 869
+bimetallic bloc. However, the increase in the outstanding stock of gold will not necessarily result in a one for one substitution of one metal for the other one. To clarify this point, consider the following thought experiment. Assume that new gold outlets are discovered in some gold-standard country. The newly extracted bullion is partly monetized. This tends to produce a rise in the price level of that country. But both commodity and bimetallic arbitrages insure price uniformity across the world, implying that demand for money in the other nations has to rise in order to rebuild eroding real balances. In particular, there is an increased demand for monetary silver in silver-standard countries. With a fixed exchange rate between gold and silver, this requires substituting gold for silver in the bimetallic bloc, where gold holdings increase, and silver holdings decrease. But since nominal balances have to rise everywhere in the world, gold inflows in bimetallic countries must outweigh silver outflows.
+Consider now the statistical assessment of bimetallism, focusing on the period from 1850 to 1870. This will allow us to capture the "normal" mechanics of bimetallism, before the gold standard emerged. Two ingredients are necessary in order to estimate equations 7 and 8. We must first use a series for the annual world production of gold and silver. These are quite well documented, and although some competing series do exist, they
+are good substitutes for econometric purposes.17 The second ingredient is the series for gold and silver specie holdings of the bimetallic bloc. Obviously, given France's enormous weight within bimetallic nations (it held about nine-tenths of the bimetallic bloc's aggregate stock of specie) it
+is sufficient to have the series for France's gold and silver holdings.18 These were constructed in earlier work on the basis of a monetary census
+conducted in 1878.19 The estimation procedure is presented in the appendix. Equations 7 and 8 describe long-run equilibrium relations between nonstationary variables.
+17 To see this compare Hay, "Stock"; Soetbeer, Materiaux; and Mertens, Naissance. Note that in equations 7 and 8, the stock of gold and silver (not the annual production) is the relevant concept. Hence, one also needs an estimate for the stocks of bullion in 1849. The trouble is that, as argued by Hay, the figures for 1849 are nothing more than "vague assumptions" (Hay, "Stocks," p. 172). Fortunately, equations 7 and 8 allow for direct estimation of the stocks of gold and silver in 1849 (see the appendices). World bullion holdings are estimated to be of about 5.6 billion francs (for gold) and 7.5 billion francs for silver. "Vague assumption" may be found in Soetbeer, Materiaux, p. 10. 18 The U.S. economy—which made a much more extensive use of notes than the French did—held at most one-tenth of the bimetallic bloc stock of specie. Other bimetallic countries (Belgium, Switzerland, and Italy) relied heavily on French currency as part of the Latin Union (see Willis, History). Moreover, during most of the period under study, the United States and Italy experienced episodes of inconvertible paper, which probably further reduced their stock of specie and hence their weight in the bimetallic bloc. 19 This survey was used by the French statistician Foville to construct an estimate of the stock of specie in 1878. His estimate, however (see Sicsic, "Estimation"), was biased. Flandreau "Coin Memories," offers a method to clear the bias and retropolate the series back to 1840. Oppers, "Was the Worldwide Shift," by contrast, uses Foville's biased estimate directly and retropolates the series by merely subtracting from Foville's figure the data for annual coinage. This approach omits losses from exports, thus weakening any inference about bimetallism's sustainability.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+870 Flandreau
+ESTIMATION
+Variables
+Estimated coefficients Constant
+R2
+TABLE 2 OF THE COINTEGRATION EQUATIONS
+Equation 7
+mc = 0.37 A = 603 0.97
+Equation 8
+ms = 0.39 B = 2,528 0.92
+Note: /-statistics are not reported because they cannot be used for statistical inference. Source: See the text for author's computations.
+This allows implementation of least squares techniques that are known to produce estimates that are super-consistent. The results are presented in Table 2. Although the model is simplicity itself, it does perform very well: the Rh are quite high, and Figure 2 shows that the fit between actual and predicted series is good. This is rather remarkable, given the extreme paucity in the number of series used and the fact that we have in addition
+one linear restriction.20 The interpretation of these results is straightforward. If we round off mG and ms to 0.4, we get the following: an exogenous increase of one franc in the world stock of one given metal led to a long-run absorption of approximately 0.6 franc of this metal within the French economy, which then exported about 0.4 franc of the other metal. The estimated marginal rate of substitution was of two-thirds: two francs evicted for three francs absorbed). However, as illustrated in Figure 2, the ex-post structural rate of substitution over the period 1850 to 1870 (roughly corresponding to the slope of the actual holdings curve in Figure 2) was only about one-third: 5.2 billion worth of gold was gained, and 1.8 billion worth of silver was lost. The reason for this smaller structural effect is that the buffer role of the French economy only had to play on net disequilibria. This is why bimetallism was so flexible. Even when submitted to massive shocks on one side of the bullion market, France's pivotal role could always rely on additional help from the supply of the other metal. To what forces was this unilateral scheme vulnerable? This is the question to which the article now turns.
+TRADITIONAL THEORIES: A CRITIQUE
+The Fundamentals Theory
+The fundamentals theory emphasizes the role of rising silver output after discoveries of new outlets in Nevada and Mexico and improvements in silver production. This was, according to C. P. Kindleberger, a serious
+20 The super-consistency property provides a way to test the validity of the restriction that coefficients in each equation sum to unity. Indeed, suppose that the restriction does not hold. This means that we are not picking the correct cointegration vector. As a result, residuals must be nonstationary. A CRDW test performed for equations 7 and 8 gives statistics at 0.5 and 0.51, respectively, which are above the 0.34 criterion for nonstationarity. Hence, residuals are stationary, and the restriction does hold.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 871
+3500
+C/5
+0
+0 1000 6000
+2000 3000 4000 5000 Gold: French Francs (millions)
+FIGURE 2
+ACTUAL AND PREDICTED SPECIE HOLDINGS IN FRANCE, 1850-1870
+Source: Actual series, Flandreau, "Coin Memories." For the predicted series, see text.
+7000
+blow for bimetallism. France would not have possessed sufficient gold resources to stabilize the gold-silver ratio and would thus have been forced to end bimetallism by limiting silver coinage in 1873. However, the silver shock of the late 1860s and 1870s was far more limited than the gold shock of the 1850s—in fact it was about half as large. And since bimetallism had resisted the California glut, it could as well have survived the Comstock
+Lode.21 It is possible to discuss this thesis more rigorously by using the model developed in the previous section. That framework offers a simple way to test the fundamentals theory by determining what I. Fisher called the "structural limits" of bimetallism. As long as there remain gold and silver coins available for arbitrage purposes (joint circulation of gold and silver in France), the commercial ratio can be pegged to the legal ratio. Consistently, a necessary and sufficient condition for France's stabilizing influence to be effective is that it retain positive holdings of both
+21 The rising-silver-production argument is often coupled with another theory that emphasizes the "additional" effect of decreasing demand for silver resulting from reduced trade surpluses in silver-standard countries (de Cecco, Money; and Gallarotti, "Scramble"). There is no reason to distinguish between both phenomena because they were the two sides of the same coin. Indeed, we have shown in the previous section that the adjustment of rising gold production during the 1850s and 1860s required that silver be displaced from bimetallic countries to silver-standard countries and thus created a transitory trade surplus in the silver bloc. This was known as the "Eastern drain" (Cairnes, Essays). Consistently, rising silver production after 1865 reduced the trade surplus of silver-standard countries against nonsilver countries.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+872 Flandreau
+0.4
+0.3 +
+0.2
+0.1
+-0.3
+Estimated upper bound: France collapses to de facto gold standard
+Ratio of gold-silver resources (evaluated at 15.5)
+Estimated lower bound: France collapses to de facto silver standard
+I I I I I I I I I I I I I l I I I I I I I I I I -+H
+oooooooooooooooooooooooooooooooooooo
+FIGURE 3
+RISING SILVER PRODUCTION VERSUS STRUCTURAL LIMITS
+Source: See the text. All variables are in logarithms.
+currencies. But this condition can be translated into a constraint upon the relative amounts of precious metals existing in the world. Formally:
+(pcMbG > o & A4 > o) mG
+- mG)
+-ms)
+ms (9)
+Hence, to test bimetallism sustainability in the wake of changing fundamentals, one has to look at the evolution of the relative gold and silver resources after 1870 under the counterfactual assumption that the gold-silver ratio was pegged at 15.5. If the relative gold and silver resources remain within the estimated structural limits, one has to reject the fundamentals theory. Since mc and ms were estimated in the previous section, direct evaluation of the structural limits is straightforward. The test is performed in Figure 3. Not only would have France been able to buffer rising silver production but, in addition, the proportion of gold in its circulation would have remained dominant. Bimetallism was not doomed by fundamentals.
+The Monetary Consequences of Bismarck
+The previous conclusion however was obtained under the assumption that monetary geography would remain unchanged. The strategical theory, by contrast, takes into account the consequences of political moves such as
+22 Fisher, "Mechanics." Note that if ones introduces uncertainty, the necessary and sufficient condition represented in (equation 9) becomes a necessary condition. The distinction, however, is not very meaningful as long as annual bullion production remains small relative to world bullion holdings (a situation that is confirmed by the data). In this case the boundaries associated with equation (9) virtually coincide with the boundaries that would be derived from a stochastic version of the model.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 873
+regime changes in other countries. This in turn raises the question of the consequences of Germany's monetary reform. In 1871 Germany had imposed on a defeated France an enormous indemnity of five billion francs, about one-third of France's GNP. The transfer took place in the years 1871 to 1873. In the meantime, Germany decided that its monetary unification would be implemented on the basis of gold. About two billion francs in silver waited to be exchanged against
+gold on world bullion markets.23 This provides the background for the
+strategical theory of the emergence of the gold standard.24 According to this view, Germany's 1871 decision to switch to gold increased the supply of silver and thus drove down its price, triggering a flight away from that metal, because "countries on a silver or bimetallic standard faced the possibility of substantial monetary inflation. As a result, the demonetization of silver became general after the mid-seventies." The theoretical nature of this view is recognizable. It can be characterized as a free-rider argument. As Henry Russell put it, "States were afraid of employing silver on account of the depreciation, and the depreciation continued because
+the states refused to employ it."25
+From a logical point of view, this reasoning implies that given Germany's decision to move to gold other countries had no option but to abandon silver or face dramatic depreciation of their currency. This might have been true for smaller countries that were unable to influence the rest of the world, but what about France? Was French bimetallism strong enough to buffer Germany's reform? The implicit assumption of the strategical theory is that the transfer of five billion francs in gold from France to Germany combined with the sale on international markets of about two billion francs in silver would have forced the French economy on a de facto silver standard. This view, however, is flawed by a number of historical and analytical inaccuracies. Contrary to a common belief, the French indemnity was not
+paid in specie.26 The French government issued a perpetual bond—the so-called Rente Thiers—which was subscribed not only by French investors, but by foreigners as well. With the proceeds of that operation, it obtained short-term bills on various places (London, Hamburg, Amsterdam, and so on). The bills were then transferred to Germany. A mere 500 million French francs were paid in specie (of which 250 million was in silver). The German government, on the other hand, used a fraction of the bills (less
+than one-fifth) to obtain gold.27 Germany was counting on sales of its silver
+23 Mertens, Naissance; and Helfferich, Money.
+24 This explanation was originally suggested by Russell, International Monetary Conferences, and has permeated most accounts of the period: Willis, History; Mertens, Naissance; Kenwood and Lougheed, Growth; Yeager, International Monetary Relations; de Cecco, Money; and Gallarotti, "Scramble."
+25 Kenwood and Lougheed, Growth, p. 121; and Russell, International Monetary Conferences, p. 215.
+26 Say, Rapport.
+27 The rest of the indemnity was used to improve the public finances of the new Empire and was evenly spent both at home and abroad.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+874 Flandreau
+0.4
+a3.
+0.3 
+0.2 -
+0.1 
+0
+-0.1 4,
+-0.2 - 
+-0.3
+Postrefqrrn upper limit
+Prereform upper limit
+Ratio of gold-silver resources (evaluated at 15.5)
+Postreform lower limit
+Prereform lower limit
+I I I I I I I I I I 1I I 1I I I I I I I I I I I 1I I I I I I II O fN Tt VO OO
+\n in in m ir>
+OO OO 0 0 OO OO
+vo oo O
+• - • - |»
+OO
+Tfr SO 00 © CM
+r - t~ t— oo oo
+OO OO OO OO OO
+FIGURE 4
+GERMANY'S REFORM: SHIFTING STRUCTURAL LIMITS
+Source: See the text.
+holdings to complete its move to gold. Hence the monetary consequences of the indemnity as a shock on bullion markets were likely to be far more limited than usually suggested. Clearly, Germany's policies (which amounted to the defection of a member of the silver bloc) would have had no effect on the gold-silver exchange rate nor on the silver-bloc price level, provided that France held a larger stock of gold than the stock of silver that Germany was about to sell. Intuitively, since there existed in 1870 an international equilibrium in which the gold-silver exchange rate was pegged around 15.5, where France held six billion French francs in gold and 1.2 billion in silver, and where Germany held two billion French francs in silver, there existed as well an international equilibrium in which the gold-silver exchange rate would still be pegged around 15.5, where France would hold 6 — 2 = 4 billion (FF) in gold and 1.2 + 2 = 3.2 billion (FF) in silver, and where Germany would
+hold two billion (FF) in gold.28 However, in order to assess more rigorously the net drain from the indemnity, one needs to go beyond the simple accounting developed above. In terms of the framework sketched out in the previous section, Germany's adoption of the gold standard would not merely cause a
+28 The estimates for the stock of specie in France and Germany are from Flandreau "Coin Memories"; and Helfferich, Money, respectively. Of course, through wealth effects, France may have wanted to reduce a bit its specie holdings (its government was now 5 billions more indebted, which meant higher taxes in the future), while Germany would want to increase them (its government was 5 billion richer). However, given that the 5 billions indemnity represented perhaps 10 percent of the wealth of Frenchmen measured as the sum of bonds and stocks, the reduction in specie holdings was likely to be quite moderate. Indeed the net specie outflow that occured between 1870 and 1873 was of 200 millions, representing a loss of about 350 millions in gold and a gain of about 150 million in silver.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 875
+parity
+Z
+jportior
+a,
+CO
+1.00
+0.99
+0.98
+0.97
+0.96 - 
+t 0.95 - 
+1)
+Par=l
+silver coins on the Paris Bourse silver bars on the Paris Bourse
+Further limitations on silver issues France limits silver coinage
++ I I I II
+< O i <5 3 O
+5 <O <
+1875
+1873 1874
+FIGURE 5
+PRICE OF SILVER ON THE PARIS STOCK EXCHANGE
+Source: France, Archives de la Monnaiede Paris, Cours Authentiques des Matieres d'Or et d'Argent.
+substitution in France's specie holdings. It would also provoke a permanent shift in the structural limits of bimetallism, for Germany's reform increased the aggregate (monetary) demand for gold at the expense of the aggregate (monetary) demand for silver. Yet Figure 4 (which contrasts the evolution of the world stocks of gold and silver to the new structural limits) shows that despite rising silver production and despite changing structural limits, France's circulation was strong enough to accommodate the shock. Although it is true that France would have ended up with a smaller proportion of gold in its circulation (about 60 percent in 1880 against 85 percent in 1870), Germany's reform could not destroy bimetallism. A final proof is given by looking at the price of silver on the Paris market. Despite intensifying sales of demonetized silver Thalers by the German government after July 1873, the quote for silver in Paris remained during the whole summer at or above the level at which it was becoming profitable to buy bars and pay the coinage charge. However, on the morrow of the very day when the coinage of silver had been limited, the price of silver fell through its floor (Figure 5). Obviously, it was the French decision that had produced the fall in the price of silver—not the other way around.
+Transaction Costs Arguments
+The transaction costs approach to the emergence of the gold standard was developed by Angela Redish. It is based on a ranking of the various
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+876 Flandreau
+possible monetary systems in terms of their advantage and constraints for
+payment purposes.29 The underlying prejudice is that gold dominated silver as a mean of payment, implying that the question is not so much why the gold standard emerged but when it emerged. In this perspective, silver only fitted smaller transactions for which it dominated token monies, as long as token coins could be easily counterfeited. Silver coins by contrast had an intrinsic value equal to their nominal price, thus ruling out profitable counterfeiting. However, if some hard-to-copy substitute for silver coins could be designed, one would be able to reap the advantages associated with adopting a gold standard and give up silver. Moreover, Redish argued that since bimetallism required gold and silver holdings to adjust endogenously to shocks on international bullion markets, bimetallic economies could find themselves with inadequate silver circulation to meet their needs. This was an additional reason for preferring a gold standard with token coins for smaller change to a bimetallic system.
+This led Redish to argue that the emergence of the gold standard was related to technological changes, and in particular, to the adoption of the steam press, which was able to produce high-quality token coins, thus preparing the ground for silver demonetization. As a result, the earlier adoption of the steam press in Britain caused an earlier introduction of the
+gold standard in Britain.30 This perspective has two flaws. If technological constraints had mattered that much, then France should have moved to gold in 1832 (when the Le Thonnelier steam press was designed), or in 1845 (when the Paris Mint
+adopted it) not in 1873.31 Indeed, as Redish herself acknowledges, her explanation at most refers to the preconditions of the emergence of the gold standard. To obtain an interpretation of the timing of the emergence of the gold standard, one is thus bound to rely on a set of events that would have produced a 40-year delay after the technological problem was solved. Second, it is incorrect to assert that the endogeneity of the supply of smaller silver currency was an inescapable consequence of the operation of bimetallism. The two questions could be easily separated by debasing the smaller silver coins (say up to two francs) and keeping the larger denominations (mainly the five-franc coin or ecu, worth about one silver dollar) in an unaltered state. This type of institutional change—which was introduced in the United States in the 1850s and in Italy, Switzerland, and Belgium in the early 1860s—meant that one could very well insulate transactions from arbitrages. This was done in France in 1864, and yet the gold standard waited until 1873.
+29 See Redish, "Evolution of the Gold Standard in France" and "Evolution of the Gold Standard in England" and "Persistence."
+30 Trying to generalize Redish's case to a larger sample of countries would only weaken her thesis. Germany, for instance, did develop a high-quality minting technology well before 1873 and yet remained on a silver standard until that date.
+31 See Darnis, La Monnaie; and Flandreau, L'ordu monde.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 877
+Finally, the question boils down to determining whether gold was or was not a superior mean of payment relative to silver for international transactions. In fact, the seemingly intuitive claim that gold dominated silver turns out to be based on the incorrect assumption that shipping expenses depended on the weight of the shipment. Instead, as illustrated by Figure 6 (which gives a few figures for international shipments circa 1868 as reported by Ernest Seyd) the fees charged for international exports of numeraire were assessed on the value of the shipment. From this perspective the two metals were essentially perfect substitutes. In other words, there was no strong reason for preferring gold to silver for international transactions. An international silver standard would have
+done almost as well as an international gold standard.32
+The Political Economy Approach
+According to Giulio Gallarotti, the events of the 1870s have to be related to the growing progold agitation of the 1850s and 1860s when the urban-capitalist interests (businessmen, bankers, creditors, and other proponents of stable money) were opposed to inflationary agrarian
+interests (farmers and landowners).33 In this view, silver is identified with inflation and gold with stable prices. Once more, however, this analysis has to be qualified. First, it is not quite rigorous to aggregate bankers and businessmen into one single progold category. Indeed, it is well known that during the 1860s and beyond bankers usually offered strong support for the bimetallic system. During the French Commissions Monetaires a majority of financiers consistently opposed moves to gold monometallism. For instance, during the Enquete of 1870 a large delegation of bankers came to support bimetallism. Bimetallism provided for the stability of the gold-silver exchange rate thus reducing the risk premium attached to lending money to nations on different standards. Besides, as pointed out by Henry Parker Willis, the operation of the dual standard offered constant arbitrage
+opportunities to international bankers.34 Thus some important creditors supported bimetallism, and their support extended well beyond the demise of bimetallism. After 1876, Alphonse de Rothschild in France and Gerson von Bleichroder in Germany—both prominent bankers—offered material help to bimetallist campaigns.
+32 Besides, it is quite naive to assume that there is a one-for-one relation between the intrinsic properties of a given metal and the efficiency of the payment system at large. A more costly medium of payment is likely to push towards institutional improvement that eventually may lead to greater efficiency. Ricardo himself argued: "The only objection to the use of silver is its b u l k . . . but this objection is entirely removed by the substituting of paper money as a general circulation medium." (quoted in Sayers, "Question of the Standard, 1815-1844," p. 91. 33 Gallarotti, Scramble. In a similar vein, see Baas, "Doppelwahrungspolitik." In the U.S. context, albeit for a somewhat later period, see Frieden, "Dynamics."
+34 Willis, History; Conseil Superieur du Commerce, Enquete Relative a la Question Monetaire, p. 100 ff.; Flandreau, L'ordu monde; and de Cecco, "Gold Standard."
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+878 Flandreau
+SHIPPING OF BULLION.
+RATES OF FREIGHT and INSURANCE
+for BULLION from or to LONDON.
+Freight.
+PAEI8 - By S. E. Railway or Messageries ImpeVialea
+For sums between £800 and
+£4000—for every £100 - 4 s 7d
+For earns above £4000 • 4s
+BOULOGNE
+CALAIS
+ANTWERP
+ROTTERDAM
+HAMBURG
+Dy General Steam Navigation
+Company
+For Bums np to £5000
+above „
+o/o
+ST. PETERSBUBG By Steamor
+Insurance
+V»o/o
+"To ••
+i„
+MADRAS 
+BOMBAY 
+CALCUTi'A
+HONG KONG
+SHANGHAI
+AUSTRALIA
+f Peninsular and Oriontal
+Stcamsliipa •
+Do.
+Do.
+Do. By Sailing Vessol
+2 o/o * ,
+24 „ i , 2i „ 1 ,
+21 2d a 2Jd por oz.
+NEW YORK Por Cunard Stoamcrs, up to 10,000 * „
+„ „ 30,000 i „ io/oinsiimmor 50,000 ft »
+Abovo 50,000 J „ J „ in winter
+Other Steamers may charge lower rates.
+CALIFORNIA*
+PANAMA 
+VALPARAISO
+RIO JANEIRO •
+CAPE OF GOOD } HOPE - -J
+MAURITIUS
+By Pacific Mail Steamere to
+Panama J o/o - - 1 | „ 1 „
+„ Royal Hail Steamers from
+Panama to England jo/o
+By Royal Mail Steamers For Gold - - • 1± „ „ Silver - - - If „ I „
+By Pacific Steamers and
+Royal Mail For Gold - - - 2 i „ 1 „ „ Silver - - - 2J
+Per Steamers to Southampton 1 „ Delivered in London . 1J „ £ „
+Per Union Steamship Company from Southampton l i a 2 o/o I a } o/o
+Do. 2 a 2* „ fafo/o
+The rates of freight are exclusive of the usual Primages; the rates of Insurance
+include discount and commission.
+• The competition between rival Steamer Lines sometimes redaces the rates
+of freight on the Pacific side to i o/o.
+FIGURE 6
+ERNEST SEYD FIGURES FOR RATES OF FREIGHT AND INSURANCE FOR BULLION
+Source: The table is reprinted from Seyd, Bullion, p. 257. The table shows that in general no distinction was made between gold and silver. Quotes for bullion were given as a fraction of the value of the shipment. Distinctions between gold and silver were only made for Panama and Valparaiso. But they show a contrario how small differences could be.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 879
+Second, although it is true—as demonstrated by Richard S. Sayers—that nineteenth-century debates about the question of the standard may to some extent be interpreted as a debtor-creditor conflict, it was only after 1876 that the connection between bimetallism and easy-money interests
+was achieved.35 This was in large part related to the observed decline in world prices that started after 1873 and was more pronounced for agricultural than for industrial goods. Hence gradually, across developed nations, silver men and agricultural interests met, and the various bimetallic leagues created in the 1880s received strong help from indebted farmers. In France for instance, the agrarian Meline was an open supporter of the reintroduction of the double standard. Similarly, as demonstrated by Eichengreen, votes for William Jennings Bryan's bimetallic ticket were substantially higher in agricultural districts. But this was
+well after the collapse of bimetallism.36
+During the 1850s and 1860s by contrast, it was gold, not silver, that was seen as the inflationary metal. The flows of gold that poured on European markets after the Gold Rush led several economists to advocate gold
+demonetization to foster price stability.37 Hence the 1850s and 1860s agitation in favor of gold and the subsequent demise of bimetallism in the early 1870s cannot be the mere result of a conservative agenda. Had the concern about price behavior been the main cause of the emergence of the gold standard, it should have worked earlier and produced in the late 1840s or early 1850s the emergence of the international silver standard. As a matter of fact, a number of countries, such as Belgium or Holland, had (temporarily or permanently) moved to silver for fear of gold inflation—and yet bimetallism had survived. What was the new ingredient of the 1870s?
+A NEW VIEW ON THE EMERGENCE OF THE INTERNATIONAL GOLD STANDARD: THE STRATEGICAL THEORY RECONSIDERED
+Externalities versus Switching Costs: Stable Bimetallism, 1850-1870
+Having demonstrated that bimetallism was viable, we must explain the causes of its demise. It has often been observed that the 1860s—which began with the Anglo-French Trade Treaty—were years of considerable expansion in world trade, and of growing European integration. Between 1860 and 1870, European intratrade grew from about 59.5 percent to 65
+35 Sayers, "Question of the Standard, 1815-1844" and "Question of the Standard in the 1850s." T h e change in 1876 coincided with Senator Jones's (of Nevada) speech about the silver causes of the fall in prices. Describing the period from 1873 to 1896, Friedman and Schwartz (Monetary History) observe: "The decline and subsequent rise in world prices in terms of gold were naturally reflected in U.S. prices, and the different price trends in turn were reflected in domestic politics." See also Mertens, Naissance.
+36 Eichengreen, "Endogeneity."
+37 Sayers, "Question of the Standard, 1815-1844" and "Question of the Standard in the 1850s."
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+880 Flandreau
+percent.38 This wave of free-trade brought into focus the advantages of improving communications. Import duties had to be reduced and transactions had to be facilitated. Economic interests generally favored a world currency. As John Stuart Mill had put it, "So much of barbarism, however, still remains in the transactions of most civilized nations, that almost all independent countries choose to assert their nationality by having, to their own inconvenience and that of their neighbours, a peculiar currency of
+their own."39 Consistently, the period was characterized by a growing agitation in favor of currency uniformization, which was motivated by the desire to reduce transaction costs. The logic underlying these movements can be clarified by analyzing the
+results of a survey that was conducted in France in 1868.40 A number of chambers of commerce were asked to state their opinion about a possible move to gold as opposed to maintaining the status quo. Although everybody favored the notion that France should adjust its monetary system to that of its main trading partners, there was a good deal of controversy among the chambers of commerce as to what was the most suitable metal. The main source of disagreement was that every region tended to favor the currency of its main trading partner, which of course varied substantially. Regions trading with gold nations tended to vote for gold, whereas regions trading with silver nations voted for silver. Figure 7 reveals a number of telling contrasts. Atlantic or Mediterranean ports, which had extensive trade with South America or Asia, as well as some Eastern industrial centers, such as Strasbourg, which traded with Germany, Austria, or Holland, opposed silver demonetization arguing that bimetallism offered a convenient way to settle balances with silver
+standard nations.41 On the other hand, towns located along the Seine River (Paris, Elbeuf, and Rouen) or in northern France (Amiens, SaintQuentin, Arras, or Abbeville) usually favored the gold standard, for gold was the only thing they needed to trade with England or Belgium. In each case, the degree of trade integration—often linked to geographic proximitymotivated preferences for one metal over the other. Of course, given that France was realizing about half of its aggregate trade with England, those who favored gold clearly outnumbered those who favored silver.
+A similar pattern can be discerned in other countries, although we lack the detailed source of information that we have for France. In Germany, for instance, campaigns for the introduction of a gold currency developed
+38 These figures represent the proportion of European nations' foreign trade that was directed to other European nations. Figures are computed on the basis of Bairoch, "Geographical Structure."
+39 Quoted by Mundell, "Theory," p. 662.
+40 The results are published in Documents.
+41 An exception was Besancon, which mostly traded with franc-based Switzerland. As part of the Latin Union, Switzerland's monetary stock was predominantly made of gold.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 881
+Gold standard, silver demonetization
+Gold standard, silver kept as trade currency
+Keep silver in circulation at fixed value
+( ) Keep bimetallism
+FIGURE 7
+VOTES OF THE CHAMBRES DE COMMERCE (1868)
+Notes: The map was constructed on the basis of the information provided by the various chambers of commerce regarding how they felt about a possible move to gold. For each chamber, answers reflect the opinion of the majority. Four reactions were observed: oppose any kind of alteration of bimetallism; oppose any kind of modification that would raise doubts about the value of silver ecus; support a reform to gold with silver becoming a trade currency (no fixed exchange rate with gold); and support a full adoption of the gold standard. One chamber (Cherbourg) reported that no majority emerged, and is not represented on the map. The size of the various chambers is approximated on the basis of the aggregate discount business of the Bank of France's subsidiaries in each town, constructed on the basis of Levasseur, Histoire, p. 285-86.
+Source: Bibliotheque Nationale, Documents Relatifs a la Question Monetaire.
+through Handelstage meetings in 1861 and 1865. In these gatherings, a large number of leaders of the commercial and industrial communities recommended the adoption of a gold standard in order to facilitate foreign
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+882 Flandreau
+transactions.42 Some, however, opposed these moves on the ground that it was preferable for Germany to stick to the silver-related Austrian system
+since Austria was the main trading partner of several German states.43 In 1868 a third Handelstag convened in Berlin. A majority vote decided that in addition to moving to a gold standard, Germany should base its coins on the French unit. That a majority of Germans wanted to adopt a francrelated unit at a time when French trading with Germany opposed silver demonetization illustrates very well the mechanism at work. In fact, even the British favored a partial debasement of the pound, that would bring it
+down to match a proposed 25-franc gold coin.44
+The forces at work may be described as resulting from strategic externalities. One tends to favor the currency that is used by one's main trading partner. As a result, the utility of using one given currency is an increasing function of the number of agents that have adopted it. There is thus a trend towards the adoption of one single currency. Of course, by themselves, these externalities were not liable to produce any specific system. A silver standard might have emerged as well: strategic externalities imply that everything is ruled by path dependency. In the 1860s, the odds were favorable for gold. Britain—the main trading nation—was on gold, and thanks to the Gold Rush, several important continental traders (France, Belgium, Switzerland, and Italy) had a large proportion of their circulation in gold. This logic culminated in the votes of the 1867 International Monetary Conference held in Paris, which had opted for a gold franc and the 25-franc gold coin as being the most natural basis for world monetary unification. Is it to say that the emergence of the international gold standard in the 1870s was a pure result of network externalities? Not quite. The nonbinding agreement reached in 1867 revealed deeper questions, the importance of which became obvious when the technical aspects of the reform came under discussion. The advantages of having one common standard were
+offset by substantial switching costs and feasibility constraints.45 When faced with the expenses of the reform, several large countries were much less inclined to move to gold. In France, demonetizing silver would require
+42 Mertens made a similar claim, although he combined it with more ideological reasons: "For the convenience of commerce, it was thus necessary to obtain a gold currency. This is what the Handelstage wanted. ... But from contemporary literature, one gets the impression that a gold currency was not only an economic necessity, but that it also corresponded to sentimental motives: commercial interest thought that Germany's prestige required her to have a gold currency as its British rival" (Mertens, Naissance, pp. 112-23).
+43 French Consul in Germany, France, Archives du Ministere des Affaires Etrangeres, Serie FA29 600bls. Note that Austria was at the time struggling with inconvertible paper currency; this weakened the gulden's potential as a basis of the German system. 44 This coin (which would never be issued) had been chosen by the 1867 conference to materialize a system of correspondence between national units. See the Report of the Royal Commission on International Coinage, where a majority of people (including Jevons) supported the pound debasement scheme. 45 Dowd and Greenaway, "Currency Competition."
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 883
+getting rid of at least one billion francs in ecus.46 Since the reform meant that France would renounce its role as an arbitrageur of last resort for the gold-silver exchange rate, it was not clear how the ecus could be sold. Losses were to be expected. Alternatively, some institutional scheme for pegging the value of the ecus might be designed, but it was not clear how. Besides, the government was warned that if the reform went amok, this would be a cause of blame against the regime—a serious problem in a
+period of extension of the franchise.47 Why change a system that had delivered exchange-rate stability with all kinds of trading partners that had performed quite well so far and whose alteration was opposed by a significant portion of the population? Thus, the various Ministers of
+Finances of the late 1860s resisted the reform.48
+Germany's situation was even trickier, as acknowledged by the Prussian
+delegate to the 1867 international conference.49 Germany's strong reliance on imports of raw products made it especially concerned about having a convenient means of payment to purchase through London (if not from
+England) the goods it required.50 Moreover, Germany's exchange stability against gold nations was only indirectly achieved through the agency of the French system. This meant that the fate of German exchange-rate stability in terms of the pound was to a certain extent under French control. Finally, the northern German states that were regrouped since 1866 in a German confederacy were contemplating the possibility of a unification of their currencies, and had accordingly transferred the power to rule over monetary questions to a protofederal parliament. It was propitious to take advantage of a possible recoinage to change more radically Germany's monetary system. On the other hand, Germany's already substantial silver circulation (an estimated two billion of French francs) designated it as the country that was the least likely to operate an easy reform. A move from one standard to the other one could not be achieved overnight. It was not possible to throw on international bullion markets two billion in silver and wake up to a gold standard. Instead, gold reserves had to be accumulated in advance.
+46 Flandreau, L'ordu monde; contemporaries often quoted higher figures, ranging between 1.5 and 2 billion.
+47 See Documents.
+48 See Flandreau, "Was the Latin Union."
+49 See Conference Monitaire Internationale de 1867. The Bibliotheque de la Faculte de Droit (Cujas) holds these and other members of the Conference Monetaire Internationale. The Prussian delegate Meinecke had indeed declared that although his country was "satisfied with the silver standard" (p. 16), his government did favor the adoption of the gold standard, pointing out that "the difficulty of such a reform was much bigger for Germany than for any other nation" (p. 33). 50 As mentioned by Milward and Saul {Economic Development p. 428), in 1870, "there were obvious weaknesses in Germany's economic position in 1 8 7 0 . . . . Sources of supply [for the major industries] were more unsure for Germany did not have the world empire of her European rivals and the domestic raw material base was already inadequate to sustain the developments which had taken place. Raw materials accounted for 62.5 per cent of all imports in 1869 and raw materials for the textile industries alone accounted for 31 per cent."
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+884 Flandreau
+The only option was to first purchase a certain amount of gold, then implement gold convertibility, and eventually complete the reform by gradually exchanging silver Thalers for gold on world markets. Hence, two difficulties had to be faced. First, Germany had to solve the financial problem, (find the resources to purchase gold). Second it had to solve the liquidation problem, (be able to exchange silver against gold on good
+terms).51
+Both problems were enormous. The amount of gold that had to be accumulated to start up the reform can be estimated at about one billion Reichsmarks. This is indeed what Germany would coin between 1871 and
+1873 before it launched its transition to gold.52 But the average income that the federal government would collect after 1875 was only about 600
+million Reichsmarks.53 The reform thus did cost more than future annual receipts of the federal government, and in the late 1860s unification prospects were far from obvious. There was no way that before 1870 a nonunified Germany could easily obtain such funds. It is well known that in the late 1860s Prussia, which was leading the unification movement, was desperately short of cash. Worse still, borrowing to move to gold had to be achieved with the help of the banking elite, which as argued above,
+opposed any move away from bimetallism.54 Germany's liquidation problem was in no way smaller. One possibility was to obtain France's passive cooperation, that is, sell silver and hope that French arbitrageurs would not be disrupted by French monetary authorities in their buying of demonetized Thalers and selling of French gold coins. Given the huge size of Germany's circulation, it was unlikely that the French could be taken by surprise. J. Prince-Smith (later a leader of the bimetallist party in Germany) had very neatly exposed the dilemma: "France may not passively attend German reform . . . but instead may change its monetary system as soon as we would decide to throw our silver
+on international markets."55 Finally, our conclusion is that the 1860s debates about the adoption of the gold standard reveal that two key factors shaped the controversies. The microeconomic element of strategic externalities and economies of scale
+51 The analysis of transitional dynamics in terms of the "financial" and "liquidation" problems was pioneered by Taussig (International Trade, p. 269).
+52 See for example, Helfferich, Reform, t. 2, p. 393. Of course, such a figure does not include the numerous expenses associated with collecting old coins, coining new ones, paying intermediaries.
+53 See Statesman's Yearbook, various issues (1870-1880). The figures we have for the early 1870s overestimate actual receipts because they include the indemnity payments.
+54 Stern, Gold. In chapter 3, Stern describes the general opposition of Western European finance to Prussia's schemes. T o a certain extent this led Bismarck to his policy of short-term borrowing to finance his military projects followed by indemnity imposed to the defeated. And ironically, Bleichroder (Bismarck's main financier) was a supporter of bimetallism. 55 Parieu, "Les conferences." See also Prince-Smith, Wahrung. As Mertens argued, "although the gold standard did certainly enjoy some popularity in a large fraction of the public opinion, which included people like Soetbeer, Bamberger, Delbriick, governmental circles both before and after 1871, were certainly not ready to implement a reform." Mertens, Naissance, p. 124.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 885
+that pushed towards currency uniformization was counteracted by the constraints associated with moving from one standard to the other one. And this difficulty, which was even larger for Germany than for France, in turn stabilized the policies of smaller nations, whose monetary system was tied to that of their larger partners.
+The War and the Indemnity: Bimetallism Destabilized
+The war was to change this situation. The huge indemnity that Germany imposed on France solved the financial problem. The five billion of French francs represented more than what was needed to purchase gold. Moreover, the German government apparently felt that the liquidation problem was fixed as well, perhaps because it seemed unlikely that a crippled France could oppose Germany's transition. Between 1871 and 1873, a series of votes in the German parliament prepared the introduction of the
+gold standard.56 Massive gold coinage was undertaken and as mentioned earlier, the Germans started silver sales during the summer of 1873. Despite some opposition by people like Adolf Soetbeer and Ludwig Bamberger who urged that silver sales be started without delay, German officials had decided to wait until France's financial situation was sound enough so that the old bimetallic machine once more could be put into action. This way officials believed that they would be able to dispose conveniently of the old Thalers. At first, the French government did not react, for it was busy completing the payment of the indemnity. However, on September 5, 1873, the last portion of the indemnity was transferred. The next day France limited silver coinage to 280,000 francs per day, a decision that, as argued above, triggered the fall in the price of silver. Three elements appear to have determined the French decision. First, it must be emphasized that there was no panicking on behalf of the French monetary authorities. An inspection of the government archives (and in particular of the mint archives) provides evidence of France's confidence in its monetary system. They show conclusively that the minister of finance was to a large extent thinking in terms of the model described above. It was understood that Germany's reform would have mostly a substitution effect, silver driving out a limited portion of the gold circulation. For instance, in a memo addressed to his representatives for the January 1874 Latin Union meeting that convened in order to deal with the effects of Germany's adoption of the gold standard, Minister Pierre Magne (a strong supporter of the dual standard) wrote: "Under the influence of silver demonetization in Germany, this metal tends to be coined here in uncommon quantities.... This
+however is a purely transitory phenomenon."51
+56 See Nothomb, Rapport sur la loi monetaire allemande du 4 decembre 1871 and Rapport sur la deuxiime loi monetaire allemande du 9 juillet 1873.
+57 Italics are mine. France, Archives de la Monnaie de Paris [hereafter AMP], Serie K. The memo continued: "La limitation de la frappe de 1'argent est une mesure de pure prevoyance, qui n'implique
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+886 Flandreau
+In fact the immediate instinct behind the limitation of silver coinage was anti-German. That this decision took place on the very day after the last part of the indemnity was paid is more than a hint. For the French, the indemnity had already been a large enough tribute. Moreover, the French perceived that removing the ladder that the Germans were using to reach for the gold standard, could lead to a change in Germany's policy. Indeed, during the January 1874 meeting of the Latin Union members, the French delegates emphasized that the Germans had not yet succeeded in disposing of their silver and that a reversal of their actions was still possible. France's position was simple. As long as Germany would not complete (or renounce) its reform, France would not re-establish free-silver coinage. This conditional strategy would later be known as the attitude expectante (wait and see policy).
+The second reason that prompted France's decision was more domestic by nature. Paying the indemnity had put France's financial system under considerable stress, and Germany's selling of silver and buying of gold was likely to renew the pressures. Indeed, in periods of intense arbitrage activity, the sensitivity of the Paris market to foreign shocks usually increased. This had already been the case in the 1850s, when France had
+to buffer the effects of the Gold Rush.58 Moreover, given that a large number of foreign investors had purchased the French indemnity bonds, the administration could think that it was wise to send a signal of commitment to fixed exchange rates with gold nations. Although the French were generally confident in the sustainability of bimetallism, they had to persuade foreigners as well. Finally, and most importantly, the limitation of silver coinage was a precautionary and transitory decision, which was not perceived by government officials as a challenge to France's bimetallism. As mentioned by the Minister of Finance, "the only goal of [the limitation of silver coinage was] to protect [France's] circulation against foreign influences, and to maintain
+it in an unaltered state."59 A year later, the Directeur du Mouvement General des Fonds would again insist that "there must not be any doubt as to what are the reasons that guided the French administration when it decided to limit silver coinage. This decision did not imply any desire to move towards a single standard system. Having observed that the normal conditions of circulation were threatened by exterior and incidental moves,
+a aucun degre un changement du systeme monetaire lui-meme; elle a pour objet au contraire de le preserver contre les consequences d'un fait accidentel et de e maintenir intact dans ses conditions normales." See also Soubeyran, the French delegate at the January 1874 meeting of the Latin Union: the official view was that the substitution of silver to gold was "the transitory consequence of the momentary perturbation caused . . . by the new monetary law in Germany."
+58 Cottrell, "London"; and Flandreau, "Adjusting to the Gold Rush."
+59 Memo to the French representatives for the 1874 Latin Union Conference, AMP, Serie K. The "Directeur du Mouvement General des Fonds" (head of treasury) summarized this opinion by saying that "it is recognized that the possibility of a demonetization of silver in Germany is the main source of difficulty" Conference Monetaire Internationale de 1874, p. 23.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 887
+it was decided to take a precautionary and revocable decision."60 Hence in early 1874, neither France nor Germany was properly speaking on a gold standard. While Germany had only one foot on gold, France had only one foot off bimetallism. However, France's decision to limit silver coinagelike the pebble that causes the avalanche—triggered the emergence of the international gold standard.
+In Germany, the law of 1873 had specified that the demonetization
+would have to take into account the capacity of the market.61 In practice, there was a threshold price under which no sales would take place. Germany waited for the price of silver to go up before it could get rid of its old Thalers. The markets waited for the German government to get rid of its holdings before they would consider bidding up the price of silver. And of course the outcome of this game between speculators and the
+German government was one in which only limited sales could occur.62 Between 1873 and 1879—when German sales were officially suspended—a mere third of the initial stock of Thalers had been sold. France's policy had thus been successful in effectively forcing Germany to keep most of its silver holdings. However, given the bulk of the legislation that had been voted in the early 1870s, it had failed to produce an immediate reversal of Germany's policies. Instead, the Reichsbank was compelled to carry on the transition not by selling silver (as initially planned) but by attracting gold through discount rate increases. This way, gold was taken from European markets (chiefly from London), thus leading to retaliatory increases in the
+Bank of England discount rate.63 But German difficulties were mirrored by a corresponding problem that France had created for itself; it now held a large amount of ecus, whose intrinsic value was smaller than their nominal price. One could not have it both ways. Either the market was allowed to arbitrage deviations in the gold-silver ratio, in which case the gold-silver exchange rate would be pegged by market interventions around the legal ratio, and the quantity of ecus in France's circulation would endogenously adjust to disequilibria on world bullion markets; or the monetary demand for silver was rationed, in which case increased supply of this metal would inevitably produce a fall in
+60 Conference Monetaire Internationale de 1875, p. 60.
+61 Mertens, Naissance, p. 132.
+62 See for instance, the declarations of Camphausen, the German Minister of Finances (4 April 1874) "I do not want to contribute to the propagation of the belief that Germany is about to get rid of a large sum of silver. This opinion has done us much harm, since it has persuaded others that their silver would never be sold quickly enough, and since it has led the British markets to believe that Germany would be in any case bound to sell its silver.... I strongly wish that the markets will understand this and, when the Empire will have to sell silver, that they will pay a good price for it" (Quoted by Mertens, Naissance, p. 142). That markets remained unconvinced is at least understandable. One century later, the U.S. government would face a similar problem when it attempted to dispose of its gold reserves (see Henderson and Salant, "Market Anticipations"). 63 In England contemporaries such as Disraeli blamed the monetary conferences of the 1860s as the "sirens" being responsible for an increased demand for gold that in turn led the Bank of England to raise its discount rate close to 10 percent in 1873. See The Economist, 31 January 1874.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+888 Flandreau
+its market price, thus rising doubts about overvalued ecus. In other words, the view that France's commitment to bimetallism could be credibly maintained while silver coinage was limited relied on a misconception. Indeed, the administration's decision to introduce quotas on silver coinage—although reassuring to foreign investors—was interpreted by arbitrageurs as bad news for bimetallism. The Rothschild Archives illustrate the growing anxiety as bankers sought to obtain insider information
+about the government's next move.64
+Two courses were possible. A first possibility was a speculative attack outcome—a run where the public would try to give up the ecus. Of course, this would result in a fall in the price of the ecus, a corresponding loss for their holders, and possibly a monetary contraction (since part of the
+nominal value of the money stock would be destroyed).65 Alternatively, this could be avoided if some agent was ready to step in and guarantee the value of silver coins. This is where the Bank of France entered the picture. On November 19, 1873, silver coinage was further reduced to 150,000 francs per day, and a small discount of one-thousandth appeared on the silver ecus (Figure 5). It was reported that one would accept silver coins
+only to the extent that he could transfer them to the Bank of France.66 Since the Bank was bound to accept ecus in payment, the discount at which the ecus were trading could not be larger than the transaction cost associated with purchasing them on the market and exchanging them at the Bank against notes. Although modest, the discount meant that the ecus were no longer taken at their face value. As a result the silver ecus flowed into the reserves of the Bank of France. In a matter of months (between November 1873 and March 1874), the proportion of silver in the Bank's reserves in Paris jumped from 25 percent to 50 percent. Similarly, whereas in 1873 the Bank held about 10 percent of the gold and silver circulation, its share in the aggregate silver holdings rose to almost 60 percent (contrasted with 15 percent for gold). The fear of demonetization was keeping more than one-half of the total stock of silver in the vaults. The market was using the Bank of France to insure itself against silver demonetization. If such an event did occur, the Bank would have to pay for it. Thus the problem was now with the Bank of France and, not surprisingly, it started to worry about the amounts of silver coinage that would be
+authorized.67 It knew indeed that those issues would eventually end up in its reserves, potentially displacing an equivalent amount of gold. As the
+64 Flandreau, L'or du monde, p . 276.
+65 The extent of the contraction however would of course depend on a set of other factors relating to post attack monetary-creation behavior.
+66 France, Archives Nationales, Archives Rothschild, 132 A Q 891 ff (Copie d e lettres "Matieres": letters on bullion trade, 1873).
+67 Besides, up to 1873, the Bank used to make advances using gold or silver deposits as collateral, with 1 percent discount on the mint price. But the fall in the price of silver meant that agents had now an incentive to default, leaving the Bank with depreciated silver in its hands. Thus the Bank suspended loans on silver, a decision that further weakened the market for that metal.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 889
+Minister Leon Say would declare a few years later, "any increase of the
+bank silver holdings only makes the whole reserve more uncertain."68 Hence the Bank of France found appropriate to sterilize the addition to its silver reserves. Only increases in the gold component could lead it to lower
+its discount rate.69 The Bank then started to lobby actively in favor of low limits on the annual silver issues. As long as free-silver coinage would not be reintroduced (allowing the market to stabilize the gold-silver ratio), the Bank would oppose large quotas. Finally, in 1876, the Bank succeeded in
+imposing a bill that fully suspended silver coinage in France.70
+France was gradually abandoning the silver arena. The overtures of the American government in favor of a coordinated reintroduction of bimetallism (the so-called American Conference that was held in Paris in 1878) were met by reluctance on behalf of the French authorities, for Germany had refused to participate and had made clear that it was definitely not ready to renege on its adoption of the gold standard. But without a change in Germany's policies, France did not want to modify its attitude. And without France's participation, the conference was to fail, only leading the Latin Union to align on France's 1876 decision, and thus reinforcing the
+drift away from bimetallism.71
+When it became clear that the industrialized world had irremediably abandoned silver, Germany finally reconsidered its policies. It had now to come to terms with the fact that it would never be able to sell its silver at the 15.5 par value, or even near it. Some advocated a move to bimetallism, and there is evidence that Bismarck was not unfavorable to it. But the fierce opposition of parliament, which reflected the bourgeoisie consensus for stable prices—silver was by then clearly identified with inflationsucceeded in forcing Bismarck to retreat. The most Bismarck could do—under wild attacks that he was preparing the reintroduction of bimetallism—was to decide the official suspension of silver sales in 1879, a
+measure that he presented as beneficial to both Germany and mankind.72 At that date, France and Germany found themselves in a very analogous situation. Although they had both stabilized their exchange rate in terms of gold, neither was fully on gold, both had a substantial silver circulation that was still legal tender, neither could sell overvalued silver holdings without making huge losses, and both needed an active commitment of their
+68 Conference Monetaire Internationale de 1878, p. 40.
+69 Say: "Today the discount rate is only determined by changes in the gold reserve. Changes in the silver reserve, by contrast have no consequence." Ibid., p. 40.
+70 A M P contain a document showing that the decision had been prepared through negotiations between the Governor of the Bank (Rouland), and the Minister of Finances (Say). Conventions Monetaires Internationales, Serie K.
+71 T h e Bank's dilemma was heightened by France's participation in the Latin Union, which induced the Bank—the largest institution of the monetary union—to back foreign silver as well. The Bank of France used this situation of "backer of last resort" to force other countries of the Latin Union to limit silver coinage as well (Flandreau "On the Inflationary Bias").
+72 Helfferich, Money.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+890 Flandreau
+central bank to peg the value of their silver coins. This situation would come to be known as "limping bimetallism." Finally, in the wake of the noncooperative game that the two continental powers had played between 1871 and 1879, most European nations had switched to gold, thus rendering a move back to bimetallism increasingly more difficult to implement. Ironically, smaller nations such as Denmark, Norway, and Sweden—which had adopted gold in the wake of FrancoGerman trap-thy-neighbor policies—swiftly completed their reform by rapidly selling their limited silver holdings on world markets.
+CONCLUSION
+This article argued that the four most popular explanations of the emergence of the international gold standard were probably too naive. Instead, the transformations of the 1870s reflected shifts in the constraints and benefits from deviating from the previous regime. Until 1870, Germany had believed that moving to gold was impractical, and France found it costly and not very rewarding. After all, bimetallism had performed well, and it was simpler to amend it mildly (by debasing smaller coins) than to discard it. This situation was modified by the Franco-Prussian War. Thanks to the war indemnity, Germany was now able to loosen its budget constraint. France, on the other hand, was not prepared to help Germany and limited silver coinage. This left that metal without the backing of arbitrages, a crucial feature in a bimetallic regime. At that point bimetallism (as a unilateral stabilization scheme) was virtually dead. The central banks of France and Germany were then forced to step in and provide a backing to silver coins. Hence, the international gold standard did not emerge from the structural contradictions of bimetallism, nor did it result from the adoption of fully fledged gold-standard constitutions. Rather, it was introduced through a change in central banks' policies, with monetary authorities pegging the value of both notes and silver coins in terms of gold. Clearly, failure to cooperate had been an important ingredient of this great transformation. On the surface, this conclusion seems to give some credence to the strategic view. However, contrary to the crudest version of this analysis, this article demonstrated that the collapse of bimetallism after Germany moved to gold was avoidable provided that France be induced to maintain unlimited silver coinage. Does that mean that there was a French crime of 1873, of much more dramatic consequences than the
+American one?73 Indeed, French policymakers seemed to underrate the fact that their actions would undermine the credibility of their commitment to bimetallism. Likewise, they clearly overlooked that their moves, by leading to the demise of silver as a monetary metal, would have deflationary consequences. However, this was not perceived by the Germans either.
+73 For a survey of the literature on the U.S. crime, see Friedman, "Crime."
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 891
+For had German authorities realized it, they should have stepped back,
+instead of going further.74 But in the fight for gold that developed in the early 1870s, staying pegged to gold became a matter of national pride. Thus there was a French crime of 1873, but there was a German crime, too. All this has a familiar ring. Discussions of the international gold standard usually oppose its golden age (1880 to 1914) to its gloomy age (1920s and 1930s). During the latter period, it is said, failure of international cooperation was responsible for the depth of the depression. By symmetry, some authors have claimed that international cooperation was
+an essential element of the period 1880 to 1914.75 The interpretation of the emergence of the gold standard advanced here casts serious doubts on this view. Indeed, most of the evils at work during the interwar years (competition among nations to attract gold, inability to enforce a coordinated outcome, neglect of the international effects of national monetary policies, and the Franco-German rivalry) were already operating during the 1870s. Not only did these forces contribute to the long deflation initiated in 1873, but they also led to the emergence and shaping—at least in continental Europe—of the international gold standard. It was in 1873, not in the 1920s, that the "Golden Fetters" were tied.
+74 As early as 1869, Seyd had warned that a transition to gold would provoke a monetary contraction with deflationary consequences (Seyd, Depreciation). Seyd however stood alone in this view, as a useless Cassandra. 75 Eichengreen, Golden Fetters.
+Appendices
+APPENDIX 1: DERIVATION OF THE LONG-RUN EQUILIBRIUM RELATIONS
+The strategy followed in the first part of the article was to obtain explicit long-run equilibrium relations between world bullion stocks and specie holdings in the bimetallic bloc. There are several advantages associated with this approach. In particular, modeling equilibrium relations allows to circumvent the well-known simultaneous equations bias that usually characterizes separate estimation of demand and supply equations. While the model allows for considering as many countries as wanted, it is convenient to aggregate the demand for monetary silver in the silver bloc with the demand for nonmonetary silver in the three blocs. This new demand schedule is labeled the "pseudo silver-bloc monetary demand function" (hereafter £„). Given the proportionality hypothesis, this new variable only depends on prices, real income, and a set of exogenous parameters. The same procedure is applied to gold, thus defining a "pseudo gold-bloc monetary demand function" (hereafter Gn). This gives the new parameters of the new pseudo-money demand functions:
+ml = (*» + MUG + Mcfe + Me (10)
+ms = &Pc + (** + Mc)/35 + /4 (11)
+Finally, setting If = k, V6 = Y, and calling Gm (respectively Sm) the demand for monetary gold (silver) in the bimetallic bloc, gives (G and 5 being the outstanding quantities of gold and silver; on the exogeneity of bullion supply, see Eichengreen and McLean, "Supply"):
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+892 Flandreau
+Gn = mmc (plpc)Y Sn = m%pY (12)
+kpY = pGGM + SM (13)
+GM + Gn = G SM + Sn = S (14)
+This model can be easily solved, giving the following equations:
+pGGM = pcG • (1 - mG) -S • mc (15)
+SM= -PcG • ms + S • (l-ms) (16)
+where
+mG = 7 ' m m a n C ' mS =
+APPENDIX 2: ASSESSING SUSTAINABILITY: ESTIMATING THE STRUCTURAL LIMITS OF BIMETALLISM AND THE RATIO OF RELATIVE RESOURCES IN GOLD AND SILVER.
+Methodology
+Since the overall stocks of gold and silver typically exhibit a unit root (indeed they are the sum of random annual production), so are by construction the holdings of gold and silver in the French economy (they are a linear combination of integrated variables). This can be checked by performing Dickey-Fuller tests (Appendix Table 1). For bullion stocks, these tests were implemented for the period 1849 to 1885 (corresponding to the period for which we make the counterfactual assessment). For French specie holdings, the tests were limited to the period 1849 to 1873. Indeed, only in a bimetallic regime does nonstationarity of both specie stocks in France hold. The tests lead to reject stationarity for the four series. It is now clear that equations 15 and 16 may be interpreted as long-run equilibrium relations between nonstationary variables. That these nonstationary variables are integrated can be checked by running regressions for Gm and Sm on gold and silver stocks. These (unrestricted) regressions give Durbin-Watson statistics equal to 0.69 for equation 15 and 0.5 for equation 16, leading to the rejection of the null that residuals are nonstationary (the 5 percent critical value is 0.38). This suggests applying the cointegration methodology (Hendry, "Econometric Modelling"; and Engle and Granger, "Cointegration"). From an econometric point of view, (1, 1 — mc, —mc) and (1, - ms, 1 - ms) can be interpreted as being the (restricted) cointegrating vectors of each equation. Least squares techniques provide super-consistent estimates of these cointegrating vectors.
+Data
+The following series were used. Specie holdings in France are from Flandreau, "Coin Memories"; annual gold and silver production are from Hay, "Stock." Hay's estimates would be later used in the Reports of the Director of the U.S. Mint. These figures (which start in 1849) allow the construction of a series for the world stock of gold and silver, up to a constant representing the stocks of bullion in 1849. For those latter, it is safer not to rely on the estimates that may be found in the literature (for instance Soetbeer's Matiriaux). Indeed these figures have been strongly criticized by Alexander Del Mar who joked on Soetbeer's "fertile imagination" {History, pp. 401-02). This problem can nonetheless be circumvented by rewriting the world stock of gold (respectively silver) as the sum of the series of annual production of gold (silver) during year i, called AG(t) (A5(/)) and of the initial gold (silver) holdings, as of 1849:
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 893
+Series
+Dickey-Fuller
+TESTING
+G
+2.50*
+APPENDIX TABLE 1 FOR NONSTATIONARITY
+5
+3.30*
+Gm
+1.5*
+sm 0.7*
+* = significant at the 5 percent level. Source: See the text for author's computations. Entries show the result of the ordinary Dickey-Fuller test.
+G(t) = ^ AG(j) + G(1849)
+i = 1850
+(17)
+5 ( 0 = 2 A5(/) + 5(1849)
+i = 1850
+Substituting these relations into equation 15, we get the new equations:
+(18)
+PcGM(t) = (1 - mc)pc\ G(1849)
+i = 1850
+-mG\ A5(i) + 5(1849)
+SM(t) = - mspc AGO) + G(1849)
+i = 1850
+- ms)
+i = 1850
+i = 1850
+J(19)
+5(1849) I
+These equations may be rewritten as:
+t
+pGGM(t) = (1 - mc)pc I
+i = 1850
+A5(i)
+i = 1850
+Sui.0 = " "isPG\
+i = 1850
+A5(0
+/ = 1850
+(20)
+(21)
+(22)
+where A = p c ( l - mc)G(1849) - wc5(1849) and B = -msPcG(1849) + (1 ms)5(1849). Hence estimation of equations 15 and 16 as transformed in equations 21 and 22 gives not only estimates of the cointegrating vector but estimates for A and B as well. These can be used to solve for 5(1849) and G(1849).
+APPENDIX 3: THE MONETARY CONSEQUENCES OF BISMARCK
+In light of the equations presented in Appendix 1, it is easy to interpret the consequences of a change in the monetary standard of a given country. In the case of Germany, the operation may be described as a defection from the silver bloc to the gold bloc. This affects the parameters of the pseudo-money demand functions for both gold and silver. For a given level of prices, the pseudo-money demand for gold shifts upwards while the pseudo-money demand for silver moves downwards. The impact of this change on the sustainability of bimetallism depends on the size of the defecting economy. The larger it is the harder it will be to accommodate the resulting shift.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+894 Flandreau
+A natural way to model the consequences of Germany's reform is thus to follow its implications on ma and ms. The postreform parameter of the pseudo-money demand for gold is increased by a coefficient corresponding to Germany's monetary needs. On the other hand, the postreform parameter of the pseudo-money demand for silver is reduced by that very same coefficient. Formally, we have:
+me = < + Wg (23)
+m? = m? + ksps (24)
+Defining a as the coefficient of proportionality between the demand for money in the bimetallic bloc and the demand for money in the defecting country (the larger k, the smaller a) yields
+a = ksfis/k (25)
+Finally using equations 23, 24, and 25 and substituting into the formula for mc and ms gives the postreform parameters:
+mG = mG + a(l - mc - ms) (26)
+rhs = ms- a{\ - mG - ms) (27)
+Since the prereform parameters are known, estimating the postreform parameters only requires evaluating a, the size of Germany's money demand schedule with respect to France's money demand schedule. This can be easily done by computing the average relative size of Germany's to France's specie holdings during the period 1870 to 1878 (on the basis of Flandreau, "Coin Memories"; and Helfferich, Reform). This gives 0.27, implying that Germany's holdings represented between one-third and one-fourth of France's holdings. Substituting this into equations 26 and 27 yields
+mG = 0.43
+ms = 0.32
+from which the new structural limits can be derived. To conclude, it is important to note that these estimates of the new structural limits are extremely robust. Assuming for instance that the evaluation of a has a bias as large as 50 percent either way would not change the conclusion.
+REFERENCES
+Baas, N. W. J. "Die Doppelwahmngspolitik Frankreichs 1850-1885." Ph.D. diss., European University Institute, Florence, 1984. Bairoch, Paul. "The Geographical Structure and Trade Balance of European Foreign Trade from 1800 to 1974." The Journal of European Economic History 3, no. 3 (1974): 557-608. Cairnes, John Elliot. Essays in Political Economy. London: Macmillan and Co., 1873; New York: A. M. Kelley, 1965. Collins, Michael. "Sterling Exchange Rates, 1847-1880." Journal of European Economic History, 15, no. 3. (1986): 511-33.
+Conference Monetaire Internationale de 1867. Paris: Imprimerie Imperiale, 1867.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 895
+Conference Monetaire Internationale de 1874. Paris: Imprimerie Nationale, 1874. Conference Monetaire Internationale de 1875. Paris: Imprimerie Nationale, 1875. Conference Monetaire Internationale de 1876. Paris: Imprimerie Nationale, 1876. Conference Monetaire Internationale de 1878. Paris: Imprimerie Nationale, 1878.
+Conseil Superieur du Commerce, de L'Agriculture et de PIndustrie. Enquete sur la Question Monetaire. Paris: Imprimerie Nationale, 1872. Cottrell, P. L. "London, Paris and Silver 1848-1867." In Business, Banking and Urban History, edited by A. Slaven and D. H. Aldcroft, 129-45. Edinburgh: John Donald, 1982.
+Darnis, Jean-Marie. La Monnaie de Paris, Sa Creation et son Histoire du Consulat et de I'Empire a la Restauration (1795-1828). Paris: Centre d'Etudes Napoleonniennes, 1988. Drake, L. S. "Reconstruction of a Bimetallic Price Level." Explorations in Economic History 22 (1985): 194-219. de Cecco, Marcello. Money and Empire. Oxford: Blackwell, 1974.
+. "Gold Standard." In The New Palgrave:A Dictionary of Economics, vol. 2, edited by John Eatwell, Murray Milgate, Peter Newman, 539-44. London: Macmillian, 1987. Del Mar, Alexander. A History ofPrecious Metals. New York: Cambridge Encyclopedia Co., 1902.
+Documents relatifs a la Question Monetaire. Paris: Imprimerie Imperiale, 1868.
+Dowd, Kevin, and David Greenaway. "Currency Competition, Network Externalities and Switching Costs: Towards an Alternative View of Optimum Currency Areas." The Economic Journal 103 (1993): 1180-89. Eichengreen, Barry, ed. The Gold Standard in Theory and History. London: Methuen, 1985. . Golden Fetters: The Gold Standard & the Great Depression, 1919-1939. Oxford: Oxford University Press, 1992. _. "The Endogeneity of Exchange Rate Regimes." Mimeo. University of California, Berkeley, 1993. Eichengreen, Barry, and Marc Flandreau. "The Geography of the Gold Standard." In Currency Convertibility, edited by Barry Eichengreen, Jaime Reis, and Jorge Braga De Macedo, 113-43. London: Routledge, 1996. Eichengreen, Barry, and Ian McLean. "The Supply of Gold Under the Pre-1914 Gold Standard." Economic History Review 67 (1994): 288-309. Engle, Robert F., and C. W. J. Granger. "Cointegration and Error Correction: Representation, Estimation and Testing." Econometrica 55 (1987): 251-76. Fisher, Irving. "The Mechanics of Bimetallism." Economic Journal 4 (1894): 527-37. Flandreau, Marc. "On the Inflationary Bias of Common Currencies: The Latin Union Puzzle." European Economic Review 37 (1993): 501-06. . "Was the Latin Union a Franc-Zone?" In International Monetary Systems in Historical Perspective, edited by Jaime Reis, 71-89. London: Macmillan, 1994. . "Coin Memories: Estimates of the French Metallic Currency, 1840-1878." Journal of European Economic History 24, no. 2 (1995): 271-310.
+. "Les regies de la pratique: La Banque de France, le marche des metaux precieux, et la naissance de l'etalon or, 1848-1876." Annales: Histoire, Sciences Sociales no. 4 (1996): 849-72.
+. L'or du monde: la France et la stabilite du systeme monetaire international. Paris: L'Harmattan, 1995. . "Adjusting to the Gold Rush: Endogenous Bullion Points and the French Balance of Payments 1846-1870." Explorations in Economic History 33 (1996): 1-24. _. "As Good as Gold? Bimetallism in Equilibrium 1848-1873." In Monetary Standards in History, edited by Lawrence Officer. London: Routledge, forthcoming. France. Archives de la Monnaie de Paris. (AMP). France. Archives Nationales. Archives Rothschild. France. Archives du Miftistere des Affaires Etrangeres.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+896 Flandreau
+Frieden, J. "The Dynamics of International Monetary Systems: International and Domestic Factors in the Rise, Reign and Demise of the Classical Gold Standard." In Coping with Complexity in the International System, edited by J. Snyder and R. Jervis, 137-62. Boulder, CO: Westview Press, 1993. Friedman, Milton, and Anna Schwartz. A Monetary History of the United States. Princeton: Princeton University Press, 1963. Friedman, Milton. "Bimetallism Revisited." Journal of Economic Perspectives 4, no. 4 (1990): 85-104. . "The Crime of 1873." Journal of Political Economy 98, no. 6 (1990): 1154-94. Gallarotti, Giulio M. "The Scramble for Gold: Monetary Regimes Transformation in the 1870s." In Monetary Regimes in Transition, edited by Michael D. Bordo and Forrest Capie, 85-104. Cambridge: Cambridge University Press, 1993.
+. The Anatomy of an International Monetary Regime: The Classical Gold Standard, 1880-1914. Oxford: Oxford University Press, 1995. Hay, Sir Hector. "Stock of Gold and Silver in the World." Journal of the Institute ofBankers (1886): 172-76.
+Helfferich, Karl. Die Reform des deutschen Geldwesens nach Grundung des Reiches. Leipzig: Duncker, 1898. . Money. 2 vols. New York: Adelphi Company, 1927. Henderson, D. W., and S. W. Salant. "Market Anticipations of Government Policies and the Price of Gold." Journal of Political Economy 86, no. 4 (1978): 627-48. Hendry, David. "Econometric Modelling with Cointegrated Variables: An Overview." Oxford Bulletin of Economics and Statistics 48, no. 3, (1986): 201-12. Hiitter, Jean-Paul. L'incidence economique de la frappe de monnaie d'argent aux Etats-Unis de 1878 a 1893, interpretations contemporaines et essai d'evaluation quantitative. Paris: Presses Modernes, 1938.
+Kauch P. La Banque Nationale de Belgique, 1850-1918. Brussels: Banque Nationale de Belgique, 1950.
+Kenwood, A. G. and A. L. Lougheed. The Growth of the International Economy 1820-1960: An Introductory Text. London: Allen & Unwin, 1971. Kindleberger, Charles P. A Financial History of Western Europe. 2d ed. Oxford: Oxford University Press, 1993.
+Laughlin, J. Laurence. The History of Bimetallism in the United States. New York: D. Appleton, 1885.
+Levasseur, Emile. Histoire du commerce de la France, de 1789 a nos jours. Paris: Rousseau, 1912. Luzatti, L. "Delle Attinenze dei Biglietti di Banca col Bimetallismo." Nuova Antologia di Scienze, Lettere, ed Arti. Rome, (1883): 524-45.
+McCloskey, Donald N., and J. Richard Zecher. "The Success of Purchasing Power Parity."
+In A Reprospective on the Classical Gold Standard, edited by Michael D. Bordo and Anna J. Schwartz, 121-72. Chicago: University of Chicago Press, 1984.
+Mertens, Jacques. La naissance et le developpement de I'etalon or, 1696-1922. Paris: Presses Universitaires de France, 1944.
+Milward, Alan, and S. B. Saul. The Economic Development of Continental Europe, 1780-1870. London: Allen & Unwin, 1973. . "The Origins of the Gold Standard." In Currency Convertibility, edited by Barry Eichengreen, Jaime Reis, and Jorge Braga de Macedo, 87-101. London: Routledge, 1996. Mundell, Robert. "A Theory of Optimal Currency Areas." American Economic Review 51 (1961): 657-65.
+Nothomb, Eugene. Rapport sur la loi monetaire allemande du 4 decembre 1871. Bruxelles, 1871. . Rapport sur la deuxieme loi monetaire allemande du 4 juillet 1873. Bruxelles, 1873. Oppers, Stefan. "Arbitrage in Bimetallic Money Supplies: Evidence from the Exchange Rate." Mimeo, University of Michigan, 1994. *
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press
+
+
+Emergence of the International Gold Standard 897
+. "Was the Worldwide Shift to Gold Inevitable?" Mimeo, University of Michigan, 1994. Parieu. "Les Conferences monetaires internationales de 1865 et 1867 et leurs resultats." Journal des Economistes 1 (1869): 243-66.
+Prince-Smith, John. Wdhrung und Miinze. Annalen des deutschen Reichs, Hirth, 1869. Redish, Angela. "The Evolution of the Gold Standard in England." this JOURNAL 50, no. 4 (1990): 789-806. . "The Evolution of the Gold Standard in France." Mimeo, University of British Columbia, 1992. "The Persistence of Bimetallism in Nineteenth-Century France." Economic History Review 68, no. 4 (1995): 717-36.
+Report from the Royal Commission on International Coinage. London: Her Majesty Stationery Office, 1868. Roccas, Massimo. "L'italia e il sistema monetario internazionale dagli anni '60 agli anni '90 del seccolo scorso." Banca d'ltalia. Temi di Discussione, No. 92, 1987. Russell, Henry B. International Monetary Conferences. New York: Harper & Brothers, 1898.
+Say, Leon. Rapport sur lepayement de I'indemnite de guerre et sur les operations de change qui en ont ete la consequence. Paris: Guillaumin, 1874.
+Sayers, R. S. "The Question of the Standard in the 1850s." Economic History, Economic Journal Supplement, 2, no. 8 (1933): 575-601. . "The Question of the Standard, 1815-1844." Economic History, Economic Journal Supplement, 3, no. 10 (1935): 79-102. Seyd, Ernest. Bullion and Foreign Exchanges. London: Effingham Wilson, 1869.
+. The Depreciation of Labour and Property Which Would Follow the Demonetization of Silver. London: Effingham Wilson, 1869. Sicsic, Pierre. "Estimation du stock de monnaie metallique en France a la fin du XlXeme siecle." Revue Economique (1989): 709-35.
+Soetbeer, Adolphe. Materiaux pour faciliter Vintelligence et I'examen des rapports economiques des metaux precieux et de la Question Monetaire. Paris and Nancy: Berger Levrault, 1889. Statesman's Yearbook. London: Macmillan, 1870-1880.
+Stern, F. Gold and Iron, Bismarck, Bleichroder, and the Building of the German Empire. New York: Alfred A. Knopf, 1977. Taussig, F. W. International Trade. New York: Macmillan, 1927. The Economist, 31 January 1874.
+Warren, G. F. and F. Pearson. Prices. New York: Wiley, 1933.
+Willis, H. P. A History of the Latin Monetary Union: A Study of International Monetary Action. Chicago: University of Chicago Press, 1901.
+Yeager, L. B. International Monetary Relations: Theory, History and Policy. New York: Harper and Row, 1976.
+https://doi.org/10.1017/S0022050700017502 Published online by Cambridge University Press

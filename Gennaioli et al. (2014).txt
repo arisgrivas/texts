@@ -1,0 +1,857 @@
+THE JOURNAL OF FINANCE • VOL. LXIX, NO. 2 • APRIL 2014
+Sovereign Default, Domestic Banks, and Financial Institutions
+NICOLA GENNAIOLI, ALBERTO MARTIN, and STEFANO ROSSI∗
+ABSTRACT
+We present a model of sovereign debt in which, contrary to conventional wisdom, government defaults are costly because they destroy the balance sheets of domestic banks. In our model, better financial institutions allow banks to be more leveraged, thereby making them more vulnerable to sovereign defaults. Our predictions: government defaults should lead to declines in private credit, and these declines should be larger in countries where financial institutions are more developed and banks hold more government bonds. In these same countries, government defaults should be less likely. Using a large panel of countries, we find evidence consistent with these predictions.
+WHY DO GOVERNMENTS REPAY their debts? Conventional wisdom holds that they do so to avoid foreign sanctions or exclusion from international financial (or goods) markets (see Eaton and Fern  ́andez (1995) for a survey). In reality, sanctions are rarely observed and market exclusion is short lived. Therefore, to rationalize the relatively low frequency of defaults, recent work argues that defaults must also impose a large cost on the domestic economy and that
+∗Nicola Gennaioli is with Bocconi University and IGIER. Alberto Martin is with CREI, UPF, and Barcelona GSE. Stefano Rossi is with Purdue University, CEPR, and ECGI. We are grateful for helpful suggestions from seminar participants at the American Finance Association meetings, the NBER meetings in International Finance and Macroeconomics, the “Sovereign Debt Risk” conference at the George Weiss Center for International Financial Research at Wharton, Bank of England, Bank of Spain, CERGE-EI, CEU, Helsinki, IAE, Lausanne, New York University Stern School of Business, Samuel Johnson Graduate School of Management at Cornell University, Purdue, PSE, Stockholm School of Economics, University of Vigo, ESSIM, XI Workshop in International Economics and Finance in Montevideo, and the Workshop in Institutions, Contracts, and Growth in Barcelona. We have received helpful comments from Senay Agca, Mark Aguiar, Philippe Bacchetta, Matt Billett, Fernando Broner, Eduardo Fernandez-Arias, Pierre-Olivier Gourinchas, Bernardo Guimaraes, Kose John, Andrew Karolyi, Philip Lane, Andrei Levchenko, Guido Lorenzoni, Romain Rancie`re, He ́le`ne Rey, David Robinson, Katrin Tinn, and Jaume Ventura. We also thank Campbell Harvey, the Editor, an anonymous referee, and an anonymous Associate Editor. Gon ̧calo Pina and Robert Zymek provided excellent research assistantship. Gennaioli thanks the European Research Council for financial support and the Barcelona GSE Research Network. Martin acknowledges support from the Spanish Ministry of Science and Innovation (grant Ramon y Cajal RYC-2009-04624), the Spanish Ministry of Economy and Competitivity (grant ECO201123192), the Generalitat de Catalunya-AGAUR (grant 2009SGR1157), and the Barcelona GSE Research Network. Martin and Gennaioli acknowledge support from the International Growth Center, project RA-2010-03-2006.
+DOI: 10.1111/jofi.12124
+819
+
+
+820 The Journal of Finance©R
+governments repay at least in part to avoid this cost (Arellano (2008)). But where does such a cost come from? A look at recent defaults suggests that it may originate in the banking sector. The Russian default of 1998, for instance, caused large losses to Russian banks because those banks were heavily invested in public bonds. In turn, banks’ losses (together with the devaluation of the ruble) precipitated a financial sector meltdown. During the same period, public defaults resulted in heavy losses to the banking systems of Ecuador, Pakistan, Ukraine, and Argentina, leading to significant declines in credit (IMF (2002)). The current debt crisis in Europe also illustrates the link between public default and financial turmoil. Starting in 2009, reports of bad news regarding the sustainability of public debt in Greece, Italy, and Portugal undermined the banking sectors in these countries precisely because the banks were exposed to their governments’ bonds. Such reports have also negatively affected other European banks such as Dexia in Belgium, Soci ́et ́e G ́en ́erale and Cr ́edit Agricole in France, and several Landesbanken in Germany, which were all heavily exposed to the debts of the financially distressed countries. These events played a key role in the decision to refinance the European Financial Stability Fund (EFSF): averting sovereign defaults was seen as a key prerequisite to avoid widespread banking crises.1 Existing models of sovereign debt fail to account for these events because they assume that governments can shield the domestic financial system from the consequences of a default, through either (i) selective defaults only on foreign bondholders or (ii) selective bailouts that protect domestic banks following a default. If such perfect “discrimination” is possible, then banks should not suffer direct losses from public defaults. In reality, however, it is hard for governments to exercise perfect discrimination. Selective default requires governments to perfectly target the bondholdings of foreigners, which can be hard in practice because these bonds are actively traded in secondary markets (see Broner, Martin, and Ventura (2010)). In addition, while we routinely observe bailouts of individual banks, it is arguably difficult for a government in default to bail out its entire banking sector, not least because of the government’s difficulties in accessing financing at such times. As a result, imperfect discrimination provides a promising perspective to rationalize the large and potentially costly domestic redistributions of wealth observed in real-world default episodes. In light of these observations, we study the link between government default and financial fragility by building a model in which government default is nondiscriminatory.2 We use the model to address two sets of questions.
+1 Of course, the EFSF was not created just to support troubled government finances. Its other goal was to enable private sector bailouts, allowing some countries (e.g., Ireland) to support their banking sectors, hurt by the bursting of real estate bubbles. 2 In Appendix A we provide a formal discussion of how the presence of secondary markets where public bonds are traded might limit the government’s ability to treat domestic banks and foreign bondholders in a discriminatory fashion. Of course, our mechanism does not require that discrimination be impossible in reality, only that it be limited (see Section I.D).
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 821
+First, how does the banking system become exposed to government bonds and how does this shape the domestic costs of default? Second, how do financial institutions such as investor rights and corporate governance shape the domestic costs of default by affecting the workings of a country’s banking sector? Some evidence suggests that public default risk is lower in more developed financial systems (Reinhart, Rogoff, and Savastano (2003), Kraay and Nehru (2006)), but the specific mechanism for why this is the case is not yet understood. Our model yields the following answers. First, domestic banks in our setup optimally choose to hold public bonds as a way to store liquidity (Holmstr ̈om and Tirole (1993)) for financing future investments. Public bonds are useful for this purpose because the government’s incentive to repay them is highest when investment opportunities are most profitable. Given this arrangement, the government’s decision to default involves a trade-off. On the one hand, default beneficially increases total domestic resources for consumption, as some public bonds are held abroad. On the other hand, default dries up the liquidity of domestic banks that also hold a share of public bonds, thereby reducing credit, investment, and output. When financial institutions are sufficiently developed, this second effect becomes so strong that the government finds it optimal to repay its debt in order to avoid inflicting losses on the domestic banking system. This last point warrants some discussion. In our model, more developed financial institutions increase a country’s cost of default through two effects. First, more developed institutions boost the leverage of banks. Higher leverage allows banks to finance a higher level of real investment, but—most importantly—it amplifies the impact of adverse shocks to their balance sheets. Hence, whenever governments default and banks hold government bonds, the ensuing disruption in real activity will be larger in those countries in which better institutions allow banks to be more leveraged. Second, for a given amount of public debt, better institutions allow the country’s private sector to attract more foreign financing. Larger capital inflows to the country’s private sector lead in turn to an increase in the cost of default for the government by allowing (i) domestic banks to further boost leverage and (ii) domestic agents to hold more public debt, reducing the share of such debt that is externally held. The key insight of our model is that financial institutions generate a complementarity between public borrowing and private credit markets. In our model, strong financial institutions foster private credit markets by allowing banks to expand their borrowing both domestically and abroad. This reduces the government’s incentive to default, thereby facilitating public borrowing as well. By contrast, the inability of institutionally weak countries to steadily support private credit boosts public default risk, reducing credit and output. As we discuss in Section II.C, this complementarity, which is absent from existing models of sovereign risk, can shed light on the synchronization of booms and busts in the private and public financial sectors (Reinhart and Rogoff (2011)).
+
+
+822 The Journal of Finance©R
+In Section III we examine whether the empirical evidence is consistent with the model’s predictions. To do so we document the link between government defaults and domestic financial markets, for which little systematic evidence has been produced to date.3 We build a panel of emerging and developed countries across the 1980 to 2005 period. We measure the quality of financial institutions by using the “creditor rights” score of La Porta et al. (1998), which is the leading institutional predictor of credit market development around the world (Djankov, McLiesh, and Shleifer (2007)). Among other things, we control for country fixed effects, that is, for all time-invariant differences among countries that may be spuriously associated with financial institutions, as well as for major domestic and external economic shocks. We first document that public defaults are followed by large drops in aggregate financial activity in the defaulting country. While consistent with our model, this finding is also consistent with the possibility that public defaults may themselves be caused by a prior and persistent weakening of private markets due, for instance, to banking crises (Reinhart and Rogoff (2011)). Our results, however, survive after controlling for such crises and for ex ante public default risk (using both investors’ risk assessments and propensity score methods), which suggests that defaults may in fact directly hurt domestic financial markets over and above the role of prior banking crises and investors’ expectations. Most importantly, the data support three subtler “differences-in-differences” predictions of our model. First, postdefault declines in private credit are stronger in countries where banks hold more public debt, which is naturally consistent with our assumption of nondiscriminatory default and hard to reconcile with canonical models of perfect discrimination or external penalties. Second, such postdefault declines in credit are more severe in countries where financial institutions are stronger and in countries that receive more foreign capital, which is consistent with the mechanism of complementarity. In line with these findings, the data also show that the probability of public default is lower in countries where financial institutions are stronger, where intermediaries hold more public debt, and where capital inflows are larger. This paper extends the work on sovereign debt by emphasizing the role of domestic financial markets in reducing the government’s temptation to default on its outstanding debt. In the context of recent events, our model most accurately captures a “Greek style” crisis in which the distressed state of public finances triggers fragility in the private banking sector. Acharya, Drechsler,
+3 Borensztein and Panizza (2009) show that public defaults are associated with banking crises; Brutti (2011) shows that, after default, more financially dependent sectors tend to grow relatively less; Arteta and Hale (2008) use firm-level data to show that syndicated lending by foreign banks to domestic firms declines after default; A  ̆gca and Celasun (2012) also use firm-level data to show the corporate borrowing costs increase after default; Reinhart and Rogoff (2011) document the co-occurrence of private and public financial crises. To the best of our knowledge, we are the first to look at the impact of default on aggregate measures of financial intermediation and to study how such an effect depends on a country’s financial institutions and banks’ bondholdings.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 823
+and Schnabl (2013) study the opposite extreme of an “Irish style” crisis where public debt rises to troublesome levels because the government guarantees the private debt of banks following a banking crisis. We view these two approaches as complementary. On the one hand, recognizing the presence of an explicit or implicit guarantee can help shed light on cases in which private debt crises lead to sovereign defaults. On the other hand, maintaining such a guarantee typically requires governments to tap financial markets in the short run, which in turn leads back to the question of why governments have an incentive to repay their debts in the first place. Combining both ingredients is beyond the scope of our paper but is an interesting avenue for future research. Our approach is related to two strands of research. The first strand studies sovereign debt repayment under the assumption of nondiscriminatory default. Broner and Ventura (2011) construct a model in which a default on foreigners disrupts risk sharing among domestic residents. Guembel and Sussman (2009) consider a political economy mechanism for debt repayment under nondiscrimination. Brutti (2011) studies a setting that is related to ours, where default destroys firms’ ability to insure against idiosyncratic shocks. Basu (2009) builds a model in which the government trades off the consumption gain arising from default with the cost of destroying banks’ capital; in his model, however, banks’ bondholdings are imposed by the government rather than optimally chosen. Crucially, in both Basu (2009) and Brutti (2011), default reduces investment by directly reducing the net worth of ultimate investors, be they banks or entrepreneurs, while leaving financial intermediation unaffected. By considering the impact of default on financial intermediation, our model allows us to study the role of financial institutions and private capital flows. Bolton and Jeanne (2011) recently used a setup that is very similar to ours to study the role of banks in transmitting the effects of public defaults across financially integrated economies. Our paper is also related to Sandleris (2009), who builds a model in which public defaults—even if discriminatory—lead to output losses because they send a negative signal regarding the state of the economy. The second strand of research examines the effect of private contracting frictions on capital flows (e.g., Gertler and Rogoff (1990), Caballero and Krishnamurthy (2001), Matsuyama (2004), and Aoki, Benigno, and Kiyotaki (2009)). In these works financial institutions affect foreign borrowing by determining the share of output that domestic residents can credibly pledge to foreign investors. However, these works do not explicitly consider the role of public debt or the government’s default decision. In our model, instead, private contracting frictions endogenously affect the government’s willingness to repay its debts. In the language of Caballero and Krishnamurthy (2001), we endogenize a country’s external collateral constraint as a function of its domestic collateral constraint. The paper proceeds as follows. Section I presents the basic model. Section II studies the open economy case. Section III presents the empirical evidence, and Section IV concludes. The Appendices contain proofs and extensions.
+
+
+824 The Journal of Finance©R
+I. The Basic Model
+A. Setup
+A.1. Preferences and Technology
+A small open economy (Home) lasts for three periods t = 0, 1, 2. The economy is populated by a measure one of agents and by a benevolent government. An international financial market is able and willing to lend or borrow any amount at an expected return equal to the (gross) interest rate rt∗. We assume initially
+that rt∗ = 1 for all t = 0, 1, 2. Residents of Home (“domestic residents”) are risk neutral and indifferent between consumption in the three dates. A fraction β of them consists of “banks” or “bankers,” denoted by B, while the remaining fraction (1 − β) consists of “savers,” denoted by S. All domestic residents receive an endowment from the economy’s “traditional sector” equal to ω0 < 1 at t = 0 and ω1 j > 1 at t = 1, for j ∈ {S, B}. We assume that ω1B > ω1S and use ω1 = β · ω1B +(1 − β) · ω1S > 1 to denote the total endowment of Home at t = 1. In addition to receiving their endowments, domestic residents have access to a linear investment project at t = 1 in the economy’s “modern sector.” This project yields Aj units of the consumption good at t = 2 per unit invested at t = 1, for j ∈ {S, B}. Bankers are more productive than savers, that is, AB ≥ 1 = AS (for simplicity, only banks generate a social surplus). This difference in productivity, which could be due to a greater ability of banks to monitor projects (e.g., Diamond (1984)), creates a benefit for savers to lend resources to bankers so that the resources can be productively invested. Productivity AB is stochastic and becomes known at the beginning of t = 1, taking value AH > 1 with probability p ∈ (0, 1) and AL = 1 with probability (1 − p). This feature allows us to study the cyclical properties of public default. We use π ∈ {H, L} to index the state of productivity. At t = 0 there is an indivisible investment of size one that the government must undertake. To finance this investment, the government taxes domestic residents lump sum. Since ω0 < 1, however, the public investment requires borrowing from foreigners at t = 0.
+A.2. Financial Markets
+To finance the public project at t = 0 and investment at t = 1, the government and bankers, need to borrow. They do so by issuing one-period noncontingent financial claims. We refer to claims issued by banks as deposits (d) and to claims issued by the government as public bonds (b). Thus, our notion of deposits represents all borrowing by banks, including borrowing through bond issuance. We use bj and djt to respectively denote the holdings, by agents of type j ∈ {S, B}, of public bonds and deposits originated at time t ∈ {0, 1}: when djt < 0, agents of type j are issuers of deposits. We denote by rb the (gross) contractual interest rate promised by public bonds and by rdt the (gross) contractual interest
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 825
+rate promised by deposits originated at t. Because public bonds are only issued at t = 0, none of the variables associated with them require a time subscript. Although all claims in our economy are in principle noncontingent, they are subject to enforcement frictions that effectively make them contingent on full or partial default. Crucially, these frictions are different for deposits and public bonds. Public bonds are subject to public default risk. That is, the government opportunistically decides which fraction of its maturing bonds to repay at t = 1. Since the government is benevolent, its repayment decision seeks to maximize the welfare of domestic residents. By contrast, private deposits are subject to imperfect court enforcement: if a bank defaults, only a share α of its revenues is seizable by depositors. If α = 1, the bank can pledge all of its revenues to depositors and financial frictions are nonexistent. These frictions rise as α falls below one. The level of α captures the quality of financial institutions and, in particular, the strength of investor protection at Home. Since deposits in our model reflect all borrowing by banks, the financial friction α is assumed to apply equally to all such borrowing regardless of its source. We could have also allowed, like Gertler and Kiyotaki (2010), the severity of the financial friction to be different for different types of borrowing. The structure of enforcement frictions here departs from the traditional sovereign risk literature, which either focuses only on public debt (e.g., Eaton and Gersovitz (1981)) or assumes that the enforcement of private contracts is entirely dependent on a strategic decision of the government (e.g., Broner and Ventura (2011)). Our assumption can be thought of as capturing an intuitive pecking order according to which it is easier for governments to default on public debt rather than to disrupt domestic legal institutions.4 Under these enforcement frictions, the payments delivered by public bonds and deposits originated at t = 0 may be ex post contingent on the state of productivity π ∈ {H, L}. Taking this into account, and letting ρπ ≤ 1 denote the share of contractual obligations that the government decides to repay in state π ∈ {H, L}, we use rbπ = ρπ · rb to denote the (gross) ex post return on
+government bonds. Similarly, we denote by rπ
+d0(ρπ ) ≤ rd0 the ex post return on
+bank deposits originated at time t = 0, where we take into account that this ex post return may be affected by public default. We use r0 = E0(rπ
+d0) to denote the
+expected return on these deposits. As for deposits originated at t = 1, they are not subject to uncertainty and hence there is no difference between their ex ante and ex post returns, both of which we denote by rπ
+d1. Note that all of these returns are specified independently of the identity of the assets’ holder. This is because, despite being subject to different enforcement frictions, both public
+4 Indeed, the ability of governments to directly intervene in private contracts seems more limited than their ability to default. For instance, during the 2002 default the Argentine government tried to interfere with private contracts by forcing the “pesification” (at nonmarket exchange rates) of all dollar-denominated private sector assets and liabilities. Many creditors, however, took legal action against the government, which was forced to “redollarize” the assets (Sturzenegger and Zettelmeyer (2006)). Of course, in particularly severe crises the government might be tempted to alter domestic institutions, weakening this pecking order.
+
+
+826 The Journal of Finance©R
+bonds and deposits are enforced in a nondiscriminatory fashion. The timing of the model, which is summarized in Figure 1 below, is as follows:
+(1) t = 0: Domestic residents receive ω0, financial markets open, public bonds are issued, and banks accept deposits from savers. Given the respective contractual interest rates rb, rd0, and r∗ on government bonds, deposits, and foreign bonds, agents optimally determine their portfolio. If possible, public investment is undertaken. (2) t = 1: The state of productivity π ∈ {H, L} is revealed, domestic residents receive ω1 j, j ∈ {B, S}, all promises issued at t = 0 mature, and the gov
+ernment chooses what share ρπ ∈ [0, 1] of its outstanding obligations rb · b to repay, where b denotes the total amount of bonds issued by the government. Repayment is financed via lump-sum taxation τ , where
+τ (b, ρπ ) = ρπ · rb · b, (1)
+so that default (ρπ < 1) is associated with a lower taxation of domestic residents. Financial markets open, promises are issued, and modernsector investment is determined. (3) t = 2: Output is realized and promises issued at t = 1 mature.
+t=0 t=1 t=2
+Endowment ω0 realized
+Asset markets open
+Public investment
+Productivity AB becomes known Endowment ω1 realized
+Asset payments made
+GOVERNMENT REPAYMENT / TAXATION
+Asset markets open
+Private investment
+Output realized
+Asset payments made
+Figure 1. Timeline. This figure presents the timeline of the model.
+The main feature of our timing is that, when the government decides whether to repay its debt, banks have not yet issued new deposits. Moreover, as captured by equation (1), we assume that government policy is nondiscriminatory with respect to both default and taxation; this assumption can be justified by the fact that public bonds are actively traded in secondary markets, which effectively makes discrimination difficult, as we also discuss formally in Appendix A5. Because of its timing and its nondiscriminatory nature, it is possible that the
+5 Nondiscrimination in repayment seems to fare well with empirical evidence: Sturzenegger and Zettelmeyer (2008), for example, study a large sample of recent defaults and find no evidence of systematic discrimination in the treatment of domestic and foreign creditors.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 827
+government’s repayment decision affects financial markets and investment. This possibility lies at the heart of our story. We now analyze the equilibrium of our economy. We first consider a hybrid financially closed economy in which the government can sell bonds to foreign and domestic residents but the latter cannot borrow or lend internationally. We look at such an economy mostly for pedagogical reasons, as doing so provides a useful benchmark that enables us to isolate the effects of private capital flows when we move to the case of an open economy in Section II. A competitive equilibrium of our economy is a set of portfolio decisions by agents, a government repayment decision, and a set of expected and ex-post returns on assets such that (i) given asset returns, portfolio decisions are optimal, (ii) asset markets clear, (iii) expected returns on public bonds are consistent with government optimization at the time of enforcement, and (iv) expected returns on deposits are consistent with imperfect enforcement. Throughout we focus on symmetric equilibria, in which all agents of the same type hold the same portfolio.
+B. Equilibrium in Deposit Markets
+We first characterize the equilibrium in deposit markets, without reference to the government’s repayment decision, starting with the market at t = 1 and working our way back to study the market at t = 0. We then consider the government’s default decision.
+B.1. Equilibrium in the Deposit Market at t = 1
+Let Wjπ be the wealth of an individual of type j ∈ {B, S} when financial markets open at t = 1 and the state is π ; this includes the individual’s endowment plus any payments obtained/made from assets purchased/issued at t = 0. Upon learning Aπ at t = 1, a bank entering the period chooses its level of deposits dB1 by solving
+mdBa1x
+Aπ · (−dB1 + W π
+B
+) + rπ
+d1 · dB1 (2)
+subject to − dB1 · rπ
+d1 ≤ α · Aπ · (−dB1 + W π
+B
+) (3)
+for dB1 < 0 and π ∈ {H, L}, where equation (3) represents the bank’s credit constraint. The equilibrium interest rate on deposits must be lower than the productivity of investment, that is, rπ
+d1 ≤ Aπ , since otherwise banks would not want
+to attract any deposits. It must also be true that rπ
+d1 > α · Aπ , since otherwise a bank could attract an infinite amount of deposits. Under these conditions, the banking system’s demand of funds at t = 1 is given by
+β · α · Aπ
+rπ
+d1 − α · Aπ · W π
+B , (4)
+
+
+828 The Journal of Finance©R
+and aggregate investment by the banking system is in turn given by
+Iπ (Wπ
+B) = β · rπ
+d1 rπ
+d1 − α · Aπ · W π
+B . (5)
+Equations (4) and (5) show that greater investor protection α enhances the ability of banks to leverage their wealth, attracting more deposits and expanding their investments at t = 1. The supply of funds at t = 1 depends on the wealth of savers. If rπ
+d1 > 1, savers
+are willing to lend all of their wealth (1 − β) · W π
+S to banks. If rπ
+d1 = 1, savers are indifferent between lending and not lending, and their supply of funds is
+given by the interval [0, (1 − β) W π
+S
+].
+Given the above demand and supply of funds at t = 1, there are two types of equilibria in the deposit market. In the first type, deposits at t = 1 are constrained by banks’ ability to absorb savings: in such an equilibrium, rπ
+d1 = 1 and the demand for funds in equation (4) falls short of the supply. Modern-sector investment is constrained by banks’ wealth, yielding a social surplus of
+( Aπ − 1) · β · 1
+1 − α · Aπ · W π
+B . (6)
+This type of equilibrium arises when α ≤ αmax, where αmax is defined as
+αmax (β; π ) = (1 − β) · W π
+S
+Aπ · [β · W π
+B + (1 − β) · W π
+S
+] . (7)
+The second type of equilibrium corresponds instead to the case in which investor protection is very strong, that is, α > αmax (β; π ), and banks are capable of absorbing all domestic wealth to invest it in the modern sector. Now the social surplus of this investment equals
+( Aπ − 1) · [β · W π
+B + (1 − β) · W π
+S
+] . (8)
+Inspection of equations (6) and (8) shows that social surplus is positive only if π = H so that AB = AH > 1, which allows us to establish the following preliminary result.
+LEMMA 1: If α ≤ αmax, investment is constrained by banks’ wealth. In this case, modern-sector surplus is increasing in banks’ wealth Wπ
+B and in investor
+protection α. If α > αmax, modern-sector surplus is constrained only by total domestic wealth, and is independent of α.
+The key point of this section is that, as long as α ≤ αmax, investment is limited by banks’ ability to borrow. In this range, higher bank capital, better investor protection, and a larger banking sector reduce the severity of financial frictions, expanding investment and surplus. Crucially, the wealth of banks, Wπ
+B , and the wealth of savers, W π
+S , as well as the need for intermediation at
+t = 1, depend on both the equilibrium portfolios at t = 0 and the government’s
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 829
+repayment decision at t = 1. We begin by studying the equilibrium portfolios at t = 0 below.
+B.2. Equilibrium in the Deposit Market at t = 0
+At t = 0, any deposits raised by banks can only be invested in public bonds. Since these bonds must be attractive to the international financial market, their expected return must satisfy E0(rbπ ) = r∗ = 1. If the expected interest rate on deposits also equals one, that is, r0 = 1, savers are indifferent between holding public bonds and bank deposits; if instead r0 > 1, savers deposit all of their initial endowment (1 − β) · ω0 in banks. Consider now a bank that raises −db0 = (bB − ω0) in the deposit market at t = 0 to purchase a total of bB public bonds. Due to enforcement frictions, any such bank must satisfy
+r0 · (bB − ω0) ≤ α · (ω1B + bB) , (9)
+where we take into account the fact that E0(rbπ ) = 1. By equation (9), expected payments on deposits cannot exceed a share α of the bank’s expected revenues at t = 1. If a bank demands the maximum amount of bonds allowed by equation (9), its bondholdings are equal to
+bB = min
+{ ω0 + α · ω1B
+1 − α , ω0
+β
+}
+. (10)
+The first term in brackets captures bondholdings when deposits are constrained by the pledgeability constraint of equation (9). In this case, banks cannot purchase all domestically held public bonds; as a result, r0 = 1 and a nonnegative amount (ω0 − β · bB) of public debt is held by savers.6 Formally, this case arises if
+α ≤ α0 (β) ≡ (1 − β) · ω0
+ω0 + β · ω1B
+. (11)
+When instead α > α0 (β), savers deposit their whole endowment in banks. In this case r0 > 1 and banks use all of the economy’s resources to purchase public bonds, so that β · bB = ω0, as shown by the second term in brackets in equation (10). Equation (10) holds in equilibrium only if banks actually want to hold as many bonds as possible, that is, if constraint (9) is binding. We now argue that this will be the case whenever the government is expected to repay its debt if productivity is high (i.e., AB = AH) but to fully default otherwise. As we show in the next section, this strategy is indeed optimal for the government if it
+6 See Appendix B for a more detailed derivation of domestic bondholdings. Throughout, we assume that, whenever domestic residents are indifferent between investing in government bonds and not doing so, they invest all of their available resources in government bonds. In a sense, then, we determine the weakest possible conditions under which government debt is sustainable in equilibrium.
+
+
+830 The Journal of Finance©R
+is ever to repay.7 Taking this repayment policy as given for the time being, we note that the equilibrium return on government bonds must necessarily satisfy E0(rbπ ) = 1, since otherwise there would be no foreign demand for them. If the government is expected to default when the productivity of investment is low, it follows that investors must be appropriately compensated when the productivity of investment is high and bonds are repaid, that is, r H
+b = 1/ p. Thus, by borrowing from savers to buy one government bond, a bank increases its revenues by (1/ p − 1) > 0 units in state π = H and decreases them by one unit in state π = L. Given these returns, it is easy to show that banks are eager to buy public bonds. The reason is that these bonds enable banks to transfer resources from the unproductive to the productive state of nature, in which they earn rents from investment equal to AH − r H
+d1.
+This idea is reminiscent of Holmstr ̈om and Tirole’s (1993) notion that public debt provides liquidity, expanding firms’ ability to invest. In their model, firms need liquidity when they suffer a negative idiosyncratic shock that requires them to invest, and public bonds provide such liquidity. In our model, banks need liquidity when the economy is productive and investment opportunities abound. Public bonds, with their procyclical returns, are good at providing such liquidity. This is the reason why banks in our model choose to hold bonds in equilibrium: they are essentially pursuing a carry trade, using the extra yield of public bonds to fund future investments. In reality, of course, there are also other reasons why banks may hold government bonds. One such reason is that banks hold bonds as a buffer against idiosyncratic shocks because these bonds can be used as collateral for interbank lending or repos (see Bolton and Jeanne (2011)). Another reason is that governments may force banks to purchase and hold their bonds. Both of these reasons could be easily added to our model without changing its main results. The only thing that we require is that banks have a relatively high demand for government bonds despite the risk of default.
+C. Government Default
+We now analyze the government’s repayment decision. After productivity
+π ∈ {H, L} is realized at t = 1, the government chooses what share ρπ ∈ [0, 1] of its debt to repay. To understand the government’s incentives, note that debt repayment affects the domestic distribution of wealth. The wealth of an agent of type j ∈ {B, S} at t = 1 is given by,
+Wπ
+j = ω1 j + rb · ρπ · [bj − b] + rπ
+d0(ρπ ) · dj0, (12)
+where we use the government’s budget constraint and the fact that rbπ = ρπ · rb.
+7 As is usually the case in this class of economies, there is also a pessimistic equilibrium in which the government is expected to fully default on its debt regardless of realized productivity at t = 1. In such an equilibrium, no bonds are issued because there is no demand for them. Consequently, the government does not make any decisions regarding repayment on the equilibrium path, beliefs are not proven wrong, and they are therefore consistent with equilibrium.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 831
+Equation (12) shows that the direct impact of government repayment ρπ on the wealth of type- j individuals depends on their holdings of public bonds. If bj ≥ b, the wealth of these individuals is increasing in ρπ because the share of the debt they own exceeds their share of the tax burden required to service the debt. Thus, for this type of agent, the benefit of government repayment is larger than the cost. The opposite is true when bj < b. Keeping this in mind, the government chooses ρπ at t = 1 to maximize social welfare,
+[β · W π
+B + (1 − β) · W π
+S
+] + ( Aπ − 1) · Iπ (W π
+B
+) , (13)
+for π ∈ {H, L}, which is the sum of total domestic wealth (the first term in brackets) plus the surplus generated by modern-sector investment. The government’s trade-off is straightforward. On the one hand, as long as foreigners hold some debt, default beneficially boosts the total wealth of domestic agents, that is, the first term in equation (13). On the other hand, if banks hold a sufficiently large amount of government bonds, default hurts the wealth of the banking system, reducing modern-sector investment and lowering the second term of equation (13). By redistributing wealth away from banks, a government default may ultimately reduce investment and output. Of course, for this redistribution to be costly, investment must be productive. As a result, repayment never occurs in the low productivity state when AB = AL = 1, that is, ρL = 0. If the government is ever to repay, it only does so when productivity is high, that is, when AB = AH > 1, implying that in such a state the government must pay an interest rate rgH = 1/ p.8 We therefore
+focus exclusively on state π = H from now on, using αmax (β) to denote the level αmax (β; H) of investor protection beyond which all domestic wealth is intermediated by banks when π = H. Suppose then that productivity is high at t = 1, that is, AB = AH > 1. Focus first on the case in which α ≤ αmax(β), so that r H
+d1 = 1 and investment is constrained by banks’ wealth. Public debt here is sustainable when the government finds it optimal to repay, setting ρ H = 1. By using the definition of W H
+B
+from equation (12), we see that, as long as α ≤ α0 and some bonds are in the hands of savers, this is the case if
+(ω0 − 1) + AH − 1
+1 − α · AH · β · (ω0 + α · ω1B − 1) ≥ 0, (14)
+where ω0 + α · ω1B reflects the bondholdings of banks bB from equation (10).9 The first term in equation (14) is negative, and captures the decline in total domestic resources caused by repayment. The second term instead captures the impact of repayment on the after-tax revenue of banks and thus on investment. This term is positive as long as the bondholdings of banks are high enough, that is, ω0 + α · ω1B > 1. Clearly, this is a necessary condition for public debt to be sustainable.
+8 In order for lump-sum taxation to be feasible, we assume throughout that ω0 + ω1S > 1/ p. 9 Appendix C also considers the case in which α > α0 and bB = ω0/β.
+
+
+832 The Journal of Finance©R
+Figure 2. Debt sustainability in the closed economy: I. The shaded area in this figure depicts the combination of investor protection, α, and size of the banking sector, β, for which public debt is feasible in the closed economy, α > αmin(β).
+As long as this condition holds, equation (14) shows that incentives to repay increase in investor protection α. There are two reasons for this. First, for a given amount of bank bondholdings, higher levels of α enable banks to increase their leverage to expand modern-sector investment. Consequently, the adverse impact of default on investment increases in α, as captured by the multiplier 1/(1 − α · AH) above. This is the key effect of the model. Second, higher α enhances debt sustainability by increasing banks’ ability to raise deposits to buy public bonds at t = 0, thus increasing banks’ exposure to a public default. This second effect is not necessary for our results, but it makes them stronger. When these effects are jointly considered, equation (14) defines a minimum level of investor protection αmin(β) that is necessary for public debt to be sustainable. The shaded area in Figure 2 depicts the combinations (α, β) for which α > αmin(β). Note that αmin(β) is nonmonotonic in the share of bankers β. If β → 0, incentives for repayment are only provided if α is high so that the few existing banks (i) hold a disproportionately high share of public bonds and (ii) are highly leveraged. If instead β → 1 and everyone is a banker, there is no way in which debt repayment can raise the wealth of banks; in this case, defaults are necessarily beneficial from the government’s perspective. Intuitively, public debt sustainability requires defaults to generate a sizeable and undesired redistribution, away from bankers (i.e., bondholders) to taxpayers. Clearly, this redistribution cannot be sizeable if no one is a banker or if everyone is.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 833
+Figure 3. Debt sustainability in the closed economy: II. The shaded area in this figure depicts the combination of investor protection, α, and size of the banking sector, β, for which public debt is feasible in the closed economy, αmin(β) < α < αmax(β).
+So far, all of our results have been derived under the assumption that α ≤ αmax(β). Consider now the other relevant case, in which α > αmax(β) and investment at t = 1 is constrained not by the wealth of banks but by the total wealth of domestic agents. In this case, the government’s first-order condition becomes
+AH · (ω0 − 1) < 0, (15)
+which is always negative because some of the public bonds are held abroad, as ω0 < 1. Thus, when α > αmax(β), the government never has an incentive to repay in full, and so the optimal level of public debt b = 1 is not sustainable. Intuitively, even if default hurts the balance sheets of banks, it also increases total domestic wealth by (1 − ω0). If the domestic financial system is efficient enough to channel all of these resources to the modern sector, a public default boosts investment even though it hurts banks. Figure 3 summarizes our discussion by shading the combinations (α, β) for which the optimal level of debt is sustainable. The proposition below states the conditions for debt sustainability in the closed economy.
+PROPOSITION 1: In the closed economy, the government can finance the public project if and only if (α, β) is such that α ∈ [αmin (β) , αmax (β)]. In this case, the government borrows at a contractual rate equal to rb = 1/ p, and it repays if and
+
+
+834 The Journal of Finance©R
+only if AB = AH. The set of combinations (α, β) fulfilling the previous condition is nonempty if p > p∗, where p∗ is a given threshold.
+Proof: See Appendix D. Q.E.D.
+D. Discussion
+As in many sovereign debt crises, a government default in our model hurts domestic banks because they hold public bonds in equilibrium. Because of nondiscriminatory enforcement, the government is unable to avoid the costs of default by repaying only those bonds in the hands of the banking system while defaulting on the rest. Because of nondiscriminatory taxation, the government is unable to avoid the costs of default by bailing out the banking system through direct subsidies. Admittedly, our assumption of no degree of discrimination is extreme. However, our mechanism would still stand if we allowed for some degree of discrimination on enforcement and taxation policies; we just need discrimination to be limited enough to prevent a full undoing of the costs associated with public defaults. To see this, consider a simple extension of our model in which, in the event of
+a default, banks receive compensation for a fraction θ ∈ [0, 1] of their defaulted bonds. This compensation is financed through nondiscriminatory lump-sum taxation. Such a scheme, which amounts to a partial bailout of banks, affects the wealth of a representative bank in equation (12) in two ways: it increases the bank’s income from defaulted bonds to rb · θ · (1 − ρπ ) · bB, and it raises its tax bill by rb · θ · (1 − ρπ ) · β · bB. Under this scheme, the government’s first-order condition of equation (14) becomes
+(ω0 − 1) + AH − 1
+1 − α · AH · β · [(1 − θ (1 − β)) · (ω0 + α · ω1B) − 1] ≥ 0. (16)
+When the government cannot bail out banks, θ = 0 and equations (14) and (16) coincide. As the ability to bail out increases (as θ rises), the benefit of repayment in equation (16) falls. Eventually, if θ becomes sufficiently high, the government is able to fully compensate banks for their losses and thus always chooses to default. Crucially, the government still has an incentive to repay as long as its ability to bail out banks is imperfect (i.e., θ is sufficiently low). In our model the costs of default are shaped by financial institutions via two conflicting effects. On the one hand, higher levels of α enhance banks’ leverage, boosting the adverse effects of public defaults on investment.10 On the other hand, once financial institutions are very good, banks cease to be financially
+10 In line with the literature on financial frictions and capital flows, we capture the quality of financial institutions as the share of a debtor’s resources that can be seized by creditors in the event of a default. In this formalization, better institutions enable greater leverage. This approach neglects other advantages of sounder financial systems, such as the availability of higher quality assets. Our modeling choice has the advantage of having a tight empirical counterpart in the “creditor rights” score that we use in the empirical analysis.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 835
+constrained, and they are always able to intermediate all domestic wealth and direct it to investment. Although it provides a useful conceptual benchmark, this second effect is unlikely to be important in reality. First, the levels of α required for it to play a role may be implausibly high. As recent events have shown, financial constraints are important even in the most developed financial systems. More significantly, we now show show that this second effect may fail to operate due to the presence of private capital flows. To see this, we extend our model to the more realistic case of an open economy and use it to derive our main empirical predictions.
+II. The Open Economy: Private and Public Capital Flows
+Suppose that the capital account of our economy opens up, allowing private agents to borrow from and lend to the international financial market at t = 0 and t = 1. The effects of private capital flows are best analyzed by considering two cases. In the first case, r∗ = 1 and the domestic economy is (weakly) an importer of private capital at t = 1. In the second case, r∗ > 1 and the domestic economy may (but need not) become an exporter of private capital.11
+A. The Case of Capital Importers
+If the world interest rate is equal to one at all dates (r0∗ = r1∗ = 1), opening
+up to private flows relaxes the domestic resource constraint at t = 0 and t = 1. Both of these effects, we now argue, enhance the sustainability of public debt. At t = 1, private inflows enable domestic banks to boost leverage by attracting deposits from international as well as domestic financial markets. Investment is no longer constrained by total domestic wealth. Formally, this implies that investment is monotonically increasing in α, which eliminates the constraint represented by αmax (β). Further, from the viewpoint of t = 0, private inflows enable bankers and savers to expand their holdings of public bonds by borrowing abroad; essentially, the domestic private sector can intermediate between its government and foreigners. This boosts the government’s incentive to repay ex post, shifting down the constraint represented by αmin (β). Formally, the condition for debt sustainability in the open economy when r∗ = 1 is equal to
+(ω0 + α · ω1 − 1) + AH − 1
+1 − α · AH · β · (ω0 + α · ω1B − 1) ≥ 0. (17)
+In comparison to equation (14), the first term above reflects the fact that domestic holdings of public bonds can now exceed ω0. The reason is that domestic
+11 We assume that the enforcement parameter α applies to all investors. Little would change if, in line with Caballero and Krishnamurthy (2001), banks could commit to repay more to domestic than to foreign investors. For a capital-importing country, this case would represent an intermediate outcome between the closed economy analysis of the previous section (which is equivalent to assuming that α = 0 for foreign investors) and the analysis of this section.
+
+
+836 The Journal of Finance©R
+Figure 4. Debt sustainability in the open economy: Capital importers. The darker area in this figure depicts how private capital inflows expand the set of economies for which public debt is feasible, relative to the closed economy benchmark, in the case of capital importers.
+residents can borrow against their future endowment ω1 from the international financial market to purchase bonds. Similarly, the expression in parentheses in the second term reflects the fact that a bank’s bondholdings now equal its pledgeable endowment ω0 + α · ω1B. Trivially, public debt is always sustainable once α is large enough to satisfy α · ω1 ≥ 1 − ω0, because now foreign borrowing allows domestic residents to purchase all public bonds. Equation (17) implies the following proposition:
+PROPOSITION 2: When r0∗ = r1∗ = 1, there exists a threshold αompienn(β) < αmin(β) such that the government can finance the public project for all combinations (α, β) for which α ≥ αompienn(β).
+Proof: See Appendix E. Q.E.D.
+In addition to their direct effect on private investment, capital inflows are therefore beneficial for public debt sustainability as well. By expanding investment at t = 1 and domestic holdings of public bonds at t = 0, these inflows make default more costly. The darker area in Figure 4 shows how private inflows expand the set of economies for which the public project is financed.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 837
+B. The Case of Capital Exporters
+Consider now the case of a capital exporter at t = 1, for which the autarky interest rate lies below r∗. We keep matters simple by assuming that r0∗ = 1
+but r1∗ ∈ (1, AH).12 In equilibrium, it is still true that E0(rbπ ) = E0(rπ
+d0) = 1, but
+now the domestic interest rate at t = 1 equals r∗
+1. As in the previous section,
+the ability of banks to attract deposits from foreigners at t = 1 eliminates the constraint represented by αmax(β), and the condition for debt sustainability becomes
+(ω0 + α · ω1 − 1) + AH − r1∗
+r1∗ − α · AH · β · (ω0 + α · ω1B − 1) ≥ 0. (18)
+As in equation (17), all domestic residents can now increase their total purchases of public bonds at t = 0 by borrowing abroad, which enhances debt sustainability. However, insofar as it leads to an increase in the equilibrium interest rate at t = 1, financial liberalization also induces capital outflows and reduces bank leverage and investment. This reduction in the leverage of domestic banks attenuates the negative effects of public defaults on investment. Through this last effect, financial liberalization may decrease debt sustainability. Formally:
+PROPOSITION 3: Let αompienn(β, r1∗) be defined as the smallest level of α satisfying equation (18), for β ∈ (0, 1). There exists a threshold r ∈ (1, AH) such that αompienn(β, r1∗) > αmin(β) whenever r1∗ > r.
+Proof: See Appendix F. Q.E.D.
+Proposition 3 is most interesting when it is applied to economies where α ∈
+[αmin(β), αmax(β)]. These are economies where α is sufficiently low that, in the absence of financial liberalization, r H
+d1 = 1. Provided the international interest
+rate r1∗ is high enough, financial liberalization reduces debt sustainability in these economies, as shown in Figure 5. Liberalization lowers the cost of default in countries with a low autarky interest rate by inducing private capital outflows from these countries. This possibility increases the minimum level of institutional quality αompienn(β) at which public debt is sustainable. As a result, the government of a capital-exporting economy may benefit from imposing controls at t = 1 to prevent such outflows. Beyond yielding a direct benefit when the return to domestic investment is higher than the international interest rate ( AB > r1∗), such controls indirectly enhance public debt sustainability.
+12 We want to assess the effects of liberalization when the international interest rate is higher than that prevailing at Home under autarky. In our model, that cannot happen at t = 0 because the government sells bonds to domestic residents and to foreigners in a unified market.
+
+
+838 The Journal of Finance©R
+Figure 5. Debt sustainability in the open economy: Capital exporters. The darker area in this figure depicts how private capital inflows expand the set of economies for which public debt is feasible, relative to the closed economy benchmark, in the case of capital exporters.
+C. Discussion and Empirical Predictions
+In our model, public and private borrowing complement each other.13 On the one hand, higher domestic or external borrowing by banks raises the costs of default for the government, thereby reducing the risk of public defaults. Because of this, an improvement in financial institutions raises a country’s ability to access foreign funds not only directly, by stimulating private borrowing, but also indirectly, by raising the sustainability of public borrowing. On the other hand, the government’s borrowing and default decisions affect private borrowing as well. This is certainly true ex post, as public defaults hinder the ability of private banks to borrow. But our model shows that this is also true from an ex ante perspective, in the sense that the mere existence of public debt helps increase private intermediation. The reason is that public bonds provide a valuable liquidity service to the banking system, which is why banks choose to hold bonds in the first place. As a result, any exogenous factor limiting the government’s ability to issue debt (e.g., an exogenous increase in public default risk) also reduces the expected size of private financial markets.14
+13 This result differs from existing international finance models in which capital flows to the public and private sectors are substitutes. In models with full commitment and complete markets, substitutability stems from Ricardian equivalence. In models of sovereign risk, the government decides whether to enforce all of the country’s external debt, so that substitutability arises because such an enforcement decision depends on the total amount of payments. 14 In our model, bonds expand the asset span because they provide a profile of payoffs that private assets do not. In Appendix G, we show that this result is robust to (i) risk aversion on behalf of banks, and (ii) the ability of the private sector to issue contingent assets, conditional on this probability being limited by pledgeability constraints. It is important to note that, although
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 839
+This complementarity between public and private borrowing can shed light on Reinhart and Rogoff ’s (2010) account of international lending patterns. Their account shows that during capital flow “bonanzas” there is a run up in both private and public debt that gives way, as financial markets deteriorate, to public defaults, banking crises, and credit crunches. Complementarity can rationalize both the mutually reinforcing nature of private and public borrowing booms as well as the spread of crises across both types of borrowing.15 In the context of financial crises, our model yields two sets of predictions. First, any shock disrupting private credit markets should increase the likelihood of government default. For instance, a drop in the size of the banking sector β—capturing a banking crisis—will reduce the government’s incentive to repay in equation (14). The same is true for an increase in the international interest rate r∗
+1 , which reduces leverage in the banking sector.16 Second, a crisis initiated by a sovereign default should lead to a decline in private intermediation, the extent of which should depend on the specific features of domestic credit markets. To see this formally, let PC1 denote the volume of private credit at t = 1, which is equal to the volume of bank deposits in equation (4). By using the definition of banks’ wealth in equation (12), we obtain our most immediate prediction.
+COROLLARY 1: Public default should reduce private credit:
+∂ PC1
+∂ρπ = β · α · Aπ
+r1∗ − α · Aπ
+(bB − 1) > 0. (19)
+Comparing two otherwise identical economies, the one in which the government defaults should have lower private credit than the one in which the government repays.17 Canonical sovereign debt models may yield this prediction as an indirect effect of the government’s exclusion from financial markets. Equation (19) also implies, however, two subtler predictions of our model, which stress the role of private financial intermediation.
+COROLLARY 2: The postdefault contraction in private credit should be stronger in countries with (i) better financial institutions, as ∂2 PC1/∂ρπ ∂α > 0, and (ii) higher holdings of public debt by domestic banks, as ∂2 PC1/∂ρπ ∂bB > 0.
+Given an amount of bondholdings bB, equation (19) shows that better institutions increase the postdefault decline in private credit by increasing banks’ leverage as captured by the multiplier α · Aπ /(r1∗ − α · Aπ ). At the same time, greater values of bB result in more severe postdefault declines in credit because they increase the vulnerability of banks’ balance sheets to public defaults. Although intuitive, this last prediction is at odds with canonical models in which
+this direction of complementarity certainly requires public bonds to be valuable for private markets, it does not hinge on the specific reason that makes them so. 15 See Appendix G for a theoretical discussion of complementarity. 16 See equation (F1) in Appendix F. 17 Note that equation (19) must hold in equilibrium, for if bB < 1 public debt is not sustainable ex ante.
+
+
+840 The Journal of Finance©R
+the government can perfectly shield domestic agents from sovereign defaults. Propositions 1 and 2 directly yield an additional prediction of our model: the postdefault declines in credit should be stronger if the country borrows more from foreigners. This is because foreign capital increases leverage in the domestic financial sector. These predictions translate directly into implications for ex ante default risk. Suppose that an indebted government faces an unexpected increase in the international interest rate r1∗ at t = 1. Such a shock may or may not cause a default depending on whether, at the new interest rate, the government’s firstorder condition (i.e., equation (17) or (18)) is met. This implies the following prediction.
+COROLLARY 3: The frequency of default should be (weakly) lower in countries with (i) better financial institutions, that is, higher α, and (ii) higher holdings of public debt by domestic banks bB.
+Intuitively, in these countries the cost of default is higher at any interest rate r1, as illustrated by the fact that the government’s first-order conditions are more likely to be slack. In line with the previously discussed role of capital inflows in enhancing postdefault declines in credit, our model also naturally predicts that the probability of default should be lower if a country borrows more from foreigners. We now examine whether the data are consistent with the view that public defaults have an adverse impact on private credit as described in Corollaries 1, 2, and 3. We also examine whether private external borrowing has an effect on the severity of postdefault declines in credit and on the ex ante risk of default. Although the reverse channel—the impact of credit market shocks on public defaults—is also consistent with our model, complementarity ultimately requires that public defaults disrupt private markets. This is why we focus on the direct channel going from public defaults to private markets. While it is beyond the scope of the next section to formally test our model and fully establish causality, we provide the first systematic evidence on the link between public default, bondholdings, and private credit.
+III. Empirical Analysis
+In Section III.A we examine the raw data concerning banks’ holdings of public bonds and the link between default and credit. In Sections III.B and III.C we perform formal regression analyses on the predictions of Corollaries 1, 2, and 3 and also on the role of private capital inflows.18 We use a large panel of emerging and developed countries over the years 1980 to 2005, which we construct by combining data from the IMF’s International
+18 Our theory also has predictions for the impact of default on investment that mirror those for private credit. Here we focus only on the latter because it is hard to identify the relevant finance “modern sector” in our aggregate data. Using industry-level data, Brutti (2011) finds that industries that are more financially dependent grow less in defaulting countries. See also Borensztein and Panizza (2009) for a similar analysis.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 841
+Financial Statistics (IFS) and the World Bank’s World Development Indicators (WDI; see the Internet Appendix for a description of variables and sources).19 To test for the link between default and domestic financial markets, we use as our main dependent variable the change in the annual ratio of private credit provided by deposit money banks and other financial institutions to GDP, which is drawn from Beck, Demirgu ̈  ̧c-Kunt, and Levine (2000). This widely used measure is an objective continuous proxy for the size of domestic credit markets.20 We focus on private credit changes—rather than levels—to control for persistence in the level of private credit. As a robustness check, we also perform our tests by using the percentage change in private credit as the dependent variable. Following the existing literature, we proxy for sovereign default with a dummy variable based on Standard & Poor’s definition of default as the failure of a debtor (government) to meet a principal or interest payment on the due date (or within the specified grace period) contained in the original terms of the debt issue. A debt restructuring under which the new debt contains less favorable terms to the creditors than the original issue is also counted as default, which implies that the Greek debt restructuring of March 2012 would be counted as a default.21 We proxy for the quality of a country’s financial institutions with the creditor rights index of Djankov, McLiesh, and Shleifer (2007), who compute it for 133 countries for every year between 1978 and 2003, extending the methodology of La Porta et al. (1998). This index is the leading “institutional” predictor of credit market development around the world. In our sample the raw correlation between private credit to GDP and the creditor rights index is positive, large (24.9%), and statistically significant at the 1% level. This creditor rights index maps directly into the parameter α of our model, which captures the ability of creditors to collect from debtors. Relative to other measures found to predict capital market liberalization and GDP growth (e.g., see Bekaert, Harvey, and Lundblad (2005) for a discussion of measures of legal reform), it also has the
+19 The Internet Appendix may be found in the online version of this article. 20 This is the most appropriate measure to study the impact of public default on financial intermediation and to check if such impact is consistent with our predictions. It is beyond the scope of our paper to assess the desirability of financial intermediation. We note, however, that, for public defaults to be socially costly, we do not require the level of intermediation to be socially efficientonly that the collapse in financial intermediation during a sovereign crisis not be desirable. This seems quite realistic, particularly given the fact that the emerging economies in our sample have low levels of private credit over GDP. 21 As with most previous studies, we focus on whether a default occurs and not on monetary measures of creditors’ recovery, such as the loss given default, for two main reasons. First, estimates of creditors’ losses given defaults (“haircuts”) are heavily dependent on the assumptions one makes about counterfactuals (e.g., Sturzenegger and Zettelmeyer (2006)). Second, it is widely accepted that sovereign defaults are very large and disruptive events. Moody’s (2007) estimates the average recovery rate on sovereign bonds to be 55% on an issuer-weighted basis and 29% on a volumeweighted basis. Sturzenegger and Zettelmeyer (2008) find that, even under the most conservative assumptions, recovery rates range from a minimum of 13% to a maximum of 90% of the bonds’ par value.
+
+
+842 The Journal of Finance©R
+advantage of being very persistent and thus less prone to endogeneity concerns. The protection of banks’ creditors could be also measured using the extent of deposit insurance. We choose to use creditor rights for two reasons. First, deposit insurance protects only a subset of the bank’s creditors. Second, deposit insurance is itself a form of government liability; whether the government chooses to honor it may depend on factors correlated with public defaults.22 Finally, we proxy for domestic banks’ holdings of public debt using financial institutions’ net claims to the government relative to their total assets, following Kumhof and Tanner (2008).
+A. Basic Facts about Default, Credit, and Bondholdings
+Table I reports the list of defaults in our sample, indicating whether default was followed or preceded by a banking crisis. Our sample period contains 110 default episodes in 81 countries. There is considerable variation in the duration of default episodes, ranging from 25 years in the case of the Democratic Republic of Congo, to 13 years in the cases of Poland and Peru, to 1 year in the case of Venezuela in 1990. Defaults have become shorter over time: those starting in the 1990s have a substantially shorter duration than those starting in the 1980s. The evidence is consistent with Reinhart and Rogoff (2010, 2011), as defaults and banking crises in a given country tend to occur together, often within a short timespan. Using the definition of banking crises given by Caprio and Klingebiel (2001) and the updated data by Caprio et al. (2005), Table I shows that, of the 110 default episodes in our sample, 74 (67%) were accompanied by a banking crisis. The sequencing differs across episodes. In 30 of these cases a banking crisis was ongoing or had started in the three years prior to a public default, while in 44 of these cases it occurred in the same year or in a later year. Finally, 36 default episodes occurred in the absence of banking crises, either before or subsequently. These figures suggest that both directions of complementarity are likely at play in countries experiencing both defaults and banking crises. We now check if the raw data support the prediction of Corollary 1: a negative impact of public default on private credit. Figure 6 plots the average change in private credit to GDP following default and no default events, as weighted by GDP (a similar figure results if we use medians). After a default in year t − 1, the change in private credit from t − 1 to t is equal to 0.32% of GDP, as compared with 2.39% for country-years following no default. These differences are large in economic terms and statistically significant at the 1% level. Consider now the subtler predictions of Corollary 2 concerning cross-country heterogeneity in the postdefault decline in credit. Figure 7 shows that the GDP-weighted change in private credit after a default is 1.25% of GDP in
+22 Other potential proxies for institutions, such as, for example, the colonial origins of Acemoglu, Johnson, and Robinson (2001), are only available for a small subset of the countries in our sample.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 843
+Table I Sovereign Default Episodes and Banking Crises
+The table reports episodes of sovereign defaults over 1980 to 2005, following the definition of sovereign default by Standard & Poor’s. For each default episode, defined as an uninterrupted sequence of years in default by a country, the table reports whether a banking crisis in the same country had started or was ongoing in any of the three years before the beginning of the default episode, or whether it started subsequent to it.
+Banking Crisis
+Started or ongoing Started Sovereign in any of three concurrently Country Defaults years prior? or subsequently?
+Albania 1991 to 1995 No Yes (1992) Algeria 1991 to 1996 Yes (1990) No Angola 1985 to 2004 No Yes (1991) Antigua 1996 to 2004 No No Argentina 1982 to 1993, 2001 to 2004
+Yes (1981), No No, Yes (2001)
+Bolivia 1980 to 1984, 1986 to 1997
+No, No No, Yes (1986)
+Bosnia and Herzegovina
+1992 to 1997 No Yes (1992)
+Brazil 1983 to 1994 No Yes (1994) Bulgaria 1990 to 1994 No Yes (1996) Burkina Faso 1983 to 1996 No Yes (1988) Cameroon 1985 to 2003 No Yes (1987) Cape Verde 1981 to 1996 No Yes (1993) Central African Republic
+1981, 1983 to 2004
+Yes (1980), Yes (1981) No, No
+Chile 1983 to 1990 Yes (1981) No Congo 1983 to 2004 No Yes (1992) Congo, Dem. Rep.
+1980 to 2004 No Yes (1980)
+Costa Rica 1981, 1983 to 1989
+No, No No, Yes (1994)
+Cote d’Ivoire 1983 to 1998, 2000 to 2004
+No, No Yes (1988), No
+Cuba 1982 to 2004 No No Dominica 2003 to 2004 No No Dominican Republic
+1982 to 1994 No No
+Ecuador 1982 to 1995, 1999 to 2000
+Yes (1980), Yes (1998) No, No
+Ethiopia 1991 to 1999 No Yes (1994) Gabon 1986 to 1994, 1999 to 2004
+No, Yes (1997) Yes (1995), No
+Gambia 1986 to 1990 Yes (1985) No Ghana 1987 Yes (1986) No Guatemala 1989 No Yes (1990) Guinea 1986 to 1988, 1991 to 1998
+Yes (1985), No No, Yes (1993)
+(Continued)
+
+
+844 The Journal of Finance©R
+Table I—Continued
+Banking Crisis
+Started or ongoing Started Sovereign in any of three concurrently Country Defaults years prior? or subsequently?
+Guinea Bissau 1983 to 1996 No Yes (1995) Guyana 1982 to 2004 No No Haiti 1982 to 1994 No No Honduras 1981 to 2004 No No Indonesia 1998 to 2000, 2002
+Yes (1997), Yes (2001) No, No
+Iran 1981 to 1995 No No Iraq 1987 to 2004 No No Jamaica 1981 to 1985, 1987 to 1993
+No, No No, Yes (1994)
+Jordan 1989 to 1993 No Yes (1989) Kenya 1994 to 2004 Yes (1993) No Korea, Dem. Rep.
+1980 to 2004 No No
+Liberia 1987 to 2004 No Yes (1991) Macedonia 1992 to 1997 No Yes (1993) Madagascar 1981 to 2002 No Yes (1988) Malawi 1982, 1988 No, No No, No Mauritania 1992 to 1996 Yes (1991) No Mexico 1982 to 1990 Yes (1981) No Moldova 1998, 2002 No, No No, No Morocco 1983, 1986 to 1989
+Yes (1980), No No, No
+Mozambique 1980, 1983 to 2002
+No, No No, Yes (1987)
+Myanmar 1997 to 2004 Yes (1996) No Nicaragua 1980 to 2004 No Yes (late 1980s) Niger 1983 to 1991 No Yes (1983) Nigeria 1982 to 1992, 2002
+No, No Yes (1991), No
+Pakistan 1998 to 1999 No No Panama 1983 to 1996 No Yes (1988) Paraguay 1986 to 1992, 2003 to 2004
+No, Yes (2001) Yes (1995), No
+Peru 1984 to 1997 Yes (1983) No Philippines 1983 to 1992 Yes (1981) No Poland 1981 to 1994 No No Romania 1981 to 1983, 1986
+No, No No, Yes (1990s)
+Russia 1991 to 2000 No No Sao Tome and Principe
+1987 to 1994 Yes (1980s) No
+Senegal 1981 to 1985, 1990, 1992 to 1996
+No, Yes (1989), Yes (1991) Yes (1988), No, No
+(Continued)
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 845
+Table I—Continued
+Banking Crisis
+Started or ongoing Started Sovereign in any of three concurrently Country Defaults years prior? or subsequently?
+Serbia and Montenegro
+1992 to 2004 No No
+Seychelles 2000 to 2002 No No Sierra Leone 1983 to 1984, 1986 to 1995
+No, No No, Yes (1990)
+Slovenia 1992 to 1996 No Yes (1992) South Africa 1985 to 1987, 1989, 1993
+No, No, No No, Yes (1989), No
+Sudan 1980 to 2004 No No Tanzania 1984 to 2004 No Yes (late 1980s) Togo 1980, 1982 to 1984, 1988, 1991 to 1997
+No, No, No, No No, No, No, Yes (1993)
+Trinidad and Tobago
+1988 to 1989 Yes (1987) No
+Turkey 1982 No Yes (1982) Uganda 1980 to 1993 No Yes (1994) Ukraine 1998 to 2000 No Yes (1998) Uruguay 1983 to 1985, 1987
+Yes (1981), Yes (1984) No, No
+Venezuela 1983 to 1988, 1990, 1995 to 1997
+Yes (early 1980s), No, Yes (1994)
+No, Yes (1993), No
+Vietnam 1985 to 1998 No Yes (1997) Yemen 1985 to 2001 No Yes (1996) Yugoslavia 1983 to 1992 No No Zambia 1983 to 1994 No Yes (1995) Zimbabwe 1980, 2000 to 2004
+No, Yes (late 1990s) No, No
+No default episodes
+110 30 44
+country-years with below-median public debtholdings, as compared with −0.41 for country-years with above-median public debtholdings. Similarly, the GDPweighted change in private credit after a default is 1.01% of GDP in countryyears with below-median creditor rights (i.e., creditor rights score of zero or one), compared with −0.70 for country-years with above-median creditor rights (i.e., creditor rights score of two, three, or four). These differences, which go in the directions predicted by our model, are large in economic terms and statistically significant at standard levels. One concern with the correlations reported in Figures 6 and 7 is that they merely reflect endogeneity. There are two main reasons for this concern. First, an economy-wide adverse shock may generate both a persistent decline in credit flows and a public default. This effect could produce a visual pattern similar to
+
+
+846 The Journal of Finance©R
+0.00%
+0.50%
+1.00%
+1.50%
+2.00%
+2.50%
+3.00%
+No Default Default
+Figure 6. Private credit flows. This figure plots the average change in private credit to GDP following default and no events.
+-0.80%
+-0.60%
+-0.40%
+-0.20%
+0.00%
+0.20%
+0.40%
+0.60%
+0.80%
+1.00%
+1.20%
+1.40%
+Low Bondholdings High Bondholdings
+-0.80%
+-0.60%
+-0.40%
+-0.20%
+0.00%
+0.20%
+0.40%
+0.60%
+0.80%
+1.00%
+1.20%
+1.40%
+Low Creditor Rights High Creditor Rights
+Figure 7. Private credit flows following default. This figure plots the average change in private credit to GDP following government default. The left panel compares country-years with below-median public debtholdings with country-years with above-median public debtholdings. The right panel compares country-years with below-median creditor rights with country-years with above-median creditor rights.
+that of Figure 6 even if default has no direct impact on private credit. Second, some countries may be intrinsically more prone to severe public and private debt crises than others due, for instance, to country-specific historical or policy factors influencing both financial development and government default. Figure 7 may thus reflect this heterogeneity in countries’ long-run characteristics rather than the effects of creditor rights or bondholdings per se. The next section makes a first attempt to partially address these issues by using standard panel estimation techniques. Before proceeding to the estimation, however, we take a look at the raw data on banks’ holdings of public bonds. Our model has implications for the link between the share of bank assets invested in public bonds and the quality of financial institutions. In the model, bank assets consist of public bonds and
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 847
+10.00%
+11.00%
+12.00%
+13.00%
+14.00%
+15.00%
+16.00%
+17.00%
+Low Creditor Rights High Creditor Rights
+Figure 8. Bank bondholdings and creditor rights. This figure plots banks’ public debtholdings in country-years with below-median and above-median creditor rights.
+of loans made to firms. As both variables increase in α (see equations (5) and (10)), better financial institutions have an ambiguous effect on the “bonds-toassets” ratio of the banking system as a whole. In the limit, though, if financial institutions are very good, the effect of bank leverage dominates and the bonds-to-assets ratio is very low.23 We now look at the cross-country data, focusing for illustration purposes on within-country averages over 2001 to 2003. Two features of the data immediately stand out. First, banks hold large quantities of public bonds, which on average amount to 11.8% of their total assets. Second, there is large variation in the average bondholdings across countries: for example, bondholdings in Turkey, Brazil, and Belgium are as large as 50.8%, 44.4%, and 38.2% of bank assets, respectively, while in the United States and Malaysia they are 2.9% and 1.3%, respectively. As Figure 8 shows, banks’ bondholdings are lower in countries with high creditor rights (i.e., with a score of two, three, or four) than in countries with low creditor rights (score of zero or one).24 A common rationale for these bondholdings by banks is that public bonds have a preferential status for meeting reserve requirements. To shed light on this explanation, we collect data on reserve requirements for a subset of the countries in our sample over the 2001 to 2003 period (see O’Brien (2007) and sources therein). In our sample, banks can use various sets of assets to meet reserve requirements, and, while the asset composition differs somewhat, in
+23 In the real world, the presence of capital adequacy ratios can mute the effect of stronger investor rights on leverage and thus bank assets. Because in our model leverage monotonically increases in α, tightening capital adequacy ratios would be akin (from an ex ante standpoint) to capping the value of α. 24 In the Internet Appendix we show that the correlation is statistically significant when looking at pooled OLS, and also after controlling for country and time dummies. In particular, a one-unit increase in the creditor rights score is associated with a 2% decrease in bank bondholdings.
+
+
+848 The Journal of Finance©R
+all countries in our sample, banks can use public debt to meet reserve requirements (see the Internet Appendix for details). As we show in the Internet Appendix, across countries (i) there is no statistical link between public debt and reserve requirements, and (ii) banks often choose to hold bonds in excess of their total reserve requirement; that is, even without accounting for the other eligible assets, banks more than exceed their reserve requirements with their public bondholdings alone. Of course, governments may induce banks to hold public bonds through subtler instruments than reserve requirements, particularly during periods of financial turbulence. However, the evidence is prima facie consistent with the possibility that banks may voluntarily demand public bonds, over and above those needed to meet reserve requirements, as predicted by our model.
+B. Institutions, Bondholdings, and the Decline in Credit
+We now estimate various specifications of the pooled OLS regression
+(Change in Private Credit)
+i,t = αi + υt + X′
+i,t−1γ + β1
+( Sovereign Default)
+i,t−1
++ β2
+(Sovereign Default)
+i,t−1 · (Creditor Rights)
+i,t−1
++ β3
+(Sovereign Default)
+i,t−1 · (Bondholdings)
+i,t−1 + i,t. (20)
+In the most basic specification, we exclude the interactive terms (imposing β2 = β3 = 0) to see whether, in line with Corollary 1, public default is on average followed by a decline in credit, that is, β1 < 0. We then include the interactive terms to see whether, in line with Corollary 2, such a decline in credit becomes worse as creditor rights and bank bondholdings increase, that is, β2 < 0 and β3 < 0.25 We finally include the additional interactive term β4
+(Sovereign Default)
+i,t−1 · (Private Foreign Liabilities)
+i,t−1 to equation (20), where private foreign liabilities are taken from Lane and Milesi-Ferretti (2007). Again, complementarity implies that the greater the external borrowing of the domestic financial sector (the higher its foreign liabilities), the stronger should be the postdefault credit crunch, that is, β4 < 0. In equation (20), the coefficient αi represents country effects, which control for all time-invariant country-specific (e.g., historical or policy) factors affecting both private credit and sovereign defaults. The coefficient υt captures time effects, controlling for common shocks across countries (e.g., changes in world interest rates). To deal with the remaining possible sources of endogeneity, namely, country-specific time-varying shocks, the vector Xi′,t−1 contains lagged
+variables that capture the most common predictors of a decline in private credit and of public default. We include these variables in an attempt to purge our coefficient estimates of the effects of preexisting economic conditions, at least to the extent that our data allow us to do so. Because our goal is to
+25 As in all cross-country empirical studies, especially those involving emerging economies, data availability issues affect sample size. We discuss these issues in the Internet Appendix.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 849
+estimate β1, β2, and β3 out of relatively unanticipated default events, we control for GDP per capita growth and unemployment growth, because a worsening of a country’s domestic economy may lead to a decline in credit as well as to default; for inflation, which is often associated with debt crises; and for exchange rate depreciation, which accounts for speculative attacks and other channels whereby a currency’s instability can lead to private and public crises. To further enhance our ability to identify relatively unanticipated defaults, we include in our regressions a time-varying index of investors’ perceptions of default risk at t − 1. This index is computed by the International Country Risk Guide (ICRG) by combining several factors that make a country more prone to default and less attractive to foreign investors. To further probe our hypothesis, we also control for proxies of sudden stops, defined as a year in which GDP growth is negative and the current account deficit is reduced by more than 5%, and banking crises.26 More broadly, to avoid identifying our effects from outliers, throughout all of our analyses we perform a careful and thorough sensitivity analysis based on Belsley, Kuh, and Welsch (1980).27 Finally, to further probe our results, we complement the pooled OLS regressions with nonparametric propensity score matching methods, which allow us to relax the assumption of linearity in the relationship between default and private credit when trying to isolate relatively unanticipated default events.28 We report the results in the Internet Appendix to save space. Before presenting the estimation results, it is important to stress two issues. First, in our tests of Corollary 2(i), we are not concerned that our measure of financial institutions may be endogenous to default. The creditor rights index is remarkably persistent over time and it varies systematically in the crosssection with the legal system transplanted by colonizers many centuries ago (La Porta et al. (1998), Djankov, McLiesh, and Shleifer (2007)). In fact, our regressions (e.g., equation (20)) exploit the cross-country and not the timeseries variation in creditor rights.29 Second, our test of Corollary 2(ii) also exploits the cross-country as opposed to time-series variation in bondholdings.
+26 Controlling for predefault banking crises also helps us distinguish our mechanism from the related but alternative “bailout channel” (Acharya, Drechsler, and Schnabl (2013)): if the government is committed to bailing out the banking sector in the event of distress, a weakening of the sector might increase public liabilities enough to trigger a government default. 27 Specifically, we check for the presence of influential observations by computing the DFbetas from each regression in Tables II and III (see, e.g., Belsley, Kuh, and Welsch (1980, p. 28)). DFbetas measure, for each observation, how much a coefficient would change if that observation were dropped from the data. Consistent with Belsley, Kuh, and Welsch (1980), we define an observation as influential if its |DFbeta| > 1. We present the results obtained by excluding such observation. After each regression, we list the observations (if any) dropped according to this criterion. 28 Propensity score estimation involves comparing changes in private credit for country-year pairs matched along a set of important (time-varying) country characteristics that potentially affect a country’s propensity to default, and that only differ in whether a default actually occurred. 29 In the sample used in Table II there is only one instance of institutional reform during default years (Indonesia in 1998, in which the creditor rights score declined by one unit). More specifically, the results of Table II hold also if a country’s creditor rights score at t − 1 is replaced by its time average. Similar considerations apply with respect to the regressions of Table III on the probability of default.
+
+
+850 The Journal of Finance©R
+Indeed, we find that our measure of bank bondholdings has very little timeseries variation within-country.30 Table II reports the results from estimating various specifications of equation (20). The dependent variable is the annual change in private credit as a percentage of GDP. The most basic specification including the default dummy (and imposing β2 = β3 = 0) is presented in column (1). Column (2) adds to the basic specification the interactive term of default with domestic bank bondholdings. Column (3) adds to the basic specification the interactive term of default with creditor rights. Column (4) reports the results from the full specification with both interactive terms. Finally, column (5) includes in the full specification the interactive term of default with openness, as proxied by foreign liabilities. Standard errors are heteroskedasticity-consistent and clustered at the country level. In our baseline regression of column (1), the coefficient on the default dummy is negative and significant, consistent with the prediction of Corollary 1 that sovereign default should be followed by lower private credit flows. The coefficient on the default dummy in column (1) implies that, after default, private credit drops by 2.5% of GDP. These effects are large in economic terms. The negative coefficient on the interaction term between default and bank debtholdings in columns (2), (4), and (5) is consistent with our prediction that default is more disruptive of private financing in countries where banks hold more public bonds. The coefficient is marginally statistically significant in columns (2) and (5). The negative coefficient on the interaction term between default and creditor rights in columns (3), (4), and (5) is consistent with our prediction that public default is more disruptive of private financing in countries with better institutions. Finally, the negative coefficient on the interaction term between default and openness in column (5), as proxied by private foreign liabilities, is consistent with our prediction that default is more disruptive of private credit in countries more open to capital inflows. The economic magnitude of these effects is large. A one-standard-deviation increase in banks’ bondholdings in a defaulting country is associated with a larger decrease in private credit of 2.5% of GDP (from column (2)). A one-unit increase in the creditor rights score in a defaulting country (e.g., moving from a score of one, as in Argentina, to a score of two, as in Chile) is associated with a more severe reduction in private credit of 3.8% of GDP (column (3)). A one-standard-deviation increase in foreign liabilities in a defaulting country is associated with a more severe reduction in private credit of 14.2% of GDP (column 5). Other variables take the predicted signs. In particular, positive GDP growth is associated with private credit increases, positive unemployment growth with
+30 In particular, we check our data to see if there are cases of countries in which banks sharply increase their bondholdings during a period of sovereign default and debt crises, and we exclude country-year observations in which private credit and bondholdings change by more than 100%. This procedure eliminates observations of Algeria in 1992 and 1993, when private credit declined by 111% and bondholdings increased from 2.9% to 56.9% of banks’ assets.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 851
+Table II Where Is Default More Costly?
+The table presents panel regressions for 46 countries over the 1980 to 2005 period. The dependent variable, private credit flows to GDP, is computed as private credit to GDP in year t minus private credit to GDP in year t − 1. Sovereign default is a binary variable that equals one if the sovereign is in default in year t − 1, and zero otherwise. Creditor rights is a discrete index ranging from zero to four aggregating creditor rights, following La Porta et al. (1998) and Djankov, McLiesh, and Shleifer (2007). Openness is computed as private liabilities over GDP. Sudden stop is a dummy that equals one if in the previous year the country has negative GDP per capita growth and its current account balance increases by more than 5%. Standard errors (in parentheses below the coefficient estimates) are adjusted for heteroskedasticity using the Huber (1967) and White (1980) correction, as well as for clustering at the country level using the Huber (1967) correction. *** indicates significance at the 1% level; ** indicates significance at the 5% level; * indicates significance at the 10% level.
+Private Credit Flows to GDP
+(1) (2) (3) (4) (5)
+Sovereign Defaultt − 1 × −0.126* −0.089 −0.085* Bank Bondholdingst − 1 (0.078) (0.058) (0.050) Sovereign Defaultt − 1 × −0.038** −0.036*** −0.046*** Creditor Rightst − 1 (0.015) (0.012) (0.012) Sovereign defaultt − 1 × -0.174** Opennesst–1 (0.073) Bank Bondholdingst − 1 −0.060 −0.002 −0.011 (0.057) (0.045) (0.044) Creditor Rightst − 1 0.023 0.059*** 0.046** (0.016) (0.017) (0.017) Opennesst − 1 −0.027 (0.023) Sovereign Defaultt − 1 −0.025* −0.024 0.023 0.033 0.237*** (0.013) (0.020) (0.026) (0.026) (0.085) Banking Crisist − 1 −0.041*** −0.009 −0.042*** −0.009 −0.009 (0.012) (0.012) (0.013) (0.015) (0.014) GDP per capita Growtht − 1 0.082** 0.099 0.077* 0.086 0.079 (0.039) (0.098) (0.040) (0.097) (0.085) Unemployment Growtht − 1 −0.040*** −0.072** −0.046*** −0.067** −0.064** (0.012) (0.032) (0.013) (0.028) (0.026) Default Riskt − 1 −0.019 0.022 −0.018 −0.053 −0.009 (0.042) (0.035) (0.048) (0.035) (0.037) Inflationt − 1 −0.000 −0.000 −0.000* −0.000 −0.000 (0.000) (0.000) (0.000) (0.000) (0.000) Exchange Rate 0.005** 0.074 0.005** 0.048 0.028 Depreciationt − 1 (0.002) (0.051) (0.002) (0.051) (0.049) Sudden Stopt − 1 −0.011 −0.036* −0.016 −0.033 −0.022 (0.028) (0.020) (0.029) (0.022) (0.020) Constant 0.002 0.031 −0.046 −0.120*** −0.009 (0.032) (0.035) (0.067) (0.040) (0.063) Time Dummies? Yes Yes Yes Yes Yes Country Dummies? Yes Yes Yes Yes Yes
+No Observations 686 252 606 188 188 No Countries 46 36 46 35 35 No Defaults 54 22 52 22 22 R2 0.138 0.189 0.156 0.248 0.286
+
+
+852 The Journal of Finance©R
+private credit decreases, and a sudden stop with a decrease in private credit. Furthermore, consistent with Reinhart and Rogoff (2011) and Acharya, Drechsler, and Schnabl (2013), banking crises as defined by Caprio and Klingebiel (2001) are also associated with a decrease in private credit in columns (1) and (3).31 In sum, Table II shows that sovereign defaults are followed by a weakening of domestic credit markets. Although our data do not allow for strong causality claims, we note that these correlations cannot be easily accounted for by preexisting economic conditions in the defaulting country. This is consistent with our mechanism: default reduces the value of banks’ assets, thereby limiting their ability to intermediate resources, either domestic or foreign. In line with this observation, the data also support the predictions of Corollary 2 that the postdefault decline in credit is stronger in countries where creditor rights are stronger, banks hold more public bonds, and foreign borrowing is larger. One interesting implication of Table II is that institutions and bondholdings seem to explain not only the severity of postdefault declines in credit across countries, but also whether these declines occur at all. Note that, once the interactive terms are introduced into the regression, the coefficient on default turns from negative to positive, suggesting that default may actually increase private credit in countries where financial institutions are weak and banks hold few public bonds.32 This prediction is intuitive from a theoretical standpoint, since defaults increase the total amount of resources available in a country: if the banking system is relatively unaffected by a default, it seems plausible that private credit should increase in its aftermath. In the Internet Appendix we report results from estimating a version of equation (20) with a different dependent variable, the percentage change in private credit. The results are qualitatively similar to those found in Table II and imply that a sovereign default is associated with a 7.6% decrease in private credit (from column (1) of Table IA-IV); that a one-standard-deviation increase in banks’ bondholdings in a defaulting country is associated with an 11.5% larger decrease in private credit (from column (2)); that a one-unit increase in the creditor rights score in a defaulting country is associated with an 11.9% more severe reduction in private credit (column 3); and that a one-standarddeviation increase in foreign liabilities is associated with a 63% more severe reduction in private credit. Although the quantitative effects are large, the statistical significance is somewhat reduced, perhaps reflecting the larger variability of the private credit variable when it is not scaled by GDP. Finally, in the Internet Appendix we report results from our propensity score estimation with matching. Compared with country-year pairs matched by GDP per capita
+31 In Table II, we find one influential observation in column (2), namely, Panama in 1997, and we present the results without this observation. Results are also robust to performing appropriate versions of weighted least squares. 32 The coefficients in column (3) suggest that the effect of default on private credit is zero or slightly positive for countries having a creditor rights score of zero or one and negative for countries having a creditor rights score of two, three, or four, confirming with formal regression analysis the pattern already evident from the raw data in Figure 7.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 853
+growth, unemployment growth, default risk, inflation, exchange rate depreciation, and occurrence of banking crises, country-years in default experienced a more severe decrease in private credit of 2.9% of GDP; this decrease was 2.4% of GDP more severe in countries with above-median bank bondholdings and 2.7% of GDP more severe in countries with a creditor rights score of two or higher. Overall, the results in the Internet Appendix complement and corroborate the results found in Table II that default is associated with a decrease in private credit, which is larger in countries with higher bank bondholdings and with higher creditor rights.
+C. Ex Ante Tests
+We now test the ex ante predictions of Corollary 3, that better financial institutions should allow countries to default less often. We first study the determinants of default by running the probit regression
+Pr (Public Default)
+i,t = F(υt + β1(Creditor Rights)i,t−1
++ β2(Bank Debtholdings)i,t−1 + X′
+i,t−1γ ). (21)
+Our model predicts that β1 < 0 and β2 < 0. One shortcoming of the probit model is that it does not allow us to control for country effects, so we estimate equation (21) by selecting a large number of controls. One concern in this regression is reverse causality: banks may choose to reduce their bondholdings when the probability of default is high. (This is not true in our model, though, where banks are the efficient bearers of default risk.) To reduce this and other endogeneity concerns, we again focus on unanticipated defaults. To do so, we control for the lagged value of default risk and, in line with existing work (Kraay and Nehru (2006), Reinhart and Rogoff (2010)), we also control for lagged GDP per capita growth, the amount of short-term debt as a proportion of GDP, banking crises, and foreign reserves as a percentage of GDP. We further control for the lagged change in foreign liabilities to GDP. A negative sign on this last coefficient is consistent with the complementarity between external private and public borrowing. Unless specified otherwise, our data sources are the WDI and IFS databases. Table III reports results from estimating equation (21). Column (1) shows a negative correlation between the probability of default and bank bondholdings. Column (2) shows a negative correlation between the probability of default and creditor rights. Column (3) shows a negative association between foreign capital inflows to the private sector and the probability of government default. The economic magnitudes are large in all cases. A standard deviation decrease in bank bondholdings makes a sovereign default 15.7% more likely. A standard deviation decrease in creditor rights makes a sovereign default 3.7% more likely. A standard deviation decrease in the extent of private foreign capital inflows makes a sovereign default 31.8% more likely. Control variables have the predicted signs and are statistically significant—in particular, banking crises are positively associated with the likelihood of sovereign default, and
+
+
+854 The Journal of Finance©R
+Table III Determinants of Sovereign Defaults
+The table presents probit regressions for 20 countries over the 1980 to 2005 period. The dependent variable is the probability that the country is in default in year t. The reported coefficients are estimates of the effect of a marginal change in the corresponding regressor on the probability of sovereign default, computed at the average of the dependent variable. Creditor rights is a discrete index ranging from zero to four aggregating creditor rights, following La Porta et al. (1998) and Djankov, McLiesh, and Shleifer (2007). Capital flows is computed as (private liabilities over GDP in year t) – (private liabilities over GDP in year t − 1). Regressions include year fixed effects; standard errors are adjusted for heteroskedasticity using the Huber (1967) and White (1980) correction; pvalues are reported in parentheses below the coefficient estimates. *** indicates significance at the 1% level; ** indicates significance at the 5% level; * indicates significance at the 10% level.
+(1) (2) (3) (4) (5)
+Bank Bondholdingst − 1 −0.157** −0.259*** −0.010*** (0.024) (0.003) (0.000) Creditor Rightst − 1 −0.037* −0.056** −0.002*** (0.053) (0.017) (0.004) Capital Flowst − 1 −0.318* −0.031*** (0.080) (0.000) Banking Crisist − 1 0.373*** 0.090* 0.089** 0.402*** 0.435*** (0.001) (0.055) (0.025) (0.001) (0.000) GDP per capita Growtht − 1 −0.125 −0.141 −0.345** −0.147 −0.030*** (0.324) (0.305) (0.015) (0.311) (0.000) Default Riskt − 1 0.736*** 0.465*** 0.463*** 0.768*** 0.032*** (0.000) (0.000) (0.000) (0.000) (0.000) Short-Term Debtt − 1 0.000** 0.000 0.000 0.000** 0.000*** (0.010) (0.457) (0.239) (0.013) (0.001) Foreign Reservest − 1 0.008*** -0.006 -0.006 0.010*** 0.001*** (0.006) (0.136) (0.105) (0.003) (0.000) No Observations 122 288 305 122 122 No Countries 15 20 20 15 15 No Defaults 29 61 61 29 29 Pseudo-R2 0.480 0.347 0.364 0.514 0.628
+countries with a larger amount of short-term debt as a proportion of GDP are more likely to default, consistent with Reinhart and Rogoff’s (2010) observation that short-term debt bonanzas precede episodes of sovereign default. Overall, the results displayed in Table III confirm that sovereign defaults and banking crises often occur together (Reinhart and Rogoff (2010)), and they show that default risk is lower in countries where creditor rights are stronger, where banks hold more public bonds, and where private capital inflows are larger. Although our data cannot fully establish causality, the results are consistent with our predictions of Corollary 3.33
+33 In particular, the fact that the probability of default decreases with banks’ bondholdings is hard to reconcile with a story in which banking crises cause defaults but not the other way around. This is because the expectations of a bank run and thus of the ensuing public default would presumably become self-fulfilling if banks held many government bonds, generating the opposite sign to that found in Table III.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 855
+IV. Concluding Remarks
+Recent history highlights a close connection between public defaults and private financial markets. In this paper, we develop a theoretical model that characterizes this connection, and we provide empirical evidence that is in line with the model’s main predictions. The general lesson of our analysis is that the willingness of a government to repay its debts, and thus its ability to borrow in the first place, depends on the development of private financial markets. More developed financial markets translate into more severe consequences of public defaults, thereby providing governments with stronger incentives to repay. This effect is especially pronounced in open economies, where the financial sector can attract foreign capital. This mechanism gives rise to a type of complementarity: countries with strong financial institutions attract private sector borrowing, and as a consequence facilitate public borrowing by disciplining the government. The findings of this paper resonate well with recent empirical evidence on the effects of financial globalization (see Kose et al. (2006)), which stresses that the main benefits of successful financial integration are catalytic and indirect. In other words, these benefits are not simply, or even primarily, the result of enhanced access to foreign financing, but are also the result of increased discipline on macroeconomic policies and on public governance more generally. Our model sheds light on these findings for the case of a specific government policy —the decision of whether to default on public debt—and finds that the “disciplining” effect of international financial markets occurs only in countries with good market institutions. At a broader level, our findings point toward a general mechanism through which domestic markets and institutions may shape the impact of financial integration on a variety of public policies. Much in the same way as government defaults, policies like opportunistic devaluations or hyperinflations do not simply affect the returns obtained by foreigners on their investments; they are also likely to have other macroeconomic consequences that inflict losses on some classes of domestic residents. Our analysis suggests that the magnitude of these losses, and hence governments’ incentives to undertake these policies in the first place, are likely to depend on the quality and development of domestic markets. In a nutshell, our analysis suggests that governments might be able to attain some commitment along these policy dimensions by strengthening domestic market institutions, thereby broadening the scope of complementarity between well-functioning private markets and appropriate government behavior.
+Initial submission: April 4, 2011; Final version received: September 13, 2013 Editor: Campbell Harvey
+
+
+856 The Journal of Finance©R
+Appendix A: Theoretical Robustness
+Since our main results are derived in a stylized setting, it is natural to explore some extensions and alternative specifications. Here we discuss how these results are affected when we relax some of our main assumptions.
+Nondiscriminatory enforcement, taxation, and bailouts: A central assumption behind our analysis is that both government repayment and taxation are fully nondiscriminatory. Nondiscrimination in repayment seems to fare well with empirical evidence: Sturzenegger and Zettelmeyer (2008), for example, study a large sample of recent defaults and find no evidence of systematic discrimination in the treatment of domestic and foreign creditors. But nondiscrimination can also be theoretically justified by the fact that, in recent years, most sovereign borrowing has been undertaken through decentralized bond markets and thus has been subject to active trading in secondary markets. Broner, Martin, and Ventura (2010) show theoretically that, in this case, it may be difficult for a government to discriminate among different types of bondholders. To see the logic of this argument, we add two features to our baseline model of the open economy. First, we obviously assume that public bonds can be traded in secondary markets at any point before they are redeemed; these markets are competitive, and are not subject to interference by the government. Second, we assume that the government makes its enforcement and taxation decisions at t = 1, before asset payments and taxation take place, so that there is a lag between the adoption of an enforcement/taxation policy and its execution. Suppose that, under these assumptions, the government tries to enforce payments in a discriminatory fashion. In particular, imagine that it decides to repay bonds that are in the hands of domestic residents while defaulting on bonds that are in the hands of foreigners. In this case, foreigners who hold domestic bonds have an incentive to sell them in the secondary market at any positive price, since they will not collect anything from the government at the time of repayment; thus, the supply of bonds in the secondary market is inelastic and equals 1 − ω0. Who demands these bonds? Clearly, domestic residents do, since they expect to be fully repaid by the government, they are willing to pay up to 1
+p per bond. If the government announces a discriminatory enforcement policy, the only possible equilibrium is one in which, before asset payments are made, foreigners sell all of their bonds to domestic residents in the secondary market at a unit price of 1
+p (this requires that the domestic
+endowment be high enough, i.e., ω1 ≥ 1−ω0
+p+α ). In this case, foreigners are de facto repaid by domestic residents through the secondary market, and the government is unable to discriminate. The only way in which it can avoid making payments to foreigners is to default on all bonds, as we have assumed that it does in the main body of the paper. By the same logic, secondary markets also limit the government’s ability to bail out banks that are hurt by a public default. To see this, say that, at the time of deciding its enforcement and taxation policy, the government defaults on all public bonds. It also decides to tax consumers in order to bail out the
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 857
+banking system, paying a subsidy of 1
+p per defaulted bond as compensation for banks’ losses. But this policy amounts to discriminatory enforcement, since banks are ultimately being repaid in excess of other bondholders. Once again, there are gains from trading bonds in the secondary markets. Before taxation takes place, all bondholders except banks have an incentive to sell their bonds in the secondary market at any positive price. Banks, in turn, are willing to pay up to 1
+p per bond to collect the government compensation. In this manner, all bondholders other than banks are de facto repaid by banks through the secondary market, and the government is thus unable to discriminate through taxation. Risk aversion: We simplify the model by assuming risk neutrality for all agents. Because of this assumption, bankers strictly prefer to hold government bonds rather than foreign bonds or deposits, while savers are indifferent among all existing assets. We assume throughout that, whenever indifferent, domestic residents hold as many bonds as they can purchase. Although the introduction of risk aversion would complicate the exposition along some dimensions, there is also a sense in which it could make our results cleaner. In particular, risk aversion would decrease the bondholdings of savers relative to those of bankers, who would still value the positive correlation between the bond’s payoff and the productivity of investment. Role of public investment: We assume exogenously that the government always wants to undertake public investment, without specifying the role that such investment plays. All of our results would hold if we assumed instead that the public investment serves some productive purpose. It could be thought, for example, that it is the public investment at t = 0 that gives rise to the investment opportunities in the modern sector at t = 1. In this case, our analysis regarding the government’s incentives to repay its debt would still hold: regardless of the reason for which the government borrows and invests, such incentives depend only on the size and distribution of domestic bondholdings. At the same time, our analysis regarding domestic demand for public bonds is also independent of the specific role of public investment. The only thing that would change relative to our current analysis is that it would need to be verified that it is optimal for the government to invest and develop the modern sector. Formally, this requires that
+p · ( AH − 1) · I(ω0 + ω1 − 1) > 1.
+Appendix B: Bondholdings
+To see why, in our model, banks strictly want to hold government bonds, consider the portfolio decision they face at time t = 0. The government is expected to repay fully if AB = AH > 1 and to default fully otherwise. If a bank purchases an amount bB of bonds and holds an amount −dB0 of deposits at t = 0, paying an expected gross interest rate of r0, its expected consumption at
+
+
+858 The Journal of Finance©R
+t = 2 is equal to
+p·
+[ (1 − α) · AH · r H
+d1 rH
+d1 − α · AH ·
+(
+ω1B + bB
+p + d0B · r H
+d0(1) − b
+p
+)]
++ (1 − p) ·
+[
+ω1B + d0B · r L
+d0(0)
+]
+, (B1)
+where r H
+d1 denotes the interest rate on deposits originated at t = 1 when π = H. The first term in equation (B1) reflects that, with probability p, productivity will be high and public debt is repaid. In this state, banks leverage their t = 1 wealth and borrow against their t = 2 modern-sector income to expand their investment. The second term in equation (B1) reflects that, with probability (1 − p), productivity is low and the government defaults. Note that equation (B1) makes explicit the fact that the ex post rate of return on deposits, rπ
+d0(·)
+for π ∈ {H, L}, is affected by the government’s repayment decision. We initially restrict ourselves to the case in which −d0B · rd0 ≤ α · ω1B; under this constraint, repayment by the bank to depositors is noncontingent and rL
+d0(0) = r H
+d0(1) = r0.
+Since the maximum amount of bonds a bank can purchase is ω0 − d0B, its optimal portfolio decision at t = 0 reduces to
+max
+−d0B
+p
+[ (1 − α) · AH · r H
+d1 rH
+d1 − α · AH ·
+(
+ω1B + ω0 − d0B
+p + d0B · r H
+d0(1) − b
+p
+)]
++ (1 − p) ·
+[
+ω1B + d0B · r L
+d0(0)
+]
+(B2)
+s.t. − d0B ≤ α · ω1B
+r0
+.
+The objective in equation (B2) implies that, as long as
+r0 ≤ (1 − α) · AH · r H
+d1
+(1 − p) · (r H
+d1 − α · AH) + p · (1 − α) · AH · r H
+d1
+,
+a bank sets −d0B = α · ω1B/r0, taking the maximum amount of deposits allowed by the constraint to buy bonds. The intuition is simple: at t = 0, the most valuable assets for banks are those that promise to deliver at t = 1 in the event that investment is productive. The government bond has exactly this property, since it only repays in equilibrium if productivity is high. Besides their traditional sector output, banks can also pledge the proceeds of bonds themselves in order to further increase their bondholdings. This additional borrowing, however, will de facto be repaid only if the government repays its debt; otherwise, banks have only their traditional-sector output and can only repay α · ω1B. In a sense, then, whenever banks pledge the proceeds of public bonds and use these proceeds to expand their bondholdings, they are borrowing funds that will have to be repaid fully in the productive state (at an effective contractual rate of r0/ p) and they are investing these funds in bonds that also pay only in that state (at a contractual rate of rb/ p). Hence, whenever r0 > 1,
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 859
+banks are unwilling to pledge income beyond their traditional sector output and bondholdings are given by ω0 + α · ω1/r0. If r0 = 1, on the other hand, banks are indifferent between expanding their bondholdings beyond ω0 + α · ω1 and not doing so. We assume that in the event of such indifference banks expand their bondholdings as much as possible. The same assumption holds for savers throughout, since they are also indifferent between holding government bonds and not doing so if r0 = 1. In a sense, then, we determine the weakest possible conditions under which government debt is sustainable in equilibrium. In the case of the closed economy, equilibrium bondholdings depend on whether α exceeds the threshold identified as α0 in equation (11). If α > α0, then all of the economy’s resources are allocated to banks at t = 0, and bondholdings are consequently given by
+bB = ω0
+β,
+bS = 0. (B3)
+If instead α < α0, r0 = 1 and bondholdings by savers are undetermined. Assuming that savers buy an equal amount of private bonds, bondholdings will be given by
+bB = ω0 + α · ω1B
+1−α ,
+bS = ω0(1 − α − β) − β · α · ω1B
+(1 − β)(1 − α) .
+(B4)
+In the case of the open economy, since the constraint imposed by α0 is irrelevant and we assume throughout that r0 = 1, bondholdings are simply given by
+bj = ω0 + α · ω1 j
+1 − α for j ∈ {B, S} . (B5)
+Appendix C: Government Repayment and Debt Sustainability
+At t = 1, provided that π = H and rd1 = 1, the government maximizes the following welfare function with respect to ρ H:
+[
+β · WB(ρ H) + (1 − β) · WS(ρ H)
+]
++ AH − 1
+1 − α · AH · β · WB(ρ H).
+The actual values of Wj(·) depend, of course, on equilibrium bondholdings. There are three cases to consider:
+(1) α ∈ (0, α0
+], where α0 is as in equation (11). In this case, banks pledge a fraction α of their t = 1 revenues, including the proceeds from public bonds, and invest this fraction in bonds at t = 0. Replacing these
+
+
+860 The Journal of Finance©R
+bondholdings in the welfare function, the government’s first-order condition becomes
+[ω0 − 1] + AH − 1
+1 − α · AH · β · [ω0 + α · ω1B − 1] ≥ 0.
+(2) α ≥ α0, where α0 = ω0·(1−β)
+β·ω1B > α0. In this case, banks can borrow all domestic funds and use them to purchase government bonds only by pledging their traditional-sector income. In this case, given their bondholdings, the government’s first-order condition becomes
+[ω0 − 1] + AH − 1
+1 − α · AH · β ·
+[ ω0
+β −1
+]
+≥ 0.
+(3) α ∈ (α0, α0). In this case, banks pledge some, but not all of their future proceeds from public bonds to acquire bonds at t = 0. This means that, unlike the previous cases, the marginal benefit of repayment is not constant for the government: whereas repayment of the first units of public debt (i.e., for ρ H ≈ 0) goes partly to the banks and partly to their creditors, repayment of the last units of public debt are appropriated fully by the banks (i.e., for ρ H ≈ 1). In this case, welfare as a function of ρ H is given by
+[ (ω0 − 1)
+p · ρ H + ω1
+]
++ AH − 1
+1 − α · AH · β ·
+[ ( ω0
+β −1
+) ρH
+p + ω1B
+− min
+{ α
+( ω0
+β · pρ H + ω1B
+)
+, ω0(1 − β)
+β · p − (1 − p)
+p αω1B
+}]
+,
+where the last term min {·, ·} captures the fact that whether banks are able to repay their nominal debts in full depends on the government’s decision to repay. Since this welfare function is convex in ρ H, comparing its value under ρ H = 0 and ρ H = 1 yields the following necessary and sufficient condition for repayment:
+ω0 − 1 + AH − 1
+1 − α · AH · β ·
+[ ( ω0
+β −1
+)
++ p · ω1B
+− ω0(1 − β)
+β + (1 − p) · α · ω1B − p · ω1B · (1 − α)
+]
+≥ 0,
+which reduces to the same condition as in case 1.
+Therefore, all three cases can be summarized in the condition that
+[ω0 − 1] + AH − 1
+1 − α · AH · β ·
+[
+min
+{
+ω0 + α · ω1B, ω0
+β
+}
+−1
+]
+≥ 0,
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 861
+which explains equation (14) in the main body of the paper. From the previous analysis, we can obtain
+αmin(β) = max
+⎧⎪⎪⎪⎨
+⎪⎪⎪⎩
+1 + ( AH − 1) · β
+AH +
+[ AH − 1 1 − ω0
+]
+· β · ω1B
+, (1 − β) + AH · (β − ω0)
+AH · (1 − ω0)
+⎫⎪⎪⎪⎬
+⎪⎪⎪⎭
+.
+Appendix D: Proof of Proposition 1
+The first part of the proposition follows directly from the discussion in the main body of the text. It remains to be shown that there exist values of β for which αmin(β) < αmax(β), so that the optimal level of public debt is sustainable in equilibrium when AB = AH. Since αmin(0) = αmax(0) = 1/ AH, we proceed by analyzing the conditions under which
+∂ αmin (β ) ∂β
+∣∣∣∣β=0
+< ∂αmax(β)
+∂β
+∣∣∣∣β=0
+,
+which would guarantee the sustainability of debt for low levels of β. From equation (14), we can obtain
+αmin(β) = 1 + ( AH − 1) · β
+AH + ( AH − 1) · β
+1 − ω0
+· ω1B
+(D1)
+and
+∂ αmin (β ) ∂β
+∣∣∣∣β=0
+= ( AH − 1)
+( AH)2 ·
+[
+AH − ω1B
+1 − ω0
+]
+. (D2)
+We assume throughout that
+(
+AH + ω1B
+ω1S
+)
+· (1 − ω0) < ω1B, which guarantees that
+equation (D2) is negative. On the other hand, equation (7) yields
+αmax(β) = (1 − β) · (ω0 − 1 + ω1S · p)
+AH · (ω0 − 1 + p · ω1) + (1 − p) · β · ω1B
+and
+∂ αmax (β ) ∂β
+∣∣∣∣β=0
+=1
+AH ·
+[
+−1 − AH · p · (ω1B − ω1S) + (1 − p) · ω1B
+AH · (ω0 − 1 + ω1S · p)
+] .
+Hence, a sufficient condition for debt to be sustainable for some combination (α, β) is that
+AH − 1 − ω1B
+1 − ω0
+· ( AH − 1)
+AH < −1 − AH · p · (ω1B − ω1S) + (1 − p) · ω1B
+AH · (ω0 − 1 + ω1S · p) ,
+
+
+862 The Journal of Finance©R
+which reduces to
+p > p∗ = AH · (1 − ω0)
+ω1S · ( AH − 1) ·
+⎡
+⎢⎢⎣
+ω1B − (1 − ω0) · AH
+ω1B − (1 − ω0) ·
+(
+AH + ω1B
+ω1S
+)
+⎤
+⎥⎥⎦ . Q.E.D.
+Appendix E: Proof of Proposition 2
+From equation (18) we obtain
+αmin
+open (β) = 1 + ( AH − 1) · β
+AH −
+[ AH · αompienn (β) − 1
+1 − ω0
+]
+· ω1 +
+[ AH − 1 1 − ω0
+]
+· β · ω1B
+, (E1)
+which defines values of α above which public debt is sustainable in the open economy. Note that we have not fully solved for α in order to keep the expression simple. A comparison of equations (D1) and (E1) reveals that, insofar as α < 1/ AH, αompienn (β) < αmin (β). Q.E.D.
+Appendix F: Proof of Proposition 3
+From equation (18) we obtain
+αmin
+open
+(β, r∗
+1
+) = r∗
+1 + ( AH − r∗
+1) · β
+AH −
+[ AH · αompienn
+(β, r1∗
+) − r1∗
+1 − ω0
+]
+· ω1 +
+[ AH − r1∗ 1 − ω0
+]
+· β · ω1B
+, (F1)
+from which it can be verified that αompienn
+(β, r1∗
+) is increasing in r1∗. In particular, when r1∗ → 1, αompienn
+(β, r1∗
+) < αmin (β); this follows from comparing equations (F1) and (D1) and noting that, in the closed economy, rd1 ≥ 1. When r1∗ → AH, on the
+other hand, equation (F1) implies that αompienn
+(β, r1∗
+) → 1 so that it is necessarily higher than αmin (β). Therefore, there exists a value r∗ ∈ (1, AH) for which αompienn (β, r∗) = αmin (β). Q.E.D.
+Appendix G: Ex Ante Complementarity
+This section discusses ex ante complementarity between public and private borrowing, that is, the notion that the supply of public debt makes it possible for the private sector to expand its borrowing and investment relative to the case in which public bonds are not available. In our model, this happens because public debt enables bankers to transfer their wealth to the state of nature in which investment is most productive, while at the same time the private sector cannot produce assets that perfectly substitute government bonds. The main advantage of public bonds in our model is that their payoff is positively correlated with the state of domestic productivity and thus with
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 863
+the investment opportunity of domestic banks. To see this, consider an open economy with r0∗ = r1∗ = 1, and compare the total profits of bankers in our base
+line equilibrium, that is, the one in which the government sets b = 1 and repays only in the high-productivity state, with the profits of bankers in an alternative equilibrium in which the government sets b = 1 but repays in both states. In this last case, the public bond is riskless. Thus, it is equivalent in all respects to the foreign bond. In our setup, because of linearity, comparing welfare amounts to comparing output in both scenarios. A comparison of the above equilibria shows that expected bank profits are greater in the case in which the payoffs of public bonds are state-contingent. This comparison is done by using equation (B1) and comparing (i) the profits of banks when public bonds deliver only in the high-productivity state and bondholdings are given by equation (B5) with (ii) the profits that banks would attain by investing only in riskless bonds. The difference between (i) and (ii) amounts to
+(1 − p) · AH − 1
+1 − α · AH · [ω0 + α · ω1B − 1] > 0. (G1)
+Equation (G1) says that contingent public bonds expand expected output and bank profits according to three components: (i) (1 − p), which is the probability that the government defaults on its debt, (ii) AH−1
+1−α·AH , which captures the differ
+ential return to the bankers’ net worth in the high-productivity state relative to the low-productivity state, and (iii) ω0 + α · ω1B − 1, which captures the net resources that bankers are expected to receive from the government in terms of debt repayment. To see this, note that this last expression is the difference between a fraction (1 − α) of the expected income from bondholdings, as captured by equation (B5), and the expected taxes that each domestic resident has to pay to service the debt. Equation (G1) thus shows that public debt is beneficial for private borrowing because it is state-contingent in a way that enables banks to transfer their resources to the high-productivity state: if either (1 − p) = 0 or ( AH − 1) = 0, as the expression shows, this benefit disappears. One may wonder whether this result is an artifact of our particular assumptions regarding linearity of preferences and technology, and the lack of other privately produced state-contingent assets in the economy. We now argue that, at least qualitatively, this is not the case. With respect to linearity, consider the case in which bankers are risk averse. To simplify matters, we can assume that they care only about consumption at t = 2. We also assume that they are expected utility maximizers, with a utility function u(·), where u′(·) > 0 and u′′(·) < 0. In this case, the expected utility of a banker in the equilibrium with only riskless bonds is given by
+p·u
+( (1 − α) · AH
+1 − α · AH · (ω0 + ω1B − 1)
+)
++ (1 − p) · u (ω1B + ω0 − 1) . (G2)
+Equation (G2) has a very natural interpretation. In the case of riskless bonds, the wealth of banks at t = 1 is state invariant and equal to ω1B + ω0 − 1. In the high-productivity state, this wealth can be levered and invested to generate
+
+
+864 The Journal of Finance©R
+profits: this is captured by the first term above. In the low-productivity state, in contrast, investment does not generate any additional profits. Note that the bankers’ profits are stochastic even when they hold only riskless bonds. The reason, of course, is that the bankers’ wealth may be constant but productivity is not. What would change if bankers had access to a state-contingent bond that only paid off in the high-productivity state? Since we have not changed the technology relative to our benchmark economy, we already know that such an asset could be used by bankers to expand expected borrowing and investment. The only question, then, is whether they would actually use it, that is, whether risk-averse bankers would be willing to hold risky public bonds. By doing so, they would raise expected consumption at the cost of concentrating more of it in the productive state of nature. To see this trade-off, note that—starting from a portfolio of purely riskless bonds—the marginal utility from holding a risky bond would be positive if and only if
+u′
+( (1 − α) · AH
+1 − α · AH · (ω0 + ω1B − 1)
+) ·
+( (1 − α) · AH 1 − α · AH
+)
+≥ u′ (ω1B + ω0 − 1) , (G3)
+where we assume that the individual banker takes the profile of taxation as given. Clearly, whether equation (G3) holds depends on the risk aversion of bankers and on the return of investment in the high-productivity state. If risk aversion is sufficiently low and the return on investment is sufficiently high, bankers will still demand some risky bonds, as their risk will be more than compensated by their effective return. In this case, our qualitative results still apply. Finally, would anything change if private agents were able to provide statecontingent assets? Clearly, if the private sector could supply an unlimited amount of these assets, there would be no liquidity service for public debt to provide. Banks could always transfer their resources, and thus their investment, toward the productive state of nature, independent of the amount of debt issued by the government. To illustrate this point, we can return to our baseline economy (i.e., with risk-neutral agents) and assume that both bankers and savers are able to issue and trade a pair of state-contingent assets, which deliver in either the high- or the low-productivity state. Let us refer to these assets as H- and L-security, depending on the state of delivery, and let us assume that their price is actuarially fair. In such a scenario, bankers at t = 0 will want to sell the maximum possible number of L securities: such a sale would allow each of them to raise (1 − p) · α · ω1B in revenues. Given these revenues and their ini
+tial endowments, bankers would then spend a total of β · [ω0 + (1 − p) · α · ω1B
+]
+to buy the H-securities issued by savers. But if the pledgeable income of savers in the H-state, β · α · ω1s is low, then savers might be unable to issue enough securities to satisfy the demand of bankers at the stipulated price. Note that this is especially likely when α is low, that is, the private sector’s ability to produce these securities is limited by the low quality of financial institutions. In this case, the government can help raise expected intermediation and output by issuing its own H-securities in the form of risky debt.
+
+
+Sovereign Default, Domestic Banks, and Financial Institutions 865
+REFERENCES
+Acemoglu, Daron, Simon Johnson, and James A. Robinson, 2001, The colonial origins of comparative development: An empirical investigation, American Economic Review 91, 1369–1401. Acharya, Viral V., Itamar Drechsler, and Philipp Schnabl, 2013, A Pyrrhic victory? Bank bailouts and sovereign credit risk, Working paper, NYU Stern. A  ̆gca,  ̧Senay, and Oya Celasun, 2012, Sovereign debt and corporate borrowing costs in emerging markets, Journal of International Economics 88, 198–208.
+Aoki, Kosuke, Gianluca Benigno, and Nobuhiro Kiyotaki, 2009, Adjusting to capital account liberalization, Working paper, Princeton University. Arellano, Cristina, 2008, Default risk and income fluctuations in emerging economies, American Economic Review 98, 690–712.
+Arteta, Carlos, and Galina Hale, 2008, Sovereign debt crises and credit to the private sector, Journal of International Economics 74, 53–69.
+Basu, Suman, 2009, Sovereign debt and domestic economic fragility, Working paper, MIT. Beck, Thorsten, Asli Demirg  ̈u ̧c-Kunt, and Ross Levine, 2000, A new database on financial development and structure, World Bank Economic Review 14, 597–605. Bekaert, Geert, Campbell R. Harvey, and Christian Lundblad, 2005, Does financial liberalization spur growth? Journal of Financial Economics 77, 3–55.
+Belsley, David A., Edwin Kuh, and Roy E. Welsch, 1980, Regression Diagnostics: Identifying Influential Data and Sources of Collinearity (Wiley, New York).
+Bolton, Patrick, and Olivier Jeanne, 2011, Sovereign default and bank fragility in financially integrated economies, IMF Economic Review 59, 162–194. Borensztein, Eduardo, and Ugo Panizza, 2009, The costs of sovereign default, IMF Staff Papers 56, 683–741. Broner, Fernando A., Alberto Martin, and Jaume Ventura, 2010, Sovereign risk and secondary markets, American Economic Review 100, 1523–1555.
+Broner, Fernando A., and Jaume Ventura, 2011, Globalization and risk sharing, Review of Economic Studies 78, 49–82.
+Brutti, Filippo, 2011, Sovereign defaults and liquidity crises, Journal of International Economics 84, 65–72. Caballero, Ricardo J., and Arvind Krishnamurthy, 2001, International and domestic collateral constraints in a model of emerging market crises, Journal of Monetary Economics 48, 513548. Caprio, Gerard, Jr., and Daniela Klingebiel, 2001, Bank insolvencies: Cross-country experience, Working paper 1620, World Bank, Washington, DC. Caprio, Gerard, Jr., Daniela Klingebiel, Luc Laeven, and Guillermo Noguera, 2005, Appendix: Banking crisis database, in Patrick, Honohan, and Luc Laeven, eds.: Systemic Financial Crises: Containment and Resolution (Cambridge University Press, Cambridge, UK). Diamond, Douglas W., 1984, Financial intermediation and delegated monitoring, Review of Economic Studies 51, 393–414.
+Djankov, Simeon, Caralee McLiesh, and Andrei Shleifer, 2007, Private credit in 129 countries, Journal of Financial Economics 84, 299–329.
+Eaton, Jonathan, and Mark Gersovitz, 1981, Debt with potential repudiation: Theoretical and empirical analysis, Review of Economic Studies 48, 284–309. Eaton, Jonathan, and Raquel Fernandez, 1995, Sovereign debt, in Gene, Grossman, and Kenneth S., Rogoff, eds.: Handbook of International Economics III (Elsevier, North-Holland, Amsterdam). Gertler, Mark, and Kenneth S. Rogoff, 1990, North-south lending and endogenous domestic capital market inefficiencies, Journal of Monetary Economics 26, 245–266. Gertler, Mark, and Nobuhiro Kiyotaki, 2010, Financial intermediation and credit policy in business cycle analysis, Working paper, NYU. Guembel, Alexander, and Oren Sussman, 2009, Sovereign debt without default penalties, Review of Economic Studies 76, 1297–3120.
+
+
+866 The Journal of Finance©R
+Holmstro ̈m, Bengt, and Jean Tirole, 1993, Market liquidity and performance monitoring, Journal of Political Economy 101, 678–709.
+Huber, Peter J., 1967, The behavior of maximum likelihood estimates under non-standard conditions, in Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability (University of California Press, Berkeley, CA).
+International Monetary Fund (IMF), 2002, Sovereign Debt Restructurings and the Domestic Economy Experience in Four Recent Cases.
+Kose, M. Ayhan, Eswar Prasad, Kenneth Rogoff, and Shang-Jin Wei, 2006, Financial globalization: A reappraisal, Working paper, International Monetary Fund. Kraay, Aart, and Vikram Nehru, 2006, When is external debt sustainable? World Bank Economic Review 20, 341–366. Kumhof, Michael, and Evan Tanner, 2008, Government debt: A key role in financial intermediation, in Carmen M. Reinhart, Carlos Ve ́gh, and Andres Velasco, eds.: Money, Crises and Transition, Essays in Honor of Guillermo A. Calvo (MIT press, Cambridge, MA).
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert W. Vishny, 1998, Law and finance, Journal of Political Economy 101, 678–709.
+Lane, Philip R., and Gian Maria Milesi-Ferretti, 2007, The external wealth of nations mark II: Revised and extended estimates of foreign assets and liabilities, 1970–2004, Journal of International Economics 73, 223–250.
+Matsuyama, Kiminori, 2004, Financial market globalization, symmetry-breaking, and endogenous inequality of nations, Econometrica 72, 853–884. Moody’s, 2007, Sovereign default and recovery rates, 1983-2007. Available at https://www. moodys.com/sites/products/DefaultResearch/2007100000482445.pdf. O’Brien, Yueh-Yun C., 2007, Reserve requirement systems in OECD countries, in Finance and Economics Discussion Series (Division of Research & Statistics and Monetary Affairs, Federal Reserve Board, Washington, DC). Reinhart, Carmen M., and Kenneth S. Rogoff, 2010, This Time Is Different: A Panoramic View of Eight Centuries of Financial Crises (Princeton University Press, Princeton, NJ). Reinhart, Carmen M., and Kenneth S. Rogoff, 2011, From financial crash to debt crisis, American Economic Review 101, 1676–1706.
+Reinhart, Carmen M., Kenneth S. Rogoff, and Miguel A. Savastano, 2003, Debt intolerance, Brookings Papers on Economic Activity 1, 1–74.
+Sandleris, Guido, 2009, Sovereign defaults, credit to the private sector, and domestic credit market institutions, Working paper, Universidad Torcuato di Tella. Sturzenegger, Federico, and Jeromin Zettelmeyer, 2006, Debt Defaults and Lessons from a Decade of Crises (MIT Press, Cambridge, MA). Sturzenegger, Federico, and Jeromin Zettelmeyer, 2008, Haircuts: Estimating investor losses in sovereign debt restructurings, 1998-2005, Journal of International Money and Finance 27, 780–805. White, Halbert S., 1980, A heteroskedasticity-consistent covariance matrix estimator and a direct test for heteroskedasticity, Econometrica 48, 817–838.
+Supporting Information
+Additional Supporting Information may be found in the online version of this article at the publisher’s web site:
+Appendix S1: Internet Appendix.

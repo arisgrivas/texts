@@ -1,0 +1,641 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/287216822
+A tentative estimation of the Greek terms of trade in the 19th century (1851
+1914)
+Chapter · January 2013
+CITATIONS
+3
+READS
+180
+1 author:
+Sokratis Petmezas University of Crete
+69 PUBLICATIONS 120 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Sokratis Petmezas on 28 August 2018.
+The user has requested enhancement of the downloaded file.
+
+
+A tentative estimation of the Greek terms of
+trade in the 19th century (1851-1914)
+Socrates D. Petmezas
+(University of Crete - IMS/FORTH)
+George Dertilis, as an economic historian, has been instrumental in stimulating
+and encouraging research on Greek historical statistics. Already in his first book1, he
+had shown his active interest in the global quantitative picture of the 19th century
+economy. Later, he collected and published in French reliable quantitative
+demographic and economic data on the Greek 19th century economic history, making
+them available to the international academic community2. His path-breaking book on
+19th century budgets has demonstrated, beyond any doubt, that it was possible for
+Greek historians to collect and assess long series of reliable data on the Greek
+economy3. The ongoing research and publications on Greek historical statistics,
+initially financed by the Historical Archives of the National Bank of Greece and later
+also supported by the Centre for Planning and Economic Research, is in fact the
+result of his relentless organising efforts and pragmatist vision. Without his visionary
+realism, such a coordinated research group bringing together scholars, like Kostis,
+Kostelenos and others, would have been impossible. The Gross Domestic Product,
+public revenues and expenses, the Public Debt and Monetary data have been part of
+this huge research project, whose end results are being actually published. Almost all
+the available financial data of the Greek state have been collected and assessed. New
+studies on Greek historical statistics are developing directly motivated and inspired by
+1
+Cf. G.Dertilis, Κοινωνικός μετασχηματισμός και Στρατιωτική Επέμβαση (1880-1909), [Social
+Transformation and Military Intervention, (1880-1909)] Athens, Exantas, 1977.
+2 Cf. G.Dertilis, (ed.) Banquiers, usuriers et paysans. Réseaux de crédit et stratégies du capital en
+Grèce (1780-1930), Paris, Fondation des Treilles, Éditions la Découverte, 1988.
+3 Cf. G.Dertilis, Ατελέσφοροι ή τελεσφόροι. Φόροι και εξουσία στο Νεοελληνικό Κράτος, [Taxation
+and Power in the Modern Greek State] Athens, Alexandreia, 1993.
+
+
+this research. It will be impossible to assess the achievements of Greek Economic
+History without underlining the pivotal role of George Dertilis.
+2
+
+
+Curiously, foreign trade statistics have been an exception, in spite of the fact
+that official published data have been long available. The 19th century Greek foreign
+trade statistics were assessed by Maria Synarellis twenty-five years ago. Her
+postgraduate diploma in Paris has been the core of an innovative article4, which has
+been limited to a handful of publications of primary data available in French libraries.
+She has been able to identify both the major trend of Greek imports and exports and
+the chronic deficit of Greek balance of trade, and to correctly grasp the composition
+of the exported and imported goods in major categories (agricultural alimentary
+products, agricultural and mineral raw materials, manufactures). Her work's major
+flaw is that she picked as reference points, for calculating mean annual rates of
+growth, commercial years that were not of the same character. She calculated rates of
+growth between trough and peak years, instead of calculating consistently between
+trough and trough or peak and peak years. Nevertheless, her estimates5 do not greatly
+differ from my own estimates (Table 1). Furthermore, Synarellis didn’t address the
+question of the fluctuation of the prices of imported and exported goods, and of the
+possible evolution of the country’s terms of Trade. In this paper I will try to address
+this task. A more precise view of the composition of imports and exports by major
+category and by trade partner is given elsewhere6.
+Table 1. The annual cumulated rate of growth of Greek foreign trade in Latin
+Monetary Union Drachmas or French francs, (trough to trough years).
+Imports Exports aggregate per capita aggregate per capita 1853-1880 6,26% 4,42% 1854-1888 8,12% 5,97% 1880-1893 -0,50% -2,88% 1888-1893 -8,83% -10,24% 1893-1909 2,55% 1,69% 1893-1909 3,14% 2,29% 1853-1909 3,63% 1,94% 1854-1909 5,13% 3,43%
+4
+Cf. M.Synarellis, “Το Εξωτερικό Εμπόριο της Ελλάδας κατά το 19o αιώνα”, [The Foreign Trade of
+Greece in the 19th century] Historica, 1/2 (1984), pp.349-370.
+5 Ibid, p.352.
+6 S.Petmezas, “Foreign trade and capital flows in 19th century Greece”, in E.Eldem and S.Petmezas
+(eds.), The Economic Development of Southeastern Europe in the 19th Century, Athens, Alpha Bank
+Historical Archives, 2011, pp.460-468.
+3
+
+
+Data quality and limitations
+The foreign trade statistics are notoriously untrustworthy, and this have been
+widely known7. In general, any corpus of collected statistical data has always been
+(and still is) liable to under- or over-evaluation. In reality, collected statistical data are
+no more than tentative estimates of unknown real magnitudes. The choice and use of
+price deflators to calculate values and indices, further aggravates the problem of the
+precision and comparability of data. This shortfall is particularly exacerbated in the
+case of trade statistics for two reasons.
+1. Data on imported and exported goods are usually collected by toll officers
+or authorities controlling the legal flows of trade. Any traffic of goods that bypasses
+the controlled points of entry (i.e. the contraband trade) is not assessed. The higher the
+tariffs the larger the incentive to escape legal transportation networks. This may,
+accordingly, lead to serious under-evaluation of the volume of traded goods.
+Furthermore, even if registered quantities are relatively precise, price deflators (i.e.
+the estimated values of each unit of imported and exported goods) can only be gross
+reflections of the real market prices. The values per unit of imported and exported
+goods declared by the merchants themselves were of little practical use. Greek toll
+authorities made use of ‘common’ price deflators for major imported and exported
+goods every year. Furthermore, these deflators have not always been adjusted quickly
+enough, to reflect the real change in the average annual prices in the import-export
+markets. The steep plunge of the price of the exported currants, in August 1893, was
+not officially taken into consideration in the publication of foreign trade statistics
+before 1894, even though currants may have contributed to little less than half the
+registered total value of Greek exports8.
+2. Furthermore, the toll officers registered only the first port of destination, or
+the last port of call, of all vessels leaving from, or arriving in, Greek ports9. This was
+7 Cf. A.Ott, Dictionnaire des sciences politiques et sociales comprenant la politique, la diplomatie, le
+droit naturel, le droit des gens, les rapports de l’Église et de l’État, l'administration, les finances, la
+police, la force armée, l'économie politique et la statistique, 3 tomes, Paris 1854, pp.1192-94.
+8 Cf. Petmezas, op. cit., p.449 (note 6).
+9 Much in the same way all goods imported (and exported) by means the overland trade via the
+Ottoman Empire were accounted for as Ottoman imports (or as exports towards the empire).
+4
+
+
+clearly reflected in the distribution of the country's trade partners, as observed in the
+officially published data. In other words, the estimation of the percentage part of each
+trade partner of Greece is untrustworthy, especially for the earlier years. This makes
+the task of controlling the precision of Greek data (through comparison with foreign
+trade data of its trade partners) more difficult.
+These remarks are not meant to negate any utility to foreign trade statistics. On
+the contrary, these are some of the most useful and meaningful statistical data
+collections at our disposal. We must nonetheless stress the following points:
+Registered volumes of exports and imports are more secure than their registered price
+deflators (and their calculated values). Quality of data was improved in more recent
+years, when statistical data have been more detailed and their precision can be more
+easily checked.
+One should add that, in the case of Spain, Portugal and the Ottoman Empire,
+researchers have compared their respective official foreign trade statistical data with
+relevant statistical data of their major trade partners, and have proven that the exports
+of these three countries were under-estimated, and that consequently their trade
+deficits (or surpluses) were also under- (or over-)estimated10. I do not know whether
+this is also the Greek case, but I do not think that such a cross-examination of data
+would change the fact that Greece ran a chronic trade deficit, or that the general trend
+and the major fluctuations of imports and exports observed will be significantly
+altered.
+Data on Greek foreign trade consist of the annual “Tables of Foreign Trade”
+for the Kingdom of Greece, published annually from 1858 to 1875 and from 1886 to
+the present day. Foreign Trade Tables were published in the official Government
+Journal since 1851, with the exception of the years 1855-5611. The ten years gap
+(1876-1885), due to budgetary cuts that dismantled the official statistical service,
+which created the annual statistical tables, is very partly recuperated by the
+estimations of the Finance Ministry12 or the later publications of the Greek General
+Statistical Service. Separate Foreign Trade Tables were published for the newly
+10 Ibid., p.448.
+11 Ibid., p.449-450.
+12 Cf. Δελτίο Υπουργείου Οικονομικών [Bulletin of the Ministry of Finance], 1/1-2 (Sept.-Oct.1908).
+5
+
+
+annexed northern provinces for the years 1913-191513. Synarellis14 and Petrakis &
+Panorios15 have only used a part of these published data to collect and build their data
+series16. These series are not fundamentally different from those that I use in the
+present article. My data series stems directly from the originally published data, and it
+is corrected (or amended) when necessary17.
+The price deflators provisionally adopted in this paper are those of the “Tables
+of Foreign Trade”, in spite of their deficiencies. No other long term price series is
+available. The data collected by Mitrophanis and Pizanias18 cover only a handful of
+import and export products, for a smaller number of years, and cannot be used as an
+adequate substitute for the ‘official’ price deflators. Ideally one should cross-check
+Greek exports and imports to and from each foreign trade partner, with foreign trade
+data originating from the statistical services of these ‘more advanced’ countries
+(whose bureaucratic administrations were usually more efficient and better organized)
+and establish a more complete and precise series of exchanged goods, in terms of
+volume and price deflators. Of course, in this case the cost of freight and insurance
+13 There are also separate publications of the Foreign Trade Tables of the autonomous Cretan
+Principality for the years 1898-1912, cf. E.Perakis, “Το εξωτερικό εμπόριο της Κρήτης κατά την
+περίοδο της Αυτονομίας (1898-1912)” [The Foreign Trade of Crete during the period of
+Autonomous Rule (1898-1912)], in Th.Detorakis and A.Kalokairinos (eds.) Η τελευταία φάση του
+Κρητικού ζητήματος, [The last phase of the Cretan Question] Heraklion, Hetaireia Kretikon
+Historikon Meleton, 2001, pp.279-298.
+14 Cf. Synarellis, op.cit., p.354.
+15 Cf. P.Petrakis (with Ch.Panorios), Τα σημεία καμπής στη δραστηριότητα της Ελληνικής Οικονομίας
+(1840-1913), [The Turning Points of the Activity of the Greek Economy (1830-1914)] Athens,
+Cultural Foundation of the National Bank of Greece, 1992, p.191-192.
+16 Petrakis and Panorios (op. cit., p.190-1), have made a useful contribution of providing a published
+series of the total value of Greek Imports and Exports, which is based on publications of the Greek
+General Statistical Service. It should be noticed that copying/typing errors for the years 1872 and
+1906 were made, and they are important, because the trade deficit of these years is erroneously
+transformed into a trade surplus!
+17 To do so I have crosschecked the detailed published data for each year.
+18 Cf. P.Pizanias and G.Mitrophanis, Κίνηση Τιμών στην Ελλάδα, ιθ’-αρχές κ’ αιώνα, [Price
+Movements in Greece, 19th-early 20th centuries] 2 vols, Athens, Cultural Foundation of the National
+Bank of Greece, 1991.
+6
+
+
+should have been added to exports to Greece or subtracted from imports from
+Greece19. This has not been done in our case. Our approach is thus a first effort to
+estimate Greek Terms of Trade.
+General trends
+Greek export trade showed, on a per capita level, a rapid and relatively
+constant growth until the late 1880s and the subsequent currant crisis (from 1893
+onwards). From trough to trough the annual cumulated rate of growth was 5.97%
+(1854-1888) and each trough is observed at a clearly higher level than the preceding
+one20. Rising international demand for currants (and the few other labour-intensive
+exported agricultural goods, like wine, olive oil and tobacco) was the prime mover of
+this phenomenon. For their part, imports were mostly related to domestic income
+fluctuations. Wheat, and other staple food (like pulses, colonial goods and salted fish),
+formed the largest part of imports and, while having low income elasticity, may have
+suffered from income depression since the early 1880s. The rise of imports, from
+trough to trough, rose at about 4.42% from 1853 to 1880. The year 1880 was a turning
+point since all subsequent troughs are observed at a lower level. It is obvious that the
+Great Depression and, then, the economic crisis of the mid-1880s21, had its immediate
+effects on the volume of imports, which show a falling trend from 1880 to 1893 (
+2.88%). In the exports the turning point is the year 1888 and exports fall
+precipitously: -10.24% between 1888 and 1893. Both imports and exports resume
+their upward moving trend after 1893, but they would never again show the explosive
+dynamism of the earlier three or four decades. The rate of growth of imports and
+exports between 1893 and 1909 is 1.69% and 2.29% respectively (from trough to
+19 Cf. S.Pamuk, Ottoman Empire and European Capitalism, 1820-1913. Trade, Investment and
+Production, Cambridge, Cambridge University Press, 1987, appendices 1 and 2, for an example and
+discussion. More detail is offered in S.Pamuk, Trade, Foreign capital and the peripheralization of
+the Ottoman Empire, 1830-1913, unpublished Ph.D., University of California, Berkeley, 1978.
+20 We have calculated all values and prices in terms of Latin Monetary Union drachmas, which was in
+metal content equal to the French franc.
+21 Since 1885, the Greek banking sector greatly reduced the volume credit offered to merchants, cf.
+S.Thomadakis, Πίστη και εκχρηματισμός της Οικονομίας. Προεξοφλητικός δανεισμός και Εθνική
+Τράπεζα (1860-1900), [Credit and Monetization of the Economy. Discount Finance and the National
+Bank] Athens, Cultural Foundation of the National Bank of Greece, 1981, p.273 sq.
+7
+
+
+trough). In the long run, exports rose 75% faster than imports (exports per capita rose
+at a rate of 3.43% annually, between 1854-1909, as against 1.94% for imports,
+between 1853-1909 ) (see Figure 1). This periodisation differs little from the one
+observed by Pamuk22 in the Ottoman case. The only difference stems from the fact
+that Greek exports continued unabated in the 1880s, thanks to the rising French
+demand for inedible currants and other raw materials for their wine industry, while the
+Ottoman exports felt the impact of Great Depression immediately after 1873.
+Figure 1 The per capita value of Greek imports and exports (in Latin Monetary Union
+Drachmas per capita)
+I have elsewhere insisted on the fact that this last (post 1893) period must be
+clearly dissociated from the earlier one (ca.1850-1893) in one more respect. In the
+earlier period the value of international trade23 as a percentage of the Gross Domestic
+Product steadily rose to exceed 20% in ca.1880 (higher than other more developed
+Mediterranean countries)24. On the contrary, in the post-1893 period, this percentage
+fell and remained lower than the comparative index of other Mediterranean countries,
+in spite of the fact that Greece experienced a period of rapid output and income
+growth. The earlier high percentage of international trade per GDP was not a mark of
+the growing integration of the country into the world markets, but of the relatively
+low level of internal market integration.
+The steady long term growth of Greek export trade in the larger part of the 19th
+century (1850-1890) was due to a few export goods, mainly labour intensive
+agricultural products and some minerals, which were traded for manufactures,
+colonial goods and land intensive staple agricultural products. Greece ran a large
+general trade deficit, but it also had a steady agricultural trade surplus25. The structure
+of the Greek international trade was based on a relatively small number of goods and
+changed little over time in this period. All this makes it relatively safe to estimate the
+terms of trade.
+22 Cf. Pamuk, Ottoman Empire..., pp.27-36.
+23 I define international trade as the sum of imports and exports divided by two. In Greece with its
+chronic trade deficit it is always higher in value than exports and lower than imports alone.
+24 Cf. Petmezas, op. cit., p.470 (table 12.6).
+25 Ibid., p.460.
+8
+
+
+Estimating the Greek terms of trade
+Usually, the terms of trade for countries with a large number of imported and
+exported goods change little over time because any radical change in the price of an
+imported or exported item has little effect on the overall price index. On the contrary,
+in a small country, like the 19th century Kingdom of Greece, whose international
+trade depended on only a few exchanged items (currants, wine, olive oil, wheat and
+some minerals) any significant change in the price or demand of one or two products
+had a large impact on the overall value of imports and exports and subsequently may
+have caused important income effects.
+Likewise, the fact that only a few products covered the greatest part of the
+aggregate value of imports and (especially of) exports of Greece, makes it easier to
+estimate its terms of trade. In the exports side, I have chosen eleven agricultural goods
+(currants, tobacco, olive oil, olives, wine, dry figs, valonia oak, cocoons, silk, hides
+and leather26) and six minerals (all of them present only after 1887) covering in
+average 88% of the registered value of exports in the period 1851-191227. Currants
+alone cover in average 42% of the registered value28.
+Unfortunately, in the imports side, I have only been able to include ten items
+that cover in average a meagre 43% of the value of imports29. These items include six
+agricultural goods (cereals, rice, pulses, hides, cotton and leather), two colonial goods
+(sugar, coffee) and two combustibles (coal, petrol). Imported cereals cover in average
+24% of all imports in value. Unfortunately, no manufacturing goods have been
+included. We can safely, I believe, presume that the unit price of imported
+manufactured goods tended to stagnate or fall as productivity gains in the industrial
+26 Leather and silk may also be considered as manufactured goods
+27 The minimum percent of coverage is 57%, in 1914, and the maximum is 99% in 1904. The 6
+mineral exports were included only after 1887. Yet they did not fundamentally change the
+percentage covered or the general trend and fluctuations of the calculated terms of trade. See Table
+A.1 in annex.
+28 This estimate is made for the years 1851-4, 1857-77, 1881-2 and 1884-1914.
+29 The minimum percent of coverage is 25%, in 1914, and the maximum is 54% in 1871. See Table
+A.1 in annex. Kuznets has considered 40% to be the strict minimum for such historical-statistical
+estimates, cf. Pamuk, Ottoman Empire..., p.255.
+9
+
+
+countries were, even partly, translated in lower, more competitive, prices30. Thus, let’s
+keep in mind that the price index of imported manufactures should have been
+decreasing in the long run.
+The number and character of items included and percent of value covered are
+satisfactory in the export side and relatively representative in the import side. It is of
+particular interest that two items, currants in exports and cereals in imports, cover a
+large part of the overall value of exports and imports respectively. Currants covered
+on average 42% of the value of exports and cereals 24% of imports respectively31, and
+can be used as proxies for a rough estimation of the price indices and terms of trade.
+Thus, I have substituted currants and cereals for the total value and prices of
+aggregate exports and imports for the years of missing data (1876-1886). It is
+noteworthy that the general trend and fluctuations of the substitute indices do not
+differ enormously from that of the estimated net barter terms of trade (see Figure 2).
+Figure 2 The net barter terms of trade.
+The long run trend of the Greek terms of trade
+The general trend of the net barter terms of trade is determined by the ratio of
+the price indices of export and import goods. We can see that the price index of
+imports (Pm) grows steadily until ca.1875 (see table A.1 and figure 3). When
+detailed data are again available, since 1887, this price index follows a mild falling
+trend until the final years before the First World War. Using the price index of
+imported cereals as proxy we get more or less the same trend, and we can assume that
+the shift of the trend began in ca. 1875, probably because of falling freight rates. This
+price index does not include manufactured goods which have probably followed a
+30 This does not necessarily mean that all the gains from productivity growth in the exporting
+countries are transferred to the importing ones, through the concomitant decrease of the prices of
+manufactures. On the contrary, Pamuk (Ottoman Empire..., p.47-8) has shown that in the Ottoman
+case European manufacturers and workers skimmed almost all the gains from such productivity
+increase. An estimate of the double factoral terms of trade (moving in favour of countries exporting
+manufactures) would eventually have demonstrated this fact.
+31 Wheat steadily covered almost 85% of all imported cereals, but since we lack data on imported
+wheat until 1872, I have decided to stick with the aggregate volume and value of imported cereals.
+1
+
+
+falling trend all along32. On the contrary, the price index of exports (Px) fluctuates
+abruptly and is heavily influential on the overall behaviour of the net barter terms of
+trade, especially after 1887.
+Figure 3 The volume and price indices of imports and exports
+In the long run, the net barter terms of trade shows a falling trend until the late
+1860s and then rises gently for a decade. The 1880s is a period of abrupt fluctuations
+(as far as the substitute net barter terms of trade index can show) which ends in the
+catastrophic currant crisis that heavily depressed currant prices for half a decade. The
+net barter terms of trade regains its stamina and gradually grows, until the beginning
+of the second decade of the 20th century. This time the price of the new mineral
+exports (whose part in the total value of exports expanded) were more influential in
+the export price index than the price of currants33.
+In the long run, the evolution of the Greek net barter terms of trade in the 19th
+century does not follow the presumed pathway of depreciation of agricultural exports
+and appreciation of industrial imports, which should turn against the so-called
+peripheral countries. This is hardly a surprise anymore. Jeffrey Williamson has
+recently insisted that the negative trend (observed by Prebisch and others in the
+1950s) is only produced after the turn of the 20th century. The volatility of the
+fluctuations of the index around its trend is according to this author of far greater
+importance in explaining the divergence among developed and underdeveloped
+peripheral economies34. The volatility of the Greek export price index (and
+32 Once again, this is only a speculative hypothesis that needs to be verified. The data on 19 th century
+prices, published by Pizanias and Mitrophanis (op.cit., p1052 and pp.1062-63), offer us only
+relatively long series of current drachma prices of blue and yellow “strantza” tissues in the market of
+Piraeus, since 1884 and 1895 respectively. If we deflate the prices and express them in golden terms
+(in French Francs) they both show a rising trend since circa 1896. The available data on blue
+‘strantza” tissues, indicate a previous falling trend from 1884 to 1896. For the ottoman case and the
+price index of imported textile manufactures, which is showing a falling trend, cf. Pamuk, Ottoman
+Empire..., p.174-5: Table A2.2.
+33 This makes the substitute net barter terms of trade much less representative of the overall movement
+of the index in the post 1893 period than before that date.
+34 Cf. J.Williamson, “Globalization and the Great Divergence: terms of trade booms, volatility and the
+poor periphery, 1782–1913”, European Review of Economic History, 12/3 (2008), pp.355–391.
+1
+
+
+consequently of the net barter terms of trade) points to this direction, but this question
+can not be raised in this paper.
+Furthermore, Greece is not a good example of a peripheral economy exporting
+low value added agricultural and importing high value added industrial goods. The
+country was also a major importer of land-intensive agricultural products and an
+exporter of labour intensive agricultural products. Its major export product, currants (a
+quasi natural monopoly), was favoured by a relatively inelastic international demand
+protecting it, from abrupt fluctuations of the exported volume of currants, until the
+1890s35.
+Figure 4 The income terms of trade
+In fact, until the early 1890s, Greek trade suffered from the price volatility of
+its major export good (currants) but this did not hamper its volume growth (Qx),
+which seems to increase until 1890 (see figure 3). The income terms of trade,
+produced by multiplying the net barter terms of trade by the estimated volume of
+exports index (Qx), measures the gains (or losses) of a country from foreign trade. In
+the Greek case, the income terms of trade followed an ascending trend until the
+outbreak of the currant crisis (see figure 4).
+The currant crisis led to a complete reverse of the trend. Between 1891 and
+1895, the income terms of trade fell by almost 50%! This measures correctly the
+extremely harsh impact of the adverse evolution of prices and the chronic diminution
+of the volume of exported currants. The income terms of trade stagnated until 1903
+and begun their rapid ascent after 1903-1905. The evolution of the income terms of
+trade after 1900 is decoupled from the evolution of its substitute index (which, I
+repeat, is produced using solely the currant export trade as proxy). Once again (as in
+the case of the net barter terms of trade) the export trade of currants provided, since
+the beginning of the 20th century, the pattern of short term fluctuations but not the
+growth trend of the income terms of trade.
+The above-mentioned evolution is a clear signal of gradual, yet real, changes
+in the Greek foreign trade. Greek export trade became less dependent on just one
+product (currants). At the same time the ratio of the value of international trade to the
+35 See on the question, cf. Petmezas, op. cit., p.455-457.
+1
+
+
+gross domestic product slightly regressed, because foreign trade grew less rapidly
+than the domestic output. The national market of goods and services became more
+integrated, while the economy remained strongly related to international markets.
+Greece profited from world trade more than the Ottoman Empire, in spite of the fact
+that it depended excessively on just one product for the whole 19th century. This
+favourable development was most probably due to the capacity of the Greek
+economy, in the beginning of the 20th century, to reply more adequately to the
+challenges of international markets and, thus, to maintain its modest position in the
+international division of labour. This again is a story best explained by George
+Dertilis36, himself, than anyone else.
+.
+36 Cf. G.Dertilis, Ιστορία του Ελληνικού Κράτους (1830-1920), [History of the Greek State (1830
+1920)] 2 vols, Athens, Hestia, 2005.
+1
+
+
+Annex Tables of calculated indexes
+Table A.1 Price indexes for Greek Foreign Trade (with number of items included and percentage of
+exports and imports covered). Base year = 1900.
+Price Indexes of Exports P(x) Price Indexes of Imports P(m) no items % covered Paasche Laspeyres Fischer no items % covered Paasche Laspeyres Fischer 1851 7 89% 40 11 20 5 32% 99 11 34 1852 7 69% 54 6 18 5 47% 109 16 42 1853 7 91% 57 7 20 5 31% 115 8 31 1854 7 90% 54 5 17 5 45% 124 13 40 1858 11 93% 60 20 34 8 37% 115 20 48 1859 11 90% 69 19 36 9 41% 110 26 54 1860 11 94% 56 21 35 9 41% 120 30 60 1861 11 92% 59 22 36 9 38% 117 25 54 1862 11 92% 53 22 34 9 39% 114 24 52 1863 11 88% 50 17 29 9 40% 122 31 61 1864 11 83% 50 18 30 9 37% 126 28 59 1865 11 89% 58 31 42 8 45% 117 47 74 1866 11 89% 53 31 41 8 49% 120 52 79 1867 11 91% 55 38 46 9 48% 126 50 79 1868 11 84% 47 29 37 9 40% 117 41 69 1869 11 87% 62 35 46 9 46% 127 53 82 1870 11 82% 59 26 39 9 46% 122 54 82 1871 11 92% 64 50 56 9 54% 127 72 95 1872 11 84% 60 40 49 9 53% 130 72 97 1873 11 92% 66 50 58 9 53% 142 67 98 1874 11 96% 66 53 59 9 50% 147 68 100 1875 11 97% 68 63 65 9 50% 143 79 106 1887 13 77% 63 85 73 7 49% 112 112 112 1888 13 83% 61 85 72 7 41% 109 77 92 1889 16 86% 58 99 76 10 46% 113 105 109 1890 16 90% 60 92 74 10 40% 109 84 96 1891 16 99% 59 113 82 10 42% 109 103 106 1892 16 93% 61 82 71 10 40% 108 82 94 1893 16 67% 41 63 51 10 48% 109 76 91 1894 16 92% 43 73 56 10 47% 110 90 100 1895 16 87% 42 68 53 10 48% 116 90 102 1896 16 92% 41 72 54 10 47% 111 95 103 1897 16 96% 63 84 73 10 49% 109 98 103 1898 17 90% 60 84 71 10 47% 107 113 110 1899 16 90% 62 90 75 10 43% 100 97 99 1900 17 90% 100 100 100 10 44% 100 100 100 1901 16 90% 70 90 79 8 41% 100 100 100 1902 16 92% 54 78 65 8 41% 103 98 100 1903 15 94% 58 87 71 8 40% 97 94 95 1904 15 100% 64 97 79 8 35% 97 82 89 1905 15 98% 64 88 75 8 36% 96 88 92 1906 16 96% 77 127 99 8 38% 88 95 91 1907 16 93% 75 117 94 8 39% 88 100 94 1908 16 94% 76 111 92 7 39% 87 103 95 1909 15 95% 74 103 87 7 39% 88 93 90
+1
+
+
+1910 14 93% 85 144 111 7 43% 91 119 104 1911 16 84% 83 127 103 7 45% 100 136 116 1912 14 81% 85 127 104 6 39% 107 107 107 1913 13 80% 82 102 92 6 41% 106 127 116 1914 13 57% 81 109 94 7 25% 109 136 122
+Table A.2 Volume indexes of exports, net barter and income terms of trade.
+base year = 1900.
+Volume index of Exports Q(x) Net barter terms of trade (nbtot) Income terms of trade (itot) Paasche Laspeyres Fischer Paasche Laspeyres Fischer Paasche Laspeyres Fischer 1851 35 26 31 40 92 61 14 24 19 1852 18 12 15 50 39 44 9 5 6 1853 20 12 16 49 82 63 10 10 10 1854 15 10 12 44 40 42 6 4 5 1858 35 33 34 52 97 71 18 32 24 1859 30 27 28 63 72 67 19 19 19 1860 41 38 40 47 70 58 19 27 23 1861 41 37 39 50 89 67 21 33 26 1862 45 41 43 47 92 66 21 38 28 1863 33 34 33 41 56 48 13 19 16 1864 38 36 37 39 65 51 15 23 19 1865 61 54 57 49 67 57 30 36 33 1866 55 59 57 44 61 52 24 36 30 1867 77 68 72 44 76 58 34 52 42 1868 68 61 65 40 71 53 27 43 34 1869 67 56 61 48 66 56 32 37 34 1870 50 45 47 48 49 48 24 22 23 1871 93 77 85 51 69 59 47 53 50 1872 77 67 72 46 55 51 36 37 36 1873 83 77 80 46 75 59 39 58 47 1874 83 80 82 45 78 59 37 63 48 1875 111 92 101 47 79 61 53 73 62 1887 128 134 131 56 76 65 72 102 86 1888 131 138 134 56 110 78 73 152 105 1889 148 171 159 51 94 69 76 160 110 1890 136 154 145 55 110 78 75 169 113 1891 170 192 181 54 110 77 92 212 140 1892 124 135 129 56 100 75 70 135 97 1893 121 153 136 38 83 56 46 127 76 1894 140 171 155 39 81 56 54 138 87 1895 129 162 145 36 75 52 46 122 75 1896 137 175 155 37 75 53 51 131 81 1897 125 133 129 58 86 71 73 114 91 1898 127 140 134 56 75 65 72 104 87 1899 133 145 139 62 93 76 83 134 106 1900 100 100 100 100 100 100 100 100 100 1901 123 129 126 70 90 79 86 116 100 1902 133 144 139 52 80 65 69 115 90 1903 144 150 147 60 92 74 86 139 109 1904 152 152 152 66 118 89 101 179 134
+1
+
+
+1905 130 136 133 67 100 81 86 136 108 1906 166 165 165 87 134 108 145 222 179 1907 154 155 155 86 117 100 132 181 155 1908 153 145 149 88 107 97 134 156 145 1909 139 139 139 85 111 97 118 154 135 1910 186 170 178 93 122 106 173 207 189 1911 150 152 151 83 93 88 125 142 133 1912 160 150 155 79 118 97 127 176 149 1913 135 124 129 77 81 79 104 100 102 1914 139 135 137 74 80 77 103 108 105
+Table A3 Substitute indexes of the above variables
+base year = 1900 (Fisher indexes only).
+P(x) % covered P(m) % covered Q(x) `nbtot itot 1851 23 68% 34 22% 39 66 26 1852 14 30% 47 35% 11 31 3 1853 15 36% 27 15% 11 55 6 1854 12 31% 41 30% 7 28 2 1857 47 62% 31 12% 24 150 35 1858 31 53% 31 10% 42 99 42 1859 35 58% 45 17% 37 77 29 1860 33 59% 58 20% 53 57 30 1861 33 55% 45 15% 49 74 36 1862 31 53% 34 10% 54 91 49 1863 29 60% 48 16% 52 61 31 1864 27 50% 43 14% 48 63 30 1865 37 49% 68 24% 70 54 38 1866 39 55% 79 30% 81 49 40 1867 38 49% 72 24% 88 53 47 1868 25 37% 62 19% 81 41 33 1869 40 49% 69 19% 76 57 43 1870 37 51% 76 24% 64 49 31 1871 51 54% 91 29% 101 56 57 1872 47 51% 95 30% 84 50 42 1873 60 62% 89 27% 104 67 69 1874 61 64% 94 27% 107 65 69 1875 60 56% 101 28% 115 59 68 1876 60 73% 80 24% 124 75 93 1877 65 79% 77 20% 117 84 99 1878 42 52% 96 32% 143 44 63 1879 57 71% 90 25% 136 64 87 1880 62 70% 95 29% 132 66 87 1881 62 69% 116 34% 174 54 93 1882 67 64% 91 21% 156 73 114 1883 72 59% 89 18% 164 81 132 1884 51 50% 93 21% 184 55 102 1885 71 62% 114 32% 162 62 101 1886 78 70% 119 34% 182 65 119 1887 76 53% 131 38% 186 58 108
+1
+
+
+1888 72 55% 102 28% 191 71 135 1889 69 52% 108 27% 234 64 149 1890 64 50% 98 24% 203 66 133 1891 72 56% 106 24% 255 68 174 1892 59 49% 88 20% 170 67 114 1893 28 23% 90 26% 199 31 62 1894 29 30% 102 28% 217 29 62 1895 29 30% 102 29% 209 28 58 1896 30 33% 101 27% 228 29 67 1897 52 41% 104 28% 150 50 75 1898 55 42% 109 27% 167 50 84 1899 55 40% 101 27% 170 55 93 1900 100 51% 100 26% 100 100 100 1901 64 43% 102 25% 148 63 92 1902 34 28% 101 25% 162 33 54 1903 37 29% 100 24% 161 37 60 1904 44 31% 91 20% 152 48 73 1905 52 40% 97 23% 152 53 81 1906 62 34% 99 26% 169 63 107 1907 58 34% 99 26% 167 59 98 1908 48 26% 94 22% 136 51 69 1909 52 32% 91 23% 142 57 82 1910 51 23% 109 26% 152 46 70 1911 69 33% 116 26% 168 59 100 1912 63 28% 90 18% 152 70 107 1913 58 29% 97 20% 128 59 76 1914 61 22% 104 11% 151 58 88
+1
+
+
+The per capita value of Greek Foreign Trade
+1853
+1873
+1888
+1893
+1909
+1880
+1902
+1884
+1870
+1877
+1854
+1909
+1893
+1888
+0
+10
+20
+30
+40
+50
+60
+70
+1833
+1836
+1839
+1842
+1845
+1848
+1851
+1854
+1857
+1860
+1863
+1866
+1869
+1872
+1875
+1878
+1881
+1884
+1887
+1890
+1893
+1896
+1899
+1902
+1905
+1908
+1911
+1914
+in Latin Monetary Union Drachmas
+Imports Exports
+5.97%
+2.29%
+1.69%
+4.42%
+-2.88%
+-10.24%
+
+
+The net barter terms of trade of Greece
+and its substitute in dashed line
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+1851
+1853
+1855
+1857
+1859
+1861
+1863
+1865
+1867
+1869
+1871
+1873
+1875
+1877
+1879
+1881
+1883
+1885
+1887
+1889
+1891
+1893
+1895
+1897
+1899
+1901
+1903
+1905
+1907
+1909
+1911
+1913
+base year 1900 : 100 (Fischer index)
+
+
+The volume and price indexes of imports and exports
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+1851
+1853
+1855
+1857
+1859
+1861
+1863
+1865
+1867
+1869
+1871
+1873
+1875
+1877
+1879
+1881
+1883
+1885
+1887
+1889
+1891
+1893
+1895
+1897
+1899
+1901
+1903
+1905
+1907
+1909
+1911
+1913
+base year 1900 : 100 (Fischer Index)
+P(x) P(m) Q(x) Q(m)
+
+
+The Income Terms of Trade of Greece
+and its substitute in dashed line
+0
+40
+80
+120
+160
+200
+1851
+1853
+1855
+1857
+1859
+1861
+1863
+1865
+1867
+1869
+1871
+1873
+1875
+1877
+1879
+1881
+1883
+1885
+1887
+1889
+1891
+1893
+1895
+1897
+1899
+1901
+1903
+1905
+1907
+1909
+1911
+1913
+base year 1900 : 100 (Fischer index)
+
+
+View publication stats

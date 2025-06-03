@@ -1,0 +1,643 @@
+Introduction
+The 19th century was a time of profound change in Central and Eastern Europe. In the West, the foundations of modern industrial economy and society had been laid already in the 18th century or even before (North and Weingast, 1989). The lands of Eastern Europe had the mixed fortune of being next-door neighbour to this outpouring of technological and economic growth. As a result, they were exposed to its modernizing influences quite early. At the same time, since they were not the original home of the Industrial Revolution, their institutions had not been developing in the long-term gradual and mutual adjustment that the Western institutions underwent over time. When the East entered the industrial age – mostly in the 19th century – the process entailed a bigger clash with existing structures, was much less gradual and also less enthusiastically embraced. This fact of Eastern Europe’s close proximity – both geographical and cultural – to the main source of economic upheaval, yet its clear distinction from it is what makes the study of this region’s response to the challenges of special interest. The ‘close-but-different’ optics also informed much of the writing on Central and Eastern Europe throughout the last two centuries. Malthus (1798) considered Russia’s poverty closely tied to its practice of high fertility, in contrast to her Scandinavian neighbours. Haxthausen (1846) constructed what became the defining image of the Russian commune as a family-based and harmoniously operating agricultural unit, which supposedly contrasted with the nuclear family, predominant in the industrialized West (Le Play, 1872: 40–44). A similar concept of an extended family holding all its property in common, the Balkan zadruga, came to be viewed even by the budding East-European scholarly community as the quintessential expression of an ancestral form of Slavic family organization, distinct from the West (Bogišić, 1884; Kadlec, 1898; Szoltysek, 2012: 342). By the early
+6
+POPULATION AND LIVING STANDARDS, 1800–1914
+Tomáš Cvrček
+
+
+Population and living standards, 1800–1914 129
+20th century, much of the study of East-European social history fell under the influence of Ostforschung, a research program espousing Pan-German (and later Nazi) ideologies, seeking to find and overemphasize cultural differences between purportedly advanced Germandom and “backward” Slavs (Conze, 1940). After the Second World War, the research into East-European economic and demographic development resumed with new nuance. Modern demographic data revealed Haxthausen’s ideas to be mostly a romantic invention (Dennison and Carus, 2003), while Szoltysek and Zuber-Goldstein (2009) dealt with some of the misrepresentations and misinterpretations of the biased pre-war German research. Still, the works of Hajnal (1965, 1982), Bérend and Ránki (1974) and Mironov and Eklof (2000) continued to find important differences in population development between East and West. The issue of the region’s relative backwardness – its extent, its sources and its consequences – has also shaped economic history research (Gerschenkron, 1962; Good, 1984, 1976; Fellner, 1916; Pribram, 1938; Komlos, 1984, 1989; Schulze, 2000; Cvrcek, 2013). Population change and living standards are deeply inter-related. Narrowly defined, living standards refer to the purchasing power of the general population, that is, the daily consumer goods the people could afford, such as the quantity and quality of food, clothing and shelter. But basic consumption in turn affected things like health and life expectancy. Consequently, aspects of general health, such as morbidity and mortality, are legitimate indicators of the standard of living. At the same time, they are crucial demographic variables. Rising living standards affected many facets of demographic behaviour, such as marriage and fertility. Parents faced new choices, such as how much education to afford for their children, how much child labour to supply to the market, how long children would stay with their parents before moving on to start their own households (if at all), how much influence the parents would have over their children’s marital decisions and many others. By 1914, Central and Eastern Europe encompassed both regions that have undergone an intensive transformation into modern industrial economies, with broad availability of consumer goods, substantial improvements in health care and near-full literacy (such as Bohemia and Silesia), as well as such areas where economic development had barely begun (e.g. Serbia, Bulgaria and parts of Russia).
+Population
+The foremost demographic fact of 19th-century Central and Eastern Europe was long-term population growth. Table 6.1 reports the decadal population totals. Several of the territories experienced a veritable population explosion. In the Czech provinces, Croatia-Slavonia, Dalmatia, and the territory of Poland and Hungary, the population doubled or more over the century. In European Russia, it quadrupled in 1810–1910. In contrast, the populations of Transylvania and Carniola were rather slow growing, occasionally even recording an inter-decade population decrease. Still, they too experienced a long-term increase, as the population growth sped up in the last third of the century.
+
+
+130 Tomáš Cvrček
+TABLE 6.1 Total population in Central, East and South-East Europe, 1810–1910, thousands
+48,791
+7,374
+1,377
+8,676
+632
+18,068
+2,658
+2,649
+2,912
+6,920
+4,338
+26,644
+62,884
+om
+1910
+10,016
+1,898
+160,700
+116,500
+44,916
+ve of
+Does
+g
+udja fr
+vina.
+44,758
+6,674
+9,302
+1,243
+7,890
+580
+16,636
+2,455
+2,432
+16,413
+1,671
+2,494
+6,000
+3,744
+2,504
+eece is inclusi
+1900
+24,750
+132,900
+94,215j
+54,388
+41,155
+ian population includes
+s. Subsequent populations
+Includes Dobr
+14,349
+b
+2,221d
+8,628
+2,250
+1890
+40,811
+1,173
+15,083
+2,162
+5,290i
+6,086
+7,124
+517
+2,200
+1,460
+3,216
+22,854
+117,800
+47,607
+37,485
+ithout Bosnia-Herzego
+The 1890 Bulgar
+der
+oland. i
+e-transition bor
+W
+f
+b
+a
+37,533
+1,107
+6,443
+469
+1880
+5,622
+8,173
+13,796
+2,104
+1,922
+11,266
+1,189
+1,831
+4,540
+2,008
+1,697
+19,632
+97,700
+43,500
+34,623
+The 1890 population of Gr
+d
+c
+oland in pr
+35,730
+5,184
+7,616
+5,930
+443
+1870
+1,045
+13,643
+2,166
+1,869
+1,283
+4,270
+1,458
+16,865
+84,500
+39,231
+31,400
+ison with post-WWI data.
+ovinces without Finland and P
+1860
+32,814
+4,866
+7,150
+989
+5,244
+413
+12,541
+2,171
+1,610
+1,086
+3,940
+1,090
+28,888
+oplica with 303.000 inhabitants.
+opean pr
+74,100
+36,049
+30,647
+4,565
+6,647
+1,009
+4,943
+401
+uity of compar
+1850
+11,621
+2,074
+1,460
+957
+1,006
+13,000
+68,500
+33,746
+27,181
+ot and T
+Includes 50 Eur
+918
+, Nis, Pir
+w for contin
+h
+1840
+28,614
+4,314
+6,239
+4,719
+385
+10,846
+2,079
+1,194
+830
+813
+62,400
+31,126
+26,745
+eflects the acquisition of the Ionian islands in 1864.
+An estimate of an 1800 population of P
+iod.
+e
+1830
+4,097
+5,876
+850
+4,427
+339
+753
+56,100
+24,139
+ar, so as to allo
+28,045
+orld W
+oughout the per
+5,145
+322
+ule thr
+1820
+3,878
+939
+10,426
+48,600
+24,905
+21,239
+), Maddison (2010).
+eek population total r
+st W
+e
+298
+1810
+4,835
+9,000
+40,700
+eflects the 1878 acquisition of Vranje
+The 1870 Gr
+urkey in 1881 with 294,000 inhabitants.
+eated after the Fir
+c
+ian Littoral
+Kingdom
+g
+om T
+s)
+n Rumelia.
+y as cr
+ope
+Bérend and Ránki (1974
+ed fr
+itor
+emained under Ottoman r
+vina
+der
+r
+),
+om the 1897 census.
+f
+wina
+ania
+h
+ies that r
+ta, acquir
+urg Empire
+y–Ancient
+itor
+ovinces
+& Austr
+bsb
+Galicia & Buko
+Data fr
+j
+ian pr
+oatia-Sla
+Mitchell (2003
+ds.
+Austr
+Czech provinces
+onia
+e
+v
+r
+ransylv
+opean Russia
+ed Easter
+efer to the ter
+Carniola
+Dalmatia
+h: T
+Hungar
+mer Ottoman Eur
+ia
+y
+of whic
+Bulgar
+Ha
+oland (1921 bor
+man
+Cr
+Eur
+:
+a
+:
+wly acquir
+oland r
+or
+Bosnia-Herzego
+Serbia
+Romania
+The 1880 population of Serbia r
+ar
+Greece
+F
+P
+Russian Empir
+Ger
+United Kingdom
+Source
+Notes
+ne
+Thessaly and Ar
+of P
+not include ter
+1879 onw
+
+
+Population and living standards, 1800–1914 131
+Table 6.2 shows the region’s record in the context of Europe. The steep decline in the share of West-European population from 1870 onward was mirrored in a corresponding increase in the share of Russia. The long-term population growth of the Russian Empire (1.29% per annum in 1820–1913) significantly outstripped the 0.72% average annual growth of the West. The regions geographically in between were also in the middle statistically. Their population growth rates were closer to the West but above it, and so their population shares mostly fluctuated within a narrow range. From the point of view of demographic accounting, these different historical experiences resulted from the interplay of three factors: fertility, mortality and migration. The 19th century was a time when all three components underwent substantial change. Its starting point was a pre-modern demographic regime where high fertility was matched by high mortality, while migration (especially the longdistance, international kind) was relatively limited. Both fertility and mortality responded to economic conditions, with bumper crops and cheaper foodstuffs resulting in higher fertility and harvest failures in increased mortality (Galloway, 1988; Hammel and Galloway, 2000). A close balance between births and deaths kept overall population growth relatively low. Kárníková (1965) notes, for example, that in 1760s Bohemia, an average married woman gave birth to about 8–10 children, of which only 2.3 (i.e. not much above the replacement ratio of 2.1) survived to adulthood. At the same time, the living standards stayed close to subsistence level because, in the long run, any surpluses were eaten up by increased population. This mechanism, which roughly kept population in line with available resources, is known as the Malthusian Trap (Alter and Clark, 2010: 45). It operated throughout Europe, with some regional variation. One influential approach to understanding
+TABLE 6.2 European population developments, 1820–1913
+Population shares (%) 1820 1850 1870 1890 1913
+Western Europea 59.9 58.5 56.5 53.0 51.0 Central Europeb 10.2 9.8 10.1 10.2 9.5 Southern Europec 7.6 7.2 7.5 7.2 7.4 Russian Empire 22.3 24.5 26.0 29.6 32.1 100.0 100.0 100.0 100.0 100.0
+Average annual growth 1820–1850 1850–1870 1870–1890 1890–1913 1820–1913 rates (%)
+Western Europea 0.74 0.60 0.69 0.83 0.72 Central Europeb 0.70 0.92 1.07 0.70 0.83 Southern Europec 0.64 0.96 0.84 1.13 0.87 Russian Empire 1.15 1.06 1.68 1.36 1.29
+Source: Maddison (2010).
+Note: a includes Maddison’s (2010) 30 West-European countries except Greece, which is included in South European data; b covers the territories of post-WWI Czechoslovakia, Hungary and Poland; c includes Albania, Bulgaria, Greece, Romania and Yugoslavia.
+
+
+132 Tomáš Cvrček
+and explaining this variation was the concept of the Hajnal line. Named after its originator, John Hajnal, this line, running “roughly from Leningrad (as it is now called) to Trieste”, separated two distinct demographic regimes (Hajnal, 1965: 101). To the West of it, women historically married later, with mean age at marriage exceeding 25 years, and they were more likely to remain single for life. In the East, on the other hand, women’s age at marriage was below 25 – even close to 20 – and marriage was nearly universal, with fewer than 5% of women remaining celibate (Hajnal, 1965: Table 6.3). Hajnal drew his evidence from census data from around the year 1900 but argued, referring to numerous smaller demographic studies of earlier times, that this East-West distinction had been in place for more than two centuries. The demographic regimes corresponded to two distinct household formation systems (Hajnal, 1982: 452). In the European Marriage Pattern (EMP) in the West, marriage was tied to the establishment of a separate household by the newlyweds (neolocalism), who then started their own nuclear family, while in the East, brides were brought into their husband’s paternal households, which may have included not only the husband’s parents but also other related married couples and their children (a.k.a. joint or complex household/family). Table 6.3 shows
+TABLE 6.3 Singulate mean age at marriage (SMAM) of women in various Central and East European provinces around 1900
+West of the Hajnal line East of the Hajnal line
+Province SMAM Province SMAM
+Austro-Hungarian Empire
+Alpine provinces 27.2 Hungary 22.1 Bohemia 25.4 Croatia and Slavonia 21.5 Moravia 25.4 Transylvania 21.6 Silesia 25.2 Dalmatia and Istria 23.8 Carniola and Gradisca 25.5 Galicia and Bukovina 23.3 Bosnia and Herzegovina 20.5 Russian Empire
+Estland 26.3 Grodno governorate 22.8 Livland 26.6 Vilno governorate 24.2 Kurland 25.6 Vistula Land 23.0 Kovno governorate 25.4 Volhynia governorate 21.5 Finland 25.6 Romania 20.3 Sweden 27.5 Bulgaria 20.8 Serbia 20.1 German Empire
+Posen 25.3 West Prussia 25.2
+Source: Sklar (1974) for all entries except those for Austria-Hungary, which are based on data from the 1900 census in Österreichische Statistik Vol. 63(3) – Tabelle II (K.K. Statistische Zentral-Kommission, 1903) and Magyar Statisztikai Közlemények Vol. 5 (Magyar Király Központi Statisztikai Hivátal, 1907).
+
+
+Population and living standards, 1800–1914 133
+women’s mean age at marriage in several provinces of Central and Eastern Europe around 1900. It largely bears out Hajnal’s demarcation, if one adopts marriage age at 25 years as the cutoff.1 With the emergence of new and more detailed demographic studies, especially from Central and Eastern Europe, this neat, simple dichotomy developed cracks. Laslett (1977) recognized another distinct familial regime in the Mediterranean region, which also included the Balkans, previously considered typically EastEuropean by Hajnal. This was in turn questioned by Mitterauer (1996: 404), who doubted whether the Balkans even constituted a single unit, let alone belonged to a larger family-type region. Mitterauer (2003: 47–48) also criticized the notion of a clear dividing line by arguing that large swathes of Central Europe represented a zone of transition between East and West. Societies in this intermediate region had been historically exposed in varying degrees to Western modes of landholding and inheritance, brought by German settlers in the Middle Ages (Kaser, 2003). These land ownership institutions determined the prevailing pattern of family formation: the less a society was exposed to the Western (German) agrarian institutions, the less its family system resembled the EMP.2 Rather than a line, then, one should expect a broad West-East gradient with considerable variation, depending on local history of internal colonization and agricultural development. Using a large dataset with greater geographical coverage and historical time span, Dennison and Ogilvie (2014: Tables 6.2–6.5) document such gradient (but not, importantly, a sharp dividing line) for several relevant demographic characteristics, such as lifetime celibacy, women’s age at marriage and household complexity. We can illustrate the diversity of demographic patterns in this region by zeroing in on smaller geographical units than are large provinces. Using census data from 1880 and 1900 for Austria-Hungary, an empire that happened to straddle the Hajnal line (see map in Figure 6.1), one can calculate relevant measures for each civil district (an administrative unit of 50,000–100,000 inhabitants). As a measure of lifetime celibacy, use the proportion of women who were still never married at age 45–49. To proxy for the age at marriage, let us use the proportion of brides younger than 25. Such an exercise uncovers demographic features that are indeed consistent with Hajnal’s argument (e.g. no western district reported a percentage of lifetime celibate women below 5%). But it also reveals such high variation on either side of the Hajnal line that it casts doubt on the whole notion of two distinct demographic regimes. The city of Prague, for example, was a “well-behaved”, west-of-Hajnal-line kind of place: 24.3% women were lifetime celibate and almost 60% of all brides were older than 25. But travel a mere 40 miles south to the district of Příbram and one would find only 7% women who never married and 60% of brides younger than 25 – a rather “eastern” demographic behaviour. Similarly, some 500 km east of the line, the Dalmatian district of Dubrovnik showed a more “western” demographic pattern: lifetime celibacy characterizing 18.5% of women, with 72% of brides over 25. Yet Knin, another Dalmatian district, reported only 2.6% celibate women and 58% of brides under 25. These are obviously cherrypicked counterexamples to Hajnal’s thesis, but they illustrate the substantial variation
+
+
+134 Tomáš Cvrček
+hiding behind the nicely lined-up mean age differences observed in Table 6.3. The range of values observable on either side of the Hajnal line just within the Habsburg Empire alone undermines the notion of a clear east-west dichotomy: across all eastern districts, the proportion of young, under-25 brides ranged from 10% to 75%; in the west, from 10% to 65%. The east and the west were more distinct in terms of lifetime celibacy (eastern districts ranged from 1.3% to 20.8%, western from 5.4% to 60%), but the extremely large celibacy rates in some western districts did not, in fact, mean that those single women abstained from childbearing or family life.3 Much of the persuasive power of Hajnal’s argument derived from data aggregation at the level of large provinces or whole nations. Once the large areas are split into smaller units, the divide becomes less obvious (Szoltysek, 2012: 337). Yet, the notion of a clear East-West distinction played a prominent role in the research into when and how societies moved away from the pre-modern demographic regime to start out on the path of lower fertility, greater investment in human capital, faster economic growth and ultimately higher living standards. Authors such as Clark (2007), De Moor and Van Zanden (2010), Galor (2011) and Voth and Voigtlander (2013) argue that the EMP operating in the West was crucial in jump-starting economic growth there. By way of postponing or entirely forgoing marriage, West-European societies avoided “25–40 percent of all possible births”, and perhaps more (Voth and Voigtlander, 2013: 2227; Clark, 2007: 74). This line of argument posits, quite intuitively on the face of it, that the escape from the Malthusian Trap was easiest in those societies that were not too deeply entrapped in it to begin with. By logical implication, the relative backwardness
+Bohemia
+Silesia
+Moravia
+Galicia
+Hungary
+Bukoina
+Transylvania
+Banat
+Slavonia
+Bosnia Hercegovina
+Croatia
+Carniola
+Istria
+Gradisca
+Tyrol
+Vorarlberg
+Carinthia
+Styria
+Austria
+Upper Lower Austria
+Dalmatia
+Salzburg
+FIGURE 6.1 Austria-Hungary and the Hajnal line
+
+
+Population and living standards, 1800–1914 135
+of Central and Eastern Europe could be explained as a result of its own distinct demographic regime of early and universal marriage, which generated too many mouths to feed and thus condemned the region to long-term stagnation in poverty. Yet, to view the East European family organization as the cause of the region’s economic underdevelopment would be to underestimate the family’s flexibility and variability (Kaser, 2003: 63). This is not just true for the Habsburg lands. Plakans (1983) documents a diversity of family forms and marriage patterns for various Baltic peasant communities, as do Guzowski (2013) for Poland and Todorova (1996) for Bulgaria.4 Similarly, Gruber and Szoltysek (2012: Tables 6.1 and 6.2) report some (though smaller) variation in marital and family behaviours across the different regions of early 20th-century Albania. Even in Russia, Dennison (2003: Tables 6.9 and 6.10) shows that the rural commune of Voshchazhnikovo near Yaroslavl, north of Moscow, had women’s marriage ages at times up to four years higher (but at other times also lower) and celibacy rates considerably higher than were reported, for example, by Czap (1983: Table 6.4) for the village of Mishino in Ryazan province, long considered a typical example of the East-European marriage pattern. Dennison and Ogilvie (2016: 206–207) also warn against overestimating the growth-enhancing features of the EMP when they show that many western areas, such as central and southern France, saw women marry at ages and rates comparable to Poland and Russia. Moreover, the causal link between demography and economy is likely to run strongly in the other direction, from economy to demography.5 These are important considerations in the study of the substantial changes in demographic behaviour, particularly fertility, which took place throughout Europe in the late 19th century. Before that, fertility varied markedly across time and space. Those East-European communities, which did practice early and near-universal marriage, exhibited high fertility because more women were “at risk” of pregnancy, and for longer. For example, in the 18th century, Hungary reported a crude birth rate (CBR) of about 55.1 per 1,000 inhabitants (1777), Russia about 50.0 (Helczmanowski, 1979: 377; Mironov and Eklof, 2000: 80). These values are close to what is considered the maximum biologically feasible fertility. Figures 6.2 and 6.3 report the data on crude birth rate from 1830 onward. The fertility rates in Figure 6.2 were mostly trend-less, subject only to fluctuations caused by exogenous events – wars, harvest failures and epidemics.6 In contrast to that, the countries and provinces in Figure 6.3 experienced fertility decline towards the end of the 19th century. This was most pronounced in the Czech provinces, where CBR declined by 32% from its last peak in 1873 to the beginning of the First World War. In the Austrian provinces, it fell by 26% between 1876 and 1912, in Galicia and Bukovina by 19% from 1884 on and in Hungary by 22% over the same period. Several explanations have been proposed for the onset of fertility decline. They generally fall under two headings: culture and economics. The cultural explanation sees the demographic transition as a diffusion of a new set of family norms. It found its most definitive statement in Coale and Watkins (1986). According to the cultural hypothesis, pre-modern fertility was regulated not by conscious decisions of married couples but through deeply internalized, community-wide cultural norms
+
+
+136 Tomáš Cvrček
+about proper age at marriage and appropriate spacing of births, which couples merely enacted.7 The fertility transition, such as we see in Figure 6.3, then results from the gradual erosion of these cultural norms and their replacement, in modern times, with conscious fertility decisions informed by greater knowledge and societal acceptance of deliberate contraceptive practices. Birth rate falls as these new ideas diffuse through society and more and more couples are “converted”, as it were, to the new two-child norm (David and Sanderson, 1987). This diffusion can happen quite quickly and in a manner that is entirely uncorrelated with industrialization and economic development. To a degree, then, the cultural explanation stands in opposition to the economic, as in Cleland and Wilson (1987: 18), who argue that “the simultaneity and speed of the European transition makes it highly doubtful that any economic force could be found which was powerful enough to offer a reasonable explanation.” New research and new data have undermined many fundamental tenets of the cultural hypothesis. Guinnane et al. (1994: 1) showed that existing aggregate measures of fertility “may fail to detect the initial stages of fertility transition”. The province-level or country-level data, used by Coale and Watkins, inevitably missed all the local sub-provincial correlation between economic development and fertility behaviour, while disproportionately emphasizing cultural divides, which
+1830
+0.0
+10.0
+Adriatic provinces Bulgaria Greece Romania
+20.0
+30.0
+40.0
+50.0
+60.0
+1835 1840 1845 1850 1855 1860 1865 1870
+Births per one thousand inhabitants
+1875 1880 1885 1890 1895 1900 1905 1910
+FIGURE 6.2 Crude birth rate in several South-East European countries, 1830–1913
+Source: Mitchell (2003), K.K.Statistische Zentral-Commission (1881–1914).
+
+
+Population and living standards, 1800–1914 137
+historically often ran along provincial and national borders (Brown and Guinnane, 2007). Fialová et al. (1990: Figure 2) found, for example, that even within the fairly small territory of 19th-century Bohemia, the onset of fertility transition could be dated anytime from 1870s (or earlier) to 1910s, depending on the region.8 In a similar vein, Hammel (1995) showed for the case of culturally diverse Slavonia that ethnic and religious markers were good predictors of fertility only when they lined up with indicators of social and economic status but not otherwise, implying that culture has explanatory power only when it proxies for the underlying economic factors. Galloway et al. (1994) also concluded from their analysis of fertility decline in Prussia in 1875–1910 that while religious affiliation was a powerful predictor of different levels of fertility, it was not very useful in explaining the changes in fertility across time. Wetherell and Plakans (1997) reached a similar conclusion in their study of fertility in Riga in 1867–1881. The notions about the diffusion of contraceptive practice also need qualification. Active birth control inside marriage has been documented in several premodern Central and East European populations. Andorka (1979) and Vasary (1989)
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+1830 1835 1840 1845 1850 1855 1860 1865 1870 1875 1880 1885 1890 1895 1900 1905 1910
+Austrian provinces
+Births per one thousand inhabitants
+Czech provinces
+Galicia and Bukowina
+Hungary - Ancient Kingdom
+Russia (50 European provinces)
+Serbia
+FIGURE 6.3 Crude birth rate in several Central and East European countries, 1830–1913
+Source: Mitchell (2003), K.K.Statistische Zentral-Commission (1881–1914).
+
+
+138 Tomáš Cvrček
+describe the “one-child-family system” prevalent in southern Hungary already before 1840s, while Hammel and Galloway (2000: 83–84) see contraception and abortion firmly entrenched in the behaviour of Slavonian peasants by the late 18th century. Mironov and Eklof (2000: 89–93) detect the practice of birth control among Russian peasants in the first half of the 19th century, when Russian fertility transition was still almost a century away, even going so far as to call Russian serfs “pioneers of birth control”. In Central Europe, Brown (2009: Table 6.4) reports that up to a half of German married couples practiced some form or other of marital fertility control already around the start of the fertility transition. Such practice may have already been more than a century old by then (Dribe and Scalone, 2010). In short, it is difficult to sustain the notion of fertility decline as a qualitative change in behaviour, whereby married couples freed themselves from the religious diktat to “be fruitful and multiply” and instead decided, rather suddenly, to adopt various methods of birth control. In contrast, the economic explanation does not view the demographic transition through the lens of innovation and diffusion or as a fundamentally new behaviour of conscious child-stopping, but as an adaptation to changing economic conditions. Parents have always consciously responded to existing incentives, and the observed change in fertility is one such response. All things considered, economists see the underlying cause of fertility decline in a change in relative prices: children became more costly. This line of argument is mostly credited to Becker (1993) and all demand theories of fertility take his research as a point of departure. Various authors differ, however, in terms of which particular costs are most responsible for the fertility decline, and their approaches can be divided for our purposes into four broad groups. Let us consider each in turn. First, there is an economic variant of the contraceptive argument: the decline in fertility was a consequence of greater availability and lower price of contraceptives, rather than a change in moral attitude towards them. With mass production of the condom, better information about the efficacy of various methods and better women’s health care, the argument goes, more couples could afford effective birth control. Brown (2009) reviews the relative costs and benefits of various contraceptive tools in late 19th-century Europe and shows that they did indeed spread through the population. But given that even before their arrival, both urban and rural population knew of and used the more intuitive (and cheaper) contraceptive methods, such as abstinence and coitus interruptus, the impact of these new technologies must have been limited (Guinnane, 2011: 601). After all, they were just more effective substitutes for earlier practices. At least some part of the demand for the new contraceptives was likely just a switch on the part of consumers from those older, more rudimentary methods. The second approach to fertility decline is to consider the direct costs of childbearing and childrearing, resulting, for example, from the rise of mass schooling. It presented would-be parents with what Becker (1993) dubbed the quality-quantity trade-off: if they put ever-greater stress on their children’s education, which was
+
+
+Population and living standards, 1800–1914 139
+costly, they needed to apportion their finite resources among fewer of them. The advantage of this approach is that it has great intuitive appeal and fits the stylized facts well: the late 19th-century industrializing economies were indeed generating a growing number of skill-intensive jobs, and returns to education were rising. Improving one’s children’s labour market prospects increasingly meant sending them to school, and we do observe an increase in school enrolment going hand in hand with a fertility decline: the fertility transition in the Czech and Austrian provinces commenced around the time of a renewed push by central authorities to extend primary education. Other Central European countries witnessed much slower rise in schooling and their fertility transitions also came later, with Russia’s only starting in the 1920s and 1930s – at about the same time when school enrolment truly took off (Easterlin, 1981: Figure 1). The disadvantage is that the quality-quantity trade-off is difficult to test empirically, beyond the basic plausibility of stylized facts (Guinnane, 2011: 607). The third approach is to consider the opportunity costs of having children, specifically, the growing wages that women could command in the labour market as an alternative to motherhood. Galor and Weil (1996) argue that economic growth was historically accompanied by an increase in capital per worker. Since women’s labour was more complementary to capital than men’s, this capital intensification led to an increase in relative wages of women and therefore also in the opportunity cost of children. The growth of industry encompassed sectors, such as textiles, food processing or printing, where existing technologies were well suited for women’s labour and women therefore constituted an important if not majority share of those sectors’ labour force. Women, of course, have always worked in some capacity or other, but the rise of modern industry and factory work brought about a separation of home and workplace (Mokyr, 2001), further increasing the opportunity cost of childbearing. Most Central and East European countries did not have large, developed industrial sectors in the 19th century, so it is unlikely that growth in women’s relative wages had much impact on fertility. But in those that did, such as Bohemia and Moravia, the textile regions were leaders in fertility decline (Fialová et al., 1990). The fourth and final approach sees the decline in mortality as the cost change that led to fertility transition: since more babies started surviving to adulthood, parents needed fewer births to achieve the desired number of offspring (Notestein, 1945). One empirical prediction that follows from this approach is that mortality decline should precede and accompany fertility decline. Figures 6.4 and 6.5 display the record of infant mortality, splitting countries where it declined and where it stayed constant into separate graphs.9 A comparison with Figures 6.2 and 6.3 indicates that the support for causal link is at best mixed. In favour: Austrian infant mortality could be said to start declining from late 1860s, or about a decade before fertility begins to fall. In contradiction: Czech provinces, where fertility decline commenced at about the same time, did not register a decisive fall in infant mortality until 1890s (Fialová et al., 1990: Table 6.5). Galicia and Bukovina show similar misalignment. The Balkan countries mostly
+
+
+140 Tomáš Cvrček
+recorded trendless infant mortality rates before the First World War but their fertility transitions also did not start until the 20th century, so their record has little bearing on the issue (Botev, 1990; Caldwell and Caldwell, 2001; Coale and Watkins, 1986). The issue of fertility transition is far from definitively settled. For some time, the cultural hypothesis seemed to fit at least the aggregate data well, but recent emergence of bigger, more detailed datasets, such as the Mosaic project (Szoltysek and Gruber, 2016), has undermined many of its tenets. The economic hypotheses, some of which make very specific claims about families’ fertility decisions, remain mostly untested because they often require evidence in such detail as even the existing datasets are unable to satisfy. In short, the jury is still out. Having dealt with births, the next major factor in population dynamics is deaths. Here the earlier discussion of infant mortality offers a convenient starting point, considering that infant deaths were such a large part of the overall death record. Compared to our modern situation, with infant mortality rates below 10 deaths per 1,000 live births across all developed countries, the historical record makes for very bleak reading. A quarter to a third of all newborns did not live to their first birthday (e.g. Austrian and Czech provinces, in Figure 6.4). There is little doubt that urbanization and high population density, brought about by industrialization, were responsible: the highest infant mortality rates were reported in cities with subpar sanitary conditions and next to no public health investments in place. The densely populated urban slums were also a breeding ground for epidemics. For example, in the Czech provinces, cholera outbreaks occurred in 1832–1836, in 1855 and again in 1866, and a typhoid fever epidemic occurred in 1847 (Kárníková, 1965). Meanwhile, babies were perennially at risk of dying of smallpox. As transportation improved, diseases travelled easily. This is nicely illustrated in the record of Galicia and Bukovina, neither of which was particularly industrial or densely settled but was closely connected to their industrializing neighbours: the 1866 cholera epidemic jumped from Moravia to Galicia. However, by the 1880s, the vagaries of disease and ill health were slowly being subdued. The high volatility of previous decades disappeared and, from 1890 onwards, infant mortality set on a downward trend which continues to this day. The fate of the Balkan countries and Russia in Figure 6.5 was different. First of all, with the exception of Russia, the recorded infant mortalities were significantly lower than we have seen in the industrial provinces of the Habsburg Empire. Serbia and Bulgaria in particular reported rather low values.10 The Adriatic infant mortality rates, just like the Balkan ones, were relatively stable throughout the century, which again fits with the pattern of agricultural and somewhat isolated areas offering a less disease-ridden, healthier environment. And so, while the Balkans were at this time mostly spared the negative externalities associated with industrialization, they also had to go without the benefits of the large public health projects that were paid for by the accumulated wealth. The Balkans had to wait well into the 20th century before their infant mortality decline materialized. Russia, it seems, had the worst of both worlds: a stagnant agricultural economy with industrial-level
+
+
+Population and living standards, 1800–1914 141
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+1820 1825 1830 1835 1840 1845 1850 1855 1860 1865 1870 1875 1880 1885 1890 1895 1900 1905 1910
+Hungary
+Deaths per one thousand infants
+Czech provinces Galicia and Bukowina Austrian provinces
+FIGURE 6.4 Infant mortality in parts of the Habsburg Empire, 1820–1913
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100 1820
+Bulgaria
+Deaths per one thousand infants
+Russia Adriatic provinces
+Romania Serbia
+1825 1830 1835 1840 1845 1850 1855 1860 1865 1870 1875 1880 1885 1890 1895 1900 1905 1910
+FIGURE 6.5 Infant mortality in the Balkans and Russia, 1820–1913
+
+
+142 Tomáš Cvrček
+infant mortality rates. There is a slight hint of a decline in the opening decade of the 20th century but, for the most part, throughout the period under study, Russia remained a country with high number of births as well as infant deaths. The last of the three components of population change was migration. During the period under study, the regions most affected by emigration were Poland and Hungary and the Adriatic coast. Galicia, Bukovina and Dalmatia lost among them 1.8 million migrants during the 19th century, while the Russian portion of Poland saw an emigration of 3.5 million, the main migration stream out of Russia. Hungary’s net loss to migration amounted to 1.4 million before the First World War (Bérend and Ránki, 1974: 20). A large proportion of this emigration was destined for the United States, where migrants from Central and Eastern Europe constituted the bulk of immigration in the first decade of the 20th century. The Balkan nations did not experience much of an emigration. As for the other regions, such as the Czech and Austrian lands, their migration was mainly internal. Vienna worked a powerful attraction on workers from Bohemia and Moravia and coupled with migration from other parts of the empire, the immigration contributed to Vienna’s increase in population from 232,000 in 1800 to 2 million in 1910.
+Living standards
+Living standards can encompass a range of aspects of a population’s life, from consumption of basic necessities through health status to measures of opportunities for self-realization (education, career prospects) and even self-reported happiness. As data collection and processing capabilities of modern societies improved, our measures have grown more sophisticated and nuanced. One example of such measures is the Human Development Index (HDI), which combines income per capita, life expectancy and mean educational attainment (years of schooling) in an equally weighted average. The sophistication of these modern measures places stringent demands on the quality of the component data, which the 19th-century statistics cannot quite meet.11 This chapter will therefore not employ the HDI methodology. But to ensure at least some basic comparability across chapters, we will keep the threefold focus, implicit in HDI, on income, health and education and discuss measures that could be considered proxies for the component statistics in HDI. At its core, living standard usually refers to what the average person can buy with his or her income. The modern practice is to compare GDP per capita of various countries. The statistic is comprehensive, easily comparable and readily understood. However, historical reconstructions of GDP, which cannot rely on comprehensive statistics from individual sectors, are fraught with error and guesswork. An alternative measure of living standards is the real wage, which has the advantage of being much easier to reconstruct historically. The most useful wage rate, in terms of its comparability across time and space, is that of an unskilled labourer precisely because he is unskilled, selling nothing but the same brute force, which usually finds some use in all sectors in all historical periods. Critics of real wage indicators point out that such series capture only a small segment of the
+
+
+Population and living standards, 1800–1914 143
+population and therefore can be quite unrepresentative. The unskilled labourer, after all, is far from the typical worker in most economies and his wages generally represent the low end of the income distribution. Therefore, one potential way to turn this flaw into an advantage is to interpret unskilled real wage as an indicator of living standards of the poorer strata of society. In the Central and Eastern Europe of the 19th century, one-half to two-thirds of a working family’s budget was spent on food and beverages. Costs of housing varied significantly depending on location. Not surprisingly, large cities, such as Vienna and St. Petersburg, called for greater outlays to secure housing in comparison to smaller places. The difference was likely compounded by difference in quality of housing offered, with large cities, where demand was high, offering much lower value for money than the countryside. Next in importance was clothing, heating and light (about 12%, 4% and 2%, respectively). One way through which living standards usually improve is the gradual move away from necessities and into luxuries. On that score, workers’ situation did not improve significantly over the century, given that the share devoted to necessities remained consistently high throughout the period. If improvements occurred, they took the form of better quality and higher quantity of the necessities already consumed. Figure 6.6 corroborates the relatively pessimistic assessment. It compares real day wages of unskilled workers (mostly construction workers and day labourers)
+16
+London Krakow
+Istanbul
+Vienna Warsaw
+St Petersburg
+14
+12
+10
+8
+6
+4
+2
+0
+1801–1810
+1811–1820
+1821–1830
+1831–1840
+1841–1850
+1851–1860
+1861–1870
+Grams of silver
+1871–1880
+1881–1890
+1891–1900
+1901–1910
+1910–1913
+FIGURE 6.6 Real day wages of unskilled workers in various European cities, 1800–1913
+Sources: Allen (2001), Özmucur and Pamuk (2002), Mironov (2010), Cvrcek (2013), Hoszowski (1934).
+
+
+144 Tomáš Cvrček
+in several Central and East European cities with those in London. The wages are expressed in grams of silver to allow for comparability across countries. The superiority of London was formidable – in fact, Central and Eastern Europe could be said to have been a century or more behind London. This highlights two facts: first, the visible, sizeable gap between Britain, the leading industrial power, and the East existed already before the 19th century. Second, in spite of all the negative social consequences that British workers suffered especially during the first phase of the Industrial Revolution (say, up to 1840), their lot was nonetheless appreciably better than the situation of their counterparts in Eastern Europe. The gap in living standards not only persisted but even widened from the 1860s on, which period corresponds to the arrival of the Second Industrial Revolution. London and Vienna enjoyed continuous, relatively fast growth that came with it, which cannot be said for Istanbul or St. Petersburg. Mironov (2010: 59–62) points out that the growth of urban wages in Russia in the first half of the 19th century coincided with the crisis of serfdom. Then, once the reform effort got under way in the wake of the Crimean War, St. Petersburg workers experienced almost three decades of continuous decline in real wages. Apparently, the abolition of serfdom cleared the way for worker mobility and so the supply of (unskilled) workers in cities must have picked up after the 1860s and perhaps outstripped the urban demand for labour, thereby depressing wages. The population of St. Petersburg increased from 495,000 in 1857 to 1.25 million in 1900, of which 50.6% were industrial workers and their families. A similar story of rural-urban migration can be told for Vienna and Krakow, although there the demand for labour more than kept pace with the influx from the countryside, and so workers did register consistent gains in wages throughout the second half of the century. In the case of Istanbul, Özmecur and Pamuk (2002: 296) point out that the period from 1770 to 1850 was a time of considerable internal turmoil, frequent policy reversals and political infighting as well as increasing military pressure from the outside. In contrast, the second half of the century witnessed “stable money under bimetallism, rapidly expanding international trade, stable prices and rising real wages” (Özmecur and Pamuk, 2002: 318). In Figure 6.7, we move to the countryside. Continuous agricultural wage series are harder to come by in a region where some form of serf labour existed well into the 19th century, so we limit ourselves to the provinces of the Habsburg Empire. As in Figure 6.6, English data are shown for comparison. Figure 6.7 reports welfare ratios, where estimated annual earnings of a common labourer were divided by the expected annual expenses for a family of two parents and two children.12 The expenses represent overall outlays on what we may call a “respectable” basket of goods. This terminology was adopted by Allen (2001) to describe a bundle of goods that was somewhat broader and richer than what was absolutely necessary for bare survival (a “subsistence” basket). The basket of goods on which Figure 6.7 is based includes wheat bread, beef, wine, beer, butter, milk, rice, potatoes, beans, sugar, wood for fuel, tobacco, clothing and rent. A welfare ratio of 1 implies that an unskilled labourer could support his whole family on his own annual earnings alone.
+
+
+Population and living standards, 1800–1914 145
+The first thing to notice Figure 6.7 is that none of the series ever reaches 1. Unskilled agricultural labourers in the 19th century were not able to support a four-member family on their wages alone. In fact, welfare ratios between 0.2 and 0.3, as reported by Galicia, Bukovina and the Czech provinces, imply that these labourers would not have been able to afford a respectable basket even on their own and so their living standards were probably quite close to the margin of subsistence. A family could only be supported if it received income not only from the father but also from the mother and children. The economic situation was better in Hungary and around the Adriatic. These provinces were cheap to live in and the nominal wages were actually somewhat higher than in, say, Bohemia. As a result, unskilled agricultural labour in these regions apparently fared as well or even better than their English counterparts in the early decades of the 19th century. This was not to last, however. In spite of considerable increases in prices between 1845 and 1875, the welfare ratios in Bohemia, Moravia and Silesia moved to 0.4 and higher and by the beginning of the First World War reached somewhere between 0.5 and 0.6. Economically, these were among the most dynamic provinces of Central Europe. The Balkan provinces of the empire, such as Croatia-Slavonia or Transylvania, saw either a long-term stagnation or even a mild decline. These provinces mostly missed out on the ongoing technological changes in industry, agriculture,
+1
+0.9
+Czech provinces
+Adriatic provinces
+Hungary
+Galicia and Bukowina
+England-Farm workers (Clark)
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+1825
+1830
+1835
+1840
+1845
+1850
+1855
+1860
+1865
+1870
+1875
+1880
+1885
+1890
+1895
+1900
+1905
+1910
+FIGURE 6.7 Welfare ratios among agricultural labourers in Central Europe and England, 1825–1910
+Sources: Cvrcek (2013), Clark (2001).
+
+
+146 Tomáš Cvrček
+food processing and transportation, and by the beginning of the 20th century they still reported welfare ratios of 0.5 or lower, as they had some 80 or 90 years earlier. While real wage data are not available at such detail for other Balkan countries, there is evidence that similar stagnation or even reversal in living standards from mid-19th century on occurred there also. Palairet (1997: 339) and Lampe (1975) note that agricultural output per capita in Bulgaria and Serbia actually fell between the 1870s and 1912, while the industrial sector remained too weak and small to balance the decline out. There was relatively little penetration of market economy into the Balkan agriculture, which means that outside impetus for increased production and more intensive farming fell flat. It is likely that unskilled labourers, who usually stood at the bottom rung of the village social ladder and were therefore most vulnerable to economic decline, experienced the downward trend firsthand. Their fate was therefore likely similar to that of their counterparts in the Habsburgruled Transylvania. To what extent does the record of reconstructed GDP corroborate the evidence from real wages? Let us start, somewhat atypically, from the end of the period under review when the statistical information is least unreliable. Table 6.4 reports estimated real GDP per capita from Maddison (2010) and Schulze (2007). Britain and Germany, as the leading industrial powers in Europe, can serve as a useful backdrop. As in the wage record, the GDP figures suggest that most of Central and Eastern Europe was far behind the British living standards in 1910. None of the listed countries reached the level of GDP per capita that Britain had enjoyed already 40 years earlier. The Balkan countries came close to about a third of the UK level, with Hungary and Poland not far above that. Only the Czech provinces of Bohemia, Moravia and Silesia and the lands roughly corresponding to the modern-day Austrian republic were able to enjoy between one-half and three-fifths of the British standard. Not surprisingly, the areas that were closest to Britain in living standards were also most similar to her in terms of economic structure. Both the Austrian and the Czech lands were the industrial heartlands of the Habsburg monarchy, containing such prominent manufacturing centres as Vienna, Graz, Brno, Prague and Ostrava. Further, the industrializing provinces could also boast relatively productive market-oriented agricultural sectors, unlike the poorer East-European countries such as Serbia and Bulgaria where specialized segments of agricultural production for the market coexisted with lingering low-productivity subsistence agriculture. Yet poor though they were, the East-European countries were also growing, as reported in Panel B. Over the 40 years from 1870 to 1910, several of the countries (e.g. Bulgaria, Greece and Poland) saw their GDP per capita increase by more than three-quarters while Austria reported an increase of 43%. At least from 1880 onwards, most of the countries in the table grew faster than Britain, allowing them to narrow the gap slightly. But living standards are not all consumption of tangibles. What can we say about the changing quality of life in terms of health and intellectual development? In the absence of reliable data on such qualitative aspects of life as, say, incidence of particular diseases, the extent of air pollution or the number of sick days per person per
+
+
+Population and living standards, 1800–1914 147
+year, historians have searched for proxy measures that would at least broadly correlate with these. One such proxy that has been quite abundant in historical sources is human height. Individual height is certainly affected by a genetic component, but in a large enough population, individual disposition for shortness or tallness is distributed in a predictable, symmetric way, which means that in calculating mean height of a population from a representative sample, such genetic factors are likely to cancel out.13 A trend in average adult height of consecutive birth cohorts can then convey valuable information about trends in general welfare. An important point raised by Komlos (1998) was that rapid economic growth need not necessarily translate into an improving living standard, if it is accompanied by intensifying environmental insults such as work strain, pollution and other negative externalities. These are factors that the usual economic indicators may not pick up; in fact, they may even completely mismeasure them as gains!14 Of course, the misalignment can also go the other way.
+TABLE 6.4 Living standards in Central and East Europe, 1870–1910
+Panel A: GDP per capita in 1990 Panel B: Average annual growth dollars rates
+1870 1880 1890 1900 1910 1870– 1880– 1890– 19001880 1890 1900 1910
+Austrian provincesa 1,953 1,938 2,118 2,526 2,802 −0.1% 0.9% 1.8% 1.0% Czech provincesb 1,638 1,640 1,883 2,154 2,545 0.0% 1.4% 1.4% 1.7% Upper Hungaryc 1,018 1,047 1,293 1,444 1,650 0.3% 2.1% 1.1% 1.3% Poland (1921 946 1,284 1,536 1,690 1.5% 1.8% 1.0% borders) Hungaryd 987 1,070 1,271 1,442 1,683 0.8% 1.7% 1.3% 1.6% Yugoslaviae 599 843 902 1,057 1.7% 0.7% 1.6% Adriatic provincesf 911 997 1,091 1,195 1,454 0.9% 0.9% 0.9% 2.0% Romania 931 1,246 1,415 1,660 1.5% 1.3% 1.6% Bulgaria 840 1,131 1,223 1,456 1.5% 0.8% 1.8% Greece 880 1,178 1,351 1.5% 1.4% Germany 1,839 1,991 2,428 2,985 3,348 0.8% 2.0% 2.1% 1.2% United Kingdom 3,190 3,477 4,009 4,492 4,611 0.9% 1.4% 1.1% 0.3%
+Source: Maddison (2010) for Poland, Yugoslavia, Romania, Bulgaria, Greece, Germany and United Kingdom. Schulze (2007) for Austrian provinces, Czech lands, Upper Hungary, Hungary and Adriatic Provinces.
+Notes: a) Includes Lower Austria, Upper Austria, Salzburg, Styria, Carinthia, Tyrol and Vorarlberg. This area overlaps to a considerable extent with the territory of the post-1918 Austrian Republic, except for Burgenland (gained from Hungary), Lower Styria, parts of Carinthia (ceded to Yugoslavia) and Alto-Adige (ceded to Italy). b) Includes Bohemia, Moravia and Silesia. The territory of these three provinces mostly overlaps with the modern-day Czech Republic. c) Includes the Danube Left Bank and Tisza Right Bank, a territory that largely overlaps with interwar Slovakia, except for Borsod County and a few other territories. d) Includes the area of the historic Kingdom of Hungary, comprising both modern-day Slovakia and Transylvania but not Croatia-Slavonia. e) In 1921 borders. f ) Includes the Austrian Littoral, Carniola, Croatia-Slavonia and Dalmatia.
+
+
+148 Tomáš Cvrček
+Most abundant records of historical human height come from military archives. Adult recruits were usually measured in order to assess their fitness. Komlos (1989, 2007) has collected such statistics going back to the 18th century. He reports that after a secular decline in average male height in the 18th century, Austrian men recorded an increase in average height from a trough of 161 cm in 1790 to 170 cm in 1910 (Komlos, 2007: Figure 3). Hungarians grew by about 7 cm over the same period to reach 169 cm. Table 6.5 shows broadly comparable height data for several different regions in Central and Eastern Europe. The height record provides some interesting context for the real wage and GDP data discussed earlier. All of the regions cited in Table 6.5 reported an increase in mean height between early 1860s and late 1880s. This was true both for the provinces whose real wages were growing during this time (such as Galicia and the Czech provinces) and for those where wages stagnated (Hungary and the Adriatic provinces). Note that Russian heights recorded an increase precisely during the decades when the real wages in St. Petersburg were falling. While for the urban labour market of St. Petersburg the abolition of serfdom signalled a reinforced inflow of migrants from the countryside searching for work, in the rural areas these institutional changes heralded a transformation of Russian agriculture into a more productive sector of the economy that was increasingly and successfully asserting itself on international markets. The cross-sectional pattern in Table 6.5 further reinforces the point that economic modernization and the level of industrialization have a complicated relationship with higher standard of living. The most advanced provinces in the Habsburg Empire had relatively tall men, yet the tallest men came from arguably the least developed province, Dalmatia. Like Dalmatia, Galicia and Transylvania were also relatively underdeveloped, but unlike in Dalmatia, their men were
+TABLE 6.5 Average height of male army recruits in Austria-Hungary and Russia, 1861–1889
+Austria-Hungary 1863 birth cohort 1889 birth cohort
+Galicia 161.0a 165.0b Transylvania 162.4a 165.7b Slovakia 162.6a 165.6b Hungary 163.9a 166.6b Czech provinces 164.6a 167.5b Austria 164.8a 167.4b Dalmatia 165.5a 168.8b
+Russia
+All provinces 162.0a 165.1a Saratov province 162.9b 167.9b
+Congress Poland 1861 birth cohort 1887 birth cohort
+Peasants 163.4b 165.9b Small town residents 163.7b 165.5b
+Sources: Komlos (2007: Table 2), Mironov and A’Hearn (2008: Table 4), Kopczynski (2011: Table 1).
+Note: a measured at age 20; b measured at age 21.
+
+
+Population and living standards, 1800–1914 149
+relatively short. While the Dalmatian population apparently enjoyed relatively high real wages (see Figure 6.7), by 1910 the Czech wages almost caught up with them. Yet in terms of mean height, there was no convergence and the gap, if anything, further opened up. Komlos (2007: 215) considers Dalmatia a strange outlier and puts the high average down to a high-protein local diet steeped in seafood. But in light of the epidemics mentioned in previous section, many of which did affect both the industrialized Czech provinces as well as the relatively agricultural Bukovina, it is worth noting that Dalmatia was in fact quite isolated from the rest of the empire – by sea to the south and by mountains to the north. This, together with its relatively low population density, affected the overall morbidity in the province. Most 19th-century governments were not quite capable of collecting reliable statistics on the incidence of disease and so our best measure is overall mortality, which is obviously affected by disease, especially since many infectious diseases that are easily treated today were then still lethal. Figures 6.4 and 6.5 provide a good sense of the broad underlying trends in overall mortality, given that infant and overall mortalities were correlated. Those countries that saw their early life mortalities decline usually saw some improvement in old-age mortality also. This was an unambiguous improvement in quality of life and it was caused partly by pure economic growth, which made foodstuffs of better quality cheaper and more available, partly by investments in specific public health projects such as more sanitary sewerage systems and broader access to vaccination. As a result, life expectancy in these regions improved. In Austria, male life expectancy at birth went from 31 in 1875 to 39 in 1905. For women, the values were 34 years in 1875 and 41 in 1905. Hungary reached similar figures by 1910: 39 years and 40 years. Russian life expectancy stood at 31 and 33 years for men and women in 1895 (Bérend and Ránki, 1974: 23; Findl, 1979). One final aspect of living standards to consider is human capital. The best available measure is enrolment in primary schools, which strongly correlates with economic development and also with general living standards. The rise in enrolment went hand in hand with gradual disappearance of child labour, which itself was made possible by the rising wages of the parents and by the lure of higher wages in the growing number of jobs reserved for the literate. Table 6.6 shows that even as late as early 20th century, primary schooling was far from a majority pursuit in many Central and East-European countries. Russia was the most backward in this respect, although the overall figure (which applies to the 50 European provinces of Russia, excluding Poland and Finland) hides considerable variation. In the Baltic region, for example, as much as a third of the school-age children were enrolled by 1910, while the Urals and parts of modern Ukraine were still stuck at around 16% (Chaudhary et al., 2012). As one ventures west from Russia, the situation improves. The industrialized provinces of the Habsburg Empire were the clear leaders in terms of education. They were already enrolling more than a half of school-age children (here defined as between 5 and 14 years of age) in 1830. Countries such as Romania and Bulgaria were thus almost a century behind the leaders. One reason behind the lower enrolment rates is that compulsory schooling legislation varied from country
+
+
+150 Tomáš Cvrček
+to country. In the Austrian case, for example, the school age was increased from 6–12 years to 6–14 years in 1869 (Cvrcek and Zajicek, 2018). The enforcement of this new regulation pushed enrolment rates among 5- to 14-year-olds upwards. But note that government compulsion and government provision of schooling were by no means a sure way to higher enrolment: Adriatic provinces lived under the same law, yet their enrolment barely crossed 60% before the First World War. In spite of these problems, the spread of mass schooling bore fruit in the gradual increase in literacy. Here, the most industrialized areas, such as the Czech and Austrian provinces of the Habsburg Empire, achieved effectively full literacy by the first decade of the 20th century. In Hungary, following a new schooling law, illiteracy fell from 68% in 1869 to 33% in 1910 (Bérend and Ránki, 1974: 25). Galician illiteracy plummeted between 1880 and 1910 from 81.1% to 40.6%, although the overall decline hid considerable variation across the various nationalities living there. There were only 11.7% illiterate Germans in Galicia in 1910 but 60.1% illiterate Ukrainian speakers. Still, the Galician Poles, with their 28.4% illiteracy, did significantly better than their counterparts in the Russian-controlled Congress Poland, of whom 61.4% were illiterate, according to the 1897 census (Corrsin, 1998). Russia also witnessed a spread of literacy from 15% to 40% between 1850 and 1913 (Mironov, 2000: 94). The situation was most dire in the Balkans, where 79% of Serbs were illiterate in 1910 and 61% Romanians in 1912 (Bérend and Ránki, 1974: 26). In Bulgaria, 66% were illiterate in 1910, down from 97% in the 1880s (Mishkova, 1994).
+Conclusions
+In terms of living standards, Central and East Europe was poorer and less developed than the West but not uniformly so. The rather undiversified Balkan
+TABLE 6.6 Percentage of children aged 5 to 14 years enrolled in primary schools, 1820–1910
+1820 1830 1840 1850 1860 1870 1880 1890 1900 1910
+Austrian (Alpine) provinces 52.7 55.5 54.2 55.9 57.9 58.8 68.5 76.0 75.7 77.6 Czech provinces 46.9 54.1 56.6 56.9 60.3 62.7 72.3 78.3 81.9 79.7 Adriatic provinces 7.5 7.5 7.8 13.9 22.7 27.0 29.3 43.9 52.9 60.2 Galicia and Bukovina 3.9 4.9 6.2 6.8 11.8 11.9 21.3 38.4 47.8 62.9 Hungary (ancient Kingdom) – – – – – 33.4 45.7 51.3 54.2 52.6 Bulgaria – – – – – – – 23.8 33.2 41.2 Romania – – – – – – – – 25.6 35.4 Greece – – – – – 25.3 29.3 31.2 32.4 40.8 Russia – – – – – – – 9.9 14.9 England and Wales – 27.4 35.1 49.8 58.8 60.9 55.5 65.7 74.2 74.8 Prussia – 69.5 71.4 73.0 71.9 73.2 74.9 75.5 76.8 76.4 France – 38.8 51.3 51.5 66.5 73.7 81.6 83.2 85.9 85.7
+Sources: Lindert (2004: Table 5.1), Cvrcek and Zajicek (2015).
+Note: For territorial definitions, see the note under Table 6.1.
+
+
+Population and living standards, 1800–1914 151
+economies, steeped in subsistence agriculture and pastoralism, contrasted with the rising industry of Bohemia, Moravia and Lower Austria. The industrializers paid for their development in terms of lower quality of life in terms of health, but this was a temporary burden for which the economic growth eventually proved to be a solution: the resources generated through development were invested in improvements that mitigated the negative externalities associated with industrial growth. A similar division emerges when one looks at population trends. Here, too, Eastern Europe was a mixture of, on the one hand, regions with a modernizing outlook, a falling fertility and mortality and an increasing investment in child quality through education, and on the other hand, areas where school enrolment was low and fertility high. Both in the case of living standards and the population change, the factor that contributed in a major way to the difference between the modernizers and the laggards was the existence and extent of industrial wage labour. In contrast to, say, Great Britain, where the last vestiges of serfdom disappeared before the dawn of the modern era, in Central and Eastern Europe the allocation of labour in an open market instead of within some hierarchical, coercive structure is a very recent phenomenon that emerged fully only in the second half of the 19th century. It made a world of a difference because it enabled or reinforced many other aspects that we (rightfully) associate with the operation of a modern economy: increased marketization of production, deeper specialization, more efficient use of human skill and talent and greater social and geographic mobility. The Central European record, in its great diversity of local conditions, is a testimony to how powerful this process was.
+Notes
+1 Interestingly, Sklar (1974: 231–233), whose research supplied the Baltic and North-East European entries for Table 6.3, believed that the high marriage ages of Lithuanian, Latvian and Estonian women represented powerful counterexamples to Hajnal’s geographical division. But when the Hajnal line is traced out on a map, all three of these Baltic countries lie mostly west of it, which is also why they appear in the West column in Table 6.2. In that context, the fact that they exhibit features of the (West) European Marriage Pattern is not a refutation of Hajnal (1965) but rather evidence in support of it. Sklar was right to object to the conspicuous omission of any East-European countries north of Hungary in Hajnal’s (1965) original article, but when she filled in the blanks with her own data analysis, she somewhat misconstrued Hajnal’s East. Yet, presumably, there was a reason why Hajnal drew the line from St Petersburg to Trieste and not from, say, Helsinki or Kaliningrad to Trieste. Still, her counterargument does not lose all of its force, for no matter how one draws the Hajnal line, some relatively high-marriage age provinces, such as Grodno and Vilno governorates or the Congress Poland/Vistula Land, will remain east of it. (But see Granditzs and Heady (2003: Map 2) for an alternative drawing of the line.) 2 Specifically, Mitterauer (2003) mentions the Hufenverfassung (the system of hides), originating from the Frankish (later Carolingian) Empire, where a Hufe (mansus, hide) was an area large enough to support a nuclear family. Kaser (2003: 58) and Szoltysek and Zuber Goldstein (2009: 21–25) describe how implementation of this system in the
+
+
+152 Tomáš Cvrček
+Polish-Lithuanian Commonwealth in the 16th century met with unequal success across the country, thereby generating a diverse patchwork of closely coexisting different patterns of landholding and, by extension, family systems. 3 Out-of-wedlock childbearing was very common (upwards of 40% of all births) in many Alpine provinces, such as Carinthia, Styria and Salzburg (Kytir und Münz, 1986). In that sense, the local women’s high celibacy rates capture their legal status more than their demographic behavior. 4 Todorova (1996) also criticizes earlier researchers’ disproportionate stress on the zadruga as a typical or even predominant form of extended family in the Balkans. 5 After all, Mitterauer (2003) and Kaser (2003) argue that the family system reflect local agricultural organization and manners of ownership and inheritance (i.e. economic or economic-institutional variables). 6 This is clearly visible, for example, in the Bulgarian record with the steep drop in births during the Balkan wars of 1912–1913, or even in the Czech record in Figure 6.3, where the cholera epidemics of 1848 and 1855 featured prominently. 7 This view dovetails with Hajnal’s geographical categorization of family systems, seeing marriage (or more specifically: entry into marriage) as the pre-eminent regulator of fertility. 8 It should be noted that even Cleland and Wilson’s (1987) definition of simultaneity was rather loose to begin with: their evidence in favour of simultaneity is that for 71% of all European provinces, the first fertility decline can be dated sometime between 1880 and 1930. Even in the context of a century-long fertility transition, it is hard to see what is simultaneous about events that can occur 50 years apart. 9 Admittedly, infant mortality is not the perfect measure to use, if one intends to link fertility to the likelihood of survival to adulthood. A mortality rate for ages, say, 0 to 15 would be preferable (Galloway et al., 1998: 186). But infant mortality is more closely correlated with this ideal measure (which is usually unavailable) than overall mortality, measured by Crude Death Rate. 10 Partly this may be due to an incomplete count of infant deaths, but unless the omission reached some unrealistic proportions, such as 50%, the Serbian and Bulgarian infant mortality rates are evidence of a more healthy and less lethal environment overall. As mentioned earlier, these countries were still predominantly agricultural – large parts of the Serbian economy could, in fact, even be described as pastoral – and the recorded population densities were relatively low. 11 For example, the calculation of life expectancy requires reliable and complete mortality data by age and gender for the whole population – something that many countries were not in a position to reliably collect until the very end of the 19th century. Educational attainment, similarly, can be estimated only when good data are available on the population’s years of schooling, or of the highest educational degree attained. While such information was collected as part of many 20th century censuses, this was not the case in the 19th century when even measures of school enrollment and attendance were problematic. 12 Since children are usually counted as half an adult, the expenses are equal to three adult annual expenses. 13 The representativeness of the sample is a crucial assumption and one with which many historical height samples struggle. Who ends up in the army may vary across time and across population groups, leading to self-selection (Bodenhorn et al., 2015). 14 Such may be the case when, for example, a particular line of work becomes unpleasant, unhealthy or dangerous and employers need to increase worker remuneration to compensate them for these added job disamenities. Unless the disamenity is measureable (which it rarely is) and properly accounted for, an unaware observer may erroneously conclude, simply by looking at the wage record, that workers’ welfare has increased.
+
+
+Population and living standards, 1800–1914 153
+References
+Allen, Robert C. “The Great Divergence in European Wages and Prices from the Middle Ages to the First World War.” Explorations in Economics History 38, 2001, pp. 411–447. Alter, George and Clark, Gregory. “The Demographic Transition and Human Capital.” In Stephen Broadberry and Kevin H. O’Rourke (Eds.). The Cambridge Economic History of Modern Europe, Volume 1: 1700–1870, Cambridge: Cambridge University Press, 2010, pp. 43–69. Andorka, Rudolf. “Birth Control in the 18th and 19th Centuries in Some Hungarian Villages.” Local Population Studies 22, 1979, pp. 38–42. Austria. K. K. Statistische Zentral-Kommission. “Die Ergebnisse der Volkszahlung vom 31. Dezember 1900 in den im Reichsrate vertretenen Konigreichen und Landern.” Osterreichische Statistik 63 (3), Wien. 1903.
+Becker, Gary. A Treatise on the Family: Enlarged Edition. Cambridge, MA: Harvard University Press, 1993.
+Bérend, Ivan T. and Ránki, Gyorgy. Economic Development in East-Central Europe in the 19th and 20th Centuries. New York and London: Columbia University Press, 1974. Bodenhorn, Howard, Guinnane, Timothy W. and Mroz, Thomas A. “Sample-Selection Biases and the ‘Industrialization Puzzle’” NBER working paper #21249, June 2015. Bogišić, V. “D’une forme particulière de la famille chez les Serbes et les Croates.” Revue de Droit Internationale et de Législation Comparée 16, 1884, pp. 374–409.
+Botev, Nikolai. “Nuptiality in the Course of the Demographic Transition: The Experience of the Balkan Countries.” Population Studies 44 (1), 1990, pp. 107–126. Brown, John C. “Household Choice of Technique in the Fog of Uncertainty: Strategies of Family Building and Patterns of Choice During the German Fertility Transition, 1885–1915.” 2009, unpublished. Brown, John C. and Guinanne, Timothy W. “Regions and Time in the European Fertility Transition: Problems in the Princeton Project’s Statistical Methodology.” Economic History Review 60 (3), 2007, pp. 574–595. Caldwell, John C. and Caldwell, Pat. “Regional Paths to Fertility Transition.” Journal of Population Research 18 (2), 2001, pp. 91–117. Chaudhary, Latika, Musacchio, Aldo, Nafziger, Steven and Yan, Se. “Big BRICs, Weak Foundations: The Beginning of Public Elementary Education in Brazil, Russia, India, and China.” Explorations in Economic History 49, 2012, pp. 221–240.
+Clark, Gregory. “Farm Wages and Living Standards in the Industrial Revolution: England, 1670–1869.” Economic History Review 54 (2), 2001, pp. 477–505.
+Clark, Gregory. A Farewell to Alms: A Brief Economic History of the World. Princeton and Oxford: Princeton University Press, 2007. Cleland, John and Wilson, Christopher. “Demand Theories of the Fertility Transition: An Iconoclastic View.” Population Studies: A Journal of Demography 41 (1), 1987, pp. 5–30. Coale, Ansley J. and Watkins, Susan C. (Eds.). The Decline of Fertility in Europe: The Revised Proceedings of a Conference on the Princeton European Fertility Project. Princeton: Princeton University Press, 1986.
+Conze, W. Agrarverfassung und Bevölkerung in Litauen und Weisrusland, vol. 1. Leipzig: Hirzel. 1940. Corrsin, Stephen D. “Literacy Rates and Questions of Language, Faith and Ethnic Identity in Population Census in the Partitioned Polish Lands and Interwar Poland (1880s–1930s).” The Polish Review 43 (2), 1998, pp. 131–160. Cvrcek, Tomas. “Wages, Prices, and Living Standards in the Habsburg Empire, 1827–1910.” The Journal of Economic History 73 (1), 2013, pp. 1–37.
+
+
+154 Tomáš Cvrček
+Cvrcek, Tomas and Zajicek, Miroslav. “Building Schools from Above: The Rise of Public Schooling in Imperial Austria, 1774–1869.” Working paper, 2015. Cvrcek, Tomas and Zajicek, Miroslav. “The Making of a Liberal Education: Political Economy of the Austrian School Reform, 1865–1880.” Explorations in Economic History, 2018. Czap, Peter. “ ‘A Large Family: The Peasant’s Greatest Wealth’: Serf Households in Mishino, Russia, 1814–1858.” In R. Wall, J. Robin, and P. Laslett (Eds.). Family Forms in Historic Europe. Cambridge: Cambridge University Press, 1983, pp. 105–151. David, Paul A. and Sanderson, Warren C. “The Emergence of a Two-Child Norm among American Birth-Controllers.” Population and Development Review 13 (1), 1987, pp. 1–41. De Moor, Tine and van Zanden, Jan Luiten. “Girl Power: The European Marriage Pattern and Labour Markets in the North Sea Region in the Late Medieval and Early Modern Period.” Economic History Review 63 (1), 2010, pp. 1–33. Dennison, Tracy K. “Serfdom and Household Structure in Central Russia: Voshchazhnikovo, 1816–1858.” Continuity and Change 18 (3), 2003, pp. 395–429. Dennison, Tracy K. and Carus, A. W. “The Invention of the Russian Commune: Haxthausen and the Evidence.” The Historical Journal 46 (3), 2003, pp. 561–582. Dennison, Tracy K. and Ogilvie, Sheilagh. “Does the European Marriage Pattern Explain Economic Growth?” Journal of Economic History 74 (3), 2014, pp. 651–693. Dennison, Tracy K. and Ogilvie, Sheilagh. “Institutions, Demography and Economic Growth.” Journal of Economic History 76 (1), 2016, pp. 205–217. Dribe, Martin and Scalone, Francesco. “Detecting Deliberate Fertility Control in Pre-transitional Populations: Evidence from Six German Villages, 1766–1863.” European Journal of Population 26, 2010, pp. 411–434. Easterlin, Richard A. “Why Isn’t the Whole World Developed?” Journal of Economic History 41 (1), 1981, pp. 1–19. Fellner, Friedrich V. “Das Volkseinkommen Österreichs und Ungarns.” Statistische Monatschrift, 1916, pp. 486–607. Fialová Ludmila, Zdeněk Pavlík a Pavel Vereš. “Fertility Decline in Czechoslovakia During the Last Two Centuries.” Population Studies: A Journal of Demography 44 (1), 1990, pp. 89–106. Findl, Peter. “Mortalität und Lebenserwartung in der österreichischen Alepnländern im Zeitalter der Hochindustrialisierung (1868–1912).” In Festschrift in Geschichte und Ergebnisse der zentralen amtlichen Statistik in Osterreich 1829–1979. Vienna: Kommissionsverlag, Österreichische Staatsdruckerei, 1979, pp. 425–452. Galloway, Patrick R. “Basic Patterns in Annual Variations in Fertility, Nuptiality, Mortality, and Prices in Pre-industrial Europe.” Population Studies 42 (2), 1988, pp. 275–303. Galloway, Patrick R., Hammel, Eugene A. and Lee, Ronald D. “Fertility Decline in Prussia, 1875–1910: A Pooled Cross-Section Time Series Analysis.” Population Studies 48 (1), 1994, pp. 135–158. Galloway, Patrick R., Lee, Ronald D. and Hammel, Eugene A. “Infant Mortality and the Fertility Transition: Macro Evidence from Europe and New Findings from Prussia.” In Mark R. Montgomery and Barney Cohen (Eds.). From Death to Birth: Mortality Decline and Reproductive Change. Washington, DC: National Academy Press, 1998, pp. 182–226. Galor, Oded. Unified Growth Theory. Princeton and Oxford: Princeton University Press, 2011. Galor, Oded and Weil, David. “The Gender Gap, Fertility and Growth.” American Economic Review 86 (3), 1996, pp. 374–387.
+Gerschenkron, Alexander. Economic Backwardness in Historical Perspective: A Book of Essays. Cambridge, MA: Belknap Press, 1962. Good, David F. “Cost of Living in Austria, 1873–1914.” Journal of European Economic History 5 (2), 1976, pp. 391–400.
+
+
+Population and living standards, 1800–1914 155
+Good, David F. The Economic Rise of the Habsburg Empire. Berkeley: University of California Press, 1984.
+Granditzs, Hannes and Heady, Patrick (Eds.). Distinct Inheritances: Property Family and Community in Changing Europe. Münster: LIT Verlag, 2003. Gruber, Siegfried and Szoltysek, Mikolaj. “Stem Families, Joint Families and the European Pattern: What Kind of Reconsideration Do We Need?” Journal of Family History 37 (1), 2012, pp. 105–125. Guinnane, Timothy W. “The Historical Fertility Transition: A Guide for Economists.” Journal of Economic Literature 49 (3), 2011, pp. 589–614.
+Guinanne, Timothy W., Okun, Barbara A. and Trussell, James. “What Do We Know About the Timing of Fertility Transitions in Europe?” Demography 31 (1), 1994, pp. 1–20. Guzowski, Piotr. “The Origins of the European Marriage Pattern in Early Modern Period from the Perspective of Polish History.” Acta Poloniae Historica 108, 2013, pp. 5–44. Hajnal, J. “European Marriage Patterns in Perspective.” In D. V. Glass and D. E. C. Eversley (Eds.). Population in History. Essays in Historical Demography. London: Edward Arnold, 1965, pp. 101–143. Hajnal, J. “Two Kinds of Preindustrial Household Formation System.” Population and Development Review 8, 1982, pp. 449–494. Hammel, Eugene A. “Economics 1, Culture 0: Fertility Change and Differences in the Northwest Balkans, 1700–1900.” In S. Greenhalgh (Ed.). Situating Fertility: Anthropology and Demographic Inquiry. Cambridge University Press, Cambridge, 1995, pp. 225–258. Hammel, Eugene A. and Galloway, Patrick R. “Structural and Behavioural Changes in the Short Term Preventive Check in the Northwest Balkans in the 18th and 19th Centuries.” European Journal of Population 16, 2000, pp. 67–108. Haxthausen, von August. Studien über die inneren Zustände, das Volksleben und ins- besondere die ländlichen Einrichtungen Rußlands. Hanower-Berlin, 1846.
+Helczmanowski, Heimold. “Die Bevölkerung Österreich-Ungarns.” In Festschrift in Geschichte und Ergebnisse der zentralen amtlichen Statistik in Osterreich 1829–1979. Vienna: Kommissionsverlag, Österreichische Staatsdruckerei, 1979, pp. 369–402. Hoszowski, Stanislaw. Ceny we Lwowie w latach, 1701‒1914. Sklad glowny: Kasa im. Rektora J. Mianowskiego, 1934.
+Kadlec, К. Rodinný nedil čili zadruha v právu slovanském. Praha: Nákl. vlastním v komisi Bursíka and Kohouta, 1898.
+Kárniková, Ludmila. Vyvoj obyvatelstva v ceskyc zemich, 1754–1914. Praha: Nakladatelstvi Ceskoslovenske akademie ved, 1965. Kaser, Karl. “Power and Inheritance: Male Domination, Property and Family in Eastern Europe, 1500–1900.” In Hannes Gradits and Patrick Heady (Eds.). Distinct Inheritances: Property Family and Community in Changing Europe. Münster: LIT Verlag, 2003, pp. 53–68.
+Komlos, John. The Habsburg Monarchy as a Customs Union: Economic Development in AustriaHungary in the Nineteenth Century. Princeton, NJ: Princeton University Press, 1984.
+Komlos John. Nutrition and Economic Development in the Eighteenth-century Habsburg Monarchy: An Anthropometric History. Princeton, NJ: Princeton University Press, 1989. Komlos, John. “Shrinking in a Growing Economy? The Mystery of Physical Stature During the Industrial Revolution.” Journal of Economic History 58 (3), 1998, pp. 779–802. Komlos, John. “Anthropometric Evidence on Economic Growth, Biological Well-being and Regional Convergence in the Habsburg Monarchy, c. 1850–1910.” Cliometrica 1, 2007, pp. 211–237. Kopczynski, Michal. “The Physical Stature of Jewish Men in Poland in the Second Half of the 19th Century.” Economics and Human Biology 9, 2011, pp. 203–210.
+
+
+156 Tomáš Cvrček
+Kytir, Josef and Münz, Rainer. “Illegimität in Österreich.” Demographische Informationen, 1986, pp. 7–21. Lampe, John R. “Varieties of Unsuccessful Industrialization: The Balkan States Before 1914.” The Journal of Economic History 35 (1), 1975, pp. 56–85.
+Laslett, P. “Characteristics of the Western Family Considered over Time.” In P. Laslett (Ed.). Family Life and Illicit Love in Earlier Generations. Essays in Historical Sociology. Cambridge: Cambridge University Press, 1977, pp. 12–49.
+Le Play, P. G. Frederic. The Organization of Labour in Accordance with Custom and the Law of the Decalogue. Philadelphia: Claxton, Remsen & Haffelfinger, 1872.
+Lindert, Peter. Growing Public: Social Spending and Economic Growth since the Eighteenth Century. Cambridge: Cambridge University Press, 2004 – Chapter 5 – The Rise of Mass Public Schooling before 1914. Maddison, Angus. The Maddison-Project, www.ggdc.net/maddison/maddison-project/ home.htm, 2010 version. Magyar Kiralyi Kozponti Statisztika Hivatal. “A Magyar Szent-Korona Orszagainak 1900. evi Nepszamlalasa.” Magyar Statisztika Kozlemenyek (5), Budapest: Pesti KonyvnyomdaReszvenytarsag, 1907.
+Malthus, T. R. An Essay on the Principle of Population. London, 1798.
+Mironov, Boris N. “Wages and Prices in Imperial Russia, 1703–1913.” Russian Review 69 (1), 2010, pp. 47–72. Mironov, Boris N. and A’Hearn, Brian. “Russian Living Standards under the Tsars: Anthropometric Evidence from the Volga.” Journal of Economic History 68 (3), 2008, pp. 900–929. Mironov, Boris N. and Eklof, Ben. A Social History of Imperial Russia, 1700–1917. Boulder, CO: Westview Press, 2000. Mishkova, Diana. “Literacy and Nation-Building in Bulgaria.” East-European Quarterly 29 (1), 1994, pp. 63–93.
+Mitchell, B. R. International Historical Statistics: Europe, 1750–2000, 5th edition. Basingstoke: Palgrave Macmillan, 2003. Mitterauer, Michael. “Family Contexts: The Balkans in European Comparison.” History of the Family 1, 1996, pp. 387–406. Mitterauer, Michael. “European Kinship Systems and Household Structures: Medieval Origins.” In P. Heady and H. Grandits (Eds.). Distinct Inheritances. Property, Family and Community in a Changing Europe. Münster: Lit Verlag, 2003, pp. 35 − 52. Mokyr, Joel. “The Rise and Fall of the Factory System: Technology, Firms, and Households since the Industrial Revolution.” Carnegie-Rochester Conference Series on Public Policy 55 (1), 2001, pp. 1–45. North, Douglas C. and Weingast, Barry R. “Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England.” Journal of Economic History 49 (4), 1989, pp. 803–832. Notestein, Frank. “Population – The Long View.” In Theodore W. Schultz (Ed.). Food for the World. Chicago: University of Chicago Press, 1945, pp. 36–57. Özmucur, Süleyman and Pamuk, Sevket. “Real Wages and Standards of Living in the Ottoman Empire, 1489–1914.” Journal of Economic History 62 (2), 2002, pp. 294–321. Palairet, Michael. The Balkan Economics c. 1800–1914. Cambridge: Cambridge University Press, 1997. Plakans, Andrejs. “The Familial Contexts of Early Childhood in Baltic Serf Society.” In R. Wall and J. Robin (Eds.). Family Forms in Historic Europe. Cambridge: Cambridge University Press, 1983, pp. 167–206.
+Pribram, Alfred Franz. Materialien zur Geschichte der Preise und Löhne in Österreich, Band I, Vienna: Carl Ueberreuters Verlag, 1938.
+
+
+Population and living standards, 1800–1914 157
+Schulze, Max-Stephan. “Patterns of Growth and Stagnation in the Late Nineteenth Century Habsburg Economy.” European Review of Economic History 4, 2000, pp. 311–340. Schulze, Max-Stephan. “Regional Income Dispersion, and Market Potential in the Late Nineteenth-Century Hapsburg Empire.” London School of Economics Working Paper 106/07, 2007. Sklar, June L. “The Role of Marriage Behaviour in the Demographic Transition: The Case of Eastern Europe around 1900.” Population Studies 28 (2), 1974, pp. 231–247. Szoltysek, Mikolaj. “The Genealogy of Eastern European Difference: An Insider’s View.” Journal of Comparative Family Studies 43 (3), 2012, pp. 335–371.
+Szoltysek, Mikolaj and Gruber, Siegfried. “Mosaic: Recovering Surviving Census Records and Reconstructing the Familial History of Europe.” The History of the Family 21 (1), 2016, pp. 38–60. Szoltysek, Mikolaj and Zuber-Goldtein, Barbara. “Historical Family Systems and the Great European Divide: The Invention of the Slavic East.” Demográfia 52 (5), 2009, pp. 5–47. Todorova, Maria N. “Situating the Family of Bulgaria within the European Pattern.” History of the Family 1, 1996, pp. 443–459. Vasary, Ildiko. “The sin of Transdanubia.” Continuity and Change 4, 1989, pp. 429–468. Voth, Hans-Joachim and Voigtlander, Nico. “How the West ‘Invented’ Fertility Restriction.” The American Economic Review 103 (6), 2013, pp. 2227–2264.
+Wetherell, Charles and Plakans, Andrejs. “Fertility and Culture in Eastern Europe: A Case Study of Riga, Latvia, 1867–1881.” European Journal of Population 13 (3), 1997, pp. 243–268.

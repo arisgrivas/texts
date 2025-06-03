@@ -1,0 +1,1505 @@
+Economic History Working Papers No: 374
+Economic History Department, London School of Economics and Political Science, Houghton Street, London, WC2A 2AE, London, UK. T: +44 (0) 20 7955 7084.
+Fiscal Financing Regimes and
+Nominal Stability: An historical
+analysis
+Oliver Bush, LSE
+November 2024
+
+
+Fiscal Financing Regimes and Nominal Stability: An Historical
+Analysis
+Oliver Bush ∗
+JEL classification codes: E6, N1.
+Keywords: Public finance, fiscal policy, inflation.
+Abstract
+Theory predicts that inflation dynamics differ markedly according to the fiscal regime – in particular whether or not fiscal shocks are financed by changes in the discounted sum of real primary surpluses. This paper takes a narrative approach to the difficult task of identifying the regime. Narrative evidence on British policymakers’ stated fiscal objectives and financing plans shows that policymakers used fiscal policy to stabilise the public finances in the Gold Standard era but did not do so in the era of the Great Inflation (1960s-70s). These findings are supported by empirical evidence that expansionary fiscal shocks caused the primary balance to rise after a lag in the Gold Standard regime, but did not do so in the Great Inflation regime. The price level rose in response to these shocks in the Great Inflation regime, showing that unexpected inflation played an important role in stabilising the public finances in that era.
+† This work has benefited from comments from Ricardo Reis, Daniel Dorey-Rodriguez, Matt Waldron and, on an earlier version, from Brad DeLong, Eric Leeper and Morten Ravn, conversations with Francesco Bianchi, Michael Bordo, John Cochrane, Tim Congdon, Barry Eichengreen, Charles Goodhart, Richard Harrison and Ryland Thomas and comments from audiences at the Bank of England, the Federal Reserve Board, the Monetary History Group, London School of Economics, UC Berkeley and UC Davis. ∗London School of Economics (o.bush@lse.ac.uk).
+
+
+A sound monetary policy needs to be buttressed by a prudent fiscal stance.
+At one time, it was regarded as the hallmark of good government to maintain a balanced budget; to ensure that, in time of peace, Government spending was fully financed by revenues from taxation, with no need for Government borrowing. Over the years, this simple and beneficent rule was increasingly disregarded, culminating in the catastrophe of 1975–76...
+Nigel Lawson, Chancellor of the Exchequer, Budget speech, 15th March
+1988
+I define a fiscal financing regime as a set of arrangements and institutions accom
+panied by a set of expectations which determine how fiscal shocks are financed.1
+The regime plays a central role in determining inflation dynamics in modern
+macroeconomic models.2
+In this paper I use narrative and time series evidence to contrast the fiscal financing
+regimes in two periods of modern British history – the eras of the Gold Standard
+and the Great Inflation. These may well have been the periods which Nigel Lawson
+had in mind in the quote above. I collect evidence from Parliamentary speeches
+to demonstrate the contrast between the two regimes. In the Gold Standard
+regime, an evolving series of conventions ensured that wars, the main source of
+expansionary fiscal policy of the day, were paid for by higher primary surpluses
+over subsequent years. No such conventions were in place by the time of the Great
+1This definition is based on Bordo and Schwartz (1999) and Bordo and Jonung (2001). I adapt their definition to capture the potential role of unexpected inflation in financing surprise changes in tax or spending policy through real debt revaluations. In a slight stretch of the English language, I intend the definition to apply symmetrically in the sense that a contractionary fiscal shock can be financed by an unexpected reduction the price level. The focus on the the role of unexpected inflation in financing fiscal shocks stems from the fact that debt revaluations via unexpected inflation have been shown capable of playing a significant role in debt dynamics (Sims 2013), while expected inflation, via seigniorage, typically only plays a minor role in financing government spending (King
+1995).
+2See e.g. Sargent and Wallace (1981); Leeper (1991); Sims (1994); Woodford (1995); Leeper and Leith (2016). In most of this literature, the regime is defined by the values of coefficients in fiscal and monetary policy reaction functions, an issue I discuss below.
+1
+
+
+Inflation and this is reflected in the absence of evidence that fiscal policy was used
+to stabilise the public finances.
+I show that the public finances were instead stabilised by unexpected inflation in
+the 1960s-70s: unlike in the Gold Standard era, expansionary fiscal shocks caused
+the price level to rise. This finding is corroborated by evidence from the Great
+Inflation era that the private sector believed that fiscal policy caused inflation,
+albeit the mechanism was different from the one suggested by modern theory.
+The UK is a particularly promising country in which to study this topic. First, it has
+a highly centralised and hierarchical power structure which makes it relatively easy
+to assemble with confidence narrative evidence on government policy. Second,
+as the land of Hume, Smith, Ricardo, Mill and Keynes, the evolution of fiscal
+doctrine may have had an outsized influence on policymaking.3 Third, the UK is
+an outlier in other important respects – the degree of nominal stability during the
+Gold Standard era and the degree of instability during the Great Inflation.
+In contrast to most papers on fiscal theories of inflation, I do not attempt to
+measure the coefficient on debt in a fiscal reaction function, i.e. γ in this equation:4
+st = γbt−1 + δ′Zt + εt
+Estimating γ is challenging for a number of reasons. Most obviously, omitted
+variables (rows of the vector Zt) which are correlated with lagged debt would
+lead to bias. Somewhat more subtly, if εt is an autoregressive process, then bt−1
+would not be independent of εt (Leeper and Li 2017). More generally, if γ is not
+positive (and monetary policy is ‘passive’), then bt−1 and the surplus st are jointly
+3One could also add (Robert) Hamilton, Pitt the Younger, Peel and McCulloch. 4There is of course a counterpart literature which attempts to identify the monetary regime (Clarida et al. 2000; Taylor 1999).
+2
+
+
+determined by the fiscal reaction function and the government debt valuation
+equation.
+One approach to these problems could be to instrument bt−1 with old shocks
+(Barnichon and Mesters 2020), such as fiscal news shocks. However, the instrument
+may lack relevance because when γ is zero fiscal shocks may have little impact on
+the real value of government debt.5 Even if the instrument is relevant, the potential
+for omitted variable bias remains if the shocks affect Zt.
+Another approach is to estimate γ as part of a system of equations, disciplined
+by theory. A series of authors have done this using estimated DSGE models
+which allow γ to fluctuate over time.6 This is a promising approach but also not
+uncontroversial. For example Cochrane (2023, ch. 24) notes that these papers tend
+to restrict the fiscal shock to be an AR(1) process. This, he argues, makes it more
+likely that the estimated value of γ will be positive, when in fact it could be zero,
+accompanied by an s-shaped fiscal shock process (Cochrane 1998).7
+My methodological approach is instead similar to that used in the analysis of
+post-WWII US fiscal policy in Romer (2007) and in the study of Roosevelt’s fiscal
+regime change by Jacobson et al. (2019).8 My paper builds on this tradition
+in demonstrating the usefulness of narrative historical methods and time series
+econometrics in characterising the fiscal regime, as well as the ability of fiscal
+5The analogy between debt issuance and a stock split when fiscal policy is active and monetary policy is passive illustrates this possibility (Cochrane 2005). 6E.g. Bhattarai et al. (2016), Bianchi and Ilut (2017) and Chen et al. (2022) for the US and Fan et al. (2016) for the UK. More recently, Bianchi et al. (2023) and Smets and Wouters (2024) allow for fully, partially and unfunded fiscal shocks within the same regime. 7More fundamentally, time series data can only shed light on how policy responds in equilibrium, so tell us nothing about off equilibrium threats which may play a role in determining equilibrium inflation (Cochrane 2011). 8It is also related to Banerjee et al. (2022) which uses de jure measures of monetary and fiscal regimes constructed by other authors to show how the relationship between fiscal deficits and inflation in a cross-country panel depends on the regimes in place.
+3
+
+
+theories of inflation to organise history and explain events.9 Other contributions
+include new narrative evidence on fiscal objectives taken from over two centuries
+of Budget speeches and new narrative evidence on the understanding of fiscal
+policy and inflation outside of government.
+Others who have studied war finance in long samples include Barro (1987) for the
+UK and Hall and Sargent (2021) for the US. My analysis of the Great Inflation fiscal
+financing regime builds on work Nelson (2003) and Nelson and Nikolov (2004)
+which show that the Taylor Principle was not observed in Britain and attributed
+high inflation largely to this. And this paper has been written alongside Bordo
+et al. (2024) which brings fiscal policy into the narrative of the Great Inflation in
+the UK.
+This paper focusses on the fiscal aspects of fiscal financing regimes. The two
+eras are also characterised by contrasting monetary policies (see e.g. Bordo and
+Schwartz (1999)). The theoretical literature on the interactions between monetary
+and fiscal policy (surveyed by Leeper and Leith (2016)) shows that this is not a
+coincidence – some combinations of monetary and fiscal policy are stable (and
+therefore durable) and some are not.10
+My narrative evidence on the Gold Standard and Great Inflation era fiscal financing
+regimes is presented in Section 1. Section 2 presents time series evidence which
+serves as a cross check on my narrative evidence and highlights the role of
+unexpected inflation in stablising the public finances in the Great Inflation era.
+9Cochrane (2023), page xii. 10The Gold Standard has been interpreted as a fiscal commitment as much as a monetary one (Bordo and Kydland 1995).
+4
+
+
+1. Narrative Evidence on the Fiscal Financing Regime
+I analyse the fiscal financing regimes in two eras – the eras of the Gold Standard
+and the Great Inflation. I restrict the former to the dates 1717 (when through
+historical accident Britain moved to a gold standard) to 1914. I choose not to go
+beyond 1914 because WWI put such a strain on the public finances that it seems
+unlikely that the previous fiscal financing regime could have survived in tact.
+Indeed it did not: while, remarkably, sterling was re-pegged to gold at its pre-war
+rate, the new regime was a gold exchange standard which proved to be fragile and
+collapsed in the 1930s. Of course one could question the inclusion of 1797-1821
+when gold convertibility was suspended. The suspension period is discussed in
+Appendix A.
+I use the conventional dating of 1965-1982 for the Great Inflation era. While in
+principle I could have used the dates suggested by narrative evidence on the
+financing regime (which would have suggested a somewhat longer regime), I
+prioritise the greater ability to compare with the Great Inflation literature and
+believe that, as there is so much variation in the data in this shorter period, I lose
+little by restricting the dates.
+1.1. Sources
+My main source of evidence on the fiscal financing regime is the Budget speech.
+Budget speeches were typically given once a year and set out how spending plans
+would be financed – i.e. the mixture of tax and borrowing or debt repayment.11
+They were the main vehicles for tax policy announcements and for Chancellors to
+set out the objectives underlying them. Their format was remarkably stable, at least
+11I use the past tense here partly because from the 1990s onwards Budgets have increasingly covered spending policy as well as tax and debt policy.
+5
+
+
+until WWII. The Budget speech normally took place after Parliament had already
+agreed the sums to be ‘supplied’ to the government. While the Chancellor tended
+to review these sums, the main focus was on the ‘ways and means’ by which
+the supplies would be financed. When prospective revenue based on existing tax
+policy was sufficient to finance the spending plans, the Chancellor had to decide
+whether to repay debt (via the original sinking fund mechanism discussed below)
+or to cut taxes. When revenue fell short, the Chancellor had to decide whether to
+raise taxes or to borrow. The change in format which occurred in the mid-twentieth
+century is discussed in Section 1.3.
+The first use of the term ‘Budget’ appears to have been in 1733.12 Because of
+restrictions on Parliamentary reporting, we do not know exactly when Budget
+speeches became the regular annual event that they are now. My sample of
+speeches begins in 1769, although many of the early speeches have not been
+recorded verbatim. The speeches have been preserved in Cobbett’s Parliamentary
+History and Hansard’s Parliamentary Debates.
+I use monarchs’ speeches to expand my sample of primary evidence back to
+1717. The monarch gives a speech about the government’s priorities to mark the
+beginning of every new Parliamentary session (again, typically once a year). These
+speeches naturally range across a much broader range of topics, but in the period
+1717-1769, monarchs often referred to fiscal policy, perhaps because there were no
+Budget speeches in the early years.
+Where necessary (e.g. for my analysis of private sector views) I look at other
+primary sources including newspapers and government archives.
+The secondary literature has made this analysis much easier than it would have
+12Sabine (1966, p.109).
+6
+
+
+been. I have relied particularly heavily on a history of the national debt before
+1931 by Hargreaves (1930), supplemented by a more recent history by Slater (2018)
+and, to understand the revolution in institutional arrangements which made a
+large national debt possible, Dickson (1967), Stasavage (2003) and Cox (2016).
+1.2. Policy objectives in the Gold Standard era, 1717-1914
+Appendix A contains a full narrative of the evolution of the fiscal financing regime
+during the Gold Standard era, drawing heavily on Parliamentary speeches. The
+following paragraphs are a summary.
+The years before 1717 saw the development of the funding system. Under this
+system, loans were issued with earmarked tax funding, so that interest would be
+provided for automatically. This system enabled large increases in debt in wartime.
+Initially, there was no system in place to pay back debt in peacetime. Walpole’s
+1717 sinking fund rectified this. While successful at first, Walpole himself abused
+the system and from the 1730s onwards it was much less effective. So during this
+century of wars, debt and taxes ratcheted up. Pitt brought in two new sinking
+funds towards the end of the century that made debt repayment automatic and in
+some sense marked the completion of the funding system. But by this point, debt
+was so high that relying mainly on borrowing to fund the French Wars proved
+unsustainable.
+1797 marked a turning point in war finance. Pitt announced a new tax – the
+precursor of the income tax – which would substantially increase the share of war
+spending funded by taxation. Under his new plan, this tax would be sustained in
+peacetime until the war debt had been paid off. While this plan did not survive the
+war intact, tax revenue grew in real terms by an annual average rate of 5.5 per cent
+from 1797 to 1815, compared to a rate of 1.1 per cent from 1792 to 1797. Over recent
+7
+
+
+years, some academics have hypothesised that sterling’s temporary depreciation
+against gold from 1810 to 1815 was caused by creditor fears that the war would
+be paid for by surprise inflation. The fact that the consol rate remained below
+the 1797/98 peak over this period calls this explanation into question, although it
+is possible that the Bank of England expanded the money supply temporarily to
+finance loans to the government.
+By 1816, the political imperative was tax reduction. The Chancellor’s bid to
+renew the income tax was rejected by Parliament and debt repayment fell down
+the priority list and remained low for 50 years. Nevertheless, some norms were
+established. These are best encapsulated by two quotes from Gladstone. In
+peacetime, “nothing but a dire necessity should induce us to borrow,” whereas
+in wartime, “you get what revenue you can, and make large loans to meet the
+exigencies of the public service.” The phrase ‘balanced budget’ was not used in
+this period, but it captures the peacetime strategy, while the wartime strategy
+was really a continuation of the pragmatic strategy deployed from 1797 to 1815 of
+attempting to maximise the share of war spending that was funded by tax revenue.
+Debt repayment shot back up the priority list in the 1860s and remained there
+for most of the next 50 years. Gladstone embraced the approach of issuing
+terminable annuities whose service included a capital repayment component. In
+1875, Northcote added a new sinking fund which was more flexible than Pitt’s.
+This survived the whole period and significant progress was made in reducing
+debt, despite the very expensive Boer War.
+As is clear from this summary, the fiscal financing regime did evolve over time.
+But one thing remained constant throughout: the unwavering commitment to levy
+taxes needed to service existing debt. This was hard-wired into the eighteenth
+century funding system and in the nineteenth and early twentieth centuries it was
+8
+
+
+achieved via balanced budget norms.
+1.3. Policy objectives in the Great Inflation era, 1965-1982
+Before 1965 The 1941 Budget speech (the second time the phrase “inflationary
+gap” was used in the House of Commons) and the 1944 Employment White Paper
+are often seen as marking the start of Keynesian influence on fiscal policy. The
+Budget now had a much larger role in managing the economy. Post-WWII Budget
+speeches devoted considerably more space to reviewing recent macroeconomic
+trends (including those relating to the balance of payments) and discussing the
+outlook. This assessment would drive ‘the Budget judgement’ – the perceived
+need to boost or contract demand – which in turn would set the envelope for tax
+policy changes.
+Where did this leave the traditional objectives of the Budget? This was one of the
+questions considered by the National Debt Enquiry, an internal government project
+set up by the Permanent Secretary to the Treasury and staffed by, among others,
+Keynes, Meade and Robbins. The paper that considered this question13 observed
+that:
+The principle of an annual excess of revenue over expenditure which
+remains unchanged year after year is incompatible with the general
+policy outlined in the recent White Paper on Employment Policy.... It
+may, therefore, at times be necessary deliberately to reduce rates of
+taxation in order to stimulate private buying (or to raise rates of taxation
+to restrict private buying) in the interest of stabilising total aggregate
+demand and without undue regard to the effect upon the balance of
+the budget in any one year....
+13Debt Repayment and Employment Policy, The National Archives T 233/158.
+9
+
+
+There remains, however, a more controversial issue. It is agreed that
+budget deficits in certain years are admissible. But what of the balance
+of the budget over a series of years? If...it is desirable to reduce the total
+outstanding national debt, it would follow that budget surpluses in
+years of good trade should be greater or more frequent than the budget
+deficits which are permitted in years of bad trade, so that over the aver
+age of good and bad years together there is a net repayment of debt....
+What reason is there to believe that there will be no conflict between
+the apparently quite separate objectives (i) of a net budget surplus over
+the average of years and (ii) of the maintenance of employment in each
+particular year?
+The National Debt Enquiry recommended that these two objectives be reconciled
+by a low interest rate policy.14 This was taken forward by the post-war government.
+The first three post-WWII Budget speeches all communicated a policy of “balancing
+the Budget, not year by year, but over a series of years.” But references to balancing
+budgets disappeared altogether in the 1950s, replaced by a focus on managing
+demand and the balance of payments.15 So too did the low interest rate policy.
+Another institutional change also suggests that debt stabilisation was no longer
+an objective of fiscal policy. In the 1954 Budget speech, Rab Butler announced the
+repeal of the sinking fund that had been put in place by Winston Churchill in 1928.
+This was debated late on the evening of 28th June 1954 and received little criticism
+aside from Labour MP Norman Smith.16
+14Howson (1987). 15Consistent with this, Allen (2014) reports that 1950s ‘fiscal policy also took little account of the outstanding total of government debt and there was no conscious policy towards total debt’. 16One more institutional change was giving the Treasury the power to issue debt in the 1968 National Loans Act.
+10
+
+
+1965 to 1970 The first government led by Harold Wilson was dominated by
+balance of payments problems. Inheriting a weak position, it failed to prevent
+devaluation in 1967 and battled to allay fears that sterling would be devalued
+further.17 Budget speeches reflected this struggle, with taxes used to restrain
+demand so as to improve the external position. Amidst this focus on sterling and
+the current account, policymakers were indifferent to the fiscal position, as this
+quote from Roy Jenkins’ 1969 Budget exemplifies:
+The increase in revenue is considerable.... This should make the Central
+Government a net re-payer of debt in this fiscal year.... But that result is
+incidental, although beneficial. The main purpose of the Budget is to
+continue the balance of payments improvement.
+1971 to 1973 Devaluation and deflationary policies did eventually turn the ex
+ternal position around, although it was the government led by Sir Edward Heath
+which enjoyed the benefit of the increased flexibility. But there was a new problem:
+by the second half of 1971, unemployment was heading towards the politically
+sensitive one million mark. The Chancellor (Anthony Barber) was in no mood
+to tolerate further increases, saying in his 1972 Budget that “there is universal
+agreement that the present high level of unemployment is on every ground 
+economic and social – one which no Government could tolerate.”
+The policy reaction was extraordinary. Tax cuts worth almost 3 per cent of GDP
+were announced. On this measure, the 1972 Budget measures were almost twice
+as large as the next most expansionary Budget in the 1945–2009 period. Barber
+realised that this course of action might not be compatible with a fixed exchange
+rate. He signaled his willingness to devalue in the Budget speech, stating that
+17Cairncross and Eichengreen (2003 [1983]).
+11
+
+
+“the lesson of the international balance of payments upsets of the last few years
+is that it is neither necessary nor desirable to distort domestic economies to an
+unacceptable extent in order to maintain unrealistic exchange rates.” Sure enough,
+sterling was devalued in June 1972.
+Nevertheless, he played down any inflationary consequences, stating that he did
+“not believe that a stimulus to demand of the order [proposed] will be inimical to
+the fight against inflation. On the contrary, the business community has repeatedly
+said that the increase in productivity and profitability resulting from a faster
+growth of output is one of the most effective means of restraining price increases.”
+Perhaps the most startling feature of the speech is the lack of attention given to
+the public finances, particularly given the size of the tax cuts. This is all Barber
+had to say about them:
+It has been traditional to give, in the Budget Speech itself, some descrip
+tion of the Government’s financial accounts, both past and prospective.
+But as all the figures are set out in the greatest possible detail in the
+Financial Statement and Budget Report, I think that hon. Members will
+agree that I can this year spare the House an oral summary.
+By his 1973 Budget, the Chancellor judged that no further significant stimulus
+was required and recognised that “the large borrowing requirement in 1973–74
+poses a considerable financing task for the authorities.” In a pattern that would
+continue over subsequent years, he stated that “it would be quite unacceptable to
+rely to any substantial extent on borrowing from the banking sector.” However,
+MPs were left with the impression that borrowing from the non-bank sector would
+be possible and pose no problems of note.
+12
+
+
+1974 to 1978 The incoming Chancellor, Dennis Healey, faced a stagflationary
+tightrope, made worse by the Heath government’s incomes policy by which wages
+responded automatically to prices, thereby baking in more real wage rigidity.18
+Inflation already exceeded 10 per cent and unemployment had started to rise again.
+Consistent with his description of himself as “an unorthodox, neo-Keynesian mon
+etarist,”19 Healey responded with a succession of progressively more unorthodox
+policies. In his first Budget, Healey raised taxes, but tried to do so in a way which
+minimised the reduction in demand, despite high inflation. By 1976 and 1977, he
+was promising tax cuts on the condition that the unions showed sufficient pay
+restraint.
+Perhaps the clearest signal of Healey’s stance on fiscal deficits came in his second
+Budget, in November 1974. Despite inflation exceeding 15 per cent and a fiscal
+deficit of over 6 per cent of GDP,20 the Budget raised the expected borrowing
+requirement by a further 0.8 per cent of GDP. His speech acknowledged the issue
+but he dismissed it on the following grounds.
+Though a revision of the borrowing requirement to about £5.5 billion is
+a serious matter, it would be wrong to exaggerate its importance. As far
+as current expenditure is concerned, the public sector is in substantial
+surplus, receipts exceeding expenditure by over £3,500 million. The
+borrowing requirement arises because total capital expenditure of the
+public sector and its lending to others is nearly three times the current
+surplus.
+However, as sterling came under pressure in 1975 and 1976, Healey was subject
+18Miller (1976). 19Hansard House of Commons Debates 10th November 1977. 20Using the accounting conventions at the time.
+13
+
+
+to outbreaks of something a bit closer to orthodoxy. For example, in his 1975
+Budget, he raised taxes because “a borrowing requirement of over £10,000 million
+would involve unacceptable risks.” Underlying his concern was a fear that large
+government borrowing would worsen Britain’s balance of payments problems:
+I think most commentators would agree that it is impossible to bring
+about a sustained and progressive improvement in the balance of pay
+ments over a period of years if at the same time the public sector
+financial deficit is increasing rapidly as a percentage of GNP.
+This turn towards fiscal rectitude lasted only as long as the pressure on sterling.
+Following the successful IMF negotiations in 1976, there were substantial tax cuts
+in the 1977 and 1978 Budgets, despite ongoing fiscal deficits.
+1979 to 1982 The first Budget delivered by Sir Geoffrey Howe marked an evo
+lution in the rhetoric. Taxes were raised by about 2 per cent of GDP and Howe
+signaled that deficits would continue to fall over time:
+The public sector deficit will also fall from 4.5 per cent. to 3.75 per cent.
+of GDP. These are important steps in the right direction. I intend to
+continue along that path in the years ahead.
+Howe gave two rationales for this policy. The first echoed Barber and Healey, albeit
+with an important difference. This was that public sector borrowing was fueling
+the money supply and thereby inflation. Unlike previous Chancellors, however,
+he did not dismiss concerns by assuming that borrowing would be funded by
+non-banks and therefore would not lead to money growth and inflation.
+The second rationale was to avoid crowding out: “we need to reduce the burden
+of financing the public sector, so as to leave room for commerce and industry to
+14
+
+
+prosper.”
+Howe stressed the continuity of the previous government’s policies in his 1982
+speech, stating that his medium-term financial strategy was an “extension” of
+Healey’s post-1976 strategy of “monetary control...supported by progressively
+lower borrowing.” A commitment to balanced budgets and debt sustainability
+would only come after 1982.
+Comparison with the Gold Standard regime Fiscal policy was not used to sta
+bilise the public finances in the Great Inflation era. While deficits were mentioned,
+they were only of concern because of their perceived link to the balance of pay
+ments or the money supply. While falling reserves or faster monetary growth likely
+acted as a constraint on public sector deficits, there is no reason to expect that
+these constraints forced fiscal policy to behave as if it was being used to stabilise
+debt.
+This stands in stark contrast to the way fiscal policy was used in the Gold Standard
+era. While commitment to debt reduction waxed and waned over time, commit
+ment to debt stabilisation was achieved through the funding system and then
+balanced budget norms.
+A very crude way to capture the evolution of Chancellors’ focus on debt is to count
+the number of times they mention the word ‘debt’ in their speeches. Figure 1 shows
+the evolution of this metric over 250 years of Budget speeches. It corroborates the
+conclusions from my narrative account quite closely. The metric is much lower in
+the Great Inflation era than in the Gold Standard era. Within the Gold Standard
+era, there is something of a dip after the French Wars, while it rises again from
+the 1860s. The only column which doesn’t match up closely to my narrative is
+the first. This could in part reflect the smaller sample size (as my sample only
+15
+
+
+Figure 1: Mentions of ‘debt’ in Budget speeches
+0 .1 .2 .3
+Per cent of words
+1760-79
+1780-99
+1800-19
+1820-39
+1840-59
+1860-79
+1880-99
+1900-19
+1920-39
+1940-59
+1960-79
+1980-99
+2000-19
+Source: My calculations, using text from Cobbett’s Parliamentary History and Hansard’s Parliamentary Debates.
+Note: Instances not relating to the government debt (e.g. relating to private debt) are removed manually.
+begins in 1769) and the shorter speech summaries (the average number of words
+in Parliamentary History for this period is 2000, compared to 4000 for the next 20
+years).
+1.4. Private sector beliefs in the Great Inflation era
+The previous subsection established that fiscal policy was not used to stabilise
+debt in the Great Inflation era.21 Unsurprisingly, Chancellors did not announce
+that debt would be stabilised by surprise inflation; nor am I aware of evidence that
+this was their intention. But some influential people outside of government saw a
+link between the public finances and inflation. This subsection presents evidence
+21I have seen no evidence that default was considered or expected after WWII. Physical and financial controls were used to reduce public sector borrowing costs, consistent with a repression strategy, but they had either been lifted or were very leaky by the end of 1971 (the year of Competition and Credit Control) if not before.
+16
+
+
+in favour of this claim.
+Beliefs about the conduct of fiscal policy It of course extremely difficult to know
+how households and businesses thought about fiscal policy. There was probably
+far greater diversity of views (including no view at all) among people outside of
+the policy world. However, journalists at The Times and the Financial Times, two
+papers influential in financial and business circles, did point out to their readers
+that the conduct of fiscal policy had changed.
+In 1976, Tim Congdon of The Times wrote that ‘[the balanced budget] orthodoxy...
+now seem[s] to have been forgotten. Taxation decisions are not taken with a view
+to keeping the budget deficit under control but only with a view to their supposed
+effects on demand’.22 In the Financial Times, Samuel Brittan recalled that ‘ten or 15
+years ago an up-to-date economic student would have had no hesitation in coming
+out ... and regarding the balanced budget doctrine as fuddy-duddy. Even when
+interest in controlling the money supply revived, the balanced budget doctrine did
+not’.23
+Beliefs about the link between the public finances and inflation There was
+more newspaper discussion about the role of fiscal policy in generating inflation.
+This was led by the British monetarists. Tim Congdon summed up their views at
+the time:
+In their approach to monetary policy most economists emphasize the
+dependence of the supply of money on the public sector’s financial
+position....The money supply must be restrained, in the opinion of most
+22The Times, 20th February 1976. 23Financial Times, 12th June 1978.
+17
+
+
+observers, because it otherwise fuels inflation.24
+British monetarism was a theory which linked government borrowing to the money
+supply using the credit counterparts identity.25 This identity shows that the change
+in bank deposits plus the change in their non-deposit liabilities is equal to the
+change in banks’ claims on the private sector plus the change in banks’ claims
+on the public sector. The last term is itself equal to the public sector borrowing
+requirement less the change in non-bank claims on the government.
+The British monetarists believed that there was a limit to the capacity or willingness
+of the non-bank sector to take up public debt.26 Beyond that limit, residual finance
+must come from the banking sector. They assumed that the counterpart to a rise
+in bank claims on the government was a rise in bank deposits which would, in
+turn, cause inflation.
+This mechanism could be thought of as ‘broad’ monetisation: beyond some level,
+government borrowing would be funded by an expansion in bank deposits which
+would cause inflation.
+Newspaper stories which used this logic appeared regularly. A letter to The Times
+in 1968 coauthored by some MPs is an example from early in the Great Inflation.
+The letter blamed continued post-devaluation weakness in sterling on government
+borrowing. They continued:
+The so-called “borrowing requirement” has not, in fact, been met by
+borrowing from the non-bank public, but by the creation of money
+within the banking system. It is this quasi-automatic creation of money
+24The Times, 9th October 1974. 25See Batini and Nelson (2009, Section 4B) and Goodhart (2017). 26It is hard to find a clear analytical explanation of what determined this limit. Congdon (1976) probably comes closest, explaining that there is a limit to the share of tax revenue in GDP and this in turn limits the share of debt interest payments which a government can sustain.
+18
+
+
+which inflates demand in the economy and is therefore the main cause
+of the continuous depreciation of the pound here at home.27
+As deficits and inflation rose in the mid-1970s, these views became more popular,
+as well as more newsworthy. Looking back from 1975, analysts from W. Greenwell
+& Co. claimed that ‘the Budget in March 1972 was one of the main causes of
+today’s inflation’.28 The Times published at least two leaders spelling out the credit
+counterparts logic, the second of which was entitled ‘HIGH P.S.B.R.=HIGH M3
+[broad money]=INFLATION’.29
+Evidence that markets were influenced by these beliefs There is some sug
+gestive evidence that British monetarists were sufficiently influential that their
+thinking affected government bond (gilt) prices. First, many of the leading British
+monetarists were stockbrokers, including Brian Griffiths at Pember & Boyle, Gor
+don Pepper at W. Greenwell & Co. and Alan Walters at Joseph Sebag & Co.30
+According to the Financial Times, their circulars were influential in the City of
+London: ‘nobody can deny that M. Pepper’s regular bulletins to clients are an
+important factor in the formation of City opinion on monetary trends; to quote
+one Bank of England official not so long ago: “Things are quiet at the moment.
+Gordon Pepper has the ‘flu”’.31 On 9th October 1974, the Financial Times carried
+the following warning from W. Greenwell & Co.: ‘We fear that the public sector’s
+deficit will increase... Whichever political party wins the election, the Government
+will be unable to reverse this rising trend in the public sector’s deficit with suffi
+cient speed to prevent a still further acceleration of inflation’.32 The very next day,
+27The Times, 22nd January 1968. 28The Times, 25th March 1975. 29The Times, 7th June 1978. 30Davies (2017, Chapter 5).
+31Financial Times, 3rd May 1973. 32Financial Times, 9th October 1974.
+19
+
+
+perhaps referring to the same analysis, the Financial Times markets report reported
+that:
+Concern over public sector borrowing requirements highlighted by
+several recent brokers’ circulars further unsettled the market in British
+Funds and prompted some fairly persistent selling in this sector....
+Increasing concern about public sector borrowing requirements in 1974
+75 was reflected in renewed persistent selling of Gilt-edged.33
+Further evidence on the weight market participants attached to government borrow
+ing can be gleaned from movements in long-term bond prices and the associated
+market reports. Four out of the top ten largest daily movements in consol rates
+over the period of the big run up in long-term interest rates between 1972 and
+1974 were associated with fiscal news. The largest of all – a rise of 0.86 percentage
+points – occurred on 12th November 1974. The Financial Times market report
+noted that ‘fears about the Government’s massive borrowing requirements for
+the current fiscal year revealed in Tuesday’s Budget prompted a sharp setback
+in British Funds’. Such moves in long-term rates were interpreted by financial
+market analysts as indicating changes in inflation expectations. For example,
+when reviewing trends in the gilt market in mid-1974, analysts at Pember & Boyle
+wrote that ‘the inflationary implications of substantial government assistance led
+to sustained selling and sharply lower prices throughout the list’.34
+2. Empirical Evidence on the Fiscal Financing Regime
+This Section serves as a cross-check on my conclusions from the narrative evidence
+presented in Section 1. If these conclusions are correct, we would expect to see
+33Financial Times, 10th October 1974.
+34Pember & Boyle Quarterly Review Supplement, December 1974.
+20
+
+
+contrasting responses to fiscal shocks in the two regimes. In the Gold Standard
+regime, an expansionary fiscal shock should have been followed after a lag by
+an increase in the primary balance. It should not have caused a substantial rise
+in the price level, although there may have still been some effect through an
+aggregate demand channel. In the Great Inflation regime, we would not expect an
+expansionary fiscal shock to have been followed by a rise in the primary balance,
+but we would expect to see an increase in the price level larger than anything seen
+in the Gold Standard regime.
+2.1. The Gold Standard era, 1717-1914
+Some readers will find it self-evident that expansionary fiscal shocks in the Gold
+Standard era were financed by higher primary balances: the Gold Standard is a
+commitment to do just that.35 Figure 2 shows that the Gold Standard was adhered
+to very closely except at the end of the French Wars.
+Furthermore, the primary balance to income ratio displayed in Figure 3 is strongly
+suggestive of a regime in which war borrowing is backed by future primary
+surpluses. After each war, the primary surplus reached a higher share of income.36
+Empirical approach and data A formal approach to estimating how wars were
+financed is nevertheless still necessary. Ideally, I would use a military spending
+shock which is well established in the literature. Unfortunately, nothing like this
+exists. As far as I am aware, the last empirical investigation of the macroeconomic
+impact of war spending over this period was Barro (1987).
+Rather than attempt to develop my own measure of military spending shocks
+35See Canzoneri et al. (2001) for a formal treatment of this issue. 36The rebound in around 1800 is the response to Pitt’s change of strategy discussed earlier, not the end of a war (the interlude in 1802-1803 only lasted one year).
+21
+
+
+Figure 2: Market price of gold in sterling
+4 4.5 5 5.5 6
+£ per fine ounce
+1700 1750 1800 1850 1900
+Source: Officer and Williamson (2024).
+Figure 3: Primary balance
+-10 -5 0 5 10
+Per cent of GDP
+1700 1750 1800 1850 1900
+Source: Thomas and Dimsdale (2017), using data from Broadberry et al. (2015) and Mitchell (1988).
+22
+
+
+Figure 4: War spending measure
+-4 -2 0 2 4 6
+Per cent of MV debt
+1700 1750 1800 1850 1900
+Source: Thomas and Dimsdale (2017), using data from Clark (2001), Crafts and Mills (1994), Feinstein (1991), Feinstein (1998) and Mitchell (1988). Note: The war years are 1739-1748 (War of Austrian Succession), 1756-1763 (Seven Years’ War), 1775-1783 (American War of Independence), 1793-1815 (French Wars), 1854-1856 (Crimean War) and 1899-1902 (Boer War).
+here, I use an updated version of Barro’s approach. My war spending measure is
+the change in real government primary expenditure scaled by the market value
+of government debt during major wars involving Britain. My choice of scaling
+reflects the theoretical prediction that the impact of any given exogenous increase
+in government spending is decreasing in the market value of government debt.37 I
+only include wartime observations because these fluctuations are most likely to
+reflect military spending which is not caused by business cycle phenomena. In
+other words, it is less likely to be endogenous to the business cycle. Figure 4 shows
+the measure.
+I use local projections38 to estimate the relationship between the war spending
+37See e.g. Barro and Bianchi (2023). 38Jorda` (2005).
+23
+
+
+measure and the outcome variables of interest – the ratio of the primary balance
+to income and the consumer price index. I control for two years of lags of the
+impulse and response variables and two years of lags of three macroeconomic
+factors.39 These control variables soak up a small amount of the variation in the
+war spending measure. The factors are estimated from 26 variables.40 All the data
+are annual.
+The specification is:
+∆yn,t,t+h = αh,n + βh,nxt +
+L
+∑
+l=1
+κh,l,n∆yn,t−l
++
+L
+∑
+l=1
+λh,l,nxt−l +
+K
+∑
+k=1
+L
+∑
+l=1
+μh,k,l,n Fk,t−l + ηn,t,t+h ,
+where ∆yn,t,t+h is the change in the outcome measure (indexed by n) between t − 1
+and t+ horizon h, xt is the war spending measure explained above and Fk,t−l are
+the two lags (i.e. L = 2) of the 3 factors (K = 3). The βh,ns form the impulse
+response functions.
+The timing assumption for a causal interpretation is that war spending affected
+the outcome variables in the same year, but the outcome variables did not affect
+the war spending. The standard errors are heteroskedasticity and autocorrelation
+consistent.
+Results The results are displayed in Figure 5. Because the fiscal cycle was very
+long, driven as it was by periods of war and peace, the impulse response functions
+are displayed up to a horizon of 40 years.
+Because the average ratio of the market value of government debt to GDP over
+39For the reasons set out in Bernanke et al. (2005). 40Details available on request.
+24
+
+
+Figure 5: Responses to war spending
+The panels present estimated impulse responses of each variable to a rise in real government spending equal to one percent of the market value government debt. The red bold line shows the mean estimated response; the dark grey region shows the ±1 standard error confidence interval; the light grey region shows the ±2 standard error confidence interval.
+-1.5 -1 -.5 0 .5 1
+Percentage points
+0 10 20 30 40 Years
+Impulse: spending; response: prim bal
+-6 -4 -2 0 2 4
+Per cent
+0 10 20 30 40 Years
+Impulse: spending; response: prices
+Note: See text.
+this sample was 1, the left-hand figure has a simple interpretation. War-related
+spending reduced the primary balance to income ratio on impact, but by less than
+it would have done had there been no offsetting measures (i.e. tax rises). This
+accords with the narrative history summarised in Section 1.2. The primary balance
+response became less negative over time and then positive (albeit not significantly
+so at the 5% threshold). The falls in the response at around the 20 and 35 year
+horizons reflect the impact of subsequent wars. Given the width of the confidence
+intervals, this result neither confirms nor rules out the hypothesis that war-related
+increases in spending were financed by higher subsequent primary balances.
+The right-hand figure shows that the response of consumer prices to a war-related
+increase in government spending was, surprisingly, negative on impact, but not
+significantly different from zero in subsequent years.
+25
+
+
+Figure 6: Fiscal policy in the Great Inflation regime
+(a) Primary balance
+-2 0 2 4 6 8
+Per cent of GDP
+1965q1 1969q3 1974q1 1978q3 1983q1
+(b) Tax policy shocks
+-2 0 2 4
+Per cent of MV debt
+1965q1 1969q3 1974q1 1978q3 1983q1
+Source: ONS and Cloyne (2013).
+2.2. The Great Inflation era, 1965-1982
+Empirical approach and data Britain was not involved in any major wars in the
+Great Inflation era and, as can be seen in Figure 6a, there were no other sources of
+variation in the primary balance which were as marked as wars in the Gold Stan
+dard era. It is therefore all the more important to have a well-identified measure of
+fiscal shocks to estimate equivalent impulse response functions. Fortunately, such
+a measure exists.
+Cloyne (2013) develops a measure of tax policy shocks using a narrative approach
+similar to Romer and Romer (2010). The paper categorises each tax policy change
+between 1945 and 2009 according to the official explanation for the change. Some of
+these categories (such as those undertaken for ideological reasons) are less likely to
+have been caused by business cycle factors and are therefore labelled ‘exogenous’.41
+The tax policy shock in any given quarter is the sum of the exogenous costed tax
+41Given my focus on the impact of fiscal shocks on the public finances, I omit policy changes in the fiscal consolidation category.
+26
+
+
+policy changes. Figure 6b shows the measure, scaled again by the market value of
+government debt.
+I use exactly the same specification as in Section 2.1. The data are quarterly (so
+L = 8) and the factors are estimated from 346 quarterly macroeconomic and
+financial indicators compiled in Ellis et al. (2014).
+Figure 7: Responses to tax shocks
+The panels present estimated impulse responses of each variable to an exogenous cut in taxes equal to one percent of the market value government debt. The red bold line shows the mean estimated response; the dark grey region shows the ±1 standard error confidence interval; the light grey region shows the ±2 standard error confidence interval.
+-2 -1.5 -1 -.5 0 .5
+Percentage points
+0 5 10 15 20 Quarters
+Impulse: tax shock (-); response: prim bal
+-5 0 5 10 15
+Per cent
+0 5 10 15 20 Quarters
+Impulse: tax shock (-); response: prices
+Note: See text.
+Results The results are displayed in Figure 7. Because the fiscal cycle was driven
+largely by the business cycle in this period, the responses are plotted up to the
+shorter horizon of 5 years.
+As expected, an exogenous cut in taxes is estimated to have reduced the primary
+balance to income ratio. The initial impact is smaller than expected, especially
+given the average ratio of the market value of government debt to GDP in this
+period is around one half (so a tax cut of 1p.p. GDP might be expected to reduce
+the ratio of the primary balance to the market value of debt by 2p.p.). The key
+27
+
+
+result of interest is that there is evidence that the tax cut was not financed by
+higher primary balances afterwards.
+The right-hand figure shows that a tax cut raised the price level, albeit after quite a
+long lag. The increase is economically and statistically significant.
+Comparison with Gold Standard era The contrast between Figures 7 and 5 is
+very clear. The Great Inflation era evidence shows that expansionary fiscal policy
+was not financed by higher primary balances afterwards. This is not the case for
+the Gold Standard era evidence. Likewise, the Great Inflation evidence shows
+that expansionary fiscal policy caused economically and statistically significant
+increases in the price level, unlike the Gold Standard evidence.
+The contrast in these results are exactly what we would expect, given the narrative
+evidence presented in Section 1. They provide additional evidence that expansion
+ary fiscal policy was financed by higher subsequent primary balances in the Gold
+Standard era and surprise inflation in the Great Inflation era.
+3. Conclusion
+This paper shows that different fiscal financing regimes were in place in the Gold
+Standard era and the Great Inflation era in Britain. In the former, expansionary fis
+cal policy was financed by higher subsequent primary balances. In the latter, it was
+financed by surprise inflation. This evidence supports Chancellor Nigel Lawson’s
+observation of a post-WWII change in fiscal behaviour that had consequences for
+inflation.
+The approach I have used differs from the mainstream one, which relies on
+estimating coefficients in fiscal policy reaction functions. Instead, I have com
+28
+
+
+piled evidence from the historical narrative, relying particularly on Parliamentary
+speeches, and estimates of the dynamic impact of expansionary fiscal policy on
+the public finances and the price level.
+29
+
+
+References
+Allen, W. A. (2014): Monetary Policy and Financial Repression in Britain, 1951–59,
+Basingstoke: Palgrave Macmillan.
+Anderson, O. (1963): “Loans versus Taxes: British Financial Policy in the Crimean
+War,” The Economic History Review, 16, 314–327.
+Antipa, P. M. (2016): “How Fiscal Policy Affects Prices: Britain’s First Experience
+with Paper Money,” The Journal of Economic History, 76, 1044–1077.
+Antipa, P. M. and C. Chamley (2023): “Coordinating Monetary and Fiscal Policies
+in Britain during the French Wars (1793-1821),” European Review of Economic
+History, 28, 225–253.
+Banerjee, R. N., V. Boctor, A. Mehrotra, and F. Zampolli (2022): “Fiscal
+Deficits and Inflation Risks: The Role of Fiscal and Monetary Policy Regimes,”
+BIS Working Papers 1028, Bank for International Settlements.
+Barnichon, R. and G. Mesters (2020): “Identifying Modern Macro Equations
+with Old Shocks,” The Quarterly Journal of Economics, 135, 2255–2298.
+Barro, R. J. (1987): “Government Spending, Interest Rates, Prices, and Budget
+Deficits in the United Kingdom, 1701–1918,” Journal of Monetary Economics, 20,
+221–247.
+Barro, R. J. and F. Bianchi (2023): “Fiscal Influences on Inflation in OECD
+Countries, 2020-2023,” Working Paper 31838, National Bureau of Economic
+Research.
+Batini, N. and E. Nelson (2009): The UK’s Rocky Road to Stability, New York, NY:
+Nova Science Pub Incorporated.
+30
+
+
+Beckett, J. V. (1985): “Land Tax or Excise: The Levying of Taxation in Seventeenth
+and Eighteenth-Century England,” The English Historical Review, 100, 285–308.
+Bernanke, B. S., J. Boivin, and P. Eliasz (2005): “Measuring the Effects of Mon
+etary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach,”
+The Quarterly Journal of Economics, 120, 387–422.
+Bhattarai, S., J. W. Lee, and W. Y. Park (2016): “Policy Regimes, Policy Shifts,
+and U.S. Business Cycles,” The Review of Economics and Statistics, 98, 968–983.
+Bianchi, F., R. Faccini, and L. Melosi (2023): “A Fiscal Theory of Persistent
+Inflation,” The Quarterly Journal of Economics, 138, 2127–2179.
+Bianchi, F. and C. Ilut (2017): “Monetary/Fiscal Policy Mix and Agents’ Beliefs,”
+Review of Economic Dynamics, 26, 113–139.
+Bordo, M. D., O. P. H. Bush, and R. Thomas (2024): “Muddling Through or
+Tunnelling Through? UK Monetary and Fiscal Exceptionalism During the Great
+Inflation,” Unpublished Manuscript.
+Bordo, M. D. and L. Jonung (2001): “A Return to the Convertibility Princi
+ple? Monetary and Fiscal Regimes in Historical Perspective: The International
+Evidence,” in Monetary Theory and Policy Experience, ed. by A. Leijonhufvud,
+London: Palgrave Macmillan, 225–283.
+Bordo, M. D. and F. E. Kydland (1995): “The Gold Standard As a Rule: An Essay
+in Exploration,” Explorations in Economic History, 32, 423–464.
+Bordo, M. D. and A. J. Schwartz (1999): “Monetary Policy Regimes and Economic
+Performance: The Historical Record,” Elsevier, vol. 1, Part A of Handbook of
+Macroeconomics, 149–234.
+31
+
+
+Broadberry, S. N., B. M. S. Campbell, A. Klein, M. Overton, and B. van
+Leeuwen (2015): British Economic Growth, 1270–1870, Cambridge: Cambridge
+University Press.
+Browning, R. (1971): “The Duke of Newcastle and the Financing of the Seven
+Years’ War,” The Journal of Economic History, 31, 344–377.
+Cairncross, A. and B. Eichengreen (2003 [1983]): Sterling in Decline: The Deval
+uations of 1931, 1949 and 1967, London: Palgrave Macmillan.
+Canzoneri, M. B., R. E. Cumby, and B. T. Diba (2001): “Fiscal Discipline and
+Exchange Rate Systems,” The Economic Journal, 111, 667–690.
+Chen, X., E. M. Leeper, and C. Leith (2022): “Strategic Interactions in U.S.
+Monetary and Fiscal Policies,” Quantitative Economics, 13, 593–628.
+Clarida, R., J. Gali, and M. L. Gertler (2000): “Monetary Policy Rules and
+Macroeconomic Stability: Evidence and Some Theory,” The Quarterly Journal of
+Economics, 115, 147–180.
+Clark, G. (2001): “Debt, Deficits, and Crowding out: England, 1727–1840,” Euro
+pean Review of Economic History, 5, 403–436.
+Cloyne, J. S. (2013): “Discretionary Tax Changes and the Macroeconomy: New
+Narrative Evidence from the United Kingdom,” American Economic Review, 103,
+1507–28.
+Cochrane, J. H. (1998): “A Frictionless View of U.S. Inflation,” NBER Macroeco
+nomics Annual, 13, 323–384.
+——— (2005): “Money as Stock,” Journal of Monetary Economics, 52, 501–528.
+32
+
+
+——— (2011): “Determinacy and Identification with Taylor Rules,” Journal of
+Political Economy, 119, 565–615.
+——— (2023): The Fiscal Theory of the Price Level, Princeton, NJ: Princeton University
+Press.
+Commissioners for the Reduction of the National Debt (1891): National Debt:
+Report by the Secretary and Comptroller General of the Proceedings of the Commission
+ers for the Reduction of the National Debt, from 1786 to 31st March 1890, 6539, HM
+Stationery Office.
+Congdon, T. G. (1976): “Monetarism and the Budget Deficit,” Paper given to the
+fifth Money Study Group conference at Brasenose College, Oxford.
+Cooper, R. (1982): “William Pitt, Taxation, and the Needs of War,” Journal of British
+Studies, 22, 94–103.
+Cox, G. W. (2015): “Marketing Sovereign Promises: The English Model,” The
+Journal of Economic History, 75, 190–218.
+——— (2016): Marketing Sovereign Promises: Monopoly Brokerage and the Growth of
+the English State, Cambridge: Cambridge University Press.
+Crafts, N. and T. C. Mills (1994): “Trends in Real Wages in Britain, 1750–1913,”
+Explorations in Economic History, 31, 176–194.
+Davies, A. (2017): The City of London and Social Democracy: The Political Economy of
+Finance in Britain, 1959-1979, Oxford: Oxford University Press.
+Desan, C. (2014): Making Money: Coin, Currency, and the Coming of Capitalism,
+Oxford: Oxford University Press.
+33
+
+
+Dickson, P. G. M. (1967): The Financial Revolution in England: A Study in the
+Development of Public Credit, 1688-1756, London: Macmillan.
+Ellis, C., H. Mumtaz, and P. Zabczyk (2014): “What Lies Beneath? A Time
+varying FAVAR Model for the UK Transmission Mechanism,” The Economic
+Journal, 124, 668–699.
+Fan, J., P. Minford, and Z. Ou (2016): “The Role of Fiscal Policy in Britain’s Great
+Inflation,” Economic Modelling, 58, 203–218.
+Feinstein, C. H. (1991): “A New Look at the Cost of Living 1870–1914,” in New
+Perspectives on the Late Victorian Economy: Essays in Quantitative Economic History,
+1860–1914, ed. by J. Foreman-Peck, Cambridge: Cambridge University Press,
+151–179.
+——— (1998): “Pessimism Perpetuated: Real Wages and the Standard of Living
+in Britain during and after the Industrial Revolution,” The Journal of Economic
+History, 58, 625–658.
+Goodhart, C. A. E. (2017): “The Determination of the Money Supply: Flexibility
+Versus Control,” The Manchester School, 85, 33–56.
+Hall, G. J. and T. J. Sargent (2021): “Chapter 27 – Debt and Taxes in Eight
+U.S. Wars and Two Insurrections,” in The Handbook of Historical Economics, ed. by
+A. Bisin and G. Federico, Academic Press, 825–880.
+Hargreaves, E. L. (1930): The National Debt, London: E. Arnold & Co.
+Hawtrey, R. G. (1949 [1919]): Currency and Credit, London: Longmans, Green &
+Co, 4th ed.
+34
+
+
+Howson, S. (1987): “The Origins of Cheaper Money, 1945-7,” The Economic History
+Review, 40, 433–452.
+Jacobson, M. M., E. M. Leeper, and B. Preston (2019): “Recovery of 1933,”
+Working Paper 25629, National Bureau of Economic Research.
+Jord `a, O. (2005): “Estimation and Inference of Impulse Responses by Local
+Projections,” American Economic Review, 95, 161–182.
+King, M. A. (1995): “Commentary: Monetary Policy Implications of Greater Fiscal
+Discipline,” Remarks at the Federal Reserve Bank of Kansas City Economic
+Policy Symposium, Jackson Hole, WY.
+Leeper, E. M. (1991): “Equilibria under ‘Active’ and ‘Passive’ Monetary and Fiscal
+Policies,” Journal of Monetary Economics, 27, 129–147.
+Leeper, E. M. and C. Leith (2016): “Chapter 30 – Understanding Inflation as a Joint
+Monetary–Fiscal Phenomenon,” Elsevier, vol. 2 of Handbook of Macroeconomics,
+2305–2415.
+Leeper, E. M. and B. Li (2017): “Surplus–Debt Regressions,” Economics Letters, 151,
+10–15.
+Macdonald, J. (2013): “The Importance of Not Defaulting: The Significance of the
+Election of 1710,” in Questioning Credible Commitment: Perspectives on the Rise of
+Financial Capitalism, ed. by D’M Coffman, A. Leonard and L. Neal, Cambridge:
+Cambridge University Press, 125–146.
+Miller, M. H. (1976): “Can a Rise in Import Prices Be Inflationary and Defla
+tionary? Economists and U.K. Inflation, 1973-74,” American Economic Review, 66,
+501–519.
+35
+
+
+Mitchell, B. R. (1988): British Historical Statistics, Cambridge: Cambridge Univer
+sity Press.
+Nelson, E. (2003): “UK Monetary Policy, 1972–97: a Guide Using Taylor Rules,” in
+Central Banking, Monetary Theory and Practice: Essays in Honour of Charles Good
+hart, ed. by P. Mizen, Cheltenham: Edward Elgar, vol. 1, 195–216.
+Nelson, E. and K. Nikolov (2004): “Monetary Policy and Stagflation in the UK,”
+Journal of Money, Credit and Banking, 36, 293–318.
+O’Brien, P. K. (2008): “Mercantilist Institutions for the Pursuit of Power with Profit:
+The Management of Britain’s National Debt, 1756-1815,” in Government Debts
+and Financial Markets in Europe, ed. by F. P. Caselli, London: Pickering & Chatto,
+179–208.
+——— (2016): “The Triumph and Denouement of the British Fiscal State: Taxation
+for the Wars against Revolutionary and Napoleonic France, 1793–1815,” in
+The Fiscal-Military State in Eighteenth-Century Europe: Essays in Honour of P.G.M.
+Dickson, ed. by C. Storrs, London: Routledge, 167–200.
+Officer, L. H. and S. H. Williamson (2024): “The Price of Gold, 1257-Present,”
+MeasuringWorth.
+Romer, C. D. (2007): “Macroeconomic Policy in the 1960s: The Causes and
+Consequences of a Mistaken Revolution,” Lecture, Economic History Association
+Annual Meeting.
+Romer, C. D. and D. H. Romer (2010): “The Macroeconomic Effects of Tax
+Changes: Estimates Based on a New Measure of Fiscal Shocks,” American
+Economic Review, 100, 763–801.
+36
+
+
+Sabine, B. E. V. (1966): A Short History of Taxation, London: Butterworths.
+Sargent, T. J. and N. Wallace (1981): “Some Unpleasant Monetarist Arithmetic,”
+Federal Reserve Bank of Minneapolis Quarterly Review, 5, 1–17.
+Sims, C. A. (1994): “A Simple Model for Study of the Determination of the Price
+Level and the Interaction of Monetary and Fiscal Policy,” Economic Theory, 4,
+381–399.
+——— (2013): “Paper Money,” American Economic Review, 103, 56–84.
+Slater, M. (2018): The National Debt: A Short History, London: C Hurst & Co.
+Smets, F. and R. Wouters (2024): “Fiscal Backing, Inflation and US Business
+Cycles,” Unpublished Manuscript.
+Stasavage, D. (2003): Public Debt and the Birth of the Democratic State: France and
+Great Britain 1688–1789, Cambridge: Cambridge University Press.
+Sussman, N. and Y. Yafeh (2006): “Institutional Reforms, Financial Development
+and Sovereign Debt: Britain 1690–1790,” The Journal of Economic History, 66,
+906–935.
+Taylor, J. B. (1999): “An Historical Analysis of Monetary Policy Rules,” in Monetary
+Policy Rules, ed. by J. B. Taylor, Chicago: University of Chicago Press, 319–348.
+Thomas, R. and N. H. Dimsdale (2017): “A Millennium of UK Data,” Bank of
+England OBRA dataset, https://www.bankofengland.co.uk/statistics/research
+datasets.
+Velde, F. R. (2022): “Winners and Losers in Britain’s 1722 Debt Restructuring,”
+Unpublished Manuscript.
+37
+
+
+Woodford, M. (1995): “Price-Level Determinacy Without Control of a Monetary
+Aggregate,” Carnegie-Rochester Conference Series on Public Policy, 43, 1–46.
+A. Narrative evidence on the Gold Standard Fiscal Financing
+Regime
+Before 1717 1717 was 45 years after the last debt repudiation,42 three years after
+the end of the War of the Spanish Succession, one of five major wars Britain
+fought in the eighteenth century, and of course the year Isaac Newton set the
+rate of exchange between silver and gold at a level which drove the former out
+of circulation. Government debt had more than doubled between 1697, the end
+of the previous major war, and 1714.43 This debt burden was unprecedented and
+creditors were not fully confident that the war would be paid for by real primary
+surpluses. Velde (2022) documents investor fears of default and Sussman and
+Yafeh (2006) show that the interest rate on British debt exceeded the best-in-class
+Dutch rate by around two percentage points at the time.
+The spread over the Dutch rate probably reflected arrears which arose from
+problems with the operation of what was known as the funding system. Under this
+system, most British government debt obligations had specific taxes earmarked
+to pay for their service and, if applicable, redemption. This was not a new
+arrangement,44 but it was not working well in the two decades leading up to 1717.
+Many funds (taxes backing individual debts) fell short of what was needed to
+service the debts: at various points in those decades, more than 20 per cent of
+the funds were deficient.45 Absent any remedial action, the government would
+42The Stop of the Exchequer. 43Slater (2018, p.47). 44See e.g. Desan 2014, ch. 4 on the history of tallies which were backed by specific tax revenues. 45Cox (2015).
+38
+
+
+fall behind on its debt service obligations. Remedial action was not automatic
+and, should the Treasury be unable or unwilling to divert surplus funds from
+elsewhere, would require new taxes to be proposed by the government and voted
+by Parliament. In practice, these deficiencies did sometimes lead to arrears, some
+of which exceeded one year.46
+The spread was, however, on a long-run downward trend. Steps were taken by
+the Tory ministry led by Robert Harley in the early 1710s to make up funding
+deficiencies and lengthen the debt’s maturity.47 This probably contributed to
+reassuring creditors that Britain would honour its debts.
+1717 to 1797 The long process of improving Britain’s creditworthiness was not
+complete in 1717. Both public discourse and market prices suggest investor
+nervousness concerning the prospect of debt being written down or taxed.48
+Although the funding system provided for servicing existing debts, there was no
+plan in place to reduce those debts so that future conflicts could be financed. This
+was the context for King George I’s address to Parliament in which he highlighted
+the debt burden and requested that Parliament work to lower it in order to retain
+the nation’s autonomy:
+You are all sensible of the insupportable weight of the National Debts,
+which the public became engaged for from the necessity of the times,
+the pressures of a long and expensive war, and the languishing state of
+public credit: but the scene being now so happily changed, if no new
+disturbances shall plunge us again into streights and difficulties, the
+general expectation seems to require of you, that you should turn your
+46Velde (2022). 47Cox 2016, pp. 64-67; Macdonald 2013. 48Velde (2022).
+39
+
+
+thought towards some method of extricating yourselves, by reducing,
+by degrees, the Debts of the Nation.
+My Lords and Gentlemen: I have an entire confidence in you, and have
+therefore nothing to ask, but that you would take such measures as will
+best secure your Religion and Liberties...
+This was the catalyst for a number of schemes for reducing the debt. The proposal
+that carried was that of the Chancellor, Sir Robert Walpole.49 There were three
+key strands. First, holders of redeemable debt were offered cash or new debts
+with a lower interest rate. Second, the number of funds which serviced the debts
+was reduced, which lowered the likelihood that any individual claim on the
+government would have insufficient tax earmarked to it.50 Third, the surpluses
+on these funds, boosted by lower interest payments, were then funneled into a
+sinking fund whose purpose was to buy back debt.
+The debt conversions were modestly successful in reducing interest payments,
+which fell from an average of £3.1 million in the five years to 1717 to £2.9 million
+in the following five years.51 Initially the sinking fund was used as intended, as
+George I acknowledged when he opened Parliament in 1724: “it must be a very
+great satisfaction to all my faithful subjects, to see the sinking fund improved
+and augmented, and the debt of the nation thereby put into a method of being
+so much the sooner gradually reduced and paid off.” He continued to mention
+the importance of the sinking fund throughout the 1720s. Despite a looming
+conflict with Spain, he requested in 1727 “that our present necessities shall make
+49Though the true originator of the ideas may well have been William Paterson, who was also partly responsible for the Bank of England’s creation. By the time that the proposal was enacted, Walpole had resigned.
+50Cox (2016, pp. 65–66).
+51Figures on the public finances from here onwards are taken from Thomas and Dimsdale (2017) unless stated otherwise.
+40
+
+
+no interruption in the progress of that desirable work, of gradually discharging
+the national debt.” Indeed, later that year, Walpole raised the rate of land tax to
+fund higher military spending, despite pressure to divert funds away from the
+sinking fund.
+Not long after, however, the sinking fund was used as security for new loans,
+thereby diverting future funds from debt repayment to interest payments. From
+1733 onwards, surpluses meant for the sinking fund were used to fund spending.
+This change in approach was endorsed by George II in 1730, who stated to MPs
+that “you are the best judges, whether the circumstances of the Sinking Fund, and
+of the National Debt, will as yet admit of giving ease, where the duties are most
+grievous.” From 1734, the sinking fund was discredited by regular abuses.52
+The second major period of conflict of the eighteenth century began in 1739 as
+the War of Jenkins’ Ear but the following year morphed into the War of Austrian
+Succession. The focus of fiscal policy and monarchs’ speeches in these years was of
+course on funding the military. The war was largely financed through borrowing,
+but the funding system meant that taxes rose to back the new loans. All but one of
+the loans issued to finance the war were funded by higher taxes (the other being
+secured on the sinking fund).53 Revenue rose by more than 25 per cent over the
+course of the war, an annual average rate of over 2 per cent, compared to a gentle
+fall between 1717 and 1738.
+The return of peace saw renewed focus on reducing debt in monarchs’ speeches.
+George II reminded MPs in 1748 that:
+Times of tranquillity are the proper seasons for lessening the national
+debt, and strengthening ourselves against future events; and, as the
+52Hargreaves (1930, pp. 44-46). 53See Dickson (1967, Table 5, pp. 218-219).
+41
+
+
+necessary means for these purposes, I must recommend to you the
+improvement of the public revenue, and the maintaining our naval
+force in proper strength and vigour.
+George II’s speeches continued to emphasise debt reduction and the sinking fund
+throughout this period of peace and some progress was made in improving the
+public finances. Spending naturally fell back after the war and primary surpluses
+reappeared. Interest rates on government borrowing, which had risen by over half
+a percentage point towards the end of the war, fell back, offering Prime Minister
+Pelham an opportunity to lower the debt service through a conversion. This was a
+success and (by 1757) resulted in British government debt largely taking the form
+of 3% Consolidated Annuities, commonly known as ‘consols’.
+Unlike in 1717, however, this time the reduction in interest payments was used
+to reduce taxes, rather than to increase debt repayment54 and commitment to
+the sinking fund remained weak.55 Furthermore, as part of the Pelham reforms,
+new debt was secured on the sinking fund and taxes previously earmarked to
+the redeemed debts were credited to the sinking fund.56 As pointed out in Slater
+(2018, pp. 52-53), giving the sinking fund this new role diluted its original debt
+redemption objective.57
+The pattern of war (1739 to 1748) and peace (1748 to 1756) was repeated twice
+over the following three decades. The Prime Minister during the Seven Years’
+War (1756-63), the Duke of Newcastle, raised taxes to fund loans and avoided
+circumventing the sinking fund system (perhaps because their weren’t sufficient
+54Hargreaves (1930, pp. 55-56). 55Browning (1971, p. 345). 56Dickson (1967, p. 243). 57In 1787, the sinking fund was turned into the Consolidated Fund, which remains to this day. It continued to operate sporadically as a source of funds to redeem debt until WWII.
+42
+
+
+funds to divert).58 Likewise, Lord North, Prime Minister during the American War
+of Independence (1775-1783) consistently raised new taxes to pay for the interest
+on the new loans. For example, in his 1776 Budget speech, he stated that “the
+interest on this [new loan] stock would amount to 64,000l.; and, as it was not
+meant to break in on the sinking fund, must be paid by new taxes.”
+As soon as the wars were over, or even before in the case of the American War,59
+attention turned to debt reduction. When opening Parliament at the end of 1763,
+George III said that:
+The improvement of the public revenue, by such regulations as shall be
+judged most expedient for that purpose, deserves your serious consid
+eration: this will be the surest means of reducing the national debt, and
+of relieving my subjects from those burdens which the expences of the
+late war have brought upon them; and will, at the same time, establish
+the public credit upon the most solid foundation.
+This rhetoric continued into the first half of the 1770s, with Lord North pointing
+out the strategic importance of debt reduction in his 1772 Budget speech:
+Thus we see, what I believe no body expected at the conclusion of the
+last war, some, though no very certain, prospect of gradually reducing
+the national debt; a step which will necessarily raise our credit and
+authority in Europe, and terrify our enemies into pacific measures. For
+it is not only an armed force, not only great armies and great naval
+forces that will deter our rivals from violence, but the capacity of raising
+these bulwarks when occasion calls. And the latter method is surely
+58Browning (1971, p.358). 59In his 1782 speech opening Parliament, George III recommended that MPs give their “immediate attention to the great objects of the public receipts and expenditure; and above all, to the state of the public debt.”
+43
+
+
+preferable to the former, which generally tempts one party or other to
+commit acts of hostility.
+Whatever ministers’ intentions, the pace of debt reduction after both wars was
+slow. Moreover, raising loans during wartime had become more difficult and more
+expensive,60 reflecting the upward ratchet in debt and taxes. These facts, and the
+public debate accompanying them,61 spurred Prime Minister Pitt the Younger, in
+his 1786 Budget speech,
+to consider of the means of decreasing the national debt. To attempt
+to recommend this purpose by any words, would surely be quite su
+perfluous: the situation of this country, loaded with an enormous debt,
+to pay the interest of which every nerve has been stretched, and every
+resource nearly drained, carries with it a stronger recommendation
+than any arguments I could possibly adduce. That something should
+be done to relieve the nation from the pressure of so heavy a load, is
+indeed acknowledged by all; and, I trust, that in this House there is
+only one feeling upon the subject.... To behold this country emerging
+from a most unfortunate war, which added such an accumulation to
+sums before immense, that it was the belief of surrounding nations,
+and of many among ourselves, that our powers must fail us, and we
+should not be able to bear up under it; to behold this nation, instead of
+despairing at its alarming condition, looking boldly its situation in the
+face, and establishing upon a spirited and permanent plan the means
+of relieving itself from all its incumbrances, must give such an idea of
+our resources, and of our spirit of exertion, as will astonish the nations
+60Hargreaves (1930, ch. 4). 61Dr. Richard Price’s sinking fund proposals seem to have been particularly influential (Hargreaves 1930, ch. 5).
+44
+
+
+around us, and enable us to regain that pre-eminence to which we are
+on many accounts so justly entitled.
+The plan which was enacted was a commitment to pay £1 million each year
+into a new sinking fund to be overseen by an independent body. This would be
+counted as a spending item in the Budget. Pitt’s intention was that in peacetime,
+governments would avoid borrowing, so the new commitment would force up the
+pace of debt reduction. Pitt recognised that new debt may nevertheless be issued
+and in 1792 introduced a second sinking fund to ensure that this would also be
+reduced. Pitt’s second sinking fund was built on the funding system: rather than
+simply raising taxes to cover the interest charge on a new loan, the government
+would now raise taxes by an additional one per cent of the loan to provide for its
+redemption. In a sense, this marked the completion of the funding system: now
+there was a system by which every loan issuance would automatically trigger the
+tax increases needed to fund it.
+Pitt’s second sinking fund was put into action in the following year, as the first of
+many loans were raised to fund the wars with France (1793 to 1815). Pitt made
+very clear commitments that the sinking fund contributions would continue during
+the war, even if that meant higher gross borrowing overall. This policy was heavily
+criticised after 1815, but, at least under the system in place at the beginning of
+the war, it did force taxes to be higher than they would otherwise have been.62
+This system by design did not prevent another rapid rise in debt and with it a
+rise in borrowing costs. Pitt recognised this growing pressure in his April 1797
+Budget speech, admitting that “he could not say that the terms of the loan were
+advantageous to the public.” It is possible that Pitt’s modified funding system
+may have proved durable had it been implemented twenty years earlier. But by
+62O’Brien (2008) contains an excellent discussion of both sides of this controversy.
+45
+
+
+the 1790s, the debt had already risen too much for further rapid growth to be
+tolerated.
+1797 to 1815 By Autumn 1797, the consol rate exceeded 6 per cent, having risen
+by over two percentage points since the start of the war. This rate had not been
+seen since 1717 and would not be seen again until the 1960s. In response,63 Pitt
+used his November 1797 Budget speech to announce that he would abandon the
+existing strategy:
+I admit the funding system, which has been so long the established
+mode of supplying the public wants, though I cannot but regret the
+extent to which it has been carried, is not yet exhausted. If we look,
+however, at the general diffusion of wealth, and the great accumulation
+of capital; above all, if we consider the hopes which the enemy have
+conceived of wearying us out by the embarrassments of the funding
+system, we shall find that the true mode of preparing ourselves to
+maintain the contest with effect and success is, to reduce the advantages
+which the funding system is calculated to afford within due limits, and
+to prevent the depreciation of our national securities.
+Dismissing the notion of covering war spending without recourse to borrowing as
+“evidently impractical”, Pitt sought a middle way. His solution was not entirely
+without precedent. The land and malt taxes had been used as variable taxes from
+before 1717 and tended to rise during war time.64 Pitt built on this notion of
+variable taxes in two ways. First, he introduced a new temporary tax – the ‘triple
+assessment’ (itself built on the system of assessed taxes) – which he hoped could
+raise revenue by a third, far more than could be achieved using the land and malt
+63Cooper (1982). 64See Beckett (1985, fn. 5, p. 295) for the case of the land tax.
+46
+
+
+taxes.65 Second, he introduced a distinction between permanent and temporary
+debt. Temporary taxes would be maintained during peacetime until the temporary
+debt was redeemed, at which point the country “shall not owe more than at the
+beginning”, with Pitt’s two sinking funds in place to redeem the permanent debt
+from that point onwards.
+In the 1803 Budget speech, Pitt’s successor Addington was even more ambitious
+about the extent to which taxation could fund the war:
+The committee will perceive, that the great object I have in view is to
+raise a large part of the supplies within the year. The extent to which
+I wish to carry this principle is this, that there shall be no increase
+whatever of the public debt during the course of the war. In the first
+place, it will be necessary to ascertain the probable amount of the
+annual charges of the war, and then to make provisions for carrying on
+a vigorous and even protracted contest, without making any greater
+addition to the public debt than what will be annually liquidated by
+the sinking fund.
+Although Addington did not succeed in preventing an increase in debt, the deficit
+did fall back to a third of its 1797 level.
+As war spending continued to rise, particularly in the last three years, Chancellors
+Petty, Perceval and Vansittart did not maintain such an intense focus on minimising
+borrowing. In 1813, Vansittart modified (and arguably damaged) the sinking
+funding arrangements in order to avoid raising taxes. He did this by cancelling
+debt issued before 1786, thereby reducing the sinking fund contribution. Despite
+65The triple assessment was an early version of the income tax. Vulnerable to evasion, it yielded barely half of the £7 million projected by Pitt (O’Brien 2016, Table 6.3, pp. 180-181). So it was reformed in 1799 and was a major source of revenue for the war.
+47
+
+
+this measure, Parliament did continue to pass revenue-raising measures and
+revenue grew by a further 60 per cent in real terms between 1803 and 1815.
+The French Wars were associated with a period of inflation, the causes of which
+have been the subject of ongoing debate. Over recent years, Antipa (2016) and
+Antipa and Chamley (2023) have argued that inflation occurred through a fiscal
+channel, at least in the last phase of the war (1810 to 1815). These papers do not
+challenge the conventional explanation of the suspension of convertibility in 1797 
+a bank run triggered by deflationary pressure associated with the return of specie
+to France after the assignats experiment – but do argue that inflation during the
+restriction period was at least partly fiscal in nature. They establish that changes
+in the agio – the difference between the rates of exchange between sterling and
+gold on the market and at the mint – coincide with news about the progress of
+the war. They interpret British military setbacks as news about the likelihood that
+debt would be financed by real primary surpluses or by inflation and therefore the
+likelihood that Britain would return to the Gold Standard at the same official rate.
+This is certainly one coherent interpretation of movements in the agio, but others
+are possible too. For example, war news reflected in the agio may have been
+interpreted at the time as information about when rather than whether convertibility
+would be restored. Hawtrey (1949 [1919], p. 291) hypothesises that ministers
+would have been reluctant to return to convertibility during the war because they
+did not want to lose the greater flexibility afforded by suspension to borrow from
+the Bank of England. Under this interpretation, fiscal policy did of course play
+a role, but the agio did not reflect news about how debt would be financed. On
+the face of it, the fact that the consol rate remained clearly below the 1797/98
+peak for the rest of the war points towards the second interpretation being more
+likely. This interpretation is still compatible with a temporary monetary financing
+48
+
+
+channel. Antipa and Chamley (2023) show that the Bank of England’s purchases
+of Exchequer bills were unusually high towards the end of the war. If the Bank
+did not offset this with a reduction in its claims on the private sector, there may
+well have been a temporary impact on the money supply, prices and the agio.
+Either way, Britain did return to convertibility in 1821 and even if there was a
+period when the fiscal financing regime changed, this was a very small fraction of
+the two hundred years being considered in this Section.
+1815 to 1866 Progress towards debt reduction after Waterloo started on the back
+foot when Parliament refused to pass the government’s proposal to renew the
+income tax. It nevertheless remained the government’s objective, as stated in
+Vansittart’s 1816 Budget speech:
+He certainly thought it would be desirable to avoid, if possible, any
+increase of the unfunded as well as funded debt. Had the system he rec
+ommended been adopted by the House, a great and rapid improvement
+of public credit, would, in his conviction, have been the consequence.
+He still most sincerely hoped this would take place though with less
+rapidity.
+Spending did not fall sufficiently rapidly to make up for the lost income tax,
+resulting in deficits in 1816 and 1817. The government looked for a new mechanism
+to secure debt repayment, but Pitt’s sinking funds were now discredited as it was
+realised more widely that debt repayment was funded by new borrowing. So in
+1819 the House of Commons passed a resolution calling for a surplus of at least
+£5 million.66 This helped Vansittart secure tax rises of over £3 million in the 1819
+Budget. In 1823, the £5 million became a charge on the Consolidated Fund (in this
+66Hargreaves (1930, p. 145).
+49
+
+
+respect it was the same as Pitt’s 1786 sinking fund).67
+Taxes were cut in 1824 and the sinking fund charge could again only be paid by
+borrowing. In his 1828 Budget speech, the new Chancellor Goulburn rejected this
+approach and instead recommended that the charge be lowered to £3 million. In
+doing so, ‘he begged not to be understood as supposing that we could presume to
+abandon the principle, which he conceived to be essential to the maintenance of
+the character of the country, and the stability of public credit, of making constant
+efforts for the reduction of the national debt’.
+The following year, however, the £3 million charge was abandoned. It is not
+entirely clear why, but the debate after the 1829 Budget speech suggests that many
+MPs remained very sceptical of any arrangement which could see the government
+issuing and purchasing debt at the same time. In the same year, however, a Bill
+was passed which allowed the Commissioners for the Reduction of the National
+Debt (the independent body set up in 1786 to administer the sinking fund) to issue
+life and term annuities in exchange for perpetuities.68,69 Terminable annuities were
+equivalent to perpetuities plus a sinking fund in the sense that the return on them
+included an element of capital repayment.
+For all intents and purposes, however, debt repayment stalled in the 1830s. This
+can be seen in Budget speeches. For example, in 1831, the new Chancellor Viscount
+Althorp informed the House that “he was never an advocate for a large Sinking
+Fund, or a large surplus revenue.” In the following year, he made clear that he
+was prepared to act to prevent deficits:
+...if it appears that we cannot make reductions sufficient to meet the
+67Hargreaves (1930, p. 149). 68Hargreaves (1930, pp. 158-160). 69A table in Commissioners for the Reduction of the National Debt (1891, pp. 240-241) shows that £56 million had been issued by 1890.
+50
+
+
+income of the country, it will be absolutely necessary to appeal to
+Parliament to strengthen the resources of the country for the payment
+of its expenditure; and I am perfectly satisfied, that, after I shall have
+proved that the reduction of the expenditure has been carried as far as
+is consistent with the safety, interests, and honour of the country, I shall
+not fail to receive the support of the Parliament, even if it should be my
+misfortune to have to propose such a measure.
+Although the term was not used in Budget speeches of this period, Chancellors
+appeared to have adopted a balanced budget rule. When there looked likely to
+be a prospective surplus, as in 1833, Chancellors would decide, as Althorp did
+that year, that “a reduction of taxes should be made to the extent of the surplus.”
+But prospective deficits needed remedying, as stated in Robert Peel’s 1842 Budget
+speech:
+...how shall that deficiency be supplied?... Shall we, in time of peace,
+have resort to the miserable expedient of continued loans? Shall we try
+issues of Exchequer-bills? Shall we resort to saving-banks? Shall we
+have recourse to any of those expedients which, call them by what name
+you please, are neither more nor less than a permanent addition to the
+public debt?...Sir, I cannot recommend such a step....You are bound...by
+the engagement which you yourselves have contracted. Almost the
+first vote you gave after the election of the present Parliament was the
+adoption of a resolution that it was impossible to permit that state of
+things to continue which presented constant deficits of revenue.
+Peel’s response to this prospective deficit was to reintroduce the income tax.70
+70A decision also motivated by a desire to reduce duties.
+51
+
+
+By 1849, the Chancellor (Sir Charles Wood) was targeting a small surplus which
+would “one year with another, effect a constant, even though it be a small reduction,
+of the national debt” and this objective was achieved for a few years.
+Progress was halted by Britain’s entry into the Crimean War in early 1854.71 In
+what was his second Budget speech, Gladstone signalled his determination to keep
+borrowing to an absolute minimum, famously remarking that “The expenses of a
+war are the moral check which it has pleased the Almighty to impose upon the
+ambition and the lust of conquest that are inherent in so many nations.” This
+objective was dropped by his successor Sir George Cornewall Lewis in the very
+next Budget speech, but in a decision imitating Pitt’s, he committed “to set aside
+one million sterling annually until the whole perpetual portion of the debt which
+they propose to contract shall be extinguished.” This sinking fund only survived
+three years (two years of which were peaceful), when it was dropped by Benjamin
+Disraeli in the context of the fallout from the 1857 Panic.
+Gladstone captured the pragmatic strategy for financing nineteenth century wars
+when he said in his 1862 Budget speech that:
+In years of war ... you do not think of the balance of your revenue and
+expenditure, but you get what revenue you can, and make large loans
+to meet the exigencies of the public service.
+In peacetime, deficits should be avoided in almost all circumstances. While raising
+taxes in response to a prospective deficit in the 1859 Budget, he declared that “I
+think we are all nearly agreed on this, that in time of peace nothing but a dire
+necessity should induce us to borrow.”
+However, as he freely admitted after cutting taxes 1861, 1863, 1864 and 1865, he
+71See Anderson (1963) on its financing.
+52
+
+
+was unable to “boast that, as a legislative and deliberative body, we have as yet
+risen to a sense of the full extent of our obligations with respect to the reduction
+of the public Debt.”
+1866 to 1914 By his 1866 Budget speech, Gladstone had decided “that the time
+has come when, to say the least, it is fitting that Parliament should bestow a
+greater degree of attention than has hitherto been bestowed on the question of the
+state and movement of the National Debt.” He did not believe that discretionary
+surpluses could be relied upon, preferring instead an approach of “including in
+the estimate of expenditure and making provision by taxation for sums which are
+to be applied in liquidation of debt.” His preferred approach was not a fixed debt
+charge, but terminable annuities. Although not popular with the public, Gladstone
+saw an opportunity to issue them to several public sector institutions including the
+savings banks which held significant amounts of government debt. This amounted
+to little more than an accounting trick, but significant sums were in fact repaid by
+this device.72
+In contrast to Lewis’ sinking fund, the terminable annuities plan survived Disraeli
+becoming Chancellor again. Indeed, he embraced the new focus on debt reduction,
+declaring in his April 1867 Budget speech that “if a Chancellor of the Exchequer
+is called upon to go into the market to raise money, he will walk with a prouder
+mien, and experience greater facilities in raising money, if it can be shown that in
+the day of our prosperity we have made an honourable and an honest attempt to
+reduce the amount of our National Debt.” The conflict in Abyssinia later that year
+temporarily held up debt reduction, but by the first half of the 1870s, Chancellors
+made regular references to significant progress in reducing debt.
+72Hargreaves (1930, p. 185).
+53
+
+
+Sir Stafford Northcote, Chancellor from 1874, saw a defect in the terminable
+annuities scheme. In his 1875 Budget speech, he pointed out that when terminable
+annuities mature, the Chancellor may not replace them with new ones, reducing
+the rate of debt repayment. He therefore wished Parliament “to consider whether
+it is not possible to devise some plan which might put us upon a way of securing a
+more regular, more constant, and more stable action upon the National Debt.” His
+proposal was a fixed debt charge of £28 million, part of which would cover interest
+and part debt repayment. This new sinking fund would sit alongside terminable
+annuities, whose service would fall inside the fixed charge.
+Northcote recognised that “under circumstances different from the present,” it
+would be reasonable for a Chancellor to deviate from his scheme. Perhaps because
+of this signal that the scheme should be flexible, it continued to 1914 (and beyond).
+The scheme probably helped Northcote push through tax increases in 1876 and
+1878. And rather than lower the debt charge in the face of conflict in Afghanistan
+and South Africa, he chose to rely on short-term borrowing, followed by a plan to
+redeem that borrowing which included a temporary increase in the debt charge.
+Gladstone grudgingly accepted the Northcote sinking fund, labelling it a “second
+best” approach in his 1881 Budget speech.
+Northcote’s scheme faced its second challenge in 1885 as wars broke out again in
+Africa and Asia. The prospective deficit was £15 million. The Chancellor (Hugh
+Childers) proposed that tax increases should cover half of this and £4.6 million
+be diverted from terminable annuity capital repayments (thereby lowering the
+debt charge by the same amount). In fact, Parliament rejected the tax rises and
+the government fell. Childers’ replacement, Sir William Harcourt, again diverted
+funds from the debt charge rather than raise taxes and the following year (1887)
+George Goschen reduced the debt charge to £26 million, pointing to the rejection
+54
+
+
+by Parliament of the 1885 Budget. Despite the reductions in the debt charge,
+significant debt repayments were made from the late 1880s until 1899 and Goschen
+could claim in his 1891 Budget speech that “the present House of Commons has
+not failed to discharge its duty in following up, and not slackening, the pace of
+the reduction of Debt, to which we all attach the very greatest importance.”73 The
+progress in the 1890s was far from automatic. Harcourt raised taxes three years in
+a row, explaining the tax rise in his 1894 Budget like this:
+We do not, therefore, propose to break up the fixed charge or permanent
+fund set apart for the reduction of the Debt. To take such a course
+in time of peace in order to meet expenditure which we regard as
+indispensable, not exceptionally, but as a part of the regular demands
+for the defence of the country, would be a fatal and a cowardly error,
+unworthy of a great nation. I pray the Committee to consider the
+vital consequences, alike in peace and in war, of this great, perhaps
+the greatest of all national reserves – a reserve not less valuable, even
+more valuable, than the Naval and Military Reserves. In peace time
+our financial credit depends upon the confidence which is felt that
+the nation is ready and willing to make all the sacrifices necessary to
+meet its needs and obligations; that its policy is not to increase, but to
+diminish, the Public Debt.
+The Boer War, which started in late 1899, turned out to be the most costly since the
+French Wars. The Chancellor Michael Hicks Beach signalled in the 1900 Budget
+that current taxation would bear a significant share of the war costs, while of
+73In response to the initial £1.5 million reduction in interest payments caused by Goschen’s famous conversion, the debt charge was lowered by £1 million, with the result that each year £500,000 more was devoted to debt reduction. The next change was in 1899 when Michael Hicks Beach lowered the debt charge by a further £2 million.
+55
+
+
+course falling far short of Gladstone’s lofty ambitions in 1854:
+In the earlier years of that war, from 1792 to 1798, Mr. Pitt pursued
+the fatal policy of borrowing each year what he required for war ex
+penditure, and practically providing nothing by taxation except the
+interest on his loans. What was the result? He borrowed, and he
+increased the National Debt by £200,000,000. For that increase he got
+only £108,500,000 in cash. He began to borrow at a rate of interest a
+little over 4 per cent. By 1797 that rate of interest had increased to 6 1
+4
+per cent. and more; and I have no doubt it is true, as I think it was once
+said, that out of our National Debt there is no less than £250,000,000 for
+which the State has never received a single halfpenny – a mere sacrifice
+to capital, to induce it to lend, without reducing in any material degree
+the interest on the loans. Happily for us, happily for the country, in
+1798 Mr. Pitt turned over a new leaf. He raised £10,000,000 by the
+income tax, and continuously from that time to the close of the great
+war the expenses of the war were met partly by loans no doubt, but
+also largely by taxation.
+Despite an increase of over 30 per cent in tax revenue over the course of the war,
+the fastest growth on a four year basis since the French Wars, debt grew by over
+£150 million, reversing three decades of debt reduction. Having been suspended
+during the war, the debt charge was raised in 1903 and again in 1905, back to the
+£28 million level set by Northcote. Explaining this decision in his 1905 Budget
+speech, Chancellor Austen Chamberlain said:
+...if it is right and just to borrow largely in the emergency of a great war,
+when the honour and even the existence of the Empire are at stake, it is
+upon the condition that when, peace is re-established we take the first
+56
+
+
+opportunity in our power to restore our national credit and to lighten
+the burden of debt which we hand on to our successors.
+Although the debt charge was reduced again by Chancellor David Lloyd George
+as the political focus switched to welfare reform, there were surpluses every year
+between 1904 and 1913 except from 1909 when the House of Lords voted down
+the Budget proposals. By 1913, debt had fallen back by £90 million.
+57

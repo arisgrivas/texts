@@ -1,0 +1,141 @@
+Wars and State Capacity
+Author(s): Timothy Besley and Torsten Persson
+Source: Journal of the European Economic Association, Apr. - May, 2008, Vol. 6, No. 2/3, Proceedings of the Twenty-Second Annual Congress of the European Economic Association (Apr. - May, 2008), pp. 522-530
+Published by: Oxford University Press
+Stable URL: https://www.jstor.org/stable/40282661
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms
+Oxford University Press is collaborating with JSTOR to digitize, preserve and extend access to Journal of the European Economic Association
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+WARS AND STATE CAPACITY
+Timothy Besley Torsten Persson London School of Economics and IIES, Stockholm University CIFAR CIFAR
+Abstract
+The article builds a simple model to investigate how different types of armed conflict shape fiscal capacity: the state's ability to raise revenue from taxes. It starts from the simple observation that external war tends to generate common interests across groups in society, whereas internal, civil war entails deep conflicting interests across groups. Our model predicts that - compared to a society without conflict - civil wars lead to smaller investments in fiscal capacity, whereas prospects of external war generally lead to larger investments. Correlations in international data on conflicts and taxation are, by and large, consistent with these predictions. (JEL: H 10, N40, O10)
+1. Introduction
+At the heart of state capacity lies the ability to levy taxes to finance public goods and make transfers. A common argument among historians is that the prospects of external war may promote the development of state capacity: governments which build more power to tax are more likely to win such wars and may also face less opposition from taxpayers.1 Internal conflicts leading to civil war mainly take the form of insurgencies by rebel groups (e.g., Fearon 2007), which again requires the state to devote resources to fighting. How civil conflicts affect investments in state capacity has
+Acknowledgments: We thank Jim Fearon and Philippe Martin for helpful comments, and CIFAR, ESRC (RES-051-27-0166), and the Swedish Research Council for generous financial support. E-mail addresses: Besley: t.besley@lse.ac.uk; Persson: torsten.persson@iies.su.se
+1. See, lor example, Brewer (1989), Hoffman and Kosenthal (1997), U Bnen (2UU^), and Tilly (1990). There is also a large political science literature showing that democracies fight fewer external wars than autocracies (see, e.g., Maoz and Russett 1993), although some authors claim that this "democratic peace" largely reflects the fact that democracies have higher incomes and are more economically intergrated (see, e.g., Gartzke 2007).
+Journal of the European Economic Association April-May 2008 6(2-3):522-530 © 2008 by the European Economic Association
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+Besley and Persson Wars and State Capacity 523
+not received much attention, however, even though such conf common in low-income countries.2
+Whereas external war may induce a common interest acro in society, civil war inherently reflects conflicting interests. T is the starting point for our article. Unlike the existing litera state capacity shapes the incidence of conflict, we focus on h of these two types of conflict affects incentives to invest in capacity. We build on Besley and Persson (2007), which develops a model of the state's investment in (legal) capacity to promote markets and (fiscal) capacity to levy taxes. We use a stripped-down version of that model to analyze the difference between internal and external conflict.
+The next section lays out our model, where a government investing in the fiscal system can levy more taxes in the future. Section 3 studies optimal tax and spending decisions, and derives predictions about the two types of conflict and investments in fiscal capacity. Section 4 takes a preliminary look at the data, and Section 5 offers a few concluding comments.
+2. Model
+Basic. There are two periods s = 1,2. Private consumption takes place in bot periods, but consumers cannot save. Preferences of all agents are linear in private consumption, as well as in government spending. In each period, the government makes taxing and spending decisions. The period- 1 government invests in fiscal capacity, assuming that the wor ends in period 2. This simple dynamic framework captures the essentials of representative time period within a fully specified dynamic model. Two groups, J = A,B, make up shares pA and pB = 1 - fiA of th population. Group membership is determined by some attribute observable b everybody, including the government. All agents within groups have identical income levels denoted by YJ. We also define aggregate income and the incom shares of each group as Y = XjPjYj, and coJ = PJYJ/Y.
+Spending, taxes, state capacity, and external conflict. Because the governmen observes income, tax rates in period s can be made group specific, f/. To allow for redistribution in the simplest possible way, we allow tax rates to be negativ
+2. See Elbadawi and Sambanis (2002) for a review of the empirical work on the incidence of civil wars. A robust finding of this literature is that poor countries are disproportionately involv in civil war, even though the direction of causation is difficult to establish. In a debate over th interpretation of this finding, Fearon and Laitin (2003) see it as reflecting limited state capacity put down rebellions, whereas Collier and Hoeffler (2004) see it as reflecting the lower opportunit cost of fighting in low-income economies.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+524 Journal of the European Economic Association
+Taxation is constrained, as any individual can earn a fraction (1 - x income in an informal sector where taxation is avoided. Therefo
+period s must satisfy r/ < rs . Let x\ be the initial periodl stock of (a higher r raises the feasible tax rate). Fiscal capacity does no can be augmented by nonnegative investment in period 1, which We assume costs are increasing and convex, with F(0) = 0 and A public good with stochastic benefits is provided in quantity is high as = a > 1 with probability e9 and low as = 0 with pr Realizations of as are i.i.d. over time. We interpret s as the probab conflict, as as the level of external threat, and Gs as the level of such threat.
+By linearity, indirect utility of a member of group / is
+vj(t;,Gs)=asG3 + (l-tsJ)YJ. (1)
+The government budget constraints are
+^t{pJYJ = Gi + F(T2-Ti) and J^t{ /3JYJ = G2. (2)
+jJ
+Their
+Gover is he maxim over / hol Once a viol no ex insur existi
+Timin subse
+1 . Na / hol 2. Ab
+and g in period 1. 3. Agents consume.
+3. Besley and Persson (2007) study a richer model, where they separately investigate the effects on state capacity of political turnover, political stability, and political polarization.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+Besley and Persson Wars and State Capacity 525
+3. Results
+Given the specific structure of our model, the choice of taxes and spending in each period can be studied separately from the period- 1 investment decision.
+Optimal policy. Let group / be in power and group K be out of power. Absent internal conflict, the policy vector {f/, tf, G} chosen at stage 2 maximizes the indirect utility of a group / member in (1), for given as subject to the appropriate part of (2) and the institutional constraints:
+tJs < rs and tf < rs.
+If as = a > 1, this maximization yields f/ = tf = rs for s e {0, 1} and
+Gi=^2tiPjYj-F(t2-ti) and G2 = ^^yF7.
+If as = 0, then instead Gs = 0, tf = rs for s e {0, 1} and
+h - JJfj and t2 - pJyJ .
+Intuitively, the value of external defense either exceeds the value of transfers (unity) or not. Thus, the ruling government uses existing fiscal capacity to finance either spending on defense (public goods) or transfers to its own group. The group out of power is always taxed as much as possible. Finally, by assumption, all fiscal resources are used up in any internal conflict, namely, f/ = tf = xs and Gs = 0 f or s e {1,2}. Furthermore, there is no investment in state capacity, namely, r2 = t\ , if internal conflict breaks out in period 1.
+Optimal investments in state capacity. In period 1, group / invests in fiscal capacity under uncertainty over the future realizations of ot^ and the period-2 group in power. Drawing on the results in Section 3 and a little algebra we can define the expected net payoff
+YJ { 1 + T2 UJ (l + ^j) [sa + (1 - e)(l - 8)] - ll ] - k(ai)F(r2 - n),
+where a if ot\ = a, A(ai) = < 1 if a\ = 0 and there is no civil conflict, (3) oo if a i = 0 and there is civil conflict,
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+526 Journal of the European Economic Association
+is the (income-normalized) cost of investment. This reflects the o of funds, which is higher when the realized external threat is high condition for state capacity is
+YJ IV ( 1 + ^-j) [sa + (1 - e)(l - 8)] - lj < k(ai)Ft(r2 - ti), (4)
+with the complementary slackness condition X2 - x\ > 0. The right-hand side of condition (4) is the marginal cost of investment in fiscal capacity, and the lefthand side is the (net) marginal benefit. Fiscal capacity is valuable for group / either when the external threat is high whoever is in power at s = 2, an event that occurs with probability £, or when the external threat is low, no insurgency occurs, and group J holds on to power, a joint event that occurs with probability (1 - e)(l - 8)f}J. But because taxes lower private income, we have to deduct from these marginal benefits the marginal cost of foregone income. As mentioned previously, there is no investment in state capacity in the wake of period- 1 internal conflict. We assume that s and a are high enough that condition (4) holds with equality and positive investments in fiscal capacity are made (except during internal conflict) in period 1 . The equilibrium level of investment is defined by T(a\, s, 8).
+Empirical predictions. How do investments depend on the probabilities for external and internal conflict? To answer this question we first state two provisional results that speak to the effect of future anticipated conflicts, and the effect of current realized conflicts, respectively.
+Lemma 1 . Absent internal conflict in period 1, investment in fiscal capacity is reduced by greater risk of future internal conflict, Ts(-) < 0 but raised by greater risk of future external conflict, T£(-) > 0.
+To prove Lemma 1, observe that neither 8 nor s enters the right-hand side of condition (4), and the left-hand side is decreasing in 8 but increasing in s. As the right-hand side is increasing in t2, the result follows. Intuitively, higher prospects of future external conflict make it more likely that any future government will use fiscal capacity for common-interest defense. The risk of internal conflict diminishes investment incentives, because all fiscal resources are absorbed in such conflicts.
+Lemma 2. Absent internal conflict in period 1, high current threat of external conflict reduces investment in fiscal capacity, T(a, •) < T(0, •)•
+This lemma follows because a\ does not enter the left-hand side of condition
+(4) while the opportunity cost of funds, X(a\), is increasing in <x\. Intuitively,
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+Besley and Persson Wars and State Capacity 527
+a period 1 internal conflict or high external threat reduce inve capacity because they raise the cost of public funds.4 Because the data at any given point in time will reflect both and past realizations of conflicts, we define (unconditionally) exp
+as
+E(T) = eT(a, 8, 8) + (1 - e)(l - 5)7(0, e, 8). (5)
+In this expression, the s and 8 parameters outside (inside) the investm tion capture their effect on the expected frequency of period 1 (perio Differentiating (5) and drawing on Lemmas 1 and 2, we have the main of the article:5
+Prediction 1 . Expected fiscal capacity is decreasing in the probability nal conflict. The probability of external conflict has an ambiguous ef raises fiscal capacity if 8 is high enough.6
+4. Data
+How do the theoretical results relate to available data? Following a number of pr
+vious papers, we use the (annual) Correlates of War data to measure the inciden of internal and external wars in the period from 1945 to 1997.7 In an average y of this period, 5.5% of the 180 countries in the sample were engaged in a civil war and 3.2% took part in an external war. About 24% of the countries had an internal conflict and 31% an external conflict in at least one year between 194 and 1997.8 We define a dummy variable, for each type of conflict, which take value of 1 if a country experienced any conflict in this period. Our measures of fiscal capacity emanate from data on taxation collect by Baunsgaard and Keen (2005), which is available annually for 125 countr
+4. Besley and Persson (2007) show that complementarity between investments in fiscal capa and legal capacity creates positive feedbacks to income per capita. Amending the model with t mechanism would thus imply a lower future income.
+5. The second part follows because a higher value of 8 cuts the negative effect of making the h current investment state less likely (the (1 - e) in the second term in equation (5)) and raises t positive effect of future external threat in any current state (a higher value of T£(-)).
+6. The model also predicts that the risks of both conflicts exert larger effects on state capacity if ruling group internalizes a smaller share of income, because it commands a smaller income sh (coJ) than the other group. The comparative statics of parameter fiJ are harder to interpret becau they mix up relative group size and political stability.
+7. See http://www.correlatesofwar.org/URL. Specifically, we say that a country is involved in external war in a specific year if either (or both) of the binary (0,1) variables interstatewa extrastatewar is equal to one. A country is said to be involved in an internal war if civilhomew equal to 1 .
+8. Over this period, 27 of the 1 80 countries are engaged in both an internal and an external conflict. In line with our theory, however, simultaneous external and internal conflicts are extremely rare.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+528 Journal of the European Economic Association
+between 1975 and 1997. Absent direct data on past investments in we proxy it in three ways by overall tax collection, as a percenta a sample mean of 21%); by the share of income taxes as a perc taxes, as income taxation requires institutionalized compliance str 35%); and by the average inflation rate, as seigniorage is more lik fewer institutionalized sources of tax revenue (mean 15%). The main correlations are given in Table 1 which runs regr fiscal capacity measures on our conflict dummies, and on binary (eight) regions and (five) legal origins.9 Because of the findings in on external and internal conflict noted in the introduction and the and Persson (2007), we sometimes also include measures for th years during which a country has been democratic, as well as the l Given the likely simultaneity of the left- and right-hand side va causal can be read into these regressions. But the correlations are Column 1 shows that countries involved in internal conflict have a GDP
+share of taxes around 7% lower than countries without conflict, whereas countries
+involved in external conflicts have a tax share around 7% higher. The former result is qualitatively robust (column 2) to controlling for democracy and income, which are both positively correlated with rasing taxes. In column 3, income taxes as a share of total taxes are 8% lower in countries that experienced an internal conflict and 16% higher in countries that took part in an external conflict. The latter result is robust to controlling (column 4) for democracy and income. Finally, column 5 shows that countries that fought a civil war, on average, have an inflation rate 14% higher than others. This is a large effect indicating that such countries have poorly developed fiscal capacity and therefore resort to inflation for raising revenue in periods of conflict. This result, too, is robust (column 6) to democracy and income.
+5. Conclusion
+This article has focused on determinants of long-run state development and the role of war in shaping investments in fiscal capacity. We have presented a simple theory, where prospects of internal and external conflicts have very different effects on incentives for building capacity to collect taxes, and some correlations consistent with this theory.
+The work reported here is part of a broader research agenda that does not take the existence of effective government for granted. Our suggested approach aims to identify economic and political features that shape the incentives to invest
+9. The results are similar if we, instead of the conflict dummies, use the share of years since 1945 that a country has been involved in each type of conflict. The alternative measures are closer to the theory but also create more outliers.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+Besley and Persson Wars and State Capacity 529
+I
+bo £J ^ * o ^O en .2
+c
+aI|
+^3§c
+o^aI
+II
+I si 1
+'§ o g ' *
+m rt ïft mo-'sf-os^oo tas $r- '$ pq ^SiOr1 ^rovoinNw <nos oo>Ofn .
+D "S
+Sw
+I
+eu 1^ i^h^ i^Sy 1 ^ ica^ 00
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms
+
+
+530 Journal of the European Economic Association
+in state institutions, which in turn affect policy outcomes. We b an approach can help bring together ideas from economics, polit history. The existing literature on civil war has tended to take fiscal capacity as given along with the level of economic development. A more complete treatment of the causes and consequences of conflict will have to treat the incidence of conflict, the level of development, and investments in state capacity as jointly determined. This presents a challenge for future theoretical and empirical research.
+References
+Besley, Timothy, and Torsten Persson (2007). "The Origins of State Capacity: Property Rights, Taxation and Politics," Working paper, IIES, Stockholm University. Baunsgaard, Thomas, and Michael Keen (2005). "Tax Revenue and (or?) Trade Liberalization." Working paper, IMF. Brewer, John (1989). The Sinews of Power: War, Money and the English State, 1688-1783. Knopf. Collier, Paul, and Anke Hoeffler (2004). "Greed and Grievance in Civil War." Oxford Economic Papers, 56, 563-595. Elbadawi, Ibrahim, and Nicholas Sambanis (2002). "How Much Civil War Will We See? Explaining the Prevalence of Civil War." Journal of Conflict Resolution, 46, 307-334. Fearon, James (2007). "Economic Development, Insurgency and Civil War. Working paper, Stanford University. Fearon, James, and David Laitin (2003). Ethnicity, Insurgency and Civil War. American Political Science Review, 97, 75-90. Gartzke, Eric (2007). "The Capitalist Peace." American Journal of Political Science, 51, 166191. Hoffman, Philip, and Jean-Laurent Rosenthal (1997). "Political Economy of Warfare and Taxation in Early Modern Europe: Historical Lessons for Economic Development." In The Frontiers of the New Institutional Economics, edited by Drobak, John and John Nye. Academic Press. O'Brien, Patrick (2005). "Fiscal and Financial Preconditions for the Rise of British Naval Hegemony: 1485-1815." Working paper, LSE. Maoz, Zeev, and Bruce Russett (1993). "Normative and Structural Causes of Democratic Peace, 1946-1986." American Political Science Review, 87, 624-638. Tilly, Charles (1990). Coercion, Capital and European States, AD 990-1992. Blackwell.
+This content downloaded from
+194.156.224.12 on Fri, 07 Feb 2025 00:12:34 UTC All use subject to https://about.jstor.org/terms

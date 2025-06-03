@@ -1,0 +1,1119 @@
+ISSN 1471-0498
+DEPARTMENT OF ECONOMICS
+DISCUSSION PAPER SERIES
+SOVEREIGN RISK IN THE CLASSICAL GOLD STANDARD ERA
+Gavin Cameron, Prasanna Gai and Kang Yong Tan
+Number 258
+March 2006
+Manor Road Building, Oxford OX1 3UQ
+
+
+Sovereign Risk in the Classical Gold Standard Era
+Gavin Cameron Prasanna Gai Kang Yong Tan
+University of Oxford Australian National University University of Oxford
+March 21, 2006
+Abstract
+This paper explores the determinants of sovereign bond yields during the classical
+gold standard period (1872-1913). Using the Pooled Mean Group methodology, we Önd
+that the main beneÖt of the gold standard was as a short-hand device that enhanced
+a countryís reputation in international capital markets. By conveying important infor
+mation to investors and enhancing the speed of adjustment of sovereign bond spreads
+to long-run equilibrium levels, the gold standard allowed country risk to be priced more
+e§ectively. In contrast to other studies, our results suggest that fundamental factors
+were more important in determining a countryís creditworthiness in the long-run than
+the exchange rate regime per se.
+Keywords: Gold standard, sovereign risk, heterogeneous dynamic panels, pooled
+mean group estimator.
+JEL ClassiÖcation: F33, F34, F41, N10, N20.
+Financial support from the Australian Research Council (Discovery Grant DP0449706) is gratefully acknowledged. We are extremely grateful to Maurice Obstfeld and Alan Taylor for sharing their historical dataset. We thank Michael Chui, Warwick McKibbin, and David Vines for comments on an earlier draft. Corresponding author: Prasanna Gai, Economics Division, Research School of PaciÖc and Asian Studies, Australian National University, Canberra ACT 0200, Australia. Email: prasanna.gai@anu.edu.au.
+1
+
+
+1 Introduction
+Membership of the gold standard is often regarded as a signiÖcant factor driving yield spreads
+on sovereign bonds issued during the period leading up to World War One. A seminal study
+by Bordo and Rocko§ (1996) argues that adherence to the gold standard served as a ëgood
+housekeeping seal of approvalí, shaving as much as 40 basis points o§ sovereign bond spreads.1
+An important recent contribution, using a much larger country sample and a wider range
+of macroeconomic variables, by Obstfeld and Taylor (2003) also conÖrms the role played by
+the gold standard in enhancing sovereign credibility before 1914. Their Öndings also indicate
+that, to a large extent, country risk was priced without much reference to fundamental
+macroeconomic variables such as the level of public debt and the terms of trade.
+While such results suggest that the exchange rate regime plays an important role in the
+long-run determination of spreads, they shed little light on how it helps a country acquire
+a reputation for Önancial probity. A countryís reputation for creditworthiness in previous
+periods is likely to have a substantial bearing on its current reputation. This may be because
+the ëtypeí of policymaker running the country could change over time in ways not readily
+transparent to foreign lenders.2 Creditors, therefore, are required to constantly update their
+beliefs about the type of policymakers that they face. With Bayesian updating of country
+risk, bond spreads are likely to exhibit a high degree of persistence and deviate from steady
+state levels for a long time. These deviations are likely to vary from country to country,
+particularly if investors are wary of ëemergingícountries at the periphery of the international
+Önancial system.
+Obstfeld and Taylor (2003) tackle the dynamics of country risk using a lagged dependent
+variable model with the Arellano-Bond (1991) one-step dynamic panel estimation technique
+1A number of country-speciÖc studies Önd similar results. See, for example, Sussman and Yafeh (2000) and Lazaretou (2005) for the cases of Japan and Greece. 2For example, policymaker types could change unobservably over time and a reputation is gradually built as a ëdisciplinedítype separates himself from other types (Mailath and Samuelson, 2001). Alternatively, leadership changes may have a causative e§ect on economic growth and change perceptions of creditworthiness (see Jones and Olken, 2005).
+2
+
+
+estimated by the generalised method of moments (GMM). But, as Pesaran et al. (1999)
+observe, the Arellano-Bond technique can lead to inconsistent estimates in heterogeneous
+dynamic panels when the time dimension, T; is large. There is a risk, therefore, of misleading
+inferences about the true determinants of spreads and the long-run e§ect of the gold standard
+on country risk. Moreover, the Arellano-Bond approach does not permit heterogeneity in
+the short-run adjustment process for yield spreads. So, little can be said about how the
+gold standard contributed to reputation building by di§erent countries at the ëcoreí and
+ëperipheryíof the international Önancial system.
+In this paper, we examine the evolution of sovereign spreads in the pre-World War One
+era using a similar (though not identical) dataset to Obstfeld and Taylor (2003). We use
+the Pooled Mean Group (PMG) technique of Pesaran et al. (1999) to derive consistent esti
+mates for the determinants of country risk and examine the (di§ering) speeds of adjustment
+towards long-run equilibrium. Our Öndings are as follows. First, the prime beneÖt of gold
+standard membership appears to arise through a more rapid convergence of spreads towards
+their long-run equilibrium, suggesting that membership conveyed important information to
+investors that enabled them to price risk more e§ectively. Second, and in contrast to Obstfeld
+and Taylor, gold standard adherence was not, by itself, su¢ cient to drive borrowing terms.
+Rather, investors appear to have attached signiÖcance to fundamental variables such as low
+ináation, Öscal balances, and levels of economic development when pricing sovereign risk in
+equilibrium.
+Our paper is related to several recent cross-country studies of the gold standard era.
+Meissner (2005) examines the timing of adoption of the gold standard and shows that coun
+tries with large borrowing costs and signiÖcant trading relationships with other gold standard
+members were more likely to Öx their exchange rates earlier. Mauro et al. (2002) provide
+evidence suggesting that investors in the pre-World War One era paid particular attention
+to country-speciÖc fundamentals when pricing risk. Flandreau and Zumer (2004) argue that
+the gold standard may have played a much more modest role in the evolution of the global
+3
+
+
+Önancial system than hitherto assumed. But their use of feasible generalised least squares
+(FGLS) with large panel data dimensions also raises the spectre of inconsistent estimates
+stressed by Pesaran et al. (1999) and Pesaran and Smith (1995).
+Ferrucci (2003) also uses the PMG approach to study the determinants of sovereign bond
+spreads. His focus, however, is on a panel of countries covering the recent period 1992 - 2002.
+He Önds that while bond spreads reáect fundamentals, non-fundamental factors also play a
+signiÖcant role. Unlike the present paper, his analysis of short-run dynamics focuses on the
+gap between the equilibrium and observed level of spreads and does not consider the role
+played by the exchange rate regime in ináuencing the adjustment to equilibrium.
+Obstfeld et al. (2005) study the extent to which the gold standard ináuenced the degree
+to which countries in the international monetary system followed the world (i.e. the UK)
+interest rate. Using a similar dynamic equilibrium correction technique to ours (Pesaran et
+al., 2001), they suggest that the classical gold standard era was a period of limited monetary
+independence, consistent with the capital market openness of the time. By comparing the
+adjustment periods of country interest rates to long-run equilibrium periods, they contrast the
+rapid transmission of interest rate shocks with the greater monetary autonomy of the post
+World War Two Bretton Woods era. But their analysis does not consider the fundamental
+determinants of country risk or how it may have evolved di§erently in ëcoreíand ëperipheryí
+countries.
+The structure of the paper is as follows. Section 2 describes the econometric framework
+and motivates the PMG methodology. Section 3 presents the main results and discusses the
+preferred parsimonious speciÖcation. Section 4 considers the robustness and sensitivity of
+our results. Section 5 concludes. Details of data sources and diagnostic tests are contained
+in the Appendix A and B respectively.
+4
+
+
+2 Econometric Framework
+2.1 Data
+Our data is annual and covers twenty-two countries between 1872 - 1913. The sample begins
+in 1872 since many countries join the gold standard from the mid-1870s onwards giving a more
+balanced panel dataset. We follow Obstfeld and Taylor (2003) and separate countries into
+ëcoreíand ëperipheryí. The ëcoreícountries are predominantly Anglo-Saxon and European,
+namely Australia, Belgium, Canada, Denmark, France, Germany, the Netherlands, Norway,
+Russia, Sweden, the United States and the United Kingdom. The ëperipheralíor ëemerging
+marketícountries in the sample are: Argentina, Austria, Brazil, Chile, Greece, India, Italy,
+Japan, Portugal and Spain. Our sample di§ers from Obstfeld and Taylor (2003) in that it
+excludes South Africa, New Zealand, Turkey, Finland, Hungary, and Mexico, but includes
+Russia and the Netherlands. The Global Financial Database (GFD) and Mitchell (1992,
+1993, 2000) are our primary sources. These data were corroborated against the datasets used
+by Obstfeld and Taylor (2003) and Flandreau and Zumer (2004). Some missing gaps were
+Ölled by consulting other recent studies of the gold standard era, for example, the nominal
+GDP. We take our measure of country risk to be the bond spread over UK consol yields.
+The bond yields used are from gold or sterling bonds traded in the London capital market,
+and their attributes are described in Appendix A along with details of the selected control
+variables.
+Figure (1) illustrates the average cost of external borrowing facing these countries in
+the pre-World War One period. It is clear that countries belonging to the ëcoreí of the
+international monetary system experienced much lower yield spreads than their counterparts
+on the ëperipheryí. The di§erence in the average spread between the two groups is 261 basis
+points and there is considerable diversity amongst countries. The ëcoreícountries typically
+faced borrowing costs that were 74 basis points above the UK rate, while the ëperipheryí
+countries faced interest rates around 335 basis points above the UK rate. Figure (2) plots
+5
+
+
+Figure 1: Average Yield Spreads, 1872 - 1913
+AUS BEL
+CAN DNKFRA GERNLDNORSWEUSA
+RUS
+ARG
+AUT
+BRZ CHL
+GRC
+IND
+ITA JPN PRT
+SPA
+0
+2
+4
+6
+8
+10
+12
+%
+CORE PERIPHERY
+sovereign bond spreads for selected ëcoreíand ëperipheryícountries. They conÖrm the picture
+of gradual convergence in bond spreads reported by Obstfeld and Taylor (2003) for the period
+leading up to 1914. This may be attributable to the rising popularity of the gold standard as
+a stable and credible regime underpinning the international monetary system and integrating
+global capital markets (see Figure (3)). From a statistical perspective, it suggests that certain
+long-run parameters might be identical across groups.
+2.2 Model
+Following Edwards (1986), Bordo and Rocko§ (1996) and Obstfeld and Taylor (2003), sup
+pose that yield spreads are determined by the relationship:
+SP READit = i + iW SP READt + Xit + uit; (1)
+where Xit captures lagged control variables commonly used in country risk analysis such
+as the ináation rate, the level of real GDP per capita, the M2 to GDP ratio, as well as
+6
+
+
+Figure 2: Yield Spreads for Selected Core and Peripheral Countries
+-1
+0
+1
+2
+3
+4
+1872
+1874
+1876
+1878
+1880
+1882
+1884
+1886
+1888
+1890
+1892
+1894
+1896
+1898
+1900
+1902
+1904
+1906
+1908
+1910
+1912
+%
+USA GER FRA RUS
+0
+2
+4
+6
+8
+10
+12
+1872
+1874
+1876
+1878
+1880
+1882
+1884
+1886
+1888
+1890
+1892
+1894
+1896
+1898
+1900
+1902
+1904
+1906
+1908
+1910
+1912
+%
+CHL ARG BRZ
+7
+
+
+Figure 3: Number of Countries on the Gold Standard, 1872 - 1913
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1872 1877 1882 1887 1892 1897 1902 1907 1912
+dummy variable for gold standard membership (see Appendix A for details). The variable
+W SP READt captures the e§ects of global interest rate shocks in international capital mar
+kets and takes the form:
+W SP READit = Y IELDt Y IELDUK;t (2)
+where Y IELDUK;t is the risk free rate (i.e. the yield on UK consol bonds), and
+Y IELDt =
+N X
+i=1
+GDPit erit
+PN
+i=1 GDPit erit
+Y IELDit.
+is the GDP-weighted return on the global bond market portfolio.
+The PMG approach to estimating (1) is appropriate for several reasons.3 First, as ex
+plained in Pesaran and Smith (1995) and Pesaran et al. (1999), the procedure yields con
+sistent estimates given the dimension (N = 22 and T = 42) of the panel data. Although
+Arellano and Bond (1991) suggest that the full range of IVs in a GMM procedure helps ad
+3Other applications of the PMG approach include Pesaran et al. (1999), Cameron and Muellbauer (2001), and Bassanini and Scarpetta (2002).
+8
+
+
+dress inconsistency, Pesaran et al. (1999) argue forcefully that the Arellano-Bond technique
+nonetheless delivers inconsistent long-run coe¢ cient estimates in heterogeneous dynamic pan
+els when T is large. This is readily illustrated by the fact that di§erent authors derive quite
+di§erent conclusions on the determinants of yield spreads when using di§erent sub-country
+and sub-period samples. Second, as a dynamic panel estimation procedure, it explicitly al
+lows for di§ering speeds of adjustment of the convergence of spreads towards the long-run
+equilibrium. The di§erent dynamics of convergence of ëcoreíand ëperipheryícountries sug
+gested by Figure (2) points to the importance of taking this into account. Third, PMG allows
+estimation of heterogeneous short-run responses of countries to policy changes which could
+capture the nature of the data.
+Our PMG model of sovereign risk is essentially a dynamic equilibrium correction equation
+of the form:
+SP READit = i + iSP READit 1 + 0
+1Zit 1 + 2W SP READt 1 + (3)
+3GSit 1 + i SP READit 1 + W SP READt 1 + 0 Zit 1 + uit;
+where Zit 1 is the set of explanatory variables, i are individual Öxed e§ects, and i the
+speeds of adjustment to the long-run equilibrium. For lagged dependent variables, we choose
+a maximum lag of one to preserve su¢ cient degrees of freedom. The short-run dynamics of
+the model are governed by the coe¢ cients of i, and 0. As with Pesaran et al. (1999), uit
+is assumed to be independently distributed across i and across t.4
+The long-run equilibrium of yield spread for each country is:
+SP READit = 1
+i
+[ i+ 0
+1Zit + 2W SP READt + it] ; (4)
+4Although independence across t could be violated due to possible serial correlation for long time series, this problem can be addressed by increasing the lagged order on both the dependent and independent variables ñwe do not follow this approach because of the limited degrees of freedom available to us.
+9
+
+
+where the it are stationary processes. For a long-run equilibrium to exist, i 6= 0, and for
+convergence i < 0. To obtain the coe¢ cients of the long-run relationships, we follow the
+assumption of long-run homogeneity discussed in Pesaran et al. (1999). This is done by
+taking the simple average of iís across countries ( ), and multiplying it by i, 0
+1 and 2 to
+obtain:
+SP READit = 0i + 0
+1Zit + 2W SP READt; (5)
+where 0i = i ; 0
+1 = 01 ; 2 = 2 . In the estimated models of (3) and (4), the vector of
+explanatory variable enters with a lag order of one. Deviations from equilibrium are possible
+in the short-run.
+In Section 3, we discuss the choice of variables in Zit 1. Since the choice of suitable
+explanatory variables in the sovereign debt literature is typically ad hoc, we adopt the general
+to speciÖc approach (Hendry and Richard, 1983) to test the model down to its parsimonious
+speciÖcation. Unless stated otherwise, these variables enter equations (3) and (4) with a
+timing convention of t 1. To address potential endogeneity, we use a lag order of two for
+the ináation rate and the variables that are expressed as a ratio of nominal GDP. The coding
+of the gold standard adherence dummy, GSit, is subjective. To make matters simple, the
+dummy is assigned the value 1 when countries formally announced their legal commitment
+to gold (de jure status).
+3 Results
+3.1 Feasible GLS and PMG Estimation
+We begin by initially estimating equation (1) with the feasible generalised least squares
+method used by Obstfeld and Taylor (2003). We then compare the results against the esti
+mated PMG models of equations (3) and (4). The beneÖts are two-fold. First, it checks the
+10
+
+
+quality of our data. Second, it acts as a robustness check of the ëgood housekeeping seal of
+approvalíhypothesis on a somewhat di§erent set of countries to that used by Obstfeld and
+Taylor (2003). This may be relevant since some authors (e.g. Flandreau and Zumer, 2004)
+question the impact of gold standard adherence on yield spreads.
+Table (1) presents results for two speciÖcations used by Obstfeld and Taylor (2003).
+Regressions 1.1 to 1.4 employ variants of the gold standard as the sole explanatory variable.
+In the Örst two estimations, we follow Obstfeld and Taylor (2003) and allow for the fact that
+some countries in the sample may have been in full or partial default. We, therefore, interact
+the gold standard dummy with a dummy registering defaults to gauge the extent to which
+investors were able to di§erentiate between gold standard adherence and debt compliance.
+The variable GS no def ault is deÖned as an interaction of the gold standard dummy with a
+dummy for no default on sovereign bonds, while the variable GS def ault is the interaction
+of the gold standard dummy with a dummy for episodes of default. Regressions 1.3 and 1.4
+then consider the e§ects of the gold standard in isolation. By contrast, regressions 1.5 to 1.8
+include a range of control variables, such as debt to GDP ratio, ináation, and open economy
+indicators. Note that the regression results reported in 1.1 and 1.5 are directly reproduced
+from Obstfeld and Taylor (2003) to facilitate comparison.5
+5Regression 1.1 is taken from Table 1, regression 3, while regression 1.5 is from Table 2, regression 3.
+11
+
+
+Table 1: A Comparison of Results with Di§erent Datasets, Gold Standard DeÖnitions and Econometric Methodologies
+Methodology FGLS FGLS FGLS PMG FGLS FGLS FGLS PMG
+SpeciÖcation 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8
+GS -0.29 -0.69 -0.27 -0.68
+(3.93)** (1.88)+ (2.73)** (2.16)*
+GS NODFLT -0.14 -0.18 -0.27 -0.17
+(1.96)* (3.09)** (4.05)** (1.91)*
+GS DFLT 0.12 -0.28 -0.25 -0.76
+(0.40) (0.58) (0.71) (2.17)**
+Default 1.65 2.23 0.94 2.15
+(6.72)** (6.22)** (4.28)** (6.97)**
+Partial 0.1 0.31 0.40 0.76
+(0.51) (0.98) (1.95)+ (3.19)**
+DEBTGDP 0.09 -0.14 -0.13 0.26
+(1.1) (1.57) (1.43) (0.54)
+INFL 0.360 0.0003 0.0004 0.011
+(2.45)* (0.21) (0.27) (1.08)
+LRGDPPC -0.45 -0.52 -0.53 -1.75
+(4.32)** (4.38)** (4.35)** (2.86)**
+LEXPGDP -0.11 -0.23 -0.24 -0.65
+(0.24) (3.35)** (3.52)** (1.36)
+LTOT -0.11 0.13 0.10 -0.055
+(1.03) (1.00) (0.76) (0.07)
+Observations 895 801 801 759 571 472 472 445
+No. of groups 22 21 19 23 18 17 17 16
+Notes: Absolute value of t-statistics in parentheses
++ signiÖcant at 10%; * signiÖcant at 5%; ** signiÖcant at 1%
+Dependent variables:
+SPREAD: speciÖcations 1 to 3; 5 to 7.
+DSPREAD: speciÖcations 4 and 8.
+All regressions contain countryís Öxed e§ect and country-speciÖc beta terms, but are not reported.
+12
+
+
+Regression 1.2 suggests that the coe¢ cient of GS no def ault (-0.18) is comparable to
+that obtained by Obstfeld and Taylor (2003). Clearly, however, this variable could proxy
+for other omitted country characteristics. Regression 1.6 shows that, upon adding other
+variables, the coe¢ cient remains broadly unchanged and is signiÖcant at the 5% level.6 The
+key determinants of yield spreads for our sample are episodes of debt default, the level of
+economic development (measured by the log of real GDP per capita), and ability to pay (the
+log of exports/GDP).
+This preliminary experiment is supportive of the Öndings of Obstfeld and Taylor (2003).
+As a further check, we consider the de jure deÖnitions of the gold standard in isolation
+instead of jointly accounting for e§ects of default episodes. In regression 1.3, gold standard
+adherence lowers yield spreads by 29 basis points. The addition of further control variables
+in regression 1.7 conÖrms the robustness of this Önding ñthe level of economic development
+and ability to pay remain key. Mere changes in the deÖnition of the gold standard do not
+appear to a§ect the estimates.
+Regressions 1.4 and 1.8 in Table (1) present the results obtained with the PMG estima
+tion method. The coe¢ cients reported are the long-run equilibrium relation between yield
+spreads and various explanatory variables. As with regression 1.3 based on FGLS, the coef
+Öcient capturing the beneÖts of adopting the gold standard in regression 1.4 is appropriately
+signed and signiÖcant as a stand-alone variable. But the impact on yield spreads (around
+70 basis points) is much more marked, however. Upon adding further control variables, the
+gold standard dummy remains signiÖcant (at the 5% level) as does the level of economic
+development at the 1% level. The good housekeeping e§ect of the gold standard, therefore,
+appears to be robust across econometric procedures.
+A major shortcoming of the regressions reported in Table (1) is the somewhat ad hoc
+choice of explanatory variables. We therefore use the general to speciÖc approach (Hendry
+and Richard, 1983) was used to test the model (see equation (3)) down to its parsimonious
+6We experimented with dropping the partial dummy variable in these speciÖcations. But the results were quantitatively similar.
+13
+
+
+speciÖcation (see Table (2)) using the PMG procedure. These regressions do not include
+country speciÖc GS terms.7 Since the analysis could be sensitive to the deÖnition of the gold
+standard in a dynamic setting, we consider three variants. Regression 2.1 uses the simple gold
+standard dummy. The e§ect of the gold standard is interpreted as a long-run phenomenon.
+In regression 2.2, the gold standard variable is interacted with yield spreads, GSSP READ.
+A large and negative coe¢ cient for GSSP READ would imply that the adoption of the gold
+standard shortens the time required for a country to converge to the steady state and reap
+the beneÖts of reduced yield spreads. This coe¢ cient could be interpreted as reáecting the
+learning behaviour of investors as they update their assessments of country risk. Regression
+2.3 allows for both the long-run and adjustment e§ects of GS.
+Several conclusions can be drawn from Table (2). First, there is a signiÖcant equilibrium
+correction term ranging between 0.39 to 0.47. It suggests that yield spreads adjust fairly
+quickly to their equilibrium levels with an average half life of some 1.5 to 1.8 years following
+a shock or policy change.
+Second, fundamental variables play an important role in spread determination. The level
+of economic development, as measured by log real GDP per capita, is signiÖcant across all
+speciÖcations. This variable is deÖned in terms of natural logarithms, so the coe¢ cient
+associated with it implies that a 1 unit increase in the log of real GDP per capita reduces
+spreads by 26 basis points (based on regression 2.2).8 Besides economic development, the
+ratio of Öscal balances (revenue minus expenditure) to nominal GDP, F ISCGDP , and the
+ináation rate, IN F L are also signiÖcant determinants of yield spreads. A large Öscal surplus
+will lower a countryís cost of borrowing as revenues improve ability to pay as well as serve as
+collateral. For every 1 percentage point increase in F ISCGDP , yield spreads are lowered by
+around 7 basis points in the long-run. Countries with a track record of high ináation also face
+higher borrowing costs ñ a one percentage point rise in ináation raises spreads by 5 basis
+7This is so because most of the countries have adopted the gold standard by the 1900s (see Figure (3)). These coe¢ cients could not be estimated as they have mainly entries of zeros. 8Obtained by dividing the coe¢ cient of LRGDP P C, -2.015, by the mean of the log real GDP per capita of entire panel data, 7.64.
+14
+
+
+Table 2: Parsimonious SpeciÖcation with Various Gold Standard DeÖnitions
+SpeciÖcation 2.1 2.2 2.3 Estimates of Long Run Coe¢ cients
+GS -0.628 0.200 (3.08)** (0.39) WSPREAD 0.350 0.514 0.547 (1.16) (1.48) (1.52) LRGDPPC -1.761 -2.015 -2.086 (3.01)** (3.09)** (3.10)** FISCGDP -6.205 -7.167 -7.386 (2.67)** (2.69)** (2.70)** INFL 0.051 0.054 0.056 (4.45)** (4.23)** (4.21)** Average of Short Run Adjustment Coe¢ cients
+-0.466 -0.405 -0.394 (2.42)* (2.26)* (2.18)* GSSPREAD -0.156 -0.184 (3.45)** (2.12)* DSPREADL 0.423 0.427 0.426 (10.16)** (10.28)** (10.26)** DWSPREAD 0.464 0.479 0.484 (2.71)** (2.81)** (2.83)** DDINFL 0.011 0.010 0.010 (4.20)** (4.12)** (4.11)** Observations 491 491 491 R-squared 0.37 0.38 0.38 HS Test (F) 3.31 3.82 3.87 p-value (0.04) (0.03) (0.02) LM t-bar Test, Pooled -22.61 -22.42 -22.41 Average ti -4.84 -4.79 -4.79
+Notes: Absolute value of t-statistics in parentheses + signiÖcant at 10%; * signiÖcant at 5%; ** signiÖcant at 1% LM test: 5% critical value (approx.): -3.96 from Im et al. (2003, Table 2). Dependent variable: DSPREAD
+15
+
+
+points as shown in regression 2.2. Perhaps surprisingly, our results suggest that common
+shocks to interest rates, W SP READ, do not have a signiÖcant impact on spread levels,
+though the positive coe¢ cient indicates that a 100 basis point increase in the global yield
+di§erential with the UK rates raises spreads by around 50 basis points. The lack of perfect
+correlation with the base rate could reáect a degree of capital immobility or the presence of
+narrow bands permitting some exchange rate movement between gold points.9
+Third, short-run dynamic terms are signiÖcant determinants of yield spreads.10 A coef
+Öcient of approximately 0.4 on DSP READL points to a fairly high degree of persistence
+in bond spreads. The size of the coe¢ cient suggests that reputations of creditworthiness in
+previous periods plays a part on the formation of current reputations and the cost of bor
+rowing. Deviations of a countryís yield from world interest rate could also reáect a change
+in investorís risk assessment about systematic risk. The estimate (of 0.5) for DW SP READ
+suggests that the transmission of common interest rate shocks to yield spreads is also not
+instantaneous.
+Across the three speciÖcations in Table (2), regression 2.2 is the preferred model. In re
+gression 2.1, the long-run impact of the gold standard on borrowing terms is clear to see. But
+without an interactive term between GS and yield spreads, it is hard to comment on the evo
+lution of country risk. In regression 2.3, which models both long-run and adjustment e§ects,
+we would not expect long-run e§ects to show up strongly if the gold standard was purely
+a reputational device for investors to learn about a country. As regression 2.3 shows, the
+long-run coe¢ cient is insigniÖcant (and incorrectly signed), while the adjustment coe¢ cient
+is signiÖcant and of similar magnitude to the one in regression 2.2.
+Returning to regression 2.2, the coe¢ cient of the gold standard interacted with the lagged
+9See Obstfeld et al. (2005) for a discussion of this issue. In a related study on the determinants of emerging market bond spread in the 1990s, Min (1998) found that external common shock, measured by the three-month US Treasury bill, is not signiÖcant. This is also consistent with Antzoulatos (1996) who shows that the US interest rates matter little in the determination of bond áows to the Latin economies in the 1990s. 10We constrain the estimates of short run dynamic terms to be identical across countries to preserve su¢ cient degree of freedom.
+16
+
+
+yield spreads GSSP READ is estimated to be -0.16. On average, a country adopting the gold
+standard found its borrowing costs converging more quickly to long-run equilibrium levels.
+In general, ëperipheralícountries joining the gold standard experience a more rapid spread
+convergence than the ëcoreí countries. For the sample as a whole, the imputed half life to
+achieve lower yield spreads upon adoption of gold standard alone (using regression 2.2)) is
+4.4 years.11 By contrast, with the interaction variable GSSP READ of regression 2.2 the
+half life is 1.8 years.12 In other words, gold standard adherence may have allowed investors
+to price country risk much more e§ectively.
+The diagnostic tests for the three models (bottom rows of Table (2)) suggest that the
+parsimonious speciÖcations may su§er from mild heteroskedasticity problems. As highlighted
+earlier, the assumption of homoskedastic disturbances gives rise to consistent, but ine¢ cient,
+estimates. So the presence of potential heteroskedasticity may not be severe enough to
+invalidate our Öndings. Furthermore, the p-values for these tests are much too close to
+us to exercise judgement on the choice of preferred model based on this criterion, especially
+between regressions 2.2 and 2.3. The LM bar test on the residual shows that there is no serial
+correlation. As such, a long-run cointegrating relation among the explanatory variables does
+exist for all three speciÖcations. Regression 2.2 is our preferred speciÖcation on grounds
+of economic intuition and for satisfying the panel cointegration test (which is more crucial
+amongst the diagnostic tests).
+3.1.1 Half-lives
+Recall that, for the existence of long-run equilibrium, it is necessary to have i 6= 0. When
+i < 0, there is convergence to the long-run steady state equilibrium for each country. Table
+(3) presents the speeds of adjustment i and half-life of countries for speciÖcations reported
+in Table (2). These speeds of adjustment are well behaved in 17 out of 22 countries in
+11The value of half-life was imputed from the coe¢ cient of GSSP READ in regression 2.2. 12 This is obtained by 1
+0:405 0:156.
+17
+
+
+which i 0.13 There is an anomaly for two countries, India and Sweden, where speeds of
+adjustment are estimated at essentially zero. This could be because the steady state for these
+two countries is not being well captured by the model, and therefore the speed of adjustment
+is ill-deÖned. The overall results are not, in any case, sensitive to the inclusion of India and
+Sweden.
+13Countries with i = 0 are not reported in Table (3), and these are Canada, Chile and Greece.
+18
+
+
+Table 3: Speeds of Adjustment and Half-lives of Selected Countries
+SpeciÖcation 2.1 2.2 2.3
+Country i t-stat. Half-life i t-stat. Half-life i t-stat. Half-life
+ARG -0.497 -8.67 1.39 -0.494 -8.75 1.40 -0.490 -8.57 1.41
+AUS -0.662 -0.56 1.05 -0.570 -0.49 1.22 -0.552 -0.47 1.26
+AUT -0.560 -1.38 1.24 -0.587 -1.46 1.18 -0.595 -1.47 1.16
+BEL -0.491 -0.82 1.41 -0.371 -0.62 1.87 -0.350 -0.58 1.98
+BRZ -0.425 -3.73 1.63 -0.418 -3.75 1.66 -0.410 -3.61 1.69
+DNK -1.140 -1.10 0.61 -1.008 -0.97 0.69 -0.986 -0.95 0.70
+FRA -0.754 -2.63 0.92 -0.620 -2.15 1.12 -0.597 -2.03 1.16
+GER -0.995 -1.09 0.70 -0.918 -1.01 0.76 -0.909 -1.00 0.76
+IND 0.110 0.08 - -0.116 -0.08 5.98 -0.197 -0.14 3.52
+ITA -0.187 -1.09 3.71 -0.172 -1.01 4.03 -0.165 -0.96 4.20
+JPN -0.501 -3.88 1.38 -0.461 -3.73 1.50 -0.444 -3.38 1.56
+NLD -0.387 -0.75 1.79 -0.252 -0.49 2.75 -0.227 -0.44 3.05
+NOR -0.418 -1.31 1.66 -0.256 -0.80 2.71 -0.229 -0.69 3.03
+PRT -0.355 -9.61 1.95 -0.358 -9.72 1.94 -0.358 -9.72 1.94
+SPA -0.303 -3.46 2.29 -0.307 -3.53 2.26 -0.308 -3.53 2.25
+SWE -0.031 -0.05 22.36 0.128 0.20 - 0.159 0.25 
+USA -0.397 -2.07 1.75 -0.263 -1.39 2.64 -0.230 -1.11 3.01
+RUS -0.399 -1.52 1.74 -0.245 -0.93 2.83 -0.214 -0.78 3.24
+Core (average) -0.567 -1.19 3.40 -0.500 -0.98 1.84 -0.477 -0.89 2.02
+Peripheral (average) -0.389 -3.86 2.03 -0.364 -4.00 2.49 -0.371 -3.92 2.22
+Notes:
+i
+t-stat.
+Half-life
+
+The speed of adjustment of individual country to shocks in the long-run equilibrium relationship.
+The t-statistic associated with the speed of adjustment.
+The half-life of a shock (in years), computed based on the adjustment speed.
+Negative half-life not reported.
+19
+
+
+Overall, the results from Table (3) support the hypothesis that there exists a homogeneous
+long-run relationship across the countries. A small absolute value of the adjustment speed
+translates to a higher half-life where a country takes longer to converge to the steady state.
+A common-sense check should indicate that ëperipheralí countries take longer to converge
+compared with ëcoreícountries. Across speciÖcations, the results show that borrowing costs
+in Argentina took 1.4 years on average to converge; Brazil took around 1.7 years and Italy took
+approximately 4 years. Meanwhile, yields in ëcoreí countries such as France and Germany
+took around 0.7 and 1 year on average to converge. Based on regression 2.2, the ëcoreí
+countries on average have a speed of adjustment of -0.50 which translates to a half-life of
+1.8 years, whereas a ëperipheralícountry has a speed of adjustment of -0.36 which yields a
+half-life of 2.5 years.
+Another noteworthy feature is that Austria and Spain are estimated to have a relatively
+low half-life even though they did not adopt the gold standard regime at all during the period.
+This reinforces the Öndings from Table (2) which show that the gold standard serves as a
+signaling device in the short-run and that fundamentals matter more in the long run.
+3.2 Parsimonious SpeciÖcation
+We now document the steps involved in obtaining the parsimonious speciÖcation of regression
+2.2 in Table (2).14 For short-run dynamic terms, second di§erences were considered.15 These
+measure the acceleration of the chosen macroeconomic variables, and so attempt to reáect
+any surprises in trends. Since some of these variables could be I(2), taking second order
+di§erences is a conservative practice that creates stationary variables and ensures consistent
+estimates.
+Regression 3.1 in Tables (4) and (5) considers all plausible explanatory variables in the
+dataset. In addition to those considered in Table (2), we also included: a measure of political
+14Regressions 2.1 and 2.3 were tested down in similar manner. 15These are debt to GDP ratio, ináation, Öscal balance to GDP ratio, log of export to GDP, custom revenue to GDP, M2 to GDP and log of terms of trade. We also experimented with Örst di§erences and obtained quantitatively similar results.
+20
+
+
+conditions P OLIT Y 2, the level of Önancial development M 2GDP , and customs revenue as
+ratio of GDP, CU SREV GDP . The coe¢ cient of GSSP READ is estimated to be -0.08
+which seems plausible (see regression 3.1). In regression 3.2, DDF ISCGDP , DDIN F L,
+DDLT OT and DDM 2GDP were Örst dropped as they were highly insigniÖcant. P OLIT Y 2,
+an index measuring the degree of democracy, was estimated to have a positive, but insigniÖ
+cant coe¢ cient - so we remove the variable. DDCU SREV GDP appears to have the wrong
+sign. The accumulation of custom revenues should typically reduce the cost of a countryís
+borrowing rates in the gold standard era. DDLT OT , an open economy indicator for export
+competitiveness, was also dropped as it was insigniÖcant.
+In regression 3.3, we continue to remove wrongly signed and insigniÖcant variables from
+regression 3.2. We now focus on the long-run equilibrium coe¢ cients. The measure of
+Önancial development reáected by M 2GDP is negative but not signiÖcant. A high level of
+indebtedness of a country, DEBT GDP , might be expected to lead to higher borrowing costs.
+Again, the coe¢ cient is not signiÖcant. Finally, open economy indicators like LEXP GDP
+and LT OT were also generally insigniÖcant.16 In regression 3.4, we remove CU SREV GDP
+which correlates positively but not signiÖcantly with yield spreads. Since higher custom
+revenues should enhance ability to repay, a positive e§ect on yield spread seems counter
+intuitive.
+High ináation might indicate poor economic performance and signal prospective pay
+ments di¢ culties. In general, one would expect a positive relation between lagged ináation
+(measured by annual change in CPI levels) and changes in yield spreads. Using the PMG
+estimator, the coe¢ cient of ináation rate is unstable in regressions 3.1 to 3.4. In regression
+3.5, we drop the ináation rate to examine the implications. Since the magnitude and signif
+icant of the GSSP READ variable increases, it suggests potential signs of omitted variable
+bias. So, in regression 3.6, we restore the ináation rate in the regression. A percentage point
+increase in ináation adds 5 basis points to yield spreads.
+16These variables are also not signiÖcant in Obstfeld and Taylor.
+21
+
+
+Table 4: PMG Estimates of Long Run Coe¢ cients: General to SpeciÖc
+SpeciÖcation 3.1 3.2 3.3 3.4 3.5 3.6
+GSSPREAD
+WSPREAD
+DEBTGDP
+INFLL
+LRGDPPC
+FISCGDP
+ERVAR
+LEXPGDPGDP
+CUSREVGDP
+M2GDP
+WARINTER
+WARINTRA
+LTOT
+POLITY2
+-0.078 (1.94)+ 1.243 (3.97)** -0.739 (1.65) -0.021 (1.12) 0.239 (0.55) -1.224 (0.43) 2.244 (1.44) 0.058 (0.12) 9.685 (1.36) -0.055 (0.28) -0.422 (1.89)+ -0.126 (0.30) 1.877 (2.48)* 0.018 (0.82)
+-0.042 (1.32) 1.367 (3.58)** -1.136 (2.32)* -0.020 (0.82) 0.662 (1.20) -2.821 (1.04) 1.925 (0.99) 0.052 (0.10) 17.813 (2.22)* -0.120 (0.49)
+-0.114 (2.53)* 0.574 (1.35)
+0.032 (1.23) -0.638 (0.89) -7.275 (2.27)* 8.106 (3.36)** -0.490 (1.03) 8.813 (1.21)
+-0.094 (2.14)* 0.092 (0.32)
+-0.004 (0.48) -1.283 (2.45)* -5.522 (2.55)* 10.031 (7.53)**
+-0.182 (4.19)** 0.686 (2.23)*
+-1.248 (2.38)* -7.582 (2.88)**
+-0.156 (3.45)** 0.514 (1.48)
+0.054 (4.23)** -2.015 (3.09)** -7.167 (2.69)**
+Observations R-squared HS Test (F) p-value LM t-bar Test Pooled Average ti
+311 0.38 2.18 0.11
+-17.58 -4.26
+393 0.30 0.51 0.60
+-19.15 -4.01
+470 0.35 1.88 0.15
+-21.84 -5.30
+496 0.43 3.00 0.05
+-22.31 -4.77
+548 0.34 2.79 0.06
+-24.93 -5.07
+491 0.38 3.82 0.03
+-22.42 -4.79
+Notes: Absolute value of t-statistics in parentheses
++ signiÖcant at 10%; * signiÖcant at 5%; ** signiÖcant at 1% LM test: 5% critical value (approx.): -3.96 from Im et al. (2003, Table 2). Dependent variable: DSPREAD
+22
+
+
+Table 5: PMG Estimates of Short Run Coe¢ cients: General to SpeciÖc
+SpeciÖcation 3.1 3.2 3.3 3.4 3.5 3.6 DSPREADL -0.133 -0.112 0.419 0.442 0.434 0.427 (2.32)* (2.20)* (9.92)** (11.06)** (11.08)** (10.28)** DWSPREAD 0.801 0.759 0.501 0.384 0.44 0.479 (5.48)** (6.35)** (3.02)** (2.35)* (3.01)** (2.81)** DDDEBTGDP 0.142 0.204 (0.80) (1.40) DDINFL -0.005 -0.004 0.008 0.010 (1.78)+ (1.46) (2.14)* (4.12)** DDFISCGDP -0.154 (0.21) DERVAR 1.415 1.126 2.270 2.906 0.131 (3.40)** (3.09)** (3.69)** (5.32)** (0.33) DDLEXPGDP -0.076 -0.086 (0.55) (0.84) DDCUSREVGDP 1.063 (0.55) DDM2GDP -0.044 (0.53) DDLTOT 0.200 (1.01)
+Notes: Absolute value of t-statistics in parentheses
++ signiÖcant at 10%; * signiÖcant at 5%; ** signiÖcant at 1% LM test: 5% critical value (approx.): -3.96 from Im et al. (2003, Table 2). Dependent variable: DSPREAD
+23
+
+
+4 Robustness
+To further substantiate our results in regression 2.2 from Table 2, we consider additional
+robustness and sensitivity checks. SpeciÖcally, we vary the degrees of long- and short-run
+heterogeneity.
+In the general PMG setup, the basic speciÖcation (3) matches a short-run dynamic term
+to every long-run coe¢ cient. By adopting the general to speciÖc approach, we restrict the
+coe¢ cients of some of these short-run dynamic terms to be zero. We also restrict some of
+the short-run dynamics to be identical across countries. We Örst add DF ISCGDP into the
+regression since the long-run level e§ect of Öscal balance to GDP ratio is signiÖcant. But this
+does not change the result quantitatively. Since F ISCGDP could be a fairly non-stationary
+process that is often related to business cycle properties, we consider DDF ISCGDP: But
+this does not change the outcome signiÖcantly. As such, Öscal balance is only important in
+the long-run.
+The coe¢ cient of average W SP READ is not close to one in regression 2.2 of Table 2. In
+using the variable, we have assumed that the relation between W SP READ and yield spreads
+remains homogeneous across countries. This may not be realistic given that di§erent countries
+could have di§erent long-run beta terms. So we relax the assumption on homogeneity in the
+long-run e§ects of W SP READ. In doing so, we obtain point estimates of betas for each
+country. Ideally, one would expect these beta terms to be high for risky countries and low for
+the more developed countries. We do obtain beta terms greater than one for risky countries
+like Argentina (338 basis points) and Portugal (400 basis points). Whereas, the beta terms
+are less than one for the less risky countries like Belgium (41 basis points) and USA (24 basis
+points). We also obtain negative beta terms for some countries, notably Brazil and Denmark.
+While it is conceivable that investments in these countries might pay o§ when the world
+portfolio does not, it should be noted that these coe¢ cients may be imprecisely estimated
+ñ particularly since the introduction of additional variables lowers the e§ective degrees of
+24
+
+
+freedom.17
+As a next step, we add, in turn, DSP READi, DW SP READi, DIN F Li and DERV ARi
+to evaluate the e§ects of heterogenous short-run dynamic terms. This again attempts to
+identify these e§ects separately compared to Table 2 where they are restricted to be the
+homogenous e§ects. In these separate experiments, the coe¢ cient of core economic vari
+ables (i.e. the level of economic development, Öscal balance to GDP ratio and exchange rate
+variability) remains stable and robust across speciÖcations.
+We then add W SP READi and estimate with the sequential addition of DSP READi,
+DW SP READi, DIN F Li and DERV ARi until we reach the general form of PMG speci
+Öcation (3). The gold standard is found to reduce yield spreads by 5.2 to 6.5 basis points
+during the adjustment process. These variables were marginally insigniÖcant around the 10%
+level, reáecting the large number of coe¢ cient estimated. This also applies to the rest of the
+key explanatory variables as well. Given limited data at annual frequency, it is best to Öx at
+least some short-run dynamic terms to be homogeneous across countries.
+5 Conclusion
+This paper has examined the determinants of sovereign yield spreads during the classical
+Gold Standard era between 1872 and 1913, in a way that takes into account the dynamics
+of investor perceptions of country risk. SpeciÖcally, the Pooled Mean Group methodology
+is used to consistently estimate di§ering speeds of adjustment across a panel of twenty
+two countries. One rationalisation of these di§ering speeds of response is that international
+investors gradually updated their beliefs about the creditworthiness of di§erent countries at
+di§erent speeds.
+Our Öndings are supportive of the conventional ëseal of approvalíhypothesis about Gold
+Standard membership. But by using the PMG methodology, we Önd that membership of
+17As ÷zler (1989) observes, betas estimated with other variables are not strictly betas in the CAPM sense. Obstfeld and Taylor (2003) do not report their beta terms, so a comparison of results is not readily possible.
+25
+
+
+the gold standard did not have a direct impact on sovereign spreads to the exclusion of
+other factors. Rather, the gold standard served as a short-hand device that facilitated a
+countryís reputation in international capital markets. Investors remained concerned about
+country-speciÖc fundamentals, such as ináation and the Öscal balance, but relied on the gold
+standard to convey this information more swiftly. By enhancing the speed of adjustment of
+sovereign spreads to their long-run equilibrium levels, gold standard membership facilitated
+the e¢ cient pricing of sovereign risk.
+References
+[1] Antzoulatos, A.A., 1996. ìOn the Determination and Resilience on Bond Flows to LDC, 1990 - 1995: Evidence from Argentina, Brazil and Mexicoî, Federal Reserve Bank of New York, Research Paper No. 9703, New York.
+[2] Arellano, M. and Bond, S.R., 1991. ìSome SpeciÖcation Tests for Panel Data: Monte Carlo Evidence and an Application to Employment Equationsî, Review of Economic Studies, 58:277 - 98.
+[3] Baltagi, B.H., 1995. Econometric Analysis of Panel Data, John Wiley & Sons, New York.
+[4] Bassanini, A. and Scarpetta, S., 2002. ìDoes Human Capital Matter for Growth in OECD Countries? A Pooled Mean-Group Approachî, Economics Letters, 74:399 - 405.
+[5] Bordo, M. and Rocko§, H., 1996. ìThe Gold Standard as a ëGood Housekeeping Seal of Approvalíî, Journal of Economic History, 56:389 - 428.
+[6] Bordo, M. and Schwartz, A., 1986. ìThe Operation of the Specie Standard: Evidence for core and peripheral countries, 1880 - 1990î, in J. Braga de Macedo, B. Eichengreen and J. Reis (eds.), Currency Convertibility: The Gold Standard and Beyond, Routledge, London.
+[7] ó ñ, 1984. A Retrospective on the Classical Gold Standard, 1821 - 1931, University of Chicago Press for the NBER, Chicago.
+[8] Braga de Macedo, J., Eichengreen, B. and Reis, J. (eds.), 1996. Currency Convertibility: The Gold Standard and Beyond, Routledge, London.
+[9] Broz, J.L., 2002. ìThe Political Economy of Commitment to the Gold Standardî, mimeo, Department of Political Science, University of California, San Diego.
+26
+
+
+[10] Cameron, G. and Muellbauer, J., 2001. ìEarning, Unemployment, and Housing in Britainî, Journal of Applied Econometrics, 16:203 - 20.
+[11] Edwards, S., 1986. ìThe Pricing of Bonds and Bank Loans in International Marketsî, European Economic Review, 30:565 - 89.
+[12] Feis, H., 1930. Europe The Worldís Banker 1870 ñ 1914, An account of European foreign investment and the connection of world Önance with diplomacy before war, Yale University Press, New Haven.
+[13] Flandreau, M. and Zumer, F., 2004. ìThe Making of Global Finance 1880 - 1913î, OECD, Development Centre Studies, Paris.
+[14] Ferrucci, G., 2003. ìEmpirical determinants of emerging market economiesí sovereign bond spreadsî, Bank of England Working Paper Number 205.
+[15] Friedman, M. and Schwartz, A.J., 1982. Monetary Trends in the United States and the United Kingdom: Their Relation to Income, Prices, and Interest Rates, 1867 - 1975, University of Chicago Press for the NBER, Chicago.
+[16] Goldsmith, R.W., 1983. The Financial Development of India, 1860 ñ 1977, Yale University Press, New Haven.
+[17] Hendry, D.F. and Richard, J.F., 1983. ìThe Econometric Analysis of Economic Time Seriesî, International Statistical Review, 51:3 ñ33.
+[18] Im, K.S., Pesaran, M.H. and Shin, Y., 2003. ìTesting for Unit Roots in Heterogeneous Panelsî, Journal of Econometrics, 115:53 - 74.
+[19] Jones, B.F. and Olken, B.A., 2005. ìThe Anatomy of Start-Stop Growthî, National Bureau of Economic Research Working Paper No. 11528, Cambridge, Massachusetts.
+[20] Lazaretou, S., 2005. ìThe Drachma, Foreign Creditors, and the International Monetary System: Tales of a Currency during the 19th and the early 20th centuriesî, Explorations in Economic History, 42:202 - 36.
+[21] Levin, A. and Lin, C.F., 1992. ìUnit Root Tests in Panel Date: Asymptotic and FiniteSample Propertiesî, Working Paper No. 92-93, University of California, San Diego.
+[22] Maddala, G.S. and Wu, S., 1999. ìA Comparative Study of Unit Root Tests with Panel Data and A New Simple Testî, Oxford Bulletin of Economics and Statistics, 61(4):631 - 52, Special Issue.
+[23] Maddison, A., 1995. Monitoring the World Economy, OECD, Paris.
+[24] Mailath, G. and Samuelson, L., 2001. ìWho Wants a Good Reputation?î, Review of Economic Studies, 68:415 - 41.
+27
+
+
+[25] Mata, E. and Valerio, N., 1996. ìMonetary Stability, Fiscal Discipline and Economic Performance: The experience of Portugal since 1854îin J. Braga de Macedo, B. Eichengreen, B. and J. Reis (eds.) Currency Convertibility: The Gold Standard and Beyond, Routledge, London:204 - 27.
+[26] Mauro, P., Sussman, N. and Yafeh, Y., 2002. ìEmerging Market Spreads: Then Versus Nowî, Quarterly Journal of Economics, 117(2):695 - 733.
+[27] Meissner, C.M., 2005. ìA New World Order: Explaining the International Di§usion of Gold Standardî, Journal of International Economics, 66:385 - 406.
+[28] Min, H.G., 1998. ìDeterminants of Emerging Market Bond Spread: Do Economic Fundamentals Matter?î, World Bank Policy Research Working Paper No. 1899, March.
+[29] Mitchell, B.R., 1962. Abstract of British Historical Statistics, Cambridge University Press, United Kingdom.
+[30] ó ñ, 1992. International Historical Statistics: Europe, 1750 - 1988, Stockton Press, New York.
+[31] ó ñ, 1993. International Historical Statistics: the Americas, 1750 - 1988, 2nd edition, Stockton Press, New York.
+[32] ó ñ, 2000. International Historical Statistics: Africa, Asia & Oceania, 1750 - 1988, 4th edition, Palgrave McMillan, New York.
+[33] Obstfeld, M. and Taylor, A.M., 2003. ìSovereign Risk, Credibility and the Gold Standard: 1870 - 1913 versus 1925 - 31î, Economic Journal, 113(April):241 - 75.
+[34] Obstfeld, M., Shambaugh, J.C. and Taylor, A.M., 2005. ìThe Trilemma in History: Tradeo§s Among Exchange Rates, Monetary Policies, and Capital Controlsî, Review of Economics and Statistics, 87(3):423 - 38.
+[35] ÷zler, S., 1989. ìOn the Relation between Rescheduling and Bank Valueî, American Economic Review, 79(5):1117 - 31.
+[36] Pedroni, P., 1999. ìCritical Values for Cointegration Tests in Heterogeneous Panels with Multiple Regressorsî, Oxford Bulletin of Economics and Statistics, 61(4):653 - 70, Special Issue.
+[37] Pesaran, M.H., Shin, Y. and Smith, R.J., 2001. ìBounds Testing Approaches to the Analysis of Level Relationshipsî, Journal of Applied Econometrics, 16:289 - 326.
+[38] Pesaran, M.H., Shin, Y. and Smith, R.P., 1999. ìPooled Mean Group Estimation of Dynamic Heterogeneous Panelsî, Journal of the American Statistical Association, 94:621 - 34.
+[39] Pesaran, M.H. and Smith, R.P., 1995. ìEstimating Long-run relationships from dynamic heterogeneous panelsî, Journal of Econometrics, 68:79 - 113.
+28
+
+
+[40] Sussman, N. and Yafeh, Y., 2000. ìInstitutions, Reforms and Country Risk: Lessons from Japanese Government Debt in the Meiji Eraî, Journal of Economic History, 60:442 - 67.
+A Data
+The dataset covers the period 1872 to 1913. The twenty-two countries are Argentina (ARG),
+Australia (AUS), Austria (AUT), Belgium (BEL), Brazil (BRZ), Canada (CAN), Chile
+(CHL), Denmark (DNK), France (FRA), Germany (GER), Greece (GRC), India (IND),
+Italy (ITA), Japan (JPN), the Netherlands (NLD), Norway (NOR), Portugal (PRT), Russia
+(RUS), Spain (SPA), Sweden (SWE), United States (USA) and United Kingdom (GBR).
+The primary source of data is the Global Financial Database (GFD). The data has also been
+corroborated against Flandreau and Zumer (2004), Obstfeld and Taylor (2003), and Mitchell
+(various issues) for consistency. Where not available, other independent studies have been
+used to Öll in missing series and gaps in observations. Variables in logarithm form are pre
+Öxed with ìLî in front of the variableís name. Lagged variables are su¢ xed by ìLî at the
+end. See Table (6) for summary statistics.
+29
+
+
+Table 6: Summary Statistics of Key Variables by Countries
+Country SPREAD ER INFL FISCGDP M2GDP DEBTGDP LEXPGDP LTOT GDPGBP LERVAR LRGDPPC
+ARG 3.36 11.71 4.81 -0.038 n.a. 0.58 -1.33 4.61 163.26 -3.36 7.99
+AUS 0.93 1.02 0.28 0.001 0.30 0.76 -1.56 4.62 381.01 -4.42 8.42
+AUT 1.51 18.56 0.43 -0.012 0.47 0.79 -1.60 4.66 475.83 -3.96 7.86
+BEL 0.29 25.62 -0.05 -0.017 0.44 0.45 -1.12 4.64 212.61 -4.66 8.12
+BRZ 2.39 16.14 4.75 -0.026 n.a. 0.73 -1.25 4.78 127.68 -2.72 6.64
+CAN 0.93 4.86 2.99 -0.008 0.22 0.38 -1.77 4.52 192.79 -4.61 7.78
+CHL 2.23 14.19 n.a. 0.242 0.17 0.45 -1.12 4.58 49.95 -2.16 7.72
+DNK 0.45 18.43 0.35 -0.005 0.55 0.19 -1.56 4.61 63.87 -7.03 7.86
+FRA 0.38 25.57 0.11 -0.006 0.28 0.96 -2.03 4.59 1203.78 -4.58 7.83
+GBR 0.00 1.00 -0.44 -0.001 0.55 0.50 -1.73 4.48 1549.26 0.00 8.32
+GER 0.79 20.72 0.84 -0.030 0.45 0.41 -1.87 4.58 1296.14 -4.61 7.89
+GRC 9.96 19.71 1.52 -0.033 0.34 1.44 -1.86 4.63 40.02 -3.60 7.39
+IND 0.54 14.16 0.51 -0.007 0.04 0.19 -2.43 4.62 898.45 -3.13 6.46
+ITA 2.74 26.73 0.12 -0.013 0.28 1.05 -2.29 4.97 480.20 -3.93 7.44
+JPN 2.85 7.73 4.86 0.051 0.22 0.39 -2.40 4.60 256.79 -3.45 6.99
+NLD 0.36 12.27 -0.20 -0.020 0.23 0.79 -0.01 n.a. 121.16 -4.31 8.11
+NOR 0.73 18.43 0.52 -0.008 0.49 0.21 -1.80 4.50 51.77 -9.25 7.41
+PRT 2.78 5.27 0.66 -0.007 n.a. 0.78 -3.26 4.59 133.14 -3.29 7.21
+RUS 1.74 9.74 0.92 -0.018 0.15 0.66 -2.52 n.a. 1142.37 -3.42 7.11
+SPA 5.14 29.18 0.40 -0.001 0.15 0.97 -2.28 4.54 349.23 -3.46 7.62
+SWE 1.15 18.43 0.44 -0.000 0.59 0.17 -1.71 4.60 104.41 -9.25 7.74
+USA 1.17 4.93 0.41 0.021 4.09 0.82 -0.83 4.62 3534.32 -4.61 8.20
+Note: n.a. - not available
+30
+
+
+Yield Spread (SP READ)
+The main source is from the GFD. Unless stated otherwise, the yield to maturity are
+for long term government bonds, usually with a maturity of at least ten years. For missing
+observations, Flandreau and Zumer (2004), and Obstfeld and Taylor (2003) were consulted.
+Argentina: 1880 - 1913 from Flandreau and Zumer (2004).
+Australia: 1874 - 1913 from GFD. Based on NSW Government 5% Terminable 1874/1902
+(1858 - 87), NSW Government 4% Funded Stock 1912 option (1887 - 1900), all NSW and
+Commonwealth Government issues maturing more than six months (1901 - 25).
+Austria: 1879 - 1913 from GFD. The bonds quoted are the Gold 5s.
+Belgium: 1880 - 1913 from Flandreau and Zumer (2004).
+Brazil: 1872 - 1913 from GFD. Based on the 5s through 1886, the 4.5% Gold Bonds (1887
+- 99) and the 4.5% Bonds of 1883 (1900 - 14).
+Canada: 1872 - 1913 from GFD. Based on the 5s (1860 - 74) and the 4s (1874 - 1912).
+Chile: 1872 - 1913 from GFD. Based on the 6s (1870 - 74), the 5s (1875 - 86) and the
+4.5s (1887 - 1928).
+Denmark: 1895 - 1913 from Flandreau and Zumer (2004). The bonds quoted are the 1893
+3%.
+France: 1880 - 1913 from Flandreau and Zumer (2004).
+Germany: 1880 - 1913 from Flandreau and Zumer (2004).
+Greece: 1872 - 1913 from GFD. Based on the 5s of 1824/1879 (1863 - 87) and the
+Monopoly 4% (1887 - 1924).
+India: 1872 - 1913 from GFD. Based on India 5s of 1880 (1872 - 73), 4s of 1888 (1874 
+80) and 3.5s (1881 - 1940).
+Italy: from GFD. 1872-1908: Italy Maremmana Railroad 5s payable in sterling pounds
+and guaranteed by the Italian Government.
+Japan: from GFD. Based on the 9s (1872), the 7s (1873 - 97) and the 5s (1898 - 99) and
+the 4s Japanese sterling bonds (1900 - 14).
+31
+
+
+Netherlands: 1880-1913 from Flandreau and Zumer (2004).
+Norway: 1872 - 1913 from GFD. The bonds quoted are the 4.5s (1875 - 80), the 4s (1881
+- 86), the 3.5s (1887 - 93) and the 3s (1894 - 1918).
+Portugal: 1872 - 1913 from GFD. Based on the 3s through 1895, 1s (1895 - 1902) and the
+3s (1903 - 1913).
+Spain: 1872-1913 from GFD. Based on the 3s (1836 - 80), 1s (1881), and the 4s (1882 
+1913).
+Sweden: 1872 - 1913 from GFD. Based on the 5s (1868 -78), the 4s (1879 - 94) and the
+3s (1894 - 1914).
+United Kingdom: 1872 - 1913 from GFD. The bond quoted is the 2.5% consol bonds.
+United States: from Friedman and Schwartz (1982:122 - 3).
+Russia: 1872 - 1913 from GFD. Based on the 5s (1823 - 1914).
+The following table presents the Örst-order autocorrelations of yields:
+Exchange Rate (ER)
+All exchange rates are from the GFD. The original series deÖnes exchange rate to be the
+price of domestic currency per unit price of US dollars. Here, the year-end value is used and
+the numeraire converted to sterling pounds.
+Gold Standard (GS)
+The gold standard dummy takes the value of one when the country has o¢ cially an
+nounced adoption of de jure gold standard, otherwise it takes the value of zero. Experimen
+tation was done interacting this dummy variable with full and partial default episodes. These
+were taken from Obstfeld and Taylor (2003). The main source of gold standard coding is
+from Bordo and Schwartz (1996), and corroborated against Meissner (2005). The coding for
+the following countries were found to have discrepancies amongst various authors.
+Austria: Flandreau and Zumer (2004) suggest Austria was on gold in 1896. Meissner
+(2005), and Obstfeld and Taylor (2003) code this country as not having adopted the gold
+standard until 1925.
+32
+
+
+Table 7: Autocorrelations of Yield Spreads
+Country Autocorrelation Coe¢ cients Argentina 0.734 Australia 0.826 Austria 0.553 Belgium 1.020 Brazil 0.749 Canada 0.816 Chile 0.798 Denmark 0.957 France 0.670 Germany 0.902 Greece 0.920 India 0.834 Italy 0.884 Japan 0.851 Netherlands 0.858 Norway 0.864 Portugal 0.749 Russia 0.916 Spain 0.901 Sweden 0.881 United States 0.892 United Kingdom 0.976 Average (core) 0.882 Average (peripheral) 0.797
+Brazil: Meissner (2005) excludes 1888 and 1889. We cross-check with Flandreau and
+Zumer (2004) and Önd a value for 1889.
+Norway: In Braga de Macedo et al (1996), gold was adopted in 1875. The observation
+for 1873 was obtained from Broz (2002). Thus, we record a dummy with value of one from
+1873 onwards.
+Spain: We use data from Meissner (2005).
+Ináation (IN F L)
+Ináation is measured as the year-on-year change in the CPI index. 1913 is used as the
+base year. Data are collected from GFD, and missing series are taken from Flandreau and
+Zumer (2004).
+33
+
+
+Table 8: Years in which Countries Joined the Gold Standard
+Country Period Membership* Argentina 1870 - 75; 1883 - 85; 1899 - 1913 Peripheral Australia 1870 - 1913 Core Austria Peripheral Belgium 1878 - 1913 Core Brazil 1888 - 89; 1906 - 13 Peripheral Canada 1870 - 1913 Core Chile 1887; 1895 - 98 Peripheral Denmark 1872 - 1913 Core France 1878 - 1913 Core Germany 1871 - 1913 Core Greece 1885; 1910 - 13 Peripheral India 1899 - 1913 Peripheral Italy 1884 - 94 Peripheral Japan 1897 - 1913 Peripheral Netherlands 1875- 1913 Corey Norway 1873 - 1913 Core Portugal 1870 - 90 Peripheral Russia 1897 - 1913 Corey Spain Peripheral Sweden 1873 - 1913 Core United States 1879 - 1913 Core United Kingdom 1870 - 1913 Core
+Notes: * based on classiÖcation in Obstfeld and Taylor (2003).
+y based on authorsíclassiÖcation.
+Fiscal Balance/GDP (F ISCGDP )
+Fiscal balance = government revenue ñ government expenditure. The main source is
+Mitchell (various issues). Government revenue refers to the current revenues exclusive of
+loans, with their main tax constituents. Government (total) expenditures includes capital
+items which are normally Önanced by borrowing. As argued in Mitchell, the most reluctant
+omission has been any disaggregation of government expenditure. But this heterogeneous
+data changes in nature frequently, and is often not available in a meaningful form.
+Money Supply
+M1 is deÖned as the sum of bank note in circulation and deposits in commercial banks.
+M2 is the sum of M1 and deposits in savings. Source: Mitchell (various issues).
+34
+
+
+Australia: For currency/banknotes in circulation, the Australian dollar did not replace the
+pound as the currency unit until the mid-1960s (2 dollars = 1 pound), the present currency
+unit employed was in the sources used. Statistics to 1900 are at approximately the end of
+December, and from 1901 to 1945 at the end of June. For demand deposits in commercial
+banks, Ögures are the currency deposits of trading banks, and are at approximately the end
+of December to 1900 and at the end of June from 1901 to 1949. For savings deposits, original
+statistics are given in pounds. Australian dollars have been converted via the abovementioned
+exchange rate. Deposits at the end of the Önancial year of each bank are dated mostly 30
+June.
+Austria: 1872-1913: National Bank issue (million gulden and million kroner, 2 kroner =
+1 gulden). 1872 - 1895 was originally in gulden. This series was converted to kroner. From
+1896 onwards, units in millions kroner. For deposits in savings banks, both regulated and
+post o¢ ce savings banks have been summed up.
+Belgium: For deposits in savings banks, both Caisse Generale díEpargne and post o¢ ce
+savings banks have been summed up.
+Denmark: Units in million rigsdaler. Deposits in savings are from all savings banks.
+France: Units in million francs. For deposits in savings banks, both private savings banks
+and national savings banks have been summed up.
+Germany: Deposits in savings banks.
+Greece: Deposits in savings banks.
+India: From 1872 to 1873, Ögures are notes issued. From 1874 to 1913, Ögures are notes in
+circulation. For demand deposits in commercial banks, Ögures are all non-government savings
+in class A and exchange banks from 1872 to 1913. For savings deposits, Ögures to 1896 relate
+to government savings banks, and subsequently they are of the Post O¢ ce Savings Bank.
+Italy: For deposits in savings banks, both private savings banks and post o¢ ce savings
+banks have been summed up.
+Japan: For currency/banknotes in circulation, Ögures to 1959 relate to government notes,
+35
+
+
+national bank notes, Yokohama Specie Bank, and Bank of Japan notes (exclusive of those
+held as reserves for other banksíissue. For demand deposits in commercial banks, Ögures to
+1945 are of non-government current account deposits of national banks, special banks (from
+1880), private ordinary banks (from 1893), and savings banks (from 1896).
+Netherlands: For deposits in savings banks, both general savings banks and post o¢ ce
+savings banks have been summed.
+Portugal: There are missing values for 1876 and 1877. Linear interpolation was used to
+Öll up the gaps.
+Spain: Deposits in savings banks are from all savings banks.
+Sweden: For deposits in savings banks, both private and post o¢ ce savings have been
+summed up. M2 is the sum of money and quasi-money. Observations from between 1873
+and 1875 were interpolated to arrive a value of M1 for 1974. .
+United Kingdom: For deposits in commercial, data is only available for the UK. For
+deposits in savings banks, both trustee savings banks and post o¢ ce savings banks have
+been summed up. Thus for currency circulation, the UK data series was used.
+Russia: For deposits in savings banks, this reáects all savings banks.
+Total nominal public debt (DEBT )
+The main source is Flandreau and Zumer (2004) for 1880 - 1913. These debt Ögures have
+a wide deÖnition - covering both short and long term debt. Missing series are supplemented
+by the following.
+Australia: From Obstfeld and Taylor (2003).
+Canada: From Statemanís Year Book (various issues).
+Chile: From Obstfeld and Taylor (2003).
+India: From Obstfeld and Taylor (2003).
+Japan: From Obstfeld and Taylor (2003).
+United Kingdom: From Mitchell (1962:403). Table on Aggregate Gross Liabilities of the
+State: 1870-1913.
+36
+
+
+United States: From Obstfeld and Taylor (2003).
+Russia: From Feis (1930). Units: million rubles and measures the directly incurred debt
+of the Russian government. The author also provides per cent held by foreigners.
+Export
+Data collected from GFDís Annual Files on World Trade. Note that these Ögures corre
+spond to the export of manufactured goods. Original units in national currency.
+Terms of Trade (T OT )
+From Obstfeld and Taylor (2003) dataset. Missing for Netherlands and Russia.
+Nominal GDP (GDP )
+Sources include GFD, Mitchell (various issues) and Flandreau and Zumer (2004). Missing
+series supplemented by:
+India: from Goldsmith (1983).
+Portugal: Real GDP from Mata and Valerio (1996). This original series is converted into
+nominal terms using the GDP deáator (1994 = 100).
+Exchange Rate Volatility (ERV AR)
+Exchange rate variability is constructed using methodology following Flandreau and
+Zumer (2004). The raw exchange rate (end of month) data was collected from GFD which
+provides daily data in terms of open, high, low and close. The closing price of exchange rates
+was used.
+ERV ARit =
+P12
+t=1 ln ERt
+ERt 1
+12 10;
+where ln ERt
+ERt 1
+=
+8><
+>:
+ln ERt
+ERt 1
+0
+if ln ERt
+ERt 1 > 0
+ln ERt
+ERt 1 < 0
+Real GDP per capita (RGDP P C)
+From Maddison (1995). Similar to Obstfeld and Taylor (2003), linear interpolation is used
+as the frequency of observations is not regular. The years, in which there are observations,
+37
+
+
+are reported.
+Country Observations
+Argentina 1870, 1890, 1900-1913 Australia 1870-1913 Austria 1870 - 1913 Belgium 1870 - 1913 Brazil 1870, 1890, 1900 - 13 Canada 1870 - 1913 Chile 1900 - 13 Denmark 1870 - 1913 France 1870 - 1913 Germany 1870 - 1913 Greece 1913 India 1870, 1890, 1900 - 13 Italy 1870 - 1913 Japan 1870, 1885 - 1913 Netherlands 1870 - 1913 Norway 1870 - 1913 Portugal 1870, 1890, 1900, 1913 Spain 1870, 1890, 1900 - 13 Sweden 1870 - 1913 United Kingdom 1870 - 1913 United States 1870 - 1913 Russia 1870, 1890, 1900, 1913
+Custom Revenue (CU SREV )
+Custom revenue is a component of central government revenue. Sources: Mitchell (various
+issues).
+Political Democracy (P OLIT Y 2)
+The version of data used is from POLITY IV project available from http://weber.
+ucsd.edu/~kgledits/Polity.html. Polity IV contain coded annual information on regimes
+and authority characteristics for all independent states (with greater than 500,000 total
+population) and covers the period 1800 ñ2002. Originally, political democracy is measured
+by ëPolityí taking values between -10 and 10, where -10 denotes high autocracy and 10
+denotes high democracy. When ëpolityícould not function properly, it is represented by (-88)
+for transition period; (-77) for periods of interregnum (collapse of central political authority);
+38
+
+
+and (-66) for a period of interruption. However such classiÖcation is cumbersome for time
+series analysis. As such, the new variable P OLIT Y 2 has been adopted, which adjusts these
+dummies to generate a smoother time series.
+War
+War dummies are taken from the Correlates of War 2 (COW2) database available from
+http://cow2.la.psu.edu/. W ARIN T ER refers to inter-state war while W ARIN T RA
+refers to intrastate war.
+B Diagnostic Tests
+This appendix explains various diagnostic tests essential for the PMG procedure. Given that
+this is a historical dataset and there are missing observations, this unbalanced panel dataset
+is a challenge for the implementation of standard diagnostic tests. Instead of brute-force
+applications, the following discusses how some tests were modiÖed.
+B.1 Heteroskedasticity
+As discussed in Baltagi (1995), the assumption of homoskedastic disturbances in the pres
+ence of heteroskedasticity gives consistent but not e¢ cient estimates. This means that the
+standard errors of estimates will be biased, leading to inaccurate statistical inference. The
+problem can be rectiÖed by robust standard errors like in Obstfeld and Taylor (2003). But
+these authors stop short of testing whether heteroskedasticity exists in the Örst place. The
+presence of heteroskedasticity is assumed.
+One of the tests for panel level heteroskedasticity involves conducting panel speciÖc itera
+tive GLS procedure on the disturbance terms.18 This estimates panel level heteroskedasticity
+and saves the likelihood function. Next, the estimated disturbances of the model are assumed
+to be homoskedastic. A log-likelihood ratio (LR) test is performed to test these likelihood
+18See http://www.stata.com/support/faqs/stat/panel.html.
+39
+
+
+functions with the degrees of freedom determined by the number of constraints imposed,
+that is, the number of groupings. When this test was applied to the data, the estimation
+under panel level heteroskedasticity yielded positive log-likelihood values. This reáects the
+fact that the log-likelihood function is a probability density function instead of a probability
+value. On the other hand, the log-likelihood estimate for homoskedastic errors is negative.
+This results in unconventional negative LR test statistics.
+In what follows, panel level heteroskedasticity is tested following the White test:
+ubit = 1ybit + 2yb2
+it
+If the null hypotheses for 1 = 2 = 0 are not rejected, the disturbances are homoskedastic.
+B.2 Unit Root Tests
+The common tests are Levin and Lin (1992) and Im, Pesaran and Smith (2003, IPS hereafter).
+Maddala and Wu (1999) compare these tests with the Fisherís tests and favor this simple test
+to the abovementioned tests in terms of practical use. One of the restrictions of the Levin
+and Lin test, and the IPS test is that they are only applicable to balanced panel dataset.
+Similar to the tests here on heterogeneity, synthetic versions of unit root tests are devised,
+based on discussion in Levin-Lin and IPS. The Levin-Lin test was conducted by pooling OLS
+regressions to test for serial correlation, the following is estimated via OLS technique:
+xit = xit 1 + i + it;
+where xit is the variable of interest, and H0 : = 0. Rejection of the null hypothesis means
+the variable is non-stationary and is I(1) in levels. To test for stationarity in di§erences,
+xit = xit 1 + i + it:
+40
+
+
+Acceptance of the null hypothesis suggests the variable is stationary and is I(0) in di§erence.
+Table (9) shows the Levin-Lin tests for the set of variables considered in our regressions.
+The tests could not reject the null of panel unit root for log of terms of trade, log real GDP
+per capita and log nominal GDP. One of the limitations of the Levin-Lin test is that is
+assumed to be the same for all groups, that is, all countriesívariables converge at the same
+rate. Since the dataset here includes countries with diverse experiences, it is not surprising
+that unit root is violated for growth related variables.
+As the Levin-Lin test is restrictive, the data is tested with the IPS test (see Table (10))
+which relaxes the assumption that 1 = 2 = ::: = N . Instead of pooling the data, separate
+unit root tests were performed on the N countries in the dataset. A test statistic based on
+the average of an augmented Dickey-Fuller regression is computed. This is also known as the
+LM t-bar test. Furthermore, this method is superior to Levin-Lin since it allows for residual
+serial correlation, and heterogeneity of dynamics and error variances across groups. For both
+tests, only Öxed e§ects without time trend are considered. Lag length was Öxed at one.
+Table 9: Dynamic Panel Unit Root Tests, Levin and Lin (1992)
+Variables Levels Di§erences SPREAD 68.21 -7.24 INFL 5.06 -22.36 FISCGDP 35.28 -8.97 M2GDP 74.23 -7.86 DEBTGDP 58.69 -5.85 LEXPGDP 93.11 -5.36 LTOT 415.87 -0.91* LRGDPPC 983.38 1.64* LGDP 461.17 0.54* WSPREAD 98.31 -4.34
+Note: * not signiÖcant at 5% level.
+From Table (10), the null of panel unit root is not rejected for M2 to GDP ratio, debt to
+GDP ratio, log real GDP per capita and log nominal GDP. Due to the heterogenous nature of
+the IPS alternative hypothesis (that is, each i is di§erent), IPS (2003:74) suggest a rejection
+of the null hypothesis does not necessarily imply that the null is rejected for all groups. So,
+41
+
+
+the presence of serial correlation may not a§ect the PMG analysis severely.
+Table 10: Dynamic Panel Unit Root Tests, Im et al. (2003)
+Variables Levels Di§erences SPREAD 10.12 -2.47* INFL 0.61 -5.48* FISCGDP 3.49 -3.71* M2GDP 20.44 -1.50 DEBTGDP 12.35 -1.33 LEXPGDP 8.82 -2.12* LTOT 9.24 -2.61* LRGDPPC 44.60 -1.31 LGDP 35.01 0.47 WSPREAD 7.46 -2.35*
+Note: Critical values based on IPS (2003, table 2) 10%: -1.78; 5%: -1.85 * signiÖcant at 5%
+B.3 Panel Cointegration
+Pedroni (1999) is the standard test but is designed for a balanced panel. Again, in view of
+the unbalanced nature of the data, testing is done for the non-stationarity of residuals of
+each regression. This takes the form of an augmented Dickey-Fuller test on the estimated
+residuals following Cameron and Muellbauer (2001). Rejection of the null hypothesis suggests
+the absence of serial correlation, and the existence of a long-run equilibrium.
+42

@@ -1,0 +1,1211 @@
+1
+Monetary Policy under the Classical Gold Standard 1
+(1870s - 1914)
+Drawing on monthly data for 12 European countries, this paper asks whether countries
+under the Classical Gold Standard followed the so-called “rules of the game” and, if so,
+whether the external constraint implied by these rules was more binding for the periphery
+than for the core. Our econometric focus is a probit estimation of the central bank
+discount rate behaviour. Three main findings emerge: First, all countries followed specific
+rules but rules were different for core countries as opposed to peripheral countries. The
+discount rate decisions of core countries were motivated by keeping the exchange-rate
+within the gold points. In stark contrast, the discount rate decisions of peripheral countries
+reflected changes in the domestic cover ratio. The main reason for the different rules was
+the limited effectiveness of the discount rate tool for peripheral countries which resulted
+in more frequent gold point violations. Consequently, peripheral countries relied on high
+reserve levels and oriented their discount rate policy towards maintaining the reserve
+level. Second, there was a substantial amount of discretionary monetary policy left to all
+countries, even though we find that core countries enjoyed marginally more liberty in
+setting their discount rate than peripheral countries. Third, interest rate decisions were
+influenced more by Berlin than by London, suggesting that the European branch of the
+Classical Gold Standard was less London-centered than hitherto assumed.
+JEL classification: E4, E5, E6, F3, N13
+Keywords: gold standard, rules of the game, balance-of-payment adjustment, central banking
+1 Earlier versions of this paper were presented at the EHS, EHES and IEHA meetings as well as to seminars in Paris,
+Oxford, York and Glasgow. I am grateful to the participants for their spirited discussion and helpful suggestions. I owe
+a special thanks to the following people in helping me collect the data: Ivo Maes and Arnold de Schepper (National
+Bank of Belgium), Kath Begley (Bank of England), Alfredo Gigliobianco (Bank of Italy), Mrs Beex (De Nederlandsche
+Bank), all members of the data collection task force of the South-East European Monetary History Network, Erik Buyst,
+Jan Tore Kloveland, Larry Neal, Giuseppe Tattara, Anders Ogren and Marc Weidenmier. The usual disclaimer applies.
+
+
+2
+CHAPTER ONE INTRODUCTION
+The Classical Gold Standard (1870s – 1914) has attracted the interest of economists, economic
+historians and policy-makers ever since its foundation. The exchange-rate stability among most
+countries of the world for some forty years was unprecedented and remained an inspiration for
+policy-makers after both world wars. At the time, adherence to gold was not entirely
+uncontroversial, as the international bimetallic movement of the mid-1870s to mid-1890s
+demonstrates. But the perspective soon changed as a result of monetary instability following World
+War I and high exchange-rate volatility in the 1930s; policy-makers came to idealize the pre-World
+War I gold standard as a benchmark against which any international monetary system should be
+measured – hence the label Classical Gold Standard.
+Economists and economic historians, aware of costs and benefits of adhering to a system of
+fixed exchange-rates, have tended to avoid the eulogistic tone of policy-makers; they have
+contributed to the gold standard myth, however, by producing a highly stereotypical account of its
+working. Some of the stereotypes have surely been overturned by more recent research. Following
+Hume’s price-specie mechanism (1752), the textbook account of the gold standard had it that
+physical gold was shipped between countries to settle balance-of-payments disequilibria. Recent
+research, following earlier leads1, has demonstrated the importance and sophistication of foreign
+exchange policy.2 In other cases, recent research has provided the empirical basis to verify or reject
+some of the claims made in the older gold standard literature. This would be the case for the
+discussion on the benefits of gold standard adherence which are seen in improved access to global
+capital markets and reduced transaction costs with other gold standard countries.3 Yet another
+strand of the recent literature has highlighted conditions crucial to the workings of the Classical
+1 Lindert, Key Currencies.
+2 Jobst, "Market Leader”.
+3 Bordo and Rockoff, "Gold Standard”. Lόpez-Cόrdova and Meissner, "Exchange-Rate Regimes”.
+
+
+3
+Gold Standard which had been neglected so far, such as the importance of labour mobility and
+remittances in smoothing the adjustment mechanism.4
+While the gold standard myth has given way to a broader empirical analysis in some
+debates, in other areas it stubbornly persists. One of them is the alleged core-periphery dichotomy.
+It is argued that the adjustment process to balance-of-payments disequilibria was much smoother
+for the industrialised core countries of North-Western Europe as opposed to the peripheral
+economies. Different authors have emphasised different factors in explaining the alleged advantages
+of the core countries in the adjustment process. Drawing on the theory of optimum currency areas,
+one school of thought has argued that core countries were better suited for monetary integration.5
+Others have argued that central banks6 of core countries helped each other in times of crisis, but did
+not help peripheral economies for the lack of self-interest.7 The more recent literature has
+emphasized differences in credibility8, whereas an older school of thought highlighted the
+peripheral countries’ role as debtors in the global financial system which made them vulnerable to
+sudden withdrawals of funds in times of financial strain.9
+Arguing in favour of a pronounced core-periphery dichotomy not only seemed theoretically
+plausible, but it also appeared to provide a solution to a paradox which had emerged in the
+empirical gold standard literature in the late 1950s and has, to this day, never been fully solved:
+economic theory suggests that countries, faced with a gold outflow, had to raise the interest rate
+and/or reduce the monetary base to stop, or even reverse, the gold outflow. Keynes famously called
+this “playing by the rules of the game”. In the modern parlance of the macro-economic policy
+4 Esteves and Khoudour-Castéras, "Fantastic Rain of Gold”. Khoudour-Castéras, International Adjustment.
+5 Martín Aceña and Reis, eds., Monetary Standards.
+6 We will use the word “central bank” in the following, even though the transition to modern central banking had not
+yet been completed and the terminology “banks of note issue” would be more appropriate.
+7 Eichengreen, "Central bank cooperation”. Flandreau, "Central Bank Cooperation”.
+8 Hallwood, MacDonald, and Marsh, "Credibility”. Bordo and MacDonald, "Interest Rate Interactions”.
+9 de Cecco, Money and Empire.
+
+
+4
+trilemma, we would describe this as the loss of monetary autonomy as a consequence of opting for
+fixed exchange-rates and free capital mobility.10
+Whenever the “rules of the game” were put to a test, however, it turned out that countries
+actually had a very mixed record of following them. Bloomfield’s path-breaking 1959 study on 12
+European countries under the Classical Gold Standard showed that more countries disregarded the
+rules than followed them.11 Subsequent studies focusing on England, France, and Germany also
+demonstrated that rich core countries could get away with frequent and sizeable violations of the
+“rules of the game”.12 This discrepancy between what economic theory suggests countries should
+do from what they actually did became known as the “gold standard paradox”.
+This paradox remained unresolved until the 1990s, when economic historians began
+applying the theoretical insights of Krugman (1991) and Svensson (1994) to economic history.13
+Krugman and Svensson had shown that monetary autonomy was not completely relinquished if
+countries commit to target zones (i.e. an upper- and a lower bound around central parity), as long as
+agents viewed the countries’ commitment as credible. The gold standard was now re-interpreted: it
+was no longer seen as a system of fixed exchange-rates (implying the complete loss of monetary
+autonomy, something seen as irreconcilable with the empirical literature on the rules of the game),
+but as a system of target zones the limits of which were determined by the gold points. It was
+followed from this that, as long as economic agents view a country’s commitment to gold as
+credible, such a country could violate the “rules of the game” in the short-run with a view to other
+policy goals.14
+Solving the gold standard paradox this way might be tempting, but we have three
+fundamental objections. First, while the Krugman/Svensson target zone approach might give a
+10 Obstfeld, Shambaugh, and Taylor, "Trilemma”.
+11 Bloomfield, Monetary Policy.
+12 Dutton, "Bank of England". Pippenger, "Bank of England Operations”. Giovannini, "Rules of the Game”. Davutyan
+and Parke, "Operations of the Bank of England". Jeanne, "Monetary Policy”. Reis, "Art".
+13 Krugman, "Target Zones”. Svensson, "Why Exchange Rate Bands?”.
+14 Hallwood, MacDonald, and Marsh, "Credibility”. Bordo and MacDonald, "Interest Rate Interactions”.
+
+
+5
+theoretical explanation as to why core countries could violate the rules of the game while the
+periphery could not, it seems prudent to first establish that peripheral countries actually did follow
+the rules. The lack of comparative studies does not allow us to draw such a conclusion at this stage.
+On the few occasions where a peripheral country was subjected to close examination, the opposite
+seemed to be true.15 Vice versa, in this paper we will present evidence that core countries
+occasionally did violate the gold points, suggesting that self-stabilising speculation did not always
+come to their rescue. Second, the notion of room for monetary manoeuvre under gold has not gone
+unchallenged. Coming from the perspective of the macro-economic policy trilemma,
+Obstfeld&Taylor&Shambaugh find that monetary autonomy was substantially reduced under the
+Classical Gold Standard.16 This is true both for core and for peripheral countries in their sample.
+Third and most crucially, the entire discussion on the “rules of the game”, as it has emerged after
+Bloomfield’s path-breaking 1959 book, appears flawed. The post-Bloomfield research is united in
+its belief in a uniform set of rules for all countries under gold: rules were either followed or not, and
+the empirical evidence mustered suggests that they were normally not. This dichotomy completely
+neglects the possibility that different countries followed different rules. A careful reading shows
+that Bloomfield never said that gold standard countries did not follow the rules of the game. Rather,
+Bloomfield believed, as his concluding remarks show, that the rules were more complex and had
+not yet been discovered.
+This paper sets out to follow Bloomfield’s lead. Drawing on a sample of 12 European
+countries (Austria-Hungary, Belgium, Bulgaria, England, France, Germany, Italy, the Netherlands,
+Norway, Romania, Serbia, Sweden) and relying on monthly data – the highest frequency we can
+aim for given the historical records -, we will analyse whether countries followed the so-called
+“rules of the game” and, if so, whether the external constraint implied by these rules was more
+binding for the periphery than for the core. In the process of collecting the data required for this
+analysis, it became clear to us why a comparative study of similar size and data frequency had never
+been conducted before: with the exception of England, Italy and Norway, the central banks have not
+15 Flandreau and Komlos, "Core or Periphery?”. ———, "Target Zones”.
+16 Obstfeld, Shambaugh, and Taylor, "Trilemma”.
+
+
+6
+made their historical balance sheet data publicly available. Most of the data (though not all) could
+be found in the Annual Reports of the time, but copies of these reports can nowadays only be found
+in the archives of the respective central banks. Hence intensive collaboration with the historical
+archives of the central bank in question was needed to reconstruct the time series.
+Following standard classification17, we will treat England, France and Germany as core
+countries and add to this group Belgium and the Netherlands because of their advanced economic
+status; throughout the Classical Gold Standard period the latter two countries enjoyed higher GDP
+per capita than either France or Germany. The other seven countries are viewed as periphery.
+Three main points emerge from this paper: First, our econometric findings suggest that all
+12 countries followed specific rules but rules were different for core and for periphery. The discount
+rate decisions of core countries were largely motivated by the exchange-rate behaviour towards
+England, France, and Germany; i.e., by the intent to keep the exchange-rate within the gold points.
+This rationale played little role for peripheral countries, whose discount rate decisions were taken in
+response to changes in the domestic cover ratio. Core and periphery have in common a strong
+element of interest rate followership with respect to London and Berlin. We also explain why
+peripheral economies opted for rules different from those of the core countries. Second, our
+estimations suggest that there was a substantial amount of discretionary monetary policy left to all
+countries but core countries enjoyed marginally more liberty. In other words, our findings do
+challenge the conventional wisdom of a strong core-periphery dichotomy of the Classical Gold
+Standard. The third point this paper makes relates to interest rate leadership. Conventional wisdom
+has it that the Bank of England set interest rates and the rest followed.18 As indicated above, the
+interest rate decisions of all 12 countries were influenced by interest rates set in London and Berlin
+but, on balance, the interest rate leadership of the Reichsbank was stronger than of the Bank of
+England. This finding suggests that the European branch of the Classical Gold Standard was less
+London-centered than hitherto assumed and that Berlin played an important role in the European
+money market.
+17 Eichengreen, Golden Fetters, pp. 5, 30.
+18 Eichengreen, "Conducting”. Tullio and Walters, "Was London the Conductor”.
+
+
+7
+The remainder of this paper is structured as follows. In the second chapter, we will present
+key indicators such as exchange-rate behaviour, discount rate patterns and the cover ratio. We will
+use them to establish similarities and differences between core and peripheral countries (and,
+potentially, differences within each group). These simple indicators alone are suggestive that core
+and periphery followed different rules, thus setting the stage for our econometric estimations. In
+chapter 3, we will estimate discount rate behaviour as a function of exchange-rate behaviour,
+interest rate followership, and changes in the central bank’s cover ratio. As both chapter two and
+chapter three will point to fundamental differences between core and peripheral economies, chapter
+four will provide an answer as to why different sets of rules were followed. We will argue that
+exporting the gold standard from the core to the periphery required some adaptation. As the
+discount rate tool was less effective, the periphery found it more difficult to keep the exchange-rate
+within the gold points. As a result, peripheral economies came to rely on substantially higher
+reserve levels which would be returned to the market if the exchange-rate turned unfavourable. In
+addition, most peripheral countries did not introduce specie convertibility, thus giving them more
+flexibility in defining how closely they wanted to follow mint parity.
+CHAPTER TWO SUMMARY STATISTICS ON THE EXCHANGE-RATE PERFORMANCE,
+THE DISCOUNT RATE BEHAVIOUR AND THE COVER RATIO
+In this chapter we will look at three key indicators all of which will point to fundamental
+differences in monetary policy between core and peripheral countries. The first indicator relates to
+the exchange-rate performance; we will show that peripheral countries exhibited higher exchange
+rate volatility, which, in turn, led to more frequent and more sizeable violations of the gold points.
+Turning to the discount rate behaviour, we will show that peripheral countries had higher interest
+rate levels but changed their rates less frequently than core countries did. Last but not least, the
+cover ratio (i.e., the ratio of reserves over liquid liabilities) also exhibits major differences: core
+countries had lower reserve levels and lower reserve volatility than peripheral countries.
+
+
+8
+Exchange-rate performance
+The gold standard is often described as a system of fixed exchange-rates but in reality the exchange
+rate could fluctuate around central parity (normally referred to as mint parity) for the following
+reason: The vast majority of transactions in the late 19th centuries were settled by bills of
+exchange.19 Only if the exchange-rate deviated considerably from mint parity, was it less costly 
+despite all transaction costs involved – to settle debt by shipping physical gold. The exchange-rate
+above which it made economic sense for a domestic merchant (say, an importer of goods) to settle
+his debt via gold shipments became known as the gold export point. Conversely, the exchange-rate
+below which (seen from the point of view of the home country) a foreign merchant would prefer to
+settle debt through gold shipments is called gold import point. As central banks were mainly
+concerned over loosing gold, not exceeding the gold export point became the crucial goal of
+monetary policy.
+Available gold point estimates mainly cover intra-core country pairs and range between
+0.367 percent (Germany to England) and 0.645 percent (Austria-Hungary to England).20 For core
+periphery pairs, we should expect gold points to be further away from mint parity, as transaction
+costs for gold shipping between, say, Bucarest and Berlin were surely higher than between Paris
+and London. We can avoid calculating gold points, however, as peripheral countries did normally
+not introduce specie convertibility; this is well documented for Austria-Hungary and Italy, but
+recent research on Romania, Bulgaria and Serbia suggests the same for the South-East European
+countries.21 Stabilising the exchange-rate with respect to England, France and Germany is often
+referred to as shadowing the gold standard and is conventionally seen as another form of gold
+standard adherence.22 Crucial in our context is that if the peripheral countries wanted to stabilize
+19 Denzel, "European Bill of Exchange".
+20 Cf. sources of table 1.
+21 Morys, "Classical Gold Standard", pp. 23-27. Fratianni and Spinelli, Storia Monetaria. Tattara, "Was Italy Ever on
+Gold?". Monetary Time Series of Southeastern Europe, p. 29.
+22 Inter alia Obstfeld, Shambaugh, and Taylor, "Trilemma”, who do not even differentiate between de jure and de facto
+adherence to gold.
+
+
+9
+their exchange-rate, they had to conceive of “virtual” gold points which would trigger some kind of
+central bank reaction. We have therefore assumed two such points at 0.6 percent and 1.0 percent.
+Table 1 provides us with the relevant statistics, based on exchange-rate data with respect to
+England, France and Germany. For each of the three exchange-rates, we provide the maximum
+deviation and the standard deviation. The information is then “condensed” into three indicators: the
+maximum deviation with respect to all three countries, the average maximum deviation and the
+average standard deviation. The lower part of table 1 then relates exchange-rate performance to
+violations of the gold export point. Based on the gold export estimates as explained above, it shows
+how often the gold export point was violated with respect to England, France, and Germany. We
+also provide an additional statistic in which we look at gold export violations without taking into
+account periods of global financial strain before World War I. These periods were identified as the
+onset of the Boer War (1899-1902), the crisis of 1907, and the Balkan Wars (1912/13). We will
+return to these crises – and their importance in understanding the core-periphery dichotomy – in
+chapter 4.
+England, Germany, France and the Netherlands are the only countries whose exchange-rate
+never depreciated by more than 1 percent. Only slightly below we find Belgium (1.19 percent). At
+the other end of the spectrum, Italy and Romania stand out with maximum deviations of 2.83
+percent and 5.27 percent, respectively. The middle field is occupied by Sweden, Norway, and
+Austria-Hungary (in this order). The average standard deviation gives a similar picture, even though
+Sweden, Norway and Austria-Hungary (again in this order) are more similar to the core countries
+on this measure. The five core countries and Sweden, Norway and Austria-Hungary all have
+average standard deviations between 0.22 percent and 0.36 percent. This contrasts strongly with
+Italy and Romania with average standard deviations of approximately double the size.
+Focusing on the middle and lower part of table 1, we shall first consider export point
+violations of those countries for which we have gold export point estimates (England, Germany,
+France, the Netherlands, Austria-Hungary). Such violations were rare but did occur. The only
+country without any such violation in our sample is the Netherlands, but England and Germany, for
+instance, had more than the occasional gold point violation. In their bilateral relationship, they had,
+
+
+10
+on average, one violation every year. This might not sound much, but we have to take into account
+that we are relying on monthly averages; consequently, the number of gold point violations reported
+in table 1 only constitutes a lower bound of the actual number of violations if data of higher
+frequency were used. A similar picture emerges for the German exchange-rate vis-à-vis France.
+Thus, our findings imply considerable doubt about the recent target zone interpretation of
+the Classical Gold Standard: it is argued that self-stabilising speculation kept the exchange-rate
+automatically within the gold points, providing a rationale for why core countries retained room for
+monetary manoeuvre. This reasoning breaks down as soon as we know gold points were repeatedly
+violated.
+Austria-Hungary is the only peripheral country for which we have contemporary gold point
+estimates and we find that gold export point violations were more frequent (7.0 percent) than for
+England, France, Germany, and the Netherlands (2.7 percent on average). We shall now turn to
+Sweden, Norway, Italy and Romania for which we do not have gold point estimates. When applying
+the 0.6 percent benchmark (a criterion milder than any of the gold point estimates we have bar the
+one for Austria-Hungary), we find that only Sweden’s exchange-rate performance comes close to
+England, France, Germany and the Netherlands (2.8 percent). Next come Norway (5.6 percent) and
+Austria-Hungary (6.5 percent), to be followed – with a wider margin – by Italy (27.2 percent) and
+Romania (30.6 percent). If we allow for a 1 percent depreciation, fewer gold point violations occur
+but the broad patterns remains unchanged: Sweden, Norway, and Austria-Hungary had substantially
+fewer gold points violations than Italy and Romania.
+Table 1 contains another important piece of information: countries do not exhibit one and
+the same exchange-rate performance vis-à-vis England, France and Germany. Sweden, for instance,
+did not have a single depreciation of more than 0.6 percent with respect to Germany, which
+contrasts with 4.2 percent violations vis-à-vis both England and France. This suggests that
+exchange-rate stabilisation often meant stabilizing the exchange-rate vis-à-vis one specific country.
+Regardless of whether we base our decision on maximum exchange-rate, standard deviation or the
+frequency of gold point violations, it appears that Belgium oriented itself towards France, whereas
+the Netherlands, Sweden, Norway, Austria-Hungary all stabilised their exchange-rate towards
+
+
+11
+Germany. Only Italy and Romania present less clear-cut cases. We will return to this issue later
+when our findings on interest rate leadership will broadly follow the same pattern.
+A closer observation of the exchange-rate data show that most gold point violations
+happened during three well-defined events: the early period of the Boer War (1899-1902), the crisis
+of 1907, and the Balkan Wars (1912/13). The crisis of 1907 is often reduced to the American
+Banking crisis of late 1907 and early 1908, even though it had begun the year before and its
+reverberations were felt until early 1909.23 For the purposes of this section, we will confine
+ourselves to pointing out how our statistics change when leaving the three episodes out of
+consideration. We will return to them later to appreciate different monetary policy responses from
+core and peripheral countries.
+The exchange-rate performance of both core and periphery improves but improvements are
+more pronounced for the periphery (lower part of table 1). Sweden, Norway and Austria-Hungary
+have no (on the 1 percent benchmark) or virtually no (on the 0.6 percent benchmark) gold point
+violations, and even Italy’s and Romania’s exchange-rate performance appears in a very different
+light. Italy, for instance, does not exhibit a single gold point violation vis-à-vis Germany (at the 1.0
+percent benchmark).
+The implication is clear: the exchange-rate performance of peripheral countries was not
+necessarily worse than of core countries; in times of global financial strain, however, peripheral
+countries found it more difficult to keep the exchange-rate close to mint-parity.
+Discount rate behaviour
+The discount rate was the most important monetary policy tool under the Classical Gold Standard.
+The bank rate, as it was also known, was applied to bills of exchange discounted at the central bank
+before the maturity date. Other interest rates were also known at the time – most notably on cash
+advances against collateral –, but our analysis of central bank balance sheets shows that bills of
+exchange constituted the vast majority of domestic assets (between 60 percent – 85 percent); which
+23 Kindleberger, Manias, pp. 119-20.
+
+
+12
+implies that the discount rate was the key interest rate. This is in line with Bagehot who almost
+exclusively refers to the discount rate in his classic work on the London money market.24
+For some countries, we were able to collect data for the private discount rate. It relates to the
+interest rate applied to bills of exchange discounted on the private market; which usually (especially
+in the English case which we understand best thanks to Bagehot) meant discounting at banks
+specialised on discounting bills. We failed to locate such data for Bulgaria, Italy, Norway, Romania,
+Serbia and Sweden, which suggests that the money market in these places was less mature and
+most, if not all, of the discounting took place at the central bank.
+Table 2 provides data on the average discount rate and the frequency of discount rate
+changes. As Austria-Hungary and Italy joined the gold standard only in 1896 and 1904,
+respectively, we distinguish between three periods for the average discount rate: 1883-1913, 1896
+1913, and 1904-1913.
+France enjoyed both the lowest bank rate and the lowest private discount rate. As for the
+bank rate, England does not even come in the second position which is taken by the Netherlands.
+Only if we look at the private discount rate, we find England in the second position. The spread
+among core countries was low, but it is interesting to note that Germany had the highest discount
+rate of the five core countries.
+Peripheral countries had substantially higher interest rates. Sweden, Norway, and Romania 
+which adhered to gold for the entire period – exhibit a discount rate spread of more than 150 basis
+points (4.97 percent versus 3.41 percent). If we include Austria-Hungary, Italy, Bulgaria, and Serbia
+– which adhered to gold only for parts of the 1883-1913 period -, the interest rate spread increases
+to more than 200 basis points (5.48 percent versus 3.41 percent).
+Table 2 also suggests a process of (short-term) interest rate convergence from the 1880s to
+1914. Interest rates from the core countries and Sweden, Norway, and Austria-Hungary – i.e. the
+countries with initially fairly low interest rates – increased over time whereas countries with
+initially very high interest rates – Romania, Italy, Serbia, and Bulgaria – witness a decline of their
+24 Bagehot, Lombard Street.
+
+
+13
+interest rates. As Italy, Serbia and Bulgaria joined the gold standard only after the turn of the
+century (in 1904, 1905, and 1906, respectively), we are confronted with a paradox: interest rates for
+those three countries were lower under gold than under floating. The most likely explanation is
+reverse causality: as institutions on the European periphery gradually improved (i.e., development
+of domestic financial markets), the short-run interest rate declined which, in turn, allowed countries
+such as Bulgaria and Serbia to establish the gold link.
+Turning to the frequency of discount rate changes, table 2 shows that core countries had a
+much more active discount rate policy. England, for instance, changed its rate every other month
+but Romania, on average, less than once per year. If we exclude two outliers in each group – the
+well-know exception of France and Italy for which we have conflicting data25 –, core countries
+changed their discount rate 3.5 times per annum, compared to 1.4 times per annum for the
+periphery. It is beyond the scope of this study to explain this difference, but two factors probably
+played a role: peripheral countries were, on balance, under more government pressure, and hence
+more reluctant to change the discount rate (in particular in cases where formal government approval
+was required). This argument, which is often found in the literature26, might go some way towards
+explaining the differences but we should not forget that fairly independent central banks could also
+come under pressure: Bagehot, for instance, wrote: “The Bank directors now fear public opinion
+exceedingly; probably no kind of persons are so sensitive to newspaper criticism.”27 Presumably
+more important was how dominant the central bank’s position was in the money market: If faced
+with heavy competition from discount houses, the central bank had to adjust frequently its bank rate
+to the market rate so as to get its share of the discount market. If the central bank dominated the
+money market – which was presumably the case in the periphery –, fewer discount rate changes
+were needed.
+25 We have relied on data supplied by the Historical Archive of the Bank of Italy (cf. appendix), but the data provided in
+an earlier publication of the Bank of Italy suggests substantially fewer discount rate changes. R. de Mattia, I bilanci,
+pp. 812-815.
+26 Reis, "Art", pp. 712-22.
+27 Bagehot, Lombard Street, p. 72.
+
+
+14
+Cover ratio
+The cover ratio represents the fraction of reserves to liquid liabilities and served as an indicator of
+the central bank’s liquidity. The legal requirement to publish the cover ratio on a monthly or even
+weekly basis aimed at retaining confidence in the domestic monetary system. We show a
+standardized central bank balance sheet to illustrate which items might potentially constitute
+“reserves” and “liquid liabilities”.
+Rules as to what exactly defined the cover ratio differed across countries and over time, but
+the broad pattern is as follows: Initially, the reserve ratio was defined as gold (bullion or specie)
+over bank notes; gold was the quintessential store of value, and the convertibility requirement
+referred only to bank notes but not deposits. As time went on, the cover ratio matured from this
+somewhat legalistic perspective into a more economic concept. This was largely the result of
+foreign exchange holdings becoming more important relative to gold holdings. Consequently,
+countries amended their bank acts in order to include foreign exchange into the note cover.28 As far
+as we can see, a similar process did not take place on the liabilities side. While deposits grew as a
+share of liquid liabilities, bank acts were not changed to provide cover for both bank notes and
+deposits. This is probably explained by the fact that the share of deposits never grew larger than 15
+percent – 20 percent of liquid liabilities.
+Table 3 shows the average, the minimum, the maximum and the standard deviation of the
+cover ratio. Core countries had a substantially lower average reserve ratio than the periphery (56.0
+percent versus 69.6 percent). When excluding France – a well-known outlier among core countries
+– the difference increases to 18.1 percent (51.2 percent versus 69.6 percent). The minimum reserve
+ratio shows a similar dichotomy: England, Germany, and Belgium let their reserve ratio decline to
+30 percent and below. This contrasts strongly with a minimum cover ratio of 66.1 percent for Italy.
+So while neiter core nor periphery violated their bank acts (which normally stipulated a 30 percent 
+40 percent minimum cover), our findings suggest that peripheral countries felt the need to have
+substantially higher reserve levels.
+28 Morys, "Classical Gold Standard”, p. 136. Monetary Time Series of Southeastern Europe.
+
+
+15
+We can summarize our results so far as follows. Core countries had few gold point violations
+(which allowed them to introduce specie convertibility), changed their discount rate frequently and
+had a low cover ratio. Peripheral countries, by contrast, had a worse exchange-rate performance
+(especially in periods of global financial distress), changed their discount rate infrequently and
+relied on a high cover ratio. This suggests that the rules which core and periphery followed were
+different; which is what we turn to now.
+CHAPTER THREE ESTIMATING THE RULES OF THE GAME
+Passive rules rather than active rules
+The “rules of the game” were what we would refer to in modern parlance as the macroeconomic
+policy trilemma; i.e. the need to subjugate monetary policy to the requirements imposed by fixed
+exchange-rates under conditions of capital mobility. The concept as well as the terminology
+emerged only in the 1920s and are conventionally attributed to Keynes. The late emergence in the
+interwar period had three major implications which we will explain in the following. First, the exact
+specification of these “rules” became part of the Classical Gold Standard myth, as it emerged in the
+interwar period when policy-makers and academics alike were looking for a historical benchmark in
+their efforts to re-introduce the gold standard after World War I. More specifically, the design of the
+rules was “active”, i.e. implicitly assigning central banks the task of promoting global adjustment
+rather than only reducing the balance-of-payments deficit of the own country. Second, measuring
+central banks behaviour against the benchmark of “active rules” would lead to the afore-mentioned
+Bloomfield paradox. Third, measuring central bank behaviour against the benchmark of the “rules
+of the game” contemporaries had in mind requires designing “passive rules” but will help solve the
+Bloomfield paradox.
+From the perspective of contemporaries, the gold standard implied only two rules. In order
+to maintain confidence in the domestic monetary system, most banks of note issue were required to
+hold a certain minimum level of reserves against bank notes in circulation. As we have seen in
+chapter 2, all countries followed this rule and most usually held substantially higher reserve levels.
+
+
+16
+The second rule relates to the international dimension of the gold standard, i.e. the need to
+keep the exchange-rate within the gold points. We saw in chapter 2 that core countries lived up to
+this requirement with very few exceptions, whereas peripheral countries had a mixed record; they
+managed to keep their exchange-rate within the gold points fairly well in normal times but failed to
+do so in periods of global financial strain. Strictly speaking, we should not see this as a rule but
+rather as a recommended behaviour to avoid gold outflows: only if we saw the central bank’s task
+in preventing gold flows – in contradiction to the Humean price-specie flow mechanism and to how
+contemporaries saw it – should we elevate this to a rule.
+Both rules are united by their “passive” character: the central bank is merely asked to avoid
+running into trouble of facing a bank run due to a declining cover ratio. This contrasts strongly with
+the “active rules” designed retrospectively by the interwar economists.29 Nurkse, in his classic study
+of the currency experience of the interwar period, assigned the following responsibility to the
+central bank: “Whenever gold flowed in, the central bank was expected to increase the national
+currency supply not only through the purchase of that gold but also through the acquisition of
+additional domestic assets; and, similarly, when gold flowed out, the central bank was supposed to
+contract its domestic assets also.”30 Nurkse established this active rule on the basis that only such
+behaviour would ensure the reserve ratio remain constant31, but its deeper justification was
+different: central banks were ascribed a duty of hastening the adjustment process.
+We fail to appreciate the reason behind this fundamental re-definition unless we understand
+the purpose of Nurkse’s research. In his view, the adjustment process of the interwar gold standard
+had not worked well, because central banks only strived to maintain convertibility, i.e. do the
+minimum. The fact that adjustment had worked smoother before World War I then showed, for
+Nurkse, that central banks had assumed a greater responsibility for the functionning of the gold
+standard. From this he inferred that central banks under the Classical Gold Standard had followed
+“active rules”.
+29 Bloomfield, Monetary Policy, p. 47.
+30 Nurkse, International currency experience, pp. 66-67.
+31 Ibid.
+
+
+17
+Nurkse and Bloomfield proposed another rule: discount rate and cover ratio are to move
+inversely. This is in line with the rules contemporaries had in mind in the sense that a central bank
+was expected to react to a decline in the cover ratio by increasing the discount rate. But why should
+we expect a central bank to react to a gold inflow by lowering the discount rate? We would expect
+this only if we assumed the central bank’s responsibility to actively contribute to the elimination of
+balance-of-payment deficits of other countries. In other words, Nurkse and Bloomfield attached an
+activist meaning also to this rule.
+Bloomfield, as well as subsequent research, found more empirical support for this rule. This
+has been the case especially for core countries32; as they changed their discount rate more often, the
+inverse relationship becomes clearer.
+We have the approach of Nurkse and Bloomfield in some detail for three reasons: first, their
+research has been highly influential. The rules they proposed stand behind the hypotheses of most,
+if not all, subsequent studies on the rules of the game. Second, Nurkse and Bloomfield designed
+“active” rules, whereas contemporaries had “passive” rules in mind. This distinction can potentially
+help explain why research, on balance, has found peripheral countries to violate the rules of the
+game more consistently than core countries; as peripheral countries were more constrained, they
+would have found it even more difficult to play by the more burdensome “activist rules”. Third, the
+rules-of-the-game concept neglects two crucial aspects: (a) The gold standard literature is well
+aware that some countries had specie convertibility while others (mainly peripheral ones) only
+shadowed the gold standard, but no attempt has been made to explain this puzzle let alone connect it
+to the rules-of-the-game discussion. (b) The issue of interest rate leadership and followership under
+the Classical Gold Standard has never been integrated into the discussion on the rules-of-the-game.
+Both strands of literature have lived separate lives. This is probably best explained by the fact that
+most of the rules-of-the-games literature has focused on England, Germany and France which were
+not seen as interest rate followers. This changes in a study such as ours which focuses explicitly on
+the core-periphery dichotomy.
+32 Bloomfield, Monetary Policy, pp. 29-32.
+
+
+18
+Modelling a central bank reaction function
+Our estimation then emerges naturally from our discussion of the rules of the game. The central
+bank reaction function should reflect passive rules and not active rules. Consequently, we model the
+discount rate (i.e., the central bank’s most important policy tool) as a function of the cover ratio and
+the exchange-rate deviation with respect to England, France and Germany. We also have to allow
+for interest rate followership vis-à-vis these countries. We distinguish two cases for the dependent
+variable: modelling actual discount rate changes as opposed to modelling monthly discount rate
+behaviour.
+Modelling discount rate changes (OLS):
+(1) Δi = α0 * c + α1 * crm-1 + α2 (crm-1 – crm-2) + β1 * (i_ed-1 – i_ed-31) + β2 * (i_fd-1 – i_fd-31) + β3
+* (i_gd-1 – i_gd-31) + γ1 * xr_em-1 + γ2 * xr_fm-1 + γ3 * xr_gm-1 + ε
+We include the cover ratio in levels and first differences (coefficients α1 and α2), as a decline in the
+cover ratio is more likely to lead to a discount rate increase at low cover ratio levels. The data
+relates to the month preceding the discount rate decision (m-1) compared to a month before (m-2).
+We exploit the daily character of our discount rate data by measuring the discount rate change of
+England, France and Germany as the difference between the discount rate level the day before the
+discount rate decision (d-1) compared to a month before (d-31). γ1, γ2, γ3 are the coefficients on the
+exchange-rate deviation from mint parity with respect to England, France, and Germany, where a
+positive number implies a depreciated exchange-rate. Exchange-rate data are monthly and refer to
+the month preceding the discount rate decision (m-1).
+Modelling monthly discount rate behaviour (Probit):
+(2) i = δ1 * crm-1 + δ2 (crm-1 – crm-2) + ε1 * (i_em-1 – i_em-2) + ε2 * (i_fm-1 – i_fm-2) + ε3 * (i_gm-1 
+i_gm-2) + ζ1 * xr_em-1 + ζ2 * xr_fm-1 + ζ3 * xr_gm-1 + ε
+We estimate this equation as a probit with three entries: comparing the last day of the current month
+with the last day of the previous month, the discount rate was increased (i= +1), decreased (i=-1) or
+remained at the same level (i=0). Some adaptation is required for the interest rate. As the dependent
+
+
+19
+variable looks at a one-month horizon, i_e, i_f and i_g refer to the interest rate difference on the last
+day of the previous month compared to the last day of the month before (im-1 – im-2).
+Given this specification, we expect negative values (and negative marginal/differential
+effects) for α and δ and positive values for β,γ, ε and ζ. We follow a general-to-specific approach by
+eliminating successively all variables that are not statistically significant at the 10 percent level.
+This often implied the exclusion of multi-collinear regressors. Our results are summarized in tables
+4 and 5.
+Low variance inflation factors for the final results presented in tables 4 and 5 indicate that
+multi-collinearity no longer poses a problem. All equations pass conventional residual tests for
+white noise, normal distribution and heteroskedasticity as well as tests against misspecification.
+Detailed results are available upon request.
+Results
+(a) Cover ratio
+As for our first equation, five countries – England, Germany, Belgium, the Netherlands, and
+Sweden – were not influenced in their discount rate decision by a decline in their cover ratio. For
+the other five countries, we obtain the expected negative coefficient, with (absolute) values rising in
+the following order: Italy, France, Norway, Romania and Austria-Hungary. Countries with a
+particularly high sensitivity to changes in the cover ratio – Norway, Romania and Austria-Hungary
+all have values below minus 10 – also exhibit the highest statistical significance (rejection of null
+hypothesis at 1 percent level). In the cases of Italy and France, the coefficient α2 on Δcr is
+statistically significant only at the 5 percent-level, but in both cases, intercept and cr are also
+included which suggests discount rate decisions based both on the level and the change of the cover
+ratio.
+Our findings for (2) are supportive: Belgium and Sweden do not have a statistically
+significant coefficient on Δcr in this equation either. England, Germany, and the Netherlands seem
+to be influenced by Δcr on this account, but coefficients are statistically significant at lower levels
+and marginal effects small compared to the remaining five countries. the values of the coefficient
+
+
+20
+are small compared to the other countries and coefficients are statistically significant only at low
+levels. It thus follows that the cover ratio was of very different importance in setting the bank rate:
+For peripheral countries, the cover ratio was instrumental in setting the interest rate but it mattered
+much less for the core countries. This is in line with our previous finding on the cover ratio, where
+core countries were shown to have both lower minimum and average values than peripheral
+countries. Results of (1) and (2) are identical even in spotting France as the exception to the rule.
+(b) Interest rates
+Eq. (1) and (2) demonstrate that all countries tracked the interest rate of at least one of the large core
+countries. This is also true for England, which is conventionally seen as the interest rate leader
+before World War I. This suggests that the element of interest rate followership – which is not
+appropriately dealt with in the rules-of-the-game literature (see above) – was of paramount
+importance under the Classical Gold Standard.
+Eq. (1) and (2) suggest the same interest rate setter in nine out of ten cases:
+Sweden follows both England and Germany, with the size of the coefficient/differential effect
+suggesting similar dependence on London and Berlin. The remaining eight countries either follow
+the Bank of England or the Reichsbank, with France and Romania following England and the
+Netherlands, Norway, Austria-Hungary and Italy following Germany. England and Germany follow
+each other mutually. Only Belgium seems to follow the German bank rate in eq. (1) and the French
+bank rate in eq. (2). Our findings suggest that the Reichsbank was more crucial in setting European
+interest rates than the Bank of England.
+Last but not least, our estimations show that not only England and Germany were interest
+rate leaders and followers at the same time; in fact, the degree of interest rate followership was
+particularly high, as a comparison of the coefficients/differential effects shows. Given that England
+and Germany followed each other’s interest rate, this could be explained by both financial centers
+competing for the same short-term funds. We will return to this issue later.
+(c) Exchange-rates
+Both equations suggest that England, Germany, Belgium and the Netherlands – i.e. the core
+countries with the exception of France –attached great importance to avoiding exchange-rate
+
+
+21
+deviations. We recall from table 1 that these four countries were characterised by lower minimum
+and average deviations from mint parity. The fifth country mentioned in this context was France
+whose coefficients γ and ζ are not statistically significant in eq. (1) and (2). This contradiction is
+best reconciled by a well-established body of research which has stressed the sophistication and
+effectiveness of French gold devices.33
+As for the peripheral countries, we distinguish between Sweden and Norway, on the one
+hand, and Austria-Hungary, Italy, and Romania, on the other. For the latter three countries, our
+findings suggest that the exchange-rate deviation did not matter in setting the discount rate. This is
+in line with our findings for the exchange-rate performance, where these three countries scored
+worse than the core countries as well as Sweden and Norway. For Sweden and Norway, eq. (1)
+suggests influence whereas eq. (2) does not.
+It is interesting to note that for five out of six countries the focal point for interest rate
+followership and exchange-rate orientation is one and the same country: England is the focal point
+for Germany and Sweden and Germany is the focal point for England, the Netherlands and Norway.
+In some cases either Germany or England provide an additional point of reference. This would be
+true for the French exchange-rate for England, the English exchange-rate for the Netherlands, and
+the German interest rate for Sweden.
+Comparing the size of the coefficient/marginal effect is similar to what we showed for the
+magnitude of the interest rate followership. If anything, core countries reacted more strongly to
+exchange-rate deviations than peripheral countries.
+(d) How binding was the external constraint?
+Last but not least, we should ask whether eq. (1) and (2) give an indication as to how binding the
+external constraint was. Ideally, we would have included a proxy for domestic economic activity to
+establish whether central banks at the time pursued other policy goals simultaneously.
+Eichengreen&Watson&Grossman, for instance, use monthly employment figures in their study of
+33 Contamin, "Interdépendences financières ".
+
+
+22
+the Bank of England interwar discount rate policy.34 As no such data are available for our period on
+monthly basis, two alternative roads can be pursued.
+First, comparing the size of the coefficients does not suggest that peripheral countries
+needed to react more strongly. Coefficients/marginal effects on the cover ratio and the exchange
+rate cannot be directly compared, as the periphery tended to react to the former and the core to the
+latter. The coefficient/differential effect on English, French and German interest rates, however, can
+be directly compared and suggests, on balance, that core countries followed interest rates actually
+more closely than peripheral countries.
+Another piece of evidence is provided by the R2 which measures how much of the total
+variation in the dependent variable is explained by variation in the explanatory variables. As we will
+explain in more detail in the next chapter, our study of central bank internal protocols and annual
+reports suggest that central bankers were fully aware of the conflict between external and internal
+stability. As a result, they followed the “rules of the game” whenever necessary but gave
+precedence to domestic considerations whenever possible. Such a behaviour should result in a low
+R2.
+In line with this rationale it is not surprising to see that England, Germany and Belgium
+have the lowest R2 for both equations; apparently many other factors also determined their interest
+rate setting behaviour. But these results cannot be easily generalised. If rich countries had more
+room for monetary manoeuvre, we would expect the correlation coefficient between GDP per capita
+and the R2 to be close to minus 1 in our sample of ten countries; but it only comes out at -0.41 (for
+eq. 1) and -0.47 (for eq. 2), respectively.35
+Last but not least, while most of the coefficients are statistically significant at the 5 percent
+or even 1 percent-level, this does not translate into high R2-values. For our monthly estimations, the
+highest R2-value is only 16 percent. If we find such low R2-values despite operating at the highest
+frequency possible, then this suggests that many other considerations went into setting the discount
+rates under the Classical Gold Standard.
+34 Eichengreen, Watson, and Grossman, "Bank Rate Policy”.
+35 Based on GDP data for 1900 taken from Maddison, World Economy.
+
+
+23
+In conclusion, we found similarities and differences between core and periphery. A strong element
+of interest rate followership was common to both. They differ, however, in the importance they
+attached to cover ratio and exchange-rate deviations. Core countries used their frequent discount
+rate changes to target the exchange-rate. Little attention was paid to the cover ratio which
+occasionally fell close to the minimum level required by the bank act. Peripheral countries, by
+contrast, targeted the cover ratio and successfully managed to keep it at levels approximately twice
+as high as required by the bank act.
+This fundamental difference is in line with chapter 2 where we showed that core countries
+violated the gold points substantially less often than peripheral countries. But why, then, did
+peripheral countries not attach more importance to exchange-rate deviations in setting the discount
+rate? We recall that peripheral countries were able to maintain fixed exchange-rates well under
+normal circumstances but failed to prevent gold point violations during periods of global financial
+strain. Understanding central bank behaviour during these periods will enable us to give an answer
+to this question. This is what we turn to now.
+CHAPTER FOUR. CENTRAL BANK BEHAVIOUR DURING THE PERIODS OF GLOBAL
+FINANCIAL STRAIN
+We recall from chapter 2 that there were three periods of sustained gold points violations by
+peripheral countries: the Boer War, starting in 1899; the crisis of 1907; and the Balkan wars of
+1912/13. We will briefly explain each episode and then analyse the discount rate behaviour of core
+and peripheral countries during these crises. Subsequently, we will support our analysis of the data
+by a study of the internal protocols and the Annual Reports of the Austro-Hungarian bank.
+(a) The Boer War began in October 1899. Early successes of the Boers culminated in the so
+called “Black Week” (10th – 15th December 1899). As the British Empire grew increasingly
+determined to win the war, major reinforcements were sent; by January 1900 it became clear
+that England would, at least, not lose the war (even though hostilities continued for a long
+time and peace was only achieved in May 1902). For the purpose of our study it is important
+
+
+24
+to keep in mind that South-Africa at the time was the world’s largest supplier of gold for a
+rapidly growing world economy connected to the gold standard. The chronology of military
+events is mirrored by three discount rate increases of the Bank of England from 3.5 percent
+to 6 percent (3.10., 5.10. and 30.11.) before it fell to 5 percent on 11th January 1900. We
+observe a similar pattern for the Reichsbank which raised its discount rate by 2 percent to 7
+percent (3.10. and 15.11.) before reducing it to 6 percent on 12th January 1900.
+(b) The crisis of 1907 is often erroneously reduced to the American Banking Crisis of the same
+year but in fact it was a much wider phenomenon. It followed the upswing of the first years
+after the turn of the century in which many countries had participated. Bubbles burst in
+different places at different times. European discount rate data suggests two waves. The first
+one began in September 1906 and ran until January 1907 when the first central banks start
+lowering their discount rates. This was then followed by a second wave in late 1907. The
+failure of the Knickerbocker Trust Company in New York on 22nd October 1907 soon led to
+a general suspension of cash payments by the entire American banking system. A week
+later, Germany (29th October) and England (31st October) started raising their discount rate
+from 5.5 percent and 4.5 percent, respectively, to 7.5 percent and 7 percent. These were the
+highest values for both countries during the Classical Gold Standard era which underlines
+the severity of the crisis. On 2nd January 1908 the Bank of England became the first major
+central bank to decrease its discount rate again.
+(c) The third episode relates to the Balkan Wars of 1912/13. Great power rivalries had
+manifested itself on the Balkans since the congress of Berlin (1878), which explains why
+every new crisis led to increased anxiety worldwide. In the event, the so-called Balkan
+League was established as an alliance between Greece, Serbia, Bulgaria, and Montenegro
+with the aim of conquering the European lands of the Ottoman Empire. Established in early
+1912, the outbreak of the war was likely as soon as summer 1912 (even though it broke out
+only on 8th October 1912). The Bank of England was the first central bank to raise its
+discount rate, increasing it by 2 percent to 5 percent (29.8. and 17.10.) before decreasing it
+
+
+25
+on the 17th April. Germany also increased its discount rate by 1.5 percent to 6 percent
+(24.10. and 14.11.).
+Table 6 compares the discount rate policy of England and Germany with the five peripheral
+countries in our sample. The time window is defined by two days in advance of the first central
+bank raising the discount rate and ends the day prior to the first central bank lowering it again.
+Table 6 shows by which margin discount rate changes were made and to which level they were
+raised. We also report the discount rate differentials to England and Germany (represented by the
+arithmetic average of their discount rates) during the time window as opposed to the normal
+discount rate spread.
+England and Germany engaged in competitive discount rate increases early on but
+peripheral countries reacted late and increased their discount rates by substantially lower margins.
+Consequently, the discount rate differential between core and periphery declined during crises and,
+in many instances, turned negative. The peripheral economies had an average discount rate spread
+of 83 basis points. The spread declined during all four crises episodes and even turned negative
+during the crisis of 1907. We are hence confronted with a paradox: in crisis situations with
+prolonged violations of the gold export points, peripheral countries decreased rather than increased
+their discount rate spread to the core countries.
+This paradox might be explained as follows: as the general discount rate level was higher for
+peripheral countries, there was limited room for manoeuvre during periods of global financial
+strain. Moreover, a signalling problem might have prevented peripheral economies from raising the
+discount rate by a wide margin. Sizeable discount rate increases could be interpreted as signs of
+weakness and hence deter rather than encourage the inflow of short-term capital. Last but not least,
+the discount rate increases could have been a less effective tool in peripheral countries.
+In order to provide some qualitative evidence, we studied the annual reports of the Austro
+Hungarian bank and the protocols of the general council. The Annual Reports were mainly meant
+for the shareholders of the Austro-Hungarian Bank, whereas the protocols of the general council
+
+
+26
+were internal documents not made available to the public. These protocols are particularly
+insightful, as the general council was the interest rate setting body of the Austro-Hungarian bank.
+According to Eichengreen, contemporaries “had limited appreciation of how central bank policy
+affected the economy.”36 The sources we studied tell the opposite story. The Austro-Hungarian
+bank was fully aware of the conflict between external and internal stability. While the gold link
+provided the strongly desired exchange-rate stability, the adjustment process was often perceived as
+posing a heavy burden on the domestic economy. The conflict between high interest rates to
+maintain adherence to gold and low interest rates to stimulate the domestic economy can be found
+on many occasions37 but is particularly well-captured in the 1900 Annual Report which looks back
+on 1899 (i.e. one of our crisis periods):
+“... we should not forget that the bank’s duties do not only consist of defending mint
+parity. It is of no less importance to protect and promote all the other interests of our
+national economy which is beset with so many difficulties...”38
+The internal discussions provide an answer to our earlier question why peripheral countries used the
+discount rate tool so sparingly during crises. First, there was a general sense that discount rate
+increases would be unpopular, an argument particularly often advanced by government
+representatives on the general council.39
+Increasing the discount rate was not only unpopular but the Austro-Hungarian bank also
+doubted its effectiveness. From a general council meeting held at the height of the American
+Banking crisis (28th November 1907), for instance, we learn that Austria-Hungary did contemplate
+increasing the discount rate further (at this point it was 100 basis points below England and 150
+36 Eichengreen, Golden Fetters, p. 6.
+37 Report to the 32nd General Meeting of the Austro-Hungarian Bank (1910).
+38 Report to the 22nd General Meeting of the Austro-Hungarian Bank (1900), p. 11.
+39 General council meeting #523, held 27th June 1907, pp. 5-6. The Austro-Hungarian bank had two government
+representatives, one for Austria and one for Hungary.
+
+
+27
+basis points below Germany, as well as in violation of the gold export point), but failed to do so
+because “even a higher interest rate would not have made a difference”40.
+Equally revealing in our context is the previous meeting held on 9th November 1907, i.e.,
+two days after the Bank of England had increased the discount rate to a record 7 percent and the day
+after the Reichsbank had increased its interest rate to 7.5 percent. The Austro-Hungarian bank only
+decided to raise its discount rate by 100 basis points to 6 percent. One of the council member states
+how helpful it proved in the current financial crisis that Austria-Hungary had not introduced specie
+convertibility, thus giving more flexibility to the monetary authority.41 In other words, not
+introducing specie convertibility (i.e., only shadowing the gold standard) was the result of the
+limited effectiveness of the discount rate tool in peripheral economies.
+It thus emerges that the Austro-Hungarian bank did not view the discount rate increases only
+as unpopular but not necessarily effective. Given this perception, the general council only had two
+options: if needed, the Austro-Hungarian bank would raise the discount rate but would try to
+postpone any such decision for as long as possible.42 This wait-and-see approach was followed even
+at the onset of the American Banking crisis, when the general council met six days after the collapse
+of the Knickerbocker Trust Company but decided to let the discount rate unchanged.43 This
+reluctant approach towards raising the discount rate was complemented by the desire to lower it as
+soon as possible. In some cases, this was done while the crisis was still in full swing. During the
+Boer war, for instance, Austria-Hungary was the first central bank to decrease its discount rate– on
+7th December 1899, i.e. more than a month earlier than the Bank of England. This was justified on
+the following grounds:
+“... we should not forget that the bank’s duties do not only consist of defending mint
+parity. It is of no less importance to protect and promote all the other interests of our
+40 General council meeting #528, held 28th November 1907, p. 4.
+41 General council meeting #527, held 9th November 1907, p. 9.
+42 Report to the 21st General Meeting of the Austro-Hungarian Bank (1899), pp. 10-11.
+43 General council meeting #526, held 24th October 1907.
+
+
+28
+national economy which is beset with so many difficulties... As a result, we reduced the
+discount rate from 6 percent to 51⁄2 percent on 7th December 1899.”44
+If raising the discount rate was difficult and, potentially, not even effective, what was the
+alternative? The annual reports and the protocols suggest that the Austro-Hungarian bank did not
+necessarily consider the discount rate as the main pillar of its monetary policy. Reference is made,
+at least as often, to foreign exchange policy. Accumulating large reserves in good times and
+returning them slowly to the market when necessary was seen as a good way of keeping interest
+rates low and stable.
+„The enormous increase of our metallic holdings ... and, more importantly, the vast
+stock of foreign bills of exchange and foreign deposits has proven beneficial to the
+domestic economy. As a result, we could offer relatively low interest rates throughout
+the year despite adverse interest rates abroad... “45
+The conviction that high reserve levels were needed to compensate for the shortcomings of the
+discount rate tool can be found elsewhere.46 Of equal importance in our context is that this also
+guided monetary policy when the exchange-rate turned unfavourable and violated the gold export
+point. The protocols related to the American Banking Crisis show that the general council viewed
+foreign exchange policy as the more promising approach to deal with the crisis; which explains our
+previous finding (table 6) that the Austro-Hungarian bank kept its discount rate well below English
+and German levels despite prolonged gold point violations.
+In conclusion, the qualitative evidence is supportive of our previous analysis and
+interpretation of monetary policy in the European periphery. Given the limited effectiveness of the
+discount rate tool, it was often difficult to keep the exchange-rate within the gold points. Thus,
+peripheral countries adapted the gold standard in two crucial aspects to suit their needs: first, they
+44 Report to the 22nd General Meeting of the Austro-Hungarian Bank (1900), p. 11.
+45 Report to the 29th General Meeting of the Austro-Hungarian Bank (1907), pp. 10-11.
+46 Report to the 30th General Meeting of the Austro-Hungarian Bank (1908).
+
+
+29
+did not, for the most part, introduce specie convertibility, thus widening the exchange-rate bands
+and hence providing more flexibility; second as the discount rate was less effective, peripheral
+countries came to rely on very high reserve levels and oriented their discount rate policy towards
+maintaining the reserve level rather than targeting more narrowly the exchange-rate.
+CHAPTER FIVE CONCLUSION
+Drawing on a sample of 12 European countries, this paper offered a re-assessment of one of the key
+questions surrounding the Classical Gold Standard: did countries follow the so-called “rules of the
+game” and, if so, was the external constraint implied by these rules more binding for the periphery
+than for the core?
+Three main findings emerged from our estimations: First, all countries followed specific
+rules, but rules were different for core countries as opposed to peripheral countries. The discount
+rate decisions of core countries were motivated by keeping the exchange-rate within the gold points.
+In stark contrast, the discount rate decisions of the peripheral countries reflected changes in the
+domestic cover ratio. Consequently, the conventional view that some countries followed the “rules
+of the game” while others did not, relied on the erroneous assumption that gold standard countries
+followed exactly the same set of rules.
+Second, there was a substantial amount of discretionary monetary policy left to all countries,
+even though our findings suggest that core countries enjoyed marginally more liberty in setting their
+discount rate than peripheral countries.
+Third, the interest rate decisions of all countries were influenced by interest rates set in
+London and Berlin, with several countries following more closely (or even exclusively) the
+Reichsbank. This suggests that the European branch of the Classical Gold Standard was far less
+London-centered than hitherto assumed and that Berlin played an important role in the European
+money market.
+We then explained why peripheral countries followed a set of rules different from core
+countries. The key difference was the effectiveness of the discount rate tool: In the case of core
+
+
+30
+countries, the discount rate led to short-term capital inflows and hence an improvement of the
+exchange-rate. This mechanism did not operate as smoothly for peripheral countries, resulting in
+more frequent violations of the gold export point. This core-periphery dichotomy was particularly
+pronounced in periods of global financial strain, when peripheral countries were not able to deploy
+the discount rate tool as effectively as core countries and, as a result, had to live with prolonged
+periods of unfavourable exchange-rates. As a result, peripheral countries adapted the gold standard
+in two crucial aspects to suit their needs. First, they did, for the most part, not introduce specie
+convertibility, thus widening the exchange-rate bands and hence providing more flexibility; second,
+peripheral countries came to rely on very high reserve levels and oriented their discount rate policy
+towards maintaining the reserve level rather than targeting more narrowly the exchange-rate. This
+buffer allowed them to cope with prolonged reserve drains in cases in which the discount rate tool
+could not be deployed as successfully.
+DATA APPENDIX
+Austria-Hungary, Bulgaria, Romania and Serbia
+All data except for private discount rates (cf. below) from Monetary Time Series of South-Eastern
+Europe from the 1870s to 1914.
+Belgium
+- Exchange rates: Neal-Weidenmier-Gold Standard data base (England),
+Schneider&Schwarzer&Zellfelder 1991, Europäische und nordamerikanische Devisenkurse
+1777-1914, vol. 2, pp. 239-240 & vol. 3, pp. 354-356 (France, Germany)
+- Bank rate: Kauch, La Banque Nationale de Belgique, pp. 148-152
+- Reserves and monetary base: “Assemblée Générale des Actionnaires de la Banque
+Nationale. Rapport fait par le Gouverneur au nom du Conseil d’Administration”, section
+“Extrait des situations publiées au moniteur belge en ...”, Brussels 1878 – 1914
+England
+- Exchange rates: Neal-Weidenmier-Gold Standard data base (Germany), NBER
+Macrohistory database #14107 (France)
+
+
+31
+- Bank rate: Hawtrey, A Century of Bank Rate, pp. 281-296
+- Reserves and monetary base: Capie&Webber, A Monetary History of the United Kingdom,
+pp. 408-431.
+France
+- Exchange rates: Neal-Weidenmier-Gold Standard data base (England),
+Schneider&Schwarzer&Zellfelder 1991, Europäische und nordamerikanische Devisenkurse
+1777-1914, vol. 2, pp. 351-352 (Germany)
+- Bank rate: Hawtrey, A Century of Bank Rate, pp. 302
+- Reserves and monetary base: “Compte rendu des operations de la Banque de France et de
+ses succursales pendant l’année 1889” etc., Paris 1890-1914, section “Situation
+hebdomadaire des principaux comptes de la Banque”
+Germany
+- Exchange rates: Neal-Weidenmier-Gold Standard data base (England), NBER Macrohistory
+database #14071 (France)
+- Bank rate: Reichsbank, Vergleichende Notenbankstatistik, pp. 186-189.
+- Reserves and monetary base: “Verwaltungs-Bericht der Reichsbank fuer das Jahr 1876” etc.,
+Berlin 1876-1914, section “Zusammenstellung der ... veroeffentlichten Wochen
+Uebersichten”
+Italy
+- Exchange rates: Spinelli, Per la storia monetaria dell'Italia, vol. 2, pp. 45-94 (England),
+Schneider&Schwarzer&Zellfelder 1991, Europäische und nordamerikanische Devisenkurse
+1777-1914, vol. 3, pp. 22-23 & pp. 69-71 (France, Germany)
+- Bank rate: kindly communicated by Alfredo Gigliobianco, Historical Archive of the Bank of
+Italy
+- Reserves and monetary base: de Mattia, I bilanci degli istituti di emissione italiani dal 1845
+al 1936, vol. 2, pp. 619-753 and pp. 446-454
+Netherlands
+
+
+32
+- Exchange rates: Neal-Weidenmier-Gold Standard data base (England),
+Schneider&Schwarzer&Zellfelder 1991, Europäische und nordamerikanische Devisenkurse
+1777-1914, vol. 2, pp. 122-123, 126-127, 188-189 (France, Germany)
+- Bank rate: de Jong, Geschiedenis van de Nederlandsche Bank, vol. 3, pp. 537-543
+- Reserves and monetary base: “Verkorte Balans der Nederlandsche Bank”, 1875-1913
+(Nationaal Archief, The Hague)
+Norway
+- Bank rate: Annual Report of Norges Bank 1979, p. E10
+- All other data: downloaded from www.norges-bank.no
+Sweden
+- Exchange rates: Schneider&Schwarzer&Schnelzer 1993, Statistik der Gold- und
+Wechselkurse in Deutschland und im Ostseeraum, 18. und 19. Jahrhundert, pp. 299-300,
+337-338, 318-320, 348 (England, France, Germany)
+- Bank rate: Sveriges Riksbank, Sveriges Riksbank 1668-1924-1931, pp. 136-138.
+- Reserves and monetary base: “Sammandrag af Bankernas Uppgifter”, Stockholm 1878-1912
+and “Sveriges Riksbank Årsbook”, Stockholm 1913-1915
+Private discount rates for Austria-Hungary, Belgium, England, France, Germany, the Netherlands
+Reichsbank, Vergleichende Notenbankstatistik, pp. 212-231
+CENTRAL BANK BALANCE SHEET
+Assets Liabilities
+International assets Liquid liabilities Gold (bullion and specie) Bank notes in circulation Silver (bullion and specie) Bank deposits Foreign exchange and other international assets
+Other liabilities payable on demand
+Domestic assets Bills of exchange Cash advances
+Other assets (real estate etc.) Other liabilities
+
+
+33
+TABLE 1 EXCHANGE RATE PERFORMANCE (MEASURED AGAINST MINT PARITY) WITH RESPECT TO ENGLAND, FRANCE AND GERMANY
+England France Germany Netherlands
+XR w.r.t. France Germany England Germany England France England France Germany
+Maximum deviation 1.0051 1.0059 1.0043 1.0037 1.0063 1.0062 1.0041 1.0068 1.0023 Standard deviation 0.0026 0.0024 0.0022 0.0050 0.0024 0.0032 0.0023 0.0039 0.0024
+Max. dev. 1.0059 1.0043 1.0063 1.0068 Avg. max. dev. 1.0055 1.0040 1.0062 1.0044 Avg. st. dev. 0.0025 0.0036 0.0028 0.0029
+Frequency (entire period, in %) of gold point violation 2.7 3.7 1.4 0.0 4.7 6.6 0.0 n.a. n.a. xr > 1.0060 0.0 0.0 0.0 0.0 0.3 0.5 0.0 0.3 0.0 xr > 1.0010 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Frequency (reduced period, in %) of gold point violation 0.0 0.0 0.0 0.0 1.7 2.9 0.0 n.a. n.a. xr > 1.0060 0.0 0.0 0.0 0.0 0.0 0.3 0.0 0.3 0.0 xr > 1.0010 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Time span of xr availability
+1877m10 1914m6
+1877m10 1914m6
+1880m1 1913m12
+1877m10 1914m6
+1880m1 1913m12
+1876m1 1914m6
+1880m1 1913m12
+1875m1 1914m7
+1875m1 1914m7
+Belgium Sweden Norway
+XR w.r.t. England France Germany England France Germany England France Germany
+Maximum deviation 1.0098 1.0057 1.0119 1.0116 1.0111 1.0057 1.0116 1.0125 1.0069 Standard deviation 0.0029 0.0016 0.0031 0.0024 0.0029 0.0012 0.0025 0.0034 0.0014
+Max. dev. 1.0119 1.0116 1.0125 Avg. max. dev. 1.0091 1.0095 1.0103 Avg. st. dev. 0.0025 0.0022 0.0024
+Frequency (entire period, in %) of gold point violation n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. xr > 1.0060 10.3 0.0 11.8 4.2 4.2 0.0 5.1 11.4 0.3 xr > 1.0010 7.1 0.0 12.1 0.5 0.5 0.0 0.5 0.8 0.0
+Frequency (reduced period, in %) of gold point violation n.a. n.a. n.a. 18.3 n.a. n.a. 15.2 n.a. n.a. xr > 1.0060 0.0 0.0 0.3 0.3 1.1 0.0 0.9 3.7 0.0 xr > 1.0010 0.0 0.0 0.3 0.0 0.0 0.0 0.0 0.0 0.0
+Time span of xr availability
+1880m1 1913m12
+1877m1 1913m12
+1877m1 1913m12
+1875m1 1914m6
+1875m1 1914m6
+1873m3 1914m6
+1873m1 1914m6
+1881m1 1914m6
+1877m1 1914m6
+
+
+34
+Austria-Hungary Italy Romania
+XR w.r.t. England France German. England France German. England France German.
+Maximum deviation 1.0110 1.0136 1.0085 1.0277 1.0283 1.0283 1.0527 1.0512 1.0490 Standard deviation 0.0035 0.0033 0.0028 0.0071 0.0064 0.0074 0.0066 0.0069 0.0063
+Max. dev. 1.0136 1.0283 1.0527 Avg. max. dev. 1.0110 1.0281 1.0509 Avg. st. dev. 0.0032 0.0070 0.0066
+Frequency (entire period, in %) of gold point violation 7.0 n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. xr > 1.0060 8.4 8.4 2.8 31.7 28.3. 21.7 28.4 33.4 30.0 xr > 1.0010 1.4 3.7 0.0 12.5 14.2 10.8 14.5 16.3 13.1
+Frequency (reduced period, in %) of gold point violation 0.0 n.a. n.a. n.a. n.a. n.a. n.a. n.a. n.a. xr > 1.0060 0.0 0.7 0.0 30.7 24.0 14.7 17.7 23.1 22.2 xr > 1.0010 0.0 0.0 0.0 5.3 8.0 0.0 5.0 6.8 7.2
+Time span of xr availability
+1896m3 1914m6
+1896m3 1914m6
+1896m3 1914m6
+1904m1 1913m12
+1904m1 1913m12
+1904m1 1913m12
+1882m7 1913m12
+1882m7 1913m12
+1882m7 1913m12
+Bulgaria Serbia
+XR w.r.t. England France German. France
+Maximum deviation 1.0115 1.0128 1.0102 1.0390 Standard deviation 0.0042 0.0036 0.0044 0.0094
+Max. dev. 1.0128 Avg. max. dev. 1.0115 Avg. st. dev. 0.0040
+Frequency (entire period, in %) of gold point violation n.a. n.a. n.a. n.a. xr > 1.0060 12.3 12.3 4.9 40.0 xr > 1.0010 2.5 2.5 1.2 23.8
+Frequency (reduced period, in %) of gold point violation n.a. n.a. n.a. n.a. xr > 1.0060 17.7 13.7 7.8 40.0 xr > 1.0010 3.9 3.9 2.0 14.0
+Time span of xr availability
+1906m1 1912m9
+1906m1 1912m9
+1906m1 1912m9
+1905m7 1912m9
+Note: Calculations relate to the estimation period in chapter 3 or, in the case of Bulgaria and Serbia, to the period of gold standard adherence (1/1906-9/1912 and 7/1905-9/1912, respectively). The reduced period excludes October 1899 July 1901 (Boer war), October 1906 – February 1909 (crisis of 1907) and September 1912 – December 1913 (Balkan wars).
+Sources: Gold export point estimates: England/France/Germany: Morgenstern, Oskar. International Financial Transactions and Business Cycles. Princeton: Princeton University Press, 1959, pp. 178-81; England/Netherlands and England/Austria-Hungary: Easton, H. T. Tate's Modern Cambist. London: Effingham Wilson, 1912, pp. 358-63. For exchange-rate data cf. appendix.
+
+
+35
+TABLE 2 DISCOUNT RATE STATISTICS
+Discount rate 1883 - 1913
+Discount rate 1896 - 1913
+Discount rate
+1904 - 1913 Discount rate changes
+Official Private Official Private Official Private Total Per annum
+Core countries England 3.36 2.71 3.58 3.09 3.73 3.27 194 5.7 France 2.92 2.46 2.98 2.58 3.20 2.65 19 0.8 Germany 4.15 3.17 4.50 3.60 4.75 3.78 115 3.4 Netherlands 3.21 2.82 3.53 3.15 3.76 3.29 67 2.0 Belgium 3.40 2.83 3.66 3.04 3.93 3.37 98 2.7
+Average 3.41 2.80 3.65 3.09 3.88 3.27 2.9
+Peripheral countries Sweden 4.69 5.02 5.07 62 1.7 Norway 4.75 5.07 5.01 60 1.8 Austria-Hungary 4.25 3.85 4.30 3.93 4.44 4.08 25 1.4 Italy 4.75 4.39 4.46 43 4.3 Romania 5.47 5.55 5.21 26 0.8 Bulgaria 7.61 7.35 6.95 2 0.3 Serbia 6.87 6.71 6.08 4 0.6
+Average periphery on gold 4.97 4.99 4.84 1.6 Average periphery 5.48 5.48 5.32
+Note: The number of discount rate changes relates to the estimation period in chapter 3 or, in the case of Bulgaria and Serbia, to the period of gold standard adherence (1/1906-9/1912 and 7/1905-9/1912, respectively). Entries in italics refer to countries that were not on gold during the entire period.
+Sources: Cf. data appendix.
+TABLE 3 COVER RATIOS
+Cover ratio
+Average (%) Minimum (%) Maximum (%) St. deviation
+Core countries England 46.7 28.0 71.2 0.073 France 74.1 58.4 86.1 0.051 Germany 56.5 30.1 75.4 0.097 Netherlands 62.9 45.8 80.4 0.073 Belgium 39.7 29.9 49.5 0.036
+Average 56.0 38.4 72.5 0.066
+Peripheral countries Sweden 74.6 50.0 137.7 0.145 Norway 69.4 51.4 87.1 0.072 Austria-Hungary 79.2 54.5 98.0 0.098 Italy 75.0 66.1 84.3 0.041 Romania 51.8 38.3 76.7 0.077 Bulgaria 68.8 45.0 99.7 0.149 Serbia 68.4 50.0 88.4 0.093
+Average periphery 69.6 50.8 96.0 0.096
+Note: Calculations relate to the estimation period in chapter 3 or, in the case of Bulgaria and Serbia, to the period of gold standard adherence (1/1906-9/1912 and 7/1905-9/1912, respectively).
+Source: Cf. data appendix.
+
+
+36
+TABLE 4 DETERMINANTS OF ACTUAL DISCOUNT RATE CHANGES
+England France Germany Netherlands Belgium
+α0 Intercept 1.82 *** 2.54 *** α1 Cover ratio: level in m-1 -2.92 *** -3.52 *** α2 Cover ratio: change m-1 to m-2 -7.85 **
+β1 English bank rate: change d-1 to d-31 0.31 *** 0.56 *** β2 French bank rate: change d-1 to d-31 0.71 *** β3 German bank rate: change d-1 to d-31 0.54 *** 0.30 ***
+γ1 xr deviation in m-1 vis-à-vis England 70.15 *** 69.70 *** γ2 xr deviation in m-1 vis-à-vis France 57.17 *** 77.35 * γ3 xr deviation in m-1 vis-à-vis Germany 44.79 *** 65.78 ***
+R2 0.34 0.77 0.42 0.57 0.20
+Sweden Norway Austria
+Hungary Italy Romania
+α0 Intercept 1.00 3.19 * α1 Cover ratio: level in m-1 -0.20 ** -1.74 * -4.28 * α2 Cover ratio: change m-1 to m-2 -10.84 *** -11.89 *** -4.30 ** -11.27 ***
+β1 English bank rate: change d-1 to d-31 0.27 *** 0.63 *** β2 French bank rate: change d-1 to d-31 0.29 * β3 German bank rate: change d-1 to d-31 0.24 *** 0.37 *** 0.33 ***
+γ1 xr deviation in m-1 vis-à-vis England 42.8 ** γ2 xr deviation in m-1 vis-à-vis France γ3 xr deviation in m-1 vis-à-vis Germany 88.78 ***
+R2 0.48 0.47 0.42 0.49 0.54 Notes: We report Newey-West heteroskedasticity and autocorrelation consistent standard errors. * = Significant at the 10 percent level. ** = Significant at the 5 percent level. *** = Significant at the 1 percent level. Sources: Own calculations based on sources as described in the appendix.
+
+
+37
+TABLE 5 DETERMINANTS OF MONTHLY DISCOUNT RATE BEHAVIOUR MARGINAL EFFECTS1
+England France Germany Netherlands Belgium
+δ1 Cover ratio: level in m-1 -0.46 ** δ2 Cover ratio: change m-1 to m-2 -0.60 * -0.56 *** -0.34 ** -0.52 *
+ε1 English bank rate: change m-1 to m-31 0.01 ** 0.09 *** 0.04 * ε2 French bank rate: change m-1 to m-31 ε3 German bank rate: change m-1 to m-31 0.12 *** 0.05 ** 0.04
+ζ1 xr deviation in m-1 vis-à-vis England 8.55 * 9.84 *** ζ2 xr deviation in m-1 vis-à-vis France 14.37 ** 9.90 * ζ3 xr deviation in m-1 vis-à-vis Germany 12.21 ** 9.40 ***
+R2 0.05 0.10 0.04 0.16 0.03
+Sweden Norway Austria
+Hungary Italy Romania
+δ1 Cover ratio: level in m-1 -0.11 ** δ2 Cover ratio: change m-1 to m-2 -1.88 *** -1.99 *** -3.42 *** -0.45 ***
+ε1 English bank rate: change m-1 to m-31 0.06 *** 0.07 *** ε2 French bank rate: change m-1 to m-31 ε3 German bank rate: change m-1 to m-31 0.08 *** 0.10 *** 0.12 *** 0.22 **
+ζ1 xr deviation in m-1 vis-à-vis England ζ2 xr deviation in m-1 vis-à-vis France ζ3 xr deviation in m-1 vis-à-vis Germany
+R2 0.09 0.12 0.13 0.12 0.11
+1 Differential effects (to +1%) for the bank rate as a discontinuous variable.
+Notes: We report Huber-White quasi-maximum likelihood (QML) standard errors. * = Significant at the 10 percent level. ** = Significant at the 5 percent level. *** = Significant at the 1 percent level.
+Sources: Own calculations based on sources as described in the appendix.
+
+
+38
+TABLE 6 DISCOUNT RATE BEHAVIOUR DURING FINANCIAL CRISES
+General discount rate spread to England and Germany (basis points)
+Episode 1: Crisis of 1899-1900 (Boer War) 1.10.1899 – 10.1.1900
+Episode 2: Crisis of 1906-1907
+11.9.1906 – 16.1.1907
+Discount rate increase during crisis (%)
+Maximum discount rate during crisis (%)
+Discount rate spread to England and Germany (bp)
+Discount rate increase during crisis (%)
+Maximum discount rate during crisis (%)
+Discount rate spread to England and Germany (bp)
+England 2.5 6.0 2.5 6.0 Germany 2.0 7.0 2.5 7.0
+Sweden 94 0.0 6.0 21 1.0 6.0 -7 Norway 100 0.5 6.5 70 0.5 5.5 -31 Austria-Hungary 26 1.0 6.0 -1 0.5 4.5 -125 Italy 22 n.a. n.a. n.a. n.a. n.a. n.a. Romania 172 2.0 9.0 229 0.0 5.0 -68
+Average periphery 83 0.9 6.9 80 0.5 5.3 -58
+Episode 3: Crisis of 1907-1908 (American Banking Crisis) 27.10.1907 – 1.1.1908
+Episode 4: Crisis of 1912-1913 (Balkan Wars) 27.8.1912 – 15.4.1913
+Discount rate increase during crisis (%)
+Maximum discount rate during crisis (%)
+Discount rate spread to England and Germany (bp)
+Discount rate increase during crisis (%)
+Maximum discount rate during crisis (%)
+Discount rate spread to England and Germany (bp) England 2.5 7.0 2.0 5.0 Germany 2.0 7.5 1.5 6.0
+Sweden 1.0 7.0 -44 1.0 5.5 6 Norway 1.0 6.0 -120 0.0 5.5 35 Austria-Hungary 1.0 6.0 -123 1.0 6.0 54 Italy n.a. n.a. n.a. 0.5 6.0 59
+Romania 1.0 8.0 80 1.0 6.0 56
+Average periphery 1.0 6.8 -52 0.7 5.8 42
+Notes: No entries for Italy in episodes 1 – 3 as Italy either not yet on gold or not in violation of the gold export point. Sources: Cf. data appendix.
+Bagehot, W. Lombard Street. A Description of the Money Market. 6th ed. London: Kegan Paul,
+1878.
+Bloomfield, A.I. Monetary Policy under the International Gold Standard, 1880-1914. New York:
+Federal Reserve Bank of New York, 1959.
+
+
+39
+Bordo, M.D., and R. MacDonald. "Interest Rate Interactions in the Classical Gold Standard, 1880
+1914: Was there any Monetary Independence?" Journal of Monetary Economics 52 (2005):
+307-27.
+Bordo, M.D., and H. Rockoff. "The Gold Standard as a 'Good Housekeeping Seal of Approval'."
+Journal of Economic History 56 (1996): 389-428.
+Capie, F.H., and A. Webber. A Monetary History of the United Kingdom. 1870-1982. Volume 1.
+Data, sources, and methods. London, New York: Routledge, 1995.
+Contamin, R. "Interdépendences financières et dilemma de politique monétaire: la Banque de
+France entre 1880 et 1913." Revue Economique 54 (2003): 157-80.
+Davutyan, N., and W. Parke. "The Operations of the Bank of England, 1890-1908: A Dynamic
+Probit Approach." Journal of Money, Credit and Banking 27 (1995): 1099-112.
+de Cecco, M. Money and Empire: The International Gold Standard, 1890-1914. Oxford 1974.
+de Jong, A.M. Geschiedenes van de Nederlandsche Bank. 2nd ed. Haarlem1967.
+de Mattia, R. I bilanci degli istituti di emissione italiani dal 1845 al 1936, Rome 1967.
+Denzel, M.A. "The European Bill of Exchange. Its Development from the Middle Ages to 1914." In
+Cashless Payments and Transactions from the Antiquity to 1914, edited by S. Chaudhuri and
+Denzel, M.A., 153-94. Stuttgart: Franz Steiner Verlag, 2008.
+Dutton, J. "The Bank of England and the Rules of the Game under the International Gold Standard:
+New Evidence." In A Retrospective on the Classical Gold Standard, 1821-1931, edited by
+M.D. Bordo and Schwartz, A.J., 173-202. Chicago: Chicago University Press, 1984.
+Eichengreen, B. "Central bank cooperation and exchange rate commitments: the classical and
+interwar gold standards compared." Financial History Review 2 (1995): 99-117.
+———. "Conducting the International Orchestra: Bank of England Leadership under the Classical
+Gold Standard." Journal of International Money and Finance 6 (1987): 5-29.
+———. Golden Fetters. The Gold Standard and the Great Depression. 1919-1939. Oxford: Oxford
+University Press, 1992.
+Eichengreen, B., M. Watson, and R.S. Grossman. "Bank Rate Policy under the Interwar Gold
+Standard: A Dynamic Probit Model." Economic Journal 95 (1985): 725-45.
+Esteves, R., and D. Khoudour-Castéras. "A Fantastic Rain of Gold: European Migrants'
+Remittances and Balance of Payments Adjustment During the Gold Standard Period."
+Journal of Economic History 69 (2009): 951-85.
+
+
+40
+Flandreau, M. "Central Bank Cooperation in Historical Perspective: A Sceptical View." Economic
+History Review 50 (1998).
+Flandreau, M., and J. Komlos. "Core or Periphery? The Credibility of the Austro-Hungarian
+Currency 1867-1913." Journal of European Economic History 31 (2002): 292-320.
+———. "Target Zones in History and Theory: Efficiency, Credibility, and Policy Autonomy."
+Journal of Monetary Economics 53 (2006): 1979-95.
+Fratianni, M., and F. Spinelli. Storia Monetaria d'Italia. Lira e politica monetaria dall'Unità
+all'Unione Europea. 2nd ed. Milan: Mondadori, 2001.
+Giovannini, A. "'Rules of the Game' during the International Gold Standard: England and
+Germany." Journal of International Money and Finance 5 (1986): 467-83.
+Hallwood, C.P., R. MacDonald, and I.W. Marsh. "Credibility and fundamentals: Were the Classical
+and Interwar Gold Standards Well-Behaved Target Zones?" In Modern Perspectives on the
+Gold Standard, edited by T. Bayoumi, Eichengreen, B. and Taylor, M.P., 129-61.
+Cambridge: Cambridge University Press, 1996.
+Hawtrey, R.G. A Century of Bank Rate. 2nd ed. London: Longmans Green & Co., 1962.
+Jeanne, O. "Monetary Policy in England 1893-1914: A Structural VAR Analysis." Explorations in
+Economic History 32 (1995): 302-26.
+Jobst, C. "Market Leader: The Austro-Hungarian Bank and the Making of Foreign Exchange
+Intervention, 1896-1913." European Review of Economic History 13 (2009): 287-318.
+Kauch, P. La Banque Nationale de Belgique. 1850-1918. Brussels: Banque Nationale de Belgique,
+1950.
+Khoudour-Castéras, D. International Adjustment During the Classical Gold Standard: The
+Migration Nexus, Working Paper Chaire Finances Internationales, Science Po. Paris 2005.
+Kindleberger, C.P. Manias, Panics and Crashes. A History of Financial Crises. 5th ed. New York:
+Palgrave Macmillan, 2005.
+Krugman, P.R. "Target Zones and Exchange Rate Dynamics." Quarterly Journal of Economics 106
+(1991): 669-82.
+Lindert, P.H. Key Currencies and Gold. 1900-1913, Princeton 1969.
+Lόpez-Cόrdova, J.E., and C.M. Meissner. "Exchange-Rate Regimes and International Trade:
+Evidence from the Classical Gold Standard Era." American Economic Review 93 (2003):
+344-53.
+
+
+41
+Maddison, A. The World Economy. Historical Statistics. Paris 2003.
+Martín Aceña, P., and J. Reis, eds. Monetary Standards in the Periphery: Paper, Silver, and Gold.
+1854-1933. London, New York: MacMillan Press, St. Martin's Press, 2000.
+Monetary Time Series of Southeastern Europe from the 1870s to 1914. Bank of Greece Working
+Paper Nr. 94. Athens2009.
+Morys, M. "The Classical Gold Standard in the European Periphery: A Case Study of Austria
+Hungary and Italy, 1870-1913." PhD Diss., London School of Economics, 2006.
+Neal, L., and M.D. Weidenmier. "Crises in the Global Economy from Tulips to Today: Contagion
+and Consequences." In Globalization in Historical Perspective, edited by M.D. Bordo,
+Taylor, A.M. and Williamson, J.G., 473-514, 2003.
+Nurkse, R. International currency experience. Lessons of the interwar period. Princeton 1944.
+Obstfeld, M., J.C. Shambaugh, and A.M. Taylor. "The Trilemma in History: Tradeoffs among
+Exchange Rates, Monetary Policies, and Capital Mobility." Review of Economics and
+Statistics 87 (2005): 423-38.
+Pippenger, J. "Bank of England Operations, 1893-1913." In A Retrospective on the Classical Gold
+Standard, 1821-1931, edited by M.D. Bordo and Schwartz, A.J., 203-32.
+Reichsbank. Vergleichende Notenbank-Statistik. Berlin: Reichsdruckerei, 1925.
+Reis, J. "An "Art" and not a "Science"? Central Bank Management in Portugal under the Gold
+Standard, 1863-1887." Economic History Review 60 (2007): 712-41.
+Schneider, J., O. Schwarzer, and P. Schelzer. Statistik der Gold- und Wechselkurse in Deutschland
+und im Ostseeraum, 18. und 19. Jahrhundert. St. Katharinen 1993.
+Schneider, J., O. Schwarzer, and F. Zellfelder. Europäische und nordamerikanische Devisenkurse
+1777-1914. 3 vols. Stuttgart: Steiner, 1991.
+Spinelli, F. Per la storia monetaria dell'Italia. Vol. 2. Turin1990.
+Svensson, L.E.O. "Why Exchange Rate Bands? Monetary Independence In Spite of Fixed
+Exchange Rates." Journal of Monetary Economics 33 (1994): 157-99.
+Tattara, G. "Was Italy Ever on Gold?" In Monetary Standards in the Periphery: Paper, Silver, and
+Gold, 1854-1933, edited by P. Martín Acena and Reis, J., 18-68.
+Tullio, G., and J. Walters. "Was London the Conductor of the International Orchestra, the Second
+Violinist or the Triangle Player?” Scottish Journal of Political Economy 43 (1996): 419-43.

@@ -1,0 +1,244 @@
+European Journal of Political Economy 6 (1990) 181-199. North-Holland
+THE POLITICAL ECONOMY OF GREECE
+An Empirical Analysis of Marxian Economics
+Dimitri PAPADIMITRIOU*
+Bard College, Annandale-on-Hudson, NY 12504, USA
+Accepted for publication March 22, 1990
+The main purpose of this paper is to empirically calculate the Marxian categories of the Greek economy over a twenty-year period (1958-1977). The empirical estimates of both the basic Marxian variables and the fundamental relationships are calculated. Finally, the Marxian results are summarized and contrasted with relevant conventional measures. The results in this paper show a falling rate of prolit along with a simultaneous rise of the organic composition of capital and the rate of surplus-value as these relate to the Greek economy and for the period under consideration.
+1. Introduction
+Marxian economic theory as an analytical foundation can be tested within the context of a number of empirical categories (variables). These categories reflect the fundamental differences between the Marxian and conventional approaches. In recent years, there has been a sustained interest in the empirical verification of Marx, as seen by the contributions of Shaikh, Wolff, Moseley, Sharpe, and others. The common characteristic of these writings is the systematic transformation of the conventional categories found in the National Accounts and input-output tables into the corresponding Marxian variables. This paper follows this line of thought in that it attempts through a transformation procedure to estimate these categories for the Greek economy. Studies on the economy of Greece have, for the most part, concentrated on specific aspects or analyses of particular problems of the economy. The rare exceptions of macroeconomic analysis [Negreponti-Delivanis (198 1); Samaras
+*A different version of this paper was presented at the conference on ‘International Perspectives on Accumulation and Profitability’ at New York University, September 1618, 1988. I am indebted to Anwar Shaikh for his comments, guidance and support. I have also benelited from comments by Fred Moseley, Willi Semmler, E.A. Tonak and the anonymous referees of this journal.
+01762680/90/$03.50 0 199@-Elsevier Science Publishers B.V. (North-Holland)
+
+
+182 D. Papadimitriou, The political economy of Greece
+(1982)] are also limited in their treatment of determining the structure of the economy even within the context of orthodox economic measures. The absence of such studies is attributed mainly to two reasons: first, the difficulty of estimating the extent of the ‘underground’ economy which contributes to significantly underestimating the national income and product magnitudes, and second, the deficiencies and incompatibilities of relevant statistics for some time series. Most of the data used here, were obtained from the official sources of National Accounts and input-output tables neither of which are as detailed as the data of countries such as the U.S. All calculations are expressed in money forms of value and are obtained from the transformation of a standard Leontief input-output system into a Marxian alternate that specifically reflects the Marxian distinction between production and circulation activities of capital. The empirical investigation contained here is limited to the 1958-1977 period since the detailed inputoutput data required for the transformation are available for this period only. The remainder of the paper is divided into three sections. Section 2 provides an overview of the Marxian theoretical foundations and the corresponding measures derived from them. In section 3, the alternate framework is developed from the standard input-output scheme and the empirical calculations are carried out. Finally, section 4 provides a detailed comparison of conventional measures with the Marxian results of section 3.
+2. Theoretical foundations and Marxian categories
+A number of Marxian scholars interested in the empirical verification of Marx’s variables accept the orthodox accounting constructs and identify variables in them, viz., wages, profits, capital-output and wage-profit ratios, with those corresponding to Marxian analysis [Glyn and Sutcliffe (1972); Rowthorn (1976)]. Thus, both the orthodox categories and those of the Marxian tradition become derivatives from the same underlying accounting procedures. Yet, every student of Marx agrees that there are fundamental differences in the theoretical structure of the two analyses; hence, the unqualified use of conventional accounting concepts is questionable [Shaikh (1978)]. In what follows an attempt is made to empirically determine the Marxian categories for the economy of Greece following the approach developed by Shaikh and recently applied in a study of the U.S. economy [Tonak (1984)]. The empirical estimates of the key variables in the Marxian system are presented for the 1958-1977 period. These variables are listed below and classified according to the Marxian notions of ‘value’ and ‘product’.’
+‘All Marxian variables are in italics while the corresponding orthodox variables are not.
+
+
+D. Papadimitriou, The political economy of Greece 183
+value:
+total value (TV) gross value added (G VA) circulating constant capital used up (m) fixed constant capital (c’) variable capital (v) constant capital (c’+ m = c) gross surplus-value (sG) rate of surplus-value (s/u) organic composition of capital (c/v)
+product:
+total product (TP) gross final product (GFP) intermediate use product (u) worker’s consumption (necessary product) (C, or n) gross surplus product (bG)
+The theoretical differences between the Marxian and mainstream analyses require a process of transformation of the tools used within the framework of standard analysis (input-output and National Accounts systems) into a framework of Marxist analysis. The procedure for such transformation is quite complex, especially if it is to maintain accuracy in the ‘mapping between Marxist and I-O categories’ [Shaikh (1985, p. 5)]. It should be noted, however, that the frequency and degree of detail in input-output and National Accounts tables vary from country to country and for this reason, it becomes necessary to modify a procedure intended for general applicability to suit a particular case. Such is the case with the data available for the Greek economy. The orthodox input-output framework is well-known [Leontief (1986)].* The basic differences of the revised input-output scheme concentrate on the partition of economic activities in accordance with the Marxian criterion of productive and unproductive activities and the removal of fictitious elements included in the finance and rental activities necessarily present in the orthodox schemes to insure the required balance of double-entry accounting principle. The partition of activities also necessitates adjustments in the interindustry purchases and sales, gross value added, consumption and gross final demand blocks of the input-output system and each of these in their turn are further adjusted internally, as a result of applying the same criterion of productive and unproductive activities and labor. The conventional elements of the typical input-output model, including the accounting relationships
+‘The standard Leontief input-output configuration contains five components: (1) interindustry flows, (2) value added flows, (3) final demand flows, (4) a labor vector, and (5) a capital vector. In the procedure used in here, only the first three are operational.
+
+
+PRODUCTION (rn = m)
+WAGES (v=W)
+PROFITS (SG=$)
+Year 1960
+STEP 1. Production
+Panel a
+---- TOTAL PRODUCT = TP
+GROSS VALUE
+ADDED (GVA=GVA
+- TOTAL VALUE = TV I
+TOTAL VALUE (TV=TV)
+Fig. 1. Marxian versus I/O standard measures step-by-step graphical procedure (constant 1970 prices in million drachmas).
+
+
+Panel b STEP 2. Production and Trade
+PRODUCTION
+TRADE
+KEY: lsee Panel a I
+Fig. 1 (continued)
+
+
+
+W
+3
+-I
+a
+>
+
+Panel c
+STEP 3. Production, Trade and Finance [without imputations 1
+PR
+PRODUCTION
+TRADE
+FINANCE
+WAGES
+PROFITS
+0 D U CT
+KEY: ISee Panel a 1
+ross Final Tolal roduct Product BP TP
+.48186.7 232086.2
+Fig. 1 (continued)
+
+
+D. Papadimitriou, The political economy of Greece 187
+recast in the Marxian categories and relationships, are preserved in the modified format of the model. Thus, the vertical sum of inter-industry inputs, plus variable capital, plus surplus output, equals gross output. Also the horizontal relationship of the inter-industry outputs, plus personal consumption, plus surplus product equals gross product. Subtracting the interindustry transactions from each of these two relationships results in the equality between value added (vertical relation), and final use (horizontal relation). The partition of the standard input-output framework into its productive and unproductive segments along with the necessary adjustments to remove the fictitious elements, yields the Marxian framework within which the alternate categories are calculated. The procedure for the transformation of the orthodox scheme into the Marxian configuration, as it is applied for the partitioning of the Greek economy specifically, allowing for the calculation of the corresponding Marxian categories, is presented in a step-by-step transformation graphically in fig. 1. Once the transformation of the standard input-output accounting system has been performed, the calculation of the Marxian variables can be easily carried out. Thus, the values of(m), (v), (sG) and ultimately the revised (GI/A) are computed and balanced with (u), (n), (bG) and the revised (GFP) respectively. The balance of the sub-totals necessarily render the grand totals of (TV) and (TP) equal. The categories of c, 0 and s are required to construct three fundamental quantitative relationships of Marxian analysis. The organic composition of capital (OCC=c/v), the rate of surplus-value (RSV=s/v=a/n). and the rate of profit (r=s/c+ v= RSV/(l +OCC)). These relationships form the core of the Marxian analysis; they are not and cannot be considered identical to the orthodox relationships of capital-output ratio, profit-wage ratio and the rate of profit as these are determined within the conventional methodology [Shaikh (1978)]. The issue of productive and unproductive labor distinction is most significant in the concretization and computation of variable capital in the pure Marxian sense. Defining productive labor has been subjected to various methodological approaches3 Within the Marxian tradition the theoretical foundations are firm; productive labor must produce and reproduce surplus-value, unproductive labor produces no surplus-value but, in fact, decreases it. Although there are many labor activities that may be necessary, they nevertheless are unproductive. Certainly activities of searching for buyers, keeping the books, accounts and correspondence ‘are not incurred in producing the use value of commodities, but in realising their value. They are pure costs of calculation’ [Marx, Capital (vol. III, p. 289)]. In
+3To be sure the literature on the distinction of productive and unproductive labor abounds. See for example the writings of Coontz (1965), Gough (1972), O’Connor (1974), Driver (1980) and others.
+
+
+188 D. Papadimitriou, The political economy of Greece
+addition even though the State’s activities include productive activities, there is a large number of them that are unproductive despite their necessity in the complex system of advanced societies. 4 The distribution of labor employment into productive and unproductive uses has far-reaching implications in the working of a complex economy, in that an uneven distribution at the expense of productive activities can upset the process of expanded reproduction and accumulation, the most central feature of capitalism as a system of production [Shaikh (1980)]. The significance of how labor is distinguished and classified is paramount in setting a ‘blue-print’ for the correspondence of Marxist categories with official data. Although official statistics tend to be similar among national economies, adjustments are usually required to reflect unique features of a particular economy. In the case of Greece, the distribution of labor and the basis for such distribution are discussed below. In general, wages for labor expended on unproductive activities (circulation activities) within the sphere of production are not part of variable capital but part of surplus-value. Variable capital then is equal to wages of workers in productive activities (u= Wp). Surplus-value constitutes the remainder of gross value added after the exclusion of variable capital (sG= Cl/A-u). Even though Marx distinguishes surplus-value in absolute and relative terms, the level of abstraction employed here considers surplus-value in its aggregate form and not its subdivisions. Finally, constant capital is the aggregate of fixed and circulating capital. The circulating fraction is determined simply from the inter-industry flows (m), while the fixed part of constant capital (c’) presents a difficulty in its calculation, especially for Greece, since no data exist on the origin of the capital stock. The input-output tables include in the final demand block the money-form of gross investment and the change of stocks, but in order to accurately determine c’, it is necessary to analyze the relevant data given in the National Accounts.
+3. The structure of the Greek economy
+The input-output tables of the Greek economy are available for the 1958-1977 period in both current and constant 1970 prices. The tables consist of 35 business sectors, 6 final demand categories and 3 value added categories. The rental of dwellings sector has no labor content in the value added block. The final demand block consists of 2 consumption categories (private and public), 2 investment categories (fixed and change in stocks) and the two categories of foreign trade (exports and imports), while the value added block contains information on wages and salaries, indirect taxes net of
+4The role of the State is another issue of much controversy especially among Marxian and Neo-Ricardian writers.
+
+
+D. Papadimitriou, The political economy of Greece 189
+subsidies and other value added. We distinguish sectors as productive or unproductive as follows: productive:
+agriculture, mining and quarrying, manufacturing, utilities (electricity, gas, water), construction, transportation and storage, communications, miscellaneous services,
+unproductive:
+wholesale and retail trade, banking, insurance, real estate, rental of dwellings, public administration, defense (public services).
+The tables in the National Accounts include the health and educational services sectors, irrespective of whether these are privately provided or under the auspices of the State in the miscellaneous services sector. In contrast, the input-output tables distinguish these sectors as private and public. These, then, when provided privately are included in the input-output sector listed as other services. On the other hand, when these activities are under the tutelage of the State, then they are correspondingly included in the sector listed as public services. In terms of the Marxian distinction of whether these are productive or unproductive sectors, the determination can be based on the criterion of surplus-value creation. Then, and in accord with Marx, the private enterprises employing labor for the creation of surplus-value are productive; those of the State are assumed not to create surplus-value and are considered unproductive. Under this criterion, the other services sector is listed in the productive activities category and the public services sector in the unproductive category, respectively. The distinction in the case of the Greek economy, however, is not as simple as it appears. A careful analysis of the entire State sector will show that some activities can be considered ‘industrial’ and therefore may be in the production sphere and/or in the circulation sphere. In addition we need to decide how to treat the general State activities for the maintenance and reproduction of the social order: police, judicial, defense, public administration, etc., which, although necessary, are not productive. It is necessary therefore to obtain detailed data on the State activities5 which are not included in the standard input-output
+‘The procedure and the data required for such an analysis of the State have been carefully outlined in Shaikh (1978, 1985). In addition an empirical study on the State was recently completed for the U.S. economy [Tonak (1984)].
+
+
+190 D. Papadimitriou, The political economy of Greece
+models. Information is usually ascertained from the National Accounts as part of the State revenues and expenditures. In this study, however, because of insufficient data we have assumed that the public services sector is productive. This assumption, given the crudity and level of aggregation of the data is unlikely to cause significantly misleading estimates. The approximation of the actual values is obtained from the transformation of the standard input-output configuration into the Marxian inputoutput framework. In fig. 1, the procedure applied in each step transforms the values of the orthodox categories into the Marxian correspondents for the sample year 1960. The Marxian variables (m), (u), (sG) take new numerical values at each step of the procedure (shown in panels a, b, and c of fig. 1) with the ultimate values determined at the last and summary step. Once the last step (step 3 in this case) is completed, the values of the Marxian variables are determined. The calculated values for (v) are further adjusted by extracting the salaries of corporate officers and those of other workers involved in the commercial activities of the productive sectors, i.e., salespersons, traders, etc., which are considered unproductive, even though they are performed within the sphere of production. The dificulty, however, in calculating these types of data is enormous and only a very rough approximation can be made. Data in the Survey of Labour Force for 1983, computes the executive and senior administrative personnel for 1961, 1971 and 1983 and gives the sectoral distribution of personnel for 1983. In 1983 the senior executives were primarily concentrated in the manufacturing (approx. 26x), construction (1 l:,), banking and insurance (11%) and other services sectors (52%). Assuming the distribution was the same in 1961 and 1971 the number of individuals for each sector was computed for these years.6 The 1971 estimates were subsequently contrasted with estimates in a study of distribution of income in Greece for 1973 (Athanasiou). Income class estimates for salaried employees in the manufacturing and services sectors were compared based on the following assumptions: (i) corporate officers occupy the highest classes of income, and (ii) salespersons, traders, etc., are evenly distributed across all classes of income. On the basis of these assumptions, I estimated the 1973 salaries of senior level executives, excluding those in the trade, banking and insurance sectors, to be $731.3 million drachmas, while the estimate for salespersons, traders, etc., in the productive sectors amounted to 710.1 million drachmas, both measured in 1973 prices. Deducting these figures from total wages for productive (Wp) activities for 1973 (130,908 million drachmas) yields Wp’ = 124,466.6 million drachmas. If it is assumed that the ratio of Wp’/Wp (=0.9507) remained constant
+bThis assumption would seem to contradict the official data showing an increase of 270% in the number of individuals for the category of executive and administrative personnel, but what we are assuming here is first, that the large increase took place after 1974 and second, that the sectoral percent distribution remain stable during the largest part of the 1958-1977 period. Thus, the estimates of the Marxian categories are more conservative.
+
+
+D. Papadimitriou, The political economy of Greece 191
+over the entire period 1958-1977, in current and constant 1970 prices, all values of the Marxian categories calculated under the first approximation procedure can be adjusted to reflect the further distinction of productive and unproductive labor within the productive sectors. Constant capital, as we have mentioned earlier, is comprised of fixed and circulating capital. Circulating constant capital is determined from the revised input-output scheme whose values are equal to m. Fixed constant capital (c’), however, presents an unusually difficult problem, especially for the Greek economy, since information about its productive and unproductive nature is required. Only capital invested in the means of production can be considered; capital invested in the means of circulation cannot [Moseley (n.d., pp. &lo)]. Empirical studies estimating constant capital within the Marxian framework have been attempted, primarily for the U.S. economy, but with very different results and indeed opposite conclusions [Moseley (n.d.); Wolff (1979)]. In this study, I follow for the most part the methodological procedure used previously by Moseley, but with some modifications because of insufficient data for the economy of Greece. Following Moseley and adjusting for these inadequacies I calculate the fixed constant capital as follows: Fixed Constant Capital = Fixed Constant Bus. Capital(Kbus) = Total Capital Stock (K) -Capital Residential Stock (Kres) -Capital Stock for Government unproductive activities (Kgov). As was mentioned earlier, some government activities, e.g., public administration, defense, etc., are not considered surplus producing and therefore fixed capital invested in them is subtracted. On the other hand, fixed constant business capital, as shown in the relationship above, is assumed to be all productive capital, i.e., no provision to adjust for unproductive business capital invested in office, computing and accounting machines is made since such data simply do not exist. All three relationships show stable trends for the economy of Greece. The organic composition of capital is increasing for the entire 1958-1977 period, although the rate for 1977 is lower than the corresponding rates of 1975 and 1976, most likely due to the provisional nature of the data in the original input-output table for that year. Similarly, the rate of surplus-value follows the same increasing trend but the values show the presence of some instability. Finally, the rate of profit shows a declining trend, a ‘tendency to fall’, for the entire 1958-1977 period. All these trends can be seen clearly in the illustrations of figs. 2 and 3.’ It is important to note that the transformation of the orthodox values into the corresponding Marxian categories requires that two other adjustments be considered and taken into account .’ Both adjustments involve imputed estimates for rents and finance charges. However, such adjustments to the
+‘Data and detailed calculations on which results are based are available on request. *These adjustments are considered in detail in Shaikh (1978, 1985).
+J.Pol E B
+
+
+192 D. Papadimitriou, The political economy of Greece
+trillion drs.
+index
+1.4
+1.3
+12
+1.1
+09
+08
+0.7
+06
+05
+04
+03
+02
+01
+0
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+a0
+70
+”
+, ’ ( I 1 I ’ I ’ r ’ f 1T I ’ 14 57 59 61 63 65 67 69 71 73 75 77
+Fig. 2. Marxian categories.
+57 59' 61 63 65 67 69 71 73 75 77
+Fig. 3. Marxian relationships.
+
+
+D. Papadimitriou, The political economy of Greece 193
+revised input-output table are not possible in this empirical investigation’ since data do not exist. Neither the standard input-output tables nor the National Accounts for Greece provide this information and the estimates for rental transactions available for a single year (1973) are extremely crude and very unreliable. However, the exclusion of these two adjustments does not, we believe, materially affect our estimates. The trends shown in figs. 2 and 3 might be attributed to the economy operating at varying levels of capacity utilization during the same period; hence, raising the possibility of underconsumption [Sweezy (1966, pp. 162186)]. In principle, a decreasing rate of capacity utilization (U) can account for a falling rate of profit and a rising organic composition, since both are dependent on U.9 Data relating to capacity utilization measures for the economy of Greece are either unreliable or deficient [Negreponti-Delivanis (1981)]; it is nevertheless possible to construct a crude measure of U using the conventional method of the Wharton Index of Capacity Utilization [Klein and Summers (1966)]. The Wharton measure of capacity can be determined by a simple procedure of deductive calculations based on the maximum output attained for peak years over a certain period. Output at peak years is taken as capacity output which is assumed to grow linearly along a straight-line path between successive peaks. For the years after the last peak, capacity is assumed to follow the same growth path observed before that peak and in such years where the actual values exceed the trend, the actual values become the peaks. Hence, the rate of utilization does not exceed 100, and it is 100 at every observed peak. In determining a capacity measure for an economy as a whole, industries are aggregated using value added weights. Capacity output can be read from the capacity output frontier, while the utilization rate (U) is equal to the ratio of actual output to capacity output [Perry (1973, pp. 708-710); Hertzberg et al. (1974, p. 55)]. The actual output for the Greek economy, measured in terms of GDP at constant 1970 prices, is shown in fig. 4. Notice that although the real GDP curve is fairly smooth, we can still identify years 1958, 1961, 1965, 1969, 1973 and 1976 as peak years within the twenty-year period, 1958-1977. Capacity output estimates can be read off the capacity output frontier shown in fig. 4. The adjusted rates r0 and OCCa are contrasted with the actual rates r and OCC in fig. 5. Notice that the adjusted rates follow similar trends, viz., a falling rate of profit with a simultaneous rise of the organic composition of capital. There are obvious drawbacks in applying the Wharton methodology for calculating capacity utilization, namely, its treatment of each peak output as
+‘Since r.,=r/U, where r, is the adjusted rate of profit and OCCa=OCC x U, where OCCa is the adjusted OCC.
+
+
+194 D. Papadimitriou, The political economy of Greece
+billion drs.
+index
+440
+420
+400
+380
+360
+340
+320
+300
+280
+260
+240
+220
+200
+180
+160
+140
+120
+1/
+capacity output frontier (GDPcap) J
+p/z
+,, actual GDP
+I / I / I I I I / I, I I I 57 59 61 63 65 67 69 71 73 75 77
+Fig. 4. Actual and capacity measures of GDP.
+190
+70-j ,,(,,,,,,,(,,(/,,
+57 59 61 63 65 67 69 71 73 75 77
+Fig. 5. Marxian measures: actual versus capacity adjusted.
+
+
+D. Papadimitriou, The political economy of Greece 195
+a point of full capacity. However, crude as these measures may be, they nevertheless show that for the case of Greece no incidence of Sweezy’s undercomposition can be inferred.
+4. Summary and conclusions
+In this paper, the attempt to estimate the Marxian measures of the Greek economy for the period 1958-1977 has shown that the trends of the Marxian categories of economic variables over the twenty-year period (1958-1977) deserve serious consideration. For the empirical evidence shows that there is a tendency for the rate of profit to fall while at the same time both the rate of surplus-value and the organic composition of capital tend to rise. The money value of the mass of profit or surplus-value over the twenty-year period under examination increased by approximately 233% , while the rate of profit decreased by about 28%. At the same time, the value of constant capital increased approximately 390%, while that of variable capital increased 181x, all measured in constant 1970 prices. The results differ substantially from those estimated in accordance with the orthodox tradition. As was indicated earlier the basic Marxian categories can be compared with the orthodox ones. In what follows, such a comparison is taken up. We begin our comparative analysis with the Marxian category of the rate of surplus-value and that of the profit/wage ratio of the orthodox tradition. In orthodox terms, the Marxian category of the rate of surplus-value is equivalent to the ratio of ‘gross profit on sales’ (n*=s/v) over the ‘wages and salaries of the production workers’ (Wp), while the profit-wage ratio usually refers to either ‘enterprise profit’ net of indirect taxes (7~)over the total wage bill (W = Wp+ W,) or pre-tax ‘enterprise profit’ (p) over the total wage bill. The estimated values of the rate of surplus-value (s/u) and the values of the profit/wage ratios (Z/W or p/W) are tabulated in table 1. These are also graphically depicted in fig. 6, in which it can be observed that all three ratios exhibit upward trends. Over the twenty-year period (1958-1977), the rate of surplus-value rises from 244% in 1958 to 317% in 1976, while correspondingly, the net profit-wage ratio rises from 166 to 185’$ and the pre-tax profit/wage ratio from 193 to 222%. In 1977 all ratios drop considerably and I believe this can be attributed to the provisional nature of the year’s statistical data. More important, however, these results suggest that for the Greek economy the ‘profit-squeeze’ hypothesis calculated in either form, n/W or p/W, would not be easy to validate, even on orthodox grounds. The second comparison involves the assumed correspondence between the organic composition of capital (c/v) and the capital-output ratio (K/Q).”
+“The assumed trend correspondence between the organic composition of capital and the capital-output ratio has been suggested by Glyn and Sutcliffe (1972) who associated a constant organic composition of capital with the stability of the capital-output ratio.
+
+
+196 D. Papadimitriou, The political economy of Greece
+Table 1
+Conventional measures versus Marxian results - Greek economy 1958-1977.
+Year n/w P/W s/o WQ 0 clv+s
+1958 1.66 1.93 1959 1.67 1.93 1960 1.57 1.85 1961 1.68 1.97 1962 1.59 1.90 1963 1.68 2.00 1964 1.60 1.93 1965 1.57 1.90 1966 1.53 1.88 1967 1.57 1.94 1968 1.53 1.92 1969 1.57 1.98 1970 1.64 2.06 1971 1.65 2.05 1972 1.68 2.07 1973 1.72 2.10 1974 1.78 2.10 1975 1.83 2.21 1976 1.85 2.22 1977 1.77 2.14
+2.44 2.44 2.35 2.50 2.43 2.57 2.46 2.44 2.41 2.51 2.52 2.61 2.74 2.82 2.79 2.87 2.95 3.11 3.17 2.88
+2.53 2.64 2.78 2.72 2.94 2.90 2.95 2.96 3.06 3.17 3.28 3.30 3.32 3.36 3.39 3.43 3.72 3.76 3.77 3.89
+6.91 7.08 7.16 7.39 7.65 7.96 7.95 7.99 8.10 8.51 8.64 8.87 9.35 9.96 9.77 10.34 11.58 12.21 12.57 11.99
+2.01 2.06 2.14 2.11 2.23 2.23 2.30 2.32 2.37 2.42 2.46 2.46 2.50 2.61 2.58 2.67 2.93 2.97 3.01 3.09
+The estimated values of the organic composition of capital and those of the capital-output ratio calculated on the basis of conventional measures, both unadjusted for capacity utilization are shown in table 1. In addition, table 1 includes the ratio of [c/(u+s)] which has been identified in some writings as the proper measure for the organic composition of capital.’
+
+
+D. Papadimitriou, The political economy of Greece 197
+3.1 
+3
+2.9 ratio 2.0 27
+2.6 
+2.5 
+2.4 -I
+23
+2.2 2.1 
+2
+19
+la
+17
+1 6 -
+/
+, , ,I ,, , , ,
+57 59 61 63 65 67 69 71 73 75 77
+Fig. 6. Profit-wage ratios versus rate of surplus-value.
+13
+12
+11
+ratio IO
+9
+8
+7
+59 61 63 65 67 69 71 73 75 77
+Fig. 7. Capital-output ratio versus organic composition of capital.
+
+
+198 D. Papadimitriou, The political economy of Greece
+. . . a rising rate of exploitation coupled with a rising organic composition manifests itself as a falling rate of profit’ [Shaikh (1978, p. 45) emphasis in original]. This is certainly consistent, at least for the economy of Greece, as the empirical results depicted graphically in figs. 3 and 5, testify. There, we see that over a twenty-year period, the rate of surplus-value is rising along with a simultaneous rise in the organic composition of capital which manifests itself in a falling rate of profit, the latter falling by almost 30%. A third comparison can be made to determine productivity measures of labor employed in ‘productive’ activities as opposed to the orthodox measure of productivity of the labor force in general. Since reliable data on the Greek labor force is only available for Census years, we restrict our estimates on productivities to 1961 and 1971, both Census years. Defining the ratio q= TPIL, and y= GDP/N, we obtain
+Year q
+1961 82.72 1971 198.28
+Y 4/Y
+43.80 1.89 98.98 2.00
+This shows rising trends of both ratios. Further, there appears to be an increase in the productivity of labor in productive activities (q) in relation to the labor productivity of the entire economy (y) as seen by the increase in the ratio of (q/y) from 1961 to 1971. Even though these measures can be contested as limited in scope, the view that low labor productivity as a reason for the lack of ‘investing animal spirits’ by Greek industrialists can nevertheless be questioned. The above comparisons show quite clearly that the differences in theory between the orthodox and Marxian traditions are also reflected in practice. This is not surprising since ‘the beginning is different, the method is different,
+the categories are different, the very purpose is different’ [Shaikh (1978,
+P. 111.
+References
+Athanasiou, L., 1984, The distribution of income in Greece (Centre of Planning and Economic Research, Athens) (in Greek). Bottomore, T. et al., 1983, A dictionary of Marxist thought (Harvard University Press, Cambridge, MA). Coon@ S., 1965, Pr’oductive labour and effective demand (Routledge & Kegan Paul, London). Driver, C., 1980, Productive and unproductive labour: Uses and limitations of the concept, in: Thames Papers in Political Economy. Glvn. A. and B. Sutcliffe. 1972. Cauitalism in crisis (Pantheon Books, New York). Gdugh, I., 1979, The pohtical economy of the welfare state (Macmillan Press, London). Greek Ministry of Coordination, National accounts of Greece 1958-1977, nos. 23 and 25, Athens. Greek Ministry of National Economy, Provisional national accounts of Greece, 1982, Athens. Hertzberg, M. et al., 1974, The utilization of manufacturing capacity, 1965-1973, in: Survey of current business (U.S. Department of Commerce, Washington, DC).
+
+
+D. Papadimitriou, The political economy of Greece 199
+Klein, L. and R. Summers, 1966, The Wharton index of capacity utilization (University of Pennsylvania, Philadelphia). Koutsoyiannis, A., 1967, Input-output table of the Greek economy: Year 1960 (Centre of Planning and Economic Research, Athens). Krengel, R. and D. Mertens, 1967, Fixed capital stock and future investment requirements in Greek manufacturing (Centre of Planning and Economic Research, Athens). Leontief, W., 1986, Input-output economics (Oxford University Press, New York). Marx, K., 1967, Capital, Vol. III (International Publishers, New York). Moselev. F.. 1982. The rate of surplus-value in the United States. 1947-1977. Unoublished Ph.D. the& (University of Massachusetts).
+L
+Moseley, F., n.d., Estimates of the composition of capital in the postwar U.S. economy, Unpublished paper. Mylonas, N.A., 1980, Analytical input-output tables of the Greek economy, Year I970 (Centre of Planning and Economic Research, Athens). National Statistical Service of Greece, Statistical yearbook (Annual issues). National Statistical Service of Greece, 1975, Survey of household expenditures, 1974 (Athens). National Statistical Service of Greece. 1982, Annual industrial survey for the vear 1977 (Athens).
+National Statistical Service of Greece, 1984, Survey of labour force for the year 1983 (Athens). ’ National Statistical Service of Greece, 1984, Statistics on construction activity, 1977-1982 (Athens). Negreponti-Delivanis, M., 1981, Analysis of the Greek economy (Papazisis Publications, Athens) (in Greek). O’Connor, J., 1973, The fiscal crisis of the state (St. Martin’s Press, New York). Perry, G., 1973, Capacity in manufacturing, in: Brookings Papers on Economic Activity. Rowthorn, B., 1976, Capitalism, conflict and inflation (Lawrence & Wishart, London). Samaras, Y., 1982, State and capital in Greece (Sichroni Epohi, Athens) (in Greek). Shaikh, A., 1978, National income accounts and Marxian categories, Unpublished paper. Shaikh, A., 1980, Towards a critique of Keynesian theory on the role of the state, Unpublished paper. Shaikh, A. et al., 1985, Marxist categories and orthodox economic accounts: Theoretical correspondence and empirical results, Report (Hamburg Institute, FRG). Sharpe, D.A., 1982, The structure of the Canadian economy: A Marxian input-output analysis, 1961-1976, Unpublished Ph.D. dissertation (McGill University). Skountzos, Th., 1980, Structural changes in the Greek economy: Intertemporal analysis in an input-output framework (Centre of Planning and Economic Research, Athens). Skountzos, Th. and G.S. Mattheos, 1980, Input-output tables of the Greek economy, 1958-1977 (Centre of Planning and Economic Research, Athens). Statistical Office of the European Communities, 1981, 1984, Eurostat: National accounts (Office for Official Publications of the European Communities, Luxembourg). Sweezy, P., 1968, The theory of capitalist development (Monthly Review Press, New York). Tonak, E.A., 1984, A conceptualization of state revenues and expenditures: U.S. 1952-1980, Unpublished Ph.D dissertation (New School for Social Research). Wolff, E.N., 1977, Unproductive labour and the rate of surplus-value in the United States. in: P. Zarembka, ed., Research in political economy (JAI Press, Greenwich). Wolff, E.N., 1979, The rate of surplus-value, the organic composition, and the general rate of profit in the U.S. economy, American Economic Review 69, 3299341.

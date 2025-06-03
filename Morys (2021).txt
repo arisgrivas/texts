@@ -1,0 +1,572 @@
+European Review of Economic History, 25, 106–136 © The Author(s) 2020. Published by Oxford University Press on behalf of the European Historical Economics Society. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com doi:10.1093/ereh/heaa006 Advance Access Publication Date: May 19, 2020
+The gold standard, fiscal dominance and
+financial supervision in Greece and South-East
+Europe, 1841–1939
+M A T T H I A S M O R Y S*
+*Department of Economics and Related Studies, University of York, UK
+We add a historical and regional dimension to the debate on the Greek debt crisis by analysing repeated cycles of entry and exit from the gold standard, government default, and financial supervision for four South-East European countries from political independence to World War II. The prevailing pattern of fiscal dominance was broken only under financial supervision, when conditionality scaled back the treasury’s influence; only then were central banks able to stabilize their exchange rates. A political economy analysis for Greece finds that financial supervision was politically acceptable as it made successfully adhering to gold more likely in the view of contemporaries.
+1. Introduction
+The Greek financial crisis has exposed serious economic fragilities: a debt-to-GDP ratio of 170 percent, a dangerous bank-sovereign embrace, and a peak-to-trough decline of 25 percent with only a meagre rebound. In tandem with the process of weakening economic data, politics has become more difficult to navigate and is torn between creditor demands for structural improvements and domestic reform fatigue. What makes monetary union membership so difficult for Greece? What can the country do to successfully adhere to the euro? To be sure, no conclusive answer can be gained by looking at the past alone. Yet completely ignoring the evidence of earlier periods is also unwarranted. The paper aims to provide a historical dimension to the current debate by studying the first century of modern Greek monetary history from the foundation of the National Bank of Greece (NBG) in 1841 to World War II. The main problem was, not unlike today, balancing the budget. Rather than reforming taxation, persistent budget deficits were either monetised or financed through bond markets. Both strategies came at a price. Strong reliance on seigniorage meant fiscal policy was inconsistent with the gold standard paradigm (Bordo and Kydland 1995). Greece suffered from fiscal dominance (a monetary policy subjugated to the treasury’s demands) as did Italy (Fratianni and Spinelli 2001) and Spain (Sabaté et al. 2015), with similar consequences for its exchange rate. Financing deficits through bond issuance also had its pitfalls, as the scarcity of domestic savings implied external dependence (Reinhart and Trebesch 2015). High levels of foreign debt eventually resulted in financial supervision, by which creditors took control of fiscal policy, either following default (International Financial Control agreement of 1898) or in an attempt to avoid future debt repudiation (League of Nations loan-cum-conditionality agreement of 1928).
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 107
+Financial supervision was ambivalent. While not popular with policymakers, the effective delegation of fiscal policy to the country’s creditors interrupted the prevailing pattern of fiscal dominance: (modest) budget surpluses began to emerge, allowing the central bank to conduct a rule-based monetary policy and join the gold standard (in 1910 and 1928, respectively). Financial supervision enabled the country to achieve its long-standing objective of exchangerate stabilisation (Dritsas 1999, Lazaretou 2005). This paper makes an institutionalist argument: if a country with a pattern of fiscal dominance joins a system of fixed exchange rates, accepting the interest rate constraint implied by the macroeconomic trilemma might not be sufficient to ensure long-term membership. The long record of Greece suggests that this can only be achieved if both monetary and fiscal policy is effectively constrained. As such fiscal restraint historically often was the result of financial supervision, our argument builds on the recent literature on financial supervision which has emphasized its positive aspects (Mitchener and Weidenmier 2010, Tuncer 2015). Was the loss of sovereignty a price worth paying for gold standard membership? Some Greek scholars have been sympathetic to this view (Pepelasis Minoglou 1993, Lazaretou 2005: 208), though definite answers are more difficult to come by with, as political preferences inevitably come into play. Yet analysing the political economy of the past might entail insight for today. What were the factors that made the country accept such far-reaching constraints? The issues analysed for Greece were equally pertinent for Romania, Serbia/Yugoslavia and Bulgaria: a pattern of fiscal dominance which sat uneasily with the determination to join gold; and financial supervision which played a crucial role in fiscal consolidation and exchange-rate stabilisation. Neither fiscal dominance nor financial supervision were uncommon at the time (Tuncer 2015, Flores 2020); yet South-East Europe (SEE) was unique in linking international financial control and exchange-rate stabilisation as a quid pro quo: a deliberate strategy from international creditors and domestic governments to win over public opinion and make the “foreign intrusion” more acceptable. Section 2 shows that SEE followed the gold standard only for brief periods and points to weaknesses while adhering to gold. Section 3 analyses the main themes: when and why did the SEE countries decide to join gold, and how did the constant need for seigniorage prevent implementation? What was the relationship between seigniorage and capital imports, and what was the role of international financial control? Section 4 tests the fiscal dominance hypothesis: did the SEE countries suffer from fiscal dominance and was this pattern interrupted during periods of financial supervision? Section 5 discusses potential costs of financial supervision, as measured by reduced economic growth and negative price level developments due to restrictive monetary and fiscal policies. Section 6 analyses the political economy for the case of Greece: what explains the preference for fixed exchange rates, and how did this shape views on financial supervision?
+2. A troubled track record: fixed exchange-rates in SEE 1870s–1939
+2.1. Length of adherence
+Table 1 shows the duration of gold standard adherence for 24 European countries. For the Classical Gold Standard (1870s–1914), no distinction is made between de jure adherence (convertibility of bank notes into gold) and de facto adherence (maintaining the exchange-rate within a +/− 2 percent band to de jure gold standard countries), as the former was practised only by a small number of countries (Morys 2013). The distinction became important in
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+108 European Review of Economic History
+Table 1. Gold standard adherence of 24 European countries, 1870–1936
+Classical gold standard Depreciation
+interwar
+parity
+compared
+to pre-war
+parity
+Interwar gold standard
+Exchange
+rate
+stabilisation
+(de facto or
+de jure)
+End of gold
+standard
+Duration
+on gold
+Exchange-rate
+stabilisation
+End of gold
+standard
+Duration on
+gold
+De
+facto
+De
+jure
+By means
+of capital
+controls
+By formal
+suspension or
+devaluation
+De
+facto
+De
+jure
+South-Eastern Europe (4 countries)
+Bulgaria 01/1906 09/1912 6y 9m 26.71 05/1924 12/1928 10/1931 n.a. 7y 6m 2y11m
+Greece 01/1885 09/1885 9m 01/1927 05/1928 09/1931 04/1932 5y 4m 4y 0m
+01/1910 06/1914 4y 6m 14.87
+Romania 01/1890 11/1912 22y 11m 32.26 03/1927 02/1929 10/1931 n.a. 4y 8m 2y 9m
+Serbia/Yugosl. 07/1909 09/1912 3y 3m 10.96 07/1925 05/1931 10/1931 01/1935 6y 4m 6m
+Average 9y 6m Average 5y 11m 2y 6m
+Western Europe (7 countries)
+Austria 01/1896 07/1914 18y 7m n.a. 10/1922 12/1924 10/1931 04/1933 9y 1m 7y 1m
+Belgium 09/1873 07/1914 40y 11m 6.94 10/1926 10/1926 03/1935 03/1935 8y 6m 8y 6m
+France 09/1873 07/1914 40y 11m 4.93 12/1926 06/1928 09/1936 9y 10m 8y 4m
+Germany 07/1873 07/1914 41y 1m n.a. 09/1924 08/1924 07/1931 n.a. 6y 9m 7y
+Netherl. 1873 07/1914 41y 1.00 11/1924 04/1925 09/1936 11y 11m 11y 6m
+UK 01/1870 07/1914 44y 7m 1.00 01/1925 05/1925 09/1931 6y 9m 6y 5m
+Switzerl. 01/1874 07/1914 40y 7m 1.00 11/1924 06/1925 09/1936 11y 11m 11y 4m
+Average 38y 3m Average 9y 3m 8y 7m
+(Continued)
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 109
+Table 1. Continued
+Classical gold standard Depreciation
+interwar
+parity
+compared
+to pre-war
+parity
+Interwar gold standard
+Exchange
+rate
+stabilisation
+(de facto or
+de jure)
+End of gold
+standard
+Duration
+on gold
+Exchange-rate
+stabilisation
+End of gold
+standard
+Duration on
+gold
+De
+facto
+De
+jure
+By means
+of capital
+controls
+By formal
+suspension or
+devaluation
+De
+facto
+De
+jure
+Southern Europe (2 countries)
+Italy 1883 1891 8y 07/1927 12/1927 05/1934 09/1936 6y 11m 6y 6m
+1904 07/1914 10y 7m 3.67
+Portugal 1870 1891 21y 24.30 06/1928 06/1931 10/1931 10/1931 3y 5m 5m
+Average 19y 5m Average 5y 2m 3y 6m
+Nordic countries (4 countries)
+Denmark 1873 07/1914 41y 1.00 06/1926 01/1927 09/1931 5y 4m 4y 9m
+Finland 1878 07/1914 36y 7.66 11/1923 12/1925 10/1931 8y 5y 11m
+Norway 1873 07/1914 41y 1.00 09/1927 05/1928 09/1931 4y 1m 3y 5m
+Sweden 1873 07/1914 41y 1.00 01/1922 04/1924 09/1931 9y 9m 7y 6m
+Average 40y Average 6y 10m 5y 5m
+Central and Eastern Europe (pre-war: 1 country; interwar: 6 countries)
+Russia 1894 07/1914 20y 7 m
+Czechoslovakia 6.84 03/1923 03/1925 10/1931 02/1934 8y 8m 6y 8m
+Estonia n.a. 12/1924 01/1928 11/1931 06/1933 7y 3y 11m
+Hungary n.a. 01/1925 04/1925 07/1931 6y 7m 6y 4m
+Latvia n.a. 11/1922 08/1922 10/1931 9y 9y 3m
+Lithuania n.a. 01/1922 10/1935 13y 10m
+Poland n.a. 10/1926 10/1927 04/1936 6y 7m 5y 7m
+Average 20y 7m Average 8y 7m 6y 4m
+Sources: League of Nations Statistical Yearbooks 1927, 1929, 1932/33, 1935/36 and 1938/39, Bernanke and James (2000: 74), Eichengreen (1992: 188–191), Flandreau and Zumer
+(2004), Wandschneider (2008, 155), Straumann (2010, 25, 74, 78), Morys (2014, 44–49).
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+110 European Review of Economic History
+the 1920s, when countries stabilised their exchange-rate first and subsequently “legalised” it by declaring the prevailing exchange-rate the new parity. de facto stabilisation meant finding a “sustainable” exchange rate, whereas de jure stabilisation required accumulating reserves sufficient to defend the new level. The Classical Gold Standard was followed continuously by the Western European and the Nordic countries. Countries in Southern Europe, SEE and Russia tended to join only after 1890, potentially as a result of better macroeconomic performance (Flandreau et al. 1998) or higher cyclical integration with the core economies (Morys and Ivanov 2015). Yet while all three peripheries adhered only briefly, SEE exhibits the shortest duration (average: 9.6 years). Bulgaria, Serbia and Greece show the three shortest spells, stabilising their exchange rates only in 1906, 1909 and 1910, respectively. Romania stands out with 22 years from 1890 to 1912. SEE also shows the shortest interwar adherence (average: 2.5 years), followed by Southern Europe. If the benchmark is exchange-rate stabilisation instead of convertibility, both regions change positions, but on both accounts the two regions trail Western Europe, the Nordic countries and even the newly independent Central European countries. The SEE countries depreciated their currencies against pre-war parity more strongly than elsewhere in Europe (table 1, column 5). Such devaluation did not necessarily imply short adherence or poor interwar performance; in France it has been argued that this made the gold link more bearable (Eichengreen 1996: 49–55). Yet high depreciation suggests that the printing press was important in financing WW1.
+2.2. Performance under gold
+Two important indicators are long-term and short-term interest rates. Gold standard members hoped for lower borrowing costs (Bordo and Rockoff 1996), though expectations were not always fulfilled (Ferguson and Schularick 2012). Yields remained distinctly elevated in SEE, exhibiting the highest value of all European countries in both periods (table 2). The short end of the yield curve confirms the SEE outlier status. Before 1914, four of the five highest rates were applied in SEE. Interwar results exhibit more country-specific idiosyncrasies, but SEE was again the region with the highest discount rate. Other indicators support the conclusion that SEE found adherence to gold difficult. An example for following gold standard rules but twisting them at the margin relates to the de facto stabilisation of Bulgaria and Yugoslavia. Both countries took part in the first wave of countries resurrecting gold, but this was achieved only by imposing simultaneously capital controls (Dimitrova and Ivanov 2014: 202 and Hinic et al. 2014: 296) in clear deviation from the monetary orthodoxy which was meant to be restored. Furthermore, the SEE countries exposed themselves to balance sheet risks by relying predominantly on foreign exchange. In the cases of Greece and Bulgaria, for instance, metallic holdings as part of total reserves accounted for only 22.1 percent and 39.9 percent at the time of de jure stabilisation (Dimitrova and Ivanov 2014, Lazaretou 2014). On some level, this was understandable and followed League of Nations advice: reserves had been obtained by loans and central banks wanted to generate interest on them. Yet, it went against the recent trend—spearheaded by the Bank of France—to switch back to gold. The SEE countries exposed themselves to considerable risk which has been held responsible for quickly succumbing to the 1931 financial crisis (Christodoulakis 2013).
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 111
+Table 2. Discount rates and long-term bond yields during gold standard adherence1 for 24 European countries, 1870–1936
+Classical gold standard Interwar gold standard
+Avg. interest rate while on gold Avg. interest rate while on gold
+Discount rate Bond yield Discount rate Bond yield
+South-Eastern Europe (4 countries)
+Bulgaria 6.81% 6.51% 9.72% 11.15% Greece 6.00% 8.18% 9.81% 8.38% Romania 5.51% 4.68% 7.43% 9.46% Serbia/Yugoslavia 6.33% 6.22% 9.58% Average 6.16% 6.46% 8.30% 9.64% Western Europe (7 countries)
+Austria 4.30% 4.07% 7.99% 6.97% Belgium 3.45% 23.22% 3.86% 4.55% France 3.02% 23.25% 3.50% 5.48% Germany 4.17% 23.69% 7.20% 7.81% Netherlands 3.32% 23.26% 3.56% 3.85% UK 3.37% 22.78% 4.51% 4.50% Switzerland 23.79% 33.09% 2.91% 4.39% Average 3.63% 3.34% 4.79% 5.36% Southern Europe (2 countries)
+Italy I (1884–1891) 5.30% 4.51% 5.51% 4.83% Italy II (1904–1914) 4.49% 3.39% Portugal 45.52% 45.63% 7.75% 6.66% Average 5.01% 4.51% 6.63% 5.75% Nordic countries (4 countries)
+Denmark 4.39% 53.35% 4.80% 4.69% Finland 4.90% 7.56% 7.90% Norway 4.81% 3.84% 4.99% 5.16% Sweden 4.76% 63.57% 4.54% 4.57% Average 4.72% 3.59% 5.47% 5.58% Central and Eastern Europe (pre-war: 1 country; interwar: 6 countries) Russia 5.23% 4.22%
+Czechoslovakia 5.36% 5.75% Estonia 8.26% 8.83% Hungary 7.01% 8.09% Latvia 7.28% Lithuania Poland 7.16% 8.48% Average 5.23% 4.22% 7.01% 7.79%
+Sources: Reichsbank (1925), League of Nations Statistical Yearbooks 1930/31 and 1938/39, Flandreau and Zumer (2004), Austrian National Bank (2014). Notes: 1The exact period of gold standard adherence can be found in table 1 and is based on the definition of gold standard adherence in Section 2.1. Table 2 follows the de facto definition for the interwar period. 2Data confined to 1880–1913. 3Data confined to 1893–1912. 4Data confined to 1880–1891. 5Data confined to 1895–1913. 6Data confined to 1881–1913.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+112 European Review of Economic History
+Table 3. Seigniorage as percentage of GDP: South-Eastern Europe versus Italy, 1841–1939
+Greece (1841–1939)
+Romania (1867–1939)
+Serbia/Yu. (1873–1939)
+Bulgaria (1880–1939)
+SEE-avg. (unweighted)
+Italy (1862–1937)
+Full period 1.16% 0.68% 1.30% 1.09% 1.06% 1.61% Full period w/o WW I
+1.19% 0.56% 1.11% 0.83% 0.92% 0.57%
+Pre-1914 0.76% 0.14% 1.15% 0.53% 0.65% 0.63% 1914–1918 0.56% 2.36% 3.69% 3.90% 2.63% 13.2% 1919–1939 2.66% 1.49% 1.04% 1.31% 1.63% 1.22%
+Sources: Fratianni and Spinelli (1997, 43) for Italy. For all other countries own calculations as explained in the main text and based on sources as described in the online appendix.
+3. Seigniorage, capital imports and financial supervision: a short monetary history in seven acts
+The SEE-4 suffered from fiscal dominance but the pattern was interrupted in periods of financial supervision. We motivate the first part of our hypothesis with reference to table 3 which shows seigniorage as percentage of GDP. Seigniorage initially came from token coin and later from the issuance of bank notes against government debt. We follow the seigniorage definition used by Fratianni and Spinelli (2001) and by Sabaté et al. (2015):
+TRt = MBTCt = MBTCt − MBTCt−1 (1)
+MBTC is the treasury component of the monetary base and consists of token coin in circulation plus bank notes issued against government debt. As the issuance of token coin preceded the foundation of a bank of note issue, the time series for seigniorage (TR) begins with the year of the coinage act (Romania: 1867; Serbia: 1873; Bulgaria: 1880). Only the Greek series begins with the NBG foundation in 1841, as sources do not allow quantifying coinage before the country’s 1867 LMU coinage act (table 4 and data appendix). Greece exhibits (peace-time) seigniorage rates twice as high as Italy. Serbia/Yugoslavia and Bulgaria also show higher levels and only the Romanian experience resembles Italy, a welldocumented case of strong and persistent fiscal dominance (Fratianni and Spinelli 2001). Motivating the second part of the hypothesis—the role of financial supervision in breaking the dominant pattern—requires a theoretical framework. Financial supervision helped solve a time inconsistency problem. As debt monetisation levels were inconsistent with the pursuit of stable exchange rates, a credible constraint was achieved by effectively delegating fiscal policy to the foreign supervisors. Delegation solutions are a typical device to overcome precommitment problems (Rogoff 1985), yet the SEE experience stands out in that countries settled for an institution outside of their domestic institutional structure.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 113
+Table 4. Time line for 4 South-East European countries, 1821–1939
+Autonomy/ full political independence
+Coinage Act
+Bank of note issue
+First bond issue
+Pre-war financial supervision
+De facto exchangerate stabilisation
+Abandonment of gold standard
+Greece 1821/1832 18672 1841 18794 1898 1927 1932 Romania 1859/1878 1867 1880 1875 n.a.5 1927 1931 Serbia/Yug. 1817/1878 18732 1884 1881 1895 1925 1931 Bulgaria 1878/1908 1880 18853 1888 1902 1924 1931
+Function for periodisation1
+Period I begins (Romania, Serbia, Bulgaria)
+Period I begins (Greece)
+Period II begins
+Period III begins1
+Periods VI begins1
+Period VII begins (ends 1939)
+Sources: Morys (2014, 2017). Notes: 1Period IV begins uniformly in 1912 (First Balkan War). Period V begins with the end of hostilities, i.e. 1918 for all countries except for Greece where 1922 is selected (Greco-Turkish War 1919–1922). 2Greece and Serbia had coinage laws preceding the Latin Monetary Union based coinage acts of 1867 and 1873, but reconstruction of mintage volumes is not possible. 3The Bulgarian National Bank was founded in 1879 but obtained the note issuing privilege only in 1885. 4Refers to the first bond after the 1878 debt compromise which re-opened international capital markets to the country. 5In the case of Romania, period III begins with the country joining the gold standard in 1890, cf. main text.
+Capital imports and seigniorage are linked by the budget constraint: confronted with weak budgets, governments resorted to seigniorage, capital imports or a combination of both.
+St = (Gt − Tt) − TRt
+change in consolidated budget deficit seigniorage government debt
+(2)
+Eq. (2) makes reference to “consolidated government debt”, whose increase can be financed domestically or externally. Given the scarcity of domestic savings, almost all consolidated government debt was financed externally (Reinhart and Trebesch, 2015, for Greece). Privately held domestic government debt as a share of total government debt accounted in the interwar period for only 8.1 percent (Bulgaria), 14.0 percent (Greece), 4.8 percent (Romania) and 15.5 percent (Yugoslavia), respectively.1 All indications are that this share was even lower before WW1 (Austrian National Bank et al. 2014). With this caveat in mind, St stands in practice for capital imports. Understanding the brevity, the weakness and the ultimate triumph of the gold standard requires analysing seigniorage, capital imports and financial supervision together. All four countries followed a similar pattern, and their monetary histories can be condensed into seven episodes. The synchronicity stems from the fact that they were exposed to key political events at approximately (political independence) or exactly the same time (Balkan Wars, WW1)
+1 Own calculations based on League of Nations Statistical Yearbook.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+114 European Review of Economic History
+Table 5. Seigniorage as percentage of total government revenue in South-East Europe,18411939
+Greece Romania Serbia/ Yugoslavia
+Bulgaria Average (unweighted)
+I: Early independence (only seigniorage)
+8.0% (1841–1878)
+5.5% (1867–1874)
+6.0% (1873–1880)
+9.7% (1880–1887)
+7.3%
+II: Mixed finance
+(seigniorage & capital imports)
+8.2% (1879–1897)
+3.0% (1875–1889)
+2.0% (1881–1894)
+3.0% (1888–1901)
+4.1%
+III: financial supervision 1 (only capital imports)
+−1.1% (1898–1911)
+−0.2% (1890–1911)
+0.0% (1895–1911)
+−0.8% (1902–1911)
+−0.5%
+IV: war period (predominantly seigniorage)
+17.8% (1912–1922)
+57.3% (1912–1918)
+13.6% (1912–1918)
+24.0% (1912–1918)
+28.2%
+V: early post-war
+period (predominantly seigniorage)
+7.6% (1923–1926)
+16.3% (1919–1926)
+16.4% (1919–1924)
+40.9% (1919–1923)
+20.3%
+VI: financial supervision 2 (only capital imports)
+−1.4% (1927–1931)
+−6.4% (1927–1930)
+−3.4% (1925–1931)
+−7.0% (1924–1930)
+−4.6%
+VII: post-gold standard (only seigniorage)
+0.9% (1932–1939)
+3.0% (1931–1939)
+1.9% (1932–1939)
+7.9% (1931–1939)
+3.4%
+Sources: Own calculations based on sources as described in the appendix.
+and that they received capital imports from the same countries (mainly Britain, France and Germany) and were hence subject to the same capital flow cycle. Episodes are defined by the way in which deficits were financed: did countries rely on seigniorage, capital imports or a combination of the two? Tables 5 and 6 provide calculations of seigniorage and capital imports. The column to the right shows an average/total number; comparing this column in both tables shows the inverse relationship between seigniorage and capital imports.
+3.1. Period I: from political autonomy to the first bond issue (only seigniorage)
+When legislating for national coinage between 1867 and 1880, all four countries followed the spirit of the time—first clearly articulated at the 1867 International Monetary Conferenceand adopted gold standard legislation (Morys 2017). Recent research on Bulgaria (Avramov 2006, Dimitrova and Ivanov 2014), Greece (Dritsas 1999, Lazaretou 2005), Romania (Stoenescu et al. 2011) and Serbia (Gnjatovic 2006) has improved our understanding on why the Balkan countries took the bold step of tying their currencies to those of the most advanced economies of the time. Standard economic arguments—increase in foreign trade with and better access to capital from gold standard countries, avoiding a currency mismatch between tax revenue and interest rate payments (in gold given the inability to borrow in domestic currency), reduction of transaction costs and the benefits of reduced exchange-rate
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 115
+Table 6. Capital imports into South-East Europe, 1841–1939 (in million pre-1914 French franc)
+Greece Romania Serbia/ Yugoslavia
+Bulgaria Total
+I: Early independence (only seigniorage)
+0
+(1841–1878)
+0
+(1867–1874)
+0
+(1873–1880)
+0
+(1880–1887)
+0.0
+II: Mixed finance
+(seigniorage & capital imports)
+670.0 (1879–1897)
+693.8 (1875–1889)
+345.1 (1881–1894)
+172.8 (1888–1901)
+1881.7
+III: financial supervision 1 (only capital imports)
+186.3 (1898–1911)
+882.9 (1890–1911)
+376.5 (1895–1911)
+351.0 (1902–1911)
+1796.7
+IV: war period (predominantly seigniorage)
+335.0 (1912–1922)
+70.0 (1912–1918)
+250.0 (1912–1918)
+0
+(1912–1918)
+655.0
+V: early post-war
+period (predominantly seigniorage)
+259.0 (1923–1926)
+217.6 (1919–1926)
+155.4 (1919–1924)
+0
+(1919–1923)
+632.0
+VI: financial supervision 2 (only capital imports)
+352.2 (1927–1931)
+549.1 (1927–1930)
+471.4 (1925–1931)
+196.8 (1924–1930)
+1569.5
+VII: post-gold standard (only seigniorage)
+0
+(1932–1939)
+0
+(1931–1939)
+0
+(1932–1939)
+0
+(1931–1939)
+0.0
+Total 1802.5 2413.4 1598.4 720.6 6534.9
+Sources: Pre-1918: International bond issues as listed in Dimitrova and Ivanov (2014) for Bulgaria, Lazaretou (2014) for Greece, Stoenescu et al. (2014) for Romania and Hinic et al. (2014) for Serbia. 1919–1932: League of Nations, Europe’s capital movements, 1919–1932 (1944). 1933–1939: League of Nations, Statistical Yearbook (various issues). Notes: Pre-1918 figures are nominal and post-1919 figures are effective capital imports.
+volatility—all played an important role. Scholars from the region like to add broader political factors. Weighing up economic and political factors, Stoenescu et al. (2011: 173) conclude that it was “first and foremost political reasons” behind Romania’s gold standard legislation. Similarly, Dritsas (1999: 39) argues that the Greek monetary reform should not be seen as purely economic; rather, “modern monetary arrangements in Greece were part of a more general process of national political and economic development”. The challenge was implementing the gold standard legislation. The Balkan countries operated on a third of Western European income levels (Morys 2006), but faced high expenditure in the absence of any meaningful capacity to collect revenue. An administrative structure needed to be built anew, and military expenditure was high given lingering border conflicts and the irredentist agenda. As accessing international bond markets required establishing a good reputation first, generating revenue from seigniorage was initially the only option. Countries first coined copper, followed reluctantly by a silver issue; gold coinage happened more than 10 years after the coinage act and remained of negligible size. Even by WW1, none of the countries had coined more than 10 percent in gold (Haupt 1886: 218–222&357–364, Morys 2017: 11). Gold developed a premium against silver, copper and,
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+116 European Review of Economic History
+later, bank notes: the fiat standard was born which lasted until the early 20th century. The fiscal needs had made an illusion out of the gold standard legislation passed between 1867 and 1880. In order to calculate seigniorage, period one begins with the coinage act (rather than the year of autonomy) and ends with the first bond issue. The Greek case was historically different, but fits the same public finance pattern: the country relied exclusively on seigniorage between 1841 (foundation of the NBG) and 1879 (debt compromise with the country’s creditors which re-opened international capital markets after the 1843 default).
+3.2. Period II: first bond issue to the establishment of International Financial Control (mixed finance: seigniorage and capital imports)
+The second period begins with the first bond issue and lasts until the establishment of financial supervision.2 Long-standing domestic efforts at attracting capital bore fruit in the 1880s, a decade in which Britain, France and Germany made unprecedented amounts of saving available for foreign lending (Daudin et al. 2010). Between 1875 and 1881, Romania, Greece and Serbia all obtained major loans, with Bulgaria following in 1888. The Balkan countries preferred capital imports over seigniorage: they allowed a genuine resource transfer and were bigger in size. Our calculations suggest that capital imports exceeded seigniorage revenue in period two by at least factor three. Given the small country size, capital imports materialised only once every few years, and only some of the proceeds could be used to fill deficits (the larger part went to infrastructure projects outside of the regular budget). Consequently, seigniorage remained important. While seigniorage as percentage of government revenue halved compared to period I, it fell in no case below 3 percent. Relying simultaneously on capital imports and seigniorage posed a challenge: hard currency debt but a weakening exchange rate undermined debt sustainability. This was not lost on contemporaries, and it spurred reform initiatives in all four countries (Dritsas 1999: 19–39; Conant 1902: 277–285). Such attempts at eliminating seigniorage failed in Bulgaria, Greece and Serbia: suppressing seigniorage would have implied raising taxes on farmers (the bulk of the population), but this group was politically dominant in SEE and fended off such measures (Tuncer 2015; Lampe and Jackson 1982: 202–216). In the absence of sufficient domestic reform and with foreign funds flowing in easily, it was only a matter of time for debt levels to escalate. Greece and Serbia had accumulated debt-toGDP ratios of 176 percent and 138 percent in 1893 and 1895, respectively, the year of their default. Both countries wished to move from unilateral default to a debt restructuring, and consented to financial supervision in 1898 and 1895, respectively. The quid pro quo was similar for Bulgaria, although the country did not default but entered supervision “voluntarily” in 1902 to obtain another loan. Only in Romania did domestic reforms pave the way for gold standard membership in 1890 (Stoenescu et al. 2011: 184–192). The reform agenda pursued in the 1880s was similar (raising new taxes and collecting existing ones more efficiently; repaying government debt held by the central bank), but conditions for currency stabilisation were more favourable. Fiscal consolidation was easier given higher per capita income and growth rates (Kopsidis 2012) as well as a nascent industrial sector (which could be taxed more easily). The country’s
+2 In the Romanian case, period 2 ends with the country joining the gold standard in 1890.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 117
+balance-of-payments was stronger due to Romania’s position as the world’s fourth largest wheat exporter and more resilient due to an increasingly diversified export portfolio including mining and petroleum (Kopsidis and Ivanov 2016). Last but not least, the Romanian smallscale farmers were politically weaker (Schulze and Kopsidis 2020) and unable to resist tax increases. The Romanian case resembles the contemporaneous Spanish experience where domestic reforms were able to overcome a pattern of fiscal dominance (Sabaté et al. 2015); it also puts to rest any suggestion that the Balkan countries were per se unable to carry out the necessary reforms. Instead, comparing the experiences of the SEE-4 suggests that similar reforms, pushed a step further under more benign conditions, could make all the difference.
+3.3. Period III: from the establishment of International Financial Control to the first Balkan War (1912) (only capital imports)
+The arrangements for Serbia and Greece showed three main features: securing a well-defined and reliable income stream to meet interest and amortisation payments, monetary reform and supervision by foreign governments (rather than bondholders). Foreign governments brought 30 percent to 50 percent of total government revenues under their control (Tuncer 2015). They did not collect revenues, but only supervised collection; yet even seemingly small steps—insisting on collection, sharing best administrative practice, logistical help, etc.—had a big effect. Tuncer (2015) argues convincingly that fiscal consolidation did not come so much from introducing new taxes but from collecting existing ones more effectively. In Greece, for instance, the predictability of tax revenues increased as a result of improved bureaucratic structure: the difference between estimated taxes (at the beginning of the financial year) and realised taxes (at the end of it) fell from 9.2 percent to 5.9 percent. Both countries also modernised their system of taxation and introduced new taxes, which were common practice elsewhere: Greece introduced inheritance and income tax in 1898 and 1910, respectively, following decades of futile reform attempts before (Angelopoulos 1933, Tuncer 2015). Monetary stabilisation was the second pillar: it was seen as a means to ensure debt repayment. Theoretically, there was no connection between domestic monetary system and foreign loans which were all denominated in foreign currency; in practice, stable exchange rates help avoid a currency mismatch between government revenue and expenditure, making foreign debt payments more likely. Consequently, international lenders strengthened the position of the central bank by prohibiting debt monetisation and asked the government to pay back earlier loans. Government debt held by the NBG, for instance, was more than halved by 1910 (Lazaretou 2014). Lenders sensed that the national banks had only grudgingly accepted debt monetisations and made a deliberate effort to bring them on their side; in the Serbian case, they even granted two seats on the Financial Supervision Managing Council to representatives of the National Bank of Serbia (Tuncer 2015). Third, financial supervision involved foreign governments and not the bondholders they represented. This was a departure from earlier forms of international financial control with the intention of increasing leverage: governments were connected with each other in a myriad of ways, and economic, political and military concessions by the creditors in an unrelated area could be used as incentives to maintain debt service. The supervision of Bulgaria was less intrusive. But the three characteristics outlined above were also present: creditors took control of a specific income stream (tax on tobacco, Bulgaria’s main export commodity), they insisted on monetary stabilisation (no further loans
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+118 European Review of Economic History
+to the government and a gradual move towards stable exchange-rates), and the bondholder’s representative in Sofia required endorsement by France, the main foreign player. The combined effect of domestic reform and foreign pressure stabilised economic conditions, improved public finances and eventually allowed to leave behind the “chaotic years” (Kiosseva 2000). While fiscal stabilisation is the raison d’être of any financial supervision, the historical evidence suggests that it often fails to achieve this objective (Maurer and Arroyo Abad 2017). The SEE experience was more benign: the exchange-rate appreciated, debtto-GDP levels came down, access to capital markets became secure and seigniorage was no longer required to finance deficits. In this environment, Bulgaria began shadowing gold in 1906, followed by Serbia in 1909 and Greece in 1910. The SEE countries had finally implemented their gold standard legislation from four decades earlier.
+3.4. Period IV: War Period 1912–1918 (predominantly seigniorage)
+Fiscal consolidation and monetary stabilisation ended with the Balkan Wars. Wartime exigencies overrode peacetime constraints, including the supervision arrangements. WW1 was financed largely by the printing press. Given the financial needs of three wars within six years, results were as expected: an average annual money growth rate in excess of 20 percent (table 7). Exchange-rates began to float, and national banks became subservient to the treasury.
+3.5. Period V: End of World War I to exchange-rate stabilisation (predominantly seigniorage)
+Access to foreign capital improved only marginally after WW1. Bulgaria was shut out until 1926, and Greece received a first loan in 1924 strictly tied to the integration of 1.5 million refugees following the Greco-Turkish War (1919–1922). Only for Romania and Yugoslavia did capital imports come forward earlier, though in small amounts initially. The lack of capital imports was in sharp contrast to the sizeable financial needs. Romania, Yugoslavia (compared to pre-war Serbia) and Greece had all more than doubled their populations and territories, creating needs for new infrastructure in addition to dealing with wartime destruction. Bulgaria, for its part, had to settle 400,000 refugees from territories lost to Greece and Yugoslavia. The resulting financial needs were larger than even the wartime exigencies had been. Debt monetisation levels were higher after 1918 than during 1912–1918. Taking periods 4 and 5 together, countries relied for more than a decade on the printing press. When exchange rates stabilised between 1924 and 1927, the four currencies had lost between 91 percent and 97 percent of their pre-war value; nowhere in Europe had depreciation been as high as in SEE.
+3.6. Period VI: exchange-rate stabilisation to abandonment of the gold standard in 1931/32 (only capital imports)
+Financial needs for infrastructure, refugee settlement and re-armament and to cover the ordinary budget remained high but could not be addressed until capital imports resumed on a bigger scale. Policymakers were keenly aware of this, but they also knew the pre-condition: exchange-rate stabilisation including convertibility into gold. In fact, lenders had only recently re-affirmed their principal commitment to link both issues. League of Nations loans—the
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 119
+Table 7. Money growth accounting M/M = c(m) + c(MBTR) + c(MBRES) + c(cross)
+Money growth (%)
+Individual contributions (%)
+M M
+m MBTR MBRES cross
+Greece
+I: Early independence 1841–1878 9.5 −0.9 6.8 2.6 1.1 II: Mixed finance 1879–1897 5.3 1.5 2.9 −1.9 2.7 III: Financial supervision 1 1898–1911 5.0 5.0 −0.7 0.7 0.0 IV: War period 1912–1922 24.6 −3.9 17.8 8.2 2.5 V: Early post-war period 1923–1926 12.5 1.6 2.1 6.2 2.6 VI: Financial supervision 2 1927–1931 13.2 16.9 −3.2 −0.6 0.1 VII: Post-gold standard 1932–1939 5.6 −3.8 1.7 7.7 0.0 Full period 1841–1939 9.8 1.2 4.7 2.5 1.4 Periods 1–2–4-5-7 (“domestic“) 10.6 −0.9 6.6 3.1 1.8 Periods 1–2-7 (“domestic w/o war“) 7.1 −0.4 4.3 1.7 1.6 Periods 3–6 (“foreign“) 7.1 8.1 −1.4 0.4 0.0 Romania 1
+II: Mixed finance 1883–1889 2.4 −0.4 1.7 1.1 0.0 III: Financial supervision 1 1890–1911 5.3 0.6 −0.2 5.0 0.0 IV: War period 1912–1918 21.6 −9.3 10.6 23.2 −2.8 V: Early post-war period 1919–1926 25.5 6.4 10.9 8.7 −0.4 VI: Financial supervision 2 1927–1930 8.5 8.9 −12.2 8.8 3.0 VII: Post-gold standard 1931–1939 1.8 −9.1 2.6 8.4 −0.1 Full period 1883–1939 9.5 −0.9 2.5 8.0 −0.2 Periods 2–4–5-7 (“domestic“) 12.1 −3.1 6.2 9.8 −0.8 Periods 2–7 (“domestic w/o war“) 2.1 −5.3 2.2 5.2 0.0 Periods 3–6 (“foreign“) 5.8 1.8 −2.0 5.5 0.5 Serbia/Yugoslavia 1
+II: Mixed finance 1885–1894 31.3 n.a.2 13.4 23.4 −5.6 III: Financial supervision 1 1895–1911 6.8 n.a.2 −0.5 7.0 0.4 IV: War period 1912–1918 29.5 n.a.2 16.1 16.9 −3.5 V: Early post-war period 1919–1924 40.2 n.a.2 33.1 6.6 0.5 VI: Financial supervision 2 1925–1930 −1.1 n.a.2 −1.2 0.1 0.0 VII: Post-gold standard 1931–1939 7.6 n.a.2 −2.6 9.0 1.2 Full period 1885–1939 17.5 n.a.2 7.6 11.1 −1.2 Periods 2–4–5-7 (“domestic“) 25.3 n.a.2 12.8 14.6 −2.1 Periods 2–7 (“domestic w/o war“) 20.6 n.a.2 6.2 16.9 −2.5 Periods 3–6 (“foreign“) 4.7 n.a.2 −0.7 5.1 0.3
+(Continued)
+fall-back position for less reputable debtors in the 1920s (Flores and Decorzant 2016)—were made available only to countries with fixed exchange rates. Western European countries were open to calls for new capital imports, but they demanded guarantees in light of the chequered pre-war record. In essence, they desired a “continuation of pre-war practice” (Tooye and Ivanov 2011: 39), by which the SEE countries submitted to financial supervision in exchange for capital imports. The key features of the pre-war period
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+120 European Review of Economic History
+Table 7. Money growth accounting M/M = c(m) + c(MBTR) + c(MBRES) + c(cross)
+Money growth (%)
+Individual contributions (%)
+M M
+m MBTR MBRES cross
+Bulgaria 1
+I: Early independence 1882–1887 35.1 −4.9 39.2 0.8 −0.1 II: Mixed finance 1888–1901 11.1 2.8 6.7 1.4 0.2 III: Financial supervision 1 1902–1911 10.0 1.6 −2.2 8.7 1.9 IV: War period 1912–1918 30.6 −7.0 20.3 16.4 1.0 V: Early post-war period 1919–1923 17.8 6.4 20.5 −12.7 3.6 VI: Financial supervision 2 1924–1930 7.2 6.5 −23.1 11.1 12.7 VII: Post-gold standard 1931–1939 5.0 −0.2 8.2 −5.0 2.0 Full period 1882–1939 14.9 0.9 8.3 3.1 2.6 Periods 1–2–4-5-7 (“domestic”) 17.1 −0.1 15.4 0.8 1.1 Periods 1–2-7 (“domestic w/o war”) 13.9 0.4 13.4 −0.6 0.7 Periods 3–6 (“foreign“) 8.7 3.9 −12.0 9.8 7.0
+Source: Own calculations based on sources as described in the appendix. Note: 1Estimates for Bulgaria, Romania and Serbia begin later than in other calculations reported in this paper due to data limitations (money growth accounting requires data for broad money). 2Money growth accounting for Serbia/Yugoslavia is confined to the monetary base, as broad money data are not available. M/M: Total money growth; m: Money multiplier; MBTR: Monetary base treasury component; MBRES: Monetary base rest comp.; cross: Combined comp.
+fiscal consolidation, monetary stabilisation and supervision by governments—were all present in the interwar arrangements as well. Fiscal consolidation remained the centre piece, and supervision became more complete and intrusive than before the war. All government revenues were henceforth subject to control, and reporting on the fiscal situation was now done on a quarterly basis. Accuracy of reports was achieved by foreign experts embedded at the finance ministry (Pepelasis Minoglou 1993, Tooye and Ivanov 2011). Monetary stabilisation was the second pillar. The guiding principal remained identical with the pre-war period, but the issue posed itself differently: first, as SEE countries stabilised their exchange rates at a level deemed sustainable in the long run, there was no need to pursue deflationary policies to return the exchange rate to its old level. Second, a considerable share of the (initial) loan was reserved for the exchange-rate stabilisation itself: parts of the loan proceeds helped replenish the reserves, allowing the countries to move from stable exchange rates to gold convertibility. But the overarching principle remained the same: long-term monetary stabilisation required an independent central bank and foregoing seigniorage. The loan-cum-conditionality agreements fixed precise limits to the timing and the extent of debt monetisation and transformed the banks of note issue into modern central banks with statutory independence (de Cecco 1997). Third, financial supervision was entrusted not to the bondholders, but to the governments in their defence. In an attempt to avoid any colonial undertone, countries now hid behind the façade of the League; yet it was well-understood that the League’s Financial Affairs Committee operated at the instruction of the main lending countries and the UK in particular.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 121
+3.7. Period VII: abandonment of the gold standard in 1931/32 to WWII (only seigniorage)
+The financial crisis of 1931 spread to SEE in September and October, when all four countries imposed capital controls to protect their currencies (Morys 2014: 48–49). The effective abandonment of the gold standard and the subsequent defaults deterred further capital inflows. The League of Nations statistics suggest there were no further capital imports until 1939. Seigniorage resurfaced, accounting on average for 3.4 percent of government revenue.
+4. A formal test of fiscal dominance
+The narrative suggests that all four countries suffered from fiscal dominance; only periods of financial supervision appear systematically different. We test two hypotheses:
+Hypothesis 1: The monetary policies of Greece, Romania, Serbia/Yugoslavia and Bulgaria from independence to WW2 were characterised by fiscal dominance. Hypothesis 2: The prevailing pattern of fiscal dominance was interrupted during periods of financial supervision.
+A test of fiscal dominance involves two steps (Fratianni and Spinelli 2001). First, money growth is decomposed into its components. If broad money growth was driven primarily by rapid expansion of the monetary base—and in particular by the treasury component of the monetary base—then this constitutes prima facie evidence for fiscal dominance. Second, the causality between deficits and seigniorage is established by a Granger causality test. Fiscal dominance means that a deficit is subsequently monetised; causality runs from deficit to seigniorage. The second step is important, as budget deficit and money growth may be correlated independently of fiscal dominance (Joines 1985).
+4.1. Money growth accounting
+Money growth accounting establishes the relative importance of the various individual components to total money growth (Friedman and Schwartz 1963: 794–797). Define the money stock (M) as the monetary base (MB) times the money multiplier (m). The monetary base is the sum of its foreign component (MBFOR), its domestic component (MBDOM) and its treasury component (MBTR). The foreign component consists chiefly of foreign exchange reserves; the domestic component includes discounts and advances to financial institutions. The treasury component principally consists of central bank lending to the government. A large MBTR is evidence of debt monetisation in past periods and could point to a pattern of fiscal dominance. A distinction between foreign and domestic component is difficult in cases in which the central bank balance sheet does not allow to distinguish between foreign exchange reserves and metallic holdings (only the former are unambiguously part of MBFOR). As our focus is on the contribution of MBTR, we add MBFOR and MBDOM and view the sum as “rest” monetary base (MBRES):
+Mt = mt∗MBt (3)
+Mt = mt∗ (MBFORt + MBDOMt + MBTRt) (4)
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+122 European Review of Economic History
+Mt = mt∗ (MBRESt + MBTRt) (5)
+The growth rate of Mt— M/M = (Mt + 1 − Mt)/Mt—can be decomposed into the growth of the multiplier and the growth of the monetary base. Relying on the Taylor approximation ln x ≈ x − 1 for values of x close to unity, we obtain
+M/M ≈ ln Mt+1 − ln Mt = ln mt+1 − ln mt + ln MBt+1 − ln MBt ≈ m/m + MB/MB (6) MB growth is expressed as contribution of MBTR, MBRES and their cross-component:
+MB/MB ≈ ln MBt+1 − ln MBt = c (MBTR) + c (MBRES) + c (cross) (7)
+where
+c (MBTR) = ln [(MBTRt + 1 + MBRESt) /(MBTRt + MBRESt)]
+c(MBRES) = ln [(MBTRt + MBRESt + 1) /(MBTRt + MBRESt)]
+c (cross) = ln MBt + 1 − ln MBt − [c (MBTR) + c (MBRES)]
+Combining (6) and (7) gives
+M/M ≈ m/m + c (MBTR) + c (MBRES) + c (cross) (8)
+Table 7 provides estimates for the seven periods of Section 3. It also summarises the results for the full period, periods under financial supervision (“foreign periods”, namely periods three and six), periods without such external constraint (“domestic periods”, namely periods one, two, four, five and seven) and periods one, two and seven combined (i.e., “domestic periods” excluding WWI and the post-war stabilisation). In Greece and Bulgaria, MBTR growth was the single largest contributor (47.9 percent and 55.7 percent, respectively): the long record suggests that debt monetisation drove the money supply. In Serbia/Yugoslavia, the contribution of MBTR (7.6 percent) was smaller than of MBRES (11.1 percent), yet the value itself is high, falling in between Greece’s 4.7 percent and Bulgaria’s 8.3 percent. Only the Romanian experience looks more benign, where MBTR growth contributed only 2.5 percent. Money multiplier growth contributed the least (average: 0.4 percent). In measuring the ratio of broad money (largely supplied by commercial banks) to monetary base (set by the monetary authority), the money multiplier is a good proxy for overall financial development (Lazaretou 2015). Our findings indicate that such development was limited. The aggregate data miss important detail for sub-periods. Results may be demonstrated for Greece, but the pattern holds region-wide. While money growth was lower in foreign than in domestic periods (7.1 percent vs. 10.6 percent), the main difference was that broad money had different drivers. In domestic periods, MBTR growth stood at 6.6 percent, contributing 62.0 percent to overall growth; by contrast, under financial supervision, money growth was almost completely attributable to money multiplier growth. The trade-off is best understood as a confidence effect. Very high MBTR growth under domestic regimes potentially threatens the stability of the banking system, resulting in low (or even negative) multiplier growth. In foreign periods, by contrast, monetary stabilisation increases confidence in the banking
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 123
+system and contributes to its development. Crucially, despite higher money multiplier growth under financial supervision, total money growth was considerably higher—by at least 3.5 percent p.a., depending on the specific country—in domestic periods, resulting in higher inflation and depreciation. In sum, money growth accounting documents a strong positive correlation between debt monetisation and total money growth. This correlation is pronounced during domestic periods and loosened during foreign periods.
+4.2. Granger causality test
+For fiscal dominance to hold, causality must run from deficit to debt monetisation:
+xt = (Gt − Tt) /Yt deficit (9)
+yt = (MBTCt − MBTCt−1) /Yt seigniorage/debt monetisation (10)
+Three steps are needed: (1) a unit root test to ensure that xt and yt are stationary; (2) applying lag length selection criteria; (3) establishing Granger causality between xt and yt by testing two joint hypotheses (H0–1 and H0–2, respectively) on the bivariate autoregressive process:
+(11)
+(12)
+l is the lag length established in step 2. H0–1 states that “deficit” does not (Granger) cause “seigniorage”; H0–2 postulates that “seigniorage” does not (Granger) cause “budget deficit”. If H0–1 can be rejected (F-statistic above the 10 percent, 5 percent or even 1 percent level of statistical significance), but H0–2 cannot be rejected (F-statistic below the 10 percent level of significance and hence also below the more stringent 5 percent and 1 percent levels), then one-way Granger causality from budget deficit to seigniorage is established, which we interpret as “fiscal dominance”.
+1 & 2: unit root test and lag-length criteria
+The ADF Unit Root Test points to stationary time series. For Greece, Serbia/Yugoslavia and Romania, all three lag length selection criteria (FPE, SIC, HQIC) point to one lag; for Bulgaria, two criteria point to one lag. Consequently, we apply a VAR with l = 1.3
+3 Detailed results are provided in an online appendix.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+124 European Review of Economic History
+Table 8. Granger causality test between xt (budget deficit1) and yt (seigniorage1)
+Wald statistic for joint hypothesis
+Budget deficit seigniorage
+Seigniorage budget deficit H0–1: β1 = β2 = . . . = βl = 0
+H0–2: γ 1 = γ 2 = . . . = γl = 0 F-statistic & significance level2
+F-statistic & significance level2
+Greece
+All observations (N = 99) 1841–1939 20.00∗∗∗ 0.21 “domestic” (N = 80) 1841–1897 1912–1926 1932–1939
+16.40∗∗∗ 1.28
+“foreign” (N = 19) 1898–1911 1927–1931
+0.19 0.11
+Romania
+All observations (N = 73) 1867–1939 5.11∗∗ 0.09 “domestic” (N = 47) 1867–1889 1912–1926 1931–1939
+3.07∗ 0.09
+“foreign” (N = 26) 1890–1911 1927–1930
+0.74 0.73
+Serbia/Yugoslavia
+All observations (N = 67) 1873–1939 5.20∗∗ 1.74 “domestic” (N = 44) 1873–1894 1912–1924 1931–1939
+4.14∗ 0.97
+“foreign” (N = 23) 1895–1911 1925–1930
+1.10 0.06
+Bulgaria
+All observations (N = 60) 1880–1939 3.20∗ 1.50 “domestic” (N = 43) 1880–1901 1912–1923 1931–1939
+3.33∗ 0.81
+“foreign” (N = 17) 1902–1911 1924–1930
+0.14 1.07
+Notes: 1xt = (Gt – Tt)/Yt (budget deficit); yt = (MBTCt − MBTCt-1)/Yt (seigniorage).
+2∗∗∗, ∗∗ and ∗ denote statistical significance at the 1 percent, 5 percent and 10 percent levels, respectively. Sources: Own calculations based on sources as described in the appendix.
+3: Granger causality test
+Table 8 reports the F-statistic for H0–1 and H0–2. Three different estimations were carried out. The full time span establishes the overall pattern (hypothesis 1). The full time span is then broken down into sub-periods: the “foreign” period, in which monetary and fiscal policy were constrained by supervision (periods 3 and 6), and all other periods, in which monetary and fiscal policy were set nationally (“domestic periods”). This distinction speaks to hypothesis 2. For the full period, we reject H0–1 at the levels of 1 percent for Greece, 5 percent for Romania and Serbia/Yugoslavia and 10 percent for Bulgaria, but consistently fail to reject H0–2: causality runs from deficit to seigniorage. Hypothesis 1 is hence supported by the
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 125
+Table 9. Impact of financial supervision on economic growth and inflation, 1841–1939 1
+GDP growth Inflation rate
+Average growth rate Average inflation rate
+With supervision
+Without supervision
+Difference betw. median2 [p value of rank sum test]
+With supervision
+Without supervision
+Difference betw. median2 [p value of rank sum test]
+Greece 3.4% 2.5% 1.0% [0.07] −0.1% 5.7% 4.3% [0.86] Romania 2.1% 1.8% 0.5% [0.77] 0.0% 4.5% 5.2% [0.72] Serbia/Yug. 2.5% 2.8% 0.4% [0.53] 0.0% 2.1% 1.3% [0.46] Bulgaria 2.2% 2.4% 0.5% [0.95] 1.3% 3.1% 1.7% [0.46]
+Notes: 1 Calculations exclude World War I. 2The Wilcoxon rank-sum test centres on the median and not the arithmetic mean. Sources: Own calculations based on sources as described in the appendix.
+data. This finding remains unchanged when restricting estimations to domestic periods. By contrast, the causality pattern no longer holds under financial supervision: deficits no longer predict debt monetisation. This supports hypothesis 2. We report various robustness checks to our baseline results in an online appendix.
+5. Costs of financial supervision
+We have so far presented a positive view of international financial control, as measured by exchange-rate stabilisation, weaker debt monetisation and lower debt-to-GDP ratios. These benefits were the result of restrictive monetary and fiscal policies which the SEE governments found difficult to pursue on their own. Yet what were the costs of monetary and fiscal retrenchment to the domestic economy? It is precisely these costs which, in the eurozone crisis, have provided ammunition to the critics of the bail-out programmes and given rise to the concept of self-defeating austerity (Müller 2014). Table 9 presents evidence for growth rates and price level developments, comparing periods under financial supervision with periods without such constraint. Measuring the impact on unemployment levels would be desirable, yet such data are available even for Greece and Romania only after 1928 and for the other two countries not at all. In addition to the average value of GDP growth and inflation, table 9 also presents results of a Wilcoxon rank-sum rest. This test provides an easily accessible measure for whether growth and inflation changed in a statistically significant way under supervision. The evidence presented in this section is only suggestive and does not provide a counterfactual analysis. Growth rates under financial supervision and in all other periods were similar for Bulgaria, Romania and Serbia/Yugoslavia, with average annual values ranging between 1.8 percent and 2.8 percent. In the Greek case the Wilcoxon rank-sum test suggests a statistically significant positive difference for periods under financial supervision: the confidence-inducing aspects of the supervision arrangements seem to have outweighed any contractionary effects from
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+126 European Review of Economic History
+restrictive monetary and fiscal policies. The impact of financial supervision on economic growth was either neutral or even positive. Price level developments were statistically different in all four cases: average inflation fell between 1.8 percent (Bulgaria) and 5.8 percent (Greece) under financial supervision, reflecting lower money growth (table 7). Note that the only country with a positive economic growth effect was the one in which inflation fell the most under financial supervision. This suggests that stabilising inflationary expectations and increased confidence in general played an important role in the Greek case. In none of the cases did financial supervision lead to deflation, which is one of the main concerns in today’s debate over self-defeating austerity.
+6. The political economy of exchange-rate stabilisation and financial supervision in Greece
+Gold standard adherence was a fundamental objective of Greece and its neighbours; an objective so important that the countries were willing to compromise on their much-cherished sovereignty by entering into financial supervision arrangements if this was the only way to achieve it. Yet what explains the strong preference for fixed exchange rates? There is a sizeable literature on the political economy of exchange-rate choice and for the 1870–1914 period in particular. Some have emphasized better trade prospects and easier access to foreign capital (Section 2.2); yet without further investigating who benefits domestically from increased trade and foreign capital, this does not yet constitute a full-fledged political economy analysis. De Cecco (1974) and Gallarotti (1995) provide such an approach by focusing on two interest groups: a rising bourgeoisie, which holds nominally denominated assets (bonds) and wishes to import consumer and industrial goods from advanced (gold standard) economies; they favour fixed exchange rates. By contrast, agricultural producers hold inflation-proof assets (land); as exporters of agricultural commodities, they benefit from a depreciating exchange rate. They are natural supporters of a silver or paper standard. As the 19th century progresses, industrialisation advances and the bourgeoisie gains the upper hand: we expect the gold standard to spread from the industrialised core countries to the agricultural peripheries, as indeed it happened between 1870 and 1914. While this approach has not gone unchallenged (Meissner 2005), it constitutes the most widely used political economy framework (Eichengreen 1996).
+6.1. From the Congress of Berlin (1878) to the government default (1893)
+Understanding Greece’s political economy requires appreciating the new geopolitical situation after the Congress of Berlin. The Kingdom of Greece (1832) was initially very small and consisted only of the Peloponnese and Stereá Elláda (Central Greece): two provinces whose agricultural potential was so low that it did not even attract its neighbours’ territorial interests. In this situation, Greece could live with the financial autarky following default in 1843. There was little systematic building of state capacity and attempts to strike a deal with foreign creditors were half-hearted (Levandis 1944, Kofas 1981). The 1867 gold standard legislation enjoyed overwhelming support, but implementing it proved impossible in the presence of high seigniorage (table 5). The Congress of Berlin altered the picture by introducing both potential and risk. Greece moved North by incorporating the rich agricultural plains of Thessaly, but Bulgaria moved South and Serbia had its own territorial ambitions. The liquidation of the European possessions of the Ottoman Empire was only a matter of time, providing
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 127
+Greece with an opportunity of pursuing its own irredentism known as the “Great Idea”, that is the incorporation of all Ottoman territories settled by Greek people. On the downside, any future military conflict could henceforth involve Turkey as much as other Balkan countries. Greece was left with no other choice than to make a great leap forward, improving state capacity domestically and forging strong alliances externally (Kostis 2014: 437–491). Finding a debt compromise only 2 months after the Congress of Berlin (after 35 years of fruitless negotiations) underlines this important paradigm shift (Psalidopoulos and Schönhärl 2013: 152–53). The politician most aware of this new era was Charilaos Trikoupis (1832–1896), the six-time prime minister (1875, 1878, 1880, 1882–85, 1887–90, 1892–95) and dominant political figure of the time. Trikoupis shared the irredentist agenda of his compatriots, but thought it could only be achieved by cooperating with the so-called Great Powers (μεγ α ́ λες δυνα ́ μεις), namely Britain, France and Germany, as well as modernizing the state and the economy (Aroni-Tsichli 2000). Starting in the 1880s and financed with six major bond issues (four of which under his premiership), he presided over large infrastructure projects many of which also had a military motive (Kostis 2014: 459–464). Trikoupis was convinced that the military threat and the territorial opportunities were so large that deficit financing was the only option: “It is better to have a budget deficit in 1877 but a well-equipped military; rather than a balanced budget but a poorly prepared military.” (quoted after Psalidopoulos and Schönhärl 2013: 157). This bold policy required convincing foreign investors of debt sustainability: overhauling the system of taxation—to cover annual interest payments—and re-establishing the gold link—in order to avoid a currency mismatch—became the domestic cornerstones of his policies. Trikoupis was moderately successful on both accounts: he increased taxation from 10 percent of GDP in earlier decades to almost 15 percent by the late 1880s (Kostis 2014: 484) and introduced gold convertibility in 1885 (which, however, was soon suspended due to the 1885 Bulgarian crisis, Lazaretou 2005: 222). The main obstacle was that raising taxes was difficult, as the farming population—more than 80 percent of the electorate—successfully pushed for a reduction of their tax burden (abolition of the tithe in 1880, Kostis 2014: 481486). Shifting taxation towards the small urban centres was the only option available. Why exactly did Trikoupis want to join the gold standard? We mentioned above that the international literature has focused on economic reasons (in the spirit of Bordo and Rockoff 1996), whereas scholars from SEE have stressed additional political factors. The implication of the latter view is that governments would be more determined to establish fixed exchange rates, and be more inclined to defend them vigorously if they came under pressure. An analysis of Trikoupis’ parliamentary speeches reveals that the bulk of the arguments was economic. He routinely mentions that gold standard membership will help attract foreign capital and avoid a currency mismatch. On occasions Trikoupis ventures beyond economics, e.g., when he exclaims that joining gold “is not only material revival, but also moral progress” (p. 30), or when he argues that the gold standard is meant “to bring Greece to the level of other civilised states” (p. 30: π επ oλιτ ισ με ́να κρα ́ τ η).4 Yet it remains unclear whether such sporadic statements were pure rhetorics or had the potential to actually drive Greek politics.
+4 Parliamentary debate held on 14 November 1883 (budget speech looking forward to 1884, the year of the gold standard legislation), quoted after the official records of the Greek parliament. Eφημερι ́δα τ ων υζ ητ η ́σ εων τ ης Boυλη ́ς , ερι ́oδoς ’, υ ́ νoδoς B’, υνεδρι ́ασ ις 8 (σ . 26–31). Other speeches giving good insight into Trikoupis’ reasoning behind gold standard membership were given in parliament on 12 April 1880, 10 February 1883, and 12 November 1884.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+128 European Review of Economic History
+Ultimately, Trikoupis failed. Resistance to urban tax increases grew and could only be partly bought off by providing public sector jobs (Pepelasis Minoglou 1995: 263). More importantly, it was exploited by an increasingly vocal opposition led by Theodore Deliyannis (1820–1905), the other dominant political figure and archrival of Trikoupis. An analysis of his speeches in parliament and actions in government reveals that Deliyannis broadly agreed with the economic policy framework of Trikoupis, including support for the gold standard.5 Yet he was a populist successfully exploiting resistance to reform (Tuncer 2015: 175). Either politician cannot easily be identified with a specific socio-economic group. While this period witnessed the emergence of a two-party system (the New Party of Trikoupis and the Populist Party of Deliyannis), parties did not yet operate in a national sphere that extended beyond local politics. Clientelistic relationships to local party leaders were more important than a broader political agenda (Clogg 2002: 59; Kalyvas 2015: 71; Kostis 2014: 437–444). Put differently, the Trikoupis–Deliyannis debate followed very different lines from contemporary discussions in Austria–Hungary and Russia where de Cecco (1974) was able to identify interest groups in support of and in opposition to fixed exchange rates (in the same vain Dritsas 1999: 29 and Stassinopoulos 2002: 181).
+6.2. From the International Financial Commission (1898) to WWI
+Following the default of 1893, it took 5 years to come to a comprehensive settlement involving financial control in exchange for debt relief, coupled with the objective of joining gold once monetary and fiscal policies were stabilised. The cleavage between the Trikoupis and the Deliyannis camp persisted: the more internationalist Trikoupis—prime minister at the time of the default and until early 1895—was more inclined to achieve a settlement than Deliyannis (1895–1897) (Wynne 1951: 308–312). Yet in the absence of an urgent need to compromise, both sides were unwilling to acquiescence into any form of financial supervision. Such a need arose after the Greco-Turkish war of 1897. Not only did the uprising in Crete fail (in support of unification with Greece), but the Ottoman Army occupied Thessaly. Unable to pay the war indemnity required by Turkey to retreat from the province, Greece was forced to compromise with its creditors. Yet neither political camp was prepared to make the necessary compromises. In this situation we see a solution emerging which repeated itself during the interwar currency stabilisation: the formation of a technocratic government, intriguingly in both cases under the same (independent) Prime Minister Alexandros Zaimis (1855–1936). Zaimis formed a government transcending conventional party lines as well as drawing in outsiders; most importantly, he named Stefanos Streit, the NBG governor, as Finance Minister (Levandis 1944: 98–105). Zaimis and Streit had both studied in Western Europe, and their cosmopolitan outlook made them well-suited for the difficult negotiations with the countries’ creditors (Streit was half-German but had grown up in Greece). In a time period of less than a year, the Zaimis-Streit government not only secured debt relief as part of the financial control agreement, but they also introduced key tax legislation (such as inheritance tax) which had been discussed for decades but never passed parliament.
+5 Parliamentary debate held on 1 December 1893, quoted after the official records of the Greek parliament. Eφημερι ́δα τ ων υζ ητ η ́σ εων τ ης Boυλη ́ς , ερι ́oδoς I ’, υ ́ νoδoς ’, υνεδρι ́ασ ις 25 (σ . 350–352).
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 129
+The parliamentary debates of February 18986 on the financial supervision agreements shed an interesting light on how contemporaries viewed “the foreign intrusion”. Not a single member of parliament came out publicly in support. Yet, Finance Minister Streit complained to the chamber that the hidden support for the proposed agreements had been all too clear to the foreign creditors, undermining his bargaining position (pp. 147–148). It is also instructive how Streit defended himself against the allegation of “selling out” to the foreigners. While conceding he had been under enormous pressure, he pointed out that he had been able to agree with the creditors a clearly delineated path for returning to the gold standard in return for the supervision agreement (p. 166, by means of a step-by-step withdrawal of currency, with stabilisation eventually achieved in 1910, Lazaretou 2013). There was little discussion of the exchange-rate system and financial supervision after 1898 (Kostis 2003: 17–38). Financial supervision did not become popular, but was not threatened either, and the gradual improvement of the exchange rate was hailed as a sign that reforms delivered results (Dertilis 2010: 652–656). The 1898 settlement was helped by the fact that it coincided with the beginning of a long boom in the Greek economy (Kostis 2014: 502509). Rapid growth, rising urbanisation (which is where the taxes were paid) and the early stages of industrialisation eased the burden associated with monetary and fiscal stabilisation. The last building bloc of the ambitious reform programme—the formal introduction of gold convertibility in March 1910—was again achieved under a short-lived technocratic government (Lazaretou 2005: 224). These benign economic developments helped strengthen a political constituency interested in further modernisation of the economy. The protagonist of such a policy became Eleftherios Venizelos (1864–1936), a charismatic politician who entered the national stage in 1910. Hailing from commercially active Crete, he was convinced that mainland Greece needed fundamental change and founded his own party, the Liberal Party. Only with Venizelos are we in a position to identify, with some certainty, the socio-economic characteristics of the voters of the different parties. His own support base was the entrepreneurial bourgeoisie and the emerging working class, two groups united by their urban outlook and private sector employment (Clogg 2002: 106, Kalyvas 2015: 78). Venizelos continued and accelerated the reforms implemented since 1898, most notably by introducing income tax in 1910 as one of the last European countries (Gardikas-Katsiadakis 2008).
+6.3. The national schism and its impact on the interwar political economy
+In the outlined political framework, the domestic constituency supporting the country’s gold standard membership was destined to grow in the 1910s: the urban middle classes expanded and, for a first time, a significant number of Greek bonds were repatriated and held domestically (Kostis 2003: 17–38). The Balkan Wars (1912–13) added, in the form of Macedonia and Crete, two provinces which were commercially more developed than “Old Greece”, doubling the country’s territory and population. Yet Greek politics soon incurred a fundamental divide which had a bearing on all political and economic decisions in the interwar period, even seemingly unrelated ones such as currency stabilisation (Kalyvas 2015: 69–71). The National Schism (εθνικóς διχασ μóς)
+6 Parliamentary debates held on 20, 21, and 23 February 1898, quoted after the official records of the Greek parliament. Eφημερι ́δα τ ων υζ ητ η ́σ εων τ ης Boυλη ́ς , ερι ́oδoς I ’, υ ́ νoδoς ’, υνεδρι ́ασ ις 15 (σ . 147153), υνεδρι ́ασ ις 16 (σ . 159–167), υνεδρι ́ασ ις 17 (σ . 177–188).
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+130 European Review of Economic History
+split the country into two rival camps, typically referred to as Republican (or Venizelist) and Royalist. The starting point was whether Greece should join WWI on the side of the Entente or the Central Powers. King Constantine (1913–1917, 1920–1922) preferred neutrality given the unclear war outcome. By contrast, Venizelos argued that siding with Britain and France was likely to lead to territorial gains after the war. The conflict intensified to the point where the King was forced into exile, giving the prime minister free hand to join the Allies. Venizelos’ strategy paid off with large territorial gains in the Treaty of Sèvres (August 1920), but King Constantine returned to the throne in November 1920 and his political allies won national elections in the same month. The Royalist side subsequently embarked on a full-scale military campaign in Asia Minor to secure permanently the recent territorial gains and extend further if possible, in pursuit of the “Great Idea”. Yet the military adventure ended in defeat, known as the 1922 Asia Minor catastrophe, reversing almost completely the territorial gains in the Treaty of Lausanne (July 1923). Pro-Venizelist officers took control of the government in September 1922 and forced the King to abdicate in favour of his son, King George II. The monarchy was eventually abolished following a referendum (April 1924), giving way to a republic so fragile that it was overthrown by General Pangalos the next year. Some form of normality only returned in late 1926 with the restoration of democracy and the holding of elections, which led to a broad-based government under Alexandros Zaimis. These developments had at least three implications for the political economy of exchangerate stabilisation in the 1920s. First, relations between the two camps remained poisonous and paralysed the political process: interwar Greece became a “stillborn republic” in the words of arguably the most important study dedicated to political coalitions and party strategies between 1922 and 1936 (Mavrogordatos 1983). Governments were even more short-lived than before the war (14 governments between 1924 and 1935 when the monarchy was reintroduced). Fundamental economic and political decisions were more likely to be taken by the occasional broad-based government, transcending the national schism to avoid policy reversal by the next government from the opposite camp. The rapid succession of governments also made foreign oversight more attractive: it was seen as a bulwark against such reversals (Clogg 2002: 98–115; Kostis 2014: 593–637). Second, the Asia Minor expedition, the abolishment of the monarchy and the Pangalos dictatorship had isolated the country politically and financially. Britain and France cut Greece from financial markets in November 1920 in an attempt to prevent the military campaign, remaining highly distrustful of any revanchist tendencies after the 1922 defeat (Pepelasis Minoglou 1993: 53–57). This particular constellation made both countries likely to help after the restoration of democracy (to retain influence over an erstwhile ally), but under strict conditions (in particular, keeping military expenditure low). Third, three wars in only 10 years (1912–22) and resettling 1.5 million refugees from Asia Minor had exhausted the country financially.
+6.4. The 1928 currency stabilisation and financial supervision by the League of Nations
+It was under these conditions that the 1928 currency stabilisation emerged. The monetary financing of three wars had reduced the exchange-rate to 6.7 percent of its pre-war value, one of the largest war-time depreciations (table 1). In turn, the political consensus behind exchange-rate stabilisation was particularly strong: all parties supported this objective in 1927–1928. They also shared the conviction that the foreign capital required for reconstruction would flow only if the country joined the interwar gold standard (Pepelasis Minoglou 1993: 142–150). The interwar rationale, then, was very similar to the pre-war political economy.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 131
+Yet just like in 1898, there also was reluctance to accept foreign financial supervision. The deus ex machina was again the independent Prime Minister Alexandros Zaimis who had already presided over the 1898 debt compromise. Leading a national unity government after the return to democracy in late 1926, he was given a broad mandate to establish democratic institutions (drawing up a constitution and curbing military influences in politics), to restore good external relations (among others, by signing war debt agreements with Britain and France) and to put the economy on a sound footing. As before the war, currency stabilisation was part of a reform programme so ambitious that only a government transcending conventional party lines could shoulder it. Likewise, acquiescing into League of Nations financial supervision could be presented by the Zaimis government as the prize to be paid for an overall improvement of external relations (Pepelasis Minoglou 1993: 29–31). In order to understand better the exact reasons for re-joining the gold standard, we analysed the February 1927 report of the “Committee of experts”; a committee of leading Greek economists of the time, which the Zaimis government called to establish an authoritative view on currency matters.7 Correspondence with the Bank of England reveals that the Greek government viewed this committee as preparing government policy.8 The committee ruled out in no uncertain terms a continuation of the floating exchange rates which had prevailed since WWI. Floating exchange rates are portrayed as a “monetary anomaly” (p. 80: νoμισ ματ ικη ́ ανωμαλι ́α) and a “monetary disease” (p. 4: νoμισ ματ ικo ́ ν  ́oσ ημα), a disease which is not “untreatable” (p. 25: αθερα ́ π ευτ η) but can be cured, leading to “healthy money” (p. 81: υγ ιε ́ς ν  ́oμισ μα), namely fixed exchange rates. It follows from this medical analogy that everything needs to be done to cure the disease, even if this implies accepting a League of Nations loan and the conditions attached to it (p. 81). While this is very strong language when measured against contemporaneous discussions in other countries (Straumann 2010), the specific problems which the committee wished to address were of economic and not of political nature, most importantly the need to secure capital inflows for reconstruction purposes (pp. 80–82). As in other countries at the time, there was some connection between currency stabilisation and the issue of settling war debts, and the risk of a political fallout with Britain and France (from whom Greece had received wartime loans) weighed heavily on the committee (p. 81). But as before the war, the main focus of gold standard membership was on the perceived economic benefits, rather than the pursuit of wider political objectives. While the road to the agreement was long and arduous, the 1928 currency stabilisation became a cornerstone of the country’s interwar economic policy. Subsequent governments were more partisan, but did not go back on the reforms.
+7. Conclusion
+This paper has added a historical and regional dimension to the debate on the Greek debt crisis. Instead of overhauling their systems of taxation and spending, Greece and its neighbours relied on seigniorage and capital imports to close weak budgets. We have documented seven distinct periods for each country in which either seigniorage or capital imports dominated (often to the complete exclusion of the other), and we have explained why
+7 Archive of the National Bank of Greece (Athens), N.B.G./H.A., X Loans, A‘Public Loans, File 180: “Public Finance: Report prepared by the Committee of Experts, February 1927.” 8 Bank of England Archive (London), OV80/1 (in particular the document titled “The conclusions and recommendations of the Greek Committee of Experts” and the adjacent letter exchange).
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+132 European Review of Economic History
+country-specific periods were well-synchronised regionally. Fiscal dominance and external dependence developed into defining characteristics of the SEE experience. External dependence was unusually high and pushed the region on a Sonderweg. High levels of foreign debt eventually resulted in financial supervision, by which creditors took control of fiscal policy, either following default (the pre-war pattern) or “pre-emptively” (the interwar pattern). The effective delegation of fiscal policy allowed to break the prevailing pattern of fiscal dominance: (modest) budget surpluses began to emerge, enabling central banks to conduct a rule-based monetary policy and join the gold standard. Financial supervision allowed the SEE countries to achieve their long-standing objective of exchangerate stabilisation. Only on a single occasion—Romania in 1890—did a SEE country join the gold standard based on domestic reforms alone. Contemporaries acquiesced into financial supervision, if this was the only way to secure gold standard membership and the perceived economic benefits that came with it. The main benefit was the increased ability to attract foreign capital. If broader political objectives also played a role has been the matter of some debate. While we have mustered some evidence to support such a view, we are reluctant to embrace it following a detailed study of primary sources from three key episodes of the Greek experience. It is instructive to view the recent Greek experience in the light of the three key themes: seigniorage versus capital imports, external dependence and financial supervision. High levels of inflationary finance remained important after WW2. Notwithstanding a short spell of financial rectitude between 1953 and 1972 under the Bretton Woods constraints, the country’s weak fiscal institutions and difficulties in pursuing ambitious reforms prevented a decisive break with the past (Alogoskoufis 1995). Relying on seigniorage more strongly than any other EU country implied high inflation rates after the end of Bretton Woods (Dornbusch 1988). It also explains why Greece was the only EU country to not join the European Exchange-Rate Mechanism (Gros and Thygesen 1998: 65–107) and why it was initially excluded from the euro (as only EU country). When Greece eventually joined in 2001, seigniorage was replaced, in time-honoured fashion, by capital imports. Capital imports had played an important role in closing weak budgets already since the country’s EU accession in 1981. Government debt, which stood at only 20 percent of GDP at the time, ballooned and rose to 120 percent of GDP by the mid-1990s; approximately 80 percent of which was held abroad (Wickens 2018). Capital imports increased further after 2001, as the euro seemingly provided stability by removing currency risk. External dependence resulted in a situation in which creditors took control of Greek fiscal policy. The 1898–1912 experience with its focus on fiscal consolidation, tax reform and administrative overhaul is a precursor to today’s EU-IMF-sponsored bail-out programmes. Similarities are not limited to content, but extend to governance. In 1898, 1928 and 2011/2012 broad-based, technocratic governments were able to push for domestic reform; finding common ground with the creditors was helped by the cosmopolitan outlook and international experience of the Greek negotiators (Zaimis found his modern counterpart in Prime Minister Lucas Papademos, ECB Vice President between 2002 and 2010). All this is not to say that parallels are exact and that differences between the time periods do not exist, let alone that a country cannot overcome a legacy of fiscal dominance on its own. Important differences include the following: any debt monetisations today would not be carried out by the national central bank but by the ECB and hence by an institution far more removed from the influence of the government(s). Moreover, while costs of financial supervision were low in the past, Greece experienced a GDP decline of 25 percent between 2010 and 2014. Last but not least, the structure of the Greek economy has undergone
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 133
+fundamental change since the end of WWII, as did the country’s political system, and the Spanish experience 1874–1998 demonstrates that domestic reforms alone can vanquish even seemingly inert patterns of fiscal dominance (Sabaté et al. 2015). Only future research on the more recent period will be able to elucidate whether the structural weaknesses identified in this paper for the period 1841–1939 were also present after WWII. Such an analysis might well vindicate Hegel’s famous dictum that the only thing we can learn from history is that we cannot learn from history. In the meantime, we are well advised to not completely ignore the first century of modern Greek monetary history.
+Supplementary material
+Supplementary material is available at European Review of Economic History online.
+Acknowledgements
+Earlier versions of this paper were presented at the AEA, Clio, EHES, EHS, ESSHC and AFSE conferences and at the Verein für Socialpolitik; the Austrian National Bank, the Bank of France, the Bank of Greece, the German Economic Institute, the Vienna Institute for International Economic Studies, and the York Fiscal Symposium; and Humboldt University Berlin, the London School of Economics, the São Paulo School of Economics, and the Universities of Barcelona, Carlos III Madrid, Regensburg, Warwick, York and Zaragoza. I am grateful to the participants for their spirited discussion and helpful suggestions. Excellent research assistance was provided by Marianna Ventouratou-Morys, Maria Kehayia and Markos Litinas. I owe a special thanks (without implicating anyone) to the following people in providing me with feedback, helping me collect the data, sharing their data, and/or explaining country-specific idiosyncrasies: Dione Alipranti, Adriana Aloman, Roumen Avramov, Elisabeta Blejan, Olga Christodoulaki, Nikos Christodoulakis, Brandusa Costache, Margarita Dritsas, Rui Esteves, Juan Flores, Aristides Hatzis, Martin Ivanov, Stathis Kalyvas, Michael Kopsidis, Sophia Lazaretou, Stefan Nikolic, George Pagoulatos, Michael Palairet, Marcela Sabaté, Korinna Schönhärl, Dimitris Sideris, George Tavlas, Christos Triantopoulos, Coskun Tuncer, and Michael Wickens.
+References
+Alogoskoufis, G. (1995). The two faces of Janus: Institutions, policy regimes and macroeconomic performance in Greece. Economic Policy 10, pp. 147–192.
+Angelopoulos, A. (1933). Income taxation in Greece (in Greek). Athens.
+Aroni-Tsichli, K., and Tricha L., (eds.) (2000). O Xαρι ́λαoς Tρικoυ ́ πις και η επ oχ η ́ τ oυ ́ . Πoλιτ ικε ́ς επ ιδιω ́ ξ εις και κoινωνικε ́ς σ υνθ η ́κες. Athens.
+Austrian National Bank, Bank of Greece, Bulgarian National Bank, and National Bank of Romania (2014). South-eastern European monetary and economic statistics from the nineteenth century to World War II. Vienna, pp.406. Avramov, R. (2006). The Bulgarian National Bank in a historical perspective: Shaping an institution, searching for a monetary standard. In R. Avramov and S. Pamuk (eds), Monetary and Fiscal Policies in South-Eastern Europe: Historical and Comparative Perspectives. Sofia: Bulgarian National Bank, pp. 59–76. Bordo, M.D. and Kydland, F.E. (1995). The gold standard as a rule: an essay in exploration. Explorations in Economic History 32, pp. 423–464.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+134 European Review of Economic History
+Bordo, M.D. and Rockoff, H. (1996). The gold standard as a ‘good housekeeping seal of approval’. Journal of Economic History 56, pp. 389–428.
+Christodoulakis, N. (2013). Currency crisis and collapse in interwar Greece: predicament or policy failure? European Review of Economic History 17, pp. 272–293.
+Clogg, R. (2002). A Concise History of Greece. Cambridge: Cambridge University Press. Conant, C.A. (1902). A History of Modern Banks of Issue. New York: G.P. Putnam’s Sons. Daudin, G., Morys, M. and O’Rourke, K. (2010). Globalization, 1870-1914. In S. Broadberry and K. O’Rourke (eds), The Cambridge Economic History of Modern Europe. Volume 2: 1870 to the present, Cambridge: Cambridge University Press, pp. 5–29. de Cecco, M. (1997). Central banking in Central and Eastern Europe. Lessons from the interwar years’ experience. Rivista di storia economica 13, pp. 75–106. de Cecco, M. (1974). Money and Empire: The International Gold Standard, 1890–1914. Oxford: Blackwell. Dertilis, Y. (2010). History of the Greek state 1830-1920. Volume A (in Greek). Athens . Dimitrova, K. and Ivanov, M. (2014). Bulgaria: from 1879 to 1947. In South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II, 199–242. Vienna: Austrian National Bank. Dornbusch, R. (1988). The European Monetary System, the dollar and the yen. In F. Giavazzi, S. Micossi and M.H. Miller (eds), The European Monetary System. Cambridge: Cambridge University Press, pp. 23–41. Dritsas, M. (1999). Monetary modernisation in Greece: bimetallism or the gold standard (1833-1920). Journal of European Economic History 28, pp. 9–48. Eichengreen, B. (1996). Globalizing Capital: A History of the International Monetary System. Princeton: Princeton University Press. Ferguson, N. and Schularick, M. (2012). The “thin film of gold”: monetary rules and policy credibility. European Review of Economic History 16, pp. 384–407.
+Flandreau, M., Le Cacheux, J. and Zumer, F. (1998). Stability without a pact? Lessons from the European gold standard, 1880-1914. Economic Policy 13, pp. 115–162. Flerianou, A. (ed) (1999). Xαρι ́λαoς Tρικoυ ́ π ης . H ζ oη ́ και τ o ε ́ργ o τ oυ. Athens. Flores, J. (2020). Sovereign debt and foreign control in mid-19th century Latin America. In N. Barreyre & N. Delalande (Eds.), A World of Debts. The Global Politics of Public Debts From the Late 18th Century, Palgrave, forthcoming. Flores, J. and Decorzant, Y. (2016). Public borrowing in harsh times: The League of Nations loans revisited. Economic History Review 69, pp. 653–678. Fratianni, M. and Spinelli, F. (2001). Fiscal dominance and money growth in Italy: the long record. Explorations in Economic History 38, pp. 252–272. Gallarotti, G.M. (1995). The Anatomy of an International Monetary Order: The Classical Gold Standard, 1880–1914. Oxford: Oxford University Press. Gardikas-Katsiadakis, H. (2008). Venizelos’ advent in Greek politics, 1909-12. In P.M. Kitromilides (ed), Eleftherios Venizelos. The Trials of Statesmanship. Edinburgh: Edinburgh University Press, pp. 87–114. Gnjatovic, D. (2006). The introduction of the limping gold standard in the principality of Serbia. In R. Avramov and S. Pamuk (eds), Monetary and Fiscal Policies in South-Eastern Europe: Historical and Comparative Perspectives. Sofia: Bulgarian National Bank, pp. 46–58. Gros, D. and Thygesen, N. (1998). European Monetary Integration. Harlow: Longman. Haupt, O. (1886). L’histoire monétaire de notre temps. Paris.
+Hinic, B., Durdevic, L. and Sojic, M. (2014). “Serbia/Yugoslavia: from 1884 to 1940.” In South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II,291–354. Vienna: Austrian National Bank. Joines, D.H. (1985). Deficit and money growth in the United States, 1872-1983. Journal of Monetary Economics 16, pp. 329–351. Kalyvas, S.N. (2015). Modern Greece. Oxford: Oxford University Press.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+Greece and South-East Europe, 1841–1939 135
+Kiosseva, N. (2000). History of the monetary crises in Bulgaria, 1879–1912 (in Bulgarian). Sofia: Economic University Press.
+Kofas, J.V. (1981). Financial relations of Greece and the Great Powers, 1832–1864. New York: Columbia University Press. Kopisidis, M. (2012). Missed opportunity or inevitable failure? The search for industrialization in South-East Europe, 1870-1940. In European Historical Economics Society Working Papers in Economic History No. 19. http://ehes.org/working_papers.html. Kopsidis, M. and Ivanov, M. (2016). Industrialization and deindustrialization in Southeast Europe, 1870-2010. In J. Williamson and K. O’Rourke (eds), Industrialization in the Global Periphery, 1870–2010. Oxford: Oxford University Press, pp. 91–114. Kostis, K. (2003). Hισ τ oρι ́α τ ης Eθ νικη ́ς T ρα ́ πεζ ας τ ης Eλλα ́ δας. 1914–1940: Athens.
+Kostis, K. (2014). Tα κακoμαθ ημε ́να π αιδια ́ τ ης ισ τ oρι ́ας. H διαμóρφωσ η τ oυ νεoελληνικoυ ́ κρα ́ τ oυς 18oς – 21oς αιωνας. Athens.
+Lampe, J.R. and Jackson, M.R. (1982). Balkan Economic History, 1550–1950. From Imperial Border Lands to Developing Nations. Bloomington: Indiana University Press. Lazaretou, S. (2005). The drachma, foreign creditors, and the international monetary system: tales of a currency during the 19th and the early 20th centuries. Explorations in Economic History 42, pp. 202–236. Lazaretou, S. (2015). The evolution of banking and central banking in modern Greece: a historical perspective. History of Economic Thought and Policy 1, pp. 59–82. Lazaretou, S. (2013) From debt default to recession: The 1898 International Financial Control in Greece (in Greek). Athens: Gutenberg. Lazaretou, S. (2014). Greece: from 1833 to 1949. In South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II. Vienna: Austrian National Bank, pp. 101–170. Levandis, J.A. (1944). The Greek Foreign Debt and the Great Powers 1821–1898. New York: Columbia University Press. Maurer, N. and Arroyo Abad, L. “Can Europe Run Greece? Lessons from U.S. Fiscal Receiverships in Latin America, 1904–31. Available at https://papers.ssrn.com/." (2017).
+Mavrogordatos, G.T. (1983). Stillborn Republic. Social Coalitions and Party Strategies in Greece, 19221936. Berkeley: University of California Press. Meissner, C.M. (2005). A New World order: explaining the international diffusion of the gold standard, 1870-1913. Journal of International Economics 66, pp. 385–406.
+Mitchener, K.J. and Weidenmier, M.D. (2010). Supersanctions and sovereign debt repayment. Journal of International Money and Finance 29, pp. 19–36.
+Morys, M. (2017). A century of monetary reform in South-East Europe: From political autonomy to the gold standard, 1815-1910. Financial History Review 24, pp. 3–21. Morys, M. (2013). Discount rate policy under the classical gold standard: Core versus periphery, 1870s-1914. Explorations in Economic History 50, pp. 205–226.
+Morys, M. (2006). South-Eastern European growth experience in European perspective, 19th and 20th centuries. In R. Avramov and S. Pamuk (eds), Monetary and Fiscal Policies in South-Eastern Europe: Historical and Comparative Perspectives. Sofia: Bulgarian National Bank, pp. 23–44.
+Morys, M. (2014). South-Eastern European Monetary History in a pan-European perspective, 1841–1939. In South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War I. Vienna: Austrian National Bank, pp. 25–53. Morys, M. and Ivanov, M. (2015). The emergence of a European region: Business cycles in SouthEast Europe from political independence to World War II. European Review of Economic History 19, pp. 382–411. Müller, G. (2014). Fiscal austerity and the multiplier in times of crisis. German Economic Review 15, pp. 243–258. Pepelasis Minoglou, Ioanna (1993). The Greek state and the international financial community, 1922-1932: demystifying the ‘foreign factor’. In PhD thesis London School of Economics, “unpublished PhD dissertation”.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022
+
+
+136 European Review of Economic History
+Pepelasis Minoglou, Ioanna (1995). Political factors shaping the role of foreign finance: The case of Greece, 1832-1932. In J. Harriss, J. Hunter and C.M. Lewis (eds), The New Institutional Economics and Third World Development. London: Routledge, pp. 250–264. Psalidopoulos, M. and Schönhärl, K. (2013). Die griechische Staatsverschuldung in der zweiten Hälfte des 19. Jahrhunderts. In T. Beigel and G. Eckert (eds), Vom Wohl and Wehe der Staatsverschuldung. Münster: Aschendorff, pp. 131–164. Reinhart, C.M. and Trebesch, C. (2015). The pitfalls of external dependence. Brookings Papers on Economic Activity pp. 307–328.
+Rogoff, K. (1985). The optimal degree of commitment to an intermediate monetary target. Quarterly Journal of Economics 100, pp. 1169–1189.
+Sabaté, M., Escario, R. and Gadea, M.D. (2015). Fighting fiscal dominance. The case of Spain, 1874-1998. European Review of Economic History 19, pp. 23–43.
+Schulze, M.-S. and Kopsidis, M. (2020). Economic growth and sectoral developments. 1800-1914. In M. Morys (ed), The Economic History of Central, East and South-East Europe. 1800 to the Present Day. London: Routledge, forthcoming. Stassinopoulos, Y. (2002). Economic thought and monetary policy in nineteenth-century Greece. In M.E. Mata and M. Psalidopoulos (eds), Economic thought and policy in less developed Europe. The nineteenth century. London: Routledge, pp. 172–186. Stoenescu, G.V., Aloman, A., Blejan, E. and Costache, B. (2011). Monetary policy in South-East Europe in the transition from bimetallism to the gold standard. In Conference Proceedings of the 6th Meeting of the South-East European Monetary History Network on 18th March 2011 in Bucharest, edited by National Bank of Romania, Bucharest: National Bank of Romania, pp. 170–194. Tooye, A. and Ivanov, M. (2011). Disciplining the ‘black sheep of the Balkans’: financial supervision and sovereignty in Bulgaria, 1902-1938. Economic History Review 64, pp. 30–51. Tuncer, Ali Coskun. Sovereign debt and international financial control. The Middle East and the Balkans, 1870–1914. Basingstoke: Palgrave Macmillan, 2015. Wickens, M. (2018). A Macroeconomic Perspective on the Greek Debt Crisis. In I. Bournakis, C. Tsoukis, D. Christopoulos and T. Palivos (eds), Political Economy Perspectives on the Greek Crisis: Debt Austerity and Unemployment. London: Palgrave Macmillan. Wynne, W.H. (1951). State insolvency and foreign bondholders. Volume 2. New Haven: Yale University Press.
+Downloaded from https://academic.oup.com/ereh/article/25/1/106/5838276 by London School of Economics user on 18 December 2022

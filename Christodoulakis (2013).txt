@@ -1,0 +1,1553 @@
+All views expressed in this paper are those of the authors and do not necessarily represent the views of the Hellenic Observatory or the LSE © Nicos Christodoulakis
+Currency crisis and collapse
+in interwar Greece:
+Predicament or Policy Failure?
+Nicos Christodoulakis
+GreeSE Paper No.60
+Hellenic Observatory Papers on Greece and Southeast Europe
+JULY 2012
+
+
+ii
+_
+TABLE OF CONTENTS
+ABSTRACT __________________________________________________________ iii
+1. Introduction _______________________________________________________1
+2. The quest for stability in Greece_______________________________________6
+3. Sliding on the golden edge: fight, flight and failure_______________________11
+4. Modeling the currency crisis _________________________________________17
+5. Conclusions_______________________________________________________27
+Appendix A. Graphs __________________________________________________31
+Appendix B. Modelling the currency peg__________________________________39
+Appendix C. Data analysis _____________________________________________41
+References _________________________________________________________42
+Acknowledgements
+I am thankful to N. Pittis and Olga Christodoulaki (no relation) for valuable suggestions, and also to participants at a seminar in the University of Cyprus, and in the Conference on ‘Interwar Economic Leadership in Small Countries’ organized by the Venizelos Foundation for helpful comments on an earlier version. Help by Sofia Lazaretou on the recently compiled data series of the Bank of Greece is gratefully acknowledged. The usual disclaimer applies.
+
+
+iii
+Currency crisis and collapse
+in interwar Greece:
+Predicament or Policy Failure?
+Nicos Christodoulakis#
+ABSTRACT
+Greece in 1928 viewed the anchoring to the Gold Exchange Standard as
+the imperative choice of the time in order to implant financial credibility
+and carry over an ambitious plan of reforms to modernise the economy.
+But after the pound sterling exited the system in 1931, Greece, instead
+of following suit, chose a defence that drove interest rates at high levels,
+squeezed the real economy and exhausted foreign reserves. Unable to
+borrow from abroad, it quitted the system in 1932 and the Drachma was
+heavily devalued. Despite a rise in competitiveness, the erosion of real
+incomes cut domestic demand, unemployment continued to rise and the
+country entered a period of acute social and political instability. The
+lessons are perhaps relevant today for the costs that Greece would face
+by exiting the Eurozone.
+A model of Balance of Payments crises with partial capital controls is
+employed to analyze the response of currency pegs to external shocks
+and examine under which circumstances the regime collapses. Its main
+predictions are found to be in agreement with the actual outcomes in
+1932
+JEL classification: N14, N24, F32.
+Keywords: Gold Exchange Standard, reserves, exchange rate.
+# Athens University of Economics and Business (AUEB), 76, Patission Street, Athens GR 10434
+
+
+
+
+1
+Currency crisis and collapse
+in interwar Greece:
+Predicament or Policy Failure?
+1. Introduction
+A byproduct of the current Greek debt crisis is a thriving literature based
+on the intellectual speculation – sometimes on a market one as well 
+that Greece is bound to fail the stabilization process and, therefore, exit
+the Eurozone and default. The argument goes that under the present
+fiscal austerity and currency fixity, recession will deepen destroying jobs
+and igniting social unrest; see Roubini (2011). After abandoning the
+Euro, Greece is assumed to become master of its fate so that she prints
+her own money, rebukes the austerity program, and – of course 
+devalues, perhaps heavily. A concomitant option would be to repudiate
+obligations since all public debt is presently denominated in Euro and a
+steep devaluation would make its servicing intolerable; see Feldstein
+(2011). But, the argument continues, this is an affordable cost as the
+economy soon will assume a growth path, with competitiveness and
+employment restored, and reforms advancing; see Azariadis (2011).
+If not convincing enough, the above arguments are enriched by historical
+clichés, according to which Greece will fail because under similar
+circumstances it has also failed in the past. Hartwich (2011) argues that
+one such episode was the country leaving the Latin Monetary Union
+(LMU) in 1908 and concludes that “Greece is a basket case”. However,
+
+
+2
+the important fact rather was that Greece successfully managed to stay
+in LMU for forty years (since 1868), overcoming major deficiencies in the
+domestic economy and the challenge of globalization in late 19th
+century; for a description see Lazaretou (1999). It was only after the ill
+fated war in 1897 that Greece became unable to service the debt and
+pay retributions to Ottoman Turkey, that LMU participation looked
+untenable. In any case Greece joined back in 1910, but only for a few
+more years as most members exited the system after the outbreak of
+the Great War in 1914.
+The second and oft cited incident took place in 1932 when Greece
+abandoned the interwar Gold Exchange Standard (GES) and
+subsequently repudiated its debt. In contrast to conventional wisdom,
+neither the collapse was predetermined by some Greek history dictation,
+nor the post-collapse regime managed to cure the economic and social
+problems of the period. The same applies for the current situation in
+Greece, as recession is looming and the scenario of failing to stay in the
+Eurozone is advanced both by international analysts and critics at home1
+However, whether Greece fails or succeeds on this matter is an issue of
+policy, not one of fate.
+In this respect, it is useful to analyze the causes and consequences of the
+crisis in the 1930s and the present paper sets to analyze three points:
+First, to explain why joining the GES was a fully justified decision that
+helped Greece to ensure fiscal stability, acquire international credibility
+and establish access to low-cost finance. In comparison with the
+previous situation, improvement within the GES has been enormous. In
+1 For a relevant analysis see Christodoulakis (2012).
+
+
+3
+the 1920s, Greece was experiencing the contradicting consequences of
+being first a victorious power in the Great War and then a defeated
+nation in the campaign in Asia Minor, only a few years later. Greece had
+to rapidly absorb two million national refugees and integrate them in the
+economic and social framework. At the same time she had to modernize
+the economy and facilitate the financing of major productive projects to
+enhance regional development. A turning point was when the centre-left
+Party of Liberals won the elections of 1926. The new Government sought
+a more liberalized environment in trade and industry, the reduction of
+fiscal deficits and the establishment of a Central Bank that was deemed
+as a precondition for raising credibility in international markets, reducing
+the cost of borrowing and servicing the war-swollen debt. The crucial
+next step was participation in GES, and the decision was finally taken in
+1928. Authorities viewed the anchoring to Gold as the unique choice to
+implant financial credibility and carry over an ambitious plan for the
+modernisation of the economy.
+Within the GES, Greece managed a successful implementation of fiscal
+and structural policies in the domestic economy. In just two years,
+public deficit and inflation were reduced, and several structural reforms
+were implemented to create a more liberalized economic environment
+and modernize the banking system. The Balance of Payments improved
+noticeably and growth resumed. Public debt in US dollars was reduced
+to almost half the level it had in the previous decade.
+The second aim of the paper is to describe the policy failures that led to
+the currency regime collapsing in 1932, despite the previous adjustment
+efforts. The pressure started to accumulate with the Great Depression,
+
+
+4
+though the Greek economy was not immediately hit as happened with
+other economies. Adherence to the GES remained unquestionable
+throughout, though fiscal austerity and a rise in interest rates dampened
+growth and unemployment started to rise. However, the main shock
+came when the pound sterling abandoned the system in September
+1931 sparking international panic and precipitating similar moves by
+other countries. Keeping most of the foreign exchange reserves in British
+currency, Greece incurred serious losses and defenses against a
+speculative attack abruptly weakened. At that point, Greek authorities
+made the critical mistake not to orderly follow the depreciation of the
+pound, but instead chose to fight for staying in the GES to the bitter end.
+As no international credit facility – let alone financial solidarity from
+other members of the system– was available at that time the game soon
+was over and Greece finally collapsed in April 1932.
+The third aim of the paper is to describe the consequences that
+abandonment of the GES had on the domestic front. Instead of a
+transition to a stable economy, the steep devaluation and the ensuing
+inflation eroded domestic demand and unemployment increased
+further, while debt repudiation tarnished the country’s credibility for
+many years and led to a dramatic political fall-out. If anything, the crisis
+and default of the 1930s is a lesson to be avoided rather than copied.
+The literature on Balance of Payments crises is employed to analyze the
+response of currency pegs to external shocks and see under which
+circumstances the regime becomes untenable. Building a dynamic model
+of foreign exchange reserves and the exchange rate, the paper explains
+the way the regime finally collapsed and highlights some policy
+
+
+5
+alternatives that could have been followed in 1931. In the early models
+developed by Krugman (1979) and Calvo (1987), collapse is taking place
+in predetermined time, when domestic credit follows a constant growth
+rate known to market participants. That was not the case for Greece in
+1931, where the fight to stay in the system lasted more than six months
+and the decision to abandon it was taken by the Government amid fears
+that reserves would be otherwise completely vanished. In Greece, credit
+growth was randomly influenced by the Central Bank, and, moreover,
+the imposition of some capital controls in 1931 meant that market
+players were not able to fully enforce their strategy. In the present
+formulation, partial capital controls are assumed to be in place and
+collapse occurs when the stock of foreign reserves falls to a critical level
+known only to the authorities. A unique equilibrium is derived and the
+predictions of the model are found to be in agreement with actual
+developments before and after the crisis.
+The rest of the paper is organised as follows: Section 2 provides a brief
+account of the reasons that led Greece along several western countries
+to adopt the Gold Exchange Standard. Section 3 describes the main
+episodes in defending the regime and the policies that aggravated
+recession and ultimately led to the collapse of the currency. Section 4
+presents a simple model of Balance of Payments crises, which is
+modified to portray how the Central Bank can use the level of foreign
+exchange reserves to mitigate the excessive rise in interest rates when
+an adverse shock hits the economy. Section 5 concludes.
+
+
+6
+2. The quest for stability in Greece
+In the aftermath of the First World War, European nations were
+experiencing economic instability associated with exchange rate
+fluctuations, rampant inflation and lack of financing. In 1919, the United
+States decided to adopt the Gold Standard and this prompted the
+League of Nations to organize, one year later, the Paris Conference
+seeking exchange rate stability and some form of returning to the Gold
+Standard. The plan was based on complicated requirements, thus it was
+no wonder that little progress followed the proclamation. It was only
+after the horrifying shock of German hyperinflation in 1922, that the
+victor countries finally decided to endorse exchange rate fixity as the key
+factor to achieve economic stability. The Gold Exchange Standard was
+established at the Genoa Conference in 1922 and several countries
+rushed to join-in.
+The European postwar malaise notwithstanding, Greece was further hit
+in the early 1920s by its defeat in Asia Minor and the anomalous political
+situation that prevailed afterwards. As shown in Figure 1, public debt
+had reached alarming levels, first because of the military spending
+during World War I, and then because of the huge burden of the ill-fated
+campaign. The implementation of reforms looked implausible, inflation
+was at levels over 80% (see Figure 2), and the Drachma was unstoppably
+losing ground to both the UK sterling and the US dollar, (Figure 3).
+Greek money markets were suffering from the Drachma slide and there
+was massive capital flight to foreign banks. With a thin financing capacity
+at home, the government had to rely heavily on borrowing from
+international markets. In fact, most of the major loans were launched in
+
+
+7
+London and New York, and this made domestic investment activity to
+depend crucially on the capital inflows; for example, a loan of £ 4 m
+issued in London in 1928 was earmarked to finance specific investment
+projects. Besides, as pointed by Lazaretou (1999), borrowing from
+international markets was also seen as a way to encourage repatriation
+of Greek funds.
+As regularity of debt payments was not taken for granted, the question
+of Greek solvency was receiving extensive foreign press coverage. A
+documentation of how foreign investors adjusted their expectations
+about the viability of the financial system is given by Christodoulaki and
+Penzer (2004). As a proxy measure of the increasing market anxiety, they
+calculate a dominance index of the (usually bad) news on Greek debt
+developments relative to total information on Greece appearing in the
+British press and find it to rise steeply after 1925. Nervousness was
+spreading and sometimes led to openly hostile actions. The authors note
+one such case, in which the Allies got so estranged by domestic political
+developments that they cancelled the Book of Credits and imposed a
+general financial embargo on Greece. From the status of an acclaimed
+war ally, the country lost face in the post-war market fields.
+In such an environment, joining the Gold Standard was rightly seen as a
+precondition to facilitate the influx of foreign capital essential for
+economic growth. The first step was the establishment of the Central
+Bank in April 1928 aiming to persuade foreign investors that financial
+practises would be more credible, and in May 1928 Greece joined the
+GES. As noted by Bordo and Rockoff (1996), adherence to the Gold
+Standard in the 1920s acted as a ‘seal of approval’ for sovereign debt of
+
+
+8
+participant countries, and helped Greece as well to improve her status in
+international markets.
+Improvement, however, was not to the extent envisaged by Greek
+authorities. Recent econometric evidence by Obstfeld and Taylor (2003)
+on interwar markets suggests that the return to the Gold Standard after
+the Great War did confer lower sovereign spreads to participants on
+servicing their debt. They note, however, that improvement neither
+reached the extent of the period before 1914, nor it was equally shared
+by all countries. In fact, Greece did not enjoy much of the reduced
+spreads in the pre-war system either, during which she was paying a
+large risk premium of 215 basis points, while most other countries were
+enjoying a zero spread. A similar discrepancy was experienced by Greece
+in the GES, for three reasons:
+First, because international investors scrutinized more carefully than
+before the sustainability of trade balances in each country and the
+appropriateness of the exchange rate level when entering the GES.
+Greece was characterized by chronic deficits (see Figure 4) and fixing the
+Drachma to the pre-war exchange rate with the UK pound sterling did
+not appear convincing as a cure for existing imbalances. By deciding this
+rate, Greece hoped to convey a signal of international clout in the
+domestic political scene as a firm partner of Britain, but on economic
+grounds the decision was unfounded given the slim trade volumes
+between the two countries. In the second half of the 1920s, Greek
+exports to the UK were counting for only 12.2% of total volumes, while
+imports from the UK for just 13.4%. Trade volumes with the US were
+considerably higher, as were with Germany and Italy, and the exchange
+
+
+9
+rate should have been pegged to an average of the major trading
+currencies. Moreover, the British rate itself was out of context as Keynes
+famously remarked2 in account of the miscalculated restoration to its
+pre-war value. Shortly after, Great Britain went through a severe
+recession and, due to the credit meanness that prevailed, its industrial
+competitiveness was seriously undercut. Greece just copied the
+miscalculation and multiplied the consequences.
+Second, because Greece entered the GES too late and soon afterwards
+international recession was looming and undermined most of the
+expected benefits from an increased world demand. Domestic discount
+rates were reduced by 1929, but then rose again in 1931 to reflect the
+tightening of international credit after the Great Depression. The
+contraction in domestic credit cut domestic demand and the economy
+soon entered a period of prolonged recession.
+Third, because of the devastating competitive devaluations that
+followed: With recession spreading and deepening worldwide, the
+attractiveness of the GES was eroded and eventually abandonment
+became inevitable for many countries. After Greece joined in 1928, only
+three more countries followed, as the storm was gathering3: France
+joined the GES in September 1928, but only after a substantial
+devaluation of the franc; Japan joined in January 1930 but exited before
+the end of 1931, and, finally, Portugal made the shortest journey
+entering in July 1931 and jumping out of the ship just three months
+later. Similarly, the Nordic countries suspended the GES and devalued
+2 In the essay “The economic consequences of Mr. Churchill”, 1925. 3 Dates are taken from Obstfeld and Taylor (2003), Table A1.
+
+
+10
+their currencies in 1931. Eichengreen and Sachs (1985) document that
+all countries that either de jure or de facto devalued their currencies in
+the 1930s, came out of the recession faster. They note that in order to
+face economic downturn in the early 1930s, European nations could
+have conceived various policies to pursue, among them ‘... devaluation,
+protection, monetary expansion and fiscal stimulus’. But none of these
+policies was considered within the GES.
+In fact, the countries remaining in the GES were further tightening their
+monetary policy and this was hitting the borrowing costs for Greece. For
+example, the Bank of England raised the discount rate more than
+twofold, from 2.5% in May 1931 to 6% in September, in her own struggle
+to sustain the exchange rate parity. Expectedly, the appetite of London
+investors for Greek bonds declined en masse and, as result, the Greek
+economy was suffering both from credit shortage and capital flights
+abroad that were further exacerbating domestic contraction. In such an
+adverse international environment, Greece was refusing to consider a
+devaluation of the Drachma and vowed to bear any cost for staying in
+the system. But this was only making investors even more uncertain and
+speculators even more determined. The fight for the GES at the end
+became ideological and soon lost touch with the reality of markets.
+Adopting the economic orthodoxies prevailing at that time, the Greek
+Government ignored the perils of recession and embarked on an
+overzealous fiscal stance to convince worrying foreign investors about its
+determination to stay in the system. The preoccupation with fiscal and
+monetary straightjackets was so overwhelming, that the Party of Liberals
+opposed even its own previous legislation on a social security system
+
+
+11
+and work-time regulations, disregarding hostility from the unions and
+risking social unrest. The fiscal effort was effective, and Figure 5 shows
+that it managed to achieve small budget surpluses in 1931. But in spite
+of the success in harnessing the deficit, the economy was reaching its
+limits when major new shocks occurred shortly.
+3. Sliding on the golden edge: fight, flight and failure
+The Greek Government was taken by sheer surprise when the UK
+abandoned the GES in September 1931 and devalued by 35% to the US
+Dollar. The move was declared by Greek authorities4 as “the strongest
+possible shock”, and quickly reverberated on many fronts. Politically, the
+Government lost face as the unilateral act tarnished its long-nourished
+reputation for being a strategic partner with the UK. In financial terms,
+distress was even harder. As noted by Eichengreen (2012), the Bank of
+England had previously reassured foreign central banks of its unwavering
+support for the prevailing sterling exchange rate. Convinced of such
+assurances, Greece had augmented foreign reserves in pound sterling
+just a few months before by selling gold to the Bank of England, thus
+incurring sizeable losses on the eve of the British abandonment. As a
+scapegoat, the Governor of the Bank of Greece was asked to resign the
+very same day.
+Instead of the Drachma following the British move and depreciate
+analogously, Greece acted with the perseverance of a late proselyte. The
+determination to stay in the GES was reaffirmed in a joint meeting
+4 Bank of Greece, 1932, “The Governor’s Report for Year 1931”, (ch. xii), as quoted by Psalidopoulos (2011, p. 85).
+
+
+12
+between the Prime Minister, Central Bank and commercial banks. The
+decision was openly objected by the Chief Economist of the Bank and
+the League of Nations representative in Greece5, but their argument was
+fiercely opposed by commercial banks that feared their reserves would
+be diminished by a drastic devaluation6. The Government finally vowed
+to stay in the GES by shifting the peg to the US Dollar at the rate implied
+before the devaluation of the British pound, (i.e. 375 Drs per BPS/4.866
+BPS per USD = 77.05 Drachmas per Dollar). To reassure markets about
+their stance, authorities moved decisively in three ways:
+First, by adhering to a rigorous fiscal stance as described above. The
+political investment to the GES was so deeply rooted that it made the
+Government to ignore the recessionary effects and the steep rise in
+unemployment; see Figure 6 and 7 respectively. Even left-wing radicals
+in the Party of Liberals went to the point to criticize the Government for
+not being as determined as to reduce public consumption further
+(Mazower, 2002, p 215).
+Second, by raising the Bank lending rate in order to restrain domestic
+credit expansion. As often happens in similar cases, playing with high
+interest rates was considered as a political show-off against speculators.
+In a defiant mood, the Prime Minister himself called authorities “... not
+to hesitate to raise interest rates to 20% or even to 50% if deemed
+necessary”, (Mazower, 2002, p 211).
+5 As described in Bank of Greece (1978), The first fifty years, p. 93. 6 Commenting upon a similar decision by the UK the year before, Keynes noted that ‘...the decision to maintain the gold standard at all costs has been taken ... in a spirit of hysteria and without a calm consideration of the alternative before us’, (in the essay “On the eve of the Gold suspension”, 1931).
+
+
+13
+Third, by imposing capital controls to curb the ensuing capital flight.
+Market players considered this decision as a ‘de facto’ partial
+abandonment of convertibility, and fears spread that the country may
+eventually exit the system, and expectations were adjusted accordingly.
+The decision to suspend the Stock Exchange in September 1931 in order
+to avoid sell-out hysteria fuelled more fears that the Government is in a
+precarious situation and may not succeed for long in keeping with the
+GES.
+Domestic funds were fleeing for yet another time and authorities
+responded by setting interest rates even higher and the discount rate
+climbed up to 12%; see Figure 8. But such a rise was choking off liquidity,
+thus aggravating the dysfunction of the economy and reinforcing
+pessimistic expectations in the market. Access to international
+borrowing was further curtailed and the government was in a difficult
+situation, since it was strategically dependent on international capital
+inflows and ‘... their shortage was making it inactive and waiting, with
+the hope that eventually flows would start again’; see (Mazower, 2002,
+p. 214).
+With credibility undermined from the start, panic and speculation soon
+reigned in and sparked a chain of events. As contraction in activity and
+liquidity led to widespread protests in the autumn of 1931, industries
+pressed commercial banks to raise liquidity capital. With much of private
+deposits withdrawn by worried creditors, commercial banks turned for
+help to the Central Bank, thus effectively enforcing her to act as “a
+lender of last resort” and sacrifice a substantial part of its foreign
+reserves.
+
+
+14
+The effectiveness of monetary policy was put in further doubt when the
+Bank of Greece took the controversial decision to provide credit facilities
+directly to industry. Mazower (2002, p 199) attributes the action to the
+ambition of the Bank of Greece to antagonize commercial banks by
+opening new branches and offering cheap loans to selected local
+markets. Kostis (1986) describes this phenomenon as a “complete
+paradox” which undermined efficacy at critical moments, while
+Minoglou (1995) asserts that confusion between its supervisory and
+credit-providing roles perpetuated the crisis. Whatever the motivation,
+the result of further credit expansion was that foreign exchange reserves
+were depleted fast as shown in Figure 9, precipitating the abandonment
+of the regime as analyzed in the next section.
+With reserves depleting, a proposal was publicly put forward7 for Greece
+to declare a unilateral moratorium on debt payments. The Government
+initially rejected the proposal, but then included a softer version of it in a
+last attempt to defend its position. Seeking financial assistance from the
+League of Nations and the UK, Greece asked in January 1932 for a 5-year
+moratorium on foreign debt servicing and a new loan of pound sterling
+12.5 million to finance infrastructural projects and enhance growth.
+After months of procrastination, the League rejected the request8 and
+the Government finally realized that the situation was no more
+defensible. To avoid a disorderly collapse, a Law was passed by
+Parliament and the system was officially abandoned in April 1932. The
+Drachma devalued and subsequently foreign obligations were
+7 By D. Maximos, Governor of the National Bank of Greece and later Prime Minister; see Bank of Greece (1978, p 98). 8 It agreed only to a brief postponement of debt repayment, utterly insufficient to reverse the situation, Bank of Greece (1978, p. 100),
+
+
+15
+repudiated. Post-default, the Bank of Greece sought a compromise with
+foreign bond-holders proposing to compensate them at 30% of the
+nominal value. After some initial protestations, most holders had
+accepted the offer by the end of 1932.
+The economic consequences of devaluation were mixed. Since the
+abandonment of the GES took place not as a controlled shift in economic
+strategy but as an unavoidable failure of policy, it did not usher in a
+period of stability. The ensuing inflation in 1932 (Figure 2) cut real
+wages, but industrial production continue to shrink and rose mildly only
+after 1933 (Figure 6) Trade balance improved, as shown in Figure 4, but
+the improvement came mainly from the reduction of imports9 by USD 49
+million due to the fall of real incomes and the imposition of tariffs. At the
+same time exports fell too by USD 20 million, most probably because
+protectionism was spreading in many European countries inhibiting an
+export-led growth in other economies. In 1934 both exports and imports
+were -45% lower than their 1931levels, thus trade imbalance was also
+reduced by nearly half.
+Agricultural production did not rise, suffering from the contraction of
+world demand, while rural incomes were falling due to the deterioration
+in the terms of trade. In some sectors the decline was massive. For
+example, the production of tobacco was halved in 1932 in comparison to
+the previous year, causing abject poverty10 and fermenting political
+discontent.
+9 Data are taken from Bank of Greece (1978), The first fifty years, Table 10, p. 105. 10 In his description of the period, Psalidopoulos (2011, p. 69) notes that the rural populations were living in “desperate conditions”.
+
+
+16
+In spite of the devaluation, uncertainties continued to prevail in the
+labour market. Several firms were finding it easier to meet higher
+production by extending work time rather than hiring new employees, at
+least before the political and social situation is stabilized. In such an
+environment employment exhibited a strong hysteresis and did not
+recover along the rise in industrial production. In 1932, employment
+ended almost 15% lower according to Lazaretou (2009, p 34) and
+unemployment kept rising as depicted in Figure 7. Employment
+hysteresis was also the case in other countries for the same reason of
+widespread uncertainties. For example, Blanchard and Summers (1986)
+note the persistent increase in unemployment in the US in the 1930s,
+which only subsided during the War. Unemployment in Greece declined
+only in the second half of the decade after major political changes have
+taken place that brutally destroyed trade unions and sent their
+representatives in exile.
+The political fall-out was dramatic, and in the next four years the country
+went through a unique process of disintegration and chaos. There have
+been four elections (1932, 1933, 1935 and 1936), an assassination
+attempt against the crisis Prime Minister, one election boycott and four
+military coup d’ etats. The first two attempts of seizing power were
+initiated by supporters of the Party of Liberals and, after failing, their
+leaders were summarily executed. the third coup was pro-royal and
+managed to restore the monarchy through an allegedly rigged
+referendum. As unemployment continued to surge, social clashes
+intensified and finally a pro-fascist dictatorship was imposed by yet
+another coup in 1936.
+
+
+17
+4. Modeling the currency crisis
+To study the interaction between pressure on the exchange rate and
+depletion of foreign exchange reserves, a simple dynamic model is set
+up. It broadly falls in the framework of Balance of Payments crises,
+properly modified to reflect particular developments during the Greek
+crisis. Variables are in Roman case, expressed in continuous-time, with
+an over-dot denoting time-derivatives, superscript (e) expectations,
+small case expressing natural logarithms, and a star indicating
+equilibrium values. Parameters are in Greek case.
+The Central Bank:
+The exchange rate is fixed at a predetermined level 0
+X = X of domestic
+units per foreign currency of the anchor country, so that an increase in X
+denotes depreciation. Other countries in the GES are assumed to have
+an average exchange rate Z vis-à-vis the anchor currency, so that the
+bilateral exchange rate of home country is X/Z of domestic units per
+currency of non-anchor members.
+The Bank controls money supply (M) so as to keep domestic inflation (π)
+at the same level as other GES countries, i.e. W
+π ≈π , ensuring purchasing
+power parity under the peg. The Central Bank keeps international assets
+(Q), the major part of which is held in interest-bearing accounts in
+foreign currency and the rest in gold. For simplicity, it is assumed that a
+uniform return equal to the foreign interest rate (r) is paid on the total
+stock of reserves and the net profit (rQ Q)
+•
+− is collected by the
+Government. The balance sheet of the Central Bank in domestic book
+value requires that
+
+
+18
+D + Q ⋅ X = M (1)
+where (D) is domestic credit. To sterilize changes in reserves from
+reaching the money aggregates, credit is adjusted to changes in foreign
+reserves.
+The real economy:
+The resource constraint implies that
+Y = C + I + G + J (2)
+where Y is output produced in the economy. C is consumption, J denotes
+exports net of imports and G is public spending, while private
+investment ( I ) is assumed exogenous in the short run and thus the
+capital stock does not interact with the rest of the model. However, a
+rudimentary process of labour demand can be modeled to account for
+the persistence of unemployment discussed in the previous section. If
+( L ) households supply their labour, a linear production function with
+constant returns to scale can be written as Y = Φ ⋅ (Lh) , where (h) is
+worktime and (Φ) a technology constant. The number of employees is
+adjusted with a hysteresis, at a rate
+()
+Y
+LL
+h
+=λ −
+Φ (3)
+The higher the value of parameter (λ), the slower the adjustment of
+employment to new demand. Given that worktime regulation was very
+weak, an increase in production could be absorbed by extending working
+hours, so again unemployment could persist in spite of the rise in
+output.
+
+
+19
+Domestic households receive all the income and invest their savings on
+Government bonds with a return (R). Assuming a lump-sum tax ( T ) on
+households, the Private Sector Constraint (PSC) dictates that changes in
+their wealth (A) are given by
+A RA (Y C T I )
+•
+= + − − − (4)
+The Government:
+The Government issues a total stock of debt (B), which is financed by
+domestic households (A) and foreign capital inflows (F). The Government
+budget constraint (GBC) requires that:
+B RB G T Q rQ
+••
+= + − + − (5)
+In 1931-32 authorities were maintaining a balanced budget policy, as it is
+clearly demonstrated in Figure 4. To capture this fact, fiscal policy is
+considered exogenously set, as in Krugman (1978) and Calvo (1987), in
+such a way as to keep gross budget deficits at zero level. Hence, there is
+no need for further modelling the intertemporal budget constraint.
+Domestic assets (R) differ from the yield (r) on foreign assets by a
+sovereign spread ( s = R − r ). Differentiating total debt (B=A+F), using (4),
+(5) and the output identity (2), new capital inflows in each period are
+given by:
+F (r s)F Q rQ J
+••
+= + + − − (6)
+The equation represents the External Solvency Constraint (ESC). It is
+obvious that by observing GBC and ESC, the process PSC is also
+stabilized. The constraint implies that in each period, new capital flows
+
+
+20
+are needed to finance the trade deficit ( −J ) and the interest payments
+to foreign investors, as well as to raise foreign exchange reserves on a
+net basis. As a matter of fact, one third of the Stabilization Loan of £ 9
+million issued in London in 1927 on behalf of the Hellenic Republic was
+earmarked for setting up the reserves of the Central Bank.
+In the absence of inflation differentials, net exports are approximated by
+an increasing function of nominal exchange log-rates (x) and (x-z) vis-à
+vis the anchor and the non-anchor countries respectively, and an index
+of world demand (W), while decreasing with domestic demand, i.e.
+01 2 3 4
+J = β + β ⋅ x + β ⋅ (x − z) + β ⋅W −β ⋅Y (7)
+Parameters 1 2
+β,β are proxies for price elasticities of net exports, 3 4
+β ,β
+are the propensities of foreign and domestic demand respectively, and
+β0 is a constant.
+Capital markets:
+In the models developed by Krugman (1979) and Calvo (1987), collapse
+occurs at some predetermined point in time when foreign reserves are
+exhausted by a constant rate of credit expansion known to the market
+players. Foreseeing this, they organize a speculative attack and the
+system collapses before all reserves are depleted. That was not the case
+in Greece in 1931-32, for two reasons: First, because credit provision
+was occasionally boosted by the Central Bank as described in the
+previous section, making it to resemble more with the stochastic setting
+developed by Flood and Garber (1984). Second because of the presence
+of capital controls, that did not allow market players to fully enforce
+
+
+21
+their strategy. To treat this analytically, suppose that the extent of
+capital controls is measured by (θ).
+In the absence of controls (θ=0), sovereign yield spreads cover the
+depreciation expected to take place in the eventuality of the peg
+collapsing. On the other hand, if fully constrained by capital controls
+(θ=1), market participants would form expectations by calculating some
+kind of pressure on the currency. If, for example, they think that a viable
+exchange rate should be at a new level (U), the pressure is expressed in
+log terms by (u-x). The viable level (u) is not known with certainty11 and
+perceptions about it may change. This makes the time of collapse not
+perfectly foreseen by market participants. With capital controls partly
+effective (0<θ<1), the expectation of exchange rate depreciation is given
+in log-form by:
+(1 )( ) ( )
+xe = −θ R − r +θγ u − x (8)
+where (γ) is a ‘pressure’ parameter12. As a matter of fact, capital controls
+imposed in 1931 were only partly observed and the Governor of the
+Bank was sacked in account of his inability to fully enforce them.
+In a currency peg, the spread is a typical measure of nervousness in the
+forex market and currency crises are almost invariably preceded by
+explosive patterns of spreads. An index of exchange market pressure
+based on the evolution of spreads and international reserves was initially
+proposed by the seminal paper of Girton and Roper (1977), and
+11 In 1932 there was a vast disagreement on what would be the adjustment rate in case the Drachma abandoned the GES, see Mazower (2002, p. 233) 12 In the first term of the r.h.s., capital controls act as a tax on profits from forex transactions, as described in Agenor and Flood (1994).
+
+
+22
+subsequently a vast number of applications employed similar measures
+for the identification of a currency crisis; see, among many others,
+Eichengreen et al. (1995). The justification is that low spreads are
+associated with credible exchange rate regimes, while high premia unveil
+uncertainty about their viability. In the approach by Hellwig et al. (2006),
+investors take into account the risk of default, thus the gap between
+demand and supply of domestic bonds closes by offering satisfactorily
+high spreads over the foreign yield. This is a mechanism that may lead to
+a currency crisis, if investors have pre-committed to liquidate after
+spreads reach a “threshold point”. Krugman (1991) refers to several
+occasions that a currency regime is at risk to explode if future contracts
+with automatic clauses are activated after certain safety margins are
+reached. As highlighted by Dornbush (1991), the fear felt by the
+individual investor that - unless a currency position is reversed
+immediately - major losses may happen later, leads to “bandwagon”
+effects and soon the market fails. In other cases a run-away may be
+triggered simply when investors are risk-averse and adopt stop-loss
+schemes to limit their exposure. In all these cases, the behaviour of
+spreads becomes strategic for the survival of the currency regime.
+In practice the evolution of spreads and reserves may not be
+independent from each other. As studied by Lahiri and Vegh (2007),
+authorities may also be preoccupied by hikes in spreads not just because
+the higher cost of debt servicing, but also because of the effect that
+rising interest rates exert on domestic activity. In such cases, authorities
+may sacrifice part of foreign exchange reserves to boost credit according
+to (1) and thus domestic demand. Reflecting the above, a simple
+
+
+23
+negative relationship13 between sovereign spreads and the stock of
+reserves is postulated as:
+s = σ−ηQ (9)
+where (σ, η) are parameters14. To empirically investigate the interaction
+between spread and reserves in the 1930s, one needs high frequency
+data, especially for the period of crisis. Though monthly data for
+sovereign yields have been calculated by the Bank of Greece and span
+the period 1929-1940, they are missing for the critical period as the
+Athens Stock Exchange was suspended from September 1931 until
+March 1932. Taking into account that the majority of foreign bond
+holders were British15,, the sovereign spread is constructed by taking the
+difference between Greek yields quoted in London and the yield on the
+2.5% British consol. As shown in Figure 8, sovereign bond yields quoted
+in London were comparable with those in Athens until September 1931.
+A strong negative correlation with foreign reserves as implied by (9) is
+displayed in Figure 10.
+Data series16 are found to imply that Granger-causality from reserves to
+spreads cannot be rejected at the 1% level, while it is heavily so the
+other way around. Using a dummy for the increased market pressure
+13 A negative relationship between foreign reserves and sovereign spreads has been examined for Greece during the period 1994-2000 of convergence to the European Monetary Union by Christodoulakis (2010). 14 In expression (9) the depletion of reserves accelerates the fear of a regime collapsing, and this may also be taken to imply that sovereign spreads are influenced by the collapse probability as described in Krugman and Obstfeld (1991). 15According to the Bank of Greece (1978, p. 107), 67% of foreign creditors were British, 10% US and 7.5% French,. 16 Similar findings are established when the differential between the Central Banks’ discount rates in Greece and UK is employed instead of the sovereign yield. Results are available upon request.
+
+
+24
+after the UK abandoned the GES, estimates are obtained for the
+following more general form:
+01 2
+34
+* ( -1) * ( -1)
+*[ ( -1)] * _ _ _1931
+spread a a spread t a reserves t
+a change in reserves t a UK post Sept
+=+ −
+− + (10)
+Various forms are estimated including absolute or proportional changes
+in reserves and shown in Table 2 in Appendix C. Parameter values are
+found correctly signed and statistically significant in all cases, and this is
+taken as supportive evidence for the postulated relationship. To avoid
+unnecessary complications17, the simpler expression (9) is subsequently
+used in studying the dynamics of the model.
+Dynamics
+As described in the previous section, new financing from abroad was
+dried-up after the pound exited the GES in September 193118, and Figure
+1 shows that debt remained virtually the same between 1931 and 1932.
+To capture the paucity of borrowing, foreign debt liabilities (F) are
+assumed to remain constant, i.e.
+_
+F 0 and F F
+•
+= ≈ . Substituting (9) into (6)
+and (8), the dynamics of foreign reserves and the exchange rate are
+finally obtained as:
+__
+0 12 2 3 4
+Q = (r +ηF)⋅Q +β + (β +β )x −β z +βW −βY − (r +σ)⋅ F (11a)
+(1 ) ( ) (1 )
+xe = −η −θ ⋅ Q +θγ⋅ u − x + −θ σ (11b)
+17 When the full form (10) is used, a similar solution is obtained, though the analysis becomes more complicated without adding any new insight. Details are given in Appendix B. 18 According to Psalidopoulos (2011) the Government made desperate attempts for a new loan, but “international financial markets, on which Greece was relying for its needs in capital flows, were not responding to the Greek appeals”, (p. 69, my translation).
+
+
+25
+Equation (11a) describes that reserves accumulate by trade surpluses
+and diminish by payments to foreign debt holders. Equation (11b)
+implies that depreciation expectations increase when reserves are
+diminished and/or devaluation pressure (u-x) rises. This is a situation
+analogous to that described by Dornbusch (1987), where the
+expectations of market agents regarding the transition from a fixed to a
+floating regime are influenced by reserves behaviour and devaluation
+pressure in each period, as expressed by the first and second term in the
+r.h.s. respectively.
+The solution is described in Appendix B and, conditional on a minimum
+degree of capital controls, is found to be saddle-path stable at point (E0)
+as shown in Figure 11.
+When an adverse shock impinges upon the domestic economy, say due
+to a permanent depreciation of the non-anchor countries exchange rate
+(z → z+dz), or a world depression (W → W − dW ) the saddle-path moves
+upwards. The new equilibrium is obtained at (E1), which implies a higher
+(i.e. depreciated) exchange rate X1 , as shown in Figure 12. In a currency
+peg there are three options to confront this situation:
+(i) Defense: As turned out to be the case in practice, authorities chose to
+stay in the system and defend the exchange rate parity. In the graphics
+of Figure 12, this implies that the system slides along the horizontal
+locus at 0
+X = X while foreign exchange reserves are depleting, (i.e. Q is
+falling). When they reach a critical level (QMIN) the system is abandoned
+and the exchange rate overshoots to the saddle-path at point E2 from
+which it subsequently free- floats to the new equilibrium E1 . The time
+
+
+26
+profile in Figure 13 closely resembles the actual trajectory of exchange
+rate overshooting and adjustment that took place in 1932-33 and is
+shown in Figure 3.
+Following the currency path, net exports rise strongly in the aftermath of
+devaluation, though later somewhat decline due to the partial
+revaluation 2 1
+E E towards the new equilibrium. The pattern shown in
+Figure 14 captures the actual behaviour shown in Figure 4. The
+improvement in the trade balance gradually augments foreign reserves,
+though not necessarily to the same level as before the crisis. The reason
+might be that the risk premium had risen (i.e. a higher σ ) or in the
+meanwhile capital controls were expanded (i.e. a higher θ ), hence the
+asymmetric post-collapse rise in Figure 15. Again, this is in line with the
+actual accumulation pattern of reserves after 1932 as depicted in Figure
+9.
+(ii) Adjust to a new exchange rate X1 : Though the option was advanced
+by some officials as mentioned in the previous section, it finally did not
+go through. If chosen, it would have implied an immediate depreciation
+of the Drachma against the anchor currency by an amount so as to
+neutralize the British depreciation and world recession without affecting
+the reserves. From (11a) the extent of a viable depreciation is easily
+obtained as:
+23 12
+1
+dx* [β dz βdW ]
+ββ
+= ⋅−
++ (12)
+
+
+27
+(iii) Foreign debt forgiveness: Another way to keep the system in the
+initial equilibrium X0 would be to have foreign debt liabilities cut to such
+an extent dF<0 as to compensate for the adverse effect of both world
+recession (−dW ) and hostile devaluation (dz). Though proposed in the
+beginning of 1932, the option was never seriously considered, as such a
+mechanism did not exist in the institutional setting of the 1930s and
+every country was left to defend its position unilaterally. In the
+hypothetical case that debt forgiveness were applied, its extent19 should
+be such that (11a) remained intact despite of the external shocks, i.e.
+23
+1
+dF* [ dz dW ]
+rββ
+σ
+=− ⋅ ⋅ − ⋅
++ (13)
+A comparison of expressions (12) and (13) with the actual depreciation
+and debt repudiation that took place in 1932 can be made by setting
+plausible parameter values as illustrated in Appendix B.
+5. Conclusions
+In the 1930s, Greek economic policy was trying to restructure parochial
+relations in key sectors ranging from banking to agriculture, to build
+productive infrastructure in order to close the gap of regional
+inequalities, and at the same time to become an equal partner in
+shaping European politics. Joining the club of the Gold Exchange
+19 To obtain a meaningful result, variables in equations (6) and (11a) should be expressed as proportion to GDP with (r+σ) replaced by (r+σ-n), where (n) is the nominal growth rate. However, this would not much affect expression (13) as inflation at that time was running at -0.70% and growth stagnated, so that practically n ≈ 0.
+
+
+28
+Standard seemed to be a political and financial ‘zeitgeist’, and Greece
+rightly vowed to participate.
+In spite of persistent and well-intentioned domestic policies, the
+outcome of the project was negative. The reasons are not due to any
+historical predicament of inescapable failure, but to a number of specific
+mistakes and policy debacles, such as the following:
+i. The choice of fixing the exchange rate to another country’s currency,
+with which Greek trade was limited, made the Drachma
+uncompetitive towards other economies and soon after the country
+experienced large external deficits. As a result, foreign debt had to
+remain in relatively high levels despite the lower servicing costs, both
+in order to finance external deficits and also to accumulate foreign
+reserves.
+ii. Greek authorities had a rare opportunity to correct the misguided
+exchange rate by following the Bank of England in the steep
+devaluation of the pound in 1931. Given that Greece had organized all
+of its monetary structures as a faithful follower to the British policy,
+the move not only would have been completely justified on economic
+grounds but also utterly defensible from the point of view of
+international obligations.
+iii. Domestic policy targets for creating a dynamic business sector and
+generating employment were eventually hindered by the stringency
+of credit availability. With the Government at the same time pursuing
+a tough fiscal policy, the economy was soon trapped in recession and
+this further undermined business prospects and employment.
+
+
+29
+iv. The Government never fully endorsed the principle that the Central
+Bank should be institutionally separated from commercial banking
+activities. The nascent authority was neither granted full
+independence from the Government, nor avoided mixing up with
+lending policies and concerns, even when critical decisions should
+have been taken in utter confidentiality. The ‘amalgamation’ with
+commercial practices caused confusion about its true preferences and
+undermined effectiveness in conducting the monetary policy.
+v. The external environment was not conducive in the 1930s, as
+European nations were lacking institutional coordination and
+mechanisms of credit facilitation to stressed countries. In the event of
+the crisis, every member of the system was left alone and soon was it
+succumbing to the growing pressure. Especially after the Bank of
+England abandoned GES, there was a fire-sale of sterling reserves and
+this led to a great scarcity of credit availability. No nation was eager to
+undertake part of Greek foreign liabilities, and it was even impossible
+for the Government to borrow even at the prevailing rates. To avoid
+the same omissions, a crucial component of the post-war system was
+the emergency finance mechanism to assist economies in a credit
+crunch.
+Counting on the above arguments, it seems that at no point of time was
+there anything fatalistic about the course of events. Rather than seeing
+Greece as inescapably succumbing to adversities, it is clear that several
+consequences could have been mitigated or avoided under a different
+decision-making process. Episodes are not repeated in history, and this
+applies equally to successes as well as to failures. Greece today is not
+
+
+30
+doomed by the crisis in the 1930s, given of course that policy failures are
+well understood both by current Greek authorities and their partners in
+the Eurozone.
+To counter fatalistic clichés, it is perhaps useful to draw a parallel on
+another Gold-related episode from antiquity, where Greeks were more
+successful than in the 1930s. After a well-planned campaign, ancient
+Greeks managed to acquire back the Golden Fleece that was seized by a
+foreign power. The King of Colchis agreed to hand it over, conditional on
+Jason performing three tasks: first, to yoke some fire-breathing oxen and
+use them to plough a field sowing dragon-teeth; second, to defeat an
+army of warriors sprouting out of the field of dragon-teeth; last, to
+subjugate the dragon. With the help of the Gods, Jason succeeded in all
+tasks, killing the dragon in his sleep. If one takes the fire-breathing oxen
+to symbolize the speculators under the currency peg and the teeth to be
+the external deficits sprouting the army of unemployment in the 1930s,
+then international markets should be the dragon, alas not quite in
+dormant. And, unlike Jason, Greece was left alone and could not
+adequately cope with the challenge. Greece today relies on the
+assistance of the international financial system and its Eurozone
+partners to help put the dragon under control. Given of course that the
+final move will still have to be by Jason himself, and Greece should by all
+means strive to put the house in order.
+
+
+31
+Appendix A. Graphs
+Figure 1.
+Public debt of Central Government, in million LMU Drachmas.
+Debt, mio LMU DR
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+1914
+1915
+1916
+1917
+1918
+1919
+1920
+1921
+1922
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+Source: Bank of Greece. End-of-year data. Figures express total liabilities of the Greek state including interest payments and amortization in gold, foreign exchange and banknotes,
+Note: Before the establishment of Central Bank in 1928, obligations were to the National Bank of Greece. From 1928 to 1939 the series refers to the net claims of the Bank of Greece against Central Government, regardless the nationality of the creditor and/or currency denomination of debt.
+Figure 2.
+Annual inflation rate in Greece, 1918-1937.
+Annual inlation rate
+-20%
+0%
+20%
+40%
+60%
+80%
+100%
+1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937
+Source: Ministry of National Economy, Annuaire statistique.
+Note: Inflation was proxied by the annual changes of an index of the cost of living, and is likely to underestimate the true figures.
+
+
+32
+Figure 3.
+The Drachma exchange rate vis-à-vis the US Dollar (left-hand scale) and the British Pound (right-hand scale). A rise indicates depreciation.
+0
+20
+40
+60
+80
+100
+120
+140
+160
+1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937
+0
+100
+200
+300
+400
+500
+600
+700 DR/USD (left hand scale)
+DR/BPS (right hand scale)
+Source: Ministry of National Economy, Annuaire Statistique.
+Figure 4.
+Trade balance and Current Account balance in Greece, million US Dollars.
+-100
+-80
+-60
+-40
+-20
+0
+20
+1925 1926 1927 1928 1929 1930 1931 1932 1933 1934
+Trade Balance, mio $ Current Account
+Sources: (i) Supreme Economic Council, Indexes of economic activity of Greece 1928-1934, 1935, p.17. (ii) Bank of Greece, Annual Reports.
+
+
+33
+Figure 5.
+Budget deficit in Greece, million US Dollars.
+Budget Deficit, mio $
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+1925 1926 1927 1928 1929 1930 1931 1932 1933 1934 1935 1936
+Source: Ministry of National Economy, Annuaire Statistique.
+Figure 6.
+Index of annual industrial production. Base year 1928=100.
+Industry, 1928=100
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+Agriculture, 1928=100
+Source: Supreme Economic Council, Indices of economic activity 1928-1934, 1935.
+
+
+34
+Figure 7.
+Number of unemployed.
+Number of unemployed
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+1928 1929 1930 1931 1932 1933
+Source: Kostis K., Banks and the crisis, 1929-1932, Athens 1986, p.139.
+Figure 8.
+Greek sovereign yields quoted in London and in Athens. The yield quoted in Greece is calculated as the simple average of monthly reported yields on Greek bonds issued at 1881,1884,1887,1889, 1890, 1902, 1907, 1910 and 1914.
+Greek sovereign yields, %
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+01/31/1928
+02/29/1928
+03/31/1928
+04/30/1928
+05/31/1928
+06/30/1928
+07/31/1928
+08/31/1928
+09/30/1928
+10/31/1928
+11/30/1928
+12/31/1928
+01/31/1929
+02/28/1929
+03/31/1929
+04/30/1929
+05/31/1929
+06/30/1929
+07/31/1929
+08/31/1929
+09/30/1929
+10/31/1929
+11/30/1929
+12/31/1929
+01/31/1930
+02/28/1930
+03/31/1930
+04/30/1930
+05/31/1930
+06/30/1930
+07/31/1930
+08/31/1930
+09/30/1930
+10/31/1930
+11/30/1930
+12/31/1930
+01/31/1931
+02/28/1931
+03/31/1931
+04/30/1931
+05/31/1931
+06/30/1931
+07/31/1931
+08/31/1931
+09/30/1931
+10/31/1931
+11/30/1931
+12/31/1931
+01/31/1932
+02/29/1932
+03/31/1932
+04/30/1932
+London quote Athens quote
+Source: Bank of Greece, annualized rates, and Global Financial Data, GFD.
+
+
+35
+Figure 9.
+Foreign reserves in million of LMU Drachmas
+Total Reserves, mio LMU Drs
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+Jan-28
+Apr-28
+Jul-28
+Oct-28
+Jan-29
+Apr-29
+Jul-29
+Oct-29
+Jan-30
+Apr-30
+Jul-30
+Oct-30
+Jan-31
+Apr-31
+Jul-31
+Oct-31
+Jan-32
+Apr-32
+Jul-32
+Oct-32
+Jan-33
+Apr-33
+Jul-33
+Oct-33
+Jan-34
+Apr-34
+Jul-34
+Oct-34
+Note: Total reserves (gold, foreign exchange, government bonds in gold), end-of-month data, not seasonally adjusted. Source: Bank of Greece
+Figure 10.
+Correlation between yield spreads and foreign reserves for the period before the regime collapsing, 1928:05-1932:03.
+1
+2
+3
+4
+5
+6
+7
+8
+1.2 1.6 2.0 2.4 2.8 3.2 3.6 4.0 4.4
+Linear fit: s=6.66 - 1.19*Q(-1) correl = - 0.756 , tstat=7.66
+Reserves(t-1), LMU Drs bn
+yield spread %
+Source: Monthly data, as in Figure 8 and 9 respectively. Reserves in LMU Drs billion.
+Note: Data for reserves express end-of-month stocks, while spreads are monthly averages. For this reason, the diagram displays the reserves lagged one month.
+
+
+36
+Figure 11.
+Saddle-path equilibrium of the exchange rate and foreign exchange reserves. Small arrows indicate the dynamics of adjustment according to (11a, b).
+Figure 12.
+The new saddle-path after a permanent shock in the form of a deterioration of competitiveness and/or a fall in world demand
+E
+Q(t)
+x(t)
+x’
+x
+Q
+Q’’
+Q0
+x
+saddle-path
+E0
+Q(t)
+Q0
+x0
+E1
+E2
+x1
+QMI
+N
+x2
+path1
+defense
+exit
+adjustment
+
+
+37
+Figure 13.
+The response of the exchange rate. Actual profile shown in Figure 3.
+Figure 14.
+The response of the trade balance. Actual profile shown in Figure 4.
+J(t)
+t
+t exit
+J1
+J0 defense
+exit
+adjustment
+t
+0 t exit
+x2
+x1
+x0 defense
+exit
+adjustment
+
+
+38
+Figure 15.
+The response of foreign exchange reserves. Actual profile shown in Figure 9.
+Q(t)
+t
+0 t exit
+Q0
+defense
+exit
+accumulation
+QMIN
+
+
+39
+Appendix B. Modelling the currency peg
+The dynamics of foreign reserves and exchange rate described by (11a, b) are
+written in state-space form for [ Q x ] as:
+_
+_
+12 0 2 3 4( )
+( )( )
+(1 ) (1 )
+e
+z W Yr F
+rF Q
+Q
+x xu
+ββ β β σ
+η ββ
+η θ θγ θσ θγ
+   − + − − + ⋅
++ + 
+  
+  
+  
+
+= ⋅+
+
+  
+  
+ − − − − +
+  
+  
+  
+(14)
+The steady-state conditions (Q 0 and x 0
+••
+= = ) imply the following equilibrium
+loci for the foreign exchange reserves and the exchange rate as
+_
+_
+23 4 0
+12 12
+()
+0 * * z W Yr F
+rF
+Q x Qββ β σ β
+η
+ββ ββ
+• − + + + ⋅−
++
+= ⇒ =− ⋅ +
++ + (15a)
+11
+x 0 x* Q * u
+θθ
+ησ
+θγ θ
+• −−
+= ⇒ = − + + (15b)
+The two loci are shown in Figure 11. From (15a) and (15b), it is easy to show
+that the equilibrium (x*, Q*) at point (E0) is reached only on the specific
+saddle-path P0P0.
+For a unique equilibrium to exist the determinant of the transition matrix in
+(14) should be negative or, equivalently in graphical terms, the slope of
+exchange rate locus should algebraically exceed that of the reserves locus, i.e.
+_
+12
+η(1 θ) r ηF θγ β β
+−+
+− > − + (16)
+This is satisfied with a degree of sufficiently effective capital controls, so that
+_
+12
+1
+1( )
+rF M IN
+η
+γη β β
+θθ
+−
+
++
+
++
+
++
+
+> = (17)
+If θ is insufficient (θ < θMIN) then the system is not saddle-path stable and the
+only possible outcome is the regime immediately collapsing and going to a new
+equilibrium at (E1).
+Calibration:
+It is interesting to see under which parameter values expressions (12) and (13)
+give the extent of devaluation and debt forgiveness that actually have taken
+place after the collapse. One year after abandoning the GES, the Drachma
+reached the level of X1 = 108 Drs per US dollar, and this is taken to imply that a
+depreciation by 40%, i.e. dx*=0.40, would have led to a sustainable rate.
+
+
+40
+Similarly, the actual repudiation of bond values imposed by the Bank of Greece
+in 1932 was up to 70%, and this is taken to imply that a debt forgiveness of
+dF* = −0.70 would suffice to calm the pressure during the crisis.
+Since in 1931 the British pound was devalued by 35% and world trade was
+contracted by 25% relative to 1929, the shocks are set equal to dz = 0.35 and
+dW = −0.25 respectively. Finally, the British yield was at that time r=0.05 and
+σ=0.07 as in the linear fit in Figure 10. Substituting in (12) and (13), parameter
+values have to satisfy
+β1 + β2 ≈ 0.25 (18a)
+23
+0.35β + 0.25β ≈ 0.084 (18b)
+For an illustration, one can set β3 = 0.20 and from the above expressions
+obtain 1 2
+β = 0.15, β = 0.10 which look quite plausible as net export elasticities
+of Drachma exchange rates to the US and UK currencies respectively.
+Three-dimensional dynamics:
+In complete form, expression (10) implies in continuous time the dynamics of
+spreads:
+01 2 3
+s = α +α s −α Q −α Q (19)
+The resulting system is now three-dimensional in [ Q x s] , and using (6) and
+(8) the transition matrix is obtained as:
+_
+12
+_
+2 3 31 2 1 3
+()
+0 (1 )
+( ) ( )( )
+rF
+rF
+ββ
+γθ θ
+α α αβ β α α
+
++−
+
+
+Λ= − −
+
+
+−+ − + +
+
+(20)
+For a unique saddle-path solution to exist, there must be two negative and one
+positive characteristic roots. The determinant should be positive and a
+sufficient condition for the existence of at least one negative root is that the
+trace of the above matrix is negative. After some trivial manipulations, the two
+conditions lead to a minimum of capital controls:
+1
+_
+_ 21 13 21 2
+m ax [ , ]
+12
+( )/ , 1
+1 2 ()
+Fr
+rF
+θ θθ
+αα
+θ α α γ θ γα β β
+−
+>
+
+−
+
+=+ + =+
+
++
+
+(21)
+For 0 1 2 3
+α =σ, α = −1, α =η, α = 0 , expression (10) is simplified to (9) and
+condition (21) collapses to (17).
+
+
+41
+Appendix C. Data analysis
+Table 1.
+Granger Causality Tests
+Sample: 1928:05 1932:04 Lags: 2 Obs=46
+Null Hypothesis: F-Statistic Probability
+Spread does not Granger Cause Reserves 0.53353 0.59055
+Reserves does not Granger Cause Spread 5.77624 0.00616
+Table 2.
+Alternative Estimates of (10), standard errors in parentheses
+Spread (1) (2) (3) (4) (5)
+constant 3.743939
+(0.531701)
+3.938652*
+(1.440388)
+6.149293
+(1.008487)
+0.770429*
+(0.314777)
+1.082493
+(0.310770)
+Spread(-1) _ 0.436124*
+(0.203506) _ 0.665949
+(0.129314)
+0.529201
+(0.129106)
+Reserves(-1) -0.384274*
+(0.153443)
+-0.836842*
+(0.350137)
+-1.119108
+(0.321451) _ _
+ΔReserves(-1) _ _ _ -0.912717*
+(0.418890) _
+ΔReserves(-1)/
+Reserves(-2) _ _ _ _ -4.472152*
+(1.242741)
+UK_dummy 2.152020
+(0.297289)
+0.941012*
+(0.390253)
+1.820267
+(0.395471)
+1.275664
+(0.296531)
+1.375576
+(0.275535)
+AR(1) _ 0.835149
+(0.106121) _ _
+Fstat 89.87 63.52704 117.14 109.95 132.11
+R2 0.80 0.878266 0.88 0.88 0.90
+DW 0.65 1.718130 1.72 1.96 1.94
+Note: A star indicates significance at the 5% level. All other estimated coefficients are significant at the 1% level. Sample: 1928:05 1932:03, obs=45. OLS and AR(1). The dummy is set to one from 1931:09-1932:03 and zero elsewhere. Δ denotes first difference. Data sources: See Figure 8, 9. Reserves in LMU Drs billion.
+
+
+42
+References
+Agenor P. R. and Flood R., 1994, “Macroeconomic Policy, Speculative Attacks, and Balance of Payments Crises”, in F. van der Ploeg (ed.), The Handbook of International Macroeconomics, Oxford, Blackwell.
+Azariadis C., (2011), “To Euro or Not to Euro”, http://www.huffingtonpost.com/costas-azariadis/to-euro-or-not-toeuro_b_1078692.html.
+Bank of Greece, 1978, The first fifty years, Athens.
+Blanchard O. and Summers L., 1986, “Hysteresis and the European Unemployment problem”, in Fisher S. (ed) NBER Macroeconomic Annual 1, 15-78, MIT Press.
+Bordo M.D. and Rockoff H., 1996, “The Gold Standard as a ‘good housekeeping seal of approval’ ”. Journal of Economic History, 56, 389-428.
+Calvo G.A., 1987, “Balance of payments crises in a cash-in-advance economy”, Journal of Money, Credit and Banking, 19, 19-32.
+Christodoulaki Olga and Penzer J., 2004. “News from London: Greek Government Bonds on the London Stock Exchange 1914 - 1929”, Working Paper, London School of Economics.
+Christodoulakis N., 2010, “Interest rates convergence and foreign reserves management during Greece’s accession to EMU, 1994-2000”, in Tzavalis E. (ed.) “Studies on the Financial System in Greece”.
+Christodoulakis N., 2012, “Greek Crisis in perspective: Origins, Threats and Waysout”, New Palgrave Dictionary of Economics, March, online.
+Dornbusch R., 1987, “Collapsing exchange rate regimes”, Journal of Development Economics, 27, 71-83.
+Dornbush R., 1991, “International Financial Crises” in Feldstein M. (ed) The Risk of Economic Crisis, Chicago UP.
+Eichengreen B., 2012, “When Currencies Collapse: Will We Replay the 1930s or the 1970s?”, Foreign Affairs, 91, 1, January/February, 117-134.
+Eichengreen B. and Sachs J., 1985, “Exchange Rates and Economic Recovery in the 1930s”, Journal of Economic History, 45(4), 925-946.
+Eichengreen >, Rose A. and Wyplosz Ch., 1995, Exchange Market Mayhem: The Antecedents and Aftermath of Speculative Attacks”, Economic Policy, 21, 249312.
+Feldstein M., 2011, “The EuroZone’s Double Failure: Europe needs country-bycountry fiscal reforms, not a renewed push for political integration”, Wall Street Journal, December, 15.
+Flood R.P. and Garber P., 1984, “Collapsing exchange rate regimes: Some linear examples”, Journal of International Economics, 17, 1-13.
+
+
+43
+Girton L. and Roper D., 1977, “A Monetary Model of Exchange Market Pressure Applied to the Postwar Canadian Experience”, American Economic Review, 67, 537-548.
+Hartwich O. M., 2011, “Unravelling the Greek basket case“, Business Spectator, October 20,
+http://www.businessspectator.com.au/bs.nsf/Article/Greece-defaulteurozone-monetary-union-soverieng-d-pd20111017MQ2GW?opendocument&src=rss.
+Hellwig C., Mukherji A. and Tsyvinski A., 2006, “Self-fulfilling Currency Crises: The Role of Interest Rates”, American Economic Review, Vol. 96, 5, 1769-1787.
+Keynes J.M., 1984, Essays in Persuasion, The Royal Economic Society. Cambridge UP.
+Kostis K. 1986, Banks and the Crisis 1929-32, Historical Archives of the Commercial Bank of Greece.
+Krugman P., 1979, ”A Model of Balance of Payments Crises”, Journal of Money, Credit and Banking, 11, 311-325.
+Krugman P., 1991, “Financial Crises in the International Economy”, in Feldstein M. (ed) The Risk of Economic Crisis, Chicago UP.
+Lahiri A. and Vegh C., 2007, “Output costs, Currency Crises and Interest Rates Defense of a Peg”, The Economic Journal, 117, 216-239.
+Lazaretou S., 1999, “Drachma in bimetallic currency regimes: Lessons from the past”, Economic Bulletin, Bank of Greece 13, 7-26.
+Lazaretou S., 2009, “The 1929 Crisis, the Greek Economy and the reports by the Bank of Greece”, Bank of Greece Bulletin, November.
+Mazower M., 2002, Greece and the Interwar Economic Crisis, MIET, Athens. (Also in English, 1991, Oxford, Clarendon Press).
+Minoglou-Pepelasis I., 1998, “Transplanting Institutions: The case of the Greek Central Bank”, Greek Economic Review, 19(2), 33-64.
+Obstfeld M. and Taylor A.M., 2003, “Sovereign Risk, Credibility and the Gold Standard: 1870-1913 versus 1925-31”, The Economic Journal, 113, 241-275.
+Psalidopoulos M., 2011, “Monetary management and economic crisis: The Bank of Greece policy, 1929-1941”, Bank of Greece Bulletin, July, (in Greek).
+Roubini N., 2011, “Greece should default, Leave the Euro and Reinstate the Drachma”, http://www.bloomberg.com/news/2011-09-19/greece-shoulddefault-leave-eurozone-roubini-writes-in-ft.html
+
+
+
+
+Previous Papers in this Series
+59. Monokroussos, Platon and Thomakos, Dimitrios D., Can Greece be saved? Current Account, fiscal imbalances and competitiveness, June 2012
+58. Kechagiaras, Yannis, Why did Greece block the Euro-Atlantic integration of the Former Yugoslav Republic of Macedonia? An Analysis of Greek Foreign Policy Behaviour Shifts, May 2012
+57. Ladi, Stella, The Eurozone Crisis and Austerity Politics: A Trigger for Administrative Reform in Greece?, April 2012
+56. Chardas, Anastassios, Multi-level governance and the application of the partnership principle in times of economic crisis in Greece, March 2012
+55. Skouroliakou, Melina, The Communication Factor in Greek Foreign Policy: An Analysis, February 2012
+54. Alogoskoufis, George, Greece's Sovereign Debt Crisis: Retrospect and Prospect, January 2012
+53. Prasopoulou, Elpida, In quest for accountability in Greek public administration: The case of the Taxation Information System (TAXIS), December 2011
+52. Voskeritsian, Horen and Kornelakis, Andreas, Institutional Change in Greek Industrial Relations in an Era of Fiscal Crisis, November 2011
+51. Heraclides, Alexis, The Essence of the Greek-Turkish Rivalry: National Narrative and Identity, October 2011
+50. Christodoulaki, Olga; Cho, Haeran; Fryzlewicz, Piotr, A Reflection of History: Fluctuations in Greek Sovereign Risk between 1914 and 1929, September 2011
+49. Monastiriotis, Vassilis and Psycharis, Yiannis, Without purpose and strategy? A spatio-functional analysis of the regional allocation of public investment in Greece, August 2011
+SPECIAL ISSUE edited by Vassilis Monastiriotis, The Greek crisis in focus: Austerity, Recession and paths to Recovery, July 2011
+48. Kaplanoglou, Georgia and Rapanos, Vassilis T, The Greek Fiscal Crisis and the Role of Fiscal Governance, June 2011
+47. Skouras, Spyros and Christodoulakis, Nicos, Electoral Misgovernance Cycles: Evidence from wildfires and tax evasion in Greece and elsewhere, May 2011
+Online papers from the Hellenic Observatory
+All GreeSE Papers are freely available for download at http://www2.lse.ac.uk/ europeanInstitute/research/hellenicObservatory/pubs/GreeSE.aspx
+Papers from past series published by the Hellenic Observatory are available at http://www.lse.ac.uk/collections/hellenicObservatory/pubs/DP_oldseries.htm

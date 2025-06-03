@@ -1,0 +1,1477 @@
+rIa1 London School of Economics & Political Science
+mII WORKING PAPERS IN ECONOMIC HISTORY
+TRANSPLANTING ECONOMIC IDEAS: INTERNATIONAL COERCION AND NATIVE POLICY
+loanna Pepelasis Minoglou
+Number: 30/96
+May 1996
+
+
+
+
+Working Paper No. 30/96
+Transplanting Economic Ideas: International Coercion and Native Policy
+Ioanna Pepelasis Minoglou
+<l:lIoanna Pepelasis Minoglou Department of International Studies Panteion University May 1996
+
+
+Ioanna Pepelasis Minoglou,
+Department of International Studies,
+Panteion University ,
+Leoforos Syngrou 136,
+Athens ,
+Greece .
+Telephone :
+Fax :
++ 30 1 9298097
++30 1 9428311
+Additional copies of this working paper are available at a cost of £2.50 . Cheques
+should be made payable to ' Department of Economic History, LSE' and sent to the
+Economic History Department Secretary , LSE, Houghton Street, London.WC2A 2AE,
+U .K .
+
+
+Acknowledgements
+A first draft of this paper was presented at the 7-0 Session of the 21 st Annual Meeting
+of the History of Econontics Society held in June 1994 at Babson College (USA). A
+later version was then given at the Thesis Workshop of the Econontic History
+Department (London School of Econontics) in December 1994. It was then presented
+at the Staff Seminar of the Department of Political Science and International Studies
+(Panteion University/Athens) in February 1995 . I thank the participants of these
+meetings . Foremost, I am grateful to Or. Mary Morgan (the discussant at the L.5.E.
+workshop) for helping me to reshape the fmal version of the paper. Also, I thank
+Professor P. Kitromilides , Or. I. Maes , Professor N. Mouzelis , Professor Y. Suzuki
+and Professor K. Vergopoulos for their helpful suggestions, as well as Or. C.M.
+Lewis and Or. M. Psalidopoulos for their comments and constant encouragement
+throughout the writing of the paper.
+
+
+Abbreviations
+Organizations mentioned in the text:
+I.F.C . or Commission: International Financial Commission
+League:League of Nations
+N.B.G.: National Bank of Greece
+Archives mentioned in the references :
+B.E.lC.B.P.: Bank of England Archive, Central Bank Papers
+B.G.rr .A.: Bank of Greece , Tsouderos Archive
+B.M.IV .A. : Benaki Museum, Venizelos Archive
+F037l: Foreign Office Series 371
+G.L.H.A .lD.A.: Greek Literary and History Archive , Diomedes Archive
+N.B.G .lH.A. : National Bank of Greece, History Archive
+Note on transliteration
+The system used in this paper for the transliteration of the Greek alphabet into Latin
+characters is from P.M. Kitromilides, The Enlightenment as Social Criticism ,
+(Princeton, 1992), p.xvii.
+
+
+The ' spontaneous ' horizontal dissemination of new political and economic ideas from
+their original West European context to economically backward nations has started to
+attract the interest of intellectual history. 1 In contrast, practically no attention has been
+given to the process by which economic ideas and techniques originating in industrial
+nations are transfigured into policy in countries of a different organization and culture.
+This paper investigates such a historical case. It examines how British 'orthodox '
+monetary/exchange rate policy and central banking techniques were transplanted in
+Greece at a time (1898-1940) when the country' s public fmances were placed under
+a nominally international , but effectivel y British supervision. The story told is not a
+neat two stage process of ideas migrating from Britain to Greece and then being put
+into practice. It is more complicated , there being a diagonal transfiguration of ideas
+into action through external coercion (see below Graph 1). Coercion was employed
+as there was an element of economic gain involved in the spread of the new
+'technology ';2 the British and international institutions acting as transmission channels
+having direct benefits from the implantation of British orthodox policies regarding
+monetary techniques. 3
+By 'spontaneous horizontal diffusion' meaning that there was no element of economic rent. Source: C.T. Stewart, Jr. , Y. Nihei, Technology Transfer and Human Factors, (Lexington, 1995). By economic ' ideas' meaning ' a conception or notion of something to be carried out; a plan of action'. Source: D. Colander, A. W. Coats, The Spread of Economic Ideas, (Cambridge, 1993).
+For the notion that technology transfer is associated with economic benefit, as opposed to the diffusion of techniques which offers no prospect for economic gain for the supplier see: Stewart, Nihei, op.cit. , pp .203.
+From the literature on the dissemination of ideas the following text was particularly useful: F . Redlich, ' Ideas: their migration in space and transmittal over time A systematic treatment' Kyklos , 6 (1953-54). But, basically, it was the literature on the transfer of technology that was more relevant for the purposes of my specific research as it provided an analytical framework with which I could account for the use of coercion and the behaviour of the institutions involved in the translation of ideas into action. See the following texts on technology transfer: DJ . Jeremy (ed .), The Transfer of International Technology, Europe, Japan and the U.S.A . in the Twentieth Century, (London , 1994); D.L Jeremy , (ed.), International Technology Transfer Europe, Japan and the U.S.A., 1700-1914, (Aldershot, 1991) ; H. Perlmutter, T .
+
+
+The analysis that follows presents the ways in which the techniques transplanted were
+modified to adapt to local conditions and the numerous actors involved in the process."
+Without 'great' men the transfer of know-how would not exist, but it was institutions
+that acted as ' coercive' venues and as receivers of ideas .5 There were conflicts of
+interest and disagreement about what technologies were appropriate in the specific
+context, as the government and the various bodies sharing the role of a central bank
+did not share the same expectations, profits or political motives. Also, there were
+mutual misconceptions regarding the other party ' s values and objectives .
+Section I of the paper examines the background to the transfer of orthodox monetary
+techniques . It discusses the origins of international coercion and investigates the
+institutional framework and objectives of the actors involved in transplanting
+economic ideas . Also, it briefly outlines the cultural and political milieu of the
+recipient. The core of the study, i.e. Sections 2 and 3, explore the unfolding of
+transplantation. Emphasis is placed on the changing content of technology over time .
+In 1898, when international supervision was first established, it enforced specific
+guidelines for the appreciation/revaluation of the drachma and the autonomy of the
+National Bank of Greece vis a vis the state. During the 1920's, at which juncture
+foreign control was re-enforced, the transfer of orthodox monetary/exchange rate
+policy entailed the implantation of a central bank. Initially , the 'experiment' failed.
+The new technology could not be made to work consistently as it was based on a
+particular design which required : on the one hand , a separation of powers between
+the government and the bank of issue, and on the other hand, a position of strength
+Sagafi-negad , International Technology Transfer Guidelines, Codes and A MujJ1.ed Quadrilogue , (New York, 1995); N. Rosenberg, ' Factors Affecting the Diffusion of Technology ', Explorations in Economic History , Vo!. 10, 1972-73 .
+For the relation between economic knowledge and the state and the role of institutions see: M.O . Furner and B. Supple, (eds .), The State and Economic Knowledge, (Cambridge, 1990), p.34 .
+J.J. Spengler, ' Notes on the International Transmission of Ideas', History of Political Economy, 2 Spring 1970 .
+2
+
+
+of the bank of issue over the trading banks . Neither of which precondition did hold
+in the new site. However, by W. W.Il, after a period of crisis and adaptation, the new
+central bank was successful in that it became integrated in the Greek economic system.
+Graph 1
+The Spread of Ideas and their Translation into Action
+GRAPH la
+The two stage Process
+Co ulltry A Counuy B
+A -.-------"'1 B
+B'
+GRAPHlb
+Diagonal migration: the specific case
+Britain
+The TreasUlY View*
+~
+Greece
+Economic Poli cy
+AlTOW AB': depicts the horizontal * OIthodox economics as perceived by
+spontaneous migration of
+ideas between counu'ies
+Arrows BB' :depicts the transfOlmation of
+ideas into action in a specific
+site
+British policy makers
+Note: By presenting the specific
+3
+implantation with a diagonal
+alTOW a new-altelllative way of
+looking at the spread pf ideas and
+their translation into actions IS
+proposed .
+
+
+1. The background
+1.1 Origins and evolution of foreign coercion
+lnternational supervision over public [mance was the outcome of the country' s poverty
+and pattern of foreign capital inflow . Historically, in Greece, Foreign Direct
+Investment was of limited importance;6 the predominant mode of foreign [mance being
+portfolio investment in government paper issued for revenue purposes .7 The
+dependence of the state on foreign loans dates back to the national uprising against the
+Turks .8 Upon the formal declaration of independence in 1832, Rothschilds provided
+a 60 ,000 ,000 gold franc loan guaranteed by Britain, France and Russia. This
+' independence' loan was raised at a heavy discount and the small amount that actually
+reached Athens failed to create assets capable of generating surpluses for loan
+servicing. 9 In 1843 the state defaulted and an embargo was placed on loans to Greece
+by the international capital market. However, there was no foreign intervention as the
+three guarantor Powers did not take advantage of their legal right to assume
+Greece prior to W. W .II was in the backwaters of the concession hunting game. F .D.I. (public and private) as a percentage of total foreign capital inflows was roughly 5 % before W.W.I and 10 % during the interwar years . Source: D. Stephanides , I Eisroi tou Xenou Kefalaiou kai ai Oikonomikai kai Politikai tis Synepiai [Foreign Capital Inflow and its Economic and Political Consequences}, (Salonika, 1930). Also, G. Haritakis (ed) , Oikonomiki Epetiris tis Ellados 1932 [Annual Yearbook of Greece, 1932], (Athens, 1933), pp.493-578 , passim.
+Over 80 % of the foreign debt in 1932 stemmed from loans to the state. Source: T.A .lB.G ., File 23: League of Nations , Financial Committee, Report to the Council on Greece, Extraordinary Session held in London, June 6-14, 1933 . As for the use of foreign capital prior to 1922 more than 90 % of the loans raised by the state were used for current consumption purposes . Sources: Stephanides, pp . I-233 , passim; Haritakis , pp.493-578, passim.
+LA . Levandis, The Greek Foreign Debt and the Great Power 1821-1891 , (New York, 1944), chapter 1. Also, see: A.M. Andreadis, Istoria ton Ethnikon Daneion, [History of the National Loans} , (Athens , 1904) , Erga, Part A, Volumes I and 11. Also, J. Petropoulos , Politics and StatescraJt in the Kingdom of Greece: 1833-1843, (New Jersey , 1968).
+J. Campbell and P. Sherrard, Modem Greece, (London, 1969), p.90 . Also, Andreadis, op.cit. , Volume 11 , pp .82-83.
+4
+
+
+administrative control over public fmances .1O Their only punitive action was to
+establish in 1857 a Commission ofInquiry which, after 'researching' into the reasons
+for Greece' s fmancial insolvency , suggested to the state to curtail the size of the
+budget and cut down on military expenditure, neither of which advice was adhered
+to . 11
+In 1879, a debt settlement was reached with the Powers and the embargo of the
+international capital market was lifted . The influx of foreign loans (largely raised in
+France and Britain) acquired massive proportions .12 Apart from the meagre sums
+spent on building railways the procured funds covered the fiscal gap which had
+become prominent since the early 1860's. (See Appendix , Table 1) . Suddenly , in
+1893 under the twin pressure of the culminating foreign debt and the sudden 70 % drop
+in the price of currants (Greece 's main export commodity), the state once again
+defaulted. 13 The flow of capital came to an abrupt halt. Four years later, in 1897,
+Greece went to war with Turkey and was defeated. A large indemnity was charged
+10 Article XII of the Independence Treaty of 1832 stipulated that: i) the interest and amortisation charges of the ' independence' loan would have a first lien on the receipts of the Treasury and ii) the diplomatic representatives of the three Protector Powers would have the right to supervise the execution of this stipulation. Sources : J.V. Kofas, Financial Relations of Greece and the Great Powers, 1832-1862. (New York, 1981), pp .2 1-25, 132; N. Kaltchas , Introduction to the Constitutional History of Modern Greece, (New York, 1940), pp .6, 91 .
+11 According to this Commission the size of the Greek army was more than twice the size of what was necessary. See: W. McGrew , Land and Revolution in Modem Greece 1800-1881 , (Kent State, 1985) , pp. 147, 153 .
+12 In a span of fifteen years state borrowing reached 750,000,000 gold francs; an amount equivalent to 3/4 of the value of Greek exports for the period . Sources: Haritakis , (1933) , op . cit. , pp . 493 -578; G. Haritakis (ed .), Oikonomiki Epetiris tis Ellados 1929 [Annual Yearbook of Greece, 1929J, (Athens , 1930), p.198.
+13 With the 1893 default, the state refused to meet amortisation obligations paying out only 30 % of the interest on the outstanding debt. Source: Campbell and Sherrard , op. cit. , p .97 . also , S. Lazaretou , "Monetary and Fiscal Policies in Greece : 1833 -1914", The Journal of European Economic History , Volume 22, Number 2-Fall 1993 , p.298.
+5
+
+
+by the Porte and in 1898 the three Protector Powers , (i.e . Britain, France and Russia)
+following an inquiry into Greek public fInances, lent the government the necessary
+funds so it could honour this fmancial obligation, requiring in return the resumption
+of the foreign debt repayment as well as the placement of a large share of the
+country' s tax base and monetary policy under ' international' supervision. It was under
+these circumstances that Britain, France and Russia set up in Athens the International
+Financial Commission, together with Gennany, Italy and Austria.14 Thus , although
+the Powers were fIrst given the opportunity to manage Greek public fmances in 1843 ,
+foreign control was imposed 66 years after independence.
+The establishment of the International Financial Commission (LF.C. or Commission
+for short) enabled the state to maintain tight links with the international capital market.
+The post 1879 spurt in the flow of funds , that had been interrupted with the 1893
+default, was maintained up to the outbreak of W. W.1. When foreign borrowing was
+eventually resumed in 1924, it was almost exclusively directed towards expanding the
+country' s real assets . This policy shift was triggered by the need to accommodate the
+massive refugee influx following the Asia Minor debiicle of 1922.15 Related to this
+new wave of foreign fmance was the appearance in 1923 /24 of a new international
+actor -the League of Nations . This organization, which did not displace the LF.C .,
+carried out an extensive refugee settlement plan and a fmancial stabilization program
+entailing a banking refonn. 16
+14 A. Kalliavas, "0 Diethnis Oikonomikos EJeghos kai ta Apotelesmata Aftou " [International Economic Control of Greece and its Results], Bulletin de la Chambre de Commerce et d 'lndustrie d 'Athenes, November 1929.
+15 In only six and a half years , 950 ,000 ,000 gold francs was borrowed , an amount equivalent to 113 of the value of Greek exports for the period and roughly equal to the average annual G.N.P. recorded for the 1920s. Haritakis, (1933) , op.cit. , pp.493578; G. Haritakis (ed .) Oikonomiki Epetiris tis Ellados 1938 [Annual Yearbook of Greece 1938J, (Athens , 1939), Part II, p.39.
+16 For the League of Nations refugee settlement scheme see: C. Howland, L 'Etablissement de Refugies en Grece, (Geneva, 1926) . Also, S.P. Ladas , The Exchange of Minorities, Bulgaria, Greece, Turkey , (New York, 1932).
+6
+
+
+The drying up of the international capital market, triggered by the world fmancial
+crisis (of 1931 -1933), prompted the state to suspend its service payments on the
+foreign debt in the spring of 1932. This development in more than one way enhanced
+the tensions between Greek policy makers and international supervision. Eventually ,
+in 1937 the League of Nations discreetly stepped aside and the 1.F.C. was
+' prematurely' dismantled during W.W.I1l? But the retreat of foreign coercion was
+only temporary as it was once again reintroduced in a new guise after W.W.1I .18 ill
+short, the chronic dependence of the state on foreign loan capital for revenue pumoses
+led to repeated fmancial crises which prompted 'international ' inQuiries into Greek
+public fmances and the eventual intervention of creditor nations in native policy .19
+1.2 Transplantation: the process and the actors
+Transplanting orthodox monetary/exchange rate techniques within the framework of
+international coercion was a complex exercise, involving government directed
+agreements and a number of public actors. On the one hand , were the international
+supervisors : namely the British and international institutions acting as 'transmission
+channels ' of orthodox monetary/exchange rate policies. On the other hand , were the
+' receivers ', i.e. the various Greek bodies in charge of monetary affairs and whose
+policy was modified by the transmission channels . (See Diagram 1) At this point, it
+17 'Prematurely', because according to the convention which created the I.F. C, its functions were to continue until the foreign gold loans raised from 1879 to 1893 and the 1898 indemnification loan were redeemed. Source: B.E .lC.B.P. , 328: Foreign Office to Sir M. Palairet, November 22 1940.
+18 After W.W.I. Greece became a major recipient of USA aid under the Marshall Plan . See: B. Sweet-Escot, Greece Political and Economic Survey 1939-53, Royal Institute of International Affairs , (London, 1954); and W.O. Candilis, The Economy of Greece 1944-66 Effonsfor Stability and Development, (New York, 1968) .
+19 For the failure of even non-revenue loans (such as for example the infrastructure loans of the 1920s) to acquire a productive character see: 1. Pepelasis Minoglou, 'The Greek State and the International Financial Community , 1922- 1932: Demystifying the Foreign Factor', (Ph.D . , L.S. E., 1993) .
+7
+
+
+[~~ti~~~~~ti;~~ . ~
+British School CUlTency School
+of Classical Banking School
+EconomIcs
+DI AG RA I\ll
+Tra ns planta ti on process
+)j:V· ·······;).·Wt~ijsmi~sI6n!il{anilels
+1
+I. B:itish I H. Intern ati onal Bank of England ~inancial Committee of the League of Nations
+TreasulY -----+I -~ lntemational Financial Co mmis sion
+-R~;iv;rs'
+Greek govemment
+1----+1 National Bank of Greece* ~ - - I
+_ . _ . _. _____ __ __ __ __ ____ __ __ __ __ ____ __ __ _1
+* During the 1920s the ideas of the Banking School were popular alllong the officials of the National Bank of Greece . For how these
+ideas transferred into Greece see below Sections 3. 1. and 3.2.2. (It should be noted th at before the Bank of Greece was set up in 1928
+the Na ti onal Bank of Greece was in charge of printing banknotes .)
+
+
+DIAGRAM 2
+Formation of international supervision: modification over time
+Supervisi ng influence
+Phase I: 1898-1924 I
+Foreign Office H LF.e. I .
+L - - - - - - . J L - - -_ _ _I
+Supervising .. ihtltience
+Britis h Treasury
+B;l1lk of England
+Phase 11: 1924-circa 1940 I
+I.F.C.
+L.N .
+fT~r~gatives :
+- Administration of foreign debt - Supervision over monetary policy (up to 1927)
+Administrati on of foreign debt.
+Supervision over public finance in general and creation of central bank of issue
+
+
+should be underlined that the Greek receivers were not always passive consumers of
+the policy directives and plans propagated by the transmitters .
+At centre stage of the transmission network were the two international supervisors of
+Greece: the I.F.C. and the Financial Committee of the League of Nations. The policy
+decisions of these institutions were dictated by the Foreign Office, the British Treasury
+and the Bank of England. These British agencies apart from indirectly influencing
+native policy through the international organizations , also formed on their own, direct
+and tight links with the receivers . External supervision had a fluid shape. (See
+Diagram 2) Initially , there was only one international agency : the I.F.C.20
+From the six countries initially represented on it, three (Italy , Austria and Russia) had
+no real power as their bondholder's held but a minute fraction of the Greek foreign
+debt. 2 1 Of the remaining members, France and Germany (two nations with diverse
+traditions from Britain in the sphere of economic policy), took a minor interest in its
+affairs . Thus, from the start this organization was basically administered by the
+British. At ftrst the Foreign Office allocated to the commercial secretary of its
+Legation in Athens the running of the I. F .C. Then, from 1924 onwards the diplomats
+were side-tracked and the British representative on the ' Commission' was appointed
+by the Treasury .
+20 This situation whereby an ' international ' institution was set up to manage the foreign debt of an impoverished nation was not unique to Greece . For the case of the Ottoman Public Debt administration see: P.l . Cain and A.G. Hopkins, British Imperialism Crisis and Deconstruction 1914-1990, (London, 1993), Vol. I , pp.405408.
+21 They had been placed as members for political and not economic reasons . Sources: H. Feis, Europe The Worlds Banker 1870-1914, (New York, 1961) , pp . 286287 ; Campbell and Sherrard, op.cit. , p.107; B. Eichengreen and P.H. Lindert (eds .), The International Debt Crisis in Historical Perspective, (Cambridge Mass , 1991), p.201. Moreover, the members became fewer as time went by . After W.W.! Russia withdrew as a result of the Bolshevik revolution, and also Austria and Germany withdrew as a result of their military defeat and the Versailles Treaty . Sources: Andreades , op.cit. , p.48! ; and l .R . Lampe and M. lackson, Balkan Economic History, 1550-1950, (Bloomington, 1982), p.231.
+8
+
+
+Almost concurrently there was another important development: In 192311924 the
+Financial Committee of the League of Nations stepped into Greece . This agency was
+set up after the Brussels conference of 1922 and was involved in the post W. W.I
+reconstruction not only of Greece, but of a number of countries in which the League
+of Nations had an interest. 22 As was the case with the LF.C., it also was basically run
+by a British institution, i.e. the Bank of England . Such was the clout of the Bank of
+England , that no 'League' loan was raised without its approval. Potential borrowers
+were asked by the governor, Montagu Norman, to balance their budgets and comply
+with basic principles of independent central banking (such as limited central bank
+lending to the government; non government interference in the operation of the central
+banks and the election of their board of shareholders). Ultimately , Norman used his
+power with the League of Nations to revive the gold standard within the framework
+of a ' new ' international financial order based on a network of central banks ' free ' of
+political control and managed by the Bank of England through informal co-operation. 23
+In terms of theoretical principles the British School of Classical Economics can be
+considered as providing the ideas transplanted into Greece. British high level officials,
+even those in charge of larger economic policy issues, were largely self taught in
+economics 24 The members of this elite, which held fIrmly to the gold standard and
+the self-regulating model of the economy, had mastered the popularised stereotypes
+of Classical Economics and the central arguments of the Currency Schoo1.25 (See
+again Diagram 1) However, owing to their relative flexibility as policy makers , during
+22 M . Fanshawe, Reconstruction - Five Years of Work by the League of Nations , (London, 1925) .
+23 Cain and Hopkins, op .cit. , Vol.lI, pp.65-66.
+24 For example, two notable British administrators intimately involved in Greek affairs during the interwar years , Sir Otto Niemeyer and Leith Ross, read classics as university students . Source: P. Clarke , 'The Treasury's Analytical Model ' in Furner and Supple, (eds.) , op.cit. , pp .175-176 .
+25 For the intellectual links of officials to the Classical School of Economics see: B.K. Sikkink, Ideas and Institutions, Developmentalism in Brazil and Argentina , (lthaca , 1991), p. 19.
+9
+
+
+the process of transplantation they adapted the 'original ideas ' of this background
+theoretical influence, so as to suit their particular material interests . Thus , for
+example they turned a blind eye to the preponderance of indirect taxation in the Greek
+fiscal system, although classical economists in principle were not in favour of indirect
+taxes .26
+Diagram 3 depicts the objectives of the various actors involved in technology transfer .
+There were plenty of differences and even when institutions were in concurrence in
+terms of their aims, there was often disagreement over the appropriate technology .
+As a result, conflicts were ample : both internal (i .e. among the transmitters and
+among the receivers) and external (i.e. between the two groups) . Of the two
+international transmitters, the eldest, i.e. the LF .C. had three functions . It was a debt
+collecting agency,27 managed monetary policy and acted as a conduit for external
+fmance, guaranteeing the service of 75 % of the loan capital raised in the international
+capital market up to 1922 .28 In its function as administrator of the public foreign debt,
+the LF.C ensured that the yield of the revenues allocated to it (i.e the income from
+the state monopolies , a sizeable chunk of the country's tariffs and indirect taxes on
+mass consumption goods) was high by making more efficient the method of tax
+collection29 Pointedly , it did not interfere with the physiognomy of the taxation
+26 See work in progress titled 'The image of Greece in the West' , and B. Hilton, Corn, Cash, Commerce The Economic Policies of the Tory Governments 1815-1830, (Oxford, 1977) .
+27 The foreign debt of Greece was secured by specific charges on individual revenues, and not by a general charge on the state budget. Thus the LF.C . in its function as a debt collecting agency supervised specific revenues .
+28 After 1922 the LF .C. agreed to guarantee only the two state loans raised under the auspices of the League of Nations .
+29 The power of the LF .C. was substantial. When established in 1898 , 51 % of the foreign debt was placed under its authority and the total income accruing to it amounted to 35 % of the ordinary receipts of the state. Subsequently, as the LF. C. agreed to supervise new foreign loans , additional revenues were assigned to it. Also, with its power of veto over modifications in the laws and regulations affecting the assigned revenues (with the exception of custom duties), it ensured that no modifications were made detrimental to its interests. Source: Kalliavas , op.cit.
+10
+
+
+DIAGRAM 3
+Objectives of the actors
+I. British Institutions
+Treasury: To protect the (private and publi c) financial interests of the British in Greece.
+Ba nk of Eng lan d: To spread the gold standard and the princip le of central banki ng. Also, for the Bank of England to control the policy of the Greek central bank.
+Foreign Office: To promote British political influence and economic presence in Greece. It was interested in financial issues (such as monetary stabi lity) to the extent that they affected the two aforementioned goals
+R oa rd of Trade: To promote British exports to Greece.
+11. International In sti t utions
+Inte rn a tio nal Financi a l Co mmission: Declared goal: to guarantee the smooth repayment of theforeign debt Hidden goal: to maximize the income of the bondholders, by in creasing the returns of the taxes mortgaged to the foreign debt and keeping the ex ternal value of the drachma as high as poss ible.
+League of Nations: Declared goal : Peace and political and financial stabi li zation.
+T h e Greek governm en t: To have continuous access to the international capital market in order to maintain a policy of permanent structura l fiscal imba lan ce.
+T he National Bank of Greece: To maintain its mixed banking character- i.e. to be simultaneous ly the central bank and the country's largest co mmercial bank . With regard to foreign capital it w ished to undertake ,ioint ventures with it for large pub li c work o r industrial projects .
+
+
+system which was ·characterised by the almost total absence of direct taxation. 3O In
+contrast, with respect to its role as supervisor of Greek monetary policy, the LF.C .
+eradicated seigniorage and enforced with some success the principle of a 'small' state.
+(For Greek resistances to the principle of a small state see below , 1.3.)
+The Financial Committee of the League of Nations upon arriving on the scene in
+192311924, replaced the I.F .C. in terms of supervision over monetary policy . In co
+operation with the Bank of England it put Greece on the gold exchange standard and
+established a new central bank, leaving to the LF.C . only the administration of the
+foreign debt. As we will see below cohabitation between these two tools of foreign
+control was not an easy affair. In spite of their allegiance to the principles of the
+' Currency ' School and the gold standard, neither their primary goals nor their tactics
+coincided. For example the priority of the LF.C. was to secure a maximum income
+for the bondholders whereas the Financial Committee of the League of Nations was
+primarily concerned with fmancial stability per se.
+One fmal comment: there was a deep-seated divergence between the Greek state and
+the transmission charmels in terms of objectives and economic philosophy. In the last
+analysis, native policy acquiesced to the dictates of foreign supervision as a result of
+coercion. The latter being feasible due to the fmancial weakness of the state.
+30 A peculiarity of the Greek tax system vis a vis the British late 19th century liberal model was the absence of direct taxation as a fiscal tool and its regressive character. In Britain, the income tax was introduced in 1799 and the inheritance tax in 1870. In Greece these two taxes were introduced respectively in 1910 and 1898. Indicatively in 1910, the income tax in Greece accounted for a mere 40 % of total tax receipts, whereas in Britain in 1844 it accounted for 10 %. Source: G.B. Dertilis , Atelesforoi i Telesforoi, Foroi kai Exousia st~ Neoelliniko Kratos [Taxation and Political Power in Modem Greece], (Athens, 1993) , pp .58-60 .
+11
+
+
+1.3 The cultural and political context
+The cultural and political milieu in which implantation materialized was bizarre. The
+ideas of political liberalism formed the mainstream conceptual framework for a
+significant and influential segment of the westernized intelligentsia.31 The state ,
+although overall a despotic institution unable and unwilling to eradicate the archaic
+social mentalities and structures entrenched in Greek society, adopted at early dates
+-with the recrimination of its Protectors- universal male suffrage and such neo-liberal
+principles as free education and large war relief compensations. 32 However, in the
+area of public policy , political liberalism did not fmd a corollary in economic
+liberalism. 33 Throughout the 19th century there had been a horizontal spread of the
+ideas of classical economics to Greece,34 and on the whole, Greek scholars were
+largely proponents of laissez faire economics and the Currency School.35 But, there
+31 Not much has been written on the impact of the Enlightenment on Greek intellectuals . A pioneering study in this field is : P. Kitromilides, 'The Enlightenment East and West: A Comparative Perspective on the Ideological Origins of the Balkan Political Traditions ', Canadian Review of Studies in Nationalism , Spring 1983 . Also, Kaltchas , pp . 9-33, 100-108, passim.
+32 For example, eleven years after independence, in 1843 , following a local revolt in Athens , the Bavarian born monarch and the Protector Powers were forced to accept the drawing of a constitution and the establishment of a representative assembly. Source: McGrew, op .cit., pp.97 , 108. But, for the fact that the spread of liberal political ideas was not translated into action without institutional resistances see: P. Kitromilides, "European Political Thought in the Making of Greek Liberalism: The Second National Assembly of 1862-1864 and the Reception of John Stuart Mill' s Ideas in Greece", in Parliaments, Estates and Representation , Volume 8, Part I , June 1988 .
+33 For the fact that political and economic liberalism do not always mesh perfectly even in the West see: E.F . Paul , F.D. Miller, Jr., and J. Paul , (eds), Liberalism and the Economic Order, (Cambridge, 1993).
+34 By spread meaning that there was a spontaneous dissemination of these ideas through intellectual discourse.
+35 However, it should be noted that, although prior to W.W.II the ideas of economic liberalism remained throughout preponderant, in the early 19th century St. Simonism was on the rise and in the 1920 ' s the Banking school principles and Marxism were becoming popular also . Sources: M . Psalidopoulos , ' Metafrasis Vivlion Oikonomikon Epistimon stin Elliniki Glossa, 1808-1948 : Ta Ideologika
+12
+
+
+was no vertical migration, as orthodox economic ideas once they appeared locally
+were not translated into policy . The state was large in size, not a budget balancer by
+conviction from the 1860s onward, and with no notion of the principles of central
+banking .36 Thus , the implantation of orthodox monetary/exchange rate techniques and
+central banking was imposed from outside and did not spring from home forces. As
+already shown above, it occurred within the framework of a ' forced ' diagonal
+migration . The issue at stake is why did these economic policies came about as a
+result of foreign coercion rather than as a change in policy after the arguments of the
+local intelligentsia? The answer to this question lies in the study of the nature of the
+political system. For Greek parliamentarism rested on an institutional arrangement in
+which all social strata expected some specific privilege or concession from the weak
+yet 'modem' state. The need to secure political stability and consensus for
+parliamentarism induced the government to enforce a system of property rights that
+was economically inefficient in that it promoted fiscal disequilibriwn .37 But, this
+subject lies outside the scope of this paper. What is of interest here is to underline a
+phenomenon which has (to my knowledge) not been identified in the literature:
+Mynimata' [Translations of Economics Books in Greek, 1808-1948: The Ideological Connotations] in Institute of Regional Development, Panteion University , Mnimi Saki Karagiorga [Memory of Saki Karagiorga], (Athens, 1988); M. Psalidopoulos, I Krisi tou 1929 kai oi Ellines Oikonomologoi [The Crisis of 1929 and Greek Economists], (Athens , 1989); M . PsaJidopoulos , 'Morfes Oikonomikis Skepsis stin Ellada 1936-40' [Aspects of Economic Thought in Greece 1936-40], in H. Fleicher and N. Svoronos (eds. ), Ellada 1936-44: Diktatoria, Katohi, Antistasi [Greece 1936-44: Dictatorship, Occupation, Resistance], (Athens , 1989). Also, G.B. Dertilis, To Zitima ton Trapezon (1871-1873) Oikonomiki Diamahi stin Ellada tau 190u Aiona [The Banks' Affair (1871 -1873) Economic Conflict in 19th Century Greece], (Athens , 1980), pp.47-67, 189, 191.
+36 Haritakis, (1930) , op.cit. ; Lazaretou , op .cit. , pp.292-293 .
+37 For an analysis as to how foreign capital facilitated the perpetuation of the fiscal imbalance see: I. Pepelasis Minoglou, ' Political Factors Shaping the Role of Foreign Finance: The Case of Greece, 1832-1932', in J . Harriss , 1. Hunter, C. Lewis, The New Institutional Economics and Third World Development , (London, 1995).
+13
+
+
+namely. the existence of this twin disarticulation regarding the spread and application
+of the ideas of political and economic liberalism in Greece. 38
+2. Initiation to the principles of sound f'mance: baptism and disavowal
+Begirming in the early 1890s a nwnber of disparate countries, with close political,
+economic and fmancial ties to the industrial countries , followed the example set by the
+advanced world and moved towards gold .39 This development was not 'spontaneous '.
+Although co-operation among central banks remained sporadic before 1914, the
+international gold standard did not work automatically, and was in practice managed
+discreetly by the Bank of England. However, in the case of Greece this embracing
+of monetary discipline occurred as a result of direct foreign intervention in native
+policy. 4()
+In 1898 with the installation of foreign economic control over Greece, the control of
+the money supply was transferred to the I.F.C . The 'Commiss ion' applied the
+quantity theory of money to curb inflation and loosened the grip of the state over the
+National Bank of Greece. Twelve years later, in 1910 the drachma unofficially joined
+the gold standard. Thus , Greece was among (if not) the very last economically
+backward country to follow the path of ' orthodoxy' . The drachma remained stable
+throughout W.W.I. But in 1920, political factors led to the weakening of the
+mechanism of international coercion. The control of the supply of money was placed
+once again into the hands of the government, the drachma loosing 4/5 of its exchange
+value in just two years.
+38 It indeed seems peculiar that this disarticulation has been ignored , as research into this phenomenon can lead to interesting observations regarding the peculiarities of the Greek socio-economic fornlat ion.
+39 M. De Cecco, Money and Empire The International Gold Standard, /890-1914, (Oxford, 1975); c.P. Kindleberger, A Financial History ojEurope, (Oxford, 1993); Eichengreen and Lindert (eds. ), op .cit.
+40 De Cecco, ibid; B.Eichengreen (ed .), The Gold Standard in Theory and History, (New York, 1985).
+14
+
+
+2.1 The baptism: International Supervision enforces a tight monetary regime
+and the principle of a small state (1898-1914)
+When the I.F.C. was set up in 1898, the external value of the drachma had fallen
+sharply.41 In large part this was the result of the state' s dependence on seigniorage
+as a fiscal tool from the 1860's.42 The I.F.C. enforced at once a policy of monetary
+appreciation, the goal being the reattainment of the I :I parity between the drachma
+and the French franc . The need to introduce a tight monetary regime in Greek public
+policy was a fundamental point on which Greece' s three major creditors (i .e. Britain,
+France and Germany) concurred.43 Their governments as representatives of the
+bondholders had a vested interest in the revaluation of the drachma . A strong
+drachma meant that the bondholders would have extra income and thus reap more
+profits from their Greek investments .44 Under the 'Law of Control of 1898' (i. e., the
+legal document in which the Powers outlined in detail the guidelines for Greek
+monetary policy) the state was obliged to: i) reduce the existing level of monetary
+circulation by annually withdrawing 2,000 ,000 drs . of forced currency banknotes (the
+aim being to reduce the notes of forced currency from 94,000,000 drs to 40,000 ,000
+4\ A parity of 100 drachmas to 100 French francs had been established in 1882. By 1898 the exchange rate of the drachma had fallen to such an extent that 100 French francs were equal to 147 drachmas . Lazaretou, op.cit. , pp .297-301 , 310.
+42 For the political reasons leading to the permanent fiscal imbalance see: Dertilis , (1993), pp .23-70 , passim.
+43 Apart from Greece other countries were also subjected to macroeconomic management by creditor nations , such as for example, Argentina and Brazil. See: Eichengreen and Lindert, (eds .) op.cit. , pp.86-91 , 98-104.
+44 By following a policy of appreciation of the drachma the ' surplus' revenues accruing to the I.F.C. grew . (By surplus revenues is meant the amount that remained from the assigned revenues after provision was made for the service of the debt). In this way, the foreign bondholders were able to secure a rate of interest higher than that specified upon the coupons of the 'old' gold loans . (i .e. the loans raised between 1881 and 1896) . In addition, provision was made for a speedy redemption of the foreign debt. For details on how this system of extra bonuses exactly worked see: W.H. Wynne, State Insolvency and Foreign Bondholders , Vol II, pp .335-336, (New Haven , 1951).
+15
+
+
+drs) ; ii) make no new emissions; and iii) curtail the level of Treasury bills in
+circulation from 18,000,000 drs to 10,000,000 drs.
+Effectively, with these stipulations the 'Law of Control of 1898' forced the
+government to embrace the principle of a 'small' state in two respects: In real terms,
+the rate of growth of government expenditure was stabilized at lower levels.45 (See
+Appendix, Table 2) Also, the state was denied the right to use as its Treasurer the
+National Bank of Greece (N .B.G .). This mixed bank simultaneously to having
+' exclusive ' privilege of the issue of banknotes was the country's largest commercial
+bank. Effectively, the I. F. C . acted as a shield of protection relieving the N. B. G. from
+the interventions of a state which largely interfered with everything. Indeed under the
+' Law of Control' the National Bank acquired a nominal 'autonomy ' and public
+presence as was considered proper in the English tradition 46 In addition to curtailing
+the emission of new forced currency and Treasury bills, the liquidity of the National
+Bank was enhanced by making special provision for the speedy redemption of the state
+debt towards it.47 Prior to the imposition of foreign control , the bank had lent vast
+amounts of capital to the state and had purchased large sums of government bonds .
+As a matter of fact, the funds of the National Bank of Greece tied up in government
+paper on the eve of the creation of the I.F.C. had amounted to 54% of its assets. 48
+There were also other fmancial benefits for the National Bank of Greece stemming
+from the Law of Control: The state was obliged to deposit with the bank whatever
+sums, from the assigned revenues under I.F.C. administration, remained in excess of
+45 For Law of Control , see: F037 11 10765/C 1851 1358119, Memorandum respecting the International Financial Commission at Athens.
+46 For the belief system which had emerged (by the time the I.F.C. was set up in 1898) among the officials of the Foreign Office and which maintained that the Greek state was too large and interventionist see again: work in progress titled 'The image of Greece in the West'.
+47 This debt largely consisted of Treasury bills issued by the N.B.G.
+48 By 1905 this amount had fallen to 35 %. Source: K. Kostis, V. Tsokopoulos, Oi Trapezes stin Ellada 1898-1928 [Banks in Greece 1898-1928], (Athens, 1988), p.40.
+16
+
+
+the amounts allocated to the service for each half year of the loans under the
+supervision of this international organization.49 Moreover, the N.B .G. was placed in
+charge of converting into foreign exchange the amounts necessary for the service of
+the foreign debt.
+With the restrictive economic policy enforced, the vicious circle whereby fiscal
+imbalance fed monetary imbalance was to all appearances broken . The annual
+withdrawal of notes in combination with the expansion in economic activity fostered
+confidence in the domestic currency and large gold inflows . There was also an
+increase in remittances .50 As a result, the drachma experienced a sharp revaluation
+and attained in 1909 par with the French franc . One year later, in 1910, a law was
+passed authorizing supplementary issues of notes against full cover in gold or gold
+exchange. 51 This move had the advantage of averting deflationary pressures while
+simultaneously making it possible to maintain parity between the drachma and the
+French Franc.52 As the N.B.G. was obliged to exchange upon demand the local
+currency into French Francs or gold, effectively a kind of gold exchange standard
+system was established. The link was never made formal as Greece , like other less
+49 Also, the funds from the mortgaged state revenues deposited with the N.B .G. (in excess of the amounts necessary for the service of the external debt) were allocated for the repayment of the state debt towards the N.B.G . In the event that these surplus amounts were not sufficient, the state was obliged to provide funds adequate for a speedy redemption of the debt. Source: E.I. Tsouderos, 0 Stefanos Streit Ta Dimosia Oikonomika kai i Ethniki Trapeza tis Ellados apo to 1896 mehri to 1911 Stefanos Streit Greek Public Finances and the National Bank of Greece from 1896 to 1911], (Athens , 1939) , p. 11. Also, Law of Control, article 31.
+50 Andreades, op.cit., VoI.Il, pp.483-487 , 525 , 573 .
+SI For a description of this law which was named after the governor of the National Bank of Greece, I. Valaoritis, see: K. Varvaressos , ' J Nomismatiki Statheropoiisis kai Trapeziki Metarythmisis en ElIadi' [Monetary stabilization and Banking Reform in Greece], Oikonomikos Tachydromos , June 10 and 17 1928 .
+52 Tsouderos, op .cit., pp .15-19. Also , M.S . Eulambio, The National Bank of Greece A History ofthe Financial and Economic Evolution ofGreece, (Athens , 1924), pp.2 1-30.
+17
+
+
+developed countries , feared a gold drain .53 It should be remarked at this point that the
+new monetary law of 1910 which was introduced with the initiative of the governor
+of the National Bank of Greece, was fully condoned by the I.F .C., although
+apparently it had no direct involvement in the affair. 54 The Commission was sensible
+enough to realise that after the attainment of parity some flexibility would have to be
+introduced in the legal framework governing monetary affairs .
+To recapitulate. During this flfst initiation to the principles of monetary orthodoxy
+the political authorities offered no resistance .55 Acquiescing to the desires of
+international supervision was seen as a sine qua non for the maintenance of large
+foreign capital inflows , which, in the absence of seigniorage, had become the sole
+source for fmancing the persistent budget deficit.56 But, undoubtedly , the National
+Bank of Greece was the Commission's most important local ally at the time. The
+forme r made no secret of the fact that it was relieved that the I.F. C. had freed it from
+acting as Treasurer of the state . Notabl y, although the Law of Control promoted the
+orthodox principles of central banking by enhancing the fmancial position and
+' autonomy' of the National Bank vis a vis the government, it did not try to dives t the
+bank of its commercial activities (i.e . its mi xed banking character). Nor did the
+53 The gold exchange standard was already widely established by 1913. Other cases to unofficially join gold were the Philippines and India. See: Kindleberger, op .cit. , pp .324-5.
+54 All the three basic members of the I.F. C. espoused the Gold Standard . See: S. Checldand, British Public Policy 1776-1939, An economic, social and political perspective, (Cambridge, 1983), p . 167 .
+55 Notably, although the I. F .C. was not a popular institution, the only dispute the government had with it concerned administrative matters pertaining to this agency 's tax collecting function . Source: Kalliavas, op .cit.
+56 By the 1880' s domestic borrowing, had reached its limits. Notably , between 1868 and 1879 the amounts lent to the state by the N .B .G. were almost equal to 35 % of the bank 's assets . See: National Bank of Greece, Evretirion LOu 1storikou Arheiou tis Ethnikis Trapezis tis Ellados [Directory of the Historical Archive of the National Bank of Greece; and also, National Bank of Greece, Etisios Apologismos tis E. T.E., [Annual Reports of the N .B.G .], 1868- 1879.
+18
+
+
+l.F.e. pressure it to use central banking instruments such as the bank rate or acting
+as a lender of last resort.57 These fmancial innovations were eventually enforced by
+international supervision in the 1920s after an intermediate period during which the
+principles of sound fmance were 'ignored ' by the state and the National Bank. For
+as explained below. the transfer of technology proved neither continuous nor smooth.
+2.2 The disavowal: The government reverts to the pre-1898 pattern of rlScal
+and monetary expansionism undermining the autonomy of the N.B.G. (1920-1922)
+In 1914 under the strain of W.W.!. the international gold standard broke down.
+Surprisingly , throughout the war the drachma did not depreciate nor did it loose its
+external value. This was a remarkable feat compared to the inflationary trends
+spreading all over Europe at the time. However, the state did not leave totally
+unchallenged the principles of sound fmance . Specifically, it eroded the separation of
+powers between the government and the National Bank of Greece by passing in 1914
+a decree placing the management of this institution under direct political supervision.58
+The negative repercussions of this action for the stability of the drachma were felt
+six years later. 59 The story was as follows :
+Upon the return of the pro-German King Constantine from exile in November 1920
+the ex-allies , in order to impede his re-enthronement, withheld the supply of credits
+57 This was not surprising considering that the Bank of England learned slowly to intervene in market. (For example, it began to use the bank rate as a systematic policy tool only after 1906.) Source: Cain and Hopkins, op.cit. , Vol.l, p. I44 . For the reluctance of the N.B.G . to use such tools see: Kostis and Tsokopoulos , op.cit. , p.77 .
+58 Also, during the Balkan wars in 1912- 1913 the state borrowed 160,000,000 gold francs from the N.B.G. In 1914 a further 65 ,000,000 was asked for . The Bank began to show signs of resistance and the state retaliated by passing this decree which required that the appointment of the governor of the N.B.G. be subjected to the approval of the government. Source: E. Stasinopoulos, llstoria tis Ethnikis Trapezis (is Ellados 1841-1966 [The History of the National Bank of Greece, 1841 -1966], (Athens, 1966), pp .83 , 97 .
+59 Bank of Greece , Ta Prota Peninta Hronia tis Trapezis tis Ellados 1928-1978 [The First Fifty Years of the Bank of Greece], (Athens , 1978).
+19
+
+
+promised to Greece under an Agreement signed in Paris in 1918 .60 The reaction of
+the government to this fmancial embargo was to resort once again to seigniorage as
+an instrument of fmance . In transgression (abeyance) to the Law of Control , the
+National Bank of Greece, under government orders, began to print large quantities of
+Treasury bills and uncovered notes which were largely employed towards covering the
+needs of the state in connection with the military campaign in Asia Minor (1919
+1922)61 Thus , effectively , Greece' s first initiation to the principles of sound fmance
+came to an abrupt end in 1920. Between 1920 and 1922 the cost of living index
+almost doubled and the drachma lost 4/5 of its exchange value. Notably, whereas in
+December 1919 the total reserves of the National Bank of Greece fluctuated between
+87 % and 101% of the notes in circulation, approximately one year after the imposition
+of the embargo they had fallen to 12 %!62
+60 This Agreement had been designed by the Allies to give Greece adequate fmancial backing for her to enter at the last moment the war on their side . The understanding was that the government would issue paper currency of up to 750,000,000 French Francs and that the Allies after the war would provide the currency to back this issue in the form of book credits. (With each book credit given there would be an equivalent withdrawal of drachmas from circulation so as to prevent inflation .) However, with the embargo of 1920 the largest part of the book credits was never granted. See: H . Dewing, Greece and the Great Powers, (Washington, 1924). Also, N. Pandelakis, Symmahikes Pistoseis, Kratos kai Ethniki Trapeza (19171928) [Allied Credits , The State and the National Bank (1917- 1928], (Athens , 1988); and G. KofUlas, To Oikonomikon Provlima kai ai Symmahikai Pistoseis [The Economic Problem and the Allied Credits], (Athens, 1926).
+61 Indeed, between 1920 and 1922 the notes in circulation doubled . Almost all of the new notes were employed for the needs of the state. For the fmancial instability following the embargo and the anomalous political situation see: G. Hristopoulos (ed.), 1storia tou Ellinikou Ethnous [History of the Greek Nation], (Athens, 1978) Vo1. 1E, pp.200-247 passim .
+62 By total reserves meaning the metallic reserves plus other cash items and balances abroad . Sources : D. Nikoletopoulos and P. Anagnostopoulos, The Banknotes of Greece from 1828 until the Present Day, (Athens , 1979) , P . I03 . Also, L.N ./Sir Arthur Salter' s Papers: S114/Documents re loan request from Greece, document titled : "Memorandum on Greek Economic and Financial Position " May 22 1923 .
+20
+
+
+Although the l.F.C . admitted that the withdrawal of the allied credits (as a result of
+the fmancial boycott imposed in November 1920) contributed to the deterioration of
+the reserves-banknote ratio, it attacked the government for making supplementary
+issues of uncovered notes in order to fmance the Asia Minor campaign.63 Indeed,
+from the point of view of its material interests , the I.F.C . was in a difficult position
+as its annual income did not rise sufficiently to counterbalance the steep depreciation
+of the drachma .64 The protests of the I.F.C . were ignored and its position as
+supervisor over monetary policy was undermined . As long as Greece was debarred
+from the international capital market, the government saw no reason why it should
+abide to the will of its fmancial supervisors. By one of those paradoxes peculiar to
+' financial imperialism' , the use of economic blackmail (i.e. the financial embargo of
+1920) as a tool of pol itical coercion by the Powers created a backlash, provoking the
+state to revert to its pre-1898 practise of using seigniorage and extensive borrowing
+from the N.B.G. as ' fiscal ' tools . In the last analysis , the only privileges vested upon
+the National Bank of Greece by the Law of Control to remain unscathed during 1920
+1922 were those regarding the collection and service of the foreign debt.
+3. Transplanting central banking: initial failure, adaptation, and success
+(1922-1940)
+In the 1920's changing conditions in Britain were largely responsible for the altered
+content of the monetary techniques transferred . The Bank of England entered the field
+of economic diplomacy dynamically, acquiring a more international perspective.
+Norman, in his move to revive the gold standard and enhance the importance of the
+63 There was an element of hypocrisy as two of the members of the I.F. C. in their role as ex-Allies were directly responsible for the fmancial boycott.
+64 Indeed, the sums required for the annual service of the debt (under the authority of the I.F.C.) measured in pound sterling rose as a percentage of the income accruing to the I.F.C. from 49 % in 1920 to 108 % in 1922. Source: Athens Stock Exchange, EpetiriSlou Hrimatistiriou Axion Athinon 1932 [Stock Exchange, Yearbook for 1932], (Athens, 1933) and M .F.A .lH.A. :1923 /L.H .l0!2 : File 42, Memorandum titled 'The economic situation of Greece' .
+21
+
+
+City as a financial ·centre, created new central banks or reformed existing ones in a
+nwnber of weak economies in collaboration with the League of Nations . Greece was
+one such case. Following the return to peace in 1922,65 the enforcement of an
+'orthodox' technology of monetary policy focused on the espousal of free
+convertibility within the context of the implantation of a central bank. The discussion
+that follows concentrates on the reasons for the initial failure and the eventual
+permanent success of this technology transfer which introduced a new financial
+institution. 66
+3.1 The ideological antiparathesis: local resistances to 'orthodoxy'
+The transfer of ' orthodox' techniques of monetary-fiscal policy took place in a less
+friendly environment during the 1920's. The Greek state was reluctant to balance the
+budget, 'refusing on the grounds of political expediency and 'national autonomy ' to
+curtail its compensations to refugees or war victims and to cut down expenditures on
+public works and rearmament.67 Moreover, the state did not agree in principle to a
+separation of powers between government and the bank of issue. Also, by trying to
+reform the banking system, Greece' s supervisors lost their only local ally, the
+National Bank of Greece. After W.W.l the N.B .G. sought to play a developmental
+role in the economy - promoting industry , public works etc. and not a passive role in
+line with the British tradition of central banking . Notably , the Banking School
+principles had infiltrated the quarters of the National Bank of Greece. This tradition
+held that an expansion in the volwne of money made to supply the needs of commerce
+through additional bank credits would not have a downward effect on the external
+65 After W.W.I, Greece was engaged in military conflict with Turkey (1919- I922) .
+66 Indeed, the establishment of the central bank constituted for Greece a fmancial innovation. See: KindJeberger, op.cit. , p.6 .
+67 Expenditure on public works was considered by the currency school as an anathema, diverting expenditure from private to public channels . This was also the official Treasury view. Cain and Hopkins , op .cit. , VoI.II, p.79.
+22
+
+
+value of the currency .68 This shift in perception in the National Bank was partly
+related to the new economic conditions brought about after the Asia Minor debikle of
+1922, by the inflow in a country of barely 4,500,000 of more than 1,000,000
+refugees . This sudden influx acted as a catalyst creating new opportunities for
+business and imposing new obligations on the state (around 70 % of these refugees
+were destirute and had to be settled) . The need to develop the country 's resources
+increased as a result of the fact that the already low land/ labour and capital/ labour
+ratios worsened as a result of this sudden population pressure .69 Moreover, it should
+be noted that by this point in time more high level officials of the National Bank had
+been exposed at a theoretical level to the Banking School Principles either during
+their srudies abroad or through discourse with the growing rank of Greek academics
+who were proponents of this School of Thought. 70
+Thus , after W.w.r the transfer of orthodox monetary policy techniques materialized
+within the framework of a marked ideological antiparathesis . Two British Schools of
+Thought were locked in battle in Greece, ' replaying ' the Currency and Banking
+Schools controversy of 19th cenrury Britain. However, the context was different,
+distorted one might even add, for it was a debate exclusively between administrators
+of different culrures; the Currency School being represented by the officials of the
+Bank of England, the Treasury and the League of Nations . The Greek debate on
+central banking also anticipated the post W.W.II strucruralist monetarist controversy
+68 E.V. Morgan, The Theory and Practice of Central Banking. 1797-1913, (Cambridge , 1943) . Also, P. Geddes , Inside the Bank of England, (London, 1987) . Or, to phrase the argument in modern terms, depreciation was seen not as an anathema but as a stimulus for recovery and development.
+69 D. Pentzopoulos, The Balkan Exchange of Minorities and its Impact Upon Greece (Paris , 1962) National Bank of Greece, Etisios Apologismos [Annual Review], 1922-1927 .
+70 Greeks who srudied abroad went to Germany or France. Thus, they became acquainted with this variant of the British Classical School of Economics indirectly. (See above in the text Diagram 1) . For an analysis of the economic philosophy of Greek academics see: Psalidopoulos , op .cit. , (1988) and both texts of (1989) .
+23
+
+
+between the I.M .F. and developing countries .71 It should also be remarked that
+foreign supervisors, as was the general case often after W.W.Il, had a condescending
+attitude. Instead of acknowledging Greek officials as dissenting disciples of the
+Banking School of Thought (struggling to adapt theory to the peculiar conditions of
+a backward society facing a sudden supply side shock as a result of the refugee
+inflow), they were perceived as ignorant and uneducated.
+3.2 The preliminaries
+3.2.1 The fIrst encounter of the League of Nations with the Greek authorities
+(1923-1924)
+The League of Nations within the context of its primary goal, which was the
+maintenance of peace, devised a number of schemes for the fmancial reconstruction
+of Europe. This task was undertaken by its Financial Conunittee in co-operation with
+the Bank of England. The involvement of the League in Greece began during early
+1923 , when the government asked it to arrange the flotation of a large international
+loan for the settlement of the refugees .72 The reluctance of the League of Nations to
+undertake at once such a responsibility, prompted the direct intervention in Greek
+public policy of the Bank of England . The latter offered two advances on a League
+loan (one in 1923 and another in 1924) after extracting from the Greek authorities
+promises to curtail rearmament and to stop issuing uncovered notes. Also, the
+National Bank of Greece agreed to join the network of central banking under the
+supervision of the Bank of England 7 3
+71 B. Eichengreen, Elusive Stability, Essays in the History of International Finance, 1919-1939, (Cambridge, 1990), P .6.
+72 For the political and fmancial instability following the Asia Minor debacle see: Hristopoulos, Vol lE, pp .248-296 , passim .
+73 I. Pepelasis Minoglou , 'Oi Diapragmatefseis gia to Prosfygiko Daneio tou 1924' [The Negotations for the Refugee Loan of 1924], in Th . Veremis , G. Goulimi (eds. ), Eleftherios Venizelos Koinonia, Oikonomia Politiki stin Epohi tou, [Elefiherios Venizelos Society Economy Politics During his Era] (Athens , 1988).
+24
+
+
+These conunitments were kept and by mid 1924 the general impression given was that
+the state was indeed keen on balancing the budget and arresting the depreciation of the
+drachma . Thus , when in September 1924 the Financial Committee of the League
+decided that the political and fmancial conditions of Greece 'had improved
+sufficiently' , so as to allow for the flotation of a £12,300,000 Refugee Loan under its
+auspices , no specific guidelines were delineated regarding public policy . 74 Instead of
+establishing a mechanism for a supervised retreat from high levels of government
+expenditure and seigniorage, as had been the case with the Law of Control in 1898,
+there was only the following vague comment in the preface to the Loan Protocol : "The
+Financial Conunittee wishes that every precaution should be taken to ensure the
+stability of the budgetary situation and of the drachma" .75 It should be noted at this
+point that there was a vacuum in international supervision in that some of the basic
+guidelines of the Law of Control (such as those for example pertaining to the desired
+level of monetary circulation) had by this time become outmoded as a resul t of the fact
+they were relevant to the Pre W.W.I fmancial order. Ex post, the Bank of England
+proved too optimistic regarding the intentions of native policy makers to embrace on
+a permanent basis -without ' outside guidance' - the rules; of fmancial orthodoxy , i.e.
+to curb spending, balance the budget, stop creating paper money and stabilize the
+drachma, tying it to the gold exchange standard .76 For indeed, soon after the Refugee
+Loan was floated in December 1924 state expenditures appeared once again to be
+getting out of control. The government forgetting all promises for restraint in military
+74 ibid.
+75 B.G.rr.A. , Document 18/56: Report of the Financial Committee to the Council in 1924 on the Proposed Amendments to the Protocol of September 29th 1923, Concerning the Settlement of the Greek Refugees.
+76 In part international supervision may have been misled by the authorities , as Diomedes , shortly before the flotation of the Refugee Loan, had claimed that once the loan was issued, simply through the interplay of market forces , the drachma would stabilize at a rate of250 drs to the pound sterling. Source: N.B.G'/H.A. , XII Banks, N.B .G. and Foreign banks , File 70, Correspondence with Hambros Bank: Hambro to Diomedes, October 21 1925 . Also, G.H.L.A '/D.A. , Document 272: Drossopoulos to Diomedes, October 23 1925 .
+25
+
+
+expenditure embarked on an ambitious programme of rearmament. 77 On the fmancial
+front, in January 1925 the drachma appeared to be reverting to its post 1920 familiar
+pattern of decline and abrupt tluctuations .78
+3.2.2 The Banking Currency School debate and the I.F.C. proposal for the
+stabilization of the drachma (1925-1926)
+In early 1925 the British government appointed L.G . Roussin , a Treasury employee
+as representative on the I.F.C. 79 This new appointment retlected the growing concern
+of the British over the narrowing margin of the revenues pledged to the I.F .C, as a
+result of monetary instability .80 Roussin upon arriving in Athens came at once into
+contlict with A. Diomedes the governor of the National Bank of Greece . The apple
+of discord between them being the causes for the fall of the external value of the
+drachma. Diomedes maintained that the instability of the drachma was basically the
+outcome of two structural weaknesses of the Greek economy: the budget
+disequilibrium and the large trade deficit brought about by ' real factors' such as the
+sudden upsurge in the imports of machinery and foodstuffs following the refugee
+influX .81 Whereas , Roussin a fum follower of the Currency school blamed monetary
+factors and claimed that the ' anomalous ' exchange condition of Greece had its origins
+in an 'overissue' of money and merited the adoption of a restrictive emission and
+77 B.Grr. A., Document 102/ 11 : Diomedes to Norman , March 31925. Also, see: B.G '/T.A., Document 102/4: Tsouderos to Norman or Niemeyer? , February 61925. For the trade deficit see: A.F. Freris, The Greek Economy in the Twentieth Century , (London, 1986).
+78 Assuming that the annual average price of the £ sterling in drachmas was 100, in 1924 the maximum price was 120 .6 and the minimum 81.6; in 1925 the relevant figures were 125.4 and 78 .1. For figure on a monthly basis see: Deltion Kiniseos Axion en to Hrimatistirio Athinon, Issues: 1920-1926 .
+79 F0371115299, Waley to O' Malley, March 21931.
+80 F03711C15831 /8304119, Notes of H.Nicolson, titled: ' British Representation on International Financial Commission at Athens , October 1 1924'.
+81 B.G '/T. A., Document 10211 I : Diomedes to Norman, March 3, 1925 .
+26
+
+
+credit policy. The governor of the N.B.G. thought otherwise and in early February
+1925 he announced to the I. F.C. that it would be necessary for the Bank to issue
+400,000,000 drs. to be used as advances to agriculture, industry and commerce.82 In
+Diomedes view, this was warranted given the growth in output, transactions and
+demand for credit from the business community resulting from the refugee influX .83
+He maintained that the principle of monetary restraint could by no means be endorsed
+in a country "emerging from an acute crisis and making marked efforts to gain its
+equilibrium,84 and argued that ' free ' or expansionist banking was necessary for the
+economic development of the country .8S
+Roussin refused to approve a new emission. To him, there was no essential difference
+between printing notes without cover in order to cover the budget deficit (government
+inflation), and printing notes without cover in order to meet the demand of producers
+for bank credits (banking inflation). He argued that both paths were destabilizing and
+caused the currency to depreciate. Roussin suggested that the N.B .G. resolve cash
+stringency through 'non inflationary' measures, such as increasing the capital of the
+Bank or inducing the government to fund -by an internal loan- that part of the floating
+debt owed to the National Bank.86 Although Diomedes did not obtain the consent of
+82 N.B.G.lD.A ., Document 264: Tsouderos to Diomedes , Feburary 26, 1925.
+83 In addition, Diomedes wanted to print 200,000,000 drs . for state needs , not to be 'wasted ' as usual [i .e. as other post 1920 issues] on current expenditure, but to be allocated to the department of public works . In total these two issues would amount to a net addition of 13 % of monetary circulation. Source: N.B.G .lD.A., Document 264: Tsouderos to Diomedes , February 26 1925 . Also, B.E.lC.B.P., 321 , VoU : ' Wormation derived from Mr. Anastassopoulos ', January 1/8 1925.
+84 B.G .IT .A., Document 102/8: Promemoria prepared by Tsouderos on February 25 1925 , and Document: 102/11 Diomedes to Norman, March 3 1925.
+8S The Times, September 18 , 1925 . Also, Arheio Oikonomikon kai Koinonikon Epistimon , Vol.6 (1926) , issue A, January-March 1926.
+86 Source: N.B.G.lH.A., XXXIII Miscellaneous , File 63, British War Debt: Diomedes to Tsouderos, Feburary 18, 21, 1925 . Also, B.E.lC.B.P., 321 VoU: Roussin to Niemeyer February 20 1925 and Roussin to Chamberlain, March 2, 11 ,
+27
+
+
+the I.F.C. , in March 1925 , 400,000,000 drs. were issued fqr the ' need of the
+National Bank. to expand its banking credit'. It mus t be underlined that teclmically this
+emission was not an act of defiance towards the Commission. According to article 30
+of the Law of Control of 1898 the National Bank. of Greece had the right to increase
+the note circulation without asking the permission of the I. F. C. providing that this was
+done for the needs of commerceY
+Peculiarly, Roussin by insisting against the emission found himself at odds with the
+word of the 'Law'. 88 Roussin fearing that the Banking School tendencies of the
+N.B.G. could potentially lead to a perpetual devaluation of the drachma, in March
+1926 presented to the National Bank. a proposal for the establishment of free
+convertibility under the supervision of the I.F .C. 89 A central feature of this Roussin
+plan was the setting up at the N.B.G. of a special issuing department entirely
+independent of the other services of the Bank. and under the control of the
+Commission .90 According to Roussin, if the drachma followed a policy of pegging,
+it could be made freel y convertible at a rate of 275 drs to the pound sterling .
+Considering that the going market rate was 350 drs , this was an optimistic estimation
+and was based on the assumption that it would be possible for the drachma to
+1925.
+87 F0371110765 /C4728 Greek Law of Control, February 26 (March 10), 1898 . Also, N.B.G .lH.A. , XXXIII Miscellaneous , File 63 , British war debt: Diomedes to Tsouderos, March 7 1925.
+88 It would be interesting to do research on whether the monetary principles which formed the framework for the Law of Control were more open towards the Banking School arguments than the interwar 'Treasury View '.
+89 A first rather vague proposal was made in Jul y 1925 . B .G .IT. A ., Document 12711 7: "La Stabilization de la Drachme", by L.G. Roussin, July 18 1925 . Also, B.G.lT.A., Document 127117: "La Stabilization de la Drachme II" , by L.G. Roussin, March 15 , 1926. Also , B.E.lC.B.P., 321, Vol.2: Rouss in to Cheetham, December 22, 1925.
+90 B.E,!C.B.P., 321 , Vol.3 : Interview between the Governor and M . Roussin , June 2 1926.
+28
+
+
+revaluate. Let us not forget also that revaluation was a desideratum, the ultimate aim
+of LF.C. being the maximization of the income of the bondholders .
+Diomedes' response to the Roussin proposal was that the need for elasticity for the
+time being precluded the drachma from stabilizing and joining the gold standard. He
+also pointed out that the N.B.G . was a mixed bank, institutionally similar to
+Continental banks and on this account its large issue department could not be
+segregated from the commercial activities of the bank.91 Neither did the Roussin plan
+appear attractive to the Bank of England . Norman, who was in principle against
+stabilizing via pegging , effectively blocked it by refusing to extend the £2,000 ,000
+credit asked for by Roussin. After the rebuff of its proposal, the LF .C. discreetly
+stepped aside leaving to the Bank of England free ground in the realm of monetary
+policy .
+In short, the need for a reform of the banking system was frrst raised within the
+quarters of the LF.C. It must also be noted that the Roussin proposal had no coercive
+element for the reason that it was made outside the frame of the 'Law of Control '.
+Given that on the occasion of the floatation of the First Refugee Loan the Foreign
+Office had not taken the opportunity to adapt the policy guidelines laid down in the
+' Law' to the post W. W.I fmancial order, Roussin was fighting for a lost cause. In the
+end fmancial reform came as a result of the use of coercion by the Bank of England
+and the League of Nations .
+3.3 The implantation of a central bank
+3.3.1 Phase I: The League of Nations devises a stabilization scheme (1927-1928)
+By early 1927 foreign criticism provoked local fears that if the drachma did not
+stabilize and join the gold standard, Greece would be cut off from the world capital
+91 G.L.H.A .lD.A. Document titled : Comments on the plan for stabilization handed to the Bank of England, written in 1926.
+29
+
+
+market. This was· a bleak prospect for the state and the N.B. G. as they were both
+eager to embark on large public work schemes and complete the settlement of the
+refugees which was proving more costly than initially anticipated.'12 By this point, the
+National Bank had begun to acquiesce to the demands of International Supervision for
+a tight monetary regime, refraining throughout 1926 to make any new emissions and
+keeping stationary the advances granted for commercial purposes .93 (This policy shift
+had not proved sufficient to halt the tumble of the dracruna, as throughout 1926
+depreciation remained pronounced.)94
+In March 1927 for the fust time outside help was asked for. Diomedes, although still
+at heart against convertibility, approached the Bank of England asking it to fmancially
+back with a £6,000,000 loan a policy of pegging the dracruna. Norman replied that
+funds would be forthcoming only if Greece , under the strict guidance of the Bank of
+England/League of Nations , aimed for legal stabilization combined with a substantive
+reform of the banking system 95 The N.B .G. reluctantly played along with the wishes
+of Norman as it was not in a position to fmd an alternative fmancial 'source ' to back
+stabilization. 96 Inspite of the increasing local concern over the consequences of
+'12 B.E.lC.B.P., 326, Yol.3: A note titled: ' Greek Refugee Settlement Commission', February 13 1926.
+93 Notably, in August 1925 the discount rate was raised from 8.5% to 10%. B.E.lC.B.P. , 321, Yol.2: Roussin to Chettham, December 221925.
+94 In 1926 the average price of the pound sterling was 386,5 drs as opposed to 3l2,7 drs for 1925 . Moreover fluctuations in the external value of the dracruna remained marked . Notably, assuming the armual average price of the pound sterling as being lOO drs for 1926 the minimum price was 81.7 and the maximum price was 117 . Source: Deltion Kiniseos Axion en to Hrimatistirio Athinon, Issues: 1920- 1926 .
+95 B.G.lT.A. , Document 38/46 : Drossopoulos to Diomedes , March 61927. Also, Document 38/31: Diomedes to Drossopoulos , February 28 1927.
+96 A significant factor for this shift in attitude was the realisation by late March 1927 that Britain would never grant the book credits owed by the ex-Allies under the 191 8 Paris Agreement. Source: Pandelakis , op .cit. For the quotation see: B.G .lT.A ., Document 38171: Diomedes to a colleague (most probably Tsouderos or Drossopoulos), March 27 1927.
+30
+
+
+monetary instability , reservations were expressed in the economic press and in the
+National Assembly , as to whether free convertibility would be viable and if pegging
+should be preferred to legal stabilization.97 The perception of most in Greece about
+what had to be done did not coincide with the philosophy of Greece 's foreign
+supervisors .98 The most extreme critics of stabilization being the local commercial
+banks as they had profited by speculating against the continuous depreciation and
+fluctuations in the value of the drachma .99
+The League of Nations Stabilization plan provided for the 'legal ' stabilization of the
+drachma in May 1928 at the going market rate of 370/375 drs . to the pound
+sterling .100 A £9 ,000 ,000 intemationalloan was raised in order to make this financiall y
+possible. 101 This scheme rested on two cornerstones . First, the enforcement of a
+strict fiscal-monetary regime under the supervision of the League of Nations. The
+government was asked to : i) attain a budget surplus for the fiscal year 192711928 and
+maintain for the next consecutive three years the budgets at a level of 9,000 ,000 ,000
+drs .; ii) not seek short term advances or issue Treasury bills or other short term
+97 G. Kofmas , Ekthesis Proypologismou Hriseos 1923-24, [Report on the Budget of 1923-24], (Athens, 1923). Also, for the reaction of the academic and business community to monetary instability see: Psalidopoulos (1989), op .cit. , pp.337-338. Also , Arheion Oikonomikon kai Koinonikon Epistimon , Vol 6 (1926), Issue A, January-March 1926, p.106. For the position of the National Bank, see: Diomedes , (1928) , op.cit. , p.126 . Also, N.B.G '/H.A ., X Loans A Public loans , File 180, Public Finance: Report prepared by the Committee of Experts , February 1927 .
+98 Ethnikos Kyrix (pub!,) , 1 1storia lis Ellados, Oi Agorefseis tou Ethnikou Koinovouliou, 1909-1956, Periodos B [The History of Greek Parliamentary Speeches, 1909-1956, Period B] Vo1.9 , Session of August 221927, p.15 (Athens , 1928) .
+99 K. Kostis , Oi Trapezes kai i Krisi 1929-1932 [The Banks and the Crisis 19291932], (Athens , 1986) , pp.52-53. Also, The Economist, September 8 1923, p.369 .
+100 The Protocol making effective the League stabilisation scheme was signed in September 1927 .
+101 The net value of this loan was £6,500 ,000 . From this amount £3 ,000 ,000 was employed to eradicate more than three quarters of the budget arrears and £3 ,000 ,000 was allocated towards increasing reserves in gold and foreign exchange .
+31
+
+
+similar obligations in excess of 800,000,000 drs.( this sum was equal to approximately
+9 % of the plafond set by the Financial Committee for government expenditure;) 102 and
+iii) report in detail to the F .C. of the League every three months on the situation of
+the budget.
+The second cornerstone was the introduction of two modem fmancial institutions : a
+new system of the accounts of the state sector. It is hardl y possible to exaggerate the
+urgent need for both of these innovations. The existing confused system of
+accounting made it unfeasible to gain a clear picture of the exact receipts and
+expenditures of the state sector at any given moment. For the armual budget was
+neither unified nor did it incorporate all of the government revenues and expenditures
+during the running year. Regarding the establishment of a pure central bank, apm
+from creating the conditions for a less political and more rational monetary policy,
+perhaps more importantly it contributed to the monetization of the economy and the
+formation of a national market, \03 both of which were necessary from the point of
+view of economic development, state building, and the transformation of Greek society
+into a more democratic form of government.
+Initially , when making plans for the stabilization scheme and the £9 ,000,000 loan that
+would accompany it, the N.B. G. was asked by the Bank of England to shed its mixed
+banking character and to be reformed so as to conform to the structure and functions
+of a modem central bank. In view of the reluctance of the National Bank to go ahead
+with this scenario , the decision was taken to deprive it of its exclusive privilege to
+issue banknotes and to set up a proper central bank which would concentrate all the
+102 The time length of this restriction was not specified although it was insinuated that it would hold for as long as the Financial Committee thought necessary . See Article VIH of the Geneva Protocol of September 1927 .
+\03 Even after W .W.II the subsistence sector amounted to over 60 % of the rural economy . Source: K. Tsoukalas, Koinoniki Anaptixi kai Kratos, [Social Development and the State], (A thens, 1981) , p.55 .
+32
+
+
+monetary coUections and payments of the central state machine and public enterprises .
+Also, this fmancial institution would be allowed to grant only discounts and advances
+of a six month duration .104 The flISt drafts of the statutes of the new bank (which was
+named the Bank of Greece) were prepared during early July 1927 at the Bank of
+England.105 But, the entanglement of the Bank of England was to continue . For,
+shortly after the Bank of Greeece was set up in the spring of 1928, numerous
+difficulties arose requiring the constant vigilance of the engineers over their new
+machine .
+3.3.2 Phase n: Implantation in action -institutional factors obstruct the smooth
+operation of the new central bank (1928-1931)
+In April 1932 the drachma reverted to the system of forced circulation, free
+convertibility collapsing in large part as a result of the permanent current account
+deficitlO6 and the cumulative negative impact of the world fmancial crisis. 107 However,
+free convertibility would not have survived even in the absence of the aforementioned
+factors . To begin with, the government for reasons of political expediency did not
+respect the limit placed on state expenditure by the Geneva Protocol of September
+1927 .108 In addition, it did not in practice eradicate the old system of accounts for the
+104 Kostis , op.cit., pp .74-98 . Also, E. Venezis, Emmanuel Tsouderos 0 prothypourgos tis mahis tis Kritis [Emmanuel Tsouderos the prime minister of the battle of Crete], (Athens, 1966), pp.62-104.
+105 B.E./C.B.P. , 321, Vol.3 : Osborne to Niemeyer, July 121927 and DeBordes to Strakosch, July 14 1927 .
+106 For the permanent current account deficit see: Freris, op .cit., p.83 .
+107 For a succinct description of the impact of the world crisis on the Greek economy see: Kostis , op.cit. , pp. 19-42.
+108 The state broke the commitment it had undertaken in the 1927 Geneva Protocol not to raise budget expenditure above 9,000 ,000 ,000 drs . until the end of the fiscal year 1929-1930. State expenditures amounted to 9,446 ,396,553 drs during the fiscal year 1928-1929 and 18,354,678,198 drs during 1929-1930. G. Haritakis , Oikonomiki Epetiris lis Ellailos 1938, [Economic Yearbook of Greece 1938], (Athens, 1939), Part 11, p.l70 .
+33
+
+
+state sector. As is often the case with refonn when it is imposed by external fiat,
+bureaucratic rigidities proved to be the main obstacle to change . (Or possibly they
+were only the pretext) . More important, the new central bank during its early years
+was caught in the centre of a whirlpool , struggling to survive . Pointedly , prior to
+1931 - 1932 the Bank of Greece was a weak institution not able to function according
+to the aspirations of the Bank of England as a true 'Bank of banks ' its authority being
+constantly challenged from various quarters : the political sphere, the National Bank ,
+the other commercial banks and the LF.C .
+The difficulties experienced were in pan related to certain faults in design . The new
+central bank from the very start had a limited portfolio. Also, according to its
+statutes its very existence was staked on the ability to maintain convertibility.
+Moreover, upon the creation of the Bank of Greece, the LF.C . was not obliged to
+surrender its priority rights regarding its foreign exchange operations. In fact such a
+possibility was not even brought up at the time . Below we will discuss how these
+faults in design intertwined so as to undermine the authority of the Bank.
+i. Transgressions on part of the government:
+For a start, the perceptions of the government were inimical to the principles of
+modern central banking . Veruzelos , who became Premier shortly after stabilization,
+interfered in the operation of the bank, taking it for granted that fmancial policy was
+to be dictated by the cabinet and not regulated by the central bank. 109 It was usual
+practice for the government to issue orders regarding the level of the discount rate or
+operations on the open market. 110 The Bank of Greece did not always comply -thanks
+to the intervention of Rorace C. Finlayson, the British fmancial advisor appointed at
+109 The Statutes of the Bank -Article 4- stipulated that the Bank of Greece would exercise control over currency and credit in Greece.
+110 One such example was the following: In September 1928 the Bank of Greece was given an order by tlle government to buy a certain amount of fresh! y issued 6 % exchangeable bonds on the open market.
+34
+
+
+the Bank by the League of Nations(1928-l937) .1I1 But, apart from intervening in
+matters of credit policy, the government also failed to consult the Bank of Greece on
+important fmancial matters. For example, it was not asked to participate in the
+negotiations for the conclusion of the frrst foreign loan to be raised after stabilization
+for infrastructure development. 112
+Still another example of the hostility of the government towards the 'new machine'
+was that shortly after stabilization, Venizelos offered to the N.B.G . the opportunity
+to buy all of the shares of the Bank of Greece, asking in return from the National
+Bank to relinquish half of the revalorisation profits granted to it upon being deprived
+of the privilege to issue banknotes . Not surprisingly, this offer angered the League
+of Nations officials and as a result Venizelos was forced to retract. 113 But, the political
+decision makers were not the sole culprits for the malfunctioning of the Bank of
+Greece.
+I II For example, in September 1930 -at a time when the Bank of Greece was losing large amounts of gold- the government ordered the Bank of Greece to lower the interest rate by I unit because industry was crying out for more funds. Apparently, the foreign advisor for reasons of central banking prudence did not allow the bank to obey this command . Source: Messager d ' Athenes, September 26 1930. Also , see: B.G.IT.A ., Document 4911 : Memorandum prepared by Finlayson on October 2 1930.
+112 F0371112918/C78431: Memorandum prepared by Finlayson, titled : "Relations Between the State and the Central Bank: of Issue" October 10 1928. Also, F03 711 12918/C78429: Mackillop to Sargent, October 12 1928 .
+\13 The N.B.G. prior to the creation of the Bank of Greece was vested with the privilege to issue banknotes up to 1951. Source: S. Spiliotopoulos, I lstoria tis Ethnikis Trapezis tis EllaLios, [The History of the National Bank of Greece], (Athens) , p.103. For this affair on the revalorisation profits and the settlement reached in June 1929 see: B.G.IT .A., Document 48/3: Notes written by Finlayson on the report presented to the Financial Committee on May II 1931. Also, F0371112918/C78401 : Finlayson to Niemeyer, August 3 1928. Also, B.G.lT.A ., Document 113/12: Tsouderos to Niemeyer, July 6 1928. Also, Venezis , op.cit. pp.57-61. Also, F03711l2918/C78392, Niemeyer to Waley, July 3 1928. Also C52691151l9 Minutes of July 5 1928 and, Niemeyer to Waley, July 3 1928.
+35
+
+
+n. The limited authority of the Bank of Greece in the banking sector:
+Another negative constraint was that the new machine had a limited capacity to
+intervene in the open market and supervise the commercial banks. When the Bank
+was founded the larger part of its relatively small 'endowment' portfolio was tied up
+in government paper, i.e. effectively, it was immobilized. 114 In addition, the
+commercial banks had no obligation to deposit some of their funds with the Bank of
+Greece . A clause forcing the commercial banks to deposit a 7 % reserve with the
+central bank had been included in the draft statutes, but was excised as a result of
+pressure levied by Greek commercial banking interests. lIS To top things off, the
+N. B.G. refused to hand over to the Bank of Greece the deposits of the Public
+Caisses.116 This affair arose as follows .
+There was a tradition whereby all the surplus funds of the Public Caisses were
+deposited by a special arrangement with the National Bank of Greece . The latter had
+made a good profit from this 'deal because the amounts involved were large and the
+interest paid to the Caisses was 1% lower than for other depositors .117 The September
+114 According to one source, when the Bank of Greece was set up in 1928, Government bonds represented 47 ,5 % of its assets . Source: Bank of Greece, op .cit. , pp .84,135 . However, according to another source government paper amounted to 40 % of the bank' s assets . See: B.G'/T.A. , Document 129/9: Loveday to FinJayson, April 10 1933.
+lIS B.E./C.B .P., 321 , Vol.3: DeBordes to Strakosch, July 14 1927. Also, see: G. Pyrsos, Symvoli eis tin lstorian tis Trapezis tis Ellados [A Contribution to the History of the Bank of Greece], Vol.A, (Athens , 1928).
+116 For this reason it also proposed to act as the permanent representative of the Bank of Greece in the countryside. The Bank of Greece rejected this proposition mainl y because a large part of the foreign exchange coming into the country was concentrated in the five major provinces B.G'/T .A. , Document 65/9: Niemeyer to Tsouderos , December 16 1931 and Document 129/9: Loveday to FinJayson, April 10 1933 .
+117 For the September 1927 Geneva Protocol stipulations see: articles iv , v, and article 3 of annex vi . Exact figures for the size of the deposits are not available . For the fact that the interest rate charged was lower by 1% see: Kostis , op.cit. , p.51.
+36
+
+
+1927 Geneva Protocol stipulated that by 1930 the accounts of the Caisses would have
+to transferred to the new central bank. But, in February 1928, the N.B.G. 'pressed'
+the Greek government to extend its exclusive right to hold the surplus funds of the
+Caisses . Diomedes , who in the meanwhile had left the N.B.G. to become the ftrst
+governor of the Bank of Greece, seconded the National Bank in its request, naively
+believing that the latter would not use these funds to 'fight' the new central bank. liS
+Sir Ouo Niemeyer (a member of the Court of the Bank of England and in charge of
+the League of Nations Finance Committee) and Finlayson voiced a strong objection
+to the Diomedes proposal on the grounds that the centralisation of the public funds
+was "vitally necessary for the proper control of credit and currency ". 119 They feared
+that the N.B.G. would employ these funds in the market in such a manner so as to
+undermine the fmancial policy of the Bank of Greece .120 However, in view of the
+insistence of the National Bank, the Financial Committee was forced to go halfway .
+A compromise solution was reached in July 1929, whereby it was agreed that the
+N.B .G. would retain the surplus funds of the Caisses so long as the Bank of Greece
+did not consider this arrangement would conflict with its credit policy. In mid 1930,
+the Bank of Greece appointed a representative to the board of directors of the Caisses
+because it felt that the N.B.G. was still exploiting its position of power. 12I
+Nevertheless , this corrective move did not alter the basic fact that the Bank of Greece
+l iS See Special Agreement concluded between the N.B.G. and the Government of February 23 1928, article 6. For Diomedes ' assent see: Venezis , op .cit. , p.65 .
+119 F0371 /12918/C78341 : Memorandum prepared by Finlayson, titled : "Relations
+between the State and the Central Bank of Issue" , October 1°1928.
+120 For Niemeyer's fears and interest in the affair: Venezis , op .cit. , p.64, B.G '/T.A., Document 11211 : Tsouderos(?) to Varvaressos, May 19 1928.
+121 Venezis , op.cit. , pp.62-66 . A1so , B.G .IT .A., Document 46/49 : Memo written by Finlayson on the 'Public Caisses ' , June 26 1929. Also, B.M .lV.A. , File 69 : Memo of FinJayson of November 5 1929 . For the fact that there were problems even after the solution was reached, see: B.G.rr.A., Document 48/3: Notes written by Finlayson on the report submitted to the Financial Committee on May 11 1931 .
+37
+
+
+had a limited capacity to intervene in the open market. Notably , in 1931 , three years
+after its establishment, the total portfolio of the Bank of Greece was only 365 ,000 ,000
+drs . whereas that of the National Bank was 6,000,000,000 drs .!lll
+ill. The drain on the reserves of the Bank of Greece by the commercial banks
+and the I.F.C.:
+Apart from being short of funds , the Bank of Greece was in a precarious position as
+its very existence prior to the collapse of the international gold exchange standard in
+193 1 was staked on its ability to maintain free convertibility . According to its statutes
+the issuing privilege could "be revoked at any time " if the bank failed to ensure that
+the gold value of its notes remained stable. 123 The task of sustaining the drachma at
+a fixed parity did not prove easy given Greece's permanent current account deficit.
+In the second half of 1928, during what was the 'stabilization' euphoria stage, there
+had been a net inflow of foreign funds in Greece for the purpose of buying native
+securities. But, this exceptional trend did not last. From the beginning of 1929,
+foreign fmance was scared away largely as a result of Venizelos' decision to lower
+the interest rate on the bonds of the Exchangeable loan. These were the only bonds
+of a domestic Greek loan to be traded in the City of London .'24 What is more, a
+122 B.G .rr.A., Document 48 / 1: Minutes of the 49th Session of the League Financial Committee of May 11 1931 . The picture had been even more dismal right after the creation of the central bank. At the end of 1928 the portfolio of the Bank of Greece had been 100,000,000 drs whereas the total for all of the commercial banks was over 5,000,000,000 . Source: Kostis , op.cit. , p,46.
+123 See Article 4, Statutes of the Bank of Greece, Annex IV of the September 1927 Geneva Protocol.
+124 B.G.rr.A., Document 46/46: Memorandum (prepared by Finlayson most probably) , February 12 1930. The rekindling of the conflict between the government and the group headed by the British fmn Power and Traction , which had been assigned the operation of the Athens electricity system, was also another important facto r scaring away foreign investors . Source: N.B .G.lH.A., XXII, Banks Foreign Banks, File 68, N.B.G. and Correspondence with Hambros : Hambro to Drossopoulos , December 14 1928.
+38
+
+
+concerted drain in exchange took place as the large commercial banks invested some
+£3 ,000 ,000 abroad in order to speculate in foreign securities .125
+Apparently the 'drain on gold ' was not an unwitting byproduct ofprofiteering . Namely
+it was not simply a case of the trading banks going after a quick profit and exploiting
+free convertibility so as to fmd a new source of income ('new' because prior to
+stabilization speculation in foreign exchange had been a main source of income for
+them) . More was at stake. The Greek fmancial establishment deliberately was out
+to destroy the new machine, i.e. the Bank of Greece. Neither the N.B.G. nor the
+other commercial banks were happy with fmancial innovation introduced by foreign
+supervision. The National Bank resented the loss of its central banking functions
+(such as the issue of banknotes and the handling of central state funds) . As for the
+other commercial banks they found the system of rediscounting introduced by the Bank
+of Greece as insufficient compensation for the fact that they were deprived of the
+privilege they had enjoyed prior to 1928 to draw unwarranted credits at low interest
+rates from the N.B .G.126 That there was war against the bank of issue is demonstrated
+by the fact that in 1931 -by which time it had become apparent that the Bank' s
+reserves were being rapidly depleted- the commercial banking community started to
+put pressure on the government to amalgamate the Bank of Greece with the National
+Bank. The demand for amalgamation was repeatedly voiced up to the mid 1930' s and
+it took political dimensions as it was supported by the populist party which considered
+125 By March 1932, the reserves of the Bank of Greece were down to 32 % of the banknotes in circulation and sight deposits as against 40 % which was the minimum as defmed in Article 61 of the Bank of Greece' s statutes. Source: Bank of Greece , op .cit. , pp .99 , l31.
+126 Supposedly the N.B.G. at the time when it was a mixed bank was generous to the commercial banks in order to appease or mitigate them for the fact that they operated in its shadow . B.G.rr.A. , Document 129/7: Tsouderos to Siepmann, April 25 1933.
+39
+
+
+the Bank of Greece as a symbol of the spread of British influence in Greece and the
+enhancement of etatism! .127
+In contrast to the commercial banks , the I.F.C. did not desire to undermine either
+free convertibility or the Bank of Greece. However, it unwittingly threatened the
+existence of the new central bank, for the reason that it was not willing to divest itself
+of its rights under the 1898 Law of Control which gave it the status of an independent
+body free to determine its foreign exchange operations as it wished. 128 When the Bank
+of Greece was set up no provisions were made by the League of Nations to curtail the
+autonomy of the I.F.C . in matters of foreign exchange policy and the administration
+of the revenues it collected. As a result, the Commission functioning without any
+absolutely control from the Bank of Greece, blocked large sums of government
+revenues in its private account at the Bank for long periods; purchased foreign
+exchange whenever this suited it on an irregular basis ; and, also held large balances
+abroad .129 In 1898 monetary instability had been marked , and it was indeed necessary
+at the time to protect with such devises the interests of the bondholders given the high
+probability of a Greek fmancial collapse. However, from the moment that the
+drachma stabilized , these safeguards appeared too anachronistic (at least theoretically!)
+and interfered with the smooth functioning of free convertibility yo (Parenthetically,
+127 For the proposition that the N.B.G . amalgamate with the central bank see: Proia , October 2 1931. Also, Eleftheron Vima , April 5 1932. Also, Venezis , op .cit. , pp.95- 104.
+128 B .G .lT .A. , Document 86142 , Memorandum on the Devisen Investment of the I.F .C. written by Finlayson, May 31 1930.
+129 The devisen reserves abroad stood as follows : End of 1927 : £1,301 ,000; end of 1928: £1 ,656,000 ; end of 1930: £1 ,211 ,000 . Source: B.G .lT.A. , Document 46/1 9: Tsouderos to Niemeyer, February 10 1931.
+130 It also blocked in its account for long periods (usually the first two or three months of each half year) funds that belonged effectively to the government. Namely, the LF. C. retained all the proceeds of the assigned revenues until it secured in foreign exchange an amount sufficient to service the debt for that half year . As a result the flow of receipts into the hands of the government was irregular and for long periods
+40
+
+
+it should be noted ·that in the early 1920' s the yield of the assigned revenues left a
+margin of 50-60 % over the amounts necessary for the service of the debt, whereas
+after stabilization this figure increased to 180 %.)131
+Finlayson made a series of protests which aimed at bringing the LF.e. under the
+wings of the Bank of Greece . Specifically he pressed the LF.C . to: spread over the
+year the amounts it retained from the assigned revenues ;132 purchase foreign exchange
+on a regular monthly basis ; transfer its foreign account to the Bank of Greece;133 and
+fmally stop buying more foreign exchange than was necessary for the annual service
+of the loans under its control. 134 But, the Commission refused to acquiesce to these
+demands , bringing up the legal point that to depart from its usual practices would
+indeed many months at a time- large sums became immobilised in the hands of the I.F.C. It was quite a usual phenomenon for the Commission's deposits with the Central Bank to be abundant, while simultaneously, the deposits of the state were insignificant. For example, in February 1931 the LF. e. held with the Central Bank a deposit in excess of 200,000,000 drs . whereas the state in its current account held only 10,000,000 drs . This situation helped to enlarge the internal debt, for the quixotic situation arose whereby the Bank of Greece would lend to the government at a high interest rate funds really belonging to the government. Source: F0371115229/CI0389 , Finlayson to Leith Ross , February 17 1931. Also, see: G.lT.A ., Document 86117: Tsouderos to Siepmann. Also , F0371115529/CI0394: Memo of Sir Leith Ross, March 12 1931.
+131 Figure for margin of safety: B.G.IT.A . Document 86/19 : Minister to the I.F.C. - plan of letter, 1933 .
+132 He wanted the amounts blocked from any month' s receipts not to exceed 1112 of the various loan services under the supervision of the I.F .e. B.G.IT.A., Document 86/39: Memorandum on the assigned revenues, signed by Finlayson, April 30 1930.
+133 Finlayson wanted the LF.C . to dismantle its devisen reserve abroad and to transfer it to the Bank of Greece . B.G .IT.A ., Document 15/16 : Memo prepared by Finlayson, August 21 1930.
+134 For example between May 1928 and May 1929, the LF.C . asked for £4,152,000 in devisen although its annual requirements in order to meet the debt was in the area of £3 ,107,000. Source: B.G.IT.A ., Document 14/20: Finlayson to Roussin, May 13 1929.
+41
+
+
+entail a transgression of the Law of Control. I3S Thus, in the end the new fmancial
+supervisors of Greece were not capable of integrating in an effective manner I.F.C .
+responsibilities and the new central banle Their approach to Greek affairs was in this
+respect ad hoc, lacking resolution and boldness .lJJ;
+In a nutshell , during its early years the Bank of Greece lacked a sufficient standing
+and was not strong enough to control the fmancial market. Operating in what was
+esentially a hostile local environment, it was a vulnerable institution sharing its central
+banking functions with the state, the N.B.G . and the I.F.c.
+3.3.3 Phase ID: The eventual 'absorption' of the new technology through
+adaptation (1931132-1940)
+In the mid 1930s the concerted effort of the traditional banking establishment and the
+Populist party to amalgamate the Bank of Greece with the N.B.G . was thwarted ,137
+135 The I.F .C. referred in this instance to articles 24 and 31 of the 1898 Law of Control. It should be noted that Foreign supervision was able to escape public embarrassment by not allowing the conflict which developed at a personal level between Roussin of the I.F .C. and Finlayson to receive publicity in Greece . In this affair other actors got involved as well such as the Treasury and the Foreign Office. F037J1 l5229/C8965, Memo to Sir Leith Ross , March 12 1931.
+136 However, it should be mentioned that by early 1932 certain officials of the British Treasury (Leith Ross) began to express the view that the I.F.C. should in view of the narrow fmancial straights of the government no longer stand upon "meticulous points of formal law" as such a policy would be bound to raise an outcry against the Commission, see: F0371 /15962: despatch number 214 Finlayson to Leith Ross, May 13 1932.
+137 For an account of the initial antipathy of the Liberal Venizelos against the Bank of Greece and his reform to the cause of central banking in 1931 as well as the intense war waged by the populists against the Bank of Greece (and how they were pressed by Finlayson and other representatives of international supervision to accept the new bank) see: Pyrsos, op.cit., pp340-1; Venezis , op.cit., pp .94-96; Proia , October 2 1931 ; Eleftheron Vima , April 5 1932; B.G'/T.A., File 23: League of Nations , Financial Committee, Report to the Council on Greece, Extraordinary Session held in London, June 6-14th 1933 . Also, B.G.IT .A. , Document: 65116 , Niemeyer to Tsouderos, November 16 1931; also, 65/9: Niemeyer to Diomedes , December 31
+42
+
+
+largely as a result- of the intervention of the League of Nations and the Bank for
+International Settlements.138 Finlayson played a key role in assisting the Bank to
+strengthen its presence in the banking sector. His most tangible contribution being
+that in early 1931 a bill was passed under his instigation, obliging the commercial
+banks to either keep a reserve of 12 % or deposit 7 % of their sight deposits in a
+blocked account at the new central bank.139 (Let us remind the reader that this measure
+which was in agreement with the orthodox banking principles of the day had been
+initially advocated by Sir Henry Strakosch when the statutes of the Bank were being
+drawn .)14O
+But, besides the constant 'moral ' support of International Supervision, there was an
+important 'exogenous' development. This was the world economic crisis of 1931 
+1933 , which acted as a turning point, triggering the state to enlarge the scope of
+activities of the Bank of Greece, by entrusting it with a number of public functions
+such as : supervising the clearing system of trade established in 1932; administering
+the service of the internal public debt; and overviewing the mechanism established in
+1936 'for the protection of the national currency'.
+Probably , the most important development in the direction of strenthening the position
+of the Bank was that with the initiative of the state the I.F .C. lost its autonomy in
+1931 ; also, 129/6, Niemeyer to Tsouderos , December 14 1932.
+138 Bank of Greece, op.cit; Also, F0371119516/Despatch No .289 , June 29 1935 .
+139 Up to this point in lime only the N.B.G . was obliged to deposit 7 % of its sight deposits with the Bank of Greece. Law 5076 of July 1931 , Article 15.
+140 But Diomedes and Drossopoulos were strongly against it. Up to then only the N.B.G . had been obliged to maintain a minimum balance with the Bank of Greece equal to 7 % of its aggregate sight deposits. Geneva Protocol of 1927, Article 7 of Annex Ill . For the passing of this bill in early 1931 see: B.G.IT.A ., Document 46/ 10, President of the Financial Committee to the Governor of the Bank of Greece , January 22 1931 ; Document 46/111. Also with this bill, the commercial banks were obliged to present monthly statements to the Bank of Greece regarding their daily cash availability . Source: Bank of Greece, op .cit. , p.97.
+43
+
+
+matters of foreign exchange rate policy and was placed under the wings of the Bank
+of Greece. Initially, following Britain's suspension of the gold standard in September
+193 1, the LF.C . had been urged by the Treasury to temporarily transfer the surplus
+in its current account (i.e. 100,000,000 drs .) to a time deposit with the Bank of Greece
+in order to improve the reserve position of the Bank which at that stage had fallen
+below the statutory minimum level .141 But, following the return to a regime of forced
+currency in the spring of 1932,142 the state was no longer satisfied with the
+aforementioned concession of the LF .C. and it resorted to drastic measures , starving
+the I. F.C. of foreign exchange and depriving it of being in charge of the machinery
+of service transfers. 143 The Bank of Greece undertook for all practical purposes the
+management of the actual service of the foreign public debt, completely substituting
+the I.F .C and the banks with which it coLlaborated abroad. 144 Thus , no longer could
+the Commission withhold 'surplus ' state revenues for long periods of time,145 nor
+could it enlarge its devisen balance held abroad. As the Bank of Greece concentrated
+141 F037 1115230 C7468 Harvey to Sargent, September 281931. For the pressure levied on the Commission to accept the Greek demand by the Foreign Office see: F0371115230 C7549; F0371114387/C5709 ; F0371115229 /C2634, April 2 1931 , Minutes.
+142 The Law of April 26 1932 suspended the obligation of the Bank of Greece to buy and sell foreign currency at a fixed rate .
+143 Also, the authority of the LF.C . in vital administrative matters regarding the collection of the assigned revenues was undermined . For the changes the government forced upon the company collecting the assigned revenues see: F0371 /20387 /R5605: September 17 1936, Waterlow to Foreign Office.
+144 The revenues collected under LF.C. supervision were automatically deposited in the general public revenues account of the state at the Bank of Greece. From there the sums necessary for the payment of the service of the relative loans were transferred to a special account. Namely , the surplus remaining from the assigned revenues after the allocation of the sums required for the payment of the service of the loans , automatically remained in the general public revenues account. (It should be noted that given the fact that from May 1 1932 the government stopped paying the amortisation and part of the interest on foreign loans, the actual funds disbursed for the service of the foreign debt were smaller than what was the case in the past. )
+145 See above reference 130 for this practice of the LF .C.
+44
+
+
+in its hands all the collections and payments of the state, it was well equipped to take
+over the routine functions of the LF. C. in connection with the loan s'ervice machinery .
+This new status quo became formalized during W.W.II at which point, with the
+assent of the British, the state abolished the LF.C and appointed the Bank of Greece
+as Trustee for the bondholders and permanent ' observer' of the foreign debt. 146
+However, it should be underlined that the Bank of Greece did not inherit any of the
+rights of the LF.C. stenuning from the ' 1898 Law of Control' , which involved an
+' undermining ' of fiscal and monetary sovereignty (such as for example the
+administration of the customs, or the right to dictate the upper level of monetary
+circulation) .
+But, although throughout the 1930s the overall position of the Bank of Greece in
+public affairs was enhanced, it did not develop into the strong and autonomous
+institution the Bank of England had envisaged . To start with, it never acquired a
+sufficient portfolio to play an effective role in the open market. 147
+On the one hand , the tradition whereby the surpluses of the Public Caisses were
+deposited at the N.B.G . continued . On the other hand, a large part of the Bank's
+assets continued to be tied up in government paper!48 Wact, between 1932 and 1938
+146 In this function , it was placed in charge of receiving the assigned revenues and remitting the agreed service of the loans in foreign exchange. B.E.lC. B.P,328, memo titled: 'Greece : Suppression of the International Financial Commission' , March 3 1942; Niemeyer to Fraser, April 2 1941.
+147 The Bank of Greece officials resented this . At the end of 1931 and the beginning of 1932 -at which point of time the drain on its foreign exchange reserves by the commercial banks had attained massive proportions- in defiance to the principles of orthodoxy, the Bank of Greece increased substantially its commercial credits and discounts in an attempt to enhance its control over the fmancial market. Source: Kostis , op.cit., pp .9 1-93 .
+148 In 1932 the state debt comprised 30 % of the Bank's assets. Source: B.G.lT .A., Balance sheet of the Bank of Greece as at December 31 , 1928- 1932.
+45
+
+
+the state did not pay amortization charges on the government bonds that the Bank of
+Greece held in its portfolio .
+Perhaps , more important than its weak hold over the trading banks was the fact that
+the Bank of Greece was not allowed by the state to act as an independent formulator
+of monetary policy . For all the aforementioned administrative functions assigned to
+the Bank from the time of the world economic crisis aimed at helping it to act only
+as a watchdog and nothing more. In fact, the Bank of Greece was never really freed
+from political intervention . The state although it no longer reverted to the practice
+of tax inflation as it had in times past, used the Bank of Greece as its Treasurer,
+circumventing in effect the 1927 Geneva Protocol and the Statutes of the Bank which
+contained provisions so as to avert such a possibility . How did the state manage to
+surpass the legal obstacles? The three month Treasury bills issued by the Bank were
+constantly renewed, instead of being promptly paid. Also, after 1932 the advances
+provided by the Bank to the state skyrocketed, reaching a level of 7,560 ,000 ,000 drs
+in 1939. (Notably , according to the statutes of the Bank, advances provided to the
+state could not surpass 400,000,000 drs .) Finally, the state resorted to long tenn
+borrowing from the Bank. In 1937 the Bank provided two long term loans for
+rearmament totalling 34,000 ,000 German Marks. 149
+Thus , it can be argued that the transplantation of a central bank in Greece was a case
+of 'absorption attained through a combination of the use of coercion and adaptation' .
+Had international supervision set up the Bank and immediately withdrawn from the
+Greek scene , it would not have survived its fIrst difficult years . Also , had
+international supervision insisted on the principle of freedom from political
+intervention, the new machine would have been aborted . Political control over the
+fmancial sector was in the Greek case not a matter of simple historical conjuncture .
+149 Pyrsos , op .cit., pp. 342-3, 345,358,361-4,365 ,368,373 .
+46
+
+
+Even after W.W.11 , although the Bank of Greece managed to gain what has been seen
+as too large a stronghold over the trading banks , it was still an 'unorthodox' institution
+from the point of view of orthodox central banking principles. It not only remained
+subservient to the political authorities , but also its politicization was formalized with
+the creation of the Currency Conunittee in 1946 .ISO This tool was set up as an
+emergency measure to fight hyperinflation and although it was supposed to be
+dismantled in 18 months it actually dictated Greek monetary policy up to 1982, tightly
+controlling the supply of money and the distribution and allocation of banking
+credit. 151
+CONCLUSION
+In 1898, Greece's creditor nations placed the foreign debt and public fmances under
+external management, enforcing without resistance from native policy makers a
+contractionary monetary policy and fiscal restraint. The drachma appreciated,
+unofficially joining the gold standard in 1910 and the National Bank of Greece attained
+some autonomy from the discretionary interventions of a state which from the 1860s
+onwards had come to depend on seigniorage in order to cover its rising expenditures.
+This first initiation to the principles of the Currency School and the orthodox
+monetary/exchange rate techniques was abruptly disrupted in 1920. The fmancial
+ISO The Currency Committee consisted of the Governor of the Bank of Greece and a number of economic ministers , all appointed by the prime minister. Ironically, the creation of the Financial Committee was established by the USA within the context of the Marshall plan. See: S. Thomadakis, 'Stabilization, development and government economic authority : Greece in the 194Os.' (Mimeographed, 1988) . Also, Bank of Greece, op.cit. , pp .267-269.
+151 In fact it "approved all bank lending on a regular basis , determined the purpose for which lending was to be undertaken, the sectors towards which credit flowed , the percentages or the absolute amounts to be financed by bank lending , the rates of interest to be charged and the procedures by which loans were approved ." Source: N. Papandreou, 'Finance and Industry: the case of Greece' International Review of Applied Economics , Volume 5, Number 1, 1991, p.lO-ll.
+47
+
+
+embargo imposed by the ex-allies for political reasons, acted as a backlash provoking
+the state to revert to its pre-1898 pattern of fiscal and monetary expansionism.
+Namely , resorting once again to seigniorage as an instrwnent of fmance , the state
+eroded the de facto separation of powers between the government and the National
+Bank of Greece imposed by the LF.C .
+In 1923 when foreign coercion was reactivated with the entrance of the League of
+Nations on the Greek scene, native policy makers were 'asked' to reembrace monetary
+orthodoxy . The reluctance displayed by the government and the N.B.G . to acquiesce
+to the demand for fmancial stabilization prompted international supervision to resort
+to coercion . A ' rescue' plan was devised by the Bank of England linking the drachma
+to the gold exchange standard and implanting a central bank. (It should be remarked
+at this point that the transfer of ' monetary techniques' in the 1920s- as has been the
+case in the past- was not without an element of ulterior material motives on the part
+of international supervision: for the Bank of England had a vested interest in planting
+central banks in peripheral countries .)
+The transplantation of a central bank did not take place smoothly. On the internal
+front resistances to the enforcement of orthodox monetary techniques had developed .
+On the one hand , the state did not agree in principle to a separation of powers between
+the government and the bank of issue, and on the other hand , the Banking School
+principles had become popular in Greece . On the external front, the Bank of England
+made certain mistakes which almost proved fatal , given the hostility displayed towards
+the new machine by the National Bank of Greece and the commercial banks . One of
+them was to impose on the Bank the condition that it ' maintain' free convertibility.
+Another mistake being the failure to curtail the freedom of the LF.e. (Could it be
+that the League of Nations/ Bank of England did not tamper with the 1898 Law of
+Control because they did not wish to set up a precedent which could possibly
+encourage the Greek state to disclaim international agreements?)
+48
+
+
+Following the world financial crisis the position of the Bank of Greece was enhanced .
+The state assigned to it a number of public functions, the commerCial banks stopped
+fighting it, and also , it was no longer obliged to share its central banking functions
+with the LF.e.
+However, from a long run historical perspective it could even be argued that although
+the implantation of a central bank was a success , given extensive state control over
+monetary policy, strictly speaking the orthodox principles of central banking never
+really transferred. In the last analysis, the principle of a small state as exemplified in
+limited interference of politicians in (central) banking or a small budget did not
+become an inherent part of Greek public life
+49
+
+
+APPENDIX
+TABLE 1: Budget Deficit
+Time periods Regular Revenue as a % of Expenditure
+1878-1898 59
+1899-1910 98
+1911 -1914 52
+1914-1926 63
+1927-1932 86
+1932-1939 94
+Compiled from G.Haritakis(ed.), Oikonomiki Epetiris tis Ellados 1929, [ Economic Yearbook of Greece 1929], (Athens , 1930)pp.274-5; and G.Haritakis(ed. ), Oikonomiki Epetiris tis Ellados 1939 [Economic Yearbook of Greece 1939], (Athens, 1940),pp.166-170.
+TABLE 2: State expenditure and National Income
+Selected Years State expenditure as a % of National Income
+1890 27
+1895 23*
+1911 19
+1932 24
+1938 25
+*If we use the larger of the two estlffiates provlded for Nauonallncome the figure is only 15 %.
+Compiled from G.B. Dertilis, Atelesjoroi i Telesjoroi, Foroi kai Exousia sto Neoelliniko Kratos [Taxation and Political Power in Modem Greece], (Athens , 1993), p.151; Haritakis , (1930) , op .cit. ,p.274; Haritakis , op.cit. , (1939); and Freris , op .cil. , p .104 .
+
+
+.,
+BmLIOGRAPHY
+Andreadis , A.M ., lstoria ton Ethnikon Daneion , [History of the National Loans], (Athens, 1904), Erga, Part A, Volwnes I and 11 .
+Bank of Greece, Ta Prota Peninta Hronia tis Trapezis tis Ellados 1928-1978 [The First Fifty years of the Bank of Greece 1928-1978], (Athens , 1978).
+Cain , PJ ., and Hopkins, A.G, British Imperialism Crisis and Deconstruction 19141990, Vol 11 , (London, 1993).
+Candilis, W.0 , The Economy ofGreece 1944-66 Effons for Stability and Development, (New York, 1968) .
+CampbeU , J ., and Sherrard , P ., Modem Greece, (London, 1969) .
+Checkland , S ., British Public Policy 1776-1939, An economic, social and political perspective, (Cambridge, 1983) .
+Colander, D ., and Coats , A.W. , The Spread of Economic Ideas, (Cambridge, \993 ).
+De Cecco, M ., Money and Empire: The International Gold Standard, 1890-1914, (Oxford, 1975).
+Dertilis, G.B., To Zitima ton Trapezon (1871-1873) Oikonomiki Diamahi stin Ellada tou 190u Aiona [The Banks' Affair (1871 - 1873) Economic Conflict in 19th Century Greece], (Athens , 1980).
+Dertilis, G.B., Atelesforoi i Telesforoi, Foroi kai Exousia sto Neoelliniko Kratos [Taxation and Political Power in Modern Greece], (A thens, 1993).
+Dewing, H ., Greece and the Great Powers, (Washington, 1924) .
+Eichengreen, B., (ed .), The Gold Standard in Theory and History, (New York, \985) .
+Eichengreen, B., Elusive Stability, Essays in the History of International Finance, 1919-1939, (Cambridge, 1990).
+Eichengreen B., and Lindert, P. H ., (eds.), The International Debt Crisis in Historical Perspective, (Cambridge Mass , 1991).
+Eulambio, M .S., The National Bank of Greece A History of the Financial and Economic Evolution of Greece , (Athens, 1924).
+11
+
+
+Fanshawe, M ., Reconstruction - Five Years of Work by the League of Nations , (London, 1925).
+Feis, H ., Europe The Worlds Banker 1870-1914, (New York, 1961).
+Freris, A.F., The Greek Economy in the Twentieth Century, (London, 1986).
+Fumer, M .O. and Supple,B. ,(eds.) , The State and Economic Knowledge , (Cambridge, 1990).
+Geddes, P., Inside the Bank of England, (London, 1987).
+Hilton, B. , Corn, Cash, Commerce The economic Policies of the To ry Governments 1815-1830, (Oxford , 1977).
+Howland, c., L ' Etablissement de Refugies en Grece, (Geneva, 1926) .
+Hristopoulos, G., (ed .), Istoria tou Ellinikou Ethnous [History of the Greek Nation], (Athens, 1978) Vol.IE.
+Jeremy, D.J ., (ed.), International Technology Transfer Europe, Japan and the USA, 1700-1914, (Aldershot, 1991 ).
+Jeremy , 0.1 ., (ed.) The Transfer of International Technology, Europe, Japan and the U.S. A. in the Twentieth Century, (London, 1994) .
+Kalliavas, A., "0 Diethnis Oikonomikos Eleghos kai ta Apotelesmata Aftou " [lntemalional economic Control of Greece and its results] , Bulletin de la Chambre de Commerce et d ' Industrie d ' Athenes , November 1929.
+Kaltchas, N. , Introduction to the Constitutional History of Modem Greece , (New York, 1940).
+Kindleberger, c.P ., A Financial History of Europe, (Oxford , 1993).
+KitromiJides, P ., 'The Enlightenment East and West : A Comparative Perspective on the Ideological Origins of the Balkan Political Traditions ', Canadian Review of Studies in Nationalism , Spring 1983 .
+KitromiJides , P., "European Political Thought in the Making of Greek Liberalism : The Second National Assembl y of 1862-1864 and the Reception of John Sruart Mill' s Ideas in Greece", in Parliaments, Estates and Representation, Volume 8, Part 1, June 1988
+III
+
+
+Kitromilides, P ., Enlightenment, Narionalism, Orthodoxy, Studies in the culture and political thought of south-eastern Europe, (London, 1994) .
+Kofas , J .V., Financial Relations of Greece and the Great Powers, 1832-1862, (New York, 1981) .
+Kofmas , G ., Elahesis Proypologismou Hrisseos 1923-24, [Report on the Budget of 1923- 1924], (Athens , 1923) .
+Kofmas , G., To Oikonomikon Provlima kai ai Symmahikai Pistoseis [The Economic Problem and the Allied Credits], (Athens, 1926) .
+Kostis, K. , Oi Trapezes kai i Krisi 1929-1932 [The Banks and the Crisis 1929-1932],(Athens, 1986) .
+Kostis , K. , and Tsokopoulos, V., Oi Trapezes stin Ellada 1898-1928 [Banks in Greece 1898-1928], (Athens , 1988) .
+Ladas , S.P., The Exchange of Minorities, Bulgaria, Greece, Turkey , (New York, 1932) .
+Lampe, J.R ., and lackson, M ., Balkan Economic History, /550-1950, (Bloomington, 1982) .
+Lazaretou, S.," Monetary and Fiscal Policies in Greece: 1833-1914" , The Journal of European Economic History, Volume 22, Number 2- Fall 1993.
+Levandis, I.A. , The Greek Foreign Debt and the Great Powers 1821-1891, (New York, 1944) .
+McGrew , W., Land and Revolution in Modem Greece /800-1881 , (Kent State, 1985).
+Morgan, E.V ., The Theory and Practice of Central Banking, 1797-1913, (Cambridge, 1943).
+Morgan M ., 'Evolutionary Metaphors in Explanations of American Industrial Competition', in Maasen, S., Mendelsohn E ., Weingart P., (eds .) Biology as Society, Society as Biology: Metaphors (Daclrecht, 1995).
+Nikolakopoulos , P.(ed .), Greek Studies in the Philosophy and History of Science, (Dorrecht)
+Nikoletopoulos , D ., and Anagnostopoulos , P., The Banknotes of Greece from 1828 until the Present Day , (Athens , 1979) .
+iv
+
+
+Pandelakis , N. , Symmahikes Pistoseis, Kratos kai Ethniki Trapeza (1917-1928) [Allied Credits , The State and the National Bank (1917-1928)], (Athens , 1988).
+Papandreou, N ., 'Finance and Industry : the case of Greece', International Review of Applied Economics, Volume 5, Number 1 1991.
+Paul , E.F., and Miller, F.D. Jr. , and Paul , J. ,(eds.), Liberalism and the Economic Order, (Cambridge, 1993).
+PentzopouJos, D., The Balkan Exchange of Minorities and its Impact Upon Greece (Paris, (962) .
+Pepelasis Minoglou , I. , 'Oi Diapragmatefseis gia to Prosfygiko Daneio tou 1924' [The Negotiations for the Refugee Loan of 1924], in Th. Veremis , G.Goulirni , (eds .) Eleftherios Venizelos Koinonia, Oikonomia Politiki stin Epohi tou , [Eleftherios Venizelos Society Economy Politics During his Era] (Athens , 1988) .
+Pepelasis Minoglou, I. ,'The Greek State and the International Financial Community, 1922- 1932: Demistifying the Foreign Factor', (Ph. D., L.S .E., 1993) .
+Pepelasis Minoglou , I , 'Political Factors Shaping the Role of Foreign Finance: The Case of Greece , 1832-1932', in Harriss , J ., Hunter, J ., Lewis , C. ,(eds .), The New Institutional Economics and Third World Development, (London, 1995).
+Perlmutter, H., and Sagafi-negad, T. , International Technology Transfer Guidelines, Codes and A Muffled Quadrilogue , (New York, 1995).
+Petropoulos , J ., Politics and Statescraft in the Kingdom of Greece: 1833-1843, (New Jersey, (968)
+Milward, S ., European Economic Integration 1815-1970, (London, (974).
+Psal idopoulos, M ., 'Metafras is Vivlion Oikonomikon Epistimon stin ElIiniki Glossa, 1808-1948: Ta Ide10gika Mynirnata' [ Translations of Economics Books in Greek, 1808-1948: The Ideological Connotations] , in Institutute of Regional Development, Panteion University, Mnimi Saki Karagiorga [Memory of Saki Karagiorga], (Athens , 1988).
+Psal idopoulos , M., I Krisi tau 1929 kai Oi Ellines Oikonomologoi [The Crisis of 1929 and Greek Economists], (Athens, 1989).
+Psalidopoulos, M. , ' Morfes Oikonomikis Skepsis stin ElIada 1936-40 ' [Aspects of Economic Thought in Greece 1936-40], in Fleicher, H. , and Svoronos , N. , (eds .),
+v
+
+
+.~...'
+Ellada 1936-44: Diktatoria, Katohi, Antistasi [Greece 1936-44: Diclatorship, Occupation , Resistance], (Athens, 1989) .
+Pyrsos , G., Simvoli eis tin Istorian tis Trapezis tis Ellados [A Contribution to the History of the Bank of Greece], Vo1.A , (Athens, 1928).
+Redlich, F . 'Ideas: their migration in space and transmitt.al over time A systematic treatment ' Kyklos , 6 (1953-54) .
+Rosenberg , N., 'Factors Affecting the Diffusion of Technology', Explorations in Economic History , Vol. 10 1972-73 .
+Sikkink, B.K., Ideas and Institutions, Developmentalism in Brazil and Argentina, (lthaca, 1993).
+Spengler, I .J ., ' Notes on the International Transmission of Ideas ', History of Political Economy, 2 Spring 1970.
+Spiliotopoulos, S. , I Istoria tis Ethnikis Trapezis tis Ellados, [The History of the National Bank of Greece], (Athens ,date?)
+Slassinopoulos, E ., I Istoria tis Ethnikis Trapezis tis Ellados 1841-1966 [The History of the National Bank of Greece, 1841 - 1966, (Athens , 1966).
+Stephanides, D., I Eisroi tou Xenou Kefalaiou kai ai Oikonomikai kai Politikai tis Synepiai [Foreign Capital Inflow and its Economic and Political Consequences], (Salonika, 1930) .
+Stewart, C.T , Jr. , Nihei , Y., Technology Transfer and Human Factors , (Lexington, 1995).
+Sweet-Escot, B., Greece Political and Economic Survey 1939-53, Royal Institute of International Affairs , (London, 1954) .
+Thomadakis , S. ,Slabilization, development and government economic authority : Greece in the 1940s . (Mirneograph, 1988).
+Tsouderos, E. I. , 0 Stefanos Streit Ta Dimosia Oikonomika kai i Ethiki Trapeza lis Ellados apo to 1896 mehri to 1911 [Stefanos Streit Greek Public Finances and the National Bank of Greece from 1896 to 1911], (Athens , 1939).
+Tsoukalas , K, Koinoniki Anaptixi kai Kratos , [ Social Development and the Slate], (Athens, 1981).
+VI
+
+
+Varvaressos, K., 'I Nomismatiki Statheropoiisis kai Trapeziki Metarythmisis en Elladi' [Monetary stabilization and banking reform in Greece], Oikonomikos Tachydromos , June 10 and 17 1928.
+Vergopoulos K., Ethnismos ke Oikonomiki Anaptyxi- I Ellada ston Mesopolemo, Ethnism and Economic Development- Greece during the interwar period , (Athens , 1978).
+Venezis, E ., Emmanuel Tsouderos 0 prothypourgos tis mahis tis Kritis [ Emmanuel Tsouderos the prime minister of the battle of Crete], (Athens , 1966).
+Wynne, W.H. , State Insolvency and Foreign Bondholders , Vol II, (New Haven , 1951) .
+Vll
+
+
+
+
+LONDON SCHOOL OF ECONOMICS
+ECONOMIC mSTORY DEPARTMENT WORKING PAPERS
+1992
+1. Competing Notions of "Competition" in Late-Nineteenth Century American Economics
+Mary S. Morgan
+2. New Light Through Old Windows: A New Perspective on the British Economy in the Second World War Peter Howlet{
+3. Social Risk and Social Welfare in Britain, 1870-1939 Paul lohnson
+4. Textile Factories, Tuberculosis and the Quality of Life in Industrializing Japan lanet Hunter
+5. European Emigration 1815-1930. Looking at the Emigration Decision Again Dudley Baines
+6. Scale Bias & State Building: an Historical Perspective on Government Intervention , Political Systems & Economic Performance in Tropical Africa Gareth Austin
+7. Class Law in Victorian England Paul lohnson
+8. The Instituto Nacional de Prevision Social and Social Insurance Reform in Argentina, 1944 to 1953 Peter Lloyd-Sherlock
+9. Human Capital and Payment Systems in Britain, 1833-1914 Dudley Baines, Peter Howlet{, Paul lohnson
+10. Much Ado About Little Robert Humphreys
+11. Regional Fairs , Institutional IImovation and Economic Growth in Late Medieval Europe
+S.R. Epstein
+
+
+1993
+12. The Perfonnance of Public Enterprises in South Africa, Zambia and Zimbabwe during the last two decades David Ferreira
+13 . Political Primacy in Economic Laws : A Comparison of British and American Anti-dumping Legislation, 1921 Peter M. Richards
+14 . Scientific Charity in Victorian London. Claims and Achievements of the Charity Organisation Society, 1869-1890 Robert Humphreys
+15. Essex Men Vindicated : Output, Incomes and Investment in Agriculture, 1850-73
+E.H. Hunt and 5.1. Pam
+1994
+16. Learning by Doing among Victorian Farmworkers: A case study in the Biological and Cognitive Foundations of Skill Acquisition David Mitch
+17. "Blind Alley" Employment and the Role of Adolescent Labor Force Experience in Skill Development in Late 19th and Early 20th Century England David Mitch
+18. British Imperialism in Microcosm: The Annexation of the Cocos (Keeling) Islands
+Margaret Ackrill
+19. Short-termism on Trial: An Empirical Approach Breht Feigh
+20 . Tenancy and Agricultural Techniques : Evidence from the 1882 Commission David Coombs
+21. Economic Distress and Unemployment in Australia since 1850 Paul lohnson
+22. Freedom and Growth. The European Miracle? S.R. Epstein
+
+
+23. Bygone Charity - Myths and Realities Robert Humph reys
+24. Late Economic Development in a Regional Context
+Domingos Ciroletli, Max-Stephan Schulze, Caries Sudriii
+1995
+25. How Important was Tariff Protection for Spanish Farming prior to 1936? lames Simpson
+26. British Business in Argentina Colin M. Lewis
+27. The Principal-Agent Question: the Chartered Trading Companies S.P. Ville and S.R.H. lanes
+28 . Craft Guilds , Apprenticeship and Technological Change in Pre-Modem Europe S.R. Epstein
+29. The 'Quality of Life ': Lessons for and from the British Industrial Revolution N.F. R. Crafts
+1996
+30. Transplanting Economic Ideas: International Coercion and Native Policy loanna Pepelasis Minoglou
+31. Creditors , Debtors and the Law in Victorian and Edwardian England Paul lohnson
+32. Population Growth and the Dynamics of Canadian Development: A Multivariate Time Series Approach
+Alan C. Creen and Cordon R. Sparks
+
+
+.-----------------------------

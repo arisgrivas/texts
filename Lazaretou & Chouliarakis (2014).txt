@@ -1,0 +1,1188 @@
+ps://ssrn.com/abstract=4184601
+
+
+BANK OF GREECE Economic Research Department – Special Studies Division 21, Ε. Venizelos Avenue GR-102 50 Athens Τel: +30210-320 3610 Fax: +30210-320 2432
+www.bankofgreece.gr
+Printed in Athens, Greece at the Bank of Greece Printing Works. All rights reserved. Reproduction for educational and non-commercial purposes is permitted provided that the source is acknowledged.
+ISSN 1109-6691
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+DÉJÀ VU? THE GREEK CRISIS EXPERIENCE, THE 2010s VERSUS THE 1930s. LESSONS FROM HISTORY
+George Chouliarakis The University of Manchester and Bank of Greece
+Sophia Lazaretou Bank of Greece
+Abstract
+The past Greek crisis experience is more or less terra incognita. In all historical empirical studies Greece is systematically neglected or included only sporadically in their cross-country samples. In the national literature too there is little on this topic. In this paper we focus on the Greek experience of the Great Depression and use it as a benchmark against which to assess the policy choices and constraints that Greece faces today, with the ultimate aim to draw policy lessons from history and warn against a repeat of the same outcome. The 1930s crisis episode is used as a useful testing ground to compare the two crises episodes, ‘then’ and ‘now’; detect differences and similarities, discuss the policy facts and assess the impact of policy pursued on output. To the best of our knowledge, this paper is the first attempt to study the Greek crisis experience over the two historical episodes and detect similarities and differences. Comparisons with the interwar period show that the current crisis of the Greek economy should be classified a great depression rather than a great recession and that the inability of the national authorities to credibly adhere to their commitment to a nominal anchor was at the root of the country’s failure.
+Keywords: economic crisis, economic policy, interwar Greece
+JEL classification: F33, H6, N14, N24.
+Acknowledgments: The authors thank participants at the 2013 EHEC at London, at the 7th SEEMHN Conference at Tirana, at a seminar at the Bank of Greece and at the 2012 WEHC at South Africa for helpful comments and fruitful exchange discussions. Special thanks should be attributed to the domestic economy division, the money division and the external account division of the Bank of Greece for providing some of their data. We are grateful to Antony Antoniou for kindly sharing with us his data on government spending and to Heather Gibson and George Tavlas for their comments that helped us to clarify some important issues. During the writing process George Chouliarakis was a research fellow at the Bank of Greece. The views expressed here are those of the authors and do not necessarily reflect those of the Bank of Greece. We alone are responsible for the remaining errors or omissions.
+Correspondence: Sophia Lazaretou Economic Research Department Bank of Greece 21 E. Venizelos Ave., 10250 Athens, Greece Tel.:+30-210-320 2992 Email: slazaretou@bankofgreece.gr
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+5
+‘All happy families are alike; each unhappy family is unhappy in its own way’ (Anna Karenina)
+1. Introduction
+Leon Tolstoy’s famous opening lines of Anna Karenina can be applied equally
+well to systems of hard pegs or currency unions. In times of euphoria and optimism, low
+interest rates in the periphery induce net capital inflows that fuel consumption, raise
+imports, and spread prosperity across a system of hard pegs or a currency union. In times
+of crisis, capital inflows towards the periphery dry up exposing misaligned real exchange
+rates, asset price bubbles, a fragile banking sector, debt overhang, and the possibility of
+debt defaults. Peripheral economies have to bear the brunt of adjustment whereas core
+countries are often under no institutional obligation to act (Rodrick 2007, Eichengreen
+and Temin 2010, Bordo and James 2013).
+This is very much the story of the periphery during the 19th and early 20th
+centuries. Broadly speaking, the periphery is defined as the group of capital-scarce
+nations that are unable to borrow in their own currency. As Bordo and Rockoff (1996)
+and Obstfeld and Taylor (2003) have shown peripheral countries join a system of hard
+pegs, in part, to address the dynamic inconsistency problem in monetary policy and gain
+access to international capital markets at lower interest rates than otherwise. Cheap
+borrowing feed a consumption and investment boom until an exogenous global or
+idiosyncratic shock triggers a sudden stop that leads to devaluation and/or a sovereign
+debt default.
+There are well documented facts that regularly repeat themselves. However,
+economists and policy makers tend to forget them quickly, perhaps, in the hope that ‘this
+time will be different’. Short memory makes it all the more easy for crises to recur. As
+Reinhart and Rogoff (2009) have recently shown, studying the history of more than sixty
+nations over eight centuries, throughout history financial missteps are universal rites of
+passage for both rich and poor market nations. We thus believe that there are important
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+6
+parallels between past crisis experience with the current crisis in Europe and our broad
+aim is to explore these parallels.
+We choose to do so by focusing on the case of Greece not only because it is the
+ground zero of the current crisis in the euro area but also because of its long history of
+currency crises and monetary regime switches between convertibility and fiat money and
+the precedent of sovereign debt default. In particular, we focus on the Greek experience
+of the Great Depression and use it as a benchmark against which to assess the policy
+choices and constraints that Greece faces today, with the ultimate aim to draw policy
+lessons from history and warn against a repeat of the same outcome. The 1930s crisis
+episode is used as a useful testing ground to compare the two crises episodes, ‘then’ and
+‘now’, to detect differences and similarities, to discuss the policy facts and to assess the
+impact of policy pursued on output.
+Both crises episodes had global implications. The crisis was transmitted
+internationally through trade flows, capital flows and commodity prices. However,
+different countries were affected differently depending on their idiosyncrasies, structure,
+circumstances and policies. Countries also responded differently to the crisis, with
+different monetary and fiscal policies, some more aggressive, other less, depending on the
+country’s choice of the exchange rate regime.
+Explicitly, the way peripheral economies cope with severe crises in the context of
+a hard peg or a currency union largely depends on their economic structure, institutional
+endowments and the policy choices they are able to articulate in the face of binding
+external constraints. Studying the attempt of a European peripheral economy of the 1920s
+and 1930s to return to, and defend, a fixed parity during the years of the Great Depression
+is interesting in its own right. It sheds light on the policy choices and constraints that
+eventually led to the sovereign default and the exit from the gold-exchange standard in
+1932. Four key questions are addressed here: first, what was the picture of the two
+downturns, ‘then’ and ‘now’? Second, what went wrong? Third, what was the policy
+response? And fourth, based on the historical record, what was the impact of policy on
+output?
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+7
+To the best of our knowledge, this paper is the first attempt to study the Greek
+crisis experience over the two historical episodes and detect similarities and differences.
+Up to now, Greece has been systematically neglected or included only sporadically in all
+economic historical studies. Therefore, Greece’s past crisis experience is more or less
+terra incognita. In the national literature there is likewise little on this topic. The two
+special editions of the Bank of Greece (2009, 2011) tried to shed light on the monetary
+policy pursued during the interwar crisis. More recently, Christodoulakis (2013a)
+developed a currency peg model for interwar Greece and presented empirical evidence
+that the Greek failure in coping with the crisis was chiefly attributed to ‘...a number of
+specific mistakes and policy debacles’.
+The comparison between ‘now’ and ‘then’ needs to be grounded on sound data.
+For this task, we use the newly constructed and compiled historical data for Greece.1 We
+closely follow the work of Eichengreen and O’Rourke (2010, 2012) and Almunia et al.
+(2010), who have carried out similar comparisons at a global level. Comparisons with the
+interwar period show, first, that the current crisis of the Greek economy should be
+classified a ‘great depression’ rather than a ‘great recession’ and, second, the inability of
+the national authorities to credibly adhere to their commitment to a nominal anchor was
+at the root of the country’s failure in both crisis cases. Moreover, VAR estimates in
+interwar provide evidence for a positive though moderate impact of public spending on
+real output.
+Commentaries on the deficiencies and shortcomings of the Greek economy and
+what should be done to correct them are abundant. The critics point to the government’s
+inability to check the gaping deficits, both fiscal and external, and reform the economy.
+However, the unfolding of the country’s economic history shows that it is not the deficit
+per se that really matters; rather, it is the ‘deficit of trust’ that prevents Greece from
+overcoming the crisis. There is a trust deficit both between the country’s politicians and
+citizens and among social groups. To be more explicit, economic policies when
+announced lack credibility because there is a high probability that they might not be
+implemented and that a new policy will be announced shortly after. Similarly, the lack of
+1 See Lazaretou (2014).
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+8
+trust on the part of the social groups who have been called on to make sacrifices blocks
+any attempt for structural reform.
+It is well-known to historians that these attitudes are passed down through the
+generations and become embedded in societies and form their culture. However, a sudden
+and unexpected event such as an economic or a financial crisis may jeopardise the
+viability of the established arrangements. A crisis will be ‘...an exceptional window in
+time’ that gives the chance to the society to ‘...shift away from its established path ...
+and rebuild its trust’ (Eichengreen 2012). This is because governments in principle act
+according to a ‘learning by crisis procedure’ that helps establish new institutions and
+form the bones of trust. In turn, by restoring trust they can address fiscal and economic
+deficits and institutional deficits as well.
+The remainder of the paper proceeds as follows. Section 2 explains why we
+choose Greece as our working template. Section 3 sheds lights on the country’s picture of
+the ‘then’ and ‘now’ recession by comparing the performance of some key economic
+indicators across the two crises episodes. Section 4 explains the country’s ‘trust deficit’
+and determines the key crisis drivers. Section 5 discusses the policy facts while Section 6
+studies the effectiveness of the fiscal stimulus on output over the interwar crisis episode.
+Section 7 concludes; it draws some lessons from history for today’s policy making.
+2. Narrative accounts: why Greece?
+There are several key reasons that justify our decision for choosing Greece as our
+working template.
+First, it is a country with a rich history in financial crises. The interplay between
+fiscal imbalances and monetary disturbances resulted in frequent convertibility crises.
+The country responded to the speculative attacks on the currency by entering, only
+occasionally, into a monetary stability club, viewing it as ‘a good housekeeping seal of
+approval’ along the lines of Bordo and Rockoff (1996) and Bordo et al. (1999), which
+enabled it to attract cheap foreign lending capital. For a peripheral country, a sound fiscal
+and monetary policy enforced by a gold standard contingent rule could ensure that the
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+9
+debt would ultimately be paid back and the country would not default. Thus, it could gain
+cheaper and easier foreign capital market access.2
+Second, and more importantly, interwar Greece was a typical example of a South
+eastern European emerging market economy. As an emerging economy, it tried hard and
+often unsuccessfully to build ‘country and currency trust’, as it was named by Caballero
+et al. (2004). An economy has ‘country trust’ when foreign investors have confidence in
+the underlying soundness of the country’s monetary and fiscal institutions. It has
+‘currency trust’ when the government credibly adheres to its commitment to a nominal
+anchor. The lack of trust makes emerging economies more vulnerable to crises. This is
+because they lack a sound institutional framework and have not learnt to follow
+successful policies within that framework. They do not have an efficient tax system and
+do not implement balanced fiscal policies so as to avoid excessive public debt exposure.
+Instead, they often follow accommodative monetary policies which prevent them from
+credibly committing to target the fixed rate. They face a more turbulent economic and
+financial domestic environment and experience political instability.3
+Third, in accordance with the deficit of trust, the large number of monetary
+regime switches between specie convertibility and fiat money placed Greece on the
+‘periphery’ of the international monetary system.4 Participating countries are divided into
+‘core’ and ‘periphery’ according to their faithfulness to specie rules (see Eichengreen
+2011). Historically and economically speaking, peripheral countries only temporarily
+maintained fixed rates. Peripheries were open economies, albeit economically and
+financially underdeveloped. They were capital and commodity importers, they could not
+borrow in their own currency, they were inflation prone, and suffered from weak public
+finances. They could not therefore influence the international monetary regime and thus
+2 The evidence both narrative and empirical assembled in Lazaretou (2005a) suggests that Greece many times in the past did try to credibly adhere to ‘good housekeeping rules’. 3 Other external factors such as the global supply of capital or/and the international demand could also affect the ‘country’s trust’. However, institutional specificities as reflected by a weak currency and a foreign exchange shortage to defend fixed rates, a spendthrift government and an inefficient tax system were the key drivers of the country’s trust deficit. 4 For the economic and financial landscape of pre-WWII Greece and its history in past metallic monetary standards, see Lazaretou (2005b).
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+10
+they had to obey the rules set by the core countries. Whenever, they faced pressing
+financial needs or imbalances in the external sector, they abandoned the specie rule.
+Greece ‘then’ and ‘now’ delivers all typical features of the peripheries: (i) Greek
+government policies always tried to end histories of macroeconomic instability (high
+inflation, heavy currency devaluations, high borrowing costs, capital scarcity) through
+participation in the prevailing international monetary system. They understood that
+through participation the country could be able to develop sound fiscal and monetary
+institutions and to improve its international credit standing. (ii) Structural factors such as
+low competitiveness and weak exportability, high spread on foreign borrowing, low
+industrialisation and income gap with ‘core’ were those specific characteristics that
+placed Greece on the periphery ‘then’ and ‘now’.5 (iii) Even though governments
+appeared willing to credibly follow the specie rule, in practice they did not succeed in
+doing so. Spendthrift governments along with an inefficient tax system characterised by
+low revenues and high collection costs usually resulted in large and permanent fiscal
+deficits that prevented a sound fiscal management. This is why an international crisis that
+breaks out in many countries as a major private sector imbalance, in some other countries
+like Greece is internalised as a fiscal crisis.
+Fourth, the country had the experience of ‘sudden stops’.6 Sudden stops are a
+common feature in the economic history of the emergers (Catao 2006, Bordo et al. 2010,
+Accominotti and Eichengreen 2013). Capital inflows are attracted by higher returns to
+land and other physical resources and lead to lending booms. Booms are accompanied by
+fiscal expansion, credit expansion and public debt accumulation. Changes in the
+economic and financial circumstances in the advanced lending countries, however, lead
+to reversals of cheap capital inflows to the emerging economies, resulting in a balance of
+payments crisis and a debt crisis.
+Fifth, Greece was prone to a debt crisis when the domestic economy collapsed as
+a consequence of a lending bust. In both episodes fiscal crisis was followed by a severe
+5 The growing body of historical and empirical research on the national stories or comparisons among them provides rich evidence on those features that put some countries at the periphery of the system. See, for example, the work by Martín-Aceña and Reis (2000) for Spain, Friatianni and Spinelli (2005) for Italy, Esteves et al. (2007) and Branco et al. (2012) for Portugal. 6 For the Greek ‘sudden stop’ experience over the first era of globalisation, see Lazaretou (2012).
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+11
+debt crisis and a confidence crisis as well as a government’s demand for international
+financial support. In turn, foreign creditors required the country to strictly and effectively
+implement fiscal consolidation and structural adjustment.7
+Sixth, suffering from ‘original sin’, as it has been put forth by Eichengreen and
+Hausmann (1999), Eichengreen et al. (2003) and Bordo and Flandreau (2001), Greece
+was unable to issue debt abroad or even at home denominated in its own currency. In
+other words, debt issue required gold or foreign exchange clauses.8
+3. The two downturns compared. What do the data tell us?
+What was the picture of the two downturns9 for the Greek economy? We try to
+throw light on the country’s image of the ‘then’ and ‘now’ crisis. To this end, we study
+and compare the performance of four key economic indicators across the two crises
+episodes, namely output, employment, the volume of trade and stock market prices (see
+Table 1).
+Figure 1 compares the monthly time path of output in Greece during the two
+crises. For the interwar period, output on a monthly basis is best proxied by the economic
+activity index, whereas in the current period it is proxied by the volume of the industrial
+7 A League of Nations financial commission on Greek public finances stressed the need for fiscal prudence as early as 1927 (see League of Nations 1927, 1932). In particular, to ensure fiscal consolidation and thus the repayment of the 1928 large foreign gold loan in regular instalments, foreign creditors in their 1927 report imposed a clear cut ‘fiscal rule’: government expenditures should not increase over and above a statutory limit of 9 billion drachmas (28% of GDP) in the years 1929 and 1930 and the overall budget should be in balance afterwards. The 1932 evaluation report was negative. Foreign creditors refused to lend again to Greece and agreed only to postpone the debt repayment for one year. As a result, fiscal consolidation efforts were enhanced that year and continued the following years as the country was forced out of the markets. On 2 May 2010, the euro area countries and the IMF agreed on a bail out loan for Greece conditional on the implementation of austerity measures and structural reforms. In late October 2011 euro area leaders agreed to offer a second bail out, conditional not only onto the implementation of tax increases and spending cuts, but also to a restructure of Greek public debt held by private investors. 8 This means that in the case of nominal currency devaluation, the likelihood of default increases affecting the quality of the balance sheet of the banks and the government. Briefly speaking, the major determinants of sovereign bond yields are (i) credit-worthiness, i.e. the perceived ability of a country to repay its debt given its current situation; (ii) country risk, i.e. external factors that may jeopardise its ability to repay, and (iii) exchange rate risk, i.e. the effect on sovereign bonds denominated in domestic currency by the fact that the indebted country may inflate its way out of debt. These three factors determine the risk premia paid on government bonds. 9 1929-1936 and 2008-2013.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+12
+production index.10 Since we are interested in assessing the extent to which output fell
+during these two periods, we plot the two indices from their peaks, which are August
+1929 and July 2008. As can be seen, even though both series dropped severely in the first
+year of crisis, the fall was faster in the ‘now’ crisis than the ‘then’ crisis. Industrial
+production seems to bottom out six months after its peak in July 2008 and, despite a
+temporary reversal, continued to fall reaching a new bottom beginning 2013. Three years
+after its peak, industrial output fell by 29% and the cumulative loss until July 2013 is
+around 28%.11 Conversely, in the interwar crisis, economic activity appears to fall,
+however, less rapidly. It bottomed out two months later and turned to a positive trend in
+the first semester of 1930. It moved again downwards until August 1932; then, recovery
+started. Three years after its peak, output had fallen by 33.7%.
+Figures 2.1 and 2.2 plot the time path of some key output indices on an annual
+basis across the same two crises episodes. As seen in Figure 2.1, the 1929 crisis waves
+reached Greece with a short time lag. This delay can be interpreted by the fact that
+economic globalisation of the late 19th and early 20th centuries was interrupted by World
+War I and the collapse of the classical gold standard. The interwar period was marked by
+a de-globalisation since extensive controls had been imposed world-wide upon goods and
+money flows. World trade was reduced. Thus, a peripheral economy which was mainly
+based on primary agriculture, like Greece of that time, was not well-integrated with the
+global economy.
+10 Monthly data for the volume of industrial production in the interwar period started as late as in 1933. However, both variables seem to be highly cross-correlated (0.87). It might be good if monthly indices of economic activity for both periods could be compared with each other. However, comparable data series do not exist. Even though a coincident economic activity index is available for the 2010s, it is a composite index (now under re-construction) of many different components such as output projections, tourist revenues, services, exports, constructions, retail sales and bank credit. In the 1930s, in contrast, the economic activity index was constructed as a composite index of industrial production, freight moved and imports of iron and machinery. Hence, a comparison with the current general index of industrial production is safer. 11 The deterioration in the domestic macroeconomic environment is easily detected by the coincident economic activity index that captures the changes in the overall economic activity. In April 2008 it turned negative while a positive peak occurred almost two years earlier, in June-July 2006.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+13
+Table 1 The two downturns compared
+Variables 1930s 2010s
+Monthly data
+Economic activity (three years after peak)
+-33.7
+Industrial output (three years after peak)
+-29.1
+The Athens stock exchange market -12 months after peak
+-5.7 -30.4
+-40 months after peak -2.3 -79.9 Trade volume
+-12 months after peak -7.3 -9.3 -40 months after peak -10.5 -30.5
+Annual data
+Employment (in manufacturing, four years after 1929 peak)
+-11.8
+Total employment (four years after 2008 peak)
+-18.6
+Real GDP (two years after peak) -17.5 Real GDP (four years after peak) -21.6 Note: peak (August 1929; July 2008), cumulative loss, in per cent. Source: see figures 1, 3, 4, 5.
+On an annual basis, economic activity and industrial production continued to
+grow for almost one year after 1929. 1929 is widely considered as the time of peak in
+global output (see Almunia et al. 2009). The drop in economic activity in Greece started
+in 1930, continued until 1932; it lasted only two years; however, it was quite severe (
+17.5%). Similarly, industrial production declined as late as in 1932 (-5.7%) while the next
+year, in 1933, it began to rise again (8.9%). We get the same picture when real GDP and
+agricultural product are considered.12 Real output fell slightly (-0.87%) in 1931 and more
+heavily in 1932 (-2.96%), and agricultural output also fell in 1931 by 4.9%. However,
+from 1933 both indices started to rise again. Agriculture output was shown to have been
+stabilised at faster pace and started increasing earlier than the other output indices leading
+thus the recovering process.
+12 The coefficient of correlation between agriculture output and real GDP is high (0.91).
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+14
+Figure 1
+Economic activity indicators in Greece, 'now' versus 'then'
+(monthly data)
+50
+60
+70
+80
+90
+100
+110
+120
+130
+0
+7
+14
+21
+28
+35
+42
+49
+56
+63
+70
+77
+84
+91
+97
+104
+111
+118
+months since the country's peak
+industrial production (peak July 2008=100)
+economic activity index (peak Aug 1929=100)
+Notes: Interwar: a composite and seasonally adjusted weighted arithmetic economic activity index (1928=100), aggregating six component indices, i.e. industrial production, imports of iron and machinery, freight moved (railway and water), exports of agricultural products and bank clearings, August 1929December 1939. It reflects the fluctuations in the volume of the domestic economy’s activity isolating thus the price effects. Current: general index of the volume of industrial production (2005=100), July 2008-July 2013.
+Sources: Bank of Greece, Monthly Statistical Bulletin and Bulletin of Conjectural Indicators.
+Turning to the current crisis, the picture changes considerably. The crisis waves
+hit the country at the same time that it hit the global economy. 2008 was not only the
+global peak but the country’s peak, as well. More importantly, agricultural output and
+manufacturing started their downward movement one or even two years earlier than the
+2008 peak in total output. Four years after its peak, the cumulative output loss was
+21.6%.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+15
+Figure 2.1
+Output indices, 'then'
+50
+70
+90
+110
+130
+150
+170
+190
+210
+230
+-4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10
+years since 1929 global peak
+1928=100
+real output economic actvity agriculture industrial
+Note: Annual data; 1925-1939.
+Sources: Kostelenos et al. (2007), Bank of Greece Monthly Statistical Bulletin and AOS, The Greek Economy, various issues.
+Figure 3 compares the evolution of employment. As seen, employment in both
+episodes fell rapidly and severely. Even though the ‘then’ fall was much heavier, it lasted
+only two years. From 1930, which was the country’s peak in total output, employment
+started to decline sharply and rapidly. Two years after the country’s peak, employment
+had already decreased by 17.1%. It was not until 1936 that it returned to a level close to
+its pre-crisis rate.13 Turning now to the current episode, the fall was modest and slow in
+the first year of the crisis, becoming however more intensive and fast in the following
+years. Four years since global output peak, total employment had fallen by 18.6%.
+13 The increase in employment started in the third year but it was rather very slow and gradual. It was mainly attributed to the large wave of emigration that took place soon after the wake of the crisis. Emigrant remittances increased considerably after 1936.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+16
+Figure 2.2
+Output indices, 'now'
+50
+60
+70
+80
+90
+100
+110
+120
+-4 -3 -2 -1 0 1 2 3 4
+years since 2008 global peak
+2005=100
+real output industrial manufacturing agriculture services
+Note: Annual data; 2004-2012. Source: EL STAT.
+Figure 3
+Employment, 'now' versus 'then'
+60
+70
+80
+90
+100
+110
+120
+130
+-4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10
+years since 1929 global peak
+employment 1929=100 employment 2008=100
+Notes: Annual data. Interwar: employment in manufacturing (1928-1939); current: the yearly data points are the mean averages of the quarterly data on total employment (2004-2012). Sources: AOS, The Greek Economy, various issues and EL STAT.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+17
+Figure 4 The Athens stock market, 'now' versus 'then'
+0
+50
+100
+150
+200
+250
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+months since the country's output peak
+ASE composite index (July 2008=100) ASE index (Aug 1929=100)
+Notes: Monthly data. For the period July 2008-September 2013, the time series refers to the general composite share price index (closing prices); for the period August 1929-December 1938, the series refers to an unweighted index of the stock prices (monthly averages of the closing daily prices) of 16 sectors (banking, trade and industry).
+Source: Athens Stock Exchange Monthly Statistical Bulletin.
+Figure 4 looks at prices of stocks traded on the Athens stock exchange across the
+two events. Stock prices fell more rapidly and severely in the first months of the current
+crisis compared with a slight drop during the first year of the interwar crisis. Despite a
+temporary upturn that took place near the end of 2009, stock prices started dropping again
+without stop until end-2012. During 2013, a slow recovery is apparent.
+Finally, Figure 5 depicts trade volume. It fell much more rapidly in the first year
+of the recent crisis (-9.3%) than in the first year of the interwar crisis (-7.3%). The
+downward trend temporarily reverted to positive in the second year. Trade, however, was
+falling over the succeeding years reaching a tough in August 1934. Compared to ‘now’,
+trade continued to fall until end-2011. From July 2008 to December 2011 trade was
+reduced by 30.5%. Starting 2012, a trend-reversion is apparent.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+18
+To sum up, all figures show that the current version of the Greek crisis compared
+to its interwar version can be easily classified as a ‘depression’ rather than a ‘recession’,
+as regards its size and duration: the drop was much more severe and has lasted longer.
+Figure 5 The volume of trade, 'now' versus 'then'
+50
+70
+90
+110
+130
+150
+170
+190
+210
+230
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 105 110 115 120
+months since the country's ouput peak
+trade volume (Aug 1929=100) trade volume (July 2008=100)
+Notes: Monthly data. For the period July 2008-June 2013, total exports and imports refer to tradable goods including ships and fuels (measured in 100kg). For the period 1929-1939 total trade (value) is deflated using the wholesale price index since a complete series of import and export prices is missing. No seasonally adjusted data. Source: EL STAT.
+4. What went wrong?
+We now turn to the second question to be addressed: what are the determinants of
+the crisis? With the help of some simple stylised facts and descriptive statistics, we study
+the country’s economic and financial landscape that explains its ‘trust deficit’ and
+identifies the factors underlying the crisis. We use seven ‘country’ and ‘currency trust’
+indicators and study their behaviour in the years before the crisis started: they are
+monetary policy stance variables, two metrics of public confidence, the fiscal balance, the
+country’s international credit standing and competitiveness.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+19
+Figure 6 shows money (M3) supply ‘now’ versus ‘then’.14 Pre-crisis monetary
+expansion encouraged domestic liquidity in both crisis episodes,15 even though money
+growth was more rapid in the period 1925-30. Figure 7 plots the reserve-banknote ratio
+which is viewed as a key monetary policy stance variable in specie standards over the
+interwar years. It was noticeably cyclical. Despite a considerable, although temporary,
+increase that occurred in 1928, chiefly attributable to the large foreign gold loan
+contacted that year for the currency stabilisation and the country’s entrance to the gold
+exchange standard in the same year, monetary expansion was no longer supported by the
+country’s foreign exchange reserves. Soon after 1928, currency reserves started falling,
+thus leading to limited coverage of domestic money in circulation which made the
+country’s specie commitment fragile.
+Moreover, the two metrics of public confidence also plotted in the figure, namely
+money multiplier and the income velocity of money, were also cyclical.16 They thus
+corroborate the view that monetary expansion played a significant role in aggravating the
+1932 currency crisis. The high values of the M3 multiplier which prevailed in the few
+years before the crisis reflect the stabilisation of agents’ inflation expectations and
+improved public confidence in the domestic currency. Furthermore, the income velocity
+cut in half by 1930, from 3 in the years prior to 1927. The picture, however, changed
+quickly after 1931. Even though inflation was quite moderate and stable, the M3
+multiplier started to decline rapidly indicating a loss in confidence and money squeeze.
+The ratio of output-to-money (M3) also increased.
+14 Both data series are expressed as an index, where1924=100 and 2002=100. The war ended in 1923 and in 1924 the government initiated strong efforts to reduce fiscal deficits, control inflation and stabilise the currency. In 2002 Greece joined the euro area. 15 Both crisis episodes were highly credit-driven: monetary expansion reflected soaring credit. By 1931, private bank credit was twice as high as in 1924. The same occurred in the current crisis episode. In 2008, private credit was twice as high as in 2002. 16 Money multiplier is defined as the ratio of money stock (M3) to monetary base (M0). Increasing values reflect public confidence’s promotion since a larger proportion of money balances in the hands of the public are kept with the banks and a smaller proportion is kept as reserves by the banks. Income velocity of money is defined as the ratio of output to M3 money. Velocity declines as money demand increases. Under conditions of very high and expected inflation as was the case of Greece in the mid-1920s, money demand falls relative to income and thus velocity rises as people use less money in relation to income. The same is also true for periods of bank runs and money hoarding, as were the years 1930-1932 in Greece.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+20
+Figure 6
+Money supplies, 'now' versus 'then'
+entry to euro
+current crisis
+S te rl i n g Are a
+Gold Bloc
+off gold
+interwar crisis
+gol d-e xch n age s ta n da rd
+50
+100
+150
+200
+250
+300
+350
+400
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+years
+0
+50
+100
+150
+200
+250
+300
+350
+400
+M 3 Greece (2002=100) M 3 (1924=100)
+Notes: M3 (1924=100, 1924-1939, RHS): broad money; it includes less close substitutes of money, i.e., currency in circulation plus total bank private deposits. M3 (2002=100, 2002-2013, LHS): the Greek contribution to the euro area M3 (changing composition) aggregate, excluding currency in circulation. Seasonally un-adjusted, end-of-period data. For 2013 the data entry refers to August value. Sources: current: Bank of Greece and SDW ECB; interwar: worksheets underlying Lazaretou (2010, 2014).
+Figure 8 is the analogous picture for the fiscal balance as a share of output over
+the two crisis events. Regarding the first episode, what is actually interesting to note is
+that two years before the country’s entrance in the gold-exchange standard in 1928, the
+Greek governments succeeded in balancing the primary budget and cut the overall deficit
+in half. However, shortly after its entry, the primary deficit steeply increased from a low
+of 0.24% in 1928 to a high of 28.5% in 1929. The newly-elected government in 1928 was
+relying heavily on foreign borrowing in principle to finance large pubic works, help
+refugee resettlement (1.5 millions) following the great defeat in 1923 and to re-arm the
+country. Excess foreign borrowing raised interest payments. In 1930-31, the overall
+deficit was more than 2 and 3 times as high as the primary deficit. As government
+spending was increasing, tax revenues were either increasing at a much lower rate or even
+falling. In 1926 and 1927, the rate of increase in total tax revenues was higher than the
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+21
+rate of output growth and the share of revenue to output was rising. Though, in 1928 the
+increase in the rate of tax revenue growth was slowing while in the following years, 1929
+and 1930, revenue dropped markedly chiefly due to the output drop. In 1931, despite the
+fall in output, tax revenues increased considerably. This was mainly attributed to the
+desperate measures taken by the government to increase revenues and balance the budget,
+in accordance with its decision to keep the drachma pegged against gold.17
+Figure 7
+Monetary variables, 'then'
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+1924
+1926
+1928
+1930
+1932
+1934
+1936
+1938
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+income velocity money (M3) multiplier reserve-banknote ratio
+Notes: annual data, 1924-1939. Money (M3) multiplier is defined as the M3/M0 ratio; income velocity is defined as the GDP/M3 ratio; reserve-banknote ratio (LHS). Sources: worksheets underlying Lazaretou (2010, 2014) and Kostelenos et al. (2007).
+17 Fiscal policy in the interwar period was procyclical. By regressing the cyclical component of real government spending (deflated by the GDP deflator) on the cyclical component of real GDP, we find that the regressor coefficient is positive and strongly statistically significant. The cyclical component is measured as the deviation from a log-linear trend. The bivariate regression estimates verify the well established phenomenon, though not clearly explainable, that fiscal policy procyclicality is prevalent in developing and emerging economies (see Kaminsky et al. 2004). As stated in Barro’s (1979) tax smoothing hypothesis, budget balance should be positively correlated with output as it absorbs changes to tax revenues and expenditures. Alesina et al. (2008) suggest that political distortion and corrupt democracy are the most important determinants of procyclicality in poor economies while Woo (2009) provides support for income inequality.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+22
+Figure 8
+Fiscal balances, 'now' versus 'then' per cent to GDP
+-45
+-40
+-35
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+years fiscal balance (1924) fiscal balance (2002)
+primary balance (1924) primary balance (2002)
+Notes: interwar: central government, received and paid (1924-1939); current: general government, receivable and payable; non-cyclically adjusted (2002-2012). The value of tax revenues for 1936 is still missing, since for that fiscal year the Public Revenue Report was not approved by the Parliament. It was not reviewed by the Court of Auditors either. Thus, it was not ever published. Sources: interwar: Prontzas et al. (2012), Kostelenos et al. (2007) and Antoniou (2012) retrieved by the Annual Government Reports on revenues and spending; current: EL STAT, the Greek Economy, October 2013 and AMECO General Government Data, spring 2013.
+Turning now to the current episode, the similarities with the late-1920s and early
+1930s are strong. Five years before the start of the crisis, Greek governments started to
+run large primary deficits which were largely covered by foreign borrowing contributing
+thus to an excessively high overall deficit.
+The decision to join a monetary stability club, either the interwar gold-exchange
+standard in 1928 or the euro area in 2002, was seen by the Greek governments as a pre
+condition to facilitate foreign capital inflows. Figure 9 tells the story. In the months after
+the war ended in 1923, the Greek government was borrowing from abroad at a heavy rate
+of 14.3 per cent, which was almost 1,000 bps higher than the British consol yield.
+Subsequently, the cost of borrowing gradually declined reaching the low rate of 6.7 per
+cent when the country entered the gold-exchange standard. Looking at the monthly data
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+23
+points18, we see that the country continued to borrow at this low rate well up to the end of
+1930. In late September 1931, however, the picture changed dramatically. The
+government’s decision to continue to defend its fixed-rate currency despite Britain’s
+departure amplified the volatility of capital flows and raised serious concerns about rapid
+depreciation. Eventually, the country experienced high reserve losses and risk aversion
+increased sharply. The spread doubled just few days after Britain’s departure and kept
+rising steadily afterwards. Straight after the Greek exit from the gold-exchange standard
+in April 1932 and the default on foreign debt a month later, sovereign yields rose rapidly.
+They were 4 or 5 times higher in 1932-1936 compared with 1928-1931. Only in 1937-38
+was the yield considerably reduced even though it remained high, as the immediate result
+of the country’s entrance in the sterling area and growing expectations that the economy
+was recovering. Apparently, the Greek story merely repeats itself. The country’ entrance
+to the euro area in 2002 was accompanied by cheap borrowing as illustrated by the low
+spread rates.19
+Finally, we turn to the last ‘trust indicator’ used in this section, namely the
+country’s international competitiveness. As seen in Figure 10, starting 1928 the rate of
+appreciation of the currency intensified thus signalling a slower adjustment of domestic
+prices and a currency mis-alignment. We see the same story when we look at the current
+episode. Starting in 2002, the real effective exchange rate as a measure of the economy’s
+overall competitiveness20 signalled a large overvaluation.
+18 They are available only from 1929 onwards. 19 In 2002 the cost of borrowing (10-year fixed income government bonds) was more than two percentage points lower than it was in 1999. By 2008, the growing unease about the strength of the domestic economy added to pressures. Spread rose thus signalling an increase in risk aversion. The deficit crisis in the next year and the consequent debt crisis determined abnormally high risk premia. 20 From 2002, it continuously appreciated signalling deterioration in price competitiveness which could be interpreted as real overvaluation. The real effective exchange rate can be only considered as a rough assessment of a currency’s misalignment. This is because consumption patterns can change faster than the market baskets used to construct the real effective rates. Equally, deviations in trade policies and transportation costs among countries can cause deviations in the real rates which do not necessarily indicate cross-country fundamental differences. More importantly, according to the Balassa-Samuelson effect, much of the real effective exchange rate swings are accounted for by variations in the prices of non-tradable goods relative to those of tradables.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+24
+Figure 9 Government bond yields,'now' versus 'then' in per cent
+Gold Bloc
+off gold and debt default
+gold-exchange standard
+WWII
+S terling Area
+debt crisis
+PS I deal
+deficit crisis
+entry to euro
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+years
+sovereign yield, 10 long-term foreign loans in gold (1924)
+10-year sovereign bond yield (2002)
+Sources: interwar: simple average of the current yield of 10 long-term foreign government bond fixed income loans in gold. The current yield has been calculated as the ratio of the annual interest paid to the bond’s market price (quoted on the Athens Stock exchange), i.e. current yield= (face value × coupon interest rate) / market price ×100. The face value and the market price are in French francs till 1921; from 1922 onwards both are in 1929 paper drachmas. The coupon rate is in decimal form. Till the end of 1928, market bond prices refer to a proxy for the annual entry (max+min)/2. From 1929 onwards, released market bond prices refer to monthly averages. Current: yield refers to 10-year fixed income government bonds, end-of-period.
+Notes: Athens Stock Exchange Statistical Yearbook, Bank of Greece Monthly Statistical Bulletin, Global Financial Data and Datastream.
+5. What was the policy response? The facts
+How did Greek policy makers cope with both crisis episodes? What were the
+constraints that shaped their response? We thus need to discuss the policy facts. Looking
+at the ‘then’ policy rate response (see Figure 11), the Bank of Greece responded to the
+crisis with a two year delay. It did not act before Britain’s departure from gold in
+September 1931.21 Only then, did it decide to respond- though however mistakenly- by
+21 Until mid-1930, adequate domestic liquidity did not justify a cut in the bank rate. However, the discount policy proved unsuccessful. In 1928 and 1929, the domestic money market was characterised by excess money demand. At the same time, commercial banks held enough reserve balances and they did not need to
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+25
+severely increasing its rate. The bank rate increases continued in the next year in a
+desperate attempt to unsuccessfully defend the fixed exchange rate.
+Figure 10
+Competitiveness, 'now' versus 'then'
+80
+85
+90
+95
+100
+105
+110
+115
+0 1 2 3 4 5 6 7 8 9 10 11
+0
+20
+40
+60
+80
+100
+120
+140
+real effective (2002=100) real (1924=100)
+Notes: interwar: RHS, the real rate has been calculated as the ratio of wholesale prices in Greece to British wholesale prices (Sauerbeck index), using the bilateral nominal rate as the conversion ratio, 1924-1931). Current: LHS, real effective exchange rate, unit labour cost deflated, 2002-2013 (Jan.-April). A positive change points a decrease in competitiveness. Period averages. Sources: Journal of Royal Statistical Society, National Bank of Greece, Bank of Greece, EL STAT and SDW ECB.
+raise more cash from the central bank via re-discounts. Due to high currency uncertainty people preferred to keep their money balances in very short-term demand deposits so as to be readily convertible into a goldbased foreign currency. Despite the fact that commercial banks held enough reserve balances by that time, they extended few short-term loans charging a very high interest rate. The short-term market lending rate was 3 percentage points higher than the bank rate.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+26
+Figure 11
+Central bank rates, 'now' versus 'then'
+British exit
+Greek exit
+solvency and sovereign crisis
+liquidity cris is
+0
+2
+4
+6
+8
+10
+12
+14
+0
+4
+8
+12
+16
+20
+24
+28
+32
+36
+40
+44
+48
+52
+56
+60
+64
+68
+72
+76
+80
+84
+88
+months since output peak
+Greece Aug 1929 EA M LF July 2008 EA M RO July 2008
+Notes: interwar: the BoG discount rate. According to its statute, the BoG was allowed to provide only short-term lending facilities to the commercial banks via discounted traded bills. Therefore, the BoG’s policy rate was the discount window and not the Lombard rate. Current: MLF (marginal lending facility) and MRO (main refinancing operations). End-of month, in percentage per annum. Sources: BoG Monthly Statistical Bulletin, ECB SDW.
+By late 1930, the 1929 world-wide crisis had impacted on Greece in the form of
+bank panics, dissolutions and bankruptcies. Moreover, all output indices as seen in
+Section 3, signalled that the economy was entering in a recessionary phase which became
+heavier the next year. The commercial banks that experienced a severe liquidity short fall
+turned to the Bank of Greece asking for assistance and rescue. Unable to meet their
+liquidity requirements, they attempted to obtain support through the lender of last resort
+function, asking the central bank to bail them out. The Bank of Greece, however, neither
+undertook a rescue effort, nor did it cope with the crisis. Being consistent with its primary
+goal as specified in its statute – to maintain the international price of domestic money
+fixed by protecting the relationship between banknote circulation and foreign exchange
+reserves – it continued to implement a strongly anti-inflationary policy well known as the
+‘struggle for the drachma’ (see the Annual Report of the BoG for the year 1930, 1931, p.
+x and p. xi and Varvaressos 1953). Yet, strict adherence to the monetary orthodoxy
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+27
+doctrine of the gold standard was soon revealed to be a mistaken decision. As
+Eichengreen and Temin (2010) note ‘...fixed exchange rates facilitate business and
+communication in good times but intensify problems when times are bad’ (p.1).
+Throughout 1930, recession was spreading world-wide and any expected benefit that
+might have accrued for Greece from a high level of world aggregate demand and cheap
+international credit was rapidly disappearing.
+Instead of following Britain and other countries out of gold pari passu, the Bank of
+Greece, after several months of inactivity, ‘was shocked’22, though ‘unjustifiably’23, and
+raised its policy rate ‘suddenly and unexpectedly’ from 9 to 12 per cent in one month.
+During the next few months, it proceeded with hastily improvised moves. In late October
+1931, it cut its rate by one percentage point while in January 1932 it raised it again to
+12%. In late February 1932, it cut it again to 11%. Wide-spread bank panics,
+bankruptcies and money balances hoarding soon caused a liquidity squeeze and increased
+the market lending rate (from 8 to 12 per cent).24 But in spite of its desperate efforts to
+defend the price of the currency, foreign exchange reserves were being depleted and the
+drachma faced a heavy bout of speculation. Not until spring 1932 when the country
+exited the gold-exchange standard, did the stance of the monetary policy pursued changed
+by allowing the bank rate, albeit gradually and slowly, decline.
+Referring to the ‘now’ crisis, common elements cannot be safely detected as
+regards the evolution of the central bank’s policy rate since it is not really comparable to
+talk about monetary policy reaction ‘then’ (when the Bank of Greece was responding to
+Greek issues only) and ‘now’ (when the ECB ensures the well- functioning of the
+monetary union as a whole). The point that is needed to be stretched here is that Greece
+did not have a really monetary policy in either period. In the 1930s its hands were tied by
+the gold-exchange standard. In the 2000s, it suffered by a sovereign crisis.25
+22 See the Annual Report of the BoG for the year 1931 (1932), ch. xii.
+23 See Varvaressos’s telegraph from London on 25 September 1931 (Historical Records of the BoG). 24 The BoG rate policy was not complemented by unconventional or non standard liquidity providing measures. Further, its activities as lender of last resort were not explicitly nor institutionally specified. According to its statute, it was allowed to provide only short-term lending facility to banks in difficulty via discounted traded bills. 25 The ECB, however, through its conventional and unconventional open market operations tried to handle the liquidity squeeze in the domestic money market. In the aftermath of Lehman Brothers (15 September),
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+28
+6. What was the impact of economy policy?
+Further research is however needed in exploring the institutional preconditions and
+policy choices that could have averted default in the interwar years as well as the
+conditions under which a fast recovery would have been possible if default were
+inevitable. Our scope is to assess the impact of spending shocks on real output with VAR
+models over the past crisis episode. During that time, politicians both among developed
+and developing countries placed very little importance on fiscal policy as reflected by the
+post-crisis moderate budget deficits.26 This was also true of Greek policy makers at that
+time, as is evident from the very small primary deficits (just over 2% of GDP) that
+prevailed in the years after 1932 (see Figure 8).
+We consider military spending as our fiscal policy variable as it was strongly
+exogenously determined (see Blanchard and Perotti 2002 and Barro and Redlick 2011).
+We also consider primary spending (Blanchard and Leigh 2013). The monetary base
+(M0) is used as our monetary policy variable.27 Alternatively, the central bank’s discount
+rate is also used as a measure of monetary policy.
+We estimate the reduced form of an unconstrained structural VAR model for
+Greece over the period 1898 to 193928 with four endogenous variables relying on
+Cholesky ordering to identify shocks and estimate fiscal multipliers. While assumptions
+about the order of the variables in the VAR are essential to the identification process,
+the ECB cut its rate in a coordinated move with other central banks on 8 October; it also cut again in November 2008. Along with that, it did special refinancing operations and introduced extraordinary liquidity operations. However, the monetary policy stance remained stringent and the ECB’s rate cuts were not transmitted uniformly to all countries. The euro zone periphery faced much higher borrowing costs than the core economies (see O’Rourke 2014). 26 This can be equally explained by the fact that the Keynesian ideas of crisis management were not broadly circulating among countries. Romer (1992) and Ritschl (2005) provide empirical evidence that supports this hypothesis. 27 When assessing the impact of monetary policy, trends in money supply are usually taken into account (see Romer 1992). However, money supply is not exogenous since it is not determined only by the monetary base but also by the money multiplier which is endogenous. In the case of pre-WWII Greece, however, changes in monetary base largely determined the changes in money (M3) supply. We found that 86.4% of the average growth rate of M3 was caused by the growth rate of M0 while money multiplier had a minimum impact (13.6%). For this reason, we chose to use alternatively the central bank’s discount rate. However, we insert M3 in the place of M0 but its impact is rather insignificant. 28 We might easily reproduce this technical exercise by using the current data. However, our main scope is not the comparison of the values of the fiscal multiplier across the two cases but rather to exploit the interwar experience and detect any possible impact of fiscal policy on output shocks. Greek interwar evidence is very helpful as it allows us to draw useful conclusions for today’s policy making.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+29
+there is not a consensus on the appropriate variable ordering. The common assumption is
+that some variables do not react to shocks to other variables contemporaneously. For
+instance, we assume that government spending both primary and defence does not
+respond to output in the current period. That means that contemporaneous spending is
+exogenous to output shocks implying that output does not have impact effects on
+spending within a year (see also Perotti 2005, Galí et al. 2007 and Beetsma et al. 2006).
+However, we should stress the fact that government spending policy makers usually take
+into account future movements in output when they shape their decisions on current
+spending.29 Hence, we assume that output does not react contemporaneously to shocks to
+tax revenues and the monetary policy variable; defence spending does not react
+contemporaneously to shocks to output, tax revenues and monetary policy variable, and
+that tax revenues do not react contemporaneously to shocks to monetary policy variable.
+We thus place spending, military or primary, in the first position, real output in the
+second, next tax revenues and finally the monetary base or the discount rate. Statistics
+that test the lag length result in the following model specification:
+AoYt= A(L)Yt-j + Et t=1,..., T, k=1 (1)
+where Ao is a non-singular matrix that captures the relationships between the
+endogenous variables in the current period and A(L) is the matrix polynomial in the lag
+operator L that captures the relationships between the endogenous variables and their
+lags. The reduced form version is given by (1’)
+k
+Yt= C + ∑ Bj Yt-j + Ut t=1,..., T, k=1 (1’) j=1
+where Yt is a (m×1) vector of jointly determined endogenous variables, Bj is the (m×m)
+coefficient matrix and Ut is a (m×1) vector of serially uncorrelated random errors.30
+29 We test the sensitivity of our results to the ordering of the variables. In particular, we re-estimate (1) by placing tax revenues between spending and output or placing first the monetary policy variable, second spending, and next output and revenues. The results (available upon request) do not change. 30 We used the Akaike Information Criterion and the Schwartz Criterion. Both information criteria indicate a one-lag VAR.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+30
+Our starting point is 1898. That year Greece agreed on a debt compromise with its
+foreign creditors after the 1893 unilateral debt default. In turn, foreign creditors
+demanded economic policy move in the direction of fiscal prudence and monetary
+stringency. Recession thus resurfaced and lasted several years. The International Finance
+Control (IFC) was in effect until the outbreak of WWII. Our ending point is 1939.
+A key reservation should be addressed from start. Using annual data generates a
+simultaneity bias. This means that a successful fiscal expansion would result in an
+increase in the deficit with little change in output leading mistakenly to the conclusion
+that multipliers are small. This is done because of the presence of implementation lags in
+fiscal policy. Government spending is planned in a budget that is presented before the
+start of the fiscal year. The use of higher frequency data may reduce the risk of
+simultaneity bias since agents often react quickly to spending shocks. In the case of
+Greece, however, quarterly data on fiscal variables are available only from 1999. We thus
+handle this shortcoming by putting a constraint on the ordering of the endogenous
+variables.
+In particular, we use a recursive variable ordering; it implies that spending affects
+output only with a time lag. This assumption appears to be strong when we consider
+defence spending since it is less likely that military expenses could be caused by the state
+of the business cycle and thus it is truly exogenous variable. However, military
+emergencies occur during or in advance of a war event that might have an adverse
+macroeconomic impact by its own. In the case of Greece most wars31 were fought on
+domestic soil and involved significant losses in productive capital. Therefore, the
+multiplier is expected to be mitigated. Further, wartime emergencies were largely
+financed by domestic debt issue at high interest rates causing thus a displacement (a
+crowding-out) of output.32 We assume that tax revenues enter after spending and output
+since they are not cyclically adjusted and thus will affect output within the same year.
+31 Greece was involved in the Balkan wars of 1912-13, WWI of 1914-1918 and the Greco-Turkish war 1919-1923. Defence spending data as retrieved by the Government Annual Reports include expenses on equipment, on civil and military personnel such as wages, salaries and pensions, education projects and camps maintenance, as well. 32 The Balkan wars were financed by foreign borrowing; in contrast, WWI and the Greco-Turkish war were funded by domestic debt issue.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+31
+This is because governments often change the tax rates in response to changes in
+spending. Finally, we place the monetary variable at the last position.33
+We estimate (1’) using annual data and the log levels of the variables; all
+variables are deflated using the GDP deflator while the discount rate is in decimal form.
+We add a quadratic time trend since spending and output are not stationary.34 Binary
+dummies are also inserted to capture first, large and unexpected fiscal shocks that the data
+could not show up, such as sudden war events, second, tax regime changes and third,
+nominal exchange rate regime switches. In particular, since our data set spans WWI and
+other war events, a war dummy was included to control for the war shocks.35 It takes the
+value 1 or 0.5 in war years (1912-1923) and zero elsewhere. We also included a tax
+dummy which takes the value 1 in 1919 and afterwards when an important tax reform
+was made (i.e. the introduction of the personal income taxation) and a regime dummy
+that takes the value 1 or 0.5 in the years the country adhered to a specie convertibility rule
+(1910-1919, 1928-1936).36
+We find that the coefficients of the fiscal variables have the expected sign and are
+statistically significant. Defence spending increases real output while an increase in tax
+revenues reduces output. M0 has also a positive impact, albeit significant at higher than
+10% level. In contrast, the impact of the discount rate is highly insignificant. This can be
+easily explained by the fact that pre-1927 in the absence of a central bank, the issue bank
+was mostly interested in its commercial considerations and thus it did not undertake a
+discount rate policy. Similarly, after 1928 when a central bank was founded, the small
+size of its portfolio compared to that of the commercial banks as total and its commitment
+33 Monetary policy does not affect output contemporaneously (see Christiano et al. 2005) and this assumption is strong when we use annual data. We thus change the variable ordering putting fist the monetary policy variable. The results however do not alter. 34 On the basis of the standard stationary tests the null hypothesis of a unit root cannot be rejected at 5% or 10% statistical level of significance. Since all variables are not stationary of the same order we cannot apply co-integration analysis in estimating the VAR model. Besides, our interest is to detect short-run interactions between the variables in the system and not to identify long-run relationships. 35 The war dummy is highly significant. An option might be to split the whole data set into two sub-sets before and after the war and check whether relations remained the same during war and peacetime. However, severe data constraints do not allow us to do so, since the number of the degrees of freedom is limited to a minimum affecting adversely the explanatory power of the estimation. 36 Analytically, the regime dummy takes the value 0.5 in the years 1910, 1919, 1928, 1932-1933 and 1936; the value 1 in the years 1911-1919, 1929-1931 and 1934-1935 and zero elsewhere. The country joined the classical gold standard in March 1910 to August 1919, the interwar gold-exchange standard in May 1928 to April 1932, Gold Bloc in June 1933 to September 1936.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+32
+to the gold standard rule precluded the use of the discount rate as an effective policy
+instrument and thus it did not capture the rapid changes in the market.37 Additionally, the
+series of the discount rate shows no variability over time; it was kept unchanged for many
+years in a row. The dummy for 1919 tax reform has a significant negative impact on
+output. Finally, the fixed regime dummy positively and strongly affects output. The
+results remain unchanged when we exclude tax revenues or include two time lags or
+insert a linear time trend. More importantly, altering the variable ordering does not affect
+the results. The results also remain the same when we re-estimate the VAR using primary
+spending.
+6.1 Policy shocks and output response
+To measure output impact we need to quantify the number of time periods
+between the timing of the fiscal or monetary policy shock and output response. To do
+this, we need to estimate an impulse response function that traces the effect of one time
+shock to one of the innovations on current and future values of the endogenous variables.
+Fiscal policy shocks are identified as innovations in the equation for spending and
+revenues. Monetary policy shocks are identified as innovations in the equation for the
+money supply or the discount rate.
+Table 2 presents the values of the long-run estimated fiscal multiplier with the
+VAR model. The impact spending multiplier is near zero, while the cumulative multiplier
+after two years increases to just 0.42. This means two years after the impulse the
+cumulative increase in output is only one-half the size of the cumulative increase in
+defence spending. The impulse response function shows that at impact the response of
+output to a positive shock to spending is near close to zero. Then, it becomes positive and
+increasing but it does not persist. It becomes zero after about three years and negative
+afterwards.38 The long-run cumulative multiplier which is the value the cumulative
+multiplier takes once the responses of both variables have died down according to the
+37 Precisely, it was used to keep the exchange rate fixed. 38 The results are available upon request.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+33
+VAR estimates is 0.62.39 This means that one drachma increase in spending causes only
+0.62 drachmas (i.e. a little more than a half of drachma) increase in real output.
+Table 2 VAR long-run fiscal multipliers, 1898-1939
+Spending multiplier VAR (1): money base included
+Spending multiplier VAR (2): the discount rate included
+Tax multiplier VAR (1): money base included
+Tax multiplier VAR (2): the discount rate included Defence spending
+0.62 0.69 -0.48 -1.18
+Primary spending
+0.42 0.46 -0.57 -1.29
+Re-estimating the VAR using the primary spending, the long-run multiplier
+becomes slightly smaller (0.42). The results also remain the same when we replace
+money supply with the discount rate. The long-run multiplier ranges from 0.46 when we
+use primary spending to 0.69 when we use defence spending.40 Another very interesting
+finding is that total tax revenues have a significant negative impact on real output in all
+estimated versions of the VAR model. The impulse response function shows that the
+impact is negative and persists for many years ahead. The long-run revenue multiplier
+ranges from -0.48 to -0.57 for defence and primary spending respectively, while it
+becomes bigger when the discount rate is included: -1.18 to -1.29.
+To sum up, the empirical findings support the positive impact of an increase in
+public spending on output even though this impact seems to be small and does not last.
+The small size of the estimated spending multiplier can be easily explained. First, in
+39 Since in the VAR estimation we use the natural logs of the variables, the linear regression estimation yields the elasticity of real output with respect to spending. A standard way to convert the estimated elasticity to an estimated value of the spending multiplier is to divide it using an ad hoc conversion factor based on the sample average ratio of spending to GDP. The average ratio over the whole sample period is 11.9 per cent for defence and 20.2 per cent for primary spending. However, this widely-used method can lead to biases in spending multiplier estimates since the average ratio of spending varies greatly over the sample period we study. See, Hall (2009) and Barro and Redlick (2011). For the case of Greece see Chouliarakis et al. (2013). 40 These results are very much in accordance with the received value of 0.79 for developing countries found by Ilzetzki et al. (2009) but much higher that those estimated in the OECD Economic Survey for Greece (2011).
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+34
+countries, like Greece of the time, with limited access to financial markets governments
+could issue debt to finance a deficit only at a very high interest rate which displaced
+(crowded out) output and thus decreased the size of the multiplier. Second, the scope for
+deficit monetisation was very limited since Greece was not allowed by the 1898 law on
+Foreign Debt Compromise to create new money. Third, the assumption that taxes often
+rise at the same time as government spending and affect output within the same year,
+turns the spending multiplier not equal to pure deficit financed multiplier. This means
+that the overall effect of spending on output depends on whether the increase in spending
+will be financed by tax increase or debt issue. Hence, the value of the multiplier reflects
+the effect of different ways to finance the shock in spending. Narrative accounts verify
+this assertion. Coping with the interwar crisis, Greece financed moderate spending
+through tax increases and internal short-run debt issue at very high interest rates since
+foreign capital markets were well closed to the country after its 1932 default. Moreover,
+monetary policy continued to be oriented to stringency since the drachma was still on a
+currency peg after its entrance to the Gold Bloc in 1933.
+7. Conclusion and lessons from history
+Some important lessons are drawn from the country’s interwar crisis experience.
+First, the resemblance between the two crisis events as revealed both by the narrative
+accounts and the received evidence implies that crises repeat themselves when
+circumstances become alike and this would provide a gauge for deterring them in time.
+Even if only the circumstances get to look alike, the implication is still useful or pointing
+to the inability of the national authorities to improve over time and revealing that
+pathologies re-emerge. The comparison of the triggering and transmission mechanisms of
+the crisis across the two episodes as well as the policy response in copying with the crisis
+made the main implication of the paper stronger. Explicitly, we have shown on the basis
+both on the time series data and the historical accounts that the inability of the national
+authorities to credibly follow their commitment to a nominal anchor was at the root of the
+country’s failure. During interwar, large post-war government deficits were covered by
+cheap foreign lending while insufficient foreign exchange reserves could not defend
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+35
+convertibility. In the 2000s, cheap and abundant capital inflows pushed up wages and
+prices and fed public over-borrowing. Since labour mobility still remained limited within
+the euro area and in the absence of a federal budget to smooth asymmetric shocks by
+transferring resources across regions in the event of a shock that hit some countries
+harder than others, procyclical austerity measures exacerbated recession. However, it is
+important to stress out that the country due to serious savings shortage always needs
+foreign capital inflows to finance its economic development. Its participation into a
+monetary stability club of rich and powerful economies worked as a ‘seal of approval’ to
+borrow easily and cheap. Drawing on the interwar experience, the country right after it’s
+uncouple with sterling and the US dollar, eagerly sought a new nominal anchor with its
+entrance into the Gold Bloc.
+Second, the 1929 crisis waves hit Greece with a year time lag. This was attributed
+to the imposition of extensive world-wide controls on good and capital flows that made
+less developed economies less globally interrelated. In contrast, the 2008 crisis hit the
+country at the same time that it hit the global economy. The recent phenomenon of
+finance capitalism made economies more interrelated; this holds for core and periphery
+alike. Comparing the size and duration of the two downturns, we conclude that the 1930s
+event can be classified as a ‘recession’ event; the drop was modest while the return was
+quick. The current event episode, by contrast, can be easily classified as a ‘depression’
+event; the drop has been severe and prolonged.
+Third, in the years before both crises monetary policy accommodated a loose
+fiscal policy and resulted in a lending boom.
+Fourth, interwar crisis management was ineffective. Domestic policy makers
+made serious policy mistakes: (i) they were backward looking as revealed by the decision
+to continue to defend the currency’s fixed rate when at the same time their commitment
+to do so was no longer credible; (ii) the economic policy pursued was procyclical, thus
+enhancing recession pressures. While they seemed willing to run high budget deficits
+when the country was on gold, they were extremely reluctant to do so when the country
+was in recession.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+36
+Fifth, VAR estimates provide evidence for a positive though moderate and short
+lived impact of public spending on real output. This implies that in the short run there
+was still room for fiscal policy manoeuvre to lead the country out of the interwar
+recession.
+However, three caveats are in order. First, we focus only on one country case
+instead of examining a sample of peripheral countries with similar structural and policy
+features that have a history of such episodes. That exercise could be an interesting line of
+future research that would allow us to reach conclusions of wider generality on issues
+related to effective crisis management and the role of discretionary policy in times of
+crisis. Second, and more importantly, we treat the chosen time span 1898-1939 as a
+whole, without examining whether behaviour is different during the recession years. Two
+factors dictate such treatment: (i) the small number of observations and (ii) the presence
+of the IFC through out this period. In other words, we base our conclusions on a linear
+model. However, theory and evidence suggest spending multipliers vary across time
+periods and across countries due to different features such as the business cycle or the
+exchange rate regime. They have been found to be modest in peacetime but large during
+periods of financial and banking crisis.41 Third, another approach to the empirical
+estimate of the multipliers might be to look at the output effects of government spending
+on certain components instead of looking at the aggregate national level. The latter
+presupposes the existence of historical data on spending components which are not
+however available for Greece.
+41 See IMF (2012) and European Economy (2012). Christodoulakis (2013b) shows multipliers get higher in times of harsher liquidity constraints. For the case of Greece, in particular, see Chouliarakis et al. (2013) who, based on the long Greek record, find that government spending multiplier is larger under a currency peg and a negative output gap.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+37
+References
+Accominotti, O. and B. Eichengreen (2013), ‘The mother of all sudden stops: Capital flows and reversals in Europe: 1919-1932’, BEHL Working Paper, 2013-07.
+Alesina, A., F. Compante and G. Tabellini (2008), ‘Why is fiscal policy often procyclical?’, Journal of European Economic Association, 6, 1006-1036.
+Almunia, M., A. Benetrix, B. Eichengreen, K. H. O’Rourke and G. Rua (2010), ‘From great depression to great credit crisis: similarities, differences and lessons’, Economic Policy, 25, 219-265.
+Antoniou, A. (2012), Sources of the Economic History of Modern Greece: Quantitative data and statistical series: Governing spending 1830-1939’, Centre for Planning and Economic Research and the National Bank of Greece, work in progress.
+Bank of Greece (2009), The crisis of 1929 and the Greek economy, special edition, in Greek.
+Bank of Greece (2011), Monetary policy, the economic crisis and the Bank of Greece policy pursued during 1929-1941, special edition, in Greek.
+Barro, R. (1979), ‘On the determination of the public debt’, Journal of Political Economy, 87, 940-971.
+Barro, R. and C. J. Redlick (2011), ‘Macroeconomic effects from government purchases and taxes’, Quarterly Journal of Economics, 126, 51-102.
+Beetsma, R., M. Giuliodori and F, Klaassen (2006), ‘Trade spill-overs of fiscal policy in the European Union: a panel analysis’, Economic Policy, 21, 639-687.
+Blanchard, O. and D. Leigh (2013), ‘Growth forecast error and fiscal multipliers’, IMF Working Paper 13/1.
+Blanchard, O. and R. Perotti (2002), ‘An empirical characterization of the dynamic effects of changes in government spending and taxes on output’, Quarterly Journal of Economics, 117, 1329-1368.
+Bordo, M. and H. James (2013), ‘The European Crisis in the Context of the History of Previous Financial Crises’, NBER Working Paper no 19112.
+Bordo, M. A. F. Cavallo and C. M. Meissner (2010), ‘Sudden stops, determinants and output effects in the first ear of globalization 1880-1913’, Journal of Development Economics, 91, 227-241.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+38
+Bordo, M., E. Choudri and A. J. Schwartz (1999), ‘Was expansionary monetary policy feasible during the great contraction? An examination of the gold standard’, NBER, Working Paper no w7125.
+Bordo, M. and M. Flandreau (2001), ‘Core, periphery, exchange rate regimes and globalization’, NBER Working Paper no 8584.
+Bordo, M. and H. Rockoff (1996), ‘The gold standard as a good housekeeping seal of approval’, Journal of Economic History, 56, 389-428.
+Branco, Amélia, Nuno Valério and Rita Martins de Sousa (2010), Monetary Policy during Two Crises in a semi-peripheral economy: Portugal 1891 and 1929, paper presented at the 5th SEEMHN Conference on Monetary Policy during Economic Crises: a Comparative and Historical Perspective, hosted by the Central Bank of the Republic of Turkey, 16–17 April.
+Caballero, R. K. Cowan and J, Kearns (2004), ‘Fears of sudden stops: lessons from Australia and Chile’, NBER Working Paper no 10519.
+Catao, L. (2006), ‘Sudden stops and currency drops; a historical look’, IMF, working Paper no 06/133.
+Chouliarakis, G., T. Gwiazdowski and S. Lazaretou (2013), ‘Fiscal multipliers in times of crisis and prosperity: historical evidence from Greece’, paper presented at the 8th SEEMHN conference, Amiens, 10-11 October.
+Christodoulakis, N. (2013a), ‘Currency crisis and collapse in interwar Greece: predicament or policy failure’, European Review of Economic History, 17, 294-317.
+Christodoulakis, N. (2013b), ‘Austerity and multipliers under liquidity constraints. Stylised facts of recession in the euro area’, mimeo, September.
+Christiano, L., M. Eichenbaum and C.L. Evans (2005), ‘Nominal rigidities and the dynamic effects of a shock to monetary policy’, Journal of Political Economy, 113, 1-45.
+Eichengreen, Barry (2011), Exorbitant privilege: the Rise and fall of the dollar and the future of the International Monetary System, Oxford University Press.
+Eichengreen, B. (2012), ‘Europe’s trust deficit’, Project Syndicate, 12 March.
+Eichengreen, B. and K. H. O’Rourke (2010), ‘A tale of two depressions: what the new data tell us?’, 8 March, VOXEu.org.
+Eichengreen, B. and K. H. O’Rourke (2012), ‘Gauging the multiplier: lessons from history’, Social Europe History, 23 October.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+39
+Eichengreen, B. and P. Temin (2010), ‘Fetters of gold and paper’, Oxford Review of Economic Policy, 26, 370-384.
+Eichengreen, B. and R. Hausmann (1999), ‘Exchange rates and financial fragility’, in New Challenges for Monetary Policy, Federal Reserve Bank of Kansas City, 329-368.
+Eichengreen, B., R. Hausmann and U. Panizza (2003), ‘Currency mismatches, debt intolerance and original sin: why they are not the same and why it matters’, NBER Working Paper no 10036.
+Eichengreen, B. (1985), The gold standard in theory and practise: Introduction, Methuen, London.
+Esteves, Rui Pedro, Jaime Reis and Fabiano Ferramosca (2007), Market Integration in the Golden Periphery: the Lisbon/London Exchange, 1854–1891, University of Oxford, Economic Series Working Paper 338.
+Fratianni, Michele and Franco Spinelli (2001), ‘Fiscal Dominance and Money Growth in Italy: the Long Record’, Explorations in Economic History, 38, 252–272.
+Galí, J., J.D. López-Salido and J. Vallés (2007), ‘Understanding the effects of government spending on consumption’, Journal of European Economic Association, 5, 227-270.
+Ilzetzki, E., E. F. Mendoza and C. A. Vegh (2009), ‘How big are fiscal multipliers’, CEPR Policy Insight, no 39.
+IMF (2012), World economic outlook: coping with high debt and sluggish growth, October.
+Kaminsky, G., C. Reinhart and C. Végh (2004), ‘When it rains it pours: procyclical capital flows and macroeconomic policies’, NBER Macroeconomic Annual, 19, 11-82.
+Kostelenos, G., D. Vassiliou, E. Koumaris, S. Petmezas and Μ. Sfakianakis (2007), Sources of the Economic History of Modern Greece: Quantitative data and statistical series: Greek Domestic Product 1830-1939’, Centre for Planning and Economic Research and the National Bank of Greece.
+Lazaretou, S (2005a), ‘The drachma, foreign creditors and the international monetary system: tales of a currency during the 19th and the early 20th centuries’, Explorations in Economic History, 42, 202-236.
+Lazaretou, S (2005b),’Greek monetary economics in retrospect: the adventures of the drachma’, Economic Notes, Review of Banking, Finance and Monetary Economics, 34, 331-370.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+40
+Lazaretou, S. (2010), ‘Money supply and Greek historical monetary statistics: definition, construction, sources and data’, Economies et Sociétés, 41, 47-67.
+Lazaretou, S. (2012), ‘Financial crises and financial market regulation: the log record of an emerger’, in Y. Görmez, S. Pamuk and M. I. Turhan (eds.), Monetary policy during economic crises: a comparative and historical perspective, SEEMHN and The Central Bank of the Republic of Turkey, 85-112.
+Lazaretou, S. (2014), ‘Greece: from 1833 to 1949’ in South-eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II, BNB, BoG, OeNB and NBR (eds.), forthcoming.
+O’Rourke, K. (2014), ‘Whither the Euro?’ Finance and Development, IMF, March, 51, http://www.imf.org/external/pubs/ft/fandd/2014/03/orourke.htm.
+Martin–Aceña, Pablo and Jaime Reis (2000), Monetary Standards in the Periphery: Paper, Silver and Gold, 1854-1933 (eds), New York, St. Martin Press.
+Obstfeld, M. and A. Taylor (2003), ‘Sovereign risk, credibility and the gold standard, 1870-1913 versus 1925-1931’, Economic Journal, 113, 1-35.
+Perotti, R. (2005), ‘Estimating the effects of fiscal policy in OECD countries’ CEPR Discussion Paper 4842.
+Prontzas, V., P. Kimourzis and N. Melos (2012), Sources of the Economic History of Modern Greece: Quantitative data and statistical series: Public revenues, 1830-1939’, Centre for Planning and Economic Research and the National Bank of Greece.
+Rodrick, D. (2007), ‘The Inescapable Trilemma of the World Economy’, Rodrick’s weblog, Unconventional thoughts on economic development and globalisation. 27 June.
+Reinhart, C. and K. Rogoff (2009), This time is different: eight centuries of financial folly, Princeton University Press.
+Ritschl, A. (2005), ‘Inflation and relative price variability under a gold standard: evidence from Germany’, in Broadberry, S. and M. Harrison (eds.), The economics of World War I, Cambridge University Press, 41-76.
+Romer, C. (1992), ‘What ended the great depression’, Journal of Economic History, 52, 757-784.
+Woo, J. (2010), ‘Growth, income distribution and fiscal policy volatility’, IMF and de Pam University, July.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+41
+BANK OF GREECE WORKING PAPERS
+151. Brissimis, N. S. and P. M. Migiakis, “Inflation Persistence and the Rationality of Inflation Expectations”, January 2013.
+152. Tagkalakis, O. A., “Audits and Tax Offenders: Recent Evidence from Greece”,
+February 2013.
+153. Bageri, V., Y. Katsoulacos, and G.Spagnolo, “The Distortive Effects of Antitrust Fines Based on Revenue”, February 2013.
+154. Louzis, P. D., “Measuring Return and Volatility Spillovers in Euro Area Financial
+Markets”, March 2013
+155. Louzis, P. D., and A.T. Vouldis,“A Financial Systemic Stress Index for Greece”, March 2013.
+156. Nicolitsas, D., “Price Setting Practices in Greece: Evidence From a Small-Scale
+Firm-Level Survey”, April 2013
+157. Bragoudakis, G. Z., S.T. Panagiotou and H. A. Thanopoulou, “Investment Strategy and Greek Shipping Earnings: Exploring The Pre & Post "OrderingFrenzy" Period”, April 2013.
+158. Kasselaki, Th. M. and O, Tagkalakis, “Financial Soundness Indicators and Financial Crisis Episodes”, April 2013.
+159. Bardakas, C.I., “The Asymmetric Effect of Income on Import Demand in Greece”, May 2013.
+160. Chassamboulli, A., and T. Palivos, “The Impact of Immigration on the Employment and Wages of Native Workers”, June 2013.
+161. Degiannakis, S., G. Filis, and R. Kizys, “Oil Price Shocks and Stock Market Volatility: Evidence from European Data”, September 2013.
+162. Koutsomanoli-Filippaki, A., and E. Mamatzakis, “How Labour Market
+Regulation Shapes Bank Performance in EU-15 Countries?”, September 2013.
+163. Koukouritakis,M., A.P. Papadopoulos., and A. Yannopoulos, “Linkages Between The Eurozone and the South-Eastern European Countries: A Global VAR Analysis”, October 2013.
+164. Charalambakis, C. E., “On the Prediction of Corporate Financial Distress in the Light of the Financial Crisis: Empirical Evidence from Greek Listed Firms”, October 2013.
+165. Dimelis, S., I. Giotopoulos and H. Louri, “The Credit Crunch and Firm Growth in
+the Euro Area: 2005-2011. A Quantile Panel Analysis”, November 2013.
+Electronic copy available at: https://ssrn.com/abstract=4184601
+
+
+42
+166. Degiannakis, S, A. Andrikopoulos, T. Angelidis, and, C. Floros “Return Dispersion, Stock Market Liquidity and Aggregate Economic Activity”, November 2013.
+167. Tagkalakis O. A. “The Output Effects of Systematic and Non-Systematic Fiscal Policy Changes in Greece”, November 2013.
+168. Palaiodimos T. G., “Putting the EMU Integration Into a New Perspective: the Case of Capital Market Holdings”, December 2013.
+169. Tagkalakis, O.A., “Discretionary Fiscal Policy and Economic Activity in Greece”, December 2013.
+170. Degiannakis, S. T. Angelidis, and G. Filis, “Oil Price Shocks and Volatility Do Predict Stock Market Regimes, December 2013.
+171. Tagkalakis, O. A., “Assessing the Variability of Indirect Tax Elasticity in Greece”, January 2014.
+172. Koukouritakis, M., A.P. Papadopoulos and A.Yannopoulos, “Transmission Effects In
+The Presence of Structural Breaks: Evidence from South-Eastern European
+Countries”, January 2014.
+173. Du Caju, P., T. Kosma, M. Lawless, J. Messina, T. Rõõm, Why Firms Avoid Cutting Wages: Survey Evidence From European Firms”, January 2014.
+174. Mitrakos, T., “Inequality, Poverty and Social Welfare in Greece: Distributional
+Effects of Austerity”, February 2014.
+175. Lazaretou, S., “Η Έξυπνη Οικονομία: «Πολιτιστικές» και «Δημιουργικές» Βιομηχανίες στην Ελλάδα Μπορούν να Αποτελέσουν Προοπτική Εξόδου από την Κρίση”, February 2014.
+Electronic copy available at: https://ssrn.com/abstract=4184601

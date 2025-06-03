@@ -1,0 +1,1531 @@
+BANK OF GREECE
+EUROSYSTEM
+Working Paper
+2
+3
+Andreas Kakridis
+War, mobilization, and fiscal capacity: testing the
+bellicist theory in Greece, 1833-1939
+MARCH 2024
+WORKINGPAPERWORKINGPAPERWORKINGPAPERWORKINGPAPERWORKI
+7
+
+
+BANK OF GREECE Economic Analysis and Research Department – Special Studies Division 21, Ε. Venizelos Avenue GR-102 50 Athens Τel: +30210-320 3610 Fax: +30210-320 2432
+www.bankofgreece.gr
+Published by the Bank of Greece, Athens, Greece All rights reserved. Reproduction for educational and non-commercial purposes is permitted provided that the source is acknowledged.
+ISSN: 2654-1912 (online) DOI: https://doi.org/10.52903/wp2024327
+
+
+WAR, MOBILIZATION, AND FISCAL CAPACITY: TESTING THE BELLICIST THEORY IN GREECE, 1833-1939
+Andreas Kakridis Department of Political Science and History, Panteion University, Athens, Greece; Bank of Greece, Athens, Greece
+ABSTRACT
+Constructing a new dataset of Greek public revenues and expenditures for the years 1833 to 1939, this paper finds that war mobilizations undermined tax revenues in the short run, but helped the Greek state increase its fiscal capacity in the long run. Tax revenues increased on the heels of major spikes in defense expenditures, even in cases where mobilizations did not escalate to war. But even in normal times, changes in military expenditures had a stronger effect on taxes, compared to similar changes in civilian outlays. The paper thus provides both data and evidence in support of bellicist theories of state formation for Greece, while also proposing a new approach to testing for the effects of war on fiscal capacity.
+JEL-Classification: N43, N44, H6
+Keywords: war, taxation, fiscal capacity, military expenditures, state-formation
+Acknowledgements and disclaimer: This paper began as a project presented at 2018 Alpha Bank Historical Archives International Workshop, dedicated to War and the formation of the Greek state, 19th - 21st century. It has since benefited from conversations with Kostas Kostis, George Alogoskoufis, Franciscos Koutentakis and Pantelis Kammas, who have also ventured into the history of nineteenth century Greek public finances. Jennifer Castle’s guidance in the implementation of impulse saturation methodology is also gratefully acknowledged. The usual disclaimers apply. The views expressed in this article are those of the author and do not necessarily reflect those of the Bank of Greece or the Eurosystem.
+Correspondence: Andreas Kakridis Bank of Greece, 21, El. Venizelos Ave, 10250, Athens, Greece e-mail: akakridis@bankofgreece.gr
+
+
+3
+“War involves in its progress such a train of unforeseen and unsupposed circumstances that no human wisdom can calculate the end. It has but one thing certain, and that is to increase taxes.” – Paine, Thomas (1787) Prospects on the Rubicon: or, an investigation into the causes and consequences of the politics to be agitated at the meeting of Parliament. London: J. Debrett. p. 5.
+1. Introduction
+The Balkan states that emerged in the nineteenth and early twentieth centuries
+were both bellicose – notoriously “producing more history than they can consume”1 
+and weak, in terms of their despotic and infrastructural power. Like Latin America,
+where several new states also gained their independence at this time, the Balkans have
+thus been used to challenge the applicability of “bellicist” theories of state formation
+(Maleševic, 2012; 2020), which link state capacity to interstate warfare (Tilly, 1975;
+Mann, 1986). Unlike Latin America, however, which has received extensive attention
+(Centeno, 2002; Soifer, 2015; Schenoni, 2021), Southeastern Europe has hitherto been
+excluded from empirical investigations, not least due to existing data limitations.
+This paper seeks to redress part of this imbalance by focusing on Greece from the
+1830s to the eve of the Second World War.2 Greek historiography has long lamented
+the cycles of public borrowing, overspending and default associated with Greece’s mil
+itary (mis)adventures during this time (Dertilis 2020). In this context, defense expend
+itures have invariably been seen as detrimental to economic development and state
+modernization.3 This paper takes a different view, arguing that wars increased the Greek
+state’s fiscal capacity, i.e., its ability to raise taxes.
+To this end, I construct a new dataset of public revenues and expenditures, offer
+ing improved estimates of taxes, civilian and military expenditures. Aggregates are re
+constructed from primary data to reflect standard definitions and ensure consistency.
+The paper thus contributes to recent attempts to increase the availability of quantitative
+1 Incorrectly attributed to Winston Churchill, the quip – which targets “the people of Crete”, rather than the Balkans, in the original – belongs to a fictional character in a short story titled “The Jesting of Arlington Stringham”, published in The Westminster Gazette on August 20, 1910 by British humorist Hector Hugh Munro’s (or Saki) and later included in Munro (1911). 2 Extending the analysis beyond 1939 would have been neither simple, nor interesting. Foreign occupation, civil war and extensive foreign aid inflows render data compilation and interpretation difficult for more than a decade. By the time the situation is normalized, the relative importance of military expenditures has declined substantially. 3 Only recently, have some historians attempted to highlight the state-building aspects of Greece’s irredentism and military expenditures (Kostis, 2018).
+
+
+4
+information on Southeastern Europe (Lazaretou, 2014; Morys, 2021). The dataset and
+methodology are discussed in Appendix A.
+While most applications of bellicist theory test the effect of actual wars on fiscal
+capacity (Besley and Persson, 2009; Dincecco and Prado, 2012; Sabate, 2016; Goenaga
+et al., 2023), this paper focuses on a broader set of mobilization episodes, defined as
+periods of heightened military spending. The innovation is inspired by the Balkan ex
+perience, where war threats and saber-rattling were commonplace in the nineteenth cen
+tury. Greek history alone offers several examples of large-scale military mobilizations
+– some with profound fiscal implications (Kakridis, 2018) – that did not escalate into
+war. My contention is that, if expensive enough, such episodes can produce the same
+fiscal pull as actual wars. From this perspective, the paper also interacts with the liter
+ature on the role of war threats and rivalries on state-building (Thies, 2004; 2005).
+The paper proposes two methods for detecting mobilization episodes and identi
+fies five such episodes in the Greek data. In line with bellicist theory, mobilizations are
+found to increase tax revenues in the long run. In Greece, the effect seems to be driven
+by indirect, rather than direct taxation. By contrast, contemporaneous effects are nega
+tive: tax revenues subside during mobilizations, presumably because of weaker en
+forcement and limited foreign trade. These findings seek to complement existing re
+search on the effect of wars in the long nineteenth and early twentieth century, albeit
+through a case study, rather than a panel comparison (Sabate, 2016; Goenaga et al.,
+2023).
+The above findings are confirmed when tax revenues, military and civilian out
+lays are included in a vector autoregression (VAR), along with mobilization episodes
+as exogenous shocks. Treating all three variables as endogenous while controlling for
+mobilizations, the VAR shifts emphasis to the effect of defense spending in normal
+times. Impulse response functions suggest that, even outside mobilization episodes, an
+increase in military outlays had a stronger positive effect on revenues, compared to an
+equal increase in civilian expenditures. While the use of multi-equation models to study
+the dynamic interaction of revenues with expenditures has a long history (Furstenberg
+et al., 1986), its use to test for bellicist effects is novel but constitutes a natural extension
+of this paper’s emphasis on defense expenditures.
+
+
+5
+A final methodological innovation concerns the use of indicator saturation meth
+ods (Castle and Hendry, 2019) and the autometrics selection algorithm (Doornik, 2009)
+to identify potential outliers and structural breaks, such as mobilization episodes. The
+method is flexible enough to accommodate different specifications and is completely
+agnostic; as such, it not only improves specification, but it also provides an interesting
+complement to historically informed approaches to identifying exogenous shocks.
+The rest of the paper is structured as follows. Section 2 reviews the relevant lit
+erature and explains the emphasis on mobilization. Section 3 provides some historical
+context on Greece and highlights its importance as a case study. Section 4 introduces
+the new data and applies two complementary methods to identify mobilization epi
+sodes. Section 5 then tests different aspects of the bellicist theory during, after and in
+between these mobilizations, confirming the relevance of bellicist theory to the Greek
+case.
+2. War and fiscal capacity
+2.1 Bellicist theories of state formation
+The nexus between war and taxation figures prominently in bellicist theories of
+state formation (Emmenegger and Walter, 2021). These are primarily (though by no
+means exclusively) associated with the work of Charles Tilly (1975; 1985; 1992), who
+considered warfare as a key vehicle of state transformation in early modern Europe. His
+famous dictum, “war made the state and the state made war” (Tilly, 1975: 42) hints at
+a process whereby wars force states to invest in the infrastructure and institutions nec
+essary to extract more resources – or die trying; wars thus act both as a transformative
+and a selective force, increasing the powers and capacity of (surviving) states.
+In this context, wars can impact several dimensions of state capacity, broadly de
+fined as the “the institutional capability of the state to carry out various policies” (Bes
+ley and Persson, 2011: 6). Wars have thus been known to stimulate significant legal,
+financial, and organizational innovations. Attention is usually focused on their effect
+on fiscal capacity, defined as states’ ability to extract resources through taxation. This
+is usually proxied by normalized tax revenues, without some controversy on the most
+appropriate metric (Savoia and Sen, 2015). Empirical support for the theory usually
+
+
+6
+takes the form of a positive conditional correlation between the past incidence of wars
+and modern taxation.
+While several variants of the bellicist theory have been put forward, most rely on
+some push/pull interaction. On the pull side, wars impose significant burdens, forcing
+the state to marshal additional resources to finance war efforts and compensate victims;
+on the push side, mobilization extends the state’s despotic and infrastructural powers,
+which are then used to extract more revenue (Finer, 1975; Mann, 1986). The latter pro
+cess may not be coercive, if war also increases people’s tolerance for higher taxes; if
+these taxes persist after the war is over, states ratchet up their resources over time (Pea
+cock and Wiseman 1961).
+In the decades since its original formulation, the bellicist thesis has been steadily
+challenged and refined. In the process, many authors have proposed various scope con
+ditions and elaborations. Thus, Besley and Persson (2008; 2009; 2011; 2012) modelled
+state-building as the outcome of strategic, forward-looking interactions between com
+peting political factions, each deciding how much to invest in a common-interest public
+good. While external threats encouraged the build-up of state capacity, civil war, polit
+ical instability, and ethnic heterogeneity worked against it. Karaman and Pamuk (2013)
+argued that mismatches between economic structure and political regime determined
+whether wars increased fiscal capacity: authoritarian regimes performed better in rural
+economies, while representative ones succeeded in urban settings. For their part, Gen
+naioli and Voth (2015) highlighted the importance of military technology and state
+fragmentation. Thus, wars only encouraged state-building after the Military Revolu
+tion, when money became important for military success; even so, divided states ra
+tionally dropped out of the race, producing divergent patterns of taxation.
+2.2 Extending the theory to the nineteenth century
+Attempts to extend the bellicist theory beyond Western Europe and the early mod
+ern period have yielded mixed results (Goenaga and Hagen-Jamar, 2018). Rather than
+seeking to confirm the theory’s transhistorical validity, modern research aims to un
+cover the circumstances when it applies. This has been easier to do for twentieth century
+conflicts, not least due to the significant impact of the two World Wars. By contrast,
+the nineteenth century has been given shorter shrift.
+
+
+7
+Industrialization, railroads, and mass conscription transformed warfare (Hoff
+man, 2015: 179-196), just as nationalism and the gradual expansion of the franchise
+altered the relationship between states and societies. There are thus good reasons to
+believe the dynamics of state-building changed in the nineteenth century. Yet several
+of these changes may well have strengthened the impact of warfare on fiscal capacity.
+Mass conscription and schooling extended the state’s administrative reach and social
+ized the population. In the age of nationalism, people became more willing to contribute
+toward national defense (Posen, 1993). New technologies increased the importance of
+money in warfare, thus increasing war’s fiscal implications. Indeed, by reducing the
+cost of mobilization, railways increased military outlays (Hoffman, 2015: 195).
+Building on these insights, Sabaté (2016) uses data on 16 countries from 1816 to
+1995 to confirm that changes in military tactics and technology maintained the effect
+of warfare on fiscal capacity, at least until the nuclear age. More recently, Goenaga et
+al. (2023) extend the sample to 27 American and European countries and focus on the
+years 1816-1913. Their results suggest only intense wars – as measured by the number
+of fatalities – triggered important increases in public revenues. Such wars, however,
+were rare at the time, due to the uneven diffusion of military technology.
+2.3 Wars, threats of war and mobilization episodes
+Does state-building require actual war, or is the threat of war just as effective at
+producing the hypothesized effect? Conscious of the difficulty in measuring the per
+ceived threat of war, most empirical researchers focus on actual wars, defined as epi
+sodes of sustained violence involving significant fatalities. Thus, the Correlates of War
+(CoW) project sets a threshold of 1,000 battle-related deaths to distinguish wars from
+other types of conflict (Sarkees 2010).
+Focusing on battle-deaths, however, produces a rather narrow concept of war.
+The point is best made by Thomas Hobbes, who reminds readers of his Leviathan
+(1651) that foul weather did not consist in “a shower or two of rain”, but in a general
+inclination to rain; similarly, “warre, consisteth not in Battell onely, or the act of
+fighting; but in a tract of time, wherein the Will to contend by Battel is sufficiently
+known” (Part I, chapter 13). What is more, the bellicist argument does not hinge on
+rainfall, but on people’s efforts to protect themselves against it. Thus, early
+
+
+8
+formulations of the theory also emphasized war preparation. As Centeno (2002, p. 266)
+notes: “it is not necessarily war itself, but the threat of war that often produces the pos
+itive state-building consequences”.
+But how can the threat of war be measured? One approach relies on the CoW list
+of Militarized Interstate Disputes (MIDs), which records all instances where one state
+has threatened, displayed, or used force against another since 1816. Drawing on this
+data, Cameron Thies (2004; 2005) used the concept of “interstate rivalries” (Diehl and
+Goertz, 2000) to identify strings of disputes that posed significant threats and found that
+while internal rivalries tended to undermine states, external rivalries increased their
+extractive capacity. The method has since been refined and applied to different regions
+and times.
+While the rivalry approach represents an important departure from narrow defi
+nitions of war, it faces three important limitations. First, rivalries endure over longer
+periods of time, whereas war-induced changes in fiscal capacity are often punctuated
+(Peacock and Wiseman, 1961; Rasler and Thomson, 2018). Testing his theory in Latin
+America, Thies (2005) finds evidence of a positive impact of rivalries on fiscal capacity,
+but admits these to be “long-term, slow-moving processes” (p. 463). Periods of rivalry
+may thus account for incremental changes, not major discontinuities in tax burdens.
+Second, rivalries are still defined in terms of actual disputes, some of which es
+calate into war. This means that no rivalry can pre-date the first dispute, or – as Hobbes
+might put it – there can be no foul weather without the first drop of rain. This is not
+always realistic: actual displays of hostility may well be the result of long-brewing in
+terstate tension. Nor is it necessarily relevant for the bellicist argument to work: people
+have been known to carry umbrellas, even on occasions when the sky looks menacing,
+but the weather stays dry. In fact, war preparations may end up averting outright con
+flict, something umbrellas unfortunately haven’t been able to do for rain!
+Finally, low-hostility disputes, such as threats or displays of force, do not neces
+sarily cause an increase in resource mobilization, not least because reactions depend on
+how each threat is perceived. But why focus on disputes, when the bellicist argument
+is driven by how states perceive and – most importantly – respond to those disputes?
+Why not focus directly on that response, i.e., on the resources mobilized to defend
+against any threat – irrespective of whether it leads to war?
+
+
+9
+This is the approach taken in this paper, where defense spending is used to capture
+fiscal pull. While the use of military expenditures to proxy episode intensity is not new
+to the literature (Sabaté, 2016), it has hitherto only been applied to pre-defined war
+episodes. In other words, given the outbreak of war, military spending has been used to
+measure intensity. Here we follow the opposite course: we use changes in military out
+lays to identify “mobilization episodes”, i.e., instances where interstate hostility is ac
+companied by increased fiscal pressure.
+3. War and state formation in Greece
+Having fought a protracted war against the Ottoman empire in the 1820s, Greece
+emerged as a tiny independent kingdom on the tip of the Balkan peninsula in 1830. Its
+borders were finalized two years later, after Britain, France and Russia interceded with
+the Ottomans; the three Great Powers also guaranteed a sizeable loan to the new state
+– not least to help convince the Bavarian prince Otto to accept the country’s throne.
+Greece was thus born as part of the Eastern question, which concerned the fate of the
+ailing Ottoman Empire and its European lands. Its own irredentist aspirations were soon
+pitted against those of its neighbors, as nationalism spread across the Balkans (Koli
+opoulos and Veremis, 2009). Thus, the country strove to modernize and become a
+“model [Western] kingdom in the East” (Skopetea, 1988).
+Modernization proved challenging. Ravaged by war, Greek lands were sparsely
+populated, predominantly agrarian and extremely poor. The new state edifice had to
+erected from scratch and with minimal resources (Kostis, 2018). What is more, it had
+to be established to mark a break, rather than continuity with the Ottoman past:
+longstanding rules and institutions were thrown out, as Western legal, military, and ad
+ministrative practices were imported. The significant expenses and setbacks that
+marked the first years of the Bavarian regency are telling of the difficulties involved in
+grafting western institutions onto a Balkan agrarian society. State-building proceeded
+apace with nation-building (Mishkova, 1994). Mass schooling was introduced as early
+as 1834, but implementation remained sketchy for almost a century. The regency at
+tempted to replace irregular armed bands with a modern army and introduced mass
+conscription as early as 1837; both reforms were heavily resisted, and army moderni
+zation only got underway in earnest in the late nineteenth century (Malesis, 2018).
+
+
+10
+Despite facing several setbacks, Greece succeeded in gradually expanding its bor
+ders to include the Ionian islands (1864), Thessaly (1881) and – in the aftermath of the
+Balkan wars of 1912-13 – Epirus, Crete, and most of Macedonia. Rapid territorial ex
+pansion strained the existing state apparatus and sowed the seeds of discontent, which
+germinated during the 1915-17 period of “National Schism”. A dispute between the
+king and his government concerning Greece’s role in the First World War divided the
+country: while the “old” territories in the south remained loyal to the king, who favored
+neutrality, the “new lands” sided with the Prime Minister Eleftherios Venizelos, who
+invited Entente troops to land in Macedonia. By 1917, Venizelos had prevailed, and
+Greece joined the war on the winning side, making additional territorial gains in the
+Aegean and Thrace, and establishing a foothold in Asia Minor. Defeat in the Greek
+Turkish war of 1920-22, however, pushed the Greek border back and displaced hun
+dreds of thousands of Christians. The Treaty of Lausanne (1923) settled countries’ bor
+ders and formalized the forced population exchange between Greece and Turkey. This
+marked the end of Greece’s irredentist aspirations and a shift in its foreign policy, which
+henceforth sought to temper the revisionism of its neighbors.
+Several aspects of this story render the first century of Greece’s history an inter
+esting case. The belligerence that came part and parcel with the country’s precarious
+geopolitical position and territorial revisionism is the most obvious one. Drawing on
+data from the Correlates of War project, Figure 1(a) shows the distribution of war-years
+by state for the 1816-1939 period. Out of a total of 93 sovereign states recognized dur
+ing those years, 60 became involved in at least one war; multiplying by the number of
+years yields a total of 380 war-years. With five episodes and 14 war-years, Greece thus
+ranks eighth globally – the first country on the list to not be a major power.4
+A similar pattern emerges if we use a lower hostility threshold to include all Mil
+itarised Interstate Disputes (MIDs), not just wars. Figure 1(b) shows the distribution of
+MID-years across states. Factoring in dispute duration yields a total of 2,118 dispute
+years, distributed across 79 (of the 93) sovereign states; Greece now ranks fifteenth,
+flanked by several Latin American states, while major powers still top the list.
+4 The Greek War of Independence, which took place before Greece was recognised as a sovereign state (1821-28), is not included in this calculation. The full list of the 32 Greek MIDs (and 45 dispute-years) can be found in Appendix B.
+
+
+11
+The adjustment to include “lesser” disputes is particularly pertinent to Greece,
+where most nineteenth century episodes were not outright wars: diplomatic disputes
+and revolts by Greek orthodox populations living in Ottoman lands (Thessaly, Mace
+donia, Crete, etc.) regularly prompted the Greek state to mobilize its military. Sabre
+rattling was commonplace, border skirmishes sometimes broke out and irregular troops
+were often sent to support insurgents (Koliopoulos, 1987; Batalas, 2003). Some epi
+sodes escalated into more serious conflagrations, as in 1897, but fatalities were few and
+most disputes ended swiftly – often with the intercession of the Great Powers.
+Yet “lesser” militarized disputes also cost money. Focusing on the defense ex
+penditures of 16 (mostly) European states between 1870 and 1913, Eloranta (2007) es
+timates a mean “military burden” between 2–4% of GDP, with a standard deviation
+close to one percentage point. By contrast, even if one were to exclude the Balkan wars
+of 1912-13, Greece’s military burden over the same period is 6.8%, with a standard
+deviation of 4.4% (Section 4) – more than any country in Eloranta’s sample. Thus, even
+in relatively peaceful times, Greece faced considerable fiscal pressure from its military
+outlays.
+4. (New) data and the identification of mobilization episodes
+This paper uses on a new set of Greek public finance data for 1833-1939, derived
+from published “Statements of Revenues and Expenditures of the Greek state”. These
+report annual central government outturns, published intermittently until 1940. Deriv
+ing consistent historical series from thousands of disparate entries made over a century
+of shifting accounting and reporting standards is no easy task. Neither is reading about
+it, so details have been relegated to a lengthy Appendix A, which also explains why
+other revenue and expenditure aggregates are not sufficiently reliable to use in some
+econometric applications.
+4.1 Revenues
+On the revenue side, the dataset builds on Dertilis (1993) and Prontzas et al.
+(2011), who compiled the first historical revenue dataset for 1833-1939. This comprised
+approx. 25,000 data points of different revenues, which were used as a starting point.
+After some initial corrections, each revenue type was re-classified into one of several
+
+
+12
+categories to derive consistent aggregates (Appendix A, Section A3.1). Given the pa
+per’s emphasis on fiscal capacity, priority was given to distinguishing taxes from eve
+rything else.
+The most important aggregates are shown in Figure 2. Revenues have been nor
+malised by GDP. The overall pattern shows a slow decline until the early 1860s, fol
+lowed by an unsteady increase; the 1915-17 civil war and concomitant Entente block
+ade takes a toll on state income, particularly tariffs; revenues recover in the 1920s,
+which witness a staggering increase in tax burdens, only tempered by the consequences
+of the Great Depression and the collapse of foreign trade. The share of income extracted
+by taxes is significant, compared to rich countries at the time (Piketty, 2014: figure
+13.1); taking local taxes into consideration, raises the tax burden further (Kostis, 2006).
+As for the tax structure, the data confirms the increase of indirect over direct taxes
+identified by Dertilis (1993) and Kammas and Sarantides (2020). Direct taxes consist
+primarily of taxes on agricultural products and land; income taxes were gradually in
+troduced in the early twentieth century, but their role remained minimal.
+4.2 Expenditures
+Data challenges were greatest on the expenditures side, where no detailed histor
+ical dataset has been published. The existing estimates included in the SEEMHN database
+(Lazaretou, 2014) draw on unpublished data from Antoniou et al. (1999), whose meth
+odology is opaque (see Appendix A). Thus, a further 10,000 data points were copied
+manually from published outturns and used to derive new estimates of military and
+civilian spending. Military expenditures were compiled in line with the SIPRI/NATO
+definition and are the first such historical estimates for Greece; its principal components
+are outlays by defense ministries, military pensions, and transfers to special Defense
+Funds.
+Civilian expenditures were calculated residually. A key problem arose from the
+fact that debt service expenditures included payments of both interest and principal,
+even though the latter do not alter the central government’s net worth; similarly, loans
+to third parties and asset purchases were also recorded as expenses, distorting the totals.
+Disentangling these effects meant going over individual accounts to determine whether
+they concerned interest payments, fees, capital, or amortization. Thus, the new dataset
+
+
+13
+is the first to distinguish between primary civilian expenditures, interest on public debt
+and other transactions that do not alter the state’s net worth, such as loans to third par
+ties.
+Figure 3 plots the main aggregates and calculates the defense share (Eloranta,
+2007), i.e., the share of military expenditures in total outlays.5 Public spending starts
+out high and declines until it reaches a plateau of around 15% of GDP in the mid-nine
+teenth century. This reflects the sizeable “setup costs” associated with early stages of
+state-building (Kostis, 2006: 295); in these early years, military outlays were inflated
+by the presence of a sizeable contingent of foreign troops, who had accompanied the
+new Bavarian king. Such profligacy was made possible by the 1832 loan; once that ran
+out, Greece defaulted on its foreign debt, and expenditures shrank. A settlement with
+foreign creditors came in the late 1870s and coincided with a second period of increased
+spending. These were partly loan-financed, at least until the country defaulted again in
+1893. Public spending increased rapidly during the 1912-22 war period, albeit with a
+clear break during the civil war years of 1915-17.
+4.3 Identifying mobilization episodes
+On average, defense accounts for 37% of total public spending between 1833 and
+1939. At times of military mobilization, however, military expenditures rise substan
+tially. In line with the argument made in Section 2.3, spikes in military spending are
+used to identify mobilization episodes. Identification can either rely on a heuristic or a
+statistical algorithm; both require some help from history.
+How much must military spending increase to mark the onset of a mobilization
+episode? A simple rule of thumb would be to compare military expenditures to some
+“normal times” baseline. This threshold could be an n-year moving average, provided
+it only takes into consideration the last n non-mobilization years, so it excludes past
+5 It is worth mentioning that this data diverges considerably from the unpublished Antoniou et al. (2001) data reproduced in the SEEMHN database. Correlation between two series is less than 80%, dropping to 50% when it comes to military expenditures. These are substantial differences, especially when it comes to empirical applications. While Antoniou doesn’t explain his methodology in sufficient detail, comparison with our data suggests those series includes outlays for refugee settlement, but ignore the substantial outlays siphoned to off-budget “special funds”, used to pay for most military procurement in the early twentieth century (see Appendix A).
+
+
+14
+episodes.6 Figure 4 plots the share of military expenditures in GDP (military burden),
+along with a 3-year adjusted moving average, which serves as the baseline.7 Whenever
+military outlays exceed last year’s baseline, the chart also reports the relative size of the
+excess (bar chart, right axis).
+The next step is to determine the appropriate threshold: the higher the bar, the
+fewer episodes are identified. Here is where the historical context helps, not least to
+minimize the risk of endogeneity: identifying only those episodes associated with ex
+ogenous shocks. In the Greek case, a 100% threshold – signaling a doubling of military
+spending relative to the baseline – captures all war episodes, along with two low-hos
+tility episodes: one is the prolonged mobilization between 1879-81, when Greece
+pressed the Ottomans to cede Thessaly, as stipulated in the Berlin Treaty of 1878. Mil
+itary outlays spiked and the conscription laws were overhauled, even though not bullet
+was fired until Thessaly joined Greece, in 1881.
+The second episode starts in 1885, following Bulgaria’s annexation of Northern
+Thrace, which Greece and Serbia protested. Seeking equal territorial compensation,
+Greece mobilized its army and threatened to invade the Ottoman empire. The interces
+sion of the Great Powers eventually forced Greece to stand down, but mobilization took
+a heavy toll on public finances. The incident is remembered as the “peaceful war” of
+1885-86. A similar mobilization after the 1867 revolt on Crete fell short of the thresh
+old. On the other hand, 1914 and 1923 were both flagged, even though they came im
+mediately after the end of major wars. Their defense expenditures probably capture the
+fiscal aftershock of recent wars.
+A more technical approach would be to model military expenditure as an AR(n)
+autoregressive process, and then test the stability of the intercept to identify potential
+breaks. Given the uncertainty in the number, timing and type of breaks, this paper relies
+on indicator saturation (Castle et al., 2012). The method essentially treats each data
+point as a potential outlier and uses the autometrics selection algorithm (Doornik, 2009)
+to arrive at the smallest number of potential outliers. A further advantage of the
+6 A simple moving average would drift upwards during an episode, and thus fail to identify the later years of a protracted incident. 7 One implication of eliminating (past) mobilization episodes when estimating the moving average is that this makes the average dependent on the threshold set to identify mobilization years; in Figure 4, the threshold is set at 100%.
+
+
+15
+approach is that it also tests for contiguous impulses of the same sign and magnitude,
+replacing them with steps (Castle et al., 2015).
+Up to four lags were tested, with the algorithm opting for AR(1), along with sev
+eral impulses and steps selected at .1% significance. The full regression results are re
+ported in Appendix C, but Figure 5 plots the estimated intercept adjustments. Given the
+persistence inherent in any AR process, the method is best at detecting the onset of each
+episode. The end is only identified when accompanied by sharp drops in outlays (1882,
+1887, 1898); when the decline is smoother, it is absorbed by the autoregressive compo
+nent. More generally, some high-expenditure years are not flagged, because of the
+lagged effect of the previous (high-expenditure) year (e.g. 1885, 1920, 1922). Indicator
+saturation also flags 1916 as a year with a negative shock in expenditure, no doubt due
+to the National Schism.
+Both algorithms thus converge on the same five episodes, some of which bundle
+successive wars together. By placing defense burdens centre-stage, the algorithms also
+ignore most low-hostility MIDs: of the 45 dispute-years on Figure 1(b), only 13 belong
+to mobilization episodes.
+The proposed approach is more data intensive, compared to the conventional use
+of wars and fatalities, but offers two main advantages. First, it identifies those disputes
+that are most likely to impact fiscal capacity, even if they do not escalate into outright
+war. Second, it can also be used to measure episode intensity, not in terms of fatalities,
+but in terms of the additional defense burden imposed. Defining this in percentage
+points of GDP over the benchmark, Table 1 ranks the five episodes by their “fiscal
+intensity”. Episodes such as the 1879-81 mobilization, which imposed an extra 47.1
+percentage points of GDP in military expenditures now appear to have greater fiscal
+implications than some actual wars, such as the brief 1897 Greek-Turkish war.
+5. Hypotheses and results
+Having defined and identified mobilization episodes, we can now test different
+aspects of the bellicist theory on the new data for Greece. The core contention is that
+fiscal capacity – proxied by tax revenues as a percentage of GDP – increases after mo
+bilization episodes. Thus, if a country experiences war from t1 to t2, most models test
+whether revenues have increased at some later time tn (Figure 6). But as temporal
+
+
+16
+distance increases, the causal link between war and taxation becomes weaker (Goenaga
+and Hagen-Jamar, 2018). What is more, this long-term, legacy effect says nothing about
+the transition from one state to the other, or the taxes used to make it happen.
+In what follows we distinguish between the contemporaneous and permanent, or
+legacy effects of mobilization episodes. Starting with the latter, our basic hypothesis is
+that post-mobilization tax revenues are higher than those prevailing before
+(RT2>RT1). What is more, the aggregate legacy effect can be divided between direct
+and indirect taxes.
+Contemporaneous effects are harder to pin down. On the one hand, hostilities may
+have a disproportionately negative impact on some types of tax revenue (e.g., tariff
+revenues when war disrupts trade). Alternatively, increased fiscal pressure may lead to
+new taxes or increased collection effort. One can thus envision at least three distinct
+scenarios, which Figure 6 presents in a stylized fashion. Two are consistent with Pea
+cock and Wiseman’s (1961) displacement effect but differ in the extent to which war
+time revenues (a) over- or (b) under-shoot their post-war levels. Scenario (c) entails a
+revenue dip during the mobilization episode, followed by disproportionate post-war
+increase.
+5.1 Mobilization episodes and tax capacity in Greece
+To test the legacy effect of each mobilization and distinguish between the three
+scenarios, we first use OLS to estimate the following model:
+TRt = ao + a1TRt−1 + ∑ ci
+in=1 Wit(Ii) + ∑ pi
+in=1 PWit(Ii) + a3zt + εt (1)
+where TRt are tax revenues in year t, expressed in percentage points of GDP. Normali
+zation by GDP not only helps overcome the challenge posed by Greece’s shifting bor
+ders, but also ensures stationarity.8 The autoregressive component is a staple feature
+(Sabaté, 2016) that helps tackle autocorrelation. Wit are indicator variables that take the
+value one during episode i, while PWit are step variables set to unity after episode i
+(total episodes n). Thus, assuming a1<0, each mobilization episode can have a contem
+poraneous effect ci, which will dissipate over time, as well as permanent effect that will
+increase long term revenue by pi (1 − a1)
+⁄ . The variable Ii stands for episode intensity.
+8 All normalized series were tested for stationarity; given the nature of the series, unit root tests with one and two unknown breaks (Vogelsang and Perron, 1998; Lee and Strazicich, 2003) were preferred over conventional tests.
+
+
+17
+Control variables are captured by the vector zt. This includes indicator variables
+to single out civil war years 1915-17, as well as two step indicators capturing the after
+math of the 1893 and 1932 defaults. The log of real per capita GDP is also included, to
+capture potential Wagner-style effects, although those are unlikely, given how new ter
+ritories usually had lower living standards, causing temporary setbacks in per capita
+GDP.
+The results are reported in Table 2.9 Model 1 offers the baseline specification
+without taking intensity into consideration (Ii = 1); Models 2-4 scale episode effects
+by intensity (so Ii take the values in Table 1); this doesn’t alter the model fit, but helps
+coefficient comparisons. Models 3 and 4 replace total tax revenues with direct and in
+direct taxes respectively.
+Several interesting results emerge. First, far from boosting fiscal capacity, mobi
+lization episodes tend to reduce revenues. The effect tends to be stronger on direct taxes,
+suggesting a possible easing of tax yields from and/or tax pressure on agriculture in
+periods when much of the peasantry is also called upon to serve in the army.
+Second, the “legacy” effects of mobilization episodes are consistent with bellicist
+theory. All five mobilization episodes seem to increase tax revenues by 0.75% to 3.7%
+of GDP, compared to their starting point; the effects are significant in all but the brief
+1897 war.10 In most cases, this ratcheting of total revenues was driven by indirect, rather
+than direct taxation. After 1922, when tax revenues increased rapidly, indirect taxes
+climbed even faster to compensate for a drop in direct taxes, caused by a mixture of
+low yields and tax leniency toward refugee farmers (Petmezas 2012).
+Third, not all mobilization episodes are the same. Scaling by intensity brings im
+pact coefficients closer together, but differences persist.11 The Greek-Turkish war of
+1920-22 may have had the largest total impact, but – when scaled by intensity – had a
+lower “bang per buck”, compared to 1885-86. Most importantly, non-war episodes do
+not seem to have systematically smaller effects, compared to outright wars. Greek fiscal
+9 The results are robust to alternative specifications, such as the inclusion of additional lags (up to four lags were tested, but none but the first one was found significant) and the exclusion of non-significant controls; inclusion of “borderline” episodes, such as the Cretan Revolt of 1867-68 was also attempted but found insignificant. Residuals were normal in all specifications. 10 These estimates are based on the pi (1 − a1)
+⁄ formula, i.e. they are the long-run multipliers. 11 F-tests on all contemporaneous (ci = c̅) and legacy (pi = p̅) coefficients reject the null hypothesis of equality.
+
+
+18
+capacity thus seems to have expanded in two waves. The first came in the mid-1880s,
+after competition with other Balkan states for Ottoman lands increased, although no
+war broke out; this is the time of the Trikoupis reforms, many of which were explicitly
+aimed at both military preparation and tax reform (Kostis 2018). The second wave the
+watershed of the First World War and the failed Asia Minor campaign, which imposed
+an unprecedented fiscal burden on the Greek economy.
+The Greek evidence also seems consistent with Scenario (c): mobilizations cause
+a temporary drop in tax revenues, followed not only by full recovery, but a permanent
+increase in revenues. Different revenue trajectories are related to different strategies of
+war finance: raising more taxes is only one way of paying for increased military ex
+penditure, with alternatives ranging from foreign loans and war bonds to money print
+ing and cut-backs in civilian spending (Capella-Zielinski, 2016).
+Greece’s revenue trajectories, as well as more detailed historical evidence suggest
+military mobilizations were loan financed (Kakridis, 2018). Within the bellicist litera
+ture, several authors have suggested that the availability of credit loosens the pull of
+military spending. Thus, Centeno (2002) has famously argued that Latin American war
+fare in the nineteenth century led to cycles of “blood and debt” rather than state-building
+(cf. Thies, 2005). In practice, however, most wars are primarily financed through some
+form of borrowing (Capella-Zielinski, 2016). Besides being politically expedient, this
+is also the optimal response to a temporary increase in expenditure, given how taxes are
+distortionary (Barro, 1979). What is more, the Ricardian equivalence suggests that even
+loan-financed expenses will – sooner or later – mandate higher taxes. Conversely, Quer
+alt (2019) has argued that the Ricardian equivalence does not hold in the presence of
+external debt relief or nontax revenues; using nineteenth-century data from 100 coun
+tries, he finds that wars were only conducive to stronger states when tax financed.
+By contrast, the Greek case suggests even debt-financed mobilizations increase
+fiscal capacity. Of course, greater reliance on tax-finance might have boosted post-war
+gains in fiscal capacity even further – a counterfactual our case study cannot rule out.
+At the very least, however, our evidence suggests that link between war and taxation is
+not broken by the presence of credit. Before issuing new loans, Greece’s nineteenth
+century creditors invariably asked for guarantees, in the form of pledged revenue
+streams. Thus, in a pattern common to Balkan states, even though military preparations
+were loan financed, these loans invariably stimulated discussions of new taxes and
+
+
+19
+monopolies, that could be pledged to improve access to credit (Tunçer, 2015; Kakridis,
+2018).
+5.2 Military expenditure and tax revenue: a VAR approach
+The previous section focused on the effects of mobilization episodes. But what
+about military preparation and defense spending in normal times? Do they influence
+tax revenues? If so, is their influence any different from that of civilian expenditures?
+To answer this question, this section models the dynamic interaction of tax revenues,
+military, and civilian expenditures through vector autoregression (VAR).
+The principal advantage of the VAR approach is that it treats all variables as (po
+tentially) endogenous. Endogeneity concerns are easier to dismiss when focusing on
+sharp discontinuities like mobilization episodes, whose outbreak is rarely driven by tax
+revenue or civilian spending. This is not true outside mobilization years, when the size
+of the defense budgets may not only influence tax policy, but also be determined by the
+available fiscal space. As a matter of fact, this question underpins much of the tax-and
+spend vs. spend-and-tax literature in public finance (Furstenberg et al., 1986), which
+relies on similar methods, albeit without distinguishing between different types of
+spending. Recently, Kolias et al. (2021) used seemhn public expenditure data to test for
+the effect of military spending on growth (not tax revenues); data quality issues aside,
+the use of a single-equation autoregressive distributed lag (ARDL) model fails to ad
+dress endogeneity concerns as effectively as the VAR approach does.
+Starting with an unknown number of lags k, the VAR(k) specification can be
+written as an extension of the autoregressive model used in the previous section:
+yt = a0 + A1 yt−1 + ⋯ + Ak yt−k + C wt + P pwt + ΦZt + εt
+Where yt = (TRt, Mt, Ct)′ is the vector of endogenous variables, where TRt, Mt
+and Ct to denote tax revenues, military and civilian expenditures (as p.p. of GDP). Ai
+are 3 × 3 fixed coefficient matrices, wt = (W1t, W2t, ... , Wnt)′ and pwt =
+(PW1t, PW2t, ... , PWnt)′ are vectors of the familiar indicator variables for the contem
+poraneous and legacy effects of each of n mobilization episodes. C and P are 3 × n
+fixed coefficient matrices, while Zt is a vector of exogenous controls, such as the 1893
+and 1932 trade crises/defaults and the 1915-17 civil war.
+
+
+20
+The inclusion of mobilization episodes as exogenous shocks is important to the
+model’s interpretation: impulse responses using this VAR highlight the effect of in
+creases in military expenditure in normal times, while the effect of mobilization epi
+sodes are mopped up by wt and pwt. Indeed, estimates for C and P confirm the neg
+ative contemporaneous but positive legacy effect of mobilizations (see Table D.2 in
+Appendix D). In other words, the results found in a single-equation framework hold up
+in the three-equation model.
+While up to five lags were tested, VAR(1) was ultimately selected. Consistent
+with the tax-and-spend hypothesis, Granger causality tests found evidence of taxes in
+fluencing civilian spending; the same was not true of defense outlays, suggesting that
+– even in normal times –fiscal space was a lesser consideration when determining mil
+itary expenditures. At the same time, there is some evidence to suggest that military
+spending influenced tax revenues.12
+The dynamic is further explored in Figure 7, which plots the cumulative response
+of tax revenues to identical shocks to military or civilian expenditures. Following Pe
+saran and Shin (1998), generalised impulses are used to detract the effects of endoge
+nous variable ordering. The results suggest that, even in normal times, an increase in
+military outlays would have a stronger cumulative effect on revenues. Specifically, one
+p.p. of GDP of extra spending on defense would raise tax revenues by .85 p.p. within
+five years; conversely, the same amount spent for civilian purposes would only raise
+tax revenues by 0.47 p.p. of GDP. The evidence thus points to a “slow-moving process”
+whereby military outlays fuel fiscal capacity outside periods of war mobilization.
+5.3 Using indicator saturation to derive exogenous shocks
+So far, our analysis has proceeded sequentially: mobilization episodes were first
+identified and later treated as exogenous in a three-equation model with tax revenues,
+military and civilian expenditures. But why not combine the two processes? Indicator
+saturation can be used directly on the VAR model to determine both the appropriate
+length and any exogenous shocks (Castle and Hendry, 2019). What is more, this ap
+proach would not only identify shocks to military expenditures, but also any outliers or
+12 The effect is significant only at 10%, unlike the effect of taxes on civilian spending, which is significant at .1%; details of Granger causality tests can be found in Appendix D, Table D3.
+
+
+21
+discontinuities in the other two series (tax revenues and civilian spending), which may
+lead to misspecification in the original VAR.
+The previous VAR(k) model was thus re-estimated without any a priori exoge
+nous controls, using impulse saturation and the autometrics selection algorithm (Door
+nik, 2009). As before, up to four lags were tested but the final model only included one.
+Figure 8 identifies the shocks found significant at the .1% level in each of the three
+series, along with their impact on the model intercept. As expected, the shocks in the
+military expenditure series match the mobilization episodes identified in section 4.3,
+albeit with some minor timing differences. The impact of the 1915-17 civil war is evi
+dent in all three series, while defaults mainly affect civilian outlays (because of the
+effect on interest payments). Most significantly, when it comes to the tax revenues se
+ries, the algorithm picks up on the two waves of exogenous tax increases, one in the
+mid-1880s and the other in the aftermath of the First World War. Estimation via impulse
+saturation improved the three-equation VAR model diagnostics, without altering any
+of the main conclusions (Appendix C, Section 2). The immediate effect of mobilization
+episodes on tax revenues remained negative, while legacy effects remained positive.
+The results of the Granger causality tests are broadly in line with those of the previous
+VAR model, with one additional finding: military outlays do not only affect taxes, but
+taxes also seem to feed back into military outlays. By contrast, civilian expenditures are
+influenced by taxes but don’t seem to affect their future trajectory.
+Much like the original VAR(1) model, the impulse response function confirms
+the difference in the response of tax revenues to a one p.p. of GDP increase to military
+vs. civilian outlays. The estimated difference increases slightly (Figure 9), not least due
+to the feedback-loop between taxes and military outlays identified by the Granger cau
+sality tests.
+6. Conclusion
+A state in state-building overdrive, born in a volatile geopolitical environment
+and plagued by wars of different intensity and duration, Greece presents an interesting
+test subject for the effect of war on fiscal capacity. And yet the country, much like the
+Balkans in general, has been excluded from most empirical tests, not least because of
+data limitations.
+
+
+22
+Constructing a new dataset of Greek public revenues and expenditures for the
+years 1833 to 1939, this paper finds that war mobilizations undermined tax revenues in
+the short run, but helped the Greek state increase its fiscal capacity in the long run.
+Overall tax revenues increased in two “waves”, one in the 1880s and one in the 1920s.
+Both came on the heels of major spikes in defense outlays; both relied primarily on
+indirect, rather than direct taxes and were linked to expectations of new loans, to help
+refinance (expensive) wartime debt. What is more, even in normal times, military ex
+penditures seem to have had a stronger impact on taxes, at least when compared to
+civilian outlays.
+Greek historians have long taken a grim view of the country’s military (mis)ad
+ventures in the long nineteenth and early twentieth centuries, which diverted resources
+from civilian uses and fueled cycles of debt and default (Dertilis, 2020). This paper
+argues that, despite the waste and disruption they caused, if not because of them, mo
+bilization episodes helped the Greek state impose and collect higher taxes. It thus offers
+a quantitative complement to the argument made by Kostis (2018), who points at sev
+eral qualitative changes in the Greek state’s infrastructural powers, stimulated by mili
+tary needs: improved population statistics for conscription, improved public health pol
+icy, new transport infrastructure, police reform, and other measures that are less easy
+to quantify and test empirically.
+While focused on Greece, the paper also hopes to contribute to the broader belli
+cist literature. First, by shifting attention from war per se to mobilization episodes, de
+fined as significant shocks to military outlays, capable of exerting similar fiscal pres
+sure. Secondly, by proposing the use of indicator saturation and the autometrics selec
+tion algorithm, along with vector autoregression, to identify (exogenous) mobilizations
+and distinguish between their effects and the “slow and gradual process” whereby mil
+itary build-up may influence fiscal capacity in normal times. Future research can test
+whether these methods can be usefully extended to other regions – and add a few Greek
+data points to their samples!
+
+
+23
+References
+Antoniou, A., Kostelenos, G. and Kaskarelis, Y. (1999) Dimosies Dapanes tou Neoellinikou Kratous [Public expenditures of the Greek state]. Unpublished manuscript.
+Barro, R.J. (1979). ‘On the determination of the public debt’, Journal of Political Economy, Vol. 87, pp. 940–971.
+Batalas, A. (2003). Send a Thief to Catch a Thief: State-Building and the Employment of Irregular Military Formations in Mid-Nineteenth Century Greece. In: Davis, D.E. and Pereira, A.W. (Eds), Irregular Armed Forces and their Role in Politics and State Formation. Cambridge University Press, Cambridge, pp. 149–177.
+Besley, T. and Persson, T. (2008). ‘Wars and State Capacity’, Journal of the European Economic Association, Vol. 6, pp. 522–530.
+Besley, T. and Persson, T. (2009). ‘The Origins of State Capacity: Property Rights, Taxation and Politics’, American Economic Review, Vol. 99, pp. 1218–1244.
+Besley, T. and Persson, T. (2011). ‘Fragile States and Development Policy’, Journal of the European Economic Association, Vol. 9, pp. 371–398.
+Besley, T. and Persson, T. (2012). Pillars of Prosperity: The Political Economics of Development Clusters. Princeton University Press, Princeton and Oxford.
+Cappella-Zielinski, R. (2016). How states pay for wars. Cornell University Press, Ithaca.
+Castle, J.L., Doornik, J.A., and Hendry, D.F. (2012). ‘Model selection when there are multiple breaks’, Journal of Econometrics, Vol. 169, pp. 239–246.
+Castle, J.L., Doornik, J.A., Hendry, D.F., and Pretis, F. (2015). ‘Detecting location shifts during model selection by step-indicator saturation’, Econometrics, Vol. 3, pp. 240–264.
+Castle, J.L. and Hendry, D.F. (2019). Detectives of Change: Indicator Saturation. In: Castle, J.L. and Hendry, D.F. (Eds), Modelling our Changing World. Palgrave Texts in Econometrics. Palgrave Pivot, Cham, pp. 67–84.
+Centeno, M.A. (2002). Blood and Debt: War and the Nation-State in Latin America. The Pennsylvania State University Press, University Park, PA.
+Dertilis, G.B. (1993). Atelesforoi i Telesforoi: Foroi kai Eksousia sto Neoelliniko Kratos [Effective or not? Taxes and Authority in the Modern Greek state]. Alexandreia, Athens.
+Dertilis, G.B. (2020). Epta Polemoi, Tesseris Emfylioi, Epta Ptocheyseis, 1821-2016 [Seven wars, four civil wars, seven defaults, 1821-2016]. Gutenberg, Athens.
+Diehl, P.R. and Goertz, Gary (2000). War and Peace in International Rivalry. Ann Arbor, University of Michigan Press, MI
+
+
+24
+Dincecco, M. and Prado, M. (2012). ‘Warfare, fiscal capacity, and performance’, Journal of Economic Growth, Vol. 17, pp. 171–203.
+Doornik, J.A. (2009). Autometrics. In: Castle, J.L. and Shephard, N. (Eds), The Methodology and Practice of Econometrics: A Festschrift in Honour of David F. Hendry. Oxford Academic, Oxford, pp. 88–121.
+Eloranta, J. (2007). ‘From the great illusion to the Great War: Military spending behaviour of the Great Powers, 1870-1913’, European Review of Economic History, Vol. 11, pp. 255–283.
+Emmenegger, P. and Walter, A. (2021). War and taxation: the father of all things or rather an obsession. In: Hakelberg, L. and Seelkopf, L. (Eds), Handbook of the Politics of Taxation, Edward Elgar, Cheltenham, pp. 32–46.
+Finer, S. (1975). State and Nation-Building in Europe: The Role of the Military. In: Tilly, C. (Ed), The formation of National States in Western Europe. Princeton University Press, Princeton, NJ., pp. 84–163.
+(von) Furstenberg, G.M., Green, J.R. and Jeong, J.-H. (1986). ‘Tax and spend, or spend and tax?’, Review of Economics and Statistics, Vol. 68, pp. 179–188.
+Gennaioli, N. and Voth, H.-J. (2015). ‘State Capacity and Military Conflict’, Review of Economic Studies, Vol. 82, pp. 1409–1448.
+Goenaga, A., Sabaté, O. and Teorell, J. (2023). ‘The state does not live by warfare alone: War and revenue in the long nineteenth century’, Review of International Organizations, Vol. 18, pp. 393–418.
+Goenaga, A. and (von) Hagen-Jamar, A. (2018). When does war make states? War, rivalries and fiscal extraction in the nineteenth and twentieth centuries. In : Bartelson, J., Hall, M. and Teorell, J. (Eds), De-Centering State Making: Comparative and International Perspectives. Edward Elgar Publishing, Cheltenham and Northampton, MA, pp. 85–111.
+Hoffman, P.T. (2015). Why did Europe conquer the world?. Princeton University Press, Princeton, NJ
+Kakridis, A. (2018). ‘I Ptocheysi tou 1893 kai o Diethnis Oikonomikos Elegxos’ [The 1893 default and International Financial Control], Neoellinika Istorika, Vol. 5, pp. 196–240.
+Kammas, P. and Sarantides, V. (2020). ‘Democratisation and tax structure in the presence of home production: Evidence from the Kingdom of Greece’, Journal of Economic Behavior & Organization, Vol. 177, pp. 219–236.
+Karaman, K.K. and S. Pamuk (2013). ‘Different paths to the modern state in Europe: The interaction between warfare, economic structure, and political regime’, American Political Science Review, Vol. 107, pp. 603–626.
+Kollias, C., Zouboulakis, M., Paleologou, S.-M., and Tzeremes, P. (2021). ‘Public Spending and Its Impact on the Pre-WWII Greek Economy: A Comparative
+
+
+25
+Analysis for Civilian and Military Expenditure’, Journal of European Economic History, Vol. 50, pp. 49–70.
+Koliopoulos, J.S. and Veremis, T.M. (2009). Modern Greece: a history since 1821. Wiley-Blackwell, Malden, MA
+Koliopoulos, J.S. (1987). Brigands with a Cause: Brigandage and Irredentism in Modern Greece, 1821-1912. Clarendon Press, Oxford
+Kostis, K. (2006). Dimosia Oikonomika [Public Finance]. In: Kostis, K. and Petmezas, S. (Eds), I anaptyxi tis ellinikis oikonomias ton 19o aiona [The development of the Greek economy in the nineteenth century]. Alexandria, Athens, pp. 293–326.
+Kostis, K. (2018). History’s Spoiled Children: The Formation of the Modern Greek State. Hurst, London.
+Lazaretou, S. (2014). Greece: from 1833 to 1949. In: South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II, Bank of Greece, Bulgarian National Bank, National Bank of Romania and Oesterreichische Nationalbank, Athens, Sofia, Bucharest and Vienna, pp. 101–170.
+Lee, J. and Strazicich, M.C. (2003). ‘Minimum Lagrange Multiplier Unit Root Test with Two Structural Breaks’, Review of Economics and Statistics, Vol. 85, pp. 1082–1089.
+Maleševic, S. (2012). ‘Did Wars Make Nation-States in the Balkans? Nationalisms, Wars and States in the 19th and early 20th Century South East Europe’, Journal of Historical Sociology, Vol. 25, pp. 299–330.
+Maleševic, S. (2020). War, State Formation, and Nationalism. In: Sardoč, M. (Ed), Handbook of Patriotism. Springer, Cham, pp. 671–691.
+Malesis, D. (2018). Megali Idea kai Stratos ston 19o aiona [Great Idea and Army in the nineteenth century]. Asini, Athens.
+Mann, M. (1986). The sources of social power I: a history of power from the beginning to A.D. 1760. Cambridge University Press, Cambridge.
+Mishkova, D. (1994), ‘Modernization and Political Elites in the Balkans before the First World War’, East European Politics and Societies, Vol. 9, pp. 63–89.
+Morys, M. (ed.) (2021). The Economic History of Central, East and South-East Europe 1800 to the Present. Routledge, Oxford and New York.
+Munro, H. H. (1911), The Chronicles of Clovis, with an introduction by A. A. Milne. John Lane, The Bodley Head, London.
+Peacock, A.T. and Wiseman, J. (1961). The Growth of Public Expenditure in the United Kingdom. Princeton University Press, Princeton, NJ.
+Pesaran, H.H. and Shin, Y. (1998). ‘Generalized impulse response analysis in linear multivariate models’, Economics Letters, Vol. 58, pp. 17–29.
+
+
+26
+Petmezas, S.D. (2012). Prolegomena stin Istoria tis Ellinikis Agrotikis Oikonomias tou Mesopolemou [Prolegomena to the interwar history of Greece’s rural economy]. Alexandria, Athens.
+Piketty, T. (2014). Capital in the Twenty-First Century. Harvard University Press, Cambridge, MA and London, England, pp. 1–36.
+Posen, B.R. (1993). ‘Nationalism, the Mass Army, and Military Power’, International Security, Vol. 18, pp. 80–124.
+Prontzas, E. Kimourtzis, P. and Melios, N. (2011). Ta Dimosia Esoda tou Ellinikou Kratous, 1833–1939 [Public revenues of the Greek state, 1833–1939]. Ethniki Trapeza tis Ellados [National Bank of Greece], Athens.
+Queralt, D. (2019). ‘War, international finance, and fiscal capacity in the long run’, International Organization, Vol. 73, pp. 713–753.
+Rasler, K.A. and Thompson, W.R. (2018). War making and the building of state capacity: expanding the bivariate relationship. In: Thompson, W. (Εd), The Oxford Encyclopedia of Empirical International Relations Theory, Vol. 4, Oxford University Press, New York, pp. 495–519.
+Sabaté, O. (2016), ‘Does military pressure boost fiscal capacity? Evidence from latemodern military revolutions in Europe and North America’, European Review of Economic History, Vol. 20, pp. 275–98.
+Sarkees, M.R. (2010). Defining and Categorizing Wars. In: Sarkees, M.R. and Wayman, F., Resort to War: A Data Guide to Inter-State, Extra-State, Intra-State, and Non-State Wars, 1816–2007. CQ Press, Washington, DC, pp. 39–73.
+Savoia, A. and Sen, K. (2014). ‘Measurement, evolution, determinants, and consequences of state capacity: A review of recent research’, Journal of Economic Surveys, Vol. 29, pp. 441–458.
+Schenoni, L.L. (2021), ‘Bringing War Back in: Victory and State Formation in Latin America’, American Journal of Political Science, Vol. 65, pp. 405–421.
+Scheve, K.F. and Stasavage, D. (2016). Taxing the rich: a history of fiscal fairness in the United States and Europe. Princeton University Press, Princeton, NJ.
+Skopetea, E. (1988). To “Protypo Vasileio” kai I megali idea: Opseis tou ethnikou provlimatos stin Ellada (1830–1880) [The Model Kingdom and the Megali Idea. Aspects of the National Question in Greece (1830- 1880)]. Politypo, Athens.
+Soifer, H.D. (2015). State Building in Latin America. Cambridge University Press, Cambridge.
+Thies, C.G. (2004). ‘State Building, Interstate and Intrastate Rivalry: A Study of PostColonial Developing Country Extractive Efforts, 1975–2000’, International Studies Quarterly, Vol. 48, pp. 53–72.
+
+
+27
+Thies, C.G. (2005). ‘War, Rivalry, and State Building in Latin America’, American Journal of Political Science, Vol. 49, pp. 451–465.
+Tilly, C. (1975). Reflections on the history of European state-making. In: Tilly, C. (Ed), The formation of National States in Western Europe. Princeton University Press, Princeton, NJ, pp. 3-83.
+Tilly, C. (1985). War making and state making as organized crime. In: Rueschemeyer, D., Evans, P.B. and Skocpol, T. (Eds), Bringing the state back in. Cambridge University Press, Cambridge, pp. 169-191.
+Tilly, C. (1992). Coercion, Capital and European states. Blackwell, Oxford.
+Tunçer, A.C. (2015). Sovereign Debt and International Financial Control: The Middle East and the Balkans, 1870–1914. Palgrave Macmillan, Basingstoke, U.K.
+Vogelsang, T.J. and Perron, P. (1998). ‘Additional test for unit root allowing for a break in the trend function at an unknown time’, International Economic Review, Vol. 39, pp. 1073–1100.
+
+
+28
+Figures
+(a) War-years (b) Militarised Interstate Disputes (MIDs)
+Figure 1. Sovereign states ranked by number of years involved in wars or MIDs, 18161939
+Source: Appendix B.
+Figure 2. Central Government revenues in Greece, 1816-1939 (% of GDP)
+Source: Appendix Α. Non-tax revenues include fines/dues, income derived from state assets, etc.; receipts due to loans, reparations etc. are excluded.
+
+
+29
+Figure 3. Central Government expenditures in Greece, 1816-1939 (% of GDP) and defense share (% of military expenditures in total public expenditures).
+Source: Appendix Α. Other payments, such as loan principals, loans/credits to other entities and asset purchases are excluded.
+Figure 4. Identifying military mobilization episodes in Greece: heuristics
+
+
+30
+Figure 5. Identifying military mobilization episodes in Greece: statistics
+Figure 6. Mobilization episodes and tax revenue: variants of the bellicist argument
+
+
+31
+Figure 7. Cumulative response of taxes to a one p.p. of GDP impulse in expenditures (±2 std. errors)
+Figure 8. Intercept shocks selected by impulse saturation of VAR(k) model, using autometrics algorithm at .1% significance (±2 std. errors)
+Note: * algorithm flagged 1914 as a mobilization year, part of the Balkan wars (which ended in 1913).
+
+
+32
+Figure 9. Cumulative response of taxes to a one p.p. of GDP impulse in expenditures (±2 std. errors)
+Tables
+Table 1. Mobilization episodes in Greece, ranked by fiscal intensity 1833-1939
+Episode From To Fiscal Intensity Fatalities
+WWI & Greek-Turkish war 1918 1922 0.605 >1,000 Thessaly dispute 1879 1881 0.471 None Balkan wars 1912 1913 0.183 >1,000 “Peacetime war” 1885 1886 0.174 None Greek-Turkish war 1897 1897 0.088 500-1000
+Note: Intensity measured in percentage points of GDP of military expenditure above benchmark (divided by 100), summed over all episode years; fatalities are taken from the Correlates of War database, which only counts battle-related deaths.
+
+
+33
+Table 2. Regression results of tax revenues during and after mobilization episodes,
+1834-1939
+VDependent Model 1 Model 2 Model 3 Model 4 variable Tax revenues Tax revenues Direct taxes Indirect taxes (no scaling, Ii=1) (Mobilization episodes scaled by intensity) Thessaly dispute (1879-81)
+During –0.295 (0.353)
+–0.626 (0.749)
+***–1.600 (0.429)
+***1.662 (0.522) After **0.740 (0.312)
+**1.571 (0.663)
+–0.233 (0.509)
+***2.616 (0.597) “Peaceful war” (1885-86)
+During –0.325 (0.278)
+–1.865 (1.593)
+–1.632 (1.073)
+–1.007 (1.046) After **0.994 (0.420)
+**5.703 (2.411)
+0.113 (1.495)
+**3.678 (1.665) Greek-Turkish war 1897
+During ***–0.963 (0.272)
+***–10.855 (3.063)
+***–7.030 (1.359)
+–2.483 (2.837) After 0.471 (0.341)
+5.314 (3.844)
+0.085 (1.384)
+5.129 (3.483) Balkan wars (1912-13)
+During ***–1.388 0.453
+***–7.598 (2.482)
+–1.575 (1.139)
+***–5.975 (2.138) After ***1.031 0.275
+***5.646 (1.506)
+***8.668 0.501
+–1.644 (1.401) WWI & GreekTurkish war (1918-22)
+During ***–2.481 (0.468)
+***–4.098 (0.774)
+***–2.635 (0.095)
+–1.227 (0.891) After ***2.518 (0.570)
+***4.160 (0.942)
+***–1.785 (0.385)
+***4.286 (0.958)
+Lagged dependent ***0.681 (0.056)
+***0.681 (0.056)
+***0.853 (0.075)
+***0.714 (0.079) Constant 5.189 (5.657)
+5.189 (5.657)
+2.087 (4.046)
+–0.930 (4.490) Trade crisis/default 1893
+–0.418 (0.435)
+–0.418 (0.435)
+–0.167 (0.239)
+–0.245 (0.307) Civil war/Schism 1915-17
+***–5.016 (0.614)
+***–5.016 (0.614)
+***–2.251 (0.139)
+***–2.895 (0.468) Trade crisis/default 1931
+***–2.500 (0.653)
+–2.500 (0.653)
+–0.253 (0.271)
+***–1.992 (0.745) Per capita income (log)
+–0.351 (1.102)
+–0.351 (1.102)
+–0.244 (0.753)
+0.435 (0.866)
+Observations 106 106 106 106 R2 0.943 0.943 0.890 0.965 Durbin Watson 2.153 2.153 2.092 2.251
+Notes: *** 1% significance, ** 5% significance, * 10% significance; Newey-West heteroscedasticity & autocorrelation consistent standard errors reported in brackets.
+
+
+34
+Appendix A: Data construction methodology
+A1. Introduction
+This paper relies primarily on a new series of public finance data, derived from
+published Statements of Revenues and Expenditures of the Greek state (Απολογισμοί
+των εσόδων και εξόδων του ελληνικού κράτους). These report central government actual
+revenues and expenditures outturns during each fiscal year (FY), often alongside the
+original budget estimates. The compilation of such information only became systematic
+after the 1843 transition to a constitutional monarchy, with 1845 marking the first year
+a budget (προϋπολογισμός) was submitted to parliament. In the same year, the first out
+turns covering the years 1833-42 were also published. These were followed by a some
+what unsteady trickle of outturn statements, released over subsequent decades. Unlike
+budget estimates, which were submitted annually, outturns were generally published
+with significant delays and rarely received parliamentary approval. Nevertheless, de
+spite frequent delays and differences in methodology, a complete series of such state
+ments spanning the 1833-1939 period can be reconstructed from individual publica
+tions.
+The first to collect outturn statements and integrate them in a single series was
+Dertilis (1993), who produced annual revenue series from 1833-1933, albeit with a
+handful of missing observations. His work was extended by Prontzas et al. (2011), who
+filled the gaps and compiled a detailed revenue database for 1833-1939, including ag
+gregate series on total and tax revenues (divided into direct and indirect taxes). Unfor
+tunately, a parallel effort by Antonis Antoniou to compile a series of public expendi
+tures was left incomplete. Subsequent research has thus relied on the unpublished, pre
+liminary results of Antoniou et al. (1999) for three main aggregates: total expenditures,
+defense spending and what is often treated as “interest payments”, though it combines
+both interest and capital repayment.
+These series have been incorporated into the SEEMHN database, arguably the most
+detailed compilation of Greek historical statistics available to date (Lazaretou, 2014).
+Authors using the expenditure series, however, are usually unaware that they are de
+rived from preliminary results, whose construction methodology is left unexplained.
+Thus, the public finance data in the SEEMHN database face several challenges, which
+render them inappropriate for some applications. To highlight the most important ones:
+
+
+35
+(a) Total revenues include both operating revenue (e.g., taxes) as well as
+loans, war reparations, foreign aid etc. This produces inordinate revenue spikes
+on years when the Greek state obtained sizable loans and invalidates estimates of
+budget deficits.
+(b) Tax revenues exclude the sale of state monopoly goods, which were the
+primary means by which the Greek state sought to bolster its finances in the late
+nineteenth century. Thus, the existing revenue series tends to underestimate the
+fiscal capacity of the Greek state, particularly after the 1880s.
+(c) Total expenditures combine operating outlays and debt servicing, in
+cluding one-off disbursements to offset existing liabilities, which also produce ad
+hoc expenditure spikes that do not alter the public sector’s net worth.
+(d) The defense expenditure series includes outlays for welfare provision
+and refugee settlement, which do not conform to conventional definitions of mil
+itary spending.
+(e) All data splice figures from different time periods, when different ac
+counting standards were used, with no compensating adjustments e.g. for differ
+ent durations, cash- vs. accrual basis reporting, etc.
+While many of these challenges are inherent in the original data, they are com
+pounded by the absence of methodological notes explaining how aggregates were con
+structed. For these reasons, this paper had compile a new dataset. Specifically, detailed
+(per item) revenues recorded in the Prontzas et al. (2011) were used to reconstruct sev
+eral new revenue series, while a expenditure data was reconstructed from scratch, using
+the original outturn statements. This appendix describes the methodology used to con
+struct the data.
+A2. Key challenges present in Greek historical public finance data
+A2.1 Variation in data quality and methodology
+Despite the existence of a full set of published statements of total revenues and
+expenditures spanning the years 1833 to 1939, data quality is not consistent throughout,
+not least due to significant changes in public accounting rules and institutions. Law 212
+(ΣΙΒ) of 1852 was a key milestone, which laid down the accounting framework for the
+rest of the long nineteenth century (Prontzas et al., 2011: pp. 58–68). Outturn statements
+published before 1852, covering the fiscal years 1833-45 are thus somewhat different
+
+
+36
+from those published later, which conform to similar rules and standards. Most of those
+rules were modelled on French public accounting (Diomidis, 1905; Allix and Lambro
+poulos, 1931).
+Over time, the level of detail increased, improving the statements’ overall trans
+parency. Nevertheless, key weaknesses persisted, not least the inclusion of transactions
+in assets (notably, loans) in state revenues and expenditures. In 1912, an Italian expert,
+Federico Zapelloni, was invited to direct the Treasury office. His efforts led to several
+improvements in public accounting, including a distinction between transactions of
+Category I, which included operating revenues and expenses, and Category II, which
+comprised asset transactions that did not affect the state’s overall net worth (e.g., loans,
+property sales/purchases, etc.). The distinction was formally introduced in the outturns
+of fiscal year 1915; in 1916, the Treasury also published a series of historical tables
+covering the years 1863-1915, which provided summary data using the new methodol
+ogy. While not detailed enough to replicate all the series used in this paper, these
+“Zapelloni tables” were used for data validation and error checking.
+Transparency increased further after the sweeping reforms introduced into public
+accounting by Law 1555 of 1918, the product of Zapelloni’s reformist zeal. The new
+system shifted the fiscal year by three months and introduced several innovations,
+which affected the outturn statements for fiscal years 1915-34 (Section A2.2). Unfor
+tunately, the dissolution of parliament by the Metaxas dictatorship (1936) halted the
+release of detailed financial information. In the fiscal years 1935 to 1939, only interim
+outturn statements (προσωρινοί απολογισμοί) were ever published. These provide far
+fewer details and omit key accounts introduced by the reform, notably, those tracking
+payments/receipts out of arrears.
+In summary, except for the years 1935-39, data quality and transparency in
+creased steadily in the period under review, with 1852 and 1918 marking significant
+accounting reforms that mandate caution when compiling a unified time series.
+A2.2 Cash vs. accruals and the duration of the (extended) fiscal year
+Modelled on the French system of public accounting, Greece’s public finances in
+the nineteenth century were meant to produce outturn statements on an accrual basis
+(compatibilité par exercice), i.e., include all claims and obligations that originated
+
+
+37
+during the fiscal year, which lasted from 1.1 to 31.12, regardless of when those
+claims/obligations were settled. Theoretically, the duration of each of these “extended
+fiscal years” (exercise, in French; χρήσις in Greek) extended until all claims/obligations
+had either been settled or had lapsed.13 In practice, accounting laws usually stipulated
+an extension period (période complémentaire) after 31.12; payments/receipts made dur
+ing that extension would still count toward the fiscal year when the corresponding ob
+ligations/claims were created. After the extension period was over, accounts were
+closed and subsequent payments/receipts were transferred to the next fiscal year, under
+the heading of “revenues/expenditures of past [extended] fiscal years”.
+Thus, historical public finance data for Greece combine accrual- and cash-basis
+reporting. Each annual figure represents obligations/claims that originated during a 12
+month fiscal year and were settled during a longer period (the extended fiscal year).
+Importantly, variations in the duration of the extension period need to be taken into
+consideration when constructing a longer time series of public finance data.
+The 1852 accounting law set the extension period (période complémentaire) to
+ten months, i.e. until 31.10 of the year after. Thus, outturn statements for the fiscal years
+1846-1917 (all published after 1852) conform to the same standard. Revenues and ex
+penditures recorded therein represent the accruals of each fiscal year, settled within a
+period of 22 months.
+The same is not true of statements covering the years 1833-45, which were pub
+lished before 1852. Thus, the outturns for 1833, published in 1849, include transactions
+made in 1843 (to settle claims/obligations from 1833). Inevitably, this raises compara
+bility issues: an “extended fiscal year” lasting a decade is not the same as one lasting
+22 months. The discrepancy is greater on the revenue side, where tax delays were com
+monplace.14 In order to make 1833-45 data comparable to that of fiscal years 1846
+1917, the figures must be adjusted accordingly. The approach taken was to use cash/ac
+crual tables for 1833-45 to reconstruct accrual data based on a two year “extended fiscal
+year”. In other words, claims/obligations originating in year t and collected/settled in
+years t and t+1 were recorded in the outturns for year t; any subsequent transactions
+13 Each exercice (χρήσις) was thus longer than the fiscal year, which was identical to the gestion (διαχείρισις), which referred to payments and receipts made on a cash-basis. 14 Thus, direct tax revenues for 1833 stand at 4.76 mil. drs.; of those, 1.87 mil. was collected in 1833; 2.58 mil. were collected in 1834 and the rest trickled into the public coffers over the subsequent eight years.
+
+
+38
+were netted out of the figures for year t and were added to the year when the receipt/pay
+ment was made.
+The Greek extension period was considered inordinately long: accounts remained
+in limbo for 22 months, while authorities were reluctant to collect revenues by the end
+of the fiscal year, knowing that a full ten months were still available to them. To miti
+gate this, Zapelloni proposed switching to the Italian system by eliminating the exten
+sion period. This would force authorities to settle their accounts by the end of the fiscal
+year. Any outstanding balances would then be transferred to a separate set of accounts,
+called “active and passive residuals” (residui attivi e passivi) and monitored separately
+(Allix and Lambropoulos, 1931: pp. 82– 87; cf. Diomidis, 1905: pp. 216–229). Most
+significantly, payments into or out of those residuals would no longer be part of the
+expenditures or revenues of subsequent fiscal years. In other words, the proposed re
+form would not only eliminate the extension period, but delayed payments/receipts
+would no longer appear in subsequent outturns.
+Greek lawmakers hesitated to embrace Zapelloni’s proposals. Law 1555 of 1918
+did not eliminate the extension period but shortened it to four months. At the same time,
+the fiscal year was shifted by three months, thus starting from 1.4 and lasting till 31.3
+(of the year after); to produce this transition, fiscal year 1918 lasted for 15 months
+(1.1.1918 – 31.3.1919). Crucially (and unnecessarily, given the continued existence of
+an extension period), the new Law also introduced active and passive residuals. Hence,
+unlike those of the years 1846-1917, outturns after 1918 did not report revenues/ex
+penditures of past (extended) fiscal years, as those were recorded separately. Any at
+tempt to produce a consistent data series should address this discrepancy, by taking
+residuals into consideration. Unfortunately, residual payments/receipts are not reported
+in the interim outturn statements available for the 1935-39 period. Thus, data for the
+years 1935-39 inevitably under-reports revenues (and some expenditures) by omitting
+the settlement of past claims and obligations.
+A2.3 Operating revenues/expenses, transactions in assets and ad hoc payments/receipts
+Published outturn statements invariably included transaction in assets which did
+not change the state’s net worth. Today, such transactions are not considered operating
+revenues/expenses, and are recorded separately (IMF, 2014: p. 69). The distinction
+
+
+39
+between Category I and II introduced in the 1915 outturns solved the better part of the
+problem. Applying it retroactively on pre-1914 data, however, is challenging. While
+transactions in real assets (e.g., land sales/purchases) are relatively minor, the same is
+not true of transactions in financial assets, notably loans. Interest payments and trans
+action fees are expenditures, but regular principal repayments or lump-sum payments
+to extinguish outstanding debt are not. This distinction is not made in the Antoniou et
+al. (1999) data reproduced in the SEEMHN database, which misleadingly describes debt
+service as “interest payments”.
+Sovereign loans are not the only transaction in financial assets that appear on the
+Greek budget. The state also advanced funds to other entities, such as railways and
+municipal authorities and helped raise capital for new public enterprises (e.g., the Ag
+ricultural Bank of Greece). Other ad hoc payments and receipts causing “irregular”
+spikes in the data include war reparations, foreign aid and the revenues raised in terri
+tories under military occupation. Each of those needs to be considered separately, de
+pending on the requirements of the data series generated.
+A2.4 Classification and reclassification of items
+Any data series constructed from more than a century’s worth of data is bound to
+face classification challenges: some items split up into multiple entries, others get
+merged or reshuffled over time. Most of these changes are innocuous and can be ig
+nored at higher levels of aggregation. Some present more serious challenges, especially
+when items straddle different categories that defy classification.
+The most frustrating cases involve problems inherent in the way accounts were
+held over several years. A good example is the additional expenditure associated with
+the devaluation of the drachma, whenever debt service payments were made in gold or
+foreign exchange. Such expenses were usually lumped under a single heading dubbed
+“monetary difference”, that included both interest and principal.
+Then there are temporary classification problems, caused by ad hoc changes.
+Thus, an emergency measure raising all taxes by a few points in 1925 led to a single
+entry comprising all additional revenue, regardless of the underlying tax source. This
+cannot be classified as either direct or indirect taxation. Similarly, revenues raised in
+
+
+40
+territories that had just been added to the Greek state were sometimes included as a
+single entry, without further breakdown.
+Last, there are classification problems caused by missing data. To give another
+example, army and navy pensions, recorded separately until fiscal year 1934, suddenly
+became grouped with civilian pensions in 1935-39. Consistent military expenditure es
+timates thus required extrapolation based on the pre-1934 allocation between military
+and civilian pensions.
+A2.5 Changes in units of account and the distinction between gold and paper drachmas
+While outturn statements were all published in drachmas, not all drachmas were
+created equal. Greece joined the Latin Monetary Union in 1867, but only introduced
+the new drachma in 1882. The new monetary unit was 1.1168 times more valuable,
+which was the conversion necessary to make the gold drachma equivalent to the French
+franc. Outturn figures for 1833-1881 are thus expressed in old drachmas and need to be
+divided by 1.1168 to convert them to the 1882-1944 drachmas.
+While the gold drachma was set on par with the French franc, paper drachmas
+circulating domestically were worth less during periods of inconvertibility, which were
+the rule, rather than the exception (Lazaretou, 2005; 2014). Thus, payments (or receipts)
+in foreign exchange corresponded to more paper drachmas. Treatment of this difference
+in public accounts was somewhat uneven: while some entries record the paper drachma
+equivalent, others record figures in gold drachmas and shift the difference into an ag
+gregate “monetary difference” record (as in the case of interest and principal payments,
+mentioned above).
+A2.6 Off-budget items: special funds
+The existence of off-budget items is familiar to anyone studying the history of
+public finance. An oft-used method of keeping some transactions off-budget was the
+creation of a special fund (ταμείον), with its own revenue and expenditure streams.
+Their rationale was to ensure that funds earmarked for specific purposes (e.g. roadbuild
+ing) were not diverted elsewhere. In practice, these funds undermined the integrity of
+the budgeting process and led to aggregate revenues and expenditures being underre
+ported.
+
+
+41
+Two such funds are particularly important for the purposes of this paper: the Na
+tional Navy Fund (NNF, est. 1900; Law 2774 [ΒΨΟΔ]) and the National Defense Fund
+(NDF, est. 1904; Law 3027 [ΓΚΖ]), both set up with a view to boosting defense ex
+penditure. Private contributions and endowments aside, their main source of revenue
+were tranches of various taxes, e.g. the NDF received 10% of all tariff revenue. Occa
+sionally, at times of emergencies, additional funds were transferred to them from the
+budget. Fortunately, both regular and irregular transfers were recorded as Ministry of
+Finance expenditures, so this type of military spending can be reconstructed from the
+outturn statements.
+A3. Constructing the revenue series
+A3.1 Focusing on the distinction between tax and other revenues
+Per item revenues recorded in the Prontzas et al. (2011) data appendix were used
+to construct the revenue series used in the paper; aggregates were cross-checked against
+the Zapelloni series and published outturns. The numbers for fiscal year 1936-37 were
+found problematic and replaced by those in the published outturns.15 Data for the period
+1833-42 and 1845 were also amended on the basis of published outturns, due to dis
+crepancies in the Prontzas et al. data. Each individual revenue stream was classified
+into one of eight groups, shown in the table below (details are available in the accom
+panying spreadsheet “Revenues”):
+R. Revenues
+RT. Tax revenues
+RT1. Direct tax revenues TaxD Include most land/rural production taxes, as well as corporate, employment and income taxes. RT2. Indirect tax revenues TaxI Excise duties, consumption taxes, sales taxes, tariffs, export duties and state monopoly revenues. RT3. Tax revenues not classified TaxN Tax revenues that defy classification (e.g. “tax revenues from the island of Samos”). RO. Other revenues / receipts
+RO1. Non-tax revenues NonTax Revenues from fines/dues, income derived from state assets (rents, interest, licenses, etc.), receipts from the sale of state property, provision of services, etc. RO2. Loans Loan Receipts from loans, foreign or domestic; includes both new loans issued by the Greek state and principal repayments on advances made by the state to third parties.
+15 The Prontzas et al. (2011) data appears to be relying on a Provisional Statement of Revenues and Expenditures covering the period from April 1, 1936 to February 28, 1937, thus falling one month short of the full year; the data was updated on the basis of the Provisional Statement published later in 1937, which included the March outturns.
+
+
+42
+RO3. Reparations & allied/foreign aid
+Reparation Receipts due to foreign/allied aid and reparations.
+4. Other Other Other receipts (e.g. revenue from areas occupied by the Greek army, but not belonging to Greece).
+RA. Arrears Arrears Revenues of past (extended) fiscal years
+Given the paper’s focus on fiscal capacity, as proxied by tax revenues, emphasis
+was placed on distinguishing between taxes and everything else. Taxes were divided
+into direct and indirect, based on their classification in the published outturns; the only
+exceptions were a handful of taxes that were reclassified over time, in which case the
+more recent classification was imposed. Unlike data in the SEEMHN database, tax reve
+nues include state monopolies, which were used primarily for resource extraction.
+A3.2 Adjustments necessary to produce a homogenous revenue series
+As discussed in section 2, original outturn data for the 1833-1939 period was
+expressed in different currencies and followed different accounting practices. To derive
+the uniform series (details in the “Main” spreadsheet), the following adjustments were
+made:
+• All figures were expressed in Latin Monetary Union (LMU) drachmas,
+so pre-1882 data was divided by 1.1168.
+• Data for 1914 were published in two separate sections: one for Greece
+within its “old” borders and one for the new territories acquired after the Balkan
+wars; items were grouped by territory before producing a single number for the
+whole country.
+• The 1918-19 fiscal year lasted from 1.1.918 to 31.3.1919, so figures
+were scaled by 12/15=0.8, to become comparable with other years. As of 1919
+20, fiscal years started on April 1 and ran up to until March 31 of the next calendar
+year.
+• Figures for the years 1833-45 were adjusted to correct for the fact that
+post-1845 “extended fiscal years” reflected a 22-month collection period,
+whereas previous “extended fiscal years” were almost indefinite.16 The adjusted
+figures ensure that revenues for fiscal year t correspond to claims originating in t
+and collected in years t and t+1 (24 months). Any subsequent receipts count
+16 This discrepancy explains why official “arrears” in the 1833-45 are negligible.
+
+
+43
+towards the “revenues of past (extended) fiscal years” (arrears) of the year when
+they are collected. The detailed adjustment is shown in Excel sheet “Rev adj.
+1833-45”.
+• Revenues from past fiscal years were all grouped under the heading “ar
+rears” and tracked separately. While most such revenues were derived from past
+taxes, they were ultimately excluded from the tax revenues series. Several factors
+contributed to this decision. First of all, it is usually impossible to distinguish
+between tax and non-tax arrears; adding the balance to taxes might thus inflate
+the estimate of fiscal capacity. Secondly, inasmuch as these revenues were influ
+enced by the volume of outstanding claims, their relationship with fiscal capacity
+is debatable: an increase in arrears collected could reflect either an increase in
+overall arrears [reduced compliance], or an increase in collection efforts [in
+creased enforcement]. Thirdly, after 1918, this type of revenue subsides and is
+replaced by receipts out of “active residuals”, which are not recorded in the out
+turns. The figures could be adjusted accordingly, but not after 1935, because ac
+tive residuals are not published in 1935-39. Excluding arrears throughout elimi
+nates the need for this adjustment. Last but not least, on average, revenues from
+past fiscal years corresponded to approximately 3.5% of total revenues, so elim
+inating them was relatively harmless.
+A4. Constructing the expenditure series
+Data on expenditures were compiled from published Statements of Revenues and
+Expenditures of the Greek state for the fiscal years 1833-1939. Aggregates were cross
+checked against Antoniou et al. (1999), as reproduced in SEEMHN, as well as the Zapel
+loni series. Total expenditures aside, emphasis was placed on two areas, namely mili
+tary expenditures and debt service, which were then used to calculate two residual series
+of civilian expenditures.
+A4.1 Military expenditures
+The military expenditures series was compiled following the SIPRI/NATO defi
+nition of defense expenditure as payments made by a national government specifically
+
+
+44
+to meet the needs of its armed forces (or those of its allies).17 Armed forces include land
+(army), maritime (naval) and air forces as well as any other forces trained in military
+tactics that could be deployed outside national territory (e.g. paramilitary forces trained
+and equipped for military operations). This is of some relevance to nineteenth century
+Greece, where funds were often channeled toward arming insurgents or paramilitary
+forces active within Ottoman territory.
+In theory, the SIPRI/NATO definition includes all current and capital expenditure
+on military personnel (salaries, pensions and social services), operations and mainte
+nance, procurement, infrastructure (e.g. military bases), etc. regardless of whether these
+are made from the Ministry of Defense budget, or through other ministries. On the other
+hand, civil defense and current expenditures on previous military activities, such as
+veterans’ benefits, demobilization, conversion and weapon destruction are excluded.
+In practice, it is not always possible to distinguish between military and civilian
+outlays. Priority was thus given to maintaining consistency over time. The baseline se
+ries comprised spending by the three defense ministries; additional components include
+military pensions and transfers to special defense funds (section A2.6).18 The main
+components of the new series are described in the table below, with details available in
+the spreadsheet “Military Expenditure”.
+Land Forces ARM Spending by the Ministry of the Army (Υπουργείο Στρατιωτικών). National Defense Fund NDF Funds allocated by the Ministry of Finance to the special fund (190419); after 1919, these allocations were included in the budget of the Ministry of the Army. Maritime Forces NAV Spending by the Ministry of the Navy (Υπουργείο Ναυτικών); includes spending on commercial shipping until 1936-37, when a separate Deputy Ministry of Commercial Shipping (Υφυπουργείο Εμπορικής Ναυτιλίας) appeared. Given how the new Deputy Ministry only spent approx. 1.5% of total military expenditures in 1937-40, its impact on 1833-1937 data was negligible. National Navy Fund NNF Funds allocated by the Ministry of Finance to the special fund (190419); after 1919, these allocations were included in the budget of the Ministry of the Navy. Air forces AIR Spending by the Ministry of Air (Υπουργείο Αεροπορίας); appears in 1930-31. Pensions PEN Pensions paid to military personnel (army and navy) by the Ministry of Finance. Includes pensions to veterans, widows and orphans of the War of Greek Independence; excl. pensions to “war victims” after 1925-26. Data for 1935-40 are estimates, since interim outturns did not distinguish between types of pensions. Various expenditures VAR Administrative outlays, e.g. conscription expenses by the Ministry of Interior, etc.
+17 See https://www.sipri.org/databases/milex/sources-and-methods. 18 Note that Special Funds also had their own revenue streams from private sources (e.g. endowments), which usually financed procurement. However, this spending was not part of public expenditures, nor did it matter for the purposes of this paper, which emphasizes those military expenditures generating “pressure” on the government to secure additional revenues.
+
+
+45
+A4.2 Debt service
+Section A2.3 explained how one of the main challenges presented by historical
+public finance series was that “debt service” expenditures contain both interest and
+principal outlays: while the former constitute expenditure, the latter do not alter the
+state’s net worth and should not be considered expenditures. Similarly, loans advanced
+to third parties (e.g. public enterprises) or purchases of real assets are also erroneously
+recorded as expenses, and should be treated separately.
+To tackle the above challenge, all debt service transactions recorded in the pub
+lished outturns were transcribed and classified into five types; details are provided in
+the spreadsheet “Debt Service”.
+Interest INT Interest payments on loans (paid). Fees & commissions
+FEE Transactions fees & commissions related to the management of public debt.
+Amortization AMO Combined interest and principal payments (τοκοχρεολύσια); includes those debt service expenses where the nature of the expense is unclear. Principal repaid PRI (Regular) payments of principal (χρεολύσια). Debt pay-off PAY (Ad hoc) Lump sum debt repayments. Monetary difference
+MON Additional expenditure associated with the devaluation of the drachma, whenever debt service payments were made in gold (or foreign exchange); combine both interest and principal payments. Reparations REP War reparations for London Protocol (1832) and Treaty of Constantinople (1897). Other OTH Loans/advances to private/public enterprises & entities (railways, pension funds, the Refugee Settlement Commission, banks, etc.), purchases of railway shares (stock), etc.
+Two of these expenditure types combine both interest and principal payments:
+amortization and the so-called “monetary difference” due to the drachma devaluation.
+The first is easier to tackle: interest payments dominate amortization, which can thus
+be classified as an expenditure (unlike principal payments and debt paid off, which do
+not affect the state’s net worth). The additional cost due to the drachma’s devaluation
+can be allocated proportionately between interest and principal, provided only loans
+paid in gold or foreign exchange are taken into consideration. For this allocation to be
+possible, the currency in which payments were made was also recorded for each type
+of transaction.
+Data was also compiled on two other types of ad hoc transactions: reparation
+payments and other non-expenditures. This last category comprises loans to various
+private or public enterprises and entities; they are usually ad hoc transactions that did
+not change the state’s net worth and/or were included in the budget for accounting
+
+
+46
+purposes. On the other hand, purchases of real assets (such as land) were not recorded
+systematically and remain part of public spending, even though they do not affect the
+state’s net worth.
+A4.3 Civilian expenditures
+Having identified military expenditures and divided debt service between inter
+est payments – which constitute expenditures – and non-expenditures such as principal
+repayments, loans to third parties, etc. we can calculate civilian expenditures residually.
+If interest payments are also excluded, then we can focus on primary expenditures (i.e.
+net of any debt service). The calculations are shown in the table below, which provides
+an overview of all the aggregate expenditure series derived:
+E. Expenditures
+M. Military expenditures ARM + NDF + NAV + NNF + AIR + PEN + VAR
+D. Debt service
+D1. Interest Payments INT + FEE + AMO + (part of) MON; the expenditure part of debt service D2. Principal payments PRI + PAY + (part of) MON; the non-expenditure part of debt service
+O. Other non-expenditures REP + OTH (non-expenditures)
+C. Civilian expenditures Expenditures (E) – Military expenditures (M) Principal Payments (D.2) – Other non-expenditures (O)
+CP. Primary civilian expenditures
+Expenditures (E) – Military expenditures (M) Debt service (D) – Other non-expenditures (O)
+A4.4 Adjustments necessary to produce homogenous expenditure series
+As discussed in section 2, original outturn data for the 1833-1939 period was
+expressed in different currencies and followed different accounting practices. To derive
+the uniform expenditure series (shown on Excel Sheet “Main”), the following adjust
+ments were also made:
+• All figures were expressed in Latin Monetary Union (LMU) drachmas,
+so pre-1882 data is divided by 1.1168.
+• Data on 1914 were published in two separate sections: one for Greece
+within its “old” borders and one for the new territories acquired after the Balkan
+
+
+47
+wars; items were grouped by territory before producing a single number for the
+whole country.
+• The 1918-19 fiscal year lasted from 1.1.1918 to 31.3.1919, so figures
+were scaled by 15/12, to become comparable with other years. As of 1919-20,
+fiscal years started on April 1 and ran up to until March 31 of the next calendar
+year.
+• As in the case for revenues, figures for 1833-45 were adjusted to correct
+for the fact that post-1845 “extended fiscal years” reflected a 22-month payment
+period, whereas previous “extended fiscal years” were almost indefinite. The ad
+justed figures ensure that expenditures for fiscal year t correspond to liabilities
+originating in t and settled in years t and t+1 (24 months). Any subsequent pay
+ments count towards the “expenditures of past (extended) fiscal years” (arrears)
+of the year when they are settled. Excel sheet “Exp adj. 1833-45”.
+• As explained in section A3.2 above, Law 1555 of 1918 introduced a
+separate set of active and passive residuals, wherein revenues/expenditures of
+past (extended) fiscal years were recorded; at the same time, outturn statements
+ceased to report most arrears. Thus, to bring post-1918 expenditure data in line
+with the 1846-1918 period, payments out of passive residuals were added to out
+turn expenditures for the years 1919-35. Unfortunately, passive residuals were
+not reported after 1935, introducing a discontinuity in the 1935-40 fiscal years.
+Details of the passive residual calculations are presented on Excel Sheet “Passive
+Residuals”. No similar adjustment was made for revenues, because arrears are
+not included in our tax revenues series.
+A5. GDP data and revenue/expenditure normalization
+All GDP data used come from Kostelenos et al. (2007). For fiscal years after
+1918, which lasted from 1.4 of year t to 31.3 of the year after (t+1), revenues and ex
+penditures were normalized by a weighted average of the GDP of years t (0.75) and t+1
+(0.25).
+
+
+48
+References
+Allix, E. and Lambropoulos, A.K. (1931). Dimosia oikonomia kai ta ellinika dimosia oikonomika [Public finance and Greek public finance], vol.1 (The budget), n.p., Athens.
+Antoniou, A., Kostelenos, G. and Kaskarelis, Y. (1999). Dimosies Dapanes tou Neoellinikou Kratous, [Public expenditures of the Greek state]. Unpublished manuscript.
+Diomidis, A. (1905). O proypologismos tou kratous [The state budget]. Vassiliki Typografeia, Athens.
+IMF (2014). Government finance statistics manual 2014. International Monetary Fund, Washington, D.C.
+Kostelenos, G., Vasileiou, D., Kounaris, E., Petmezas, S. and Sfakianakis, M. (2007). Piges oikonomikis istorias tis Neoteris Elladas: Posotika stoicheia kai statistikes. Akatharisto Egchorio Proion, 1830-1939 [Sources in Modern Greek economic history: quantitative data and statistics. Gross Domestic Product, 1830-1939]. National Bank of Greece Historical Archive & Center for Planning and Economic Research, Athens.
+Lazaretou, S. (2014). Greece: from 1833 to 1949. In: South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II, Bank of Greece, Bulgarian National Bank, National Bank of Romania and Oesterreichische Nationalbank, Athens, Sofia, Bucharest and Vienna, pp. 101–170.
+Lazaretou, S. (2005). ‘Greek monetary economics in retrospect: the adventures of the drachma’, Economic Notes: Review of Banking, Finance and Monetary Economics, Vol. 34, pp. 331–370.
+Prontzas, E. Kimourtzis, P. and Melios, N. (2011). Ta Dimosia Esoda tou Ellinikou Kratous, 1833–1939 [Public revenues of the Greek state, 1833–1939]. Ethniki Trapeza tis Ellados [National Bank of Greece], Athens.
+
+
+49
+Appendix B: Militarized Interstate Disputes involving Greece, 1833
+1939
+The calculations underpinning Figure 1 are based on the MID database v. 5.0
+(Palmer et al., 2020); the number of sovereign states comes from Dedinger and Girard
+(2021). Rivalries are from Klein et al. (2006) and hostility levels follow the classifica
+tion of Jones et al. (1996). The full list of disputes involving Greece is given in the table
+below; wars are highlighted in bold.
+Year Dispute name MID Greece Counterparty/-ies Rivalry
+Start End H F Countries H F
+1850 1850 Don Pacifico Affair 71 1 : UK 4 0 No 1854 1854 Blockade of Piraeus 2367 4 : UK, FR (& TR) 3 0 No 1866 1866 Crete uprising I 1576 3 0 TR 1 0 TUR 1868 1869 Crete uprising II 1575 4 0 TR 4 0 TUR 1877 1877 (no name) 1574 3 0 TR 1 0 TUR 1878 1878 (no name) 1573 4 0 TR 3 0 TUR 1878 1878 Thessaly uprising 2835 1 0 TR 3 0 TUR 1880 1881 Treaty of Berlin/ Dulcigno incident
+141 3 0 TR 3 0 TUR
+1882 1882 Karalih 1571 4 : TR 4 : TUR 1885 1886 Bulgarian Ind/ce I 2836 4 : TR 4 : TUR 1886 1886 Blockade of Greece by Major powers
+96 1 0 UK, GER, AH, IT, RU
+4 0 No
+1888 1888 (no name) 1739 3 0 TR 1 0 TUR 1896 1896 Crete insurrection 2837 4 0 UK, FR, GER, AH, IT, and RU
+3 0 No
+1897 1897 Greco-Turkish War 1569 5 501-999TR 5 >999 TUR
+1897 1897 Major power intervention in Crete
+56 1 : UK, FR, GER, AH, IT and RU
+4 0 No
+1909 1909 Crete Enosis with Greece
+1249 1 0 TR 3 0 TUR
+1912 1913 First Balkan War 1250 5 >999 TR 5 >999 TUR 1913 1913 Second Balkan War 1251 5 >999 BG 5 >999 BG 1914 1914 (no name) 3343 3 0 BG 1 0 BG 1914 1914 (no name) 3344 2 0 TR 3 0 TUR 1915 1917 Greece’s entry into WWI
+324 4 : BG (and TR, GER)
+4 : BG, TUR
+1916 1917 Allied pressure on Greece to enter WWI
+323 4 1 to 25 UK, FR 4 1 to 25 No
+1916 1916 French Occupation of Corfu
+2648 1 : FR 4 0 No
+1917 1918 World War I 257 5 >999 GER, AH, BG, TR
+5 >999 BG, TUR
+1918 1919 French Intervention in the Crimean
+2365 4 : RU 4 : No
+1919 1922 Greek Turkish war 1270 5 >999 TR 5 >999 TUR
+(continued on the next page)
+
+
+50
+Year Dispute name MID Greece Counterparty/-ies Rivalry
+Start End H F Countries H F
+1850 1850 Don Pacifico Affair 71 1 : UK 4 0 No 1922 1922 Turkish nationalist occupation I
+625 1 0 UK, FR 2 0 No
+1923 1923 Corfu Incident 55 1 0 IT 4 0 No 1925 1925 Greek Patriarch 3183 3 0 TR 3 0 TUR 1925 1925 (no name) 1241 4 : BG 4 : BG 1928 1928 (no name) 3187 4 : BG 1 1 BG 1931 1931 (no name) 3186 1 1 BG 4 0 BG
+Notes: Years refer to the years when the dispute starts or ends (not exact dates); dispute names and MID codes, as in the MID database v.5.0. H stands for hostility level, which takes values 1: None, 2: Threat to use force, 3: Display of Force, 4: Use of Force, and 5: War; F stands for the number of battle-related fatalities; (:) means missing/no data. Country codes are AH: Austria-Hungary, BG: Bulgaria, FR: France, GER: Prussia/Germany, IT: Italy, RU: Russia/USSR, TR: Ottoman Empire/Turkey, and UK: United Kingdom. A separate level of hostilities and fatalities is reported for each side. Disputes are part of longer rivalries are identified in the Rivalry column, by the country with which the rivalry exists.
+References
+Dedinger, B. and Girard, P. (2021). ‘How many countries in the world? The geopolitical entities of the world and their political status from 1816 to the present’, Historical Methods: A Journal of Quantitative and Interdisciplinary History, Vol. 54, pp. 208–227.
+Jones, D.M., Bremer, S.A. and Singer, D. J. (1996). ‘Militarized Interstate Disputes, 1815-1992: Rationale, Coding Rules, and Empirical Patterns’, Conflict Management and Peace Science, Vol. 15, pp. 163–213.
+Klein, J.P., Goertz, G. and Diehl, P.F. (2006). ‘The New Rivalry Dataset: Procedures and Patterns’, Journal of Peace Research, Vol. 43, pp. 331–348.
+Palmer, G., McManus, R.W., D’Orazio, V., Kenwick, M.R., Karstens, M., Bloch, C., Dietrich, Nick, Kahn, K., Ritter, K. and Soules, M.J. (2020). ‘The MID5 Dataset, 2011-2014: Procedures, Coding Rules, and Description’, Conflict Management and Peace Science, Vol. 39, pp. 470–482.
+
+
+51
+Appendix C: Details of AR(n) estimation using indicator saturation
+Table C1. Detecting change: impulse saturation of an AR(n) model of military expenditure
+Dep. Variable Military expenditure (Mt)
+Coefficient Std. Error T-value Mt-1 0.770 0.0347 22.20 I1879 0.179 0.0117 15.30 S1881 0.104 0.0123 5.69 S1882 -0.104 0.0125 -4.96 I1885 0.067 0.0118 6.90 I1887 -0.060 0.0121 -4.81 I1897 0.081 0.0117 -3.35 I1898 -0.058 0.0120 10.00 S1911 -0.068 0.0086 4.46 S1913 0.069 0.0085 3.90 I1916 -0.039 0.0118 8.44 I1918 0.120 0.0120 -8.32 I1919 0.053 0.0120 -7.92 I1921 0.047 0.0120 8.16 Constant 0.012 0.0041 2.95
+Obs. 103 Adj. R2 0.918 Mean (Mt) 0.0754 SE (Mt) 0.0402 F (14,88) 82.57 [p-value: 0.000]
+Note: AR model for M with fixed constant and up to 4 lags (hence 103 observations), impulse and step saturation at 0.1% significance, selected via autometrics algorithm. It are impulse indicators equal to 1 on year t; St are step indicators, equal to one until year t (thus, a negative sign suggests a step up and viceversa).
+
+
+52
+Appendix D: Details of multi-equation estimates
+D1. A three equation VAR(k) model
+The VAR(k) model estimated was:
+yt = a0 + A1 yt−1 + ⋯ + Ak yt−k + C wt + P pwt + ΦZt + εt ,
+Where yt = (TRt, Mt, Ct)′ is the vector of endogenous variables, where TRt, Mt
+and Ct to denote tax revenues, military and civilian expenditures (as p.p. of GDP). Ai
+are 3 × 3 fixed coefficient matrices, wt = (W1t, W2t, ... , Wnt)′ and pwt =
+(PW1t, PW2t, ... , PWnt)′ are vectors of indicator variables for the contemporaneous and
+legacy effects of each of n mobilisation episodes, while C and P are 3 × n fixed coef
+ficient matrices.
+Each Wit takes the value one during episode i, while PWit are step variables set
+to unity after episode i (total episodes n). Assuming the VAR(k) model is stable, i.e. ,
+then the contemporaneous and long-run effect of each episode is more complex than in
+the AR model of section 5.1, because of the interactions between all three variables.
+Nevertheless, the contemporaneous effects still dissipate over time, while legacy effects
+persist.
+As before, Zt is a vector of controls. Controls only include exogenous effects, so
+they include the step indicators for the 1893 and 1932 defaults, as well as a dummy
+variable to single out the 1915-17 civil war. An additional dummy variable was in
+cluded for 1934 to absorb an outlier in civilian expenditures, which in 1934 included
+two years of interest payments on debt (payments for 1933 were deferred, until a nego
+tiation with the debtors could be concluded).
+Several different lag structurers were tested (shifting the dataset to 1838-1939),
+but VAR(1) performed better. Table D1 shows the values of the basic information cri
+teria for different lags; all criteria pointed to one lag.
+
+
+53
+Table D1. VAR lag order selection information criteria
+Lag 0 1 2 3 4 5 LogL -548.60 -476.02 -468.46 -461.43 -453.49 -442.97 Sequential modified LR N/A 119.54 12.02 10.75 11.67 14.85 Final Prediction Error 22.92 *6.62 6.86 7.19 7.43 7.32 Akaike IC 11.64 *10.39 10.42 10.46 10.48 10.45 Schwarz IC 12.80 *11.78 12.04 12.31 12.56 12.77 Hannan-Quinn IC 12.11 *10.96 11.08 11.21 11.32 11.39
+* denotes the lag order selected by the corresponding information criterion.
+The full model output is reproduced in Table D2, while Table D3 shows the re
+sults of Granger causality/block exogeneity tests. VAR residuals were tested for nor
+mality, a common problem in VARs including multiple exogenous shocks that end up
+being mis-specified. The Jarque-Bera statistic was found to be 27.48 and the null hy
+pothesis of multivariate normal residuals couldn’t be rejected, even at the 10% signifi
+cance. Residuals were orthogonalized using the inverse square root of their covariance
+matrix, as suggested by Urzua (1997), not least to guarantee that the results were invar
+iant to the ordering of variables in the model.
+Table D2. VAR(1) regression estimates
+VDependent variable RTt Mt Ct Tax revenues Military exp. Civilian exp. RTt-1 ***0.6940 (0.0698) 0.1188 (0.0832) ***0.2920 (0.0880) Mt-1 0.0693 (0.0392) ***0.1772 (0.0466) -0.0446 (0.0493) Ct-1 -0.0501 (0.0862) -0.2018 (0.1026) ***0.3241 (0.1086) Constant ***3.2440 (0.7935) ***5.7258 (0.9449) ***4.2489 (0.9998) Thessaly dispute (1879-81)
+During -0.8510 (0.7610) ***12.2234 (0.9063) 1.3726 (0.9589) After 0.5942 (0.7000) -0.2644 (0.8336) **2.0519 (0.8820) “Peaceful war” (1885-86)
+During -0.3088 (1.0806) ***8.4138 (1.2869) 2.2103 (1.3617) After 1.2920 (0.8900) 0.7794 (1.0598) 0.9392 (1.1214) Greek-Turkish war 1897
+During -1.0540 (1.2882) ***8.3074 (1.5341) 1.6197 (1.6232) After 0.3252 (0.6555) 0.6875 (0.7806) 0.7472 (0.8259) Balkan wars (1912-13)
+During **-1.8268 (0.8980 ***9.0867 (1.0693) 0.1456 (1.1315) After 0.2668 (1.2692) 5.6844 (1.5114) 0.3851 (1.5992) WWI & GreekTurkish war (1918-22)
+During -2.2714 (1.2974) ***5.2657 (1.5450) 2.2328 (1.6348) After ***3.0574 (1.3328) **-3.6572 (1.5871) 1.2115 (1.6793)
+Trade crisis/default 1893 -0.3823 (0.8063) -1.6823 (0.9601) ***-3.4424 (1.0159) Civil war/Schism 1915-17 ***-4.4652 (1.3652) ***-6.6927 (1.6258) -2.0320 (1.7202) Trade crisis/default 1931 ***-2.2390 (0.6593) -0.1513 (0.7851) -1.0761 (0.8308) 1934 impulse indicator 0.1556 (1.2370) -2.3549 (1.4731) ***5.9513 (1.5587)
+Observations 102 102 102 R2 0.9473 0.9042 0.8223
+Notes: standard errors in (); *** 1% significance, ** 5% significance, * 10% significance
+
+
+54
+Table D3. VAR Granger Causality/Block Exogeneity Wald Tests
+Dependent Variable: Excluded Chi-sq df Prob. Tax revenue Military exp. 3.12858 1 0.0769 * M → TR Civilian exp. 0.337634 1 0.5612 All 3.158518 2 0.2061
+Military expenditures Tax Revenues 2.040582 1 0.1532 Civilian exp. 3.86482 1 0.0493 ** C → M All 3.97946 2 0.1367
+Civilian expenditures Tax Revenues 11.01809 1 0.0009 *** TR → C Military Expenditures 0.817919 1 0.3658 All 13.16622 2 0.0014
+Notes: *** 1% significance, ** 5% significance, * 10% significance
+D2. Using indicator saturation on the three equation model
+Indicator saturation can be used to detect multiple breaks conjointly with all other
+aspects of model selection; in other words, it doesn’t rest on the assumption that the
+model is correctly specified other than the breaks (Castle and Hendry, 2014). The
+method was used to estimate the three-equation model
+yt = a0 + A1 yt−1 + ⋯ + Ak yt−k + selected indicators + εt ,
+Where yt = (TRt, Mt, Ct)′ is the vector of endogenous variables, where TRt, Mt
+and Ct to denote tax revenues, military and civilian expenditures (as p.p. of GDP). With
+the help of impulse indicators, each data point was treated as a potential outlier (Castle
+et al., 2012), while contiguous impulses of the same sign and magnitude can be replaced
+by step indicators (Castle et al., 2015). Autometrics, a general-to-specific model selec
+tion algorithm (Doornik, 2009), was then used to find both the optimal level of lags (up
+to k = 4 lags were tested), and the smallest number of potential step and impulse indi
+cators.
+The search algorithm thus started with as many as 213 potenial regressors and
+estimated as many as 2,201 different models, selecting 32 initial regressors, which were
+subsequently narrowed down further to arrive at the specification presented in Table
+D4. To facilitate comparison with the VAR in Table D2, whenever possible, indicators
+have been named in similar fashion. Of course, this is not always possible since the
+algorithm selects indicators agnostically. Thus, a number of additional step and impulse
+indicators are included, while some coefficients need to be interpreted differently: e.g.
+
+
+55
+the 1885-86 episode was modelled as a step shift (not an impulse), which alters the
+interpretation of post-war ‘legacy’ effects (which are now the sum of the two coeffi
+cients). Finally, the algorithm treated 1914 as part of the Balkan wars, so the post-war
+effect could not be disentangled from the 1915-17 civil war.
+Table D4. VAR(1) regression estimates with indicator saturation and autometrics selection
+VDependent variable RTt Mt Ct Tax revenues Military exp. Civilian exp. RTt-1 ***0.6024 (0.0749) ***0.2794 (0.0826) ***0.2775 (0.0897)) Mt-1 ***0.1333 (0.0415) ***0.2056 (0.0457) -0.0148 (0.0496) Ct-1 -0.0618 (0.0829) **-0.2251 (0.0912) **0.252102 (0.0992) Constant *** 7.9035 (1.616) **3.9405 (1.7800) ***6.5255 (1.9340) Thessaly dispute (1879-81)
+During **-2.4974 (0.9815) ***9.8764 (1.0810) 0.8155 (1.1750) After **2.8663 (0.0110) ***-0.1785 (1.2120) 1.2100 (1.3170) “Peaceful war” (1885-86)
+During† -0.2776 (1.0390) ***8.3197 (1.1440) *2.4455 (1.2430) After **2.11029 (0.9320) ***-7.9804 (1.0270) -1.0286 (1.1150) Greek-Turkish war 1897
+During -1.38887 (1.1390) ***7.9419 (1.2540) 0.8926 (1.3630) After Not selected in model (insignificant) Balkan wars (1912-13, plus 1914)
+During **-1.69824 (0.7652) ***8.2439 (0.8429) 0.0292 (0.9157) After Not distinguishable from 1915-17 civil war effect (see below) WWI & GreekTurkish war (1918-22)
+During 1.37217 (0.9282) ***12.5717 (1.0220) *** 4.0949 (1.1110) After ***5.6253 (0.9832) ***-9.1069 (1.0830) -0.9166 (1.1770)
+Trade crisis/default 1893 0.0614 (0.6133) **-1.3707 (0.6756) *** -3.0337 (0.7340) Civil war/Schism 1915-17 ***-2.9020 (0.9106) ***-8.7476 (1.0030) -1.8081 (1.090) Trade crisis/default 1931 ***-3.4422 (0.9370) 1.3334 (1.0320) ***- 4.0991(1.1210) 1934 impulse indicator -0.0870 (1.1930) -1.9805 (1.3140) *** 5.6808 (1.4280) 1834 impulse indicator -1.3310 (1.2740) ***5.2633 (1.4030) 0.3607 (1.5250) 1879 impulse indicator **3.1100 (1.4990) ***6.6097 (1.6510) 0.8484 (1.7940) 1837/38 step indicator -0.4605 (0.7423) ***-3.5143 (0.8177) 0.1870 (0.8883) 1926/27 step indicator **2.3473 (1.0770) ***-3.7425 (1.1870) 1.9649 (1.2890) 1928/29 step indicator 0.0039 (1.1170) 0.6206 (1.2300) *** 5.8013 (1.3360)
+Observations 106 106 106 Mean (dep. var.) 13.41 7.70 12.65 Standard error (dep. var.) 4.4615 4.0972 3.0882 R2 0.9509 0.9294 0. 8533
+Notes: † the 1885-86 episode is modelled as a step (not an impulse) indicator; standard errors in (); *** 1% significance, ** 5% significance, * 10% significance
+As before, VAR residuals were orthogonalized using the inverse square root of
+their covariance matrix and tested for normality; the Jarque-Bera statistic was found to
+be 17.74, showing no evidence of non-normality. Tests for heteroskedasticity and au
+tocorrelation (up to 5 lags) also found no evidence of non-spherical disturbances. Since
+the new model includes additional indicator variables, compared to the VAR in D2, it’s
+diagnostic performance comes as no surprise. The results of the Granger causality tests
+in Table D5 are also broadly in line with those in Table D3, with the additional finding
+of a potential tax-and-spend effect of taxes on military outlays. Most importantly, the
+
+
+56
+effect of military expenditures on taxation is confirmed, as is the fact that no similar
+effect appears to be present for civilian outlays.
+Table D5. VAR Granger Causality/Block Exogeneity Wald Tests
+Dependent Variable: Excluded Chi-sq df Prob. Tax revenue Military exp. 10.3366 1 0.0013 *** M → TR Civilian exp. 0.5557 1 0.4560 All 10.3398 2 0.0057
+Military expenditures Tax Revenues 11.4542 1 0.0007 *** TR → M Civilian exp. 6.0822 1 0.0137 ** C → M All 12.3453 2 0.0021
+Civilian expenditures Tax Revenues 9.5710 1 0.0020 *** TR → C Military Expenditures 0.0888 1 0.7657 All 9.7493 2 0.0076
+Notes: *** 1% significance, ** 5% significance, * 10% significance
+References
+Castle, J.L., Doornik, J.A., and Hendry, D.F. (2012). ‘Model selection when there are multiple breaks”, Journal of Econometrics, Vol. 169, pp. 239–246.
+Castle, J.L., Doornik, J.A., Hendry, D.F., and Pretis, F. (2015). ‘Detecting location shifts during model selection by step-indicator saturation’, Econometrics, Vol. 3, pp. 240–264.
+Castle, J.L. and Hendry, D.F. (2019). Detectives of Change: Indicator Saturation. In: Castle, J.L. and Hendry, D.F. (Eds), Modelling our Changing World. Palgrave Texts in Econometrics, Palgrave Pivot, Cham, pp. 67–84.
+Doornik, J.A. (2009). Autometrics. In: Castle, J.L. and Shephard, N. (Eds), The Methodology and Practice of Econometrics: A Festschrift in Honour of David F. Hendry, Oxford Academic, Oxford, pp. 88–121.
+Urzua, C. M. (1997). Omnibus Tests for Multivariate Normality Based on a Class of Maximum Entropy Distributions. In: Advances in Econometrics, Vol. 12, JAI Press, Greenwich, Conn., pp. 341–358.
+
+
+57
+BANK OF GREECE WORKING PAPERS
+308. Georgantas, G., Kasselaki, M. and Tagkalakis A., “The short-run effects of fiscal adjustment in OECD countries”, November 2022
+309. Hall G. S., G. S. Tavlas and Y. Wang, “Drivers and spillover effects of inflation: the United States, the Euro Area, and the United Kingdom”, December 2022.
+310. Kyrkopoulou, E., A. Louka and K. Fabbe, “Money under the mattress: economic crisis and crime”, December 2022.
+311. Kyrtsou, C., “Mapping inflation dynamics”, January 2023.
+312. Dixon, Huw, T. Kosma and P. Petroulas, “Endogenous frequencies and large shocks: price setting in Greece during the crisis”, January 2023.
+313. Andreou P.C, S. Anyfantaki and A. Atkinson, “Financial literacy for financial resilience: evidence from Cyprus during the pandemic period”, February 2023.
+314. Hall S. G, G.S. Tavlas and Y. Wang, “Forecasting inflation: the use of dynamic factor analysis and nonlinear combinations”, February 2023.
+315. Petropoulos A., E. Stavroulakis, P. Lazaris, V. Siakoulis and N. Vlachogiannakis, “Is COVID-19 reflected in AnaCredit dataset? A big data machine learning approach for analysing behavioural patterns using loan level granular information”, March 2023.
+316. Kotidis, A. M. MacDonald, D. Malliaropulos, “Guaranteeing trade in a severe crisis: cash collateral over bank guarantees”, March 2023.
+317. Degiannakis, S. “The D-model for GDP nowcasting”, April 2023.
+318. Degiannakis, S., G. Filis, G. Siourounis, L. Trapani, “Superkurtosis”, April 2023.
+319. Dixon, H. T. Kosma, and P. Petroulas, “Explaining the endurance of price level differences in the euro area”, May 2023.
+320. Kollintzas, T. and V. Vassilatos, “Implications of market and political power interactions for growth and the business cycle II: politico-economic equilibrium”, May 2023.
+321. Bragoudakis, Z. and I. Krompas “Greek GDP forecasting using Bayesian multivariate models”, June 2023.
+322. Degiannakis, S. and E. Kafousaki “Forecasting VIX: The illusion of forecast evaluation criteria”, June 2023.
+323. Andreou C. P., S. Anyfantaki, C. Cabolis and K. Dellis, “Exploring country characteristics that encourage emissions reduction”, July 2023.
+324. Dimakopoulou, V., Economides, G., Philippopoulos, A., and V. Vassilatos, “Can central banks do the unpleasant job that governments should do?”, December 2023.
+325. Chrysanthakopoulos, C. and A. Tagkalakis, “The medium-term effects of fiscal policy rules”, January 2024.
+326. Manou, K. and E. Papapetrou, “Does uncertainty matter for household consumption? A mean and a two tails approach”, February 2024.

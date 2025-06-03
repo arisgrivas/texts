@@ -1,0 +1,629 @@
+1218
+American Economic Review 2009, 99:4, 1218–1244 http://www.aeaweb.org/articles.php?doi=10.1257/aer.99.4.1218
+Historians see the evolution of state capacity—especially the capacity to raise taxes—as a central fact to be explained, whereas economists typically assume that such institutional capacity exists. An intriguing argument by political historians (see, e.g., Charles Tilly 1990) holds that state capacity evolved historically over centuries in response to the exigencies of war. War placed a premium on sources of taxation and created incentives for governments to invest in revenueraising institutions.1 More recent historical links between the introduction/development of modern income tax systems and the onset or risk of war also provides some interesting clues. For example, Britain first introduced an income tax in the budget of 1798, given the pressure on its public finances due to the Napoleonic War. The United States first introduced a form of income taxation in 1861 during the Civil War, and the Internal Revenue Service (IRS) was founded on the back of this with the Revenue Act of 1862. Both countries significantly extended their income tax systems during the First and Second World Wars; in Britain, for example, the pay-as-you-earn method of tax collection was introduced in 1944. In Sweden, a system of relatively uniform permanent taxation of land and temporary taxation of wealth goes back as far as the thirteenth century. Sweden first introduced a general income tax in 1861 and an expanded progressive income tax in 1903, in both cases with the motive to increase military expenditures. Our analysis will suggest that the significance of war and military spending in state capacity building comes from the fact that it is an archetypical public good representing broadly common interests for citizens.
+1 Patrick O’Brien (2005) argues that British naval hegemony over nearly three hundred years was rooted in the superior power to raise taxes. John Brewer (1989) and Philip Hoffman and Jean-Laurent Rosenthal (1997) discuss the link between the development of taxation and political institutions, such as parliamentary democracy.
+The Origins of State Capacity: Property Rights, Taxation, and Politics
+By Timothy Besley and Torsten Persson*
+Economists generally assume that the state has sufficient institutional capacity to support markets and levy taxes. This paper develops a framework where “policy choices” in market regulation and taxation are constrained by past investments in legal and fiscal capacity. It studies the economic and political determinants of such investments, demonstrating that legal and fiscal capacity are typically complements. The results show that, among other things, common interest public goods, such as fighting external wars, as well as political stability and inclusive political institutions, are conducive to building state capacity. Some correlations in cross-country data are consistent with the theory. (JEL D72, E62, H11, H20, P14)
+* Besley: London School of Economics and CIFAR, Houghton Street, London WC2A 2AE (e-mail: t.besley@lse. ac.uk); Persson: Institute for International Economic Studies and CIFAR, Stockholm University, S-106 91, Stockholm (e-mail: Torsten.Persson@iies.su.se). We are grateful to three anonymous referees, Daron Acemoglu, Oriana Bandiera, Jeremy Bulow, Steve Coate, Jim Fearon, Avner Grief, Patrick O’Brien, Guido Tabellini, Andrei Shleifer, Barry Weingast, and numerous seminar participants for useful comments and discussions. We also thank Giovanni Favara and Mick Keen for kindly providing us with data, Dario Caldara for excellent research assistance, and CIFAR, the Swedish Research Council, the ESRC, and the Tore Browaldh Foundation for generous financial support.
+
+
+VOL. 99 NO. 4 1219
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+In contrast to these historical lessons, traditional economic theory presumes sufficient institutions not only to tax citizens, but also to sustain markets. The Arrow-Debreu model implicitly assumes a government that flawlessly enforces contracts. Studies of optimal taxation explicitly acknowledge informational constraints, but implicitly assume a bureaucracy able and willing to enforce any tax policy respecting those constraints. Positive analyses in political economics of how the power to tax or regulate is chosen in a political equilibrium with collective choice makes the same implicit assumption. This starting point cannot safely be taken for granted in many states, neither historically nor in the developing world of today. One motivation for our paper is to fill that lacuna in the theoretical literature. Another motivation is to provide answers to some empirical questions in development. Why are rich countries also high-tax countries with good enforcement of contracts and property rights? Why do parliamentary democracies have better property rights protection and higher taxes than presidential democracies? Why is it so hard to find evidence in aggregate data that high taxation is negatively related to growth, while there seems to be good evidence that poor property rights protection is? If state capacities do indeed impose effective constraints, we will be able to gauge them through current measures of taxation and market development. Figure 1 illustrates a positive correlation between measures of the power to tax and of financial development. It graphs the share of government revenue raised from income taxes as a share of GDP against the average private credit to GDP ratio (both measured as a percentage in 1995; see Section IV for more on the underlying data). The figure also illustrates a positive correlation between both these measures and income per capita. (Countries below median income per capita are marked by solid dots and countries above median income per capita are marked with hollow dots.) Clearly, poorer countries are scattered to the south west in the graph, while the richer ones cluster in the north east. Our theory will emphasize that nothing causal can be read into these correlation patterns. Whatever the explanation for these cross-country correlations, however, they are hard to square with simplistic notions that having a small government is a precondition for being a rich and developed nation; they rather suggest that higher taxation and financial development have common underlying causes. In this paper, we propose a model to better understand some of these historical, theoretical, and empirical issues. The contribution is to put together a number of factors in a unified framework. Of course, we cannot build a model of everything, so we focus on two specific aspects of state capacity. In our framework, regulation of market supporting measures and tax rates are endogenous policy choices. But these are constrained by the state’s “legal” and “fiscal” capacity, economic institutions inherited from the past. Current policy choices also reflect political regimes inherited from the past. We then explore the relationships between taxes and property rights, redistribution versus the provision of public goods, income levels, and political regimes. Key to our model is to treat the state’s legal and fiscal capacity as ex ante investments under uncertainty.2 One of our central findings is that investments in legal and fiscal capacity are often complements. On the analytical side, this complementarity allows us to use results from monotone comparative statics, which considerably simplifies the analysis. On the substantive side, the analysis provides a complete set of determinants of investments in state capacity, including the importance of common interest public goods, the level of wealth, the gains from trade in financial markets, political stability and protection of minorities, and the distribution of economic and political power. Moreover, the complementarity suggests a new way of thinking about
+2 The general idea of studying dynamic investments in institutions that affect subsequent policy choices is similar in spirit to Roger Lagunoff (2001), and to the literature on strategic debt issue (Persson and Lars E. O. Svensson 1989).
+
+
+1220 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+the interaction between economic growth and the size of government. On the empirical side, the complementarity leads to the prediction that we should indeed find common determinants of both types of state capacity. We find support for this idea in a preliminary look at the data. Our paper makes contact with several strands of literature. It is clearly related to the body of work on the economic and political history of the state, mentioned above. While that literature is focused primarily on the state’s capacity to raise revenue, it does not emphasize—as we do—the links with the state’s capacity to support market institutions. The same is true of the emerging literature in public finance that takes seriously issues of compliance as a constraint on effective taxation (for an overview see Joel B. Slemrod and Shlomo Yitzhaki 2002). Our paper is also related to the recent work seeking to explain the institutions that support financial markets, such as the protection of minority shareholders or private property rights (see, for example, Rafael La Porta et al. 1998; Raghuram G. Rajan and Luigi Zingales 2003; Daron Acemoglu and Simon Johnson 2005; Marco Pagano and Paolo F. Volpin 2005). As in that work, our analysis treats market-supporting institutions as endogenous. But we analyze market supporting institutions together with taxation, which allows us to address the crucial “Coase theorem” question why a particular ruling group would not provide maximum efficiency of markets and further its own selfish interests through redistributive taxation.3 We also make a clear distinction between economic institutions and policy choices constrained by these institutions. This distinction allows us to consider how economic and political factors shape economic institutions.4 The closest antecedent to this paper is Acemoglu (2005), which develops a model where a government raises taxes to spend on a mixture of transfers to the ruler and productivity-enhancing public goods. Spending on public goods increases future tax revenues. Weak states where rulers
+3 Acemoglu (2006) considers the spillovers to regulatory policies of the state’s capacity to tax, but treats the latter as exogenous. 4 On this point, our approach is related to the theoretical and empirical work by Alex Cukierman, Sebastian Edwards and Guido Tabellini (1992) on how the use of seignorage depends on the efficiency of the tax system, and how the strategic choice of the latter depends on political stability and polarization.
+0
+10
+20
+30
+40
+Share of income taxes in GDP
+0 50 100 150 200
+Above median income Below median income
+Fitted values
+Figure 1. Private Credit to GDP
+
+
+VOL. 99 NO. 4 1221
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+have short time horizons spend too little on productive public goods, while strong states where rules have too much security of tenure blunt accumulation incentives. Also related is Acemoglu, Davide Ticchi, and Andrea Vindigni (2007), which studies the role of bureaucracies in creating (in)effective states. As already mentioned, we build a simple two-period model where past investments in legal and fiscal capacity constrain current policy decisions. Section I formulates this model and studies equilibrium private decisions. Section II analyzes policy choices for given institutions, when these choices are made by a utilitarian planner or by self-interested governments that can be replaced. In Section III we analyze the optimal and equilibrium investments in legal and fiscal capacity. We present comparative statics for the economic and political determinants of legal and fiscal capacity and spell out the implications for economic growth. Section IV presents some empirical evidence. Section V concludes.
+I. Model and Private Choices
+We construct a simple intertemporal model with two main building blocks—trade in a private capital market and taxing/spending by government.
+A. Basics
+To allow for investment in as simple a way as possible, there are two periods s ∈ {1, 2}. Markets are open in both periods and consumers cannot save. Preferences of private agents are linear in private consumption, as well as in government spending (see below). In each period the government in power makes policy decisions on regulation, taxes, and spending. In period 1, the government makes investments in institutions, knowing that the world ends in period 2. This simple framework captures the essentials of a representative time period within a fully specified dynamic model. To model conflicting interests in the simplest possible way, we assume that there are two groups, J ∈ {A, B}. Group membership is due to some attribute that is observable by everybody, including the government. These groups make up shares βA, βB of the population. For simplicity, all agents within each group have the same wealth level, wJ.
+B. productive Opportunities
+To give a rationale for the capital market, we assume that individuals differ not only in publicly observable group membership, but also in privately observed production opportunities. Each person can engage in a project where the gross return for individual I is rI,s ∈ {rL, rH} and rH > rL. We denote the share of group J agents with high returns by σ J (the same in each time period), such that type H individuals in group J make up a share β Jσ J of the total population.
+C. Borrowing, property Rights protection, and Legal capacity
+Entrepreneurs can expand the size of projects by borrowing in a competitive capital market. To prevent default, a member of group J can put up a share of her wealth wJ as collateral. While contracts between borrowers and lenders are upheld by the legal system, we assume that only a share psJ ≤ 1 of collateral is “effective,” where psJ is an index for the enforcement of property rights. Since lenders (and borrowers) have linear preferences, psJ can be interpreted as the probability that a lender gains access to collateral in case of default. As collateralized investment will
+
+
+1222 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+earn no less than the (gross) market return rs in period s, someone from group J can borrow only as much as she will be expected to repay at rs. We model psJ, J = A, B, as a policy choice by the government which is taken before private choices are made. We say that property-rights protection is better for group J, when psJ is higher, as this allows more borrowing for each piece of collateral. Property-rights protection can be differentiated by observable group J, but not by unobservable type I. Group-specific protection reflects the possibility that resources put into contract enforcement may depend on the sector or geographic location of economic activity. Property rights are universal if psA = psB, i.e., when everyone in the economy has equal access to contract enforcement. The choice of how well to enforce private property rights in period s is constrained to the interval: psJ ∈ [0, πs], where the maximum protection level πs is determined by past investments in “legal capacity.” In concrete terms, this reflects legal infrastructure such as building court systems, employing judges, and registering property. The initial stock is π1 and the investment in period 1 is thus given by π2 − π1. Because there is no depreciation of legal capacity, we require π2 − π1 ≥ 0. The costs of such investments are given by L(π2 − π1), an increasing convex function with L(0) = Lπ(0) = 0. 5 The cost function L( · ) could, for example, be dependent on the legal origin of a country: the cost of protecting property rights may be lower under common law than under civil law. Because a higher value of πs allows for more extensive financial contracts, it allows for more credit as a share of total output. As the ratio of private (or total) credit to GDP is often used to measure financial development empirically, we expect πs to be closely related to that measure. It is important to note that, in our model, property rights refer to protection against risk of expropriation by other private agents and not by the government. Government expropriation is ruled out by assumption. As discussed in the concluding section, a more complete theory of how state capacity develops would also include safeguards against public expropriation.
+D. Spending, Taxes, and fiscal capacity
+The other current policy instrument is taxation of the net (after lending or borrowing) output from investment projects. The government can observe net output brought to the market by a member of group J, but not whether the output has been derived from a high or low return project or through lending.6 Thus, tax rates in period s can be made group specific, tsJ, but not project specific. We will say that the tax system is fair when both groups are taxed at the same rate: tsA = tsB. To allow for redistribution in the simplest possible way, we allow tax rates to be negative. Taxation is constrained because any individual can earn a fraction (1 − τs) of her returnseither from projects or lending—in an informal sector where he/she avoids taxation. This implies that the tax rates in period s must satisfy tsJ ≤ τs (see Appendix). As with legal capacity, these nontaxable fractions are determined by investments. Here, what we have in mind is the build-up of institutions such as an administration (like the IRS in the United States) for the collection of income taxes, a system for the monitoring of tax compliance, etc.7
+5 This function, as well as an analogous function capturing the cost of investing in fiscal capacity, could be made proportional to income per capita in the period when investment takes place. Equally, we could allow for depreciation. These extensions would complicate the algebra without affecting the substantive insights in this two-period setting. 6 This parallels the standard informational assumption made in the optimal income tax literature. The restriction to linear income taxes is not important, because in our framework, without labor-leisure or savings choices, taxes do not distort private actions. 7 An interesting possibility is that the same institutions that facilitate market transactions—such as a well-functioning audit system—also facilitate the taxation of individuals or firms. In this paper, we abstract from such “administrative
+
+
+VOL. 99 NO. 4 1223
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+Let τ1 be the initial (i.e., period 1) stock of “fiscal capacity” (a higher τ raises the feasible tax rate). As legal capacity, fiscal capacity does not depreciate but can be augmented by nonnegative investment in period 1, which costs f(τ2 − τ1). We assume f(0) = fτ(0) = 0. It is plausible to think that investments in fiscal capacity are cheaper in a modern society than in a less developed one. Apart from the need to invest in legal and fiscal capacity and the possibility to redistribute across groups, there is an additional, public-goods motive for raising taxes. Public goods have a linear payoff, αsgs, common to all individuals. We assume that αs has a distribution of possible
+realizations, with c.d.f. H and p.d.f. h, on [0, _α_ ] where _α_ > 1. This shock is assumed to be i.i.d. over time. The realized value of αs is known when taxes tsJ are set in period s. But when investments in fiscal capacity take place in period 1, the future value, α2, is stochastic and the investing government knows only its distribution. A first-order stochastic dominating shift in this distribution represents greater perceived benefits of public goods, for example, due to a greater risk of war in future. In this interpretation, αs represents the threat of war and gs the level of defense. Another interpretation would be a broad “welfare-state program” that gives benefits in common to both groups.
+E. capital market Equilibrium
+Individual choices are easy to characterize (see the Appendix for a formal treatment). They imply horizontal demands for borrowing up to the point σJ β J psJ wJ by high-return members of group J, i.e., these individuals put up all their wealth as collateral and invest maximally. Conversely, individuals with low returns are happy to lend at any market rate rs ≥ rL, implying a horizontal supply of lending up to the point (1 − σJ) β J wJ by low-return individuals in group J. We assume that the maximal supply of lending exceeds the maximal demand for borrowing. This will be the case if the number of high-return projects is relatively low. Then, in a competitive equilibrium, the interest rate will be rL. If we make the “natural” assumption that lenders in each group invest the same portion, ls, of their wealth, we can write the market-clearing condition as
+(1) σA β A psA w A + σB βB psB wB = ls[((1 − σA)β A wA + (1 − σB)βB wB ].
+F. Indirect Utilities
+Putting these components together yields indirect utility functions for individuals in group J depending on whether they have access to a low or high return project:
+(2) vH,s
+J (ts
+J, ps
+J, gs) = αsgs + (1 − ts
+J )(rH + ps
+J(rH − rL ))wJ
+and
+(3) vL,s
+J (ts
+J, ps
+J, gs) = αsgs + (1 − ts
+J )rLwJ.
+complementarities” and show that legal and fiscal capacity naturally become complements even in their absence.
+
+
+1224 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+G. Tax Bases and government Budget constraints
+As a preliminary, define per capita net output in each group:
+(4) y ( ps
+J, σJ, wJ) = [σ J(1 + ps
+J)(rH − rL ) + rL]wJ.
+Notice that the y( · ) function is increasing in ps
+J, because more property rights protection for group J allows for more financial intermediation, which raises net output. It is also increasing in wJ and σJ since richer individuals can afford larger projects, and surpluses are generated only by agents with high returns. Moreover, the gain from property rights protection, yp( p, σJ, wJ) = (rH − rL )σJwJ, is increasing in wealth and the share of high-return agents, ypw, ypσ > 0, as both make efficiency gains more important. We will occasionally use the shorthand notation ys = β A y( ps
+A, σA, wA) + βB y( ps
+B, σB, wB) to denote national income in period s. In this notation, we can write (average) indirect utility for group J as
+(5) vs
+J = αsgs + (1 − ts
+J) y( ps
+J, σJ, wJ ).
+The government budget constraints are
+(6) ∑
+J
+t1
+J βJ y( p1
+J, σJ, wJ) = g1 + [L(π2 − π1) + f(τ2 − τ1)]
+in period 1, and
+(7) ∑
+J
+t2
+J βJ y( p2
+J, σJ, wJ) = g2
+in period 2 (when there are no investments).
+H. political Regimes
+We represent political regimes in a simple reduced-form way, allowing for self-interested governments and political turnover. Thus, in each period, power is held by a government, which (over)represents group A or group B. We parameterize government preferences by the weights they attach to the utility of each group. Formally, let φJ
+J ≥ βJ denote the weight that group J gives to itself when holding political power, and φJ
+K ≤ βK the weight group J gives to group K ≠ J. We normalize so that φJ
+J + φJ
+K = 1. It is most convenient to work with an “overweighting” parameter ρ = φ/β. For ease of exposition, we deal with a symmetric case where
+_ρ_ = φA
+A
+____
+β A = φB
+B
+___
+β B ≥ _ρ_ = φA
+B
+___
+βB = φB
+A
+___
+βA .
+Each group thus attaches the same relative weight to its own group.8 While quite specific, this way of modeling politics has the advantage of nesting the utilitarian
+social planning outcome as a special case. Specifically, _ρ_ = _ρ_ = 1 (i.e., φJ
+J = βJ and φJ
+K = βK) represents the weights that would be used by a utilitarian social planner. We shall compare the politically determined policies to the utilitarian benchmark as we proceed.
+8 This is more than a normalization. However, it conveniently allows us to avoid indexing _ρ_ and _ρ_ by K and J.
+
+
+VOL. 99 NO. 4 1225
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+We use the binary indicator γs ∈ {A, B} to denote the type of government in period s, and the parameter γ J ∈ [0, 1] to denote the (exogenously given) probability that the policymaker is of type J in each period. While it would be preferable to develop a structural model of politics—something that we
+leave for future work—the parameters (_ρ_ − _ρ_) and γ J can still be given plausible institutional
+interpretations. We will interpret a smaller difference (_ρ_ − _ρ_) as a more representative political system, such as a more democratic regime.9 Moreover, among democracies it is common to argue (see Section III below) that parliamentary rather than presidential systems of government, and proportional rather than majoritarian systems of elections, generate more consensual politi
+cal outcomes. Such consensus can be thought of as a smaller gap (_ρ_ − _ρ_) between the welfare weights of the groups in and out of power. We will think of greater political stability, whatever the representativeness of the system, as a higher value of γ J when group J holds power in period 1.
+I. Timing
+In each period, s, the economy starts out with some given fiscal and legal capacity, {πs, τs}. The subsequent timing is as follows:
+• Nature determines which private agents have high- and low-return investment opportunities, the value of public goods (military threat), αs, and which group enjoys political control, γs. • The government picks a policy vector comprising taxes, property-rights protection levels, and government spending {ts
+A, ts
+B, ps
+A, ps
+B, gs}, and (in period 1 only) carries out investments in legal and fiscal capacity { π2 − π1, τ2 − τ1} subject to the government budget constraint and anticipating equilibrium private sector responses. • Private agents pick their projects, the capital market clears, and agents consume.
+As we have fully described private sector behavior, we can now focus on government behavior.
+II. Policy Choices
+We first study the choice of taxes, property-rights enforcement, and public spending in each period. Given the (linear) structure of our model, these choices can be studied separately from the investment decisions in period 1. Let group J be in power and group K be out of power in period s. The objective function of the incumbent government is
+φJ
+J vs
+J + φJ
+K vs
+K = _ρ_ βJ vs
+J + _ρ_ βK vs
+K.
+Using the preliminaries above, the policy vector {ts
+J, ts
+K, ps
+J, ps
+K, g} chosen at stage 2 maximizes the objective function
+(8) αsgs + _ρ_ (1 − ts
+J )βJ y( ps
+J, σ J, wJ ) + _ρ_ (1 − ts
+K)βK y( ps
+K, σK, wK)
+9 An alternative interpretation of (_ρ_ − ρ_) would be a more polarized society, due to greater ethnic or linguistic
+fractionalization.
+
+
+1226 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+for given αs subject to the government budget constraint, (6) or (7), and the “institutional” constraints
+ps
+J ≤ πs, ps
+K ≤ πs, ts
+J ≤ τs and ts
+K ≤ τs .
+A. Benchmark Utilitarian Optimum
+To provide a benchmark for the analysis, we begin with the special case _ρ_ = _ρ_ = 1, i.e., where the policy choices are made by a utilitarian social planner in period s. This will be interesting in part to see what aspects of normative analysis are also features of politically determined policy.10 Our results for this case are summarized in:
+PROPOSITION 1: In the utilitarian case _ρ_ = _ρ_ = 1), policy is as follows:
+(i) for s ∈ {1, 2} and any γs ∈ {A, B}, αs ∈ [0, _α_ ], equilibrium property rights always fully utilize all legal capacity
+ps
+J = ps
+K = πs.
+(ii) If αs ≥ 1, then taxable capacity on both groups is fully utilized,
+ts
+J = ts
+K = τs,
+and public goods are provided as
+g1 = τ1 y1 − L(π2 − π1) − f(τ2 − τ1) and g2 = τ2 y2.
+(iii) If αs < 1, for all J, K ∈ {A, B}, gs = 0, for s ∈ {1, 2} and t2
+J = t2
+K = 0 with t1
+J = t1
+K = tˆ1, where
+ˆt1 y1 = L(π2 − π1) + f(τ2 − τ1).
+The result in part (i) that legal capacity is fully utilized rests on the straightforward observation that the indirect utility function in (8) is increasing in both ps
+J and ps
+K. Intuitively, better property-rights enforcement raises the availability of public and/or private goods, for any given tax vector (ts
+A, ts
+B). That legal capacity is always fully utilized ex post is essentially an application, in this context, of the famous Peter A. Diamond and James A. Mirrlees (1971) production efficiency result. Optimal taxation cum public goods provision depends on the realization of αs. Part (ii) shows that when αs ≥ 1, individuals in both groups are taxed up to available fiscal capacity, and tax revenue is used solely to finance public goods, except that the period 1 government also needs to pay for investments in state capacity (which implies less public goods provision). To prove this
+result, notice that when _ρ_ = _ρ_ = 1 a change in the tax rates of groups J and K to finance higher spending on public goods, by the government budget constraint, change the objective (8) by
+10 Acemoglu, Michael Golosov, and Aleh Tysvinski (2008) pursue the same kind of issues in a different context.
+
+
+VOL. 99 NO. 4 1227
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+(αs − 1)β J y( ps
+J, σJ, wJ) dts
+J and (αs − 1)βK y( ps
+K, σK, wJ) dts
+K, respectively. Since the derivatives are constant, a corner solution is optimal. Intuitively, in a “war-time” economy the social value of public goods (αs) is higher than the social value of private goods (1). When the social value of public goods is lower than that of private goods, no public goods are provided by reversal of the same argument. Further, part (iii) prescribes zero tax rates in period 2 while, in period 1, taxes are levied solely to fund investments in state capacity. The government budget constraint shows that a decrease in ts
+J financed by an increase in ts
+K affects the objective (8) by [ A(βJ y( ps
+J, σJ, wJ ) (βKy( ps
+K, σK, wK))/(βJy( ps
+J, σJ, wJ ))B − βKy( ps
+K, σK, wK )]dts
+K = 0. Intuitively, since the two groups have the same constant marginal utility of income (namely 1), a utilitarian planner gains nothing from redistributing across groups, Without loss of generality, we can assume that both groups face the same tax rate. We now turn to optimal policy when policy choices are politically determined. For this case, we have the following:
+PROPOSITION 2: With political control _ρ_ > 1 > ρ_, policy is as follows:
+(i) for s ∈ {1, 2} and any γs ∈ {A, B}, αs ∈ [0, _α_], equilibrium property rights always fully utilize all legal capacity
+ps
+J = ps
+K = πs.
+(ii) If αs ≥ _ρ_, then taxable capacity on both groups is fully utilized,
+ts
+J = ts
+K = τs,
+and public goods are provided as
+g1 = τ1y1 − L(π2 − π1) + f(τ2 − τ1) and g2 = τ2y2 .
+(iii) If αs < _ρ_, for all J, K ∈ {A, B}, public goods provision is set equal to zero, i.e., gs = 0 for s ∈ {0, 1}, the first-period tax on the ruling group is
+t1
+J = [L(π2 − π1) + f(τ2 − τ1)] − τ1βKy(π1, σK, wK )
+__________________________________
+βJy(π1, σJ, wJ) ,
+and the second-period tax on the ruling group is
+t2
+J = − τ2βKy(π2, σK, wK)
+_____________
+βJy(π2, σJ, wJ) .
+By part (i) a politically motivated government chooses the same property-rights protection as a utilitarian planner. The logic is similar: choosing less than full property-rights protection would mean throwing away resources that could be taxed to provide public goods or redistributive transfers (see below).11 As will be clear in Section IV, however, the efficient use of legal capacity
+11 Besley and Persson (2007, sect. 5.3) develops an example when the production-efficiency result fails to hold. It extends the basic framework studied here with a labor market, which generates untaxed quasi-rents. If political institutions are noninclusive and fiscal capacity is low, the government representing group J may then have incentive to exclude group K from the full utilization of available legal capacity, so as to preserve high rents due to a supply of cheap
+
+
+1228 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+in each period certainly does not imply that every society will have high levels of property-rights protection, as these depend directly on investments in legal capacity. Part (ii) is a close cousin of the result in Proposition 1 (ii) and the formal argument uses the same steps. The important difference is that a government representing group J compares
+the value of public goods with the value of transfers to its own group, which are worth _ρ_ > 1. As a result of this, public goods are provided in fewer states of the world (or no states at all,
+if _ρ_ < _α_).
+In the redistributive states of the world, αs < _ρ_, the difference with the utilitarian benchmark is more stark.12 To derive this result in part (iii) formally, substitute the government budget constraints into the objective (8) and take the derivative with respect to each tax rate. Because the resulting derivatives are constant, it is optimal to choose the corner solutions described in part (iii). The result makes intuitive sense. As the ruling group overvalues its own welfare and $1
+worth of public goods is less valuable than $1 of private income when αs < _ρ_, it finds it optimal to provide no public goods and set a maximal tax on the nonruling group to finance a transfer to itself. In period 1, this transfer is smaller to the extent that public revenues are set aside for financing improvements in state capacity. Note that fiscal capacity is less than fully utilized in this case.13
+Together, Propositions 1 and 2 reveal exactly how political control with _ρ_ > _ρ_ distorts policy outcomes, compared to a utilitarian outcome. Political control implies a taxation distortion: in redistributive states of the world, one group always pays maximal taxes to fund redistribution, whereas the utilitarian criterion does not favor such redistribution. It also implies a public goods distortion: common-interest states of the world are too few, as public goods are not provided, even though they are socially valuable by the utilitarian criterion, if αs ≥ 1. From an ex ante per
+spective, public goods are not provided with probability H(_ρ_) compared to H(1) in the utilitarian case. The size of the public goods distortion depends on the inclusiveness of political institutions.
+If _ρ_ is very large, or public goods not very valuable (war is unlikely) so the distribution of α is skewed to the left, we will observe mainly a redistributive rather than a common interest state.
+III. Investments in State Capacity
+Having established the structure of optimal policy, the next task is to study investments in legal and fiscal capacity in period 1.
+A. Optimal Investment decisions
+To characterize these investments, we need some preliminaries and notation. Assume that group J holds power in period 1. At this point, the governing group faces uncertainty over the period 2 realization of α as well as government identity. Drawing on the results in Propositions
+labor for group J’s investment projects. But when fiscal capacity is above a certain level, the incentive to boost quasirents goes away. This is a further application of Diamond and Mirrlees's (1971) insights: when powers to tax are sufficient, it is always optimal for the ruling group to maximize national income and use the tax system to redistribute it.
+12 One clean, although somewhat unrealistic, feature of the model is a dramatic change in policy even if _ρ_ is only slightly below one. A model with some curvature in the utility function would yield a more continuous deviation from the utilitarian benchmark. 13 We are assuming that fiscal capacity does not affect the size of the income transfer that can be made to group J (other than through its effects on the maximal taxes that can be raised from group K).
+
+
+VOL. 99 NO. 4 1229
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+1–2 and going through some algebra, the Appendix shows that we can write the expected payoff to group J as a function of the two forms of state capacity:
+(9) WJ(τ2, π2) = (1 − τ2)[ _ρ_ β Jy(π2, σJ, wJ) + _ρ_ βKy(π2, σK, wK)]
++ τ2 {([1 − H(_ρ_)] E(α2 | α2 ≥ _ρ_)
++ H(_ρ_)[γ J _ρ_ + (1 − γ J ) _ρ_])[βJy(π2, σJ, wJ) + βKy(π2, σK, wK )]} .
+We can then state the optimal investment decision in state capacity as the maximization of
+W J(τ2, π2) − λ(α1)[L(τ2 − τ1) + f(τ2 − τ1)] ,
+where λ(α1) = max {α1, _ρ_ } is the realized (marginal) cost of public funds in period 1. To help characterize the solution, we define two more parameters. The first is the net expected (marginal) value of public funds in period 2 for group J:
+(10) λ2
+J = [1 − H(_ρ_)]E(α2 | α2 ≥ _ρ_) + H(_ρ_)[(γJ − ωJ)(_ρ_ − _ρ_)] ,
+where ωJ = σJw Jβ J/Ω, ωK = σKwKβ K/Ω are the shares of the two groups in total pledgeable wealth held by agents with high-return projects, Ω = [σA wAβ A + σBwBβB ], and where we have used the adding-up constraints γ J + γ K = 1 and ωJ + ωK = 1. Note that ω J and ωK reflect each group’s economic power, in terms of investment opportunities. The first term in λ2
+J reflects the expected value of public goods in common interest-states of the world, whereas the second reflects the expected value of transfers to J less expected taxes paid by J in redistributive states of the world. We also define the net expected (marginal) value of private funds to high-return group J agents in period as
+(11) ρJ = _ρ_ + ωJ(_ρ_ − _ρ_) .
+This is an average of _ρ_ and _ρ_ with weights reflecting the share of the wealth of the high-return investment agents in group J. Assuming that there exists sufficient inherited fiscal capacity to fund investments at the desired level, the first-order conditions for investing in state capacity can be written as
+(12) (ρJ + τ2 λ2
+J)(rH − rL) Ω ⋜ λ(α1)Lπ(π2 − π1)
+c.s. π2 − π1 ≥ 0
+and
+(13) λ2
+J [(1 + π2)(rH − rL) Ω + rL(βJw J + βK wK)] ⋜ λ(α1)fτ(τ2 − τ1)
+c.s. τ2 − τ1 ≥ 0 .
+Conditions (12) and (13) summarize all the forces that shape investment in state capacity.
+
+
+1230 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+Before exploring in detail the implications of (12) and (13) for observable outcomes, we state a basic result:
+PROPOSITION 3:
+(i) In the utilitarian case (_ρ_ = _ρ_ = 1), there is always investment in both types of state capacity.
+(ii) With political control (_ρ_ > 1 > _ρ_), a necessary and sufficient condition for both groups to invest in both types of state capacity is
+λ2
+J > 0, for J = A, B.
+If this condition does not hold, then at most one group invests in fiscal capacity.
+Clearly, if λ2
+J > 0, the left-hand sides of both (12) and (13) are positive and group J values improvements in both kinds of state capacity. In the utilitarian case, this is always the case: λ2
+J
+defined in (10) has a positive first term because public goods are always provided in some states
+(because _α_ > 1), while the second term in (10) is zero because a utilitarian decision maker has no intrinsic demand for redistribution. With political control, the sign of λ2
+J is no longer certain. But we can find alternative sufficient conditions for positive investments. One is that public goods are valuable enough, so the first term in λ2
+J is large enough to outweigh any negative second term due to expected redistribution away from group J. Another is that political stability is high enough, so that γJ − ω J > 0 making the second term always positive, guaranteeing expected redistributive benefits in addition to any benefits from public goods. More generally, if economic power and political power are broadly in line with one another, i.e., γ J ≈ ωJ, then we are likely to have λ2
+J > 0.
+However, there are parameter values for which neither group has any incentive to invest in fis
+cal capacity. Assume that the political regime is very unrepresentative, such that _ρ_ > _α_ > 1 and public goods are not provided in any state of the world. If the political regime is also very unstable such that γJ < ωJ, J = A, B, both groups fear to be expropriated often enough that λ2
+J < 0. Then, none of them invests at all in fiscal capacity, although one or both may still invest in legal capacity. In this case, the political outcome leads to underinvestment in the state compared to the utilitarian benchmark. In welfare terms, the state is investing too little in fiscal capacity and then using that capacity for redistribution rather than public goods provision. If λ2
+J > 0 holds for both groups J ∈ {A, B}, the left-hand side of (12) is increasing in τ2 and the left-hand side of (13) is increasing in π2. Then, investments in legal and fiscal capacity are complements. As a result, the demand for fiscal capacity—to finance redistribution or public goods—is greater when the economy is more productive, as a given increment of taxation raises more revenues due to a larger tax base. Equally, having larger fiscal capacity gives an extra boost to the demand for legal capacity to support markets, because it gives additional public funds that can be used productively. This complementarity is of genuine economic interest and corresponds to a situation in which common interests in state development are important. Therefore, from now on we focus on the case where λ2
+J > 0 for both groups. This will be true
+as long as there are sufficient common interests, i.e., the probability that α2 is greater than _ρ_ is large enough. Finally, note that if λ2
+J > 0, we may have overinvestment as well as underinvestment in state capacity relative to the utilitarian benchmark. From (12) and (13) and supermodularity—see below—a sufficient condition for overinvestment is that both λ2
+J and ρJ are increasing in _ρ_
+
+
+VOL. 99 NO. 4 1231
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+evaluated at _ρ_ = 1. Taking the derivatives of λ2
+J and ρJ and imposing the constraint β J_ρ_ + (1 − β J)_ρ_ = 1, we obtain the following two conditions: ∂ λ2
+J/∂ _ρ_ = H(1)(γ J − ω J ) − h(1)(1 − β J)
+> 0 and ∂ρJ/∂ _ρ_ = (ω J − β J)/(1 − β J ) > 0. Roughly speaking, overinvestment emerges with group J in power when the expected gains from redistribution to the group are large enough to outweigh the expected losses from less public goods provision (the condition on ∂λ2
+J/∂ _ρ_) and, at the same time, the group’s share in productive wealth is no smaller than its population share
+(the condition on ∂ρJ/∂ _ρ_).
+B. determinants of State capacity
+What does the model say about the various determinants of investment in state capacity? In a first step, we prove a set of results (in Propositions 4–7) that hold under general conditions and regardless of which group is in power. This is because, with complementarity between investments, the payoff functions are supermodular and we can exploit results on monotone comparative statics: any factor that raises the value of the left-hand side of both (12) or (13) will raise investments in both forms of state capacity.14 More formally, suppose that we write an objective function in “reduced form” as f (τ2, π2; m) for relevant “parameters” m, and suppose that f ( · ) is supermodular in (τ2, π2). Then (τ2, π2) is monotonically increasing in m if ∂2 f ( · )/∂τ2∂m ≥ 0 and ∂2f ( · )/∂π2∂m ≥ 0. This is exactly the condition that a change in a certain parameter raises the left-hand side of both (12) and (13). In a second step (Proposition 8), we derive more specific results on how the distribution of economic power (wealth) affects institution building. This requires some additional regularity conditions. We start with findings about wealth and the gains from trade:
+PROPOSITION 4: countries with higher wealth, as measured by Ω, optimally choose larger state capacity of both kinds. Larger gains from trade in markets, as measured by higher σA,σB, or (rH − rL), also raise investment in both fiscal and legal capacity.
+This proposition says that richer countries will choose to have greater state capacity. Indeed, the marginal benefit to investing in fiscal capacity is given by the size of national income; the term (1 + π2)(rH − rL )Ω + rL(β Jw J + β Kw K) in (13) is equal to y2. And, the marginal benefit of investing in legal capacity is proportional to the marginal benefit of better property rights, the term (rH − rL )Ω in (12). Note that Proposition 4 applies, even if higher wealth or better trading opportunities accrue exclusively to the group that is not in power. This is because taxes finance public goods and this creates a common interest in investing even if _ρ_ = 0. The results in Proposition 4 are consistent with the observation in Figure 1 that taxation and financial development are positively correlated with income both across and within countries. However, the causation runs from income to markets rather than the other way round. The results are also consistent with the argument by Rajan and Zingales (2003) that financial development is positively correlated with openness to international trade, because the latter expands the returns to reallocating capital. These authors present historical evidence that financial development and openness have co-varied, both being high in the period before World War I, low in the interwar period and immediately after World War II, and then higher again in the last
+14 See Theorems 5 and 6 in Paul Milgrom and Chris Shannon (1994). This result is originally due to Topkis—and has been generalized in Milgrom and Shannon (1994) Theorem 4.
+
+
+1232 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+30–40 years.15 We return to the relationship between financial development and income (growth) in Section IIIC below. We next explore how demand for public goods affects the incentive to invest.
+PROPOSITION 5: A higher expected demand for public goods, a first-order stochastically dominating shift in a, raises λ2
+J and thereby investment in state capacity. Investments in fiscal and legal capacity are decreasing in λ(α1).
+The first result can be used to makes sense of Tilly’s hypothesis on the historical importance of war in building fiscal capacity in Europe, with an auxiliary prediction for legal capacity. The proposition is also consistent with the argument by development scholars, such as Jeffrey I. Herbst (1990) and Robert H. Bates (2001), that one reason for the weak states in Africa is the paucity of external conflict. However, the result applies more widely to any public goods that are national in character, such as broad-based health care programs or building a welfare state. If the demand for such public goods or services is expected to be high, there is a large incentive to invest in state capacity, as these are common-interest investments. But such investments have to be financed. This effect is represented in the parameter λ(α1). When the period 1 demand for public goods is great, public funds are at a premium and investments are lower. The greatest
+incentive to invest arises when λ(α1) = _ρ_, i.e., when period 1 taxes are used for redistribution. The next result concerns the impact of political turnover.
+PROPOSITION 6: greater political stability, represented by an increase in γ J, increases λ2
+J and thereby investment in state capacity.
+To see this, observe that
+∂ λ2
+J
+____
+∂γ J = H(_ρ_)( _ρ_ − _ρ_ ) ≥ 0,
+i.e., a higher probability of group J remaining in power (lower turnover) raises the group’s expected value of public funds in the future. Intuitively, the risk is smaller that the investing group J will see group K use the state for redistributive purposes against group J’s interest in the
+future. This effect is also lower if _ρ_ − ρ_ is close to zero. As mentioned before, we can interpret this gap between the weights the political process places on the ruling group and the nonruling group as a less representative political system offering less minority protection. The model thus suggests that an interesting “interaction” term should be found in the datawe should observe more developed economic institutions in politically stable countries, and this positive effect should be particularly large in less representative political systems with little protection of minorities. We know of no systematic empirical evidence on this issue.16 However, a good illustrative historical case study for how political stability can shape investment in state capacity in a nondemocratic political system comes from England after the Glorious Revolution in 1688. This led to the political dominance of the Whigs in Parliament between
+15 Rajan and Zingales’s informal theory emphasizes the rent-protection incentives of incumbents, which do not appear in our basic model. A similar point arises in Besley and Persson (2007, sect. 5.3). 16 Alberto Alesina, Reza Baqir, and William Easterly (1999) have emphasized how ethnically divided communi
+ties spend less on public goods. If we were to interpret _ρ_ − _ρ_ as a measure of ethnic divisions, their finding would
+be predicted by our model, the probability of no public-goods provision is given by H(_ρ_). But our model would have the additional prediction that such divisions interact with political instability to curtail investments in legal and fiscal capacity.
+
+
+VOL. 99 NO. 4 1233
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+1715 and 1759 (see David Stasavage 2007, table 1). Peter Mathias and O’Brien (1976) calculate that taxes as a share of GDP rose from 16 percent to 20 percent over this period. Moreover, the administrative institutions put in place during the same period meant that, after 1713, excises and indirect taxes levied on domestically produced goods and services accounted for more than three quarters of tax revenues (O’Brien 2005). The considerable investment in state capacity by this dominant elite, culminating in the introduction of an income tax, underpinned the fiscal superiority of the British over the French during the Napoleonic wars and assisted Britain to raise public debt credibly to fight those wars. In the years 1803 to 1812, the British government had accumulated sufficient fiscal capacity to raise taxes equal to a remarkable 36 percent of GDP (Mathias and O’Brien 1976). In addition to this interaction effect, we are interested in the direct effect of the representative
+ness of political regimes. To get at this, consider the effect of rasing _ρ_, subject to the constraint
+β J _ρ_ + (1 − β J ) _ρ_ = 1. In general, this effect is quite complicated, interacting with the distribu
+tion of political power as represented by γ J and economic power as represented by ω J. We can neutralize these effects by supposing that β J = ω J = γ J. While the assumption γ J = β J says that political power is allocated (probabilistically) in proportion to population size, β J = ω J implies that σJw J is the same in both groups, i.e., they have the same opportunities to invest. We then have:
+PROPOSITION 7: If βJ ≈ ωJ ≈ γ J, a more representative political system, in the sense of a
+lower _ρ_ − _ρ_, raises investment in both fiscal and legal capacity.
+To see this, observe that with βJ = ωJ = γ J and the constraint βJ _ρ_ + (1 − βJ) _ρ_ = 1,
+then ρJ = 1 and the second term in the expression for λ2
+J in (10) is zero, so λ2
+J
+= ∫_ρ_
+_α_ α2 dH(α), which is independent of J. The effect of an increase in _ρ_ on ρJ is therefore zero, while the effect on λ2
+J is
+∂ λ2
+J
+____
+∂ _ρ_ = −h(_ρ_) _ρ_ < 0.
+So the marginal return to both fiscal and legal capacity increases for lower _ρ_. By continuity, the result holds for small differences between β J, ω J, and γ J. Intuitively, more representativeness and minority protection lowers the value of redistribution, and therefore public goods are supplied more often. As the state becomes more about common interests, the value of fiscal capacity increases and, by complementarity, so does the value of legal capacity. To see why this result requires the condition βJ ≈ ωJ ≈ γJ, suppose, for example, that the ruling group has γ J > ωJ. Then, a less representative political system can increase the value of future revenue λ2
+J since that group’s political power (in an expected sense) is greater than its cost of taxation (proportional to ωJ). A long tradition in political science (for example, Arend Lijphart 1999) considers proportional electoral systems more consensual than majoritarian systems, while Persson, Gerard Roland, and Tabellini (2000) argue that parliamentary democracies are more representative than presidential democracies. In these interpretations, Proposition 7 predicts that we should see more investment in legal and fiscal capacity in such democracies, which appears consistent with the findings in Persson and Tabellini (2004) that parliamentary and proportional democracies have much higher government spending. The comparative static in Proposition 7 also captures the idea that states with greater checks and balances are likely to have more state capacity. This parallels the argument of Kenneth A. Schultz and Barry Weingast (2003), who suggest that greater checks and balances in British political arrangements facilitated revenue raising. Thomas J. Sargent and
+
+
+1234 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+Francois R. Velde (1995) argue that France’s desire to constrain the king’s revenues resulting in an underdeveloped fiscal system played a central role in the economic events leading to the French Revolution. Finally, we would like to say something specific about the distribution of economic power and investments in state capacity. To do this, we simplify the model σ A = σ B. We then look at the effect of a higher share of wealth in the hands of group J, i.e., an increase in ω J holding total wealth (β Jw J + β Kw K) fixed. With a few additional regulatory conditions, we obtain:
+PROPOSITION 8: Under Assumption 1 ( see the Appendix), greater economic power of the ruling group, i.e., a higher value of ωJ, increases investment in legal capacity and reduces investment in fiscal capacity.
+PROOF: See the Appendix.
+The argument is straightforward. An increase in ωJ raises ρJ but reduces λ2
+J, which—in turnraises the marginal return to legal capacity but reduces the marginal return to fiscal capacity. Assumption 1 essentially guarantees that the direct effects on the marginal returns to fiscal and legal capacity are not offset by indirect effects operating through the complementarity. The comparative statics then go in the expected direction, i.e., according to the change in the marginal benefits of the two types of state capacity. Proposition 8 speaks to the wealth distribution between the groups in and out of power. It suggests that, ceteris paribus, a more unequal income distribution raises investments in legal capacity and cuts investments in fiscal capacity if the rich have a hold on political power, whereas the effects go the other way if the poor have political power. Because the effect of ωJ on ρJ is larger
+the higher is _ρ_, this effect should be most pronounced in autocracies. In other words, the model predicts the protection of property rights to improve (deteriorate) and taxation to fall (rise) as income inequality becomes more pronounced in autocracies ruled by rich elites (poor masses). Together, Propositions 4–8 give a fairly complete understanding of the forces that shape the incentives to invest in state capacity.
+C. Implications for Economic growth
+The simple structure of the model makes it easy to state the implications for economic growth, defined as the proportional increase in national income from period 1 to period 2. Using the earlier definition of per capita income and the results in Proposition 1, a little algebra establishes
+y2 − y1
+______
+y1
+= (π2 − π1)(rH − rL ) Ω
+__________________________
+(1 + π1)(rH − rL ) Ω + rL ∑J βJwJ .
+Evidently, the growth rate is directly proportional to the investments in legal capacity. Since there is no private accumulation, higher growth comes about solely by better allocative efficiency facilitating gains from trade—achieving higher TFP. Thus, there are strong reasons to see a positive correlation between improvements of market-supporting economic institutions and income growth. Legal capacity in our model is closely related to financial development: the amount of private credit is proportional to π. As noted in Section IC, many empirical studies have measured financial development precisely in this way and found it to be positively correlated with growth of
+
+
+VOL. 99 NO. 4 1235
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+GDP per capita. According to our model, financial deepening can indeed cause growth. But the relationship can easily go the other way. As we have seen in Proposition 4, higher income generally raises the incentives to invest in legal capacity leading to financial deepening. In terms of fiscal institutions, taxation, and growth, the complementarity between fiscal and legal capacity delivers clear-cut results. If greater legal capacity is driven by any of the determinants emphasized in Propositions 4–7, we expect it go hand in hand with higher fiscal capacity. Variation in these forces would lead us to observe a positive correlation between higher taxes and faster growth. On the other hand, higher legal capacity driven by a more unequal income distribution, as in Proposition 8, could induce a negative correlation between fiscal capacity and growth. Finally, in the case when λ2
+J < 0 (so that there is no investment in fiscal capacity), legal capacity and national income are still positively correlated, while there is zero correlation between taxation and growth. These theoretical findings are interesting in relation to some of the empirical findings in the macro literature on growth and development. Many researchers have found a positive correlation between measures of financial development, or property-rights protection, and economic growth (see for example, Robert G. King and Ross Levine 1993, Robert E. Hall and Charles I. Jones 1999, and a number of subsequent papers). The discussion above cautions us that such correlations may indeed reflect a two-way relationship. On the other hand, those expecting to find a negative relation between taxes and growth have basically come up empty-handed (see, for example, the overview in Roland Bénabou 1996). Simple though it is, our model suggest a possible reason for these findings. Our results are obtained in the absence of private capital accumulation. Besley and Persson (2007, sect. VD) extends the same framework to include private investments. In that setting, building fiscal capacity has an additional “standard” disincentive effect on growth because a higher value of τ2 increases future expected taxes and lowers the marginal expected return to investing, thereby reducing capital accumulation. However, building legal capacity now has an additional positive effect on growth, because it raises the (gross) returns on private investment which stimulates private accumulation. As long as the complementarity between fiscal and legal capacity holds, the increases in both kinds of state capacity expand together with private incomes.
+IV. A Look at the Data
+Our model predicts that fiscal systems and market-supporting legal institutions (particularly those fostering financial development) are jointly endogenous to a common set of economic, political, and social variables. In this section, we take a preliminary look at data on measures of financial development, contract enforcement, and tax structure. We explore some conditional correlations between these outcome variables and the determinants suggested by our model, but do not make any claims of capturing causal relations.
+A. Independent Variables
+As common determinants of the state capacity outcomes, we include three sets of independent variables. We hypothesize that the historical incidence of war serves as a proxy for the past demand for common public goods, g. Then, the model has the nontrivial implication that this proxy should be correlated with both forms of state capacity today. We use data from the Correlates of War database to create a measure of how large a share of the years between 1816, or
+
+
+1236 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+the year of independence (if later), and 1975 that a country was involved in an external military conflict.17 We also include some measures of political institutions. The theory predicts that the inclusiveness of political institutions is one of the key factors shaping investments in state capacity. As in the case of war, we should thus consider the incidence of inclusive institutions in the past. Accordingly, we measure the share of years from 1800 (or independence) to 1975 that a country was democratic (as defined by a strictly positive value of the polity2 variable in the Polity IV dataset).18 Given the discussion in Section III of differences across democratic institutions, we also measure the share of years the country was a parliamentary democracy. Further, our specification for each outcome variable includes a set of indicators for legal origins, as in many recent studies of institutions following La Porta et al. (1998). As mentioned above, our model suggests a theoretical role for legal origins via the cost function L( · ). If some legal origins affect the ease with which contracting can be done, we would expect this to affect investments in legal capacity. Perhaps less trivially, we would also expect the same legal origins to affect investments in tax systems in the same direction through the basic complementarity between the two forms of state capacity. Finally, we do not include income, income per capita, or other measures of development among the independent variables. According to our model, independent shocks to income can certainly affect investments in both forms of state capacity. But the analysis also clearly shows that state capacity helps determine income. Disentangling this two-way relation requires a more sophisticated empirical strategy than the one pursued here.
+B. Legal capacity
+Table 1 considers legal capacity, measured by financial development and contract enforcement, as the dependent variable. The first column reports results for a common measure of financial development in the literature beginning with King and Levine (1993), namely the private credit to GDP ratio.19 We take the average of this variable over all years from 1975 onward. As all other outcome variables in Tables 1 and 2, this measure is scaled to lie between zero and one, with higher values indicating a greater level of state capacity. An increase in the proportion of years up to 1975 that a country has been in an external conflict is strongly positively correlated with this measure of financial development. Democracy does not seem to matter in a significant way. Interestingly, German and Scandinavian legal origins are positively correlated with private credit, but English and Socialist legal origin are not (French legal origin is the excluded category).20 Column 2 looks at the country’s rank in terms of access to credit, using the indicators from the World Bank’s doing Business Web site.21 Again, our incidence-of-war variable is positively
+17 http://www.correlatesofwar.org/. Specifically, we say that a country is at war in a specific year if either (or both) of the binary (0,1) variables interstatewar or extrastatewar—which both refer to external conflicts—is equal to unity. The mean of the resulting variable is 0.03 with a standard deviation of 0.73. The results in Tables 1 and 2 are robust to using different lags for this variable, including the average years of war up to 1900. The results also hold up if we use a dummy variable denoting whether a state has been involved in any external conflict before 1975, which guards against the influence of such outliers as France and Britain. 18 http://www.cidcm.umd.edu/polity/. 19 We thank Giovanni Favara for providing these data. 20 Some of these correlations, in particular that between wars and state capacity, are weaker if we look only at within-region variation, i.e., by including a full set of regional dummies (for eight regions) in the regressions. Thus, it appears that the different war histories of Western Europe and regions like Africa drive this correlation (cf. the remarks in connection with Proposition 5). 21 http://www.doingbusiness.org. The overall ranking is put together from four subcomponents: (i) a Legal Rights Index, which measures the degree to which collateral and bankruptcy laws facilitate lending, (ii) a Credit Information
+
+
+VOL. 99 NO. 4 1237
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+correlated with legal capacity. Parliamentary democracy is also significantly correlated with higher legal capacity according to this measure (the sum of the two democracy variables is significantly different from zero). As in column 1, German and Scandinavian legal origin are positively correlated with the outcome. Column 3 uses another variable from the doing Business indicators, the country’s rank in terms of investor protection.22 The findings here are somewhat different in that war experience does not seem to matter while being a parliamentary democracy does. In addition, it is English, as opposed to German or Scandinavian, legal origin that is correlated with investor protection. Finally, we use a perceptions index of government antidiversion policies from the International Country Risk Guide (ICRG), which itself is the sum of five different indexes, including contract enforcement and the rule of law. This index has been extensively used in the macro development literature (for example, Hall and Jones 1999; Acemoglu, Johnson, and James A. Robinson 2001), as a measure of the protection of property rights. We take the average of this index from the early 1980s to the late 1990s. Even though the source of this variable is quite different from the others, it tells the same basic story in terms of war experience, parliamentary democracy, and German and Scandinavian legal origins. To summarize, the patterns in the data are largely
+Index, which measures rules affecting the scope, access, and quality of credit information, (iii) public credit registry coverage, and (iv) private credit bureau coverage. See Simeon Djankov, Caralee McLeish, and Andrei Shelifer (2007) for further details. 22 http://www.doingbusiness.org/. This ranking is assembled from four underlying indexes: (i) transparency of transactions (Extent of Disclosure Index), (ii) liability for self-dealing (Extent of Director Liability Index), (iii) shareholders’ ability to sue officers and directors for misconduct (Ease of Shareholder Suit Index), and (iv) strength of Investor Protection Index (the average of the three index). See Djankov et al. (2006) for details.
+Table 1—Economic and Political Determinants of Legal Capacity
+Private credit to GDP
+Ease of access to credit (country rank)
+Investor protection (country rank)
+Index of government antidiversion policies (1) (2) (3) (4)
+Incidence of external conflict up 0.510*** 0.647** 0.029 0.576*** to 1975 (0.143) (0.191) (0.209) (0.170) Incidence of democracy up to 1975 0.953 0.110 −0.044 0.126** (0.059) (0.267) (0.078) (0.050)
+Incidence of parliamentary 0.001 0.145 0.339** 0.112* democracy up to 1975 (0.063) (0.114) (0.137) (0.061) English legal origin −0.009 0.068 0.125** −0.007 (0.033) (0.057) (0.063) (0.040) Socialist legal origin — 0.098 0.097 0.010*** (0.111) (0.115) (0.035) German legal origin 0.406*** 0.295*** −0.008 0.248*** (0.120) (0.064) (0.149) (0.053) Scandinavian legal origin 0.112*** 0.204*** 0.087 0.254*** (0.041) (0.067) (0.098) (0.055)
+Observations 93 122 120 115 R2 0.524 0.334 0.256 0.596
+Notes: Robust standard errors in parentheses. Socialist legal origin is dropped in column 1 because Private Credit to GDP is missing for all countries in this category. *** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+
+1238 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+consistent with the determinants of contract enforcement and financial development suggested by the model.23
+C. fiscal capacity
+How does the fiscal capacity side of the story hold up? This aspect of state capacity is more difficult to measure in terms of observable outcomes, since the model predicts that fiscal capacity is not always fully utilized. What matters are the past investments that make it possible to raise taxes. Governments in countries with little fiscal capacity tend to use border taxes, such as tariffs, as the basis of their tax systems. They also tend to require less institutionalized structures of compliance compared to income taxation. In column 1 of Table 2, we use one minus the share of revenue from trade taxes as a first measure of fiscal capacity. This measure is based on IMF data and is expressed as an average from 1975 onward.24 As predicted by the model, countries with a history of war are less reliant on
+23 These findings are also consistent with wars directly stimulating financial systems through public debt issue. Of course, this is not inconsistent with our general argument and ideas. Indeed, a public debt channel would reinforce the general complementarities that we have identified. However, it is another channel for war to have an impact on financial development. That being said, introducing more public debt would not necessarily lead to better private contract enforcement and more private credit (in theory) except as an unintended consequence of public sector financial development. 24 We thank Mick Keen for making the data on the structure of taxation used in Thomas Baunsgaard and Michael Keen (2005) available to us. That paper documents the sources for the structure-of-taxation variables.
+Table 2—Economic and Political Determinants of Fiscal Capacity
+One minus share of trade taxes in total taxes
+One minus share of trade and indirect taxes in total taxes
+Share of income taxes in GDP
+Share of taxes in GDP (1) (2) (3) (4)
+Incidence of external 0.762*** 0.598*** 0.579*** 0.555*** conflict up to 1975 (0.250) (0.241) (0.220) (0.162) Incidence of democracy 0.143 −0.078 0.091 0.088 up to 1975 (0.077) (0.100) (0.059) (0.059)
+Incidence of parliamentary 0.031 0.122 0.212*** 0.160** democracy up to 1975 (0.083) (0.103) (0.078) (0.068)
+English legal origin −0.038 −0.012 −0.034 −0.015 (0.058) (0.061) (0.043) (0.042) Socialist legal origin 0.136** −0.222*** −0.109*** −0.119 (0.058) (0.037) (0.065) (0.031) German legal origin 0.175*** 0.196*** 0.171* 0.010*** (0.052) (0.090) (0.010) (0.083) Scandinavian legal origin 0.189** 0.068** 0.258** 0.292*** (0.077) (0.084) (0.134) (0.087)
+Observations 103 103 103 103 R2 0.356 0.305 0.600 0.576
+Note: Robust standard errors in parentheses. *** Significant at the 1 percent level. ** Significant at the 5 percent level. * Significant at the 10 percent level.
+
+
+VOL. 99 NO. 4 1239
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+trade taxes. German and Scandinavian legal origins are also correlated with greater fiscal capacity measured in this way. In column 2, we add indirect taxation and find similar results. In column 3, we measure high fiscal capacity by an extensive income tax system, using the income tax to GDP ratio as our outcome measure. Again, we find past wars and German and Scandinavian legal origin to correlate positively with high fiscal capacity. In addition, past parliamentary democracy is now correlated with fiscal capacity. Column 4 looks at overall taxes raised as a share of GDP, a “catch-all” measure of fiscal capacity. This outcome shows a similar pattern of correlations as the share of income taxes in GDP.
+D. Summary
+Putting the results in Tables 1 and 2 together, the historical incidence of war, the historical incidence of parliamentary democracy, and German and Scandinavian legal origins are remarkably stable predictors of both legal and fiscal capacity. The correlations we have uncovered are in line with the predictions of our model, where both forms of state capacity have common origins in political institutions, the need to finance common interest public goods, and factors that shape the cost of investments. With the caveat made earlier, we also note that regressions of the same kind as those reported in Tables 1 and 2, but with income per capita as the dependent variable, produce very similar patterns of sign and significance. Even though the preliminary evidence is encouraging, much remains to be done before we can claim to have identified causal effects in line with the predictions of the theory. There are many caveats. For example, in looking at the data over long time periods, there may be a survivorship bias toward countries that appear in the data today. Related to this, one could also worry about whether there is reverse causation between state capacity and war. In future work, it may be fruitful to exploit evidence from the time-series experience of countries that have built legal and fiscal capacity to yield more convincing evidence, even if the set of countries with available data is limited.
+V. Concluding Comments
+The historical experience of today’s rich nations indicates that creation of state capacity to collect taxes and enforce contracts is a key aspect of development. Equally, the current experience of today’s poor nations indicates that state capacity cannot be taken for granted. We analyze investments in state capacity as purposeful decisions reflecting circumstance and institutional structure. Our theoretical analysis highlights the factors that shape these decisions and points to a basic complementarity between fiscal and legal capacity. The analysis brings together ideas from economic history, finance, development economics, and political economics. A first inspection of the data suggests that the common determinants proposed by our theory do indeed correlate in the predicted way with various measures of legal capacity and fiscal capacity. While we take a first step in modeling the forces that shape state capacity, further theoretical work is needed too. Studying the two-way relation between state capacity and development in the data should rely on theoretical predictions from a full-fledged dynamic model. A dynamic multiperiod model would also permit the study of some issues bypassed here, such as depreciation of state capacity, time- or income-dependent costs of capacity, and short-run versus long-run determinants of accumulation. For example, we expect the complementarity between fiscal and legal capacity to lead to long-run overaccumulation of both types of capacity.25
+25 Besley and Persson (2007, sect. 5.1) find such an overaccumulation result when they study a quasi–steady state of a repeated model like the one in this paper, in which none of the groups has a further incentive to accumulate any form of state capacity.
+
+
+1240 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+Since the model uncovers clear links from political institutions to state capacity, it would be interesting to explore endogenous political change—especially the emergence of democracy—in our framework. Despite its broad scope, the paper deals only with one aspect of property rights, the market supporting role of property rights emphasized by, e.g., Hernando de Soto (2000). Other parallel issues concern the development of property rights against predation by the state, as emphasized, for example, by Douglass C. North (1990). A more complete theory of state development would deal with both aspects of property rights and would understand the emergence of constraints on state capacity being abused. External conflict is certainly an important source of common-interest public goods, but it is unsatisfying to treat every external conflict as exogenous. Ideally, endogeneity of conflict should be explored in a model of multiple interdependent governments, who all have the option of investing in state capacity. In line with recent work in the democratic peace literature, such as Bruce Bueno de Mesquita et al. (1999), details of domestic institutions might then help determine the propensity to engage in foreign conflict. Given the central role of common interests in state building in our model, it is also interesting to think of ways to make these interests endogenous. Many nations emphasize a sense of belonging that creates common interests, and foster them explicitly through education and public programs. It would be interesting to introduce this as purposive behavior in the model. Redistribution also plays an important role in our analysis. Internal conflicts such as civil wars reflect an extreme form of domestic redistributive conflict. Unlike external war, anticipated civil wars will therefore have detrimental effects on the incentive to build state capacity—see Besley and Persson (2008) who take the incidence of civil war as given. More generally, we expect building state capacity and the patterns of civil war and economic development to be jointly determined by initial historical conditions and basic economic and political factors. This is also an important topic for further research. Even in the rudimentary form developed here, we believe that our analysis offers a new perspective on the institutional underpinnings of development. In particular, the state capacities that we analyze typically evolve quite slowly. This may help to explain why historical patterns of prosperity are so highly persistent.
+Appendix
+A. private Optimal choices
+A member of group J can borrow in period s only by putting up a share, cs
+J ≤ 1, of her wealth w J as collateral . Denoting the amount borrowed by bs
+J, incentive compatibility implies (see further below):
+(14) bs
+J ≤ ps
+J cs
+J w J.
+In addition to the notation in the text, let ls denote the amount of lending provided by an individual, ks the amount invested in a project, and ns the amount withheld from taxation in the informal sector; and let ds ∈ {0, 1} be a binary indicator for default on any amount borrowed. Since preferences are linear in private consumption (net income), we can write the utility of an individual in group J and period s as
+vs
+J = αsgs + (1 − ts
+J)(rI ks
+J − rs bs
+J + rsls
+J) + (ts
+J − τs)ns
+J + rs(bs
+J − ps
+J cs
+J w J) ds
+J.
+
+
+VOL. 99 NO. 4 1241
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+The second term on the right-hand side is the net after-tax return from projects cum capital markets transactions; the third is the return to concealing income from tax in the informal sector; and the fourth is the net gain from defaulting on borrowing. Consider an individual choosing (ks
+J, bs
+J, ns
+J, cs
+J, ds
+J, ls
+J) ≥ 0, in period s subject to the wealth constraint, ks
+J + ls
+J ≤ wJ + bs
+J, the collateral constraint, cs
+J ≤ 1, and the tax avoidance constraint,
+ns
+J ≤wJ. It is immediate that any individual with an investment opportunity would find it optimal to borrow and invest a large amount, and then default on his debt, i.e., set ds
+J = 1, as long as bs
+J
+> ps
+J cs
+J wJ. This formally motivates the upper bound on borrowing in (14). Moreover, as long as taxes exceed the critical level ts
+J > τs, it is optimal to set ns
+J = w J, i.e., put all projects in the informal sector. This formally motivates the upper bound on the tax rate. Imposing the no-tax-arbitrage and no-default constraints, the optimal choices for individuals with different rates of return are simple to characterize. High-return individuals for whom rI ≥ rs find it optimal to put up all their wealth as collateral, cs
+J = 1, invest a maximum amount
+ks
+J = (1 + ps
+J) w J, and borrow ps
+J w J to enjoy the surplus of their project . Individuals with low returns are happy to lend at any market rate rs ≥ rL that makes up for their opportunity cost of foregone return. Putting this logic together yields equations (2) and (3) in the text.
+B. derivation of the Investment Objective
+Exploiting Propositions 1–3, we can define in a straightforward way the payoffs to each group depending on whether it has control over policy in period 2. If group J controls policy, its utility is
+(15) wJ
+J (α2, τ2, π2 ) = _ρ_β J y(π2, σ J, w J) + _ρ_ β K y(π2, σ K, w K ) +
+u
+τ2[(α2 − _ρ_)βJy(π2, σ J, w J ) + (α2 − _ρ_)β K y(π2, σ K, w K )] if α2 ≥ _ρ_
+τ2(_ρ_ − _ρ_)β K y(π2, σ K, w K ) if α2 < _ρ_ .
+Since this expression is increasing in both τ2 and π2, the ruling group prefers access to greater taxable and legal capacity, other things equal. The corresponding payoff to group J when the other group K controls policy, calculated by applying group J’s own welfare weights, is as follows:
+(16) wK
+J (α2, τ2, π2) = _ρ_ β J y(π2, σ J, w J ) + _ρ_ β K y(πs, σ K, w K ) +
+e τ2[(α2 − _ρ_)β J y(πs, σ J, w J ) + (α2 − _ρ_)β K y(πs, σ K, w K )] if α2 ≥ _ρ_
+τ2(_ρ_ − _ρ_)β J y(πs, σ K, w K ) if α2 < _ρ_ .
+These two expressions highlight a latent conflict of interest. When α2 ≥ _ρ_, no such conflict exists and the groups in power and out of power both want better state fiscal and legal capacity.
+When α2 < _ρ_, instead, the group out of power is worse off when τ2 is higher (cf. the negative
+term (_ρ_ − _ρ_) in the last term of (16)), because taxes are used to redistribute income away from the nonruling group toward the ruling group. While there is an obvious conflict of interest over fiscal capacity in this case, both groups continue to value improvements in legal capacity. Let’s assume that group J holds power in period 1. Define the expected payoff to this group with economic institutions (τ2, π2):
+W J(τ2, π2) = γ J E {wJ
+J (α2, τ2, π2)} + (1 − γ J ) E {wK
+J (α2, τ2, π2)} .
+
+
+1242 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+Using (15) and (16), it is straightforward to derive expected utility (over the realization of α) as a function of τ2, π2 to group J:
+W J(τ2, π2) = (1 − τ2)[ _ρ_ β Jy(π2, σ J, w J ) + _ρ_ β K y(π2, σ K, w K )]
+[1 − H(_ρ_)] E(α2 | α2 ≥ _ρ_) +
++ τ2 e H(_ρ_)[γ J _ρ_ + (1 − γJ ) _ρ_] [ β J y(π2, σ J, w J) + βK y(π2, σ K, w K )] f .
+PROOF OF PROPOSITION 8: Let σ A = σ B = σ and state:
+ASSUMPTION 1: for all interior solutions for (τ2 − τ1) and (π2 − π1),
+fττ
+_f_τ_
+> H(_ρ_)
+_________
+1 − τ2 H(_ρ_) and Lππ
+_L_π_
+> (rH − rL )σ λ2
+J (1 − τ2H(_ρ_))
+_______________________________
+[(1 + π2)(rH − rL )σ + rL ](ρJ + τ2λ2
+J )H(_ρ_) ,
+which will hold provided fττ/fτ and Lππ/Lπ are large enough. The Hessian to the system made up by (12) and (13) is
+−λ (α1) Lππ (rH − rL ) Ωλ2
+J
+c (rH − rL ) Ωλ2
+J − λ(α1) fττ d .
+For an optimum, the (Jacobian) determinant of this matrix has to be positive. Using the firstorder conditions (12) and (13) to substitute out −λ(α1), this requires
+fττ
+_f_τ_
+Lππ
+_L_π_
+− (rH − rL )σλ2
+J
+___________________________
+[(1 + π2)(rH − rL )σ + rL](ρJ + τ2λ2
+J) > 0,
+which is implied by Assumption 1. To derive the comparative statics, use Cramer’s rule to obtain
+λ(α1)fττ(_ρ_ − _ρ_)(rH − rL) Ω(1 − τ2H(_ρ_))
+d (π2 − π1)
+_________
+dw J = −λ2
+J(rH − rL ) Ω(_ρ_ − _ρ_) H(_ρ_)[(1 + π2)(rH − rL ) Ω + rL
+_Ωσ ]
+________________________________________ [λ(α1)]2 Lππ fττ − [(rH − rL )Ωλ2
+J ]2 ,
+an expression which, using (13), is positive if
+fττ
+_f_τ_
+> H(_ρ_)
+_________
+1 − τ2H(_ρ_) ,
+which is the first part of Assumption 1. In addition, we have:
+λ2
+J (rH − rL ) Ω(_ρ_ − _ρ_)(rH − rL ) Ω(1 − τ2H(_ρ_))
+d(τ2 − τ1)
+________
+dw J = −λ(α1)Lππ(_ρ_ − _ρ_)H(_ρ_)[(1 + π2)(rH − rL )Ω + rL
+_σΩ_ ]
+____________________________________ [λ(α1)]2 Lππfττ − [(rH − rL )Ω]2 (λ2
+J)2 ,
+
+
+VOL. 99 NO. 4 1243
+BESLEy ANd pERSSON: ORIgINS Of STATE cApAcITy
+which, using (12), is negative if
+Lππ
+_L_π_
+> (rH − rL )σλ2
+J (1 − τ2H(_ρ_))
+_______________________________ ,
+[(1 + π2)(rH − rL )σ + rL](ρJ + τ2λ2
+J )H(_ρ_)
+which is the second part of Assumption 1.
+REFERENCES
+Acemoglu, Daron. 2005. “Politics and Economics in Weak and Strong States.” Journal of monetary Economics, 52(7): 1199–226. Acemoglu, Daron. 2006. “Modeling Inefficient Institutions.” In Advances in Economics and Econometrics: Theory and Applications, Ninth World congress Volume 1, ed. Richard Blundell, Whitney K. Newey, and Torsten Persson, 341–80. New York: Cambridge University Press.
+Acemoglu, Daron, Michael Golosov, and Aleh Tsyvinski. 2008. “Political Economy of Mechanisms.” Econometrica, 76(3): 619–41.
+Acemoglu, Daron, and Simon Johnson. 2005. “Unbundling Institutions.” Journal of political Economy, 113(5): 949–95.
+Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2001. “The Colonial Origins of Comparative Development: An Empirical Investigation.” American Economic Review, 91(5): 1369–401.
+Acemoglu, Daron, Davide Ticchi, and Andrea Vindigni. 2007. “Emergence and Persistence of Inefficient States.” Unpublished.
+Alesina, Alberto, Reza Baqir, and William Easterly. 1999. “Public Goods and Ethnic Divisions.” Quarterly Journal of Economics, 114(4): 1243–84. Bates, Robert H. 2001. prosperity and Violence: The political Economy of development. New York: W. W. Norton & Co. Baunsgaard, Thomas, and Michael Keen. 2005. “Tax Revenue and (or?) Trade Liberalization.” Unpublished. Bénabou, Roland. 1996. “Inequality and Growth.” In NBER macroeconomics Annual 1996, ed. Ben S. Bernanke and Julio J. Rotemberg, 11–74. Cambridge, MA: MIT Press. Besley, Timothy, and Torsten Persson. 2007. “The Origins of State Capacity: Property Rights, Taxation, and Politics.” National Bureau of Economic Research Working Paper 13028.
+Besley, Timothy, and Torsten Persson. 2008. “Wars and State Capacity.” Journal of the European Economic Association, 6(2–3): 522–30. Brewer, John. 1989. The Sinews of power: War, money and the English State, 1688–1783. New York: Knopf.
+Cukierman, Alex, Sebastian Edwards, and Guido Tabellini. 1992. “Seigniorage and Political Instability.” American Economic Review, 82(3): 537–55.
+de Mesquita, Bruce Bueno, James D. Morrow, Randolph Siverson, and Alastair Smith. 1999. “An Institutional Explanation of the Democratic Peace.” American political Science Reiview, 93(December): 791–807.
+De Soto, Hernando. 2000. The mystery of capital: Why capitalism Triumphs in the West and fails Everywhere Else. New York: Basic Books and Bantam Press/Random House. Diamond, Peter A., and James A. Mirrlees. 1971. “Optimal Taxation and Public Production: I––Production Efficiency.” American Economic Review, 61(1): 8–27.
+Djankov, Simeon, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer. 2006. “The Law and Economics of Self-Dealing.” Unpublished.
+Djankov, Simeon, Caralee McLiesh, and Andrei Shleifer. 2007. “Private Credit in 129 Countries.” Journal of financial Economics, 84(2): 299–329.
+Hall, Robert E., and Charles I. Jones. 1999. “Why Do Some Countries Produce So Much More Output Per Worker Than Others?” Quarterly Journal of Economics, 114(1): 83–116. Herbst, Jefferey I. 1990. “War and the State in Africa.” International Security, 14(4): 117–39. Hoffman, Philip T., and Jean–Laurent Rosenthal. 1997. “The Political Economy of Warfare and Taxation in Early Modern Europe: Historical Lessons for Economic Development.” In The frontiers of the New
+
+
+1244 THE AmERIcAN EcONOmIc REVIEW SEpTEmBER 2009
+Institutional Economics, ed. John N. Drobak and John V. C. Nye, 31–55. San Diego: Harcourt Brace, Academic Press. King, Robert G., and Ross Levine. 1993. “Finance and Growth: Schumpeter Might Be Right.” Quarterly Journal of Economics, 108(3): 717–37.
+La Porta, Rafael, Florencio Lopez de Silanes, Andrei Shleifer, and Robert Vishny. 1998. “Law and Finance.” Journal of political Economy, 106(6): 1113–55.
+Lagunoff, Roger. 2001. “A Theory of Constitutional Standards and Civil Liberty.” Review of Economic Studies, 68(1): 109–32.
+Lijphart, Arend. 1999. patterns of democracy: government forms and performance in Thirty-Six countries. New Haven, CT: Yale University Press. Mathias, Peter, and Patrick O’Brien. 1976. “Taxation in Britain and France, 1715–1810: A Comparison of the Social and Economic Incidence of Taxes Collected for the Central Governments.” Journal of European Economic History, 5(3): 601–50.
+Milgrom, Paul, and Chris Shannon. 1994. “Monotone Comparative Statics.” Econometrica, 62(1): 15780.
+North, Douglass C. 1990. Institutions, Institutional change and Economic performance. New York: Cambridge University Press. O’Brien, Patrick. 2005. “Fiscal and Financial Preconditions for the Rise of British Naval Hegemony: 1485–1815.” Unpublished. Pagano, Marco, and Paolo F. Volpin. 2005. “The Political Economy of Corporate Governance.” American Economic Review, 95(4): 1005–30.
+Persson, Torsten, Gerard Roland, and Guido Tabellini. 2000. “Comparative Politics and Public Finance.” Journal of political Economy, 108(6): 1121–61.
+Persson, Torsten, and Lars E. O. Svensson. 1989. “Why a Stubborn Conservative Would Run a Deficit: Policy with Time-Inconsistent Preferences.” Quarterly Journal of Economics, 104(2): 325–45. Persson, Torsten, and Guido Tabellini. 2004. “Constitutional Rules and Fiscal Policy Outcomes.” American Economic Review, 94(1): 25–45.
+Rajan, Raghuram G., and Luigi Zingales. 2003. “The Great Reversals: The Politics of Financial Development in the Twentieth Century.” Journal of financial Economics, 69(1): 5–50. Sargent, Thomas J., and Francois R. Velde. 1995. “Macroeconomic Features of the French Revolution.” Journal of political Economy, 103(3): 474–518.
+Schultz, Kenneth A., and Barry R. Weingast. 2003. “The Democratic Advantage: Institutional Foundations of Financial Power in International Competition.” International Organization, 57(1): 3–42. Slemrod, Joel, and Shlomo Yitzhaki. 2002. “Tax Avoidance, Evasion, and Administration.” In Handbook of public Economics Volume 3, ed. Alan J. Auerbach and Martin Feldstein, 1423–70. Amsterdam: Elsevier Science, North-Holland. Stasavage, David. 2007. “Partisan Politics and Public Debt: The Importance of the ‘Whig Supremacy’ for Britain’s Financial Revolution.” European Review of Economic History, 11(1): 123–53.
+Tilly, Charles. 1990. coercion, capital, and European States, Ad 990–1990. Oxford: Blackwell.
+
+
+This article has been cited by:
+1. Daron Acemoglu, Davide Ticchi, Andrea Vindigni. 2011. EMERGENCE AND PERSISTENCE OF INEFFICIENT STATES. Journal of the European Economic Association 9:2, 177-208. [CrossRef]
+2. Timothy Besley, Torsten Persson. 2011. FRAGILE STATES AND DEVELOPMENT POLICY. Journal of the European Economic Association no-no. [CrossRef]
+3. Krešimir Žigić. 2011. Does a ‘non-committed’ government always generate lower social welfare than its ‘committed’ counterpart? Strategic trade policy when consumer surplus matters. Journal of Comparative Economics . [CrossRef]
+4. Mark Koyama. 2010. The political economy of expulsion: the regulation of Jewish moneylending in medieval England. Constitutional Political Economy 21:4, 374-406. [CrossRef]
+5. Agnieszka Ziomek. 2010. Economics Performance and Institutional Economics in Poland After 1989. American Journal of Economics and Sociology 69:5, 1553-1565. [CrossRef]
+6. Bruce Bueno De Mesquita, Alastair Smith. 2010. Leader Survival, Revolutions, and the Nature of Government Finance. American Journal of Political Science 54:4, 936-950. [CrossRef]
+7. Kenneth Scheve, David Stasavage. 2010. The Conscription of Wealth: Mass Warfare and the Demand for Progressive Taxation. International Organization 64:04, 529-561. [CrossRef]
+8. Ethan Ilzetzki. 2010. Rent-seeking distortions and fiscal procyclicality￿. Journal of Development Economics . [CrossRef]
+9. Timothy Besley, James A. Robinson. 2010. QUIS CUSTODIET IPSOS CUSTODES? CIVILIAN CONTROL OVER THE MILITARY. Journal of the European Economic Association 8:2-3, 655-663. [CrossRef]
+10. Daron Acemoglu, Andrea Vindigni, Davide Ticchi. 2010. PERSISTENCE OF CIVIL WARS. Journal of the European Economic Association 8:2-3, 664-676. [CrossRef]
+
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.

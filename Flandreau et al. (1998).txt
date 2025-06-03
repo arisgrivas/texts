@@ -1,0 +1,1761 @@
+Stability without a Pact? Lessons from the European Gold Standard, 1880-1914
+Author(s): Marc Flandreau, Jacques Le Cacheux, Frédéric Zumer, Rudi Dornbusch and Patrick Honohan
+Source: Economic Policy, Apr., 1998, Vol. 13, No. 26, EMU (Apr., 1998), pp. 115-162
+Published by: Oxford University Press on behalf of the Centre for Economic Policy Research, Center for Economic Studies, CESifo Group, and the Maison des Sciences de l’Homme
+Stable URL: https://www.jstor.org/stable/1344751
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms
+, , and Oxford University Press are collaborating with JSTOR to digitize, preserve and extend access to Economic Policy
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 117
+Stability without a pact? Lessons from the European
+gold standard, 1880-1914
+Marc Flandreau, Jacques Le Cacheux and Frederic Zumer
+EHESS, OFCE, OFCE
+1. INTRODUCTION
+Since the early years of the Industrial Revolution, European countries h
+collectively or separately, tried various economic arrangements. These effo
+include insulation: commercial protectionism until the Cobden-Chevalier Trea
+1860, capital controls from the 1930s to the 1970s, and the free float of the 1
+They also include periods of openness: fixed exchange rates with the ERM,
+capital mobility during the nineteenth century, and increased free trade sinc
+Treaty of Rome. The latest step, European monetary unification, stands as
+We wish to thankJer6me Legrain for his excellent work as a research assistant in the first phase of the project. thanks are due to Roger Nougaret, who heads the Archives of the Credit Lyonnais, for his kind help investigation of sources. We are also grateful to a long list of colleagues either for their contribution in su directions to appropriate sources, or for their comments on earlier drafts, or both: Pablo Martin Acena, M Bergman, Michael Bordo, Steve Broadberry, Felix Butschek, Forrest Capie, Elio Cerrito, Olga Christodoulak Pierre Dormois, Barry Eichengreen, Curzio Giannini, Paul Gregory, Tim Hatton, Ingrid Henriksen, LarsJ Anton Kausel, Charles Kindleberger, John Komlos, Jacques M6litz, Leandro Prados de la Escosura, Jaime R Andreas Resch, Hugh Rockoff, Annalisa Rosselli, Max-Stefan Schulze, Pierre Sicsic, Jan-Pieter Smits, Peter Nathan Sussman, Giuseppe Tattara, Bruno Th6ret, Jan-Luiten Van Zanden and Vera Zamagni. We also Charles Wyplosz, the Editors of Economic Policy and our discussants, whose comments helped to improve the pa focus. We are especially grateful to the OFCE Documentation Staff (Gwenola de Gouvello and Christine Paq and to the Sciences-Po crew, who were kind enough to ship us unusually large numbers of volumes of the Staes Yearbook during the early stages of the project. The Editors thank Michael Bordo for detailed advice.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+SUMMARY
+The gold standard was a system of fixed exchange rates that ofered little
+opportunity for carrying out monetary policies, short of suspending gold
+convertibility. Trade integration and capital mobility were very high. It is
+worthwhile asking whether there are useful lessons to draw for EMUfrom
+European experience during that period. One clear lesson is that debts matter.
+Another basic finding is that the stability of the European gold standard
+depended on the underlying price trend. Deflation prior to 1895 resulted in
+rising public debt burdens, which forced some countries to leave the system.
+Once gold was discovered and deflation gave way to inflation, real interest
+servicefell, debts grew more slowly and a high degree of convergence allowed
+most countries to return to gold. For EMU, this result implies that stability
+will hinge on the ECB's policy not being too restrictive. Other lessons concern
+the fragility of institutions in the face of deep public finance diffculties, the
+risks for the single market of leaving out countries that have not fully
+converged, and the existence of a virtuous cycle including low real interest
+rates, fast growth and debt reduction.
+- Marc Flandreau, Jacques Le Cacheux and Frideric Zumer
+Economic Policy April 1998 Printed in Great Britain ? CEPR, CES, MSH, 1998.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+118 MARC FLANDREAU ETAL
+unparalleled e
+World War, s
+small open Be
+its leading in
+Greece, and
+standard with
+commercial
+currency are
+resulted in cen
+from govern
+central bank 
+The relevanc remains to b
+contrast to t
+common rule
+the gold stand
+lack of co-ope
+the demise of
+(Flandreau, 1
+countries hop 1914 (Eichen
+conferences t
+ordination, b
+Gallarotti, 19
+targets for de
+extent that i
+without a pact
+Is it true to
+monetary pol
+of the time s
+deficits, etc.,
+1871). Moreov readily avai 'technologica
+constructed on
+existed. Gene
+were used to notion of na
+population, an
+per head in a
+manner (see,
+kind of invisib
+118 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 119
+mechanisms that substituted for our modern formal criteria. This traditional
+interpretation, which dates back to the interwar years, sees the classical gold
+standard as a coherent system of rules and policies. (For critiques of this view, se
+Bloomfield (1959) and Triffin (1964); for links with current debates in Europe, see
+Eichengreen and Flandreau (1997).) Recent work has refined this interpretation by
+specifying the nature of restraints.
+A first view emphasizes the political mechanism. Gallarotti (1995) stresses that the
+ruling European bourgeoisie wanted stable prices and exchange rates over the long
+run, because it held a large fraction of its wealth and pensions in the shape of fixed
+interest domestic and foreign bonds. The conservative policies that preserved the
+gold standard are seen as the by-product of the conservatism of elites. However, in a
+democratic society, decision making must be transparent. Monetary stability canno
+rest on an arrangement that empowers a specific interest group with the ability to set
+fiscal or monetary targets. Formal rules are needed to prevent changes in politica
+majorities resulting in fiscal misconduct. The Maastricht 'formal rules' approach
+would be a democratic equivalent of the gold standard 'political' mechanism as a
+way to deliver stability.
+An alternative view emphasizes the market mechanism. According to Bordo and
+Rockoff (1996), the gold standard rule worked as an incentive mechanism. Lender
+monitored fiscal and monetary misconduct, using gold convertibility as a signal of
+orthodox policies. Because leaving the gold standard implied higher interest rates,
+each country had an incentive to adopt disciplined policies. Bordo and Rockoffs
+point is that this mechanism was stabilizing because disciplined countries were
+rewarded through lower interest rates: 'countries chose to join the gold standard
+bloc, even though being on gold imposed restraint on their fiscal and monetary
+behaviour'.' However, nothing in this reasoning is specific to the gold standard. The
+same incentives should in principle exist under any regime: indeed, the modern
+literature on financial markets discipline (Bishop et al., 1989) stresses that markets
+perform the job of providing governments with appropriate incentives. Under this
+view, therefore, the market mechanism will be an essential ingredient of stability in the euro zone.
+The institutional and market mechanism views of the gold standard correspond to
+two alternative perceptions of the requisites for a successful functioning of the euro
+zone. This paper looks into the historical precedent of the gold standard to
+determine whether lessons can be drawn for today's Europe. We begin with an
+investigation of the record of the European gold standard (section 2). Our key
+conclusion is that the gold standard comprised two subperiods. The first period,
+starting in 1880, ended with a severe exchange crisis in the 1890s. The second
+period began with exchange rate instability, but then evolved after the turn of the
+'Private correspondence from Hugh Rockoff, which neatly summarizes their view.
+119
+STABILITY PACTS
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+120 MARC FLANDREAU ETAL
+century tow
+instability c ratios.
+Section 3 lo
+central bank
+the respect independen
+recurrent fis
+independence
+of monetary
+Section 4 ev literature (s
+monetary un burdens were found at levels that are close to current ones.
+Section 5 looks at price movements that affected the opportunity cost of being
+part of the gold standard. When prices were falling, debt service costs rose and
+many debt-laden countries suspended gold convertibility. By contrast, countries
+found it easier to participate in the gold standard when prices rose. To a large
+extent, divergence and convergence within the gold area can be traced to trends in rates of inflation.
+The conclusion sums up the evidence and discusses policy implications. In
+particular, we suggest that stability will hinge on the ECB's policy not being too restrictive.
+2. LIVING WITH HIGH DEBTS: STYLIZED FACTS ABOUT THE EUROPEAN
+GOLD STANDARD
+2.1. European integration and globalization, 1880-1914
+While this paper focuses on Europe as a regional entity, it should be kept in
+that the European gold standard developed in the context of global integra
+both real and nominal, and was one aspect of the international gold standa
+Capital, as is often the case, was perhaps the most mobile factor and flowed swift
+across borders. Numerous empirical studies have demonstrated that extremely
+links existed between regional financial centres in Europe and elsewhere. Short-te
+capital, in the shape of exchange bills, circulated rapidly from country to cou and short-term interest rates exhibited considerable covariations at both the
+European (Flandreau, 1995b) and international levels (Zevin, 1992), even during financial crises. Goschen, a contemporary observer, called it the 'solidarity of
+international financial centres'. Long-term capital also travelled rapidly. Large and
+well-organized capital markets (the leading centres had a capitalization that represented several times the national product of the corresponding country)
+120 MARC FLANDREAU ETAL
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 121
+pro
+pub
+und
+resu
+a di
+Hor
+(199
+bet
+har
+gov
+reas
+Lon
+gen
+Lab
+rest
+rem seas
+mig
+Wil
+Ital
+reg
+Wh
+mar
+dist
+The
+tota
+Bair
+cen
+for
+tran
+Lik
+189
+to m
+org
+fert
+the
+cur
+of t
+beh
+dev to B
+gra
+STABILITY PACTS 121
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+122 MARC FLANDREAU ETAL
+before the Fir
+between custo
+at large and 10
+than, say, the
+2.2. Gold pari gold standard
+Participation in the gold club was not the outcome of any negotiation. A country
+only needed to define a gold parity for its currency: that is, the quantity of pure gold
+in national coins. As long as they effectively maintained convertibility (i.e., stood
+ready to exchange their notes against coins), central banks indirectly pegged their
+bilateral exchange rates vis-a-vis other gold convertible currencies within the so
+called gold points. These may be thought of as target zones, whose centre coincided
+with the official parity and whose bandwidth corresponded approximately to bullion
+shipping charges between countries. This was the situation in countries like Britain,
+France, Germany and the Netherlands. Other currencies, while not strictly
+convertible, behaved as if they were pegged to gold, because the central bank held
+foreign exchange reserves and used them to stabilize the exchange rate each time it
+threatened to exit notional gold points. This was the case in Austria. In other
+countries, such as Greece in the years immediately preceding the First World War,
+the national currency was related to gold through what was essentially a currency board arrangement: domestic units were created on a one-for-one basis as a
+counterpart of foreign exchange reserve holdings.
+Since these measures were implemented at the country's convenience, they could
+always be suspended without international agreement: the option was always
+available to suspend convertibility, discontinue stabilizing foreign exchange interventions, or quit gold standard arrangements. In this case, the country was
+effectively dropping off gold and its exchange rate could fluctuate. Historically, such
+decisions tended to follow periods of crisis, during which money creation had been
+large and capital inflows low, so that the amount of gold (or reserves) required to
+settle the country's external obligations was larger than the quantity available in the
+vaults of the central bank. Once offgold, countries found themselves effectively on a
+paper standard with a floating exchange rate. The official gold parity represented a
+floor for exchange rate appreciation, because the central bank that could not sell
+gold against notes could still sell notes against gold. A country could either undertake
+to return the exchange rate to its gold parity (a course adopted during the period
+under study by Portugal, Greece, Italy and Spain), or bring the parity into line with
+exchange depreciation, accepting a permanent devaluation (a course adopted by
+Russia and the Austro-Hungarian Empire in the 1890s).
+Figure 1 summarizes the spread of the gold standard in Europe. There is, of
+course, a degree of arbitrariness in deciding where to put the boundary between
+122 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PAC
+s
+p
+b
+B
+t s
+r
+c
+t
+f
+O
+E
+E World War.
+Figure 2 displays the evolution of European exchange rates in terms of end-ofperiod gold parity, so that a value above unity means the exchange rate is temporarily depreciated. The three key European currencies (sterling, franc and
+Reichsmark) are excluded from the diagram because they remained within their
+assigned gold points throughout the period. The general pattern exhibits a bell
+shape. Nearly all exchange rates are located in a narrow 10% interval. The only
+exception is Portugal, for which the depreciation was around 20%. For several
+countries, depreciation was considerable during the 1890s and early 1900s, and was
+followed by appreciation as the currencies returned to the gold standard.
+The general pattern conceals three different groups. Small economies, such as
+Belgium, the Netherlands and Scandinavia, display a very high level of exchange
+Germany France Britain
+Belgium Netherlands Switzerland
+Norway Denmark Sweden A iustria FZssia
+t talv y Spain Greece , Port uqal
+Figure 1. Countries on gold, 188
+2 'his feature echoes the descriptions of oth
+123
+STABILITY PACTS
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+124 MARC FLANDREAU ETAL
+rate stabili
+eastern Eu
+depreciatio
+a halt, thei
+the early
+devalued go the 1870s.
+parity, and
+third grou and, to a
+accelerated
+above 65%
+exchange r
+back to go
+stabilization
+1.8
+1.7 
+1.6 
+1.5 
+1.4 
+1.3 
+1.1 
+1
+0.9i t I i 1880 1882 1884 1886 1888 1890 1892 1894 1896 1898 1900 1902 1904 1906 1908 1910 1912
+--- Belgian franc --o- Kroner (Scandinavia) -- Guilder (Holland) -x Rouble -- Florin/crown (Austria-Hungary) -- Lira -t Milreis (Portugal) - Peseta --- Drachma
+Figure 2. Exchange rates (ratio to end-of-period parity), Source: Schneider et al. (1991). JVotes: Key currencies (the French franc, pound sterling and Reich whole period are excluded from the diagram. The pesata and milre end of the period as these countries remained outside the gold clu gold club parities were devalued in the 1890s (this is why the rouble end-of-period parity in 1890).
+124 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 125
+- Belgium
+-x- Britain
+(a) --- Denmark
+5.5 -- -- France
+--- Germany
+5- Netherlands
+- - Norway
+- Sweden 4.5 -o- Switzerland
+4
+3.5
+3 Xx-x-X -X---XX x. .
+2.5 
+2 1 I I I t I I t! t
+1880 1882 1884 1886 1888 1890 1892 1894 1896 1898 1900 1902 1904 1906 1908 1910 1912 1914
+(b)
+18 / - Austria-Hungary
+16 * / -- Greece
+14-\ A- - Italy i~2 -y~ i/' / P -o- t Portugal 12 - '--- Russia
+10o- I/ -- Spain
+1880 1882 1884 1886 1888 1890 1892 1894 1896 1898 1900 1902 1904 1906 1908 1910 1912 1914
+Figure 3. Long-term interest rates, 1880-1914 Source: See Appendix A.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+126 MARC FLANDREAU ETAL
+Thus the Euro
+literature; or
+rules were bro
+exemplified b
+standard com
+intriguing rem
+2.3. Long-ter
+The long-term
+return on gov
+bore gold coup default risk,
+depreciation (
+amount to a p
+between 1905
+early as 1880,
+of the range
+higher rates,
+late 1880s. Th
+(Russia and A
+opposite tren central and e
+interrupted b
+Russian rates.
+Spain, and to
+later, after th
+interest rate e
+2.4. Debt/GD
+The ratios of observe consid
+(Greece, 1890)
+period, large
+defaulted in 1
+3The estimated inte implemented. The m improve these count 4For Switzerland, w however, that for report are inclusive
+126 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 127
+* Belgium
+-x- Britain
+-- Denmark
+-*- France
+-- Germany
+*- Netherlands
+(a)
+120
+and
+-n- Norway
+9= Sweden
+60 0- 0 - Switzerl
+100 X-- //X
+40
+20
+1880 1882 1884 1886 1888 1890 1892 1894 1896 1898 1900 1902 1904 1906 1908 1910 1912
+(b)
+1880 1882 1884 1886 1888 1890 1892 1894 1896 1898 1900 1902 1904 1906 1908 1910 1912
+Figure 4. Debt/GDP ratios (%) in Europe, 1880-1913 Source: See Appendix A.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+128 MARC FLANDREAU ETAL
+and Austria
+computed o
+more coun
+roughly lay
+Scandinavia
+Pre-First W Spain and
+(120%), deb
+(such as Ge
+that intra
+evolution, f
+then declin
+The coincid
+interest rat
+interest ra
+received w
+which publ
+peace preva wars occurr
+can be seen
+time of th
+external un
+of continen
+concerns wi
+Summarizi
+countries w
+This proces
+exchange r
+scribed to t
+interest ra
+period betw
+experience,
+contrast to
+success.
+3. INSTITUTIONAL FIXES: DEMOCRACY, CENTRAL BANK INDEPENDENCE AND THE SPREAD OF THE EUROPEAN GOLD
+STANDARD
+In this section, we document the contribution of institutional arrangement
+monetary stability under the European gold standard. Our goal is to try to assess t extent to which the features documented above can be ascribed to institutions.
+128 MARC FLANDREAU ETAL
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILIT
+3
+A m
+r
+(
+g
+t
+l
+m
+P
+p
+C
+l
+t v
+c
+t
+(
+a
+e
+T
+f
+o
+t
+d
+b
+f
+f
+e
+d
+e
+t
+l
+i
+5 u m S m
+STABILITY PACTS 129
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+130 MARC FLANDREAU ETAL
+Table 1. The extension of the frsnehise: those eligible to vote as a % of the adult male population
+1880 1890 1990 1910 1913
+Britain 35.8 62.4 61.5 62.2 62.4 France 86.4 86.6 90.0 91.5 90.5
+Germany 91.3 92.3 94.2 94 86.8 Belgium 8.2 8.1 90.7 91.6 91.6 Netherlands 12.2 25.6 51.6 62.6 67.0 Switzerland 79.2 80.2 78.1 76.4 75.8 Denmark 78.3 84.2 85.4 87.9 87.8
+Norway 23.7 32.2 89.7 95.0 95.0 Sweden 23.5 22.9 27.5 77.5 76.5
+Italy 9.0 32.0 26.5 32.2 89.8 Spain n.a. n.a. n.a. n.a. n.a. Portugal n.a. n.a. n.a. n.a. n.a. Greece n.a. n.a. n.a. n.a. n.a.
+Austria-Hungary 24.8 30.5 34.3 94.5 94.5 Russia n.a. n.a. n.a. n.a. n.a.
+Source: Flora etal. (1983), vol. I, pp. 89ff.
+those who had recently changed
+would have to wait. But workers w
+Table 1 does not suggest a direct
+stability of the gold standard.
+coincides after 1900 with the de
+universal suffrage was granted only
+the lira was firmly stabilized, and
+that the yield on Italian bonds fell
+instability in Austria coincided w
+coincided with an extended franc
+and France had granted universal
+study (in 1871 and 1848 respectiv
+the case of Britain, where a restr
+stability. But on this dimension,
+stands as an exception.
+3.2. Central bank independen
+No view could be more distant from the concerns of economists in the 1890s and
+1900s than the modern prejudice that central bank independence was the normal
+state of affairs during the gold standard. In the years immediately preceding the First
+World War, the protection of central banks against political pressures was indeed
+high. However, this was perceived by contemporaries as being the result of a patient
+130 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 131
+cons
+comp
+the p
+'theo
+This
+inde
+non
+mon
+bett
+separ
+man
+prot
+prog
+Cen
+indu
+com
+co-o
+last
+bodi
+hand
+polic
+prot stim
+com
+char
+renegotiated.
+Governments could extract seigniorage in two ways. They could force the central
+bank to monetize the debt and they could directly circulate government notes
+independently of the central bank. Following Cukierman's (1992) distinction between limitations on lending and ways to influence decisions, two features of
+central banks' charters are of interest. Direct political control is linked to the
+ownership of the bank (privately or state owned), the appointment of the board
+(governor, sub-governor(s) and council), as well as rules governing the cover system.
+Obviously, the greater the private sector ingredient in the decision-making process,
+the more constrained was the government (Capie (1997) makes a similar point).
+Indirect control rests on rules governing the government's right to obtain short-term
+advances, to monetize securities, or to issue its own paper. One should not take a
+nominalist view of such features. Statutes were not resources lying exclusively in the
+hands of central bankers or governments. They were the endogenous outcome of
+negotiations that codified state-bank relations when charters were drafted, and their adjustment over time followed, rather than preceded, actual changes in
+underlying power relations. Leads and lags existed between printed norms and
+131
+STABILITY PACTS
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+132 MARC FLANDREAU ETAL
+actual behaviour
+renewal of its ch
+its actual bargain
+renegotiation of
+well distort actu
+secure a minimum
+when large publi bank of issue.6
+3.3. The good g
+Table 2 summari
+and Germany) an
+lands and Scandin
+the gold club, we
+and the central
+which were kept
+securities were t
+system. Taken to
+enough free reso
+while providing f
+supported by th
+often a private c
+holders. Interestin
+owned, the centr
+Parliament, to wh
+central bank acti
+This general pat
+Netherlands, Bel
+central banks. Al
+process with stat
+state, and issues
+no formal rule ex
+ment credit. Since
+in public securit
+Conseil General
+ability of shareh
+indeed able to ou
+"Posen (1994) supports mainstream economists' counterview.
+132 MARC FLANDREAU ETAL
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Table 2. Central bank indepondence: core countries
+Britain: France: Gcr Bank of England Banquc de France R
+Status Private Private Priv
+Head Governor and 1 deputy governor Appointed by Shareholders
+Council
+Appointed by
+24 directors
+Shareholders
+Cover system Act of 1844: 100% specie backing in the issue department, plus fixed issues on 'securities' Suspension of the Act of 1844 required to issue beyond this limit
+Gouvemneur and 2 sous gouveneurs Governmcnt
+Regents
+Shareholders
+No formal rule (limits on aggregate issues arc regularly revised upwards)
+Preside
+Imperi
+4 cura 1 curat Fede
+3 deleg boar
+Fixed l Remain Issues Penalt
+Parallel issues No
+Yes
+But very limited: 'deficiency advances' in the Banking Department under parliamentary control
+Upper limit
+No obligation
+No obligation
+Possi
+Possi
+State's treasurer
+Profits
+Yes Yes, partly
+Rent to the state
+Shared
+Yes (for
+Shared
+Yes (quasi-monopoly) Yes (since 1848) Yes (qu
+Charter/revised
+Legal tender
+1833/1844 1857/1897
+Act of 1844 Since 1870
+1875/
+Not unt
+Sources: Lcvy (1911); Conant (1915).
+Statutory advances
+Statutory issues on govt sec.
+No No
+Monopoly
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Table 3. Central bank independence: small countries
+Netherlands: de Sweden: Nederlandsche Bank Riksbank
+Private Government owned
+Norway: Norgesbank
+Private, but state is large shareholder
+Denmark: Nationalba
+Private
+Head
+Appointed by
+Council
+Appointed by
+Cover system
+Parallel issue
+Statutory advances
+Statutory issues on govt sec.
+State's treasurer
+Profits
+Monopoly
+President (7 years)
+Government
+5 regents Shareholders
+Reserve >40% of circulation
+No
+Yes, but very limited
+Limited to a fraction of
+the reserve and capital
+Yes
+Yes: profits in excess of dividends
+Yes
+Commission that is not
+responsible to the executive govt
+and controlled by the Diet
+Reserve > 40m kronor
+No
+No
+Yes, but limited to 3/8ths of the 40m reserve
+No
+Yes: all profits (state bank)
+Yes, since 1904
+'President and vice
+president Government
+5 members Shareholders
+35m kroner unbacked issue
+No
+No
+No
+Yes
+Yes: profits in excess of dividends +retained earnings
+Yes, if convertibility maintained
+5 members director
+1 by govt sharehol
+15 member
+Co-opted
+Reserve >5
+No
+Yes, but c
+Yes, but v
+Yes (state's
+Yes: fixed excess of
+Yes, since
+Charter/revised 1863/1889/1903 1887/1897/1904 1816/1900 1818/1
+Legal tender Yes Yes Yes Yes Yes, s
+Sources: Levy (1911); Conant (1915); and for
+Status
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Table 4 Central bank independence: central and eastern Europe
+Russia: Russia: Austria-Hungary: A Bank of Russia Bank of Russia Ostcrrcichisc
+Beforc 1894 After 1894 Ungarischen Bank
+Befor
+State State
+Governor
+Imperial government
+Board of civil servants
+None
+Govcrnor
+Imperial government
+Board of civil servants
+1894: limit on issues
+1887: without gold backing 1897: 50% gold backing for issues under 600m roubles, 100% cover beyond this point
+Private
+Governor and 2 depu Jointly appointed
+Council General (12 Shareholders
+200m florins unbacked Reserves >40% circula
+Parallel issue
+Statutory advances
+Yes, unlimited
+Yes, unlimited
+No
+No
+Yes
+Yes, since 1873 over Austria and Hung
+Yes, but limited
+State's treasurer Yes
+Profits 100% go to the state
+Monopoly Yes
+Charter/revised (statutes) 1860/1894/1897
+Legal tender Yes
+Sources: L6vy (1911); Conant (1915).
+Yes, but limited
+Yes
+100% go to the state
+Yes
+(statutes) 1860/1894/1897
+Yes
+Yes
+Yes
+Shared
+Yes
+1878/1887/1897/1
+Yes
+Status
+Head
+Appointed by
+Council
+Appointed by
+Cover system
+Statutory issues on govt sec.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+136 MARC FLANDREAU ETAL
+prevailed in so
+the least indepe
+the Chancello
+technocrat. Th
+accounts. Thei
+not taken into
+issues (see Jam
+through the c
+that the Chan
+when the capi
+agreed rules.
+3.4. Central b
+3.4.1. Centra
+relations chan
+(Table 4). In R
+system, initiall
+the issue of ba started to cir bonds were lim
+schemes were
+1880s, but ref 1890s. While t
+provided for s
+borrowed on i
+system took its
+ratios on the co
+impressed. For
+Russia is of in
+bank of issue
+decade of the
+Europe for th
+this policy co
+Russia's indepe
+to change its p
+7The absence of form Bank of France and t the Bank of France government, is in our
+136 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABIL
+T
+c
+t
+t
+g c
+u
+A
+b
+a
+a
+t
+f
+m
+a
+b
+g
+i
+d
+r
+a
+g
+P
+a
+t
+S
+P
+e
+n
+I
+l
+G
+h
+b
+i
+s
+c
+137
+STABILITY PACTS
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Table 5. Central bank independence: southern Europe
+Portugal: Greece: Spa Banco dc Portugal National Bank of Greece Banca d'
+Status Private Private Private
+Head Governor, vice-governor
+Appointed by Government (Govcrnor 3 years), vice-governor from list supplied by directors
+Governor, 2 sub-governors and one commissairc royal Elected by shareholders' general assembly
+Governor
+Government
+Council 10 directors Appointed by Shareholders
+Cover system Reserve ratio rules Dismantled in the late 1880s
+and early 1890s, never reimposed
+1877: limits on note issues 1885: 1/3 of issues backed by gold
+1874: specie = 1/4 n and max. issue = 1891: reserve >1/3 n gold >1/2 rcscrvc issue = 500m ptas 1898: max. issue = 2
+Yes No
+Administrators Shareholders
+Board Shareholders
+Parallel issue No
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+Limit of 2000 contos until 1887
+Since 1887: ceiling renegotiated every year
+1885: government credit in exchange for larger note issues Existing advances converted into government securities in 1898
+Yes:
+Whole period: up to 1 (law of 1874) 1890s: credit by discoun ultramar's pagares 1891- 3: extra credit of
+ptas 1902: advances (except for 150m ptas credit) must reimbursed by 1911
+Limited until 1887 Yes, since 1887
+1/3 of note issues according to law of 1885 Short-term debt consolidated in 1898 must be amortized
+Yes: no limit
+State's treasurer Yes Yes, some treasurer role Yes
+Shared until 1892 Nothing goes to the
+Quasi monopoly in 1899 1874
+Charter/revised 1846/1887 1841/1866/1903 1856/1874/1899
+1887-91: 5 km around the bank 1891: Portugal
+Yes (1885) Yes (1874)
+Sources: Levy (1911); Conant (1915); private communication to the authors by Elio Ccrrito (Italy), Olga Christodoulakis Ccrrito (1995).
+Advances
+Statutory issues on govt sec.
+Profits Shared
+Monopoly 8July 1891
+Lcgal tender
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+140 MARC FLANDREAU ETAL
+gradually r
+Treasury m
+the form
+reserves. T
+ment bond
+remained
+to draw on
+in exchang
+and the pol
+central ban
+Portugal h standard.
+3.5. Conclusion
+It is clearly impossible to claim that central bank independence was the Europ
+gold standard's recipe for monetary stability. Rather, poor exchange rate per
+mance was associated with low levels of central bank independence. Much lik
+today, contemporary observers concluded that central bank independence was
+exogenous source of stability. Yet the evidence suggests that institutions we
+extremely fragile and never resisted the pull of fiscal problems. The evolutio
+Mediterranean central banks' statutes in the 1890s demonstrates that the prote
+walls that appeared so safe in core countries could very well crumble. Event
+efforts towards better protection of monetary authorities were in fact led
+governments (Raffalovich, 1900). Central bank independence thus came and w
+as fiscal needs changed. Public finance problems led to the collapse of Medit ranean currencies in the 1890s, and their resolution led the way out.
+consolidations in Italy, Spain and Greece had not been imposed on the Treasury
+a powerful central bank. Rather, the increased autonomy of the central ban
+resulted from the Treasury's ability to balance its accounts, or in Russia and Austr
+from the desire to accumulate gold reserves. In the next section, therefore, consider how constraints on debt accumulation might have influenced
+exchange rate stability and central bank autonomy.
+4. IN SEARCH OF THE MARKET MECHANISM
+4.1. Market discipline: the weak, the strong and the ugly
+According to the market discipline hypothesis, lenders charge higher interes to borrowers whom they consider riskier, which in turn discourages
+behaviour. The question, of course, is to determine what defines risky beha
+140 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY
+B
+s
+a
+t
+c
+h
+s
+T
+p
+c
+t
+i
+m
+c
+o d
+p
+I
+e
+a
+w
+r
+a
+s
+o
+n
+d
+W
+d
+o
+s
+e
+i
+m
+t
+e
+b
+W
+l
+8
+STABILITY PACTS 141
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+142 MARC FLANDREAU ETAL
+Box 1. T
+The follow
+for a risky
+(si, represe
+(1 + RLK + s,) P(H,) + O (1 - P(H)) = 1 + Ru (1)
+where Ri = RU, + si stands for the interest rate charged to c
+default premium, P(H,) is the probability of default, P (Hi
+summarizing the determinants of default (we abstract from ta
+of the bonds studied here were exempt from tax duties). Get
+time indices, assuming that P(H) is a logistic function (P(H) =
+H=aB/GDP+ X'f (where B/GDP is the debt/GDP ratio and X
+variables influencing the probability of default), we obtain:
+s =exp GaDP +10 +/ +/ _ + c (2)
+s GDP GDP DP POP
+which is non-linear. We call (2) the 'credit punishing'equation. EX/GDP is GDP ratio, and GDP/POP is real GDP per head converted at PPP p
+formulation, the default premium grows exponentially with the debt level,
+absolute limit to borrowing.
+Alternatively, the default premium can be modelled as an increasing
+B/GDP, but with an upper limit on debt accumulation. This can be done
+that the whole debt is reimbursed and reissued at every period (see Bayoum
+This allows us to identify the marginal cost of borrowing (Ri) with the
+of servicing the total debt (the interest burden on the outstanding debt) the formula assumes that the derivative of the cost of borrowing with
+the debt/GDP ratio converges towards infinity when the debt/GDP ratio
+certain threshold (equal to l/y). Formally:
+B EX GDP 1
+S = a D + i0 +/, + 52 ? + E (3)
+GDP GD P G POP) B
+GDP
+We call this equation the 'credit-rationing hypothesis' as it shows that the default premium
+rises to infinity when the debt/GDP ratio approaches 1/y: borrowers are prevented from
+increasing their debt beyond 1/y. These two formulations are to be contrasted with an alternative linear relation between the default premium and the debt/GDP ratio.
+Formally:
+B EX GDP(
+s = a + + + P + + +. (4)
+GDP GDP POP
+which is referred to in the text as the linear
+142 MARC FLANDREAU ETAL
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILHY P
+v
+m
+o
+4.2. Estimation results
+We use our panel of European countries to examine the link between indebted
+and the cost of borrowing by regressing the spreads of government bond yields ov
+a risk-free bond on the debt/GDP ratios. Our regressions also capture the effe
+economic fundamentals that may influence debt sustainability. These include
+exports/GDP ratio and levels of economic development measured by using re
+GDP per head converted at PPP prices. We also included an 'on gold' varia
+which takes the value 1 when the country is on gold in any given year, and z
+otherwise. This variable may be interpreted as either capturing the additional effec
+of market discipline in rewarding countries adhering to gold (the seal of appr
+view) or reflecting a number of factors that were known to market participants, b which are not included in our data set and which were correlated with adherence to
+the gold standard (e.g., political shocks).
+The results of pooled cross-section regressions are shown in Table 6. We use
+instrumental variables (see Appendix B for details) with explanatory variables
+alternatively included in and excluded from the estimation. The results range from
+the most parsimonious specifications (only debt ratios are included) to the most extensive ones (all exogenous variables are included). In all regressions, the
+parameters are generally found statistically significant and their signs correspond to
+economic intuition. The negative effect of per-capita income reflects the fact that
+economic development is typically accompanied by a greater ability to tax, and
+hence improved debt sustainability. The negative effect of openness captures the fact
+that in nineteenth-century Europe, capital exporting countries were also the most
+open ones. Open countries were usually capital lenders and had a greater ability to
+retain foreign investment; hence they were better able to deal with external payment
+problems (Bairoch, 1974). The signs of the debt and 'on gold' variables clearly fit
+the previous discussions.
+Judging from the fit (adjusted R2), the non-linear specifications (panels a and c) do
+a better job than the linear specification (panel b). This conclusion can be rigorously
+tested when comparing the 'rationing' and 'linear' specifications, since the latter can
+be seen as imposing on the former the restriction that the 'debt rationing' coefficient
+is zero. This restriction is clearly rejected. Additional tests presented in Appendix B
+9This latter form of the market discipline hypothesis was applied to US states by Bayoumi et al. (1993). Their findings imply that American states are rationed at relatively low debt ratios, all below 10% of gross state product. These thresholds are far below what was observed under the gold standard, and far below current European debt levels. This suggests that the overall economic and institutional context in which US states accumulate debts is quite different from the European one, past, present and future.
+STABILITY PACTS 143
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+144 MARC FLANDREAU ETAL.
+Table 6. Assessing the market mechanism
+(a) 'Rationing'
+Debt/ Export/ Per- On Rationing Implied R2 Hausman Sargan SBIC GDP GDP capita gold debt adj. ratio ratio GDP threshold
+(% of GDP)
+1 1.732 -0.958 -1.627 -0.528 0.356 281% 0.67 X (3)= 89.26 x2(l)= 0.01 708.1 (3.06) (-0.98) (-2.39) (-3.22) (10.18) (P=0.00) (P=0.92) 2 1.949 -0.041 -2.052 - 0.343 292% 0.66 X'(2) = 61.54 (l)= 0.03 710.2 (3.18) (-0.04) (-2.81) (9.47) (P= 0.00) (P= 0.87) 3 2.037 -0.886 - - 0.338 296% 0.65 x'(2) = 9.19 x'(2) = 0.25 712.6 (3.15) (-1.01) (9.32) (P=0.01) (P=0.88) 4 1.949 - -2.054 - 0.343 292% 0.66 x'(2) = 25.58 X'(2) = 0.01 707.2 (3.17) (-2.92) (9.52) (P= 0.00) (P= 0.99) 5 2.044 - - - 0.335 299% 0.65 x'(2)= 18.90 2'(3)= 0.45 709.7 (3.07) (9.27) (P= 0.00) (P= 0.93)
+(b) 'Linear'
+Debt/ Export/ Per-capita On gold R2 adj. Hausman Sargan SBIC
+GDP ratio GDP ratio GDP
+1 5.645 3.838 -1.708 -0.398 0.62 X(2)= 12.40 2(1)= 0.02 735.6 (4.69) (2.94) (-2.36) (-1.36) (P= 0.00) (P= 0.90) 2 5.877 4.287 -1.929 - 0.62 x-(2)= 10.42 X2(1)= 0.01 733.8 (5.27) (3.36) (-2.42) (P= 0.01) (P= 0.91) 3 6.315 3.326 - - 0.61 x'(1)= 6.83 Xr(2)= 0.13 733.7 (6.24) (2.69) (P= 0.01) (P= 0.93) 4 5.768 -1.569 - 0.61 X'(2)= 9.12 X'(2)= 0.13 733.2 (5.15) (-2.00) (P= 0.01) (P= 0.94) 3 6.160 -- - 0.61 x2(l)= 2.19 Z2(3) =0.06 732.3 (6.16) (P= 0.14) (P= 0.99)
+(c) 'Punishing'
+Debt/ Export/ Per-capita On gold R' adj. Hausman Sargan SBIC
+GDP ratio GDP ratio GDP
+1 1.449 -16.426 -3.213 -0.345 0.81 (l)= 20.19 X'() = 0()3 595.5 (6.28) (-3.43) (-5.08) (-3.39) (P= 0.00) (P= 0.87) 2 1.490 -15.451 -3.652 - 0.80 2(2)= 15.08 (l )= 0.01 601.0 (6.32) (-3.03) (-6.43) (P= 0.00) (P= 0.91) 3 2.025 -10.06 - - 0.72 X2(l)= 12.05 X2(2)= 0.48 665.8 (7.75) (-2.66) (P= 0.00) (P= 0.79) 4 1.471 - -3.476 - 0.79 X'(3)= 31.90 2-(2)= 0.35 610.6 (5.91) (-5.74) (P= 0.00) (P= 0.84) 5 2.041 -1.457 - - 0.72 X'(3)= 7.93 X'(3)= 1.14 666.7 (7.36) (-5.89) (P= 0.05) (P= 0.77)
+NJotes: Number of observations: 398. Not shown term, a time trend, the rate of growth of the cou the burden of interest service for each country ( the public debt). Regressions involving different s Numbers in parentheses are heteroscedasticity computed from a heteroscedastic-consistent m covariance matrices of the two sets of estimates a computed only for those parameters correspondin degrees of freedom, which is what our program d covariance matrix of the vector of contrasts does
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 145
+do no
+our cu
+concl
+thres
+debt matte
+In ord
+repor
+allowi
+Portu
+(befor
+The c
+gold
+increa
+hand,
+pain. 1900,
+imply
+burde
+the m
+discip
+of ris
+Clear debts.
+5. CONVERGENCE BY OTHER MEANS: LOST RECIPES FROM THE GOLD
+STANDARD
+In this section, we argue that price movements constitute a key factor in t
+behaviour of public debts. In the late nineteenth century, price trends went throu
+two subperiods which interestingly coincide with the evolution of public de Prices moved down between 1873 and 1896, and then up until the war
+tendency perceptible in all countries adhering to gold, in Europe and elsewh
+There is general agreement that these trends can be explained by the supply
+gold. Gold was too scarce to avoid deflation in the wake of the decline in monetary role of silver after 1873, but it suddenly became abundant follow discoveries in South Africa and Klondike in the 1890s. While it obviously mat
+how central banks reacted, for our purpose it is enough to assume that they
+essentially passive as they stuck to gold. Indeed, Barsky and De Long (1991)
+that gold output was a good predictor of inflation in gold standard countri
+implying that central banks in the gold zone did not fully sterilize the effects of discoveries.
+145
+STABILITY PACTS
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+146 MARC FLANDREAU ETAL
+The conside
+countries is
+even argue t
+operation of
+area. Having
+smoothly in E
+could genera
+prices were m
+being equal,
+falling price
+long-term d
+outstanding n
+tax when pri
+were steadily
+To illustrat
+debt/GDP ra
+the deficit b
+service and, f
+deficits contr
+reducing it. 0
+of countries
+emerge. Firs
+century. Inde
+countries, th
+must have c
+countries suc
+by substanti combination of drastic declines in real interest service and an acceleration of
+growth. Real interest service fell from rather high levels in the early 1880s to record
+lows after 1905: they went from 8% to 1% in Italy, from 5% to 3% in Austria, from
+6.5% to 1.5% in Germany, etc. Even without the contribution of improved growth
+prospects, as inflation progressed, public debt sustainability improved, and the
+default risks that sovereign borrowers faced declined. The acceleration of growth
+that some countries experienced at the turn of the century helped further. However,
+this tendency was perhaps less systematic than the effects of gold inflation. For
+instance, growth was marked in Austria, Russia and Germany, but much less so in Britain and France.
+0 Let b(t) = B(t)/GDP(t) be the ratio of nominal debt B to nominal GDP, r(t) the real (ex post) interest rate, g(t) the real growth rate, and dejft) the primary deficit divided by GDP. Then the total deficit or accumulation of debt is: db() = def t) + (r(t) - g(t))b(t).
+146 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+147
+This mechanism was amplified by the predominance of the long-term component in
+European sovereign debts: the inertia of the interest service on this fraction of public
+debts was the channel through which price movements affected public finances."
+Through their effect on public finances, price trends in turn influenced governments'
+incentives to participate in the gold standard. Deflation forced a difficult choice between
+deteriorating borrowing conditions and painful adjustments. Countries starting with
+relatively low debt levels could compromise, letting their debt drift slightly and making
+only partial fiscal adjustments. But for those that already had fairly high debt levels, such
+Real interest service
+0.09
+0.08
+0.07\ al Ityaly 0.06 - \Austria 0.05 --0.04 0.03
+0.02 - Russia- , 0.01 
+0.00 i I 1885- 1890- 1895- 1900- 1905- 1901889 1894 1899 1904 1909 1913
+GDP growth
+0.07 - 0.07
+0.06 - . 0.06
+0.05- Russia 0.05
+0.04- . ' 0.04
+0.03- A 0.03Austria / 0.02 - 0.02
+It aly
+0.01v 0.01
+0.00 \ / I I 1 0.00 18 5- 1890- 1895- 1900- 1905- 1910-0.01- 1889 1894 1899 1904 1909 1913 -0.01
+0.08- 0.10
+0.07- 0 , .08-'
+0.06
+'' Britain .
+0.05- _- Bril, 0.06-S, ^ 0.04 \ \ .n ','' , Switzerland
+0.04 .n~"~,....,xX~ France
+0.04- " , -. ^' .
+0.03-Netherlands . * ...
+\1 ~. 'Ov\ .. ' yg, ,Ger , .nDenark
+0.02- - ' 0.02- y . . .
+Belgium" Norway '-/
+0.01- n
+0.00 I I I I I
+1885- 1890- 1895- 1900- 1905- 1910- 1885- 1890- 1895- 1900- 1905- 19101889 1894 1899 1904 1909 1913 1889 1894 1899 1904 1909 1913
+\ Sweaen . \
+0.04- ' .
+0.03- / ' a
+0.02- / .
+0.01- Norway
+0.00 I i i I 1881- 1885- 1890- 1895- 1900- 1905- 19101884 1889 1894 1899 1904 1909 1913
+4ormalized primary deficit
+0.07 
+0.06- P. Austria 0.05 - Italy 0.04 
+0.02 - \ I -/ " Rassia\
+0.01 / - .
+0.000.00 / I '4 I t "*, \'
+-0.01 - I
+-0.02 -' 1885- 1890- 1895- 1900- 1905- 1910-0.03 - 1889 1894 1899 1904 1909 1913
+0.04 France
+0.03 
+. Netherlands 0.02- .
+Britain 
+0.01-' / Belgium \ - /
+0.00 oo I s. \\'- I
+1885- 1890- 1895- 1900- 1905- 1910-0.01 - 1889 1894 1899 1904 1909 1913
+1885- 1890- 1895- 1900- 1905- 19101889 1894 1899 1904 1909 1913
+Figure 5. Decomposing debt/GDP dynamics: GDP growth, real inte GDP-normalized primary deficit, five-year averages, 1880-1913
+" We do not have a precise breakdown of the proportion of short- and long-term debts for all Various indications suggest that long-term 'funded' debt represented more than 90% of the agg countries like Britain, Germany and France, and even Russia and the Austro-Hungarian Empire. (still above 50%) in other peripheral countries.
+STABILITY PACTS
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+148 MARC FLANDREAU ETAL
+as the south
+participation
+mechanism i
+premia for n
+becoming ver
+go on inconve
+countries wer
+while facing a
+provided an a
+Summarizing
+incentives to
+deflation unt
+as public fin
+Central ban
+economically
+the highly in
+discipline an
+after the mid
+reduce defaul
+after the mi
+members of
+inflation and
+rates facilitat
+debt burdens
+6. CONCLUSION
+Economists have long scrutinized the gold standard sphinx, trying to understan
+riddle in the hope of discovering lessons that could help bring back the gold
+In fact, the gold standard heyday was a rather limited period, extending fr
+late 1890s or early 1900s to the First World War, not the whole 1880-1913
+is often believed. This evolution, so far little noticed, conveys several inte
+lessons. First market-imposed discipline was a very important aspect of th
+standard and will certainly matter under EMU. However, it cannot be relie
+exclusively to provide borrowers with appropriate incentives. Incentives
+become destabilizing when unexpected deflation adversely affects public fi
+This lesson supports formal limitations on debts or deficits. On the other hand,
+ratios above 60% are not a hindrance provided that they are on a declining
+The European gold standard could survive with high and varied debt levels,
+consolidation coincided with a period of general decline in debt ratios.
+The second lesson for EMU is that denying admission into the euro zone m
+be the best way to solve the systemic risk of debt over-accumulation. Externalizin
+148 MARC FLANDREAU ETAL
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 149
+risk
+fin
+and
+cre
+a la
+ext
+mu
+Ou
+per
+cri
+me
+enc
+the
+gro
+cur
+Fin
+bet
+exo
+exa
+189
+zon
+dis
+wil
+In
+It c
+sei
+low
+Exc
+wh
+upo
+ove
+and
+sho
+Discussion
+Rudi Dornbusch
+Massachusetts Institute of Technology
+Economic historians are never shy: this paper purports to stand traditional
+understanding of the gold standard on its head. It did not start when you thought it
+STABILITY PACTS 149
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+150 MARC FLANDREAU ETAL
+started; it
+is thorough
+assistants)
+set will ult
+pursued fu econometric research. I will comment on each.
+The first thesis is that, contrary to the established doctrine that dates the gold
+standard to the period 1880-1913 (the golden age of liberalism), the European gold
+standard started only in the late 1890s. It was only then that all of Europe was on
+board - among the late comers were Italy, Austria-Hungary, Spain and Portugal as
+well as Russia. This thesis is both correct and uninteresting. It is factually correct
+that various European countries hopped on and off gold for quite a while, staying on
+for an extended period only starting in the late 1890s. This fact is, of course, well
+known from the vast historical literature on the subject. For example, Bloomfield
+(1963) notes: 'The span of the international gold standard, stretching from about
+1880 to 1914, was a relatively brief one. In 1880 the following were the main
+countries on the gold standard or some variant thereof: Great Britain, France,
+Germany, the United States, Belgium, Holland, Switzerland, Norway, Sweden,
+Denmark, Finland, Canada, Australia, South Africa and New Zealand. They were
+joined in 1890 by Romania, at the turn of the century by Russia, Japan, India,
+Argentina, Italy, and Austria Hungary.' The thesis of Flandreau, Le Cacheux and
+Zumer is peculiar in two respects. It obviously adds nothing to the facts as we know
+them. Anyone who thought that Russia was on gold in 1881 just because that was
+the gold standard period simply had not done their homework. But in a deeper sense
+their thesis is misleading. First, it would have occurred to no one at the time to think
+of a European gold standard. This was the period of internationalism per se and
+Australia, Canada and even Japan were part of the relevant world. Second, and
+more importantly, the fact that Austria-Hungary (by then a side show to the German empire) or even more so Spain were not yet in gold was absolutely
+irrelevant to what Europe was doing. It was just as irrelevant as their presence or
+absence from EMU next year is to people's perception that Europe has a common
+money.
+The periphery just does not matter; the issue is what the big players do. The big
+players were on gold and that is why economic history, rightly, puts the dates
+1880-1913 on the gold standard. What the big players were doing set the trend
+and showed the standard to aspire to; the periphery, whether Latin America or
+central Europe and the Club Med, gradually made their way to it. The fact that
+Italy slipped in 1992 from the convergence process in the ERM does not mean
+that a grand European convergence was not under way. The fact that even now the UK cannot make up its mind surely does not mean that there will not be a
+European Monetary Union. The same goes for talking of the gold standard in the
+1880s and beyond. There is another chapter to the story: how did the stragglers
+150 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 151
+ultim
+subject.
+The second hypothesis offered by the authors is that the gold standard could not
+work until the late 1890s, when under the pressure of gold discoveries, real interest
+rates turned negative and debt burdens of peripheral high-debt countries started
+declining. This is an interesting hypothesis indeed, but it is not plausible, at least not
+in the way in which it is offered - that expected real interest rates declined,
+seigniorage increased and thus public finance improved. The fact that debt might
+have played an important role is suggested by the debt per capita data in Figure 6.
+Some of the laggards were, indeed, high-debt countries. But so were some countries
+that went on gold early and successfully. More specifically, centring on expected real
+interest rates as the trigger for going on gold is unconvincing. It is unclear why the
+periphery should have anticipated the shift towards inflation while the creditors did
+not: if they had been on a par, interest rates would have increased along with
+inflation expectations and nothing would have been gained. It is also unclear how inflation, on a gold standard, increases seigniorage. There might be such a
+possibility, but it is more the case for paper currencies on floating rates than for gold standards.
+It is certainly correct that a period of low real interest rates and steady growth,
+such as the 1890s, puts battered debtors in a better financial position. Accordingly, it
+allows them to shape up debt service and restore normality in public finance,
+including going on gold as a show of confidence for their creditors. In fact, they
+might get a loan to get on gold. In this sense, the 1890s surely helped. But was the crucial factor the actual debt reduction, the countries on gold held up as an
+800
+700 
+600
+500 ::
+400
+3007
+400 n :
+100- . ?a ~ ~ y
+Figure 6. Debt per capita Source: Haupt (1894).
+151
+STABILITY PACTS
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+152 MARC FIANDREAU ETAL
+example, or
+are more re
+ways in wh
+a paper to b but this is n
+It might be
+debt defau
+economies
+same. If so
+rates and th
+by Gallarott
+A significan
+capital ma
+fiscal probi
+debt/GDP r
+using a rich
+(1959) migh
+capital mar
+work. One
+Russia on d
+also be aske
+actual or v
+presumably
+equilibrium
+does not hav
+this point: b
+poor rationi
+Patrick Honohan
+ESRI and CEPR
+Introduction
+This is a very thorough and well-reasoned paper, and it makes several important
+points with which I fully concur: for example, the endogeneity of central bank
+independence and the crucial role of gold discoveries in sustaining the gold standard
+during its last years. But I wonder just how much we can learn from the gold
+standard in looking forward to the issue of fiscal stability in EMU. For one thing,
+the authors shrink the heyday of the international gold standard to about a decade
+before the First World War - scarcely as long as the period from the signing of the
+Maastricht Treaty to the introduction of notes and coin. If we take this seriously, it
+152 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILHY P
+s
+m
+w
+f
+M
+I
+s
+r
+d
+i
+d
+w
+t
+w
+a
+a
+w
+p
+p
+w
+c
+m
+J
+t
+I
+w
+n
+d a
+e
+S
+I
+o
+p
+'2 p
+STABILITY PACTS 153
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+154 MARC FLANDREAU ETAL
+toughness lead
+not really look
+does not arise
+in the way th
+thing, the ad
+deflation of t
+standard cou
+countries out
+whether the d of fiscal and
+aberration in t
+run: even thos
+1914. They di
+was not the c
+Chile), none o during the 18
+of the classica
+the 1920s. The
+rather than p
+much restricts
+Gold bonds,
+When lookin
+explicitly gold
+could be legal
+both, interest
+was maintain factor in inf
+devaluation o
+government d
+gold and local
+risks differently
+The relevance
+derives from
+'irrevocable lo
+coin no later
+vulnerable tim
+The EU has so
+national curre that a legall
+currencies an
+154 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 155
+they
+EM
+mag
+pull
+tan
+legis the
+such
+on y
+Identification
+The authors agonize over the problem of why, if markets discipline borrowers, we
+nevertheless observe excessive debt accumulation. Presumably part of the answer
+would be revealed if it were possible to identify and estimate the demand curve. In
+other words, how sensitive were the borrowers to interest costs at different times? As
+things stand, we have at most a supply curve, which, even if it predicts an effective
+ceiling to the supply of debt, is still only half the story. It is not clear what exogenous
+variables other than war dummies one might include that could separately identify
+the demand curve. But, by the same token, it is not irrefutably clear that the authors
+have identified a pure supply curve.
+General discussion
+The correlation between wars and the ability to remain on the gold standar
+provoked much discussion. Olivier Blanchard was keen to find out if this correlation was strict. Wars had certainly caused the debt/GDP ratio to deteriorate fo
+Portugal, Spain and Greece. Rudi Dornbusch pointed out that, in fact, there ha
+been many countries with debt ratios as high as Portugal and Greece that did no
+abandon the gold standard. In any case, the correlation with war could not be
+perfect as, for some countries, the deterioration of the debt/GDP ratio had actual preceded the wars. Patrick Honohan countered that this was only because
+preparation for war may be as costly as the war itself. Maurice Obstfeld stressed
+that the connection between wars and interest rates was not automatic, and may
+reflect evolving market perceptions. In the initial stages of Russia's war withJapa
+for instance, the market belief that Russia would win the war easily kept interes
+rates low. It was the changing fortunes in war that had caused interest rates to rise.
+Jurgen von Hagen felt that it was difficult to draw easy lessons from th
+experience of the gold standard. Looking for movements in interest rates could b
+misleading, as the sensitivity of interest rates to changing debt/GDP ratios was
+difficult issue. It was a systemic characteristic of the gold standard, and perhaps its
+STABILITY PACTS 155
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+156 MARC FLANDREAU ETAL
+virtue, that
+was because o
+time would n
+EMU, it was h
+some unders
+could quite le
+well be that o
+Patrick Hono
+exceptional,
+Portuguese h
+Greece was i
+real financial
+The details o
+also drew com
+on interest r
+contributed
+such, amount
+explanatory
+expected dep
+movements.
+explanation o
+investors. He
+period probab
+these rates di
+given the qu
+estimate a com
+interest rates
+a Scandinav
+monetary reg
+APPENDIX A. DATA
+We rely on a combination of second-hand sources as well as primary material that
+collected, covering the period 1880-1913.
+A1. Public debts and interest service
+Researchers working on nineteenth-century public finance typically rely on published so
+such as Mitchell (1993) and Liesner (1989). Before the creation of the League of Natio
+the interwar period, no centralized statistical office existed, so that researchers hav
+centralize data themselves, putting together national figures: this is the approach follow
+Mitchell. The problem is that Mitchell's fiscal figures (which are very imperfect in
+respects) do not include public debts. On the other hand, reliable second-hand nationa
+156 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 157
+on pu
+(1912 our d
+publi
+famo
+infor
+Worl
+sourc
+retur
+the l evaluated in nominal terms and converted into the national unit.
+A2. National product and prices
+Recently, substantial efforts have been devoted to extending our knowledge of European
+accounts well beyond pioneering works on core countries. We were able to obtain reliable
+data for virtually every country in the sample. The references are as follows: AustriaHungary: Komlos (1987) and Schulze (1997); France: Levy-Leboyer and Bourguignon (1985); Germany: Hoffmann et al. (1965); Greece: Kostelenos (1995); Spain: Prados de la
+Escosura (1995); Portugal: Nunes et al. (1989) and Lains and Reis (1991); England: Mitchell (1990); Russia: Gregory (1994); Netherlands: Smits et al. (1997); Sweden:Johansson (1967); Denmark and Norway: Mitchell (1993). For Belgium and Switzerland, a series was reconstructed on the basis of end-of-period estimates as well as of indications for real GDP
+growth given in Maddison (1991). Swiss prices are found in Ritzmann (1996).
+A3. Exchange rates
+The exchange rates used were constructed on the basis of Schneider et al. (1991), except for
+Greece, for which we used a Lyonnais series. Data are annual averages.
+A4. Exports
+We relied exclusively on Mitchell (1993), except for the Netherlands, for which the figures
+are flawed. Dutch exports are from Smits et al. (1997).
+A5. Population
+Data in Mitchell (1993) completed by Gregory (1994) for Russia and by the Credit Lyonnais
+returns for the Austro-Hungarian Empire.
+A6. Long-term interest rates
+The classic source for long-term interest rates on government (gold) bonds is Homer and
+Sylla (1991). However, the returns that these authors report cover only part of our sample.
+STABILITY PACTS 157
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+158 MARC FLANDREAU ETAL
+For count
+continent
+Greece, Ru
+we used th
+interest r
+informatio
+bonds list
+to change
+changed (
+extremely
+The serie
+coupon); S
+3% of 188 1884 red Switzerlan 3% 'exter
+conversion gold). For 1880-1913 (1899-191
+APPENDIX B. ADDITIONAL ROBUSTNESS TESTS
+We report here on additional tests of the results presented in Table 6.
+B1. Specification tests
+Various techniques were used to test the three specifications presented in panels (a),
+(c) against each other. The text reports tests where the specifications are nested. W performed a test of the 'linear' versus 'punishing' specifications, using a Box transformation (Box and Cox, 1964) of the left-hand-side variables, which allows us to t
+linear model versus a semi-log model. Again, the linear model was rejected. 3 On the
+hand, the 'punishing' and 'rationing' specifications cannot be directly tested against
+other, since they are not nested. Instead we performed pseudo-nested tests based on artificial regression approach of Davidson and MacKinnon (1981). The basic ide
+embed competing functions in a more general form in order to discriminate between
+MacKinnon et al. (1983) adapt these tests to regression models estimated by instrum
+variables. The pairs ofJ-tests and P-tests we computed (for each set of explanatory vari
+were never able to distinguish between the 'rationing' and the 'punishing' specifications
+could not reject either specification.
+'3 Pseudo-nested P-tests also pointed to the same conclusion.
+158 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STA
+Debt/GDP Rationing Implied R2 ratio threshold adj.
+Regression 1.647 0.357 280% 0.74 without Portugal (3.92) (13.24)
+Regression 2.778 0.556 180% 0.63 without Greece (7.82) (16.83)
+Notes: We only report results for the rationing model with fixed effects the linear and punishing specifications without Greece and Portugal yield initially identical to the ones obtained without omitted countries. Res countries were excluded are similar to the ones without Greece.
+Table B2. Random effects
+Debt/GDP Constant Export/GDP Per-capita On gold R2 ratio ratio GDP adj.
+Linear 4.744 -0.721 0.899 -0.742 -0.588 0.31 (9.90) (-0.90) (0.62) (-1.00) (-2.32)
+Punishing 0.821 1.105 -1.178 -1.998 -0.208 0.39 (5.30) (4.28) (-2.47) (-8.29) (-2.63)
+Notes: Random effects estimations have been computed specifications. Random effects in the rationing model inv more space for a comprehensive presentation. Hausman tests (RE) support FE for the above regressions, but RE for other r In all cases, F-tests choose FE versus simple pooling.
+STABILITY PACTS 159
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+160 MARC FLANDREAU ETAL
+Table B3. Different sets of instruments
+Debt/GDP Export/GDP Per- On gold Rationing Implied R' ratio ratio capita threshold adj. GDP
+C, TIME, POP, IR/Rev 0.475 -0.295 -1.049 -0.727 0.395 253% 0.62 (0.48) (-0.34) (-1.86) (-4.13) (9.24)
+C, POP, IR/Rev, 3 lagged 1.681 -0.485 -1.960 -0.535 0.357 280% 0.69 explanatory variables (3.30) (-0.45) (-2.71) (-3.23) (8.75)
+C, TIME, POP, B/GDP(- ) 1.708 -1.030 -1.311 -0.556 0.355 282% 0.67 (2.97) (-1.02) (-2.54) (-3.30) (10.05)
+All instruments 1.751 -0.752 -1.799 -0.534 0.340 294% 0.70 (3.39) (-0.75) (-2.53) (-3.22) (8.51)
+Notes: The full set of possible instruments is: a constant term, a time trend, the rate of (POP), the burden of interest service for each country (IP/Rev), the lagged explanatory Source: See Appendix A.
+B3. Instruments
+To decide whether it is necessary to use instrumental variables, we first perform Hausman-Wu specification test (Hausman, 1978) reported in Table 6 for each regressio
+The test generally rejects the equality of the two sets of estimated coefficients (instrument
+variables versus non-linear least squares), indicating the need to use instrument variable
+techniques (Davidson and MacKinnon (1993) indicate how this test is applicable to non
+linear models). Second, we test for the adequacy of our instruments by regressing th
+appropriate independent variables on our instruments set. In all three cases, an F-test reject
+the hypothesis that the instruments are jointly insignificant (results not reported). Third,
+test the validity of our choice of instruments using a Sargan test (Sargan, 1958; Matyas a
+Sevestre (1996) consider the use of the Sargan test in the context of panel data econometrics
+and Davidson and MacKinnon (1993) show the analogue of the test for non-linear models
+The success of the test (see Table 6) implies that all of the explanatory power of the
+instruments is being captured in the independent variables. Finally, we have tried alternativ
+subsets of instruments with the rationing equation, again in order to assess paramete
+stability. Table B3 shows that the parameter estimates and the implied rationing threshol are stable.
+REFERENCES
+Alesina, A. (1994). 'Comment', in NBER Alacroeconomics Annual, MIT Press, Cambridge, MA. Bairoch, P. (1974). 'Geographical structure and trade balance of European foreign trade from 180 Journal of European Economic History. (1993). Economics and World History: Alyts and Paradoxes, Harvester Wheatsheaf, Hcmel Hcmpste Barsky, R. and J. Bradford De Long (1991). 'Forecasting pre WWI inflation: the Fisher effect an standard', Quarterly Journal of Economics. Baxter, R.D. (1871). National Debts (2nd edn), RobertJohn Bush, London. Bayoumi, T. (1990). 'Saving-investment correlations: immobile capital, government policy, or e behavior', IAMFStaf Papers. , M. Goldstein and G. Woglom (1995). 'Do credit markets discipline sovereign borrowers? from the US states', Journal of Aoney, Credit and Banking.
+160 MARC FLANDREAU ETAL.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+STABILITY PACTS 161
+Bishop, G., D. Damrau and M. Mi Union, Salomon Brothers, Londo Bloomfield, A. (1959). 'Monetar Bank of New York. (1963). 'Short-term capital move Finance. Bordo, M. and H. Rockoff (1996). 'The gold standard as a good housekeeping seal of approval', Journal of Economic History. Bouvier, J. (1988). 'The Banque de France and the state from 1850 to the present day', in G. Toniolo (ed.), Central Banks' Indpendence in Historical Perspective, Walter de Gruyter, Berlin. Box, G.E.P. and D.R. Cox (1964). 'An analysis of transformations', Journal of the Royal Statistical Society. Capie, F. (1997). 'Central bank statutes: the historical dimension', Die Bedeutung der Unabhangigkeit der Notenbank fur die Glaubwfrdigkeit der Europaischen Geldpolitik/Proceedings of the 25th Conference of the Osterreichische Nazionalbank. , C. Goodhart, S. Fischer and N. Schnadt (eds.) (1994). The Future of Central Banking, Cambridge University Press, Cambridge. Cerrito, E. (1995). 'Su alcuni aspetti della crisi del 1893 in Italia', in P. Macry and A. Massafra (eds.), Fra Storia e Storiografia: Scritti in onore di Pasquale Villani, II Mulino, Bologna. Conant, C. (1915). A History of the Banks of Issue (2nd edn), Putnam's, New York and London. Cukierman, A. (1992). Central Bank Strategy, Credibility, and Independence, MIT Press, Cambridge, MA. Davidson, R. andJ. G. MacKinnon (1981). 'Several tests for model specification in the presence of alternative hypotheses', Econometrica. (1993). Estimation and Inference in Econometrics, Oxford University Press, Oxford. Eichengreen, B. (1992). Golden Fetters: The Gold Standard and the Great Depression, 1919-1939, Oxford University Press, Oxford. (1996). Globalizing Capital: A Short History of the International Monetary System, Princeton University Press, Princeton, NJ. and M. Flandreau (1996). 'The geography of the gold standard', in B. Eichengreen, J. Reis andJ. Braga De Macedo (eds.), Currency Convertibiliy: The Gold Standard and Beyond, Routledge, London. (1997). The Gold Standard in Theory and History (2nd edn), Routledge, London. Flandreau, M. (1995a). L'Or du monde: La France et la stabiliti du systmne monitaire international, 1848-1873, Etudes d'Economie Politique, L'Harmattan, Paris. (1995b). 'Was the Latin Union a franc zone?', in J. Reis (ed.), International Monetary Systems in Historical Perspective, Macmillan, London. (1996). 'The French crime of 1873: an essay on the emergence of the international gold standard', Journal of Economic History. Flood, R.P. and P.M. Garber (1984). 'Gold monetization and gold discipline', Journal of Political Economy. Flora, P. et al. (1983). State, Economy and Society in Western Europe, 1815-1975: A Data Handbook in Two Volumes, Campus Verlag, Frankfurt. Ford, A.G. (1962). The Gold Standard 1880-1914: Britain andArgentina, Clarendon, Oxford. (1989). 'International financial policies and the gold standard, 1870-1914', in P. Mathias and S. Pollard (eds.), The Cambridge Economic History, vol. VIII, Cambridge University Press, Cambridge. Foreman-Peck,J. (1991). 'The international gold standard as a European monetary lesson', inJ. Driffil and M. Beder (eds.), A Currencyfor Europe, Lothian Foundation Press, London. Gallarotti, G. (1995). The Anatomy of an International Monetary Regime, Oxford University Press, Oxford. Gerloff, W. (1912). Die Finanz und Zollpolitik des Deutschen Reiches, Verlag von Gustav Fischer,Jena. Geweke, J.F. and R. Meese (1981). 'Estimating regression models of finite but unknown order', International Economic Review.
+Goodhart, C. (1988). The Evolution of Central Banks, MIT Press, Cambridge, MA. Gregory, P. (1994). Before Command, Princeton University Press, Princeton, NJ. Haupt, 0. (1894). Arbitrages et Paritis, Librairie Truchy, Ch. Leroy, Successeur, Paris. Hausman,J.A. (1978). 'Specification tests in econometrics', Econometrica. and W.E. Taylor (1982). 'A generalized specification test', Economics Letters. Hoffmann, W. et al. (1965). Das Wachstum der deutschen Wirtschaft seit der Mitte des 19. Jahrhunderts, Springer, Heidelberg. Holtfrerich, C.-L. (1988). 'The relations between monetary authorities and government institutions: the case of Germany from the nineteenth century to the present', in G. Toniolo (ed.), Central Banks' Independence in Historical Perspective, Walter de Gruyter, Berlin. Homer, S. and R. Sylla (1991). A History of Interest Rates, Rutgers University Press, Rutgers. James, H. (1997). 'From Bismarck to Kohl: monetary and fiscal unification in nineteenth century Germany as a model for the European Union?', Princeton Essays in International Finance. Johansson, O. (1967). 'The gross domestic product of Sweden and its composition, 1861-1955', Stockholm Economic Studies.
+Kindleberger, C.P. (1988). Ikynesianism vs Monetarism and other Essays in Financial History, Allen and Unwin, London, Boston and Sydney.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms
+
+
+162 MARC FLANDREAU ETAL.
+Komlos,J. (1987). 'Financial innovation an of European Economic History. Kostelenos, G.C. (1995). Aloney and Outpu Research, Athens. Lains, P. and J. Reis (1991). 'Portuguese Economic History. Levy, R.G. (1911). Banques d'emission et Tri Levy-Leboyer, M. and F. Bourguignon (198 Liesner, T. (1989). One Hundred Years of Eco MacKinnon, J.G., H. White and R. Dav alternative hypotheses: some further results' Maddison, A. (1991). Dynamic Forces in Capi Press, Oxford. Matyas, L. and P. Sevestre (eds.) (1996). The Ec (2nd revised edn), Kluwer, Dordrecht. McCloskey, D. and R. Zecher (1984). 'The implications for macroeconomics', in M. Bo University of Chicago Press, Chicago, IL Ml1itz,J. (1997). 'Market discrimination b manuscript. Mitchell, B.R. (1990). British Historical Statistics, Cambridge University Press, Cambridge. (1993). International Historical Statistics: Europe 1750-1988, Stockton Press, New York. Morgenstern, 0. (1959). International Financial Transactions and Business Cycles, Princeton University Press, Princeton, NJ. Muhleman, M. (1897). Monetary Systems of the World, Charles Nicoll, New York. Neisser, H. (1929, 1930). 'Der internationale Geldmarkt vor und nach dem Kriege', Weltwirtschaftliches Archiv. Neymarck, A. (1913). 'La statistique internationale des valeurs mobilieres' (IXeme Rapport de M. Alfred Neymarck), Bulletin de l'institut international de statistique, Van Stockum, La Haye. Nunes, A., E. Mata and N. Valerio (1989). 'Portuguese economic growth', Journal of European Economic History. Pirard,J. (1978). 'La dette publique beige de 1830 a 1913', in 9e colloque international, La Dette publique aux XVIIIe et XIXe siecles son diveloppement sur le plan local, regional et national, Spa, 12 - 16 September. Plessis, A. (1985). La Politique de la Banque de France sous le Second Empire, Droz, Geneva. Polanyi, K. (1944). The Great Transformation, Rinchard, New York. Posen, A. (1994). 'Declarations are not enough: financial sector sources of central bank independence', NBER Alacroeconomics Annual, MIT Press, Cambridge, MA. Prados de la Escosura, L. (1995). 'Spain's gross domestic product: 1850-1993: quantitative conjectures' and 'Appendix', Working Papers 95-05 and 95 -06, Universidad Carlos III de Madrid. Raffalovich, A. (1900). 'Les methodes employees par les Etats au XIXeme Siecle pour revenir a la bonne monnaie', Congres International des Valeurs Mobilieres, Paris. Ritzmann, H. (1996). Historical Statisticsfor Switzerland, Chronos Verlag, Zurich. Russell, H.B (1898). International Aonetary Conferences, Harper, London. Sargan,J.D. (1958). 'The estimation of economic relationships using instrumental variables', Econometrica. Schneider, J., O. Schwarzer and F. Zellfelder (1991). Wihrungen der Welt I, Verlag, Stuttgart. Schulze, M.-S. (1997). 'Re-estimating Austrian GDP, 1870-1913: methods and sources', Working Papers in Economic History, no. 36/97, LSE, London. Smits, J.P., E. Horlings and J.L. Van Zanden (1997). 'The measurement of gross national product and its components: the Netherlands, 1800-1913', research memorandum, N.W. Posthumus Insituut, Netherlands Graduate School for Economic and Social History. Statesman's Year Book, annual, since 1866.
+Stiglitz, J. and A. Weiss (1981). 'Credit rationing in markets with imperfect information', American Economic Review. Taylor, A.M. (1996). 'International capital mobility in history: the saving-investment relationship', NBER Working Paper no. 5743. Thery, E. (1894). La Crise des changes, Etudes Economiques et Financieres, Economiste Europeen, Paris. Triffin, R. (1964). 'The myth and realities of the so-called gold standard', in The Evolution of the International Monetaly System: Historical Reappraisal and Future Perspectives, Princeton University Press, Princeton, NJ. Verley, P. (1997). L'Echelle du monde, Albin Michel, Paris. Williamson,J. (1996). 'Globalization, convergence and history', Journal of Economic History. Yeager, L.B. (1969). 'Fluctuating exchange rates in the 19th century: the experiences of Russia and Austria', in R. Mundell and A. Swoboda (eds.), Monetary Problems of the International Economy, University of Chicago Press, Chicago, IL. Zamagni, V. (1997). 'Ricostruzione della serie del debito pubblico italiano, 1861 -1946,' mimeo. Zevin, R.B. (1992). 'Are world financial markets more open? If so, why and with what effects?', in T. Banuri andJ. Schor (eds.), Financial Openness and National Autonomy, Oxford University Press, Oxford.
+This content downloaded from
+158.143.109.220 on Thu, 18 May 2023 12:25:26 +00:00 All use subject to https://about.jstor.org/terms

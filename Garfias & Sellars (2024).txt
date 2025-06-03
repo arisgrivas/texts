@@ -1,0 +1,983 @@
+The Oxford Handbook of Historical Political Economy
+Je ery A. Jenkins (ed.), Jared Rubin (ed.)
+https://doi.org/10.1093/oxfordhb/9780197618608.001.0001
+Published: 2022 Online ISBN: 9780197618639 Print ISBN: 9780197618608
+Search in this book
+CHAPTER
+https://doi.org/10.1093/oxfordhb/9780197618608.013.11 Pages 209–236
+Published: 26 January 2023
+Abstract
+Keywords: state building, centralization, state capacity, taxation, historical political economy
+Subject: Political Economy, Political Institutions, Politics
+Series: Oxford Handbooks
+Collection: Oxford Handbooks Online
+11 State-Building in Historical Political Economy 
+Francisco Garfias, Emily A. Sellars
+Under what conditions do strong states under a centralized political authority emerge? This chapter
+presents a theoretical framework that summarizes and synthesizes insights from recent research in
+historical political economy on state building. The chapter examines the decision of a central authority
+who weighs the costs and bene ts of state building by taxing the population to defend against a threat.
+The analysis illustrates prominent arguments in the literature, including the role of external con ict,
+military technology, nontax revenue, societal wealth, the technology of taxation, and scal legibility in
+state building. The chapter then considers how powerful local elites, whose interests may not align
+with the central authority, can shift a ruler’s willingness and ability to centralize power, drawing a
+connection with the literatures on intra-elite con ict and limited government. Finally, the chapter
+expands the framework to incorporate non-elite citizens, who can pressure elites and central
+authorities through the threat of rebellion from below, to discuss the role of elite-mass relations in
+state building.
+The consolidation of power under a strong central authority has important long-term economic and
+political consequences (see, e.g., Boone 1994; Mamdani 1996; Lange 2004; Gennaioli and Rainer 2007; Iyer
+2010; Michalopoulos and Papaioannou 2013; Osafo-Kwaako and Robinson 2013; Dell, Lane, and Querubin
+2018; Lee 2019; Paik and Vechbanyongratana 2019; Ahmed and Stasavage 2020; Stasavage 2020). However,
+strong states and centralized forms of political authority have historically been the exception rather than
+the rule. When, why, and how does state-building occur?
+*
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+In this chapter, we provide a framework for thinking about these questions, drawing on recent research in
+historical political economy (HPE). This work has accumulated important theoretical insights about state
+building and a growing number of empirical ndings from diverse contexts. This chapter synthesizes some
+of these disparate sets of mechanisms and empirical results in a common framework. In doing so, we
+highlight important themes that have emerged in this work, illustrate the connections between some of the
+subliteratures that have developed in parallel with one another, and suggest new directions for future
+research.1
+Our framework focuses on the choice of a central authority—for example, a monarch, dictator, or uni ed
+ruling coalition—to extract resources from society to bolster the strength of the central government,
+potentially at the expense of others in the polity. We conceive of this central authority as a coherent,
+rational, and self-interested actor who is motivated primarily by the desire to remain in power. This
+conceptualization builds on Levi’s (1988) insight that the interests and actions of a central ruler—and not
+of state institutions in general—represent a useful starting place for a theory of state policy; “rulers
+rule,” as she famously argues (p. 2). All rulers, however, are constrained in their ability to wield power and
+often face threats from external sources and from within. Revenue can be used to defend against these
+threats, but increased extraction comes with its own political and economic costs.
+p. 210
+We build our theory from a decision-theoretic model in which a ruler or central authority weighs the costs
+and bene ts of taxing the population to defend against a threat. This simple model captures important
+arguments in the state-building literature related to the technology of taxation, the availability of nontax
+revenues, and wealth in society. Most directly, the model highlights the importance of external con ict, the
+central factor in the bellicist theory of state emergence.
+We then introduce local elites—the subjects of state taxation and an important political constituency—as
+strategic actors who can either back the state or work to undermine it from within. This second model
+illustrates a potential tension between the central authority’s need for revenue and the risk of alienating
+elites through excessive extraction, especially in situations where elite and ruler preferences are not aligned
+and where elites hold signi cant independent power. This second model also highlights some of the
+competing pressures facing elites, who may want to limit state extraction but who also rely on tax-funded
+public goods, such as military defense against external enemies.
+Our nal model introduces non-elite citizens who can pressure elites and the central authority from below
+through the threat of rebellion. These non-elite actors may have little direct stake in national political
+battles between elites and the ruler, but their actions in uence elite behavior and thus the incentives of the
+government to centralize power through extraction. This formulation illustrates several additional
+complexities in the relationship between domestic political con ict and state-building, highlighting in
+particular how divisions between di erent domestic actors can in uence state-building, how even highly
+localized political con icts can take on national signi cance in the process of state centralization, and how
+seemingly unrelated political shocks can cause state-building e orts to back re.
+As we develop this framework, we incorporate insights from di erent strands of the HPE literature on
+state-building and discuss how these insights interact. Though we adopt a formal-theoretic approach, we
+provide intuition for the main arguments qualitatively in each section. We conclude the chapter with some
+re ections on potential future directions for research in this eld, building on our analysis.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+The State and State-Building
+We begin by outlining the conceptual de nitions that underlie the framework in this chapter. Following
+Ho man (2015), we adopt a broad de nition of the “state” as a community that can use force and has the
+capacity to impose and collect taxes on a substantial and permanent basis. This de nition omits or
+abstracts away from some factors that contribute to state structure or that di erentiate ancient from
+modern states, such as well-de ned territorial boundaries, the rule of law, political legitimacy, or national
+identity. It is also considerably less restrictive than Weber’s requirement that a state can claim a monopoly
+over the legitimate use of violence within a territory (Weber 1999). We use this expansive yet parsimonious
+de nition to highlight the roles of coercion and taxation in state-building, both of which are central to the
+HPE literature on this topic.
+p. 211
+We further clarify our de nition of “state-building.” Our focus is on the consolidation of power and revenue
+under the control of a central authority in an existing state, as opposed to the emergence of new states (see,
+e.g., Olson 1993; Boix 2015; Scott 2017; Allen, Bertazzini, and Heldring 2020; Dal Bo, Hernandez, and
+Mazzuca 2022; Mayshar, Moav, and Pascali 2022) or the political incorporation of new regions (see, e.g.,
+Spruyt 1996; Pierskalla, De Juan, and Montgomery 2017; Acharya and Lee 2018). As Mazzuca (2021) argues,
+the processes of state formation and state building are conceptually distinct, may be motivated by di erent
+factors, and may not work in tandem. State-building under our de nition encompasses political
+centralization and an increase in the resources and strength of the central government.
+A Simple Theory of State-Building
+The classic account of the formation of modern territorial states centers on early-modern Europe. This was
+a period of intense warfare during which the nature of military con ict was changing. The introduction of
+gunpowder, the increasing use of siege warfare and artillery weapons, and an increasing reliance on a
+trained and disciplined infantry in combat, among other factors, substantially raised the monetary costs of
+war. To nance expensive con icts, states began to increase resource extraction from the citizenry and
+underwent important organizational transformations in the process. France is an illustrative example. One
+of the rst states to establish a standing army, the French state began to fund its military through domestic
+debt secured against future tax revenue, encouraging a steady increase in taxation starting in the sixteenth
+century. This shift was enabled by a rising tax base and the presence of domestic creditors in wealthy cities
+like Paris, Toulouse, and Montpellier (Tilly 1990, 47–49, 74). Over time, this process led to important
+changes in the structure of the French state, including a transition from tax farming to direct taxation and
+investment in scal legibility (Tilly 1990, 107–10; Johnson and Koyama 2014). By the end of the eighteenth
+century, France had not only survived as a political entity after centuries of external threat, it had also
+developed a strong state with a centralized bureaucracy and high levels of taxation.
+Inspired by the Western European example, we begin our theoretical discussion of state-building by
+focusing on the decision of a central authority to extract revenue from society to strengthen the state
+against a threat. We develop a simple decision-theoretic model in which a ruler, who cares only about
+surviving in power, weighs the cost of taxation against the bene t that tax revenue provides in bolstering
+state strength against this threat. Because taxation is costly, the ruler’s choice of how much to extract
+depends on the extent of expected threat, the technologies of taxation and defense, and the size of the
+resource base. As we discuss, this model both captures several well-known theories about how each of these
+factors shapes state-building in isolation and illustrates some interesting connections between them. We
+develop the model in the following subsection and then qualitatively discuss its implications for
+understanding the HPE literature on this topic.
+p. 212
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+A Basic State-Building Model
+Discussion
+A central authority A rules over a society of wealth ω > 0. The authority chooses to extract some amount T of
+this wealth to invest in bolstering state strength. The cost of extracting revenue is given by cT, where c > 0.
+This cost (c) might capture the immediate cost of extracting wealth from private holders, the cost of tax
+enforcement or processing, or an investment in scal capacity or paci cation that is required to enable
+taxation.
+The strength of the state (S) depends on tax revenue (T) and any exogenous nontax revenue (ρ). Nontax
+revenue might include resource rents, external nancing, or other endowments that the authority can
+appropriate without taxation. Speci cally, let represent state strength, where the function f(∙)
+captures how easy or hard it is for the authority to convert revenue into strength. We assume that f is
+increasing and concave in total revenue, so that revenue improves defensive capability but with decreasing
+marginal bene ts.
+S = f(T + ρ)
+The state faces an exogenous threat—for example, a foreign invasion or domestic challenge—the severity
+of which is stochastic, given by S ∼ Unif [σ - δ, σ + δ]. The parameter σ can be interpreted as the expected level
+of threat, which might capture factors like the proximity of foreign rivals or any natural defensive
+advantages of the state’s geographic position. The parameter δ captures uncertainty about the severity of
+threat, which might depend on unknown factors like the intentions of political rivals or the risk of natural
+disasters. The realized severity of the threat (S) is revealed after the ruler has made his extraction choice. We
+assume that the state survives only if strength S > S. If the state survives, the central authority receives
+as the value of maintaining power. If the state falls, the authority loses power and receives a
+payo of 0 (α can thus be thought of as the relative utility of maintaining to losing power).
+uA = α > 0
+What determines how much a ruler decides to (and is able to) extract? As we show in the Appendix to this
+chapter, the authority’s preferred level of taxation in the model depends on the extent of external con ict,
+the availability of nontax revenue, the amount of appropriable wealth, and features about the
+technologies of extraction and defense (Appendix Section A.1). The central tension of this rst model
+surrounds a direct cost-bene t analysis of taxation for the ruler. Because taxation is costly, the ruler does
+not always bene t from increasing extraction, even when doing so increases his probability of survival.
+Whether the costs of taxation are worth paying depends on how high these costs are, whether alternative
+sources of revenue are available, and the degree to which any increased revenue pays o in raising the
+likelihood that the state will survive.
+p. 213
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+External Conflict
+Table 11.1. Baseline ruler model: Summary of predictions
+Theme in literature Parameter in model Predicted change in centralization/taxation
+External conflict Expected threat severity (σ) Increases taxation window, unless threat is overwhelming
+Uncertainty about threat (δ) Ambiguous (see conclusion)
+Military technology
+Nontax revenue
+Importance of revenue in military power
+Nontax revenue (ρ)
+Increases
+Decreases
+Societal wealth/capital
+Total wealth (ω) Increases taxation window
+Taxation technology
+and legibility
+Cost of taxation (c) Decreases
+(f ′(⋅))
+We summarize the key predictions in Table 11.1. We provide some intuition for these results and discuss our
+analysis in light of several key literatures in HPE in the next section.
+We begin by revisiting the classic relationship between state-building and external con ict, most famously
+associated with the works of Otto Hintze and Charles Tilly. These theories, initially formulated in the
+context of early-modern Europe, propose that interstate war gave rise to the territorial state. One of the
+mechanisms proposed for this relationship is that the presence of external threats push states to develop
+capacity to mobilize resources for the war e ort. As in the bellicist framework, an exogenous threat, such as
+that posed by external con ict, is what drives extraction in our model. Because taxation is costly and
+revenue is exclusively used for defense (an assumption we revisit below in a model extension), there is no
+incentive to tax without a threat, and the maximum level of extraction is increasing in the expected level of
+this threat.
+The relationship between external con ict and state-building is one of the most well-documented
+empirical ndings in this literature, beginning with the case studies and small-n comparisons of early
+modern Europe that inspired the bellicist conjecture (Schumpeter 1954; Ardant 1975; Hintze 1975; Tilly
+1975; 1990; Levi 1988; Brewer 1990; Ertman 1997). More recently, cross-national associations between
+historic warfare and present-day scal outcomes (Besley and Persson 2009; 2014; Dincecco, Fenske, and
+Onorato 2019) and panel evidence on Europe in the early-modern period (Dincecco 2009; 2011; Dincecco,
+Federico, and Vindigni 2011; Karaman and Pamuk 2013), the early twentieth century (Scheve and Stasavage
+2010), and even the late Middle Ages (Blaydes and Paik 2016) have provided additional empirical support for
+this argument. Related work has examined how the emergence of a new military threat, such as the rise of
+the Ottoman Empire in early-modern Europe (Cantoni, Mohr, and Weigand 2021), can encourage
+investment in scal capacity. Regional di erences in state development are also generally consistent with
+the bellicist argument. Strong centralized states arose in Western Europe, an area of intense territorial
+con ict, and not in regions like Latin America or sub-Saharan Africa, which had distinctive political
+histories (see, e.g., Herbst 2000; Centeno 1997; 2002).
+p. 214
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Military Technology
+Nontax Revenue
+Societal Wealth
+Our model highlights an important mediating factor in the relationship between external con ict and state
+building: military/defense technology. When a slight increase in revenue has little impact on the defensive
+capability of the state (i.e., is small), the ruler has little reason to extract wealth. As military technology
+becomes more e cient, the bene t of raising taxes to defend against external threat increases.
+f ′(⋅)
+This result is consistent with existing scholarly work in HPE. Gennaioli and Voth (2015), for instance, focus
+on how the relationship between external warfare and state emergence shifted with the military revolution
+in Europe that began with the introduction of gunpowder. Revenue, they argue, only a ected coercive power
+following the dramatic increase in the monetary costs of war following this military revolution. This
+explains the timing of the rise of the European territorial state speci cally during the early-modern period
+(see also Ho man [2012]). The puzzling absence of a connection between warfare and state-building in
+other contexts—such as Latin America (see, e.g., Soifer 2015) or during the nineteenth century (see, e.g.,
+Goenaga, Sabate, and Teorell 2018)—may similarly be explained by the weak connection between revenue
+and military power in those settings.
+Nontax revenue (ρ) is a perfect substitute in our model for revenue extracted through taxation. A ruler who
+can count on a large resource windfall may not need to incur the costs of taxation to ensure state survival. As
+nontax revenue increases, the window where taxation is attractive for the ruler therefore shrinks.
+This is consistent with a prominent literature on how the availability of nontax revenue, such as natural
+resource rents, shapes state-building. Nontax revenue is often modeled as an attractive substitute to costly
+taxation (see, e.g., Besley and Persson 2009; 2014). Several empirical studies have found a negative
+relationship between the availability of nontax resources and measures of scal capacity. For example,
+Cassidy (2019) shows that present-day tax revenue is lower in areas that are geologically conducive to oil
+extraction (see also Dunning 2008). A complementary literature on the availability of international nance
+has similarly found that states’ ability to borrow from abroad weakened the relationship between war
+and domestic extraction in nineteenth-century Latin America (Centeno 1997; 2002; Soifer 2015). Though
+international nance is distinctive from resource rents in that it typically entails a promise of future
+payment, Queralt (2019; 2022) shows that debt- nanced war during the nineteenth century did not lead to a
+long- or even short-term increases in extractive capacity, given the continual possibility of debt relief and
+re nancing.
+p. 215
+Extraction in our model is bounded above by the amount of available wealth (ω). A ruler cannot tax beyond
+ω, even if he faces strong incentives to do so. In a society with a very small resource base, there may simply
+not be enough wealth for the state to survive a major threat.
+This simple argument has roots in classic literature. For example, Tilly describes how the accumulation of
+capital in European cities during the early-modern period allowed rulers to better fund war e orts through
+increased access to domestic loans, revenue-producing state enterprises, and a larger tax base (Tilly 1990).
+More recently, Abramson (2017) presents evidence consistent with the idea that an increase in wealth
+enabled the survival of small urban states against encroachment by larger (but more rural) neighbors
+during this period. A related set of arguments highlights the role of economic productivity in state
+formation and state-building alongside defensive concerns due to resource constraints and other factors
+(see, e.g., Acharya and Lee 2018; Fernandez-Villaverdé et al. 2020; Dal Bo, Hernandez, and Mazzuca 2022).
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Taxation Technology and Legibility
+When the cost of taxation (c) is very high, the authority has little incentive or ability to extract resources to
+bolster state strength. Conversely, if the cost is low, taxation remains attractive even when the marginal
+defensive bene t of additional revenue is small.
+The cost of taxation may be determined by many factors, including geography. It may be costly, for
+example, to extend political control over a large territory relative to a smaller one, especially when threats
+emerge from multiple directions (Stasavage 2011; Ko, Koyama, and Sng 2018; Koyama, Moriguchi, and Sng
+2018; Mazzuca 2021). Terrain ruggedness can inhibit a state’s ability to tax by increasing transportation
+costs or providing citizens with an opportunity to escape the reach of the state in mountains or jungles (see,
+e.g., Fearon and Laitin 2003; Scott 2009; Fernandez-Villaverdé et al. 2020). Population density can shape
+both the ability and the incentive of central rulers to tax the population, as the literature on sub-Saharan
+Africa in particular has emphasized (Herbst 2000; Boone 2003).
+The cost of taxation is also determined by scal legibility, a ruler’s ability to monitor the economy or
+population (Scott 1998; Brambor et al. 2020). Features of agricultural production, such as crop
+characteristics or irrigation methods, can make it easier or more di cult for the central authority to
+observe economic activity, which in turn shapes incentives for state-building (Mayshar, Moav, and Neeman
+2017; Scott 2017). Technology also plays a role. Stasavage (2020), drawing on evidence from ancient states,
+describes how innovations like writing, geometry, and land surveying techniques facilitated the
+emergence of early bureaucracies. Gar as and Sellars (2022a) show how a technological innovation in silver
+mining facilitated state centralization in colonial Mexico by making it easier for o cials to monitor
+production and tax the population. Rulers can also invest in improving legibility through the creation of tax
+o ces, censuses, and land registers to lower the future costs of taxation. The positive feedback between
+political centralization and scal capacity can lead to divergent paths of state development, as Gar as and
+Sellars (2022a) show in colonial Mexico and Johnson and Koyama (2014) in early-modern France and
+England.
+p. 216
+2
+Because taxation entails the extraction of resources from the citizenry, there are also political costs to
+consider. Next we consider these costs in greater detail, expanding our framework to examine the strategic
+interaction between the central ruler and economic elites who hold wealth and may stand to lose from
+state-building projects.
+State-Building and Elites
+Societal wealth is typically held by domestic actors—elites and other taxpayers—whose interests may not
+align with those of the central authority. For this reason, the internal politics of state building are often
+contentious rather than cooperative. There are countless historical and contemporary examples of powerful
+elites deterring or sabotaging state-building e orts when threatened by centralization. This is why political
+centralization often, but not always, occurs during times of elite weakness. In ancient China, for example,
+the Qin state that emerged from a period of intense interstate con ict—the Warring States era (475–221
+BCE)—was able to centralize power in an unprecedented way because it faced a severely weakened
+aristocracy (Kiser and Cai 2003). Key reforms, such as the abolition of feudal titles and the establishment of
+a centrally controlled bureaucracy, would have been di cult to implement had the aristocracy been strong
+enough to mount an e ective resistance to these policies, which they perceived as threatening (Hui 2015).
+Though domestic political con ict is often thought to inhibit state-building, there are also conditions under
+which it may encourage rather than discourage taxation. The spectacular expansion of the British state
+following the Glorious Revolution, for example, was made possible because the Crown faced a powerful
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+State-Building Model with Elites
+Discussion
+taxpaying elite that was able to force its policy preferences on the government (North and Weingast 1989;
+Stasavage 2003). To develop these and other related ideas, we extend our model to consider the strategic
+interaction between the central authority and domestic elites.
+We model the central authority’s (A) choice of how much tax revenue (T) to extract from domestic elites (E),
+modeled as a uni ed strategic actor. Elites are endowed with wealth (ω), which they either own or control
+indirectly. The central authority is again assumed to be o ce-motivated, receiving α if the state survives
+and 0 if the state falls. Rather than assuming that taxation carries a xed cost, we directly model the
+political cost of alienating elite wealth holders through overzealous taxation.
+p. 217
+After the authority determines how much wealth to extract, elites decide whether to back the central ruler in
+a crisis (e = 1) or to defect (e = 0). Elite defection weakens the central government by, for example, overtly
+supporting an internal or external political rival against the ruler, shirking on internal defense by depriving
+the ruler of logistical assistance during war, or refusing to cooperate with state o cials. Compliance with
+the central authority is assumed to be costly for elites, with the compliance cost given by μ.
+The strength of the central government (S) is now modeled as a function of both state revenue and elite
+backing or defection. As earlier, the base strength of the government is S = f(T), where the function f is
+increasing and concave. If elites defect, state strength is lowered by ζ, which represents elite coercive power
+(i.e., their in uence in state strength). Also as earlier, the state survives a threat only if strength S > S,
+where S ∼ Unif [σ - δ,σ + δ]. To highlight the role of elite politics, we focus on interior cases where the state
+cannot fully ensure its survival against external threat and where elite actions meaningfully in uence but
+do not fully determine the probability of survival (i.e., where f(ω) < σ + δ and f(0) − ζ > σ − δ).
+3
+We normalize the payo s of state collapse to 0 for both the central authority and the elite. If the state
+survives, the ruler receives rents from o ce α > 0 and elites receive their posttax wealth (ω − T) and λ, which
+represents the utility of state survival relative to a postcollapse alternative. If elites fear state breakdown or
+have an a nity for the central ruler, λ would be very high. If elites would prefer to see the state fall—for
+example, if they have an acrimonious relationship with the central authority, support internal political
+rivals, or have attractive outside options—λ might be negative.
+If the state survives despite elite defection, defecting elites pay a punishment cost of π > 0. The severity of
+this cost could vary from a small ne to violent retribution depending on the context and form of elite
+defection.
+The extended model illustrates how domestic political bargaining structures state-building. A central
+authority’s ability and willingness to strengthen the state is driven not only by perceived threat but also by
+the anticipated resistance from elites. As we discuss in this section and show in Appendix Section A.2, the
+model highlights two paths of state-building, one cooperative and one coercive. In the cooperative path, the
+ruler limits his extraction to a level acceptable to elites in exchange for their support. In the coercive path,
+the ruler extracts all of the elite’s wealth to counter their anticipated defection.
+The optimal path for the ruler depends on elites’ willingness to accept taxation (T), which is determined by
+the parameters summarized in Table 11.2. An increase in taxation a ects elite preferences through two
+mechanisms. Higher taxation reduces the bene t of state survival for elites, but it also increases state
+strength and thus the likelihood that elite defection will be punished. As elites are more aligned with the
+center for material (ω) or political/social (λ) reasons and as the threat of punishment (π) increases, elites
+p. 218
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+become more willing to back the government at high tax levels, and the cooperative approach becomes less
+costly for the ruler.
+Table 11.2. Elite model: Summary of additional predictions
+Theme in literature
+Parameter in model Predicted change in eliteʼs willingness to accept taxation
+Preference alignment
+Survival payo (λ) Increases
+Economic benefits
+Center coercive threat
+Residual wealth (ω − T)
+Punishment cost (π)
+Increases
+Increases
+Elite coercive power
+Elite power (ζ) Depends on balance between benefits of state survival (λ) and cost of punishment (π)
+Figure 11.1.
+Central authority extraction as a function of elite willingness to pay
+The figure presents the optimal tax level for the central ruler over the maximum tax that the elite is willing to pay without
+defecting If elite power , the ruler will set for , where , and otherwise. If elite
+power increases to this expands the range of values where the ruler will set to , as represented in the dashed line. See Appendix Section A.2 for the analysis.
+(T *)
+(Tˆ). ζ = ζ′ T *= Tˆ Tˆ > Tˆ′ f(Tˆ′ = f(ω) − ζ′) T *= ω
+ζ′′ > ζ′ T *= Tˆ Tˆ > Tˆ′′
+The model illustrates a nonlinear relationship between the elites’ willingness to back the government and
+the optimal tax level the ruler chooses (Figure 11.1). When elites are highly aligned with the center, the ruler
+can increase taxation at little political cost. As elites’ willingness to pay taxes decreases—perhaps because
+they possess better outside options or fear punishment less—they can successfully demand that the ruler
+p. 219
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Preference Alignment
+Elite Political Power
+limit extraction. However, once the maximum tax that elites are willing to pay falls below a certain
+threshold, the ruler will revert to a coercive strategy to maximize the probability of state survival. As shown
+in Figure 11.1, this threshold depends on the domestic political power of elites, ζ. A stronger domestic elite
+has a greater ability to demand reduced taxation.
+The degree of political con ict or consensus between elites and the state has been central to the HPE
+literature on state-building. In the remainder of this section, we discuss this literature in light of our
+theoretical framework.
+The preference alignment between elites and the ruler plays an important role in this framework. Elites are
+more willing to accept higher taxation when they bene t more from state survival for material, social, or
+political reasons. Conversely, elites who have less to lose from state collapse become less willing to tolerate
+state extraction.
+One factor that contributes to preference alignment between elites and the center is elites’ reliance on
+state-provided public goods, such as military defense. Besley and Persson (2009; 2014), for example,
+describe why incumbent and opposition political actors should be more willing to invest in scal capacity if
+revenue will be spent on common-interest goods like defense (see Arias 2013 for a related argument on
+colonial Mexico). As Slater’s (2010) work on state development in Southeast Asia illustrates, elites and
+central authorities may also nd common ground against shared domestic threats.
+Central authorities may take steps to increase elite preference alignment to encourage support for the state
+under higher levels of taxation. For example, they might allow rising elites to have greater in uence in state
+policy and public goods provision (Kurtz 2013; Saylor 2014; Beramendi, Dincecco, and Rogers 2019) or
+attempt to incorporate rival elites into the state (Chen, Wang, and Zhang 2021). Elite homogeneity—such as
+through concentration in a single urban core—can make it easier for the state to tailor its activities to align
+with elite preferences, encouraging state-building (Soifer 2015; Mazzuca 2021). Greater geographic
+dispersion among already linked elites might shift their preferences toward state-building so that public
+goods like defense can be spread across a larger territory, as Wang (2022) shows in Imperial China. A
+common interest in state-building may emerge among rival elites if greater taxation is tied to political
+restrictions for the masses (Mares and Queralt 2015; 2020).
+Conversely, threatened, nonaligned elites may be able to exploit the political environment to sabotage
+state-building (see, e.g., Migdal 1988). Suryanarayan (2021) and Suryanarayan and White (2021), for
+example, describe how elites can exploit social-status cleavages to create broad coalitions in support of
+weakening the central government. Sanchez-Talanquer (2020) further shows how elites can co-opt state
+building e orts to reshape their in uence and undermine their e ectiveness.
+p. 220
+A more powerful elite that can damage the government through defection can more e ectively demand
+lower taxation. This can deter state-building when elites and the central authority have opposing interests.
+In contexts where elites control considerable coercive power—such as in what North, Wallis, and Weingast
+(2009) characterize as “natural states” or Besley and Persson (2014) describe as “weak states”—central
+rulers may be outgunned by rivals in the periphery, limiting any potential for signi cant state-building. At
+the other extreme, when elites are too weak to threaten the government through defection, the ruler has
+little reason to limit extraction to cater to their preferences.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Limited Government
+Shifts in the coercive power of elites can therefore precipitate changes in state-building trajectories.
+Because the potential for political centralization is limited where rival elites remain strong, a sharp decline
+in elite power may enable state-building. Gar as (2018), for example, shows how an economic shock that
+temporarily weakened local elites in postrevolutionary Mexico provided a window for local political
+authorities to consolidate their advantage and invest in state capacity. A shock that bolsters the coercive
+power of nonaligned elites, by contrast, can curb state extraction by raising the costs and reducing the
+bene ts of taxation for the ruler.
+This model illustrates that elites’ bargaining power, their ability to secure a lower level of taxation than
+would be favored by the ruler, depends both on their political power (ζ) and preference alignment with the
+central authority (λ). Elites must be su ciently powerful to pose a threat to the ruler through defection, and
+they must have a moderate (but not perfect) degree of preference alignment so that the central authority
+has an incentive to appease them through lower taxation. This illustrates a connection to the literatures on
+scal contracts and institutions of limited government. Institutions that bolster elite political power or
+improve the quality of elites’ outside options can place e ective limits on state extraction and can promote
+state-building.
+This connection is clearer if one considers an extension of the model where the ruler is able to divert tax
+revenue for personal rents at the expense of state strength. In the baseline model with elites, an increase in
+taxation represents a double-edged sword. Greater taxation lowers elites’ bene t of backing the ruler, but it
+also bolsters state strength and thus increases the chance that elite defection is punished. If the ruler were
+to spend this extra revenue on rents, the increase in taxation would reduce elites’ utility without the
+corresponding increase in the threat of punishment, unequivocally reducing elites’ willingness to back the
+state. Thus, when elite power (ζ) is high enough (provided outside option λ is moderate), the threat of
+defection places a natural limit on rent-seeking. “Limited government” in our model thus arises
+endogenously from speci c domestic political coalitions, which must be sustained for credibility to endure
+(Stasavage 2003; 2007), rather than as exogenous features of the institutional environment (see, e.g., Besley
+and Persson 2009; 2014).4
+The prospects for state-building are therefore greater when rulers are constrained to spend in ways that
+align with the preferences of taxpaying or debt-granting elites (Bates and Lien 1985; Levi 1988; North and
+Weingast 1989; Ho man and Rosenthal 1997; Gehlbach 2008; Cox 2016) or where institutions limit a ruler’s
+ability to increase extraction (Gar as 2019). These ideas have found empirical support in studies that
+examine institutional changes along these lines cross-nationally (Dincecco 2009; 2011; Cox 2016) and
+subnationally (Gar as 2019).
+p. 221
+5
+Elites and Commoners in State-Building
+The model of the previous section illustrates how a particular form of domestic political con ict, that
+between elites and the central authority, can shape the trajectory of state-building. We now expand our
+discussion of domestic politics to consider the actions and interests of another social group. Ordinary
+citizens or commoners—such as peasants, workers, or the urban poor—can also alter the political costs and
+bene ts of centralization, both directly and indirectly via their relationship with local elites. As the
+literatures on state collapse and revolution illustrate, the complex interplay between commoner, elite, and
+ruler incentives during an unforeseen crisis can lead even a seemingly stable political system to unravel
+(see, e.g., Skocpol 1979).
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+State-Building Model with Elites and Commoners
+The outbreak of Mexico’s War of Independence provides one example. Spanish colonial authorities
+depended on local elites to control the threat of commoner rebellion in the periphery. During the eighteenth
+century, the colonial state implemented a series of centralizing reforms at the expense of these
+intermediaries, aimed at increasing tax revenue. Though largely e ective, the true political costs of these
+reforms only became apparent years later when a large-scale drought a ected the peasant economy during
+a period of state weakness. Faced with an upsurge of commoner rebellion, the disa ected elites became
+unwilling to bear the costs of maintaining order, allowing the localized peasant crisis to grow out of control
+and eventually threaten the survival of the central government (Gar as and Sellars 2022b).
+We extend our framework to incorporate commoners, focusing in particular on the role of elites as
+intermediaries between commoners and the central authority. We model commoners as a separate political
+class that is not directly taxed (an assumption we revisit later) and whose primary motivations are
+unrelated to national politics, elite con ict, or the exogenous threat. As our model illustrates, even when
+commoners have no direct stake in state-building, their political actions may have important consequences
+for centralization, both directly and via shifting incentives for elite intermediaries to back the central
+authority during times of crisis.
+p. 222
+The central authority (A) again chooses how much tax revenue (T) to extract from the economic elite (E),
+who control wealth (ω), some of which may originate from the broader population. As earlier, tax revenue
+bolsters state strength, and the level of taxation may in uence the willingness of elites to back the state,
+now by restoring local political order (e = 1) or by defecting (e = 0) when faced with local rebellion by
+commoners (C).
+The commoners’ choice to rebel depends on local conditions ( ), the bene ts of rebellion (β), and the
+perceived threat of repression by elites. We model —which might capture commoners’ economic
+opportunities or the current quality of their social or political situation—as stochastic and unrelated to
+political centralization or taxation (however, see the Discussion section for a relaxation of this assumption).
+Speci cally, ∼ Unif [ ]. If commoners rebel, they forgo and instead receive the material and
+social bene ts of rebellion (β), which could encompass both social components (e.g., feelings of collective
+belonging) and material components (e.g., goods seized during rioting). If the elite represses the rebellion,
+commoners su er a cost ψ from repression. We assume that , so that the
+possibility of repression remains a meaningful deterrent to mobilization even when conditions are poor. We
+further assume that commoner payo s do not directly depend on whether the state survives.
+η
+η
+η η − ν, η + v η
+β−ψ < η−ν < β < η+ν
+If commoners do not rebel, elites take no action. If they do rebel, elites choose whether to back the authority
+and repress the uprising or to defect. The cost of repression is μ > 0. Because commoner uprisings might
+a ect elites, this parameter can be alternatively interpreted as the immediate cost of backing the
+government relative to inaction (i.e., μ would be low if elites directly absorbed the costs of allowing a
+rebellion to continue). As earlier, we assume that elite defection lowers the strength of the central
+government by ζ, which might capture the need to divert resources to reestablish order or a decrease in
+defensive capability against the exogenous threat due to ongoing political upheaval. If the government
+survives despite commoner rebellion and elite defection, elites pay a punishment cost of π > μ , which
+implies that elites are better o complying if they expect the state to survive.
+The model otherwise proceeds as in the prior section. The strength of the government is given by S = f(T), or
+S = f(T) − ζ if elites defect. A stochastic shock, S ∼Unif [σ - δ,σ + δ], determines the extent of the threat after
+the elites’ decision. The state survives if S ≥ S and falls otherwise. We provide a summary and analysis of this
+model in Appendix Section A.3.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Discussion
+Elite Bargaining Power Revisited
+Incorporating the threat of rebellion from below allows us to draw connections to other prominent
+arguments about state-building and state collapse, as summarized in Table 11.3. This formulation draws
+attention to an alternative view of elite bargaining power, the role of elite-mass relations, and the
+connection between local and national political con ict in state-building.
+p. 223
+Table 11.3. Commoner model: Summary of additional predictions
+Theme in literature Parameter in model Predicted change in the central authorityʼs dependence on elites
+Elite cost of compliance
+Repression cost (μ) Increases
+Commoner conditions
+Average material/social benefits of status quo (η)
+Decreases
+Attractiveness of rebellion
+Material/social benefits of rebellion (β) Increases
+As in the previous section, elite bargaining power in this extended model depends jointly on elites’ political
+strength and their preference alignment with the center. Now, however, elite coercive power is linked to the
+threat of rebellion from below. When the threat of rebellion is high (when commoner conditions are poor or
+the attractiveness of rebellion is high), rulers are more dependent on elite cooperation for state survival,
+which increases elites’ ability to demand lower taxation. When there is little risk of rebellion, by contrast,
+the ruler has less to lose from alienating elites through increased extraction.
+Factors that decrease the willingness and ability of commoners to rebel should therefore also decrease the
+bargaining power of elites to demand lower taxation. HPE research has found some empirical support for
+this assertion. Gar as and Sellars (2021) show that a sudden decline in the potential for commoner rebellion
+facilitated state centralization in early colonial Mexico. Bai and Jia (2016) conversely illustrate how
+alienating elites was especially dangerous for central authorities facing a high risk of commoner rebellion in
+late Imperial China, in part because the center relied on local elites for backing when rebellions broke out
+(Bai, Jia, and Yang 2021).
+As in the previous model, preference alignment is an important mediator in the relationship between elites’
+coercive and bargaining power. As elites themselves stand to lose more from allowing commoner rebellion
+to grow out of control (i.e., when μ is lower), they become more willing to back the state even when taxation
+is high. As Dincecco and Wang (2018a) document, elites threatened by rebellion in Imperial China bene ted
+from bolstering the state as a way of enhancing their own security and therefore accepted increased
+taxation. However, when the state became weaker following China’s defeat in the Opium War, elites turned
+to the private substitute of family clans for security, contributing to eventual state collapse. This example
+illustrates the importance of state stability in encouraging elite compliance. There is little reason for elites
+to invest in bolstering a state that cannot survive, as our model demonstrates.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Local and National Interdependence
+How State-Building Backfires
+p. 224
+Commoners’ behavior in this framework in uences the path of state-building, even though commoner
+preferences do not directly depend on elite taxation or state survival. Because the political negotiation
+between elites and the central authority di ers based on the threat of rebellion from below (which
+determines elite bargaining power), local conditions a ecting commoners in uence decisions about
+political centralization and taxation made at the national level. Similarly, while commoners in the model are
+assumed to care only about local conditions, their choice to rebel depends on elite taxation because this
+in uences elites’ willingness to repress revolt. This illustrates an interdependence between local and
+national political concerns, a central feature of the classic literature on rebellion (Moore 1966; Wolf 1969;
+Tilly 1978).
+A natural extension of this model might allow commoners’ local conditions to di er based on the level of
+elite taxation. For example, elites may be able to shift the burden of taxation to commoners through, for
+example, extracting wealth from local individuals or villages. This would lower commoner welfare,
+increasing their willingness to rebel. Slantchev and Kravitz (2019) build on this idea to examine how tax
+revolts can provide information to rulers about the burdens of taxation that are being passed on to the poor
+in areas where the government lacks monitoring capacity. In our model, a shift in the burden of taxation
+from elites to commoners would have an ambiguous e ect on state-building. It would increase the relative
+bene ts of rebellion for commoners, increasing the bargaining power of elites to demand lower taxation
+from the central authority. However, the ability to pass on the burden of taxation to commoners would also
+insulate elites from the consequences of increased extraction, which would raise their willingness to remain
+loyal to the government even under high tax levels. Elites would therefore bear lower direct but higher
+indirect costs of increased taxation.
+This extended model once again illustrates how the strength of the central government depends on both the
+size of the state (i.e., tax revenue) and the political support that the state enjoys from taxpayers. By
+incorporating commoners, this model provides a more complex view of how political stability or instability
+can shape state-building. In the model, as commoners become less willing to rebel, either because their
+status quo conditions are better or because rebellion becomes less attractive, central authorities become
+more willing to risk elite defection through high taxation. In other words, state-building should accelerate
+where political control over commoners is most secure.
+However, when authorities decide to tax beyond a level that elite intermediaries will accept, they are
+implicitly gambling that commoner local conditions will be favorable. If η is realized much lower than
+expected—for example, if there is adverse weather like a severe drought or other shock a ecting the
+commoner economy—authorities will not be able to count on elite support to contain rebellion. This
+illustrates how e orts to strengthen the government through high taxation can back re, reducing the
+strength of the state during crisis and facilitating state collapse. This idea is developed further in Gar as
+and Sellars (2022b), who show how unrelated political shocks converged to bring about the collapse of
+colonial rule in Mexico through a similar mechanism. Skocpol (1979) develops a related argument on how
+peasant rebellion and higher-level pressures often coalesced to bring about revolutionary political change.
+p. 225
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Conclusions and Future Directions
+We conclude with some general observations about the literature on state-building in HPE and some
+potential directions for future work. As our chapter illustrates, this literature has grown considerably
+beyond the classic works of Tilly, Hintze, and others on Western Europe to examine the scope conditions of
+the bellicist argument, the interplay between internal and external con ict, the role of nontax revenue, and
+the shifting in uence of military technology and scal legibility, among other factors. In the process, HPE
+scholars have broadened the substantive focus of this research area beyond early-modern Europe to
+examine contexts as diverse as twentieth-century Southeast Asia, colonial Latin America, eleventh-century
+China, and the United States following Reconstruction. This work has produced a large and growing “library
+of mechanisms” (Gailmard 2021) to explain when and why political centralization takes place, the process
+through which state-building and state collapse occur, and the contextual factors that may enable or
+foreclose speci c paths of state consolidation.
+An important next step in moving this research area forward is to move toward summarizing and
+synthesizing the insights that have been generated through this work. The framework we develop here
+begins this e ort and provides an organizational structure for thinking about some of the di erent ways in
+which HPE scholars have expanded this literature, some general lessons that might be drawn from their
+work, some interesting connections between subliteratures that are often discussed in isolation from one
+another, and some of the unanswered questions that remain. Scholarship has approached this topic from a
+variety of angles, both in terms of substantive focus and methodological approach. There are, however,
+important commonalities in how HPE scholars have thought about state-building across time and space
+that might be missed when taking a narrower view of the speci c contexts or causal processes highlighted
+by any given contribution. The variables that capture external security considerations, the balance of power
+between the center and the periphery, the structure of the international political or economic system, and
+preexisting technological and environmental conditions di er considerably by context, but many of the
+lessons for how these factors structure state-building are plausibly general.
+Our theoretical framework also suggests several avenues for future research. One approach might be to
+explore some of the new or less examined predictions of the framework developed here. For example, the
+model suggests that the variance—not just the level—of external threat may shape rulers’ incentives to
+strengthen the state. When there is substantial uncertainty about the severity of a threat, this
+simultaneously expands the range of situations where state-building could occur while also reducing the
+expected bene t of marginally increasing state strength. This hypothesis has not, to our knowledge, been
+explored empirically.
+p. 226
+Another path forward might be to expand on some of the connections between di erent strands of the
+literature. For example, elite bargaining power in state-building—the extent to which elites are willing and
+able to demand a lower extraction from the center—should depend not just on elites’ political strength but
+also on their preference alignment with the ruler and the elasticity of state coercive power with respect to
+revenue. This prediction could be investigated empirically or further analyzed theoretically.
+Finally, the stylized setting that we examine in this chapter could be complicated in several ways to generate
+new insights. Some black boxes that might be worth opening include thinking about di erent ways that
+central authorities might use tax revenue to shore up political strength or further unpacking the coarse set
+of social actors that we examine here—a uni ed center, a uni ed elite, and a uni ed set of commoners—to
+think about how divisions within these categories or identity cleavages (e.g., class, nationality, or ethnicity)
+might alter the path of state-building.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Notes
+1. Our framework is intended to complement more exhaustive reviews of the study of the state in HPE and across the social sciences, such as Dincecco and Wang (2023), Koyama (2023), Moriguchi and Sng (2023), and Vogler (2023) in this volume. Other examples include Levi (2002), Spruyt (2002), Brautigam (2008), Besley and Persson (2014), Ho man (2015), Bardhan (2016), Blaydes (2017), Johnson and Koyama (2017), Berwick and Christia (2018), and Dincecco and Wang (2018b).
+2. Related but distinct literatures examine how prior institutional development (Gerring et al. 2011) and the di usion of technologies of legibility, taxation, and administration (e.g., Grzymala-Busse 2020; Huang and Kang 2022) can facilitate state development.
+3. We omit nontax revenue in this model extension, though predictions are unchanged if it is included.
+4. Though distinctive, this argument is also somewhat reminiscent of Acemoglu and Robinsonʼs (2017; 2020) path to an “inclusive state.”
+5. See also Cox (2023) in this volume.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+References
+Abramson, Scott F. 2017. “The Economic Origins of the Territorial State.” International Organization 71, no. 1: 97–130. Google Scholar WorldCat
+Acemoglu, Daron, and James A. Robinson. 2017. “The Emergence of Weak, Despotic and Inclusive States.” NBER Working Paper.
+Acemoglu, Daron, and James A. Robinson. 2020. The Narrow Corridor: States, Societies, and the Fate of Liberty. New York: Penguin Random House. Google Scholar Google Preview WorldCat COPAC
+Acharya, Avidit, and Alexander Lee. 2018. “Economic Foundations of the Territorial State System.” American Journal of Political Science 62, no. 4: 954–66. Google Scholar WorldCat
+Ahmed, Ali T., and David Stasavage. 2020. “Origins of Early Democracy.” American Political Science Review 114, no. 2: 502–18. Google Scholar WorldCat
+Allen, Robert C., Mattia C. Bertazzini, and Leander Heldring. 2020. “The Economic Origins of Government.” Working Paper. Oxford University/NYU-Abu Dhabi.
+Ardant, Gabriel. 1975. “Financial Policy and Economic Infrastructure of Modern States and Nations.” In The Formation of National States in Western Europe, ed. Charles Tilly, 164–242. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Arias, Luz Marina. 2013. “Building Fiscal Capacity in Colonial Mexico: From Fragmentation to Centralization.” Journal of Economic History 73, no. 3: 662–93. Google Scholar WorldCat
+Bai, Ying, and Ruixue Jia. 2016. “Elite Recruitment and Political Stability: The Impact of the Abolition of Chinaʼs Civil Service Exam.” Econometrica 84, no. 2: 677–733. Google Scholar WorldCat
+Bai, Ying, Ruixue Jia, and Jiaojiao Yang. 2021. “The Nexus of Elites and War Mobilization.” Working Paper.I University of California, San Diego.
+Bardhan, Pranab. 2016. “State and Development: The Need for a Reappraisal of the Current Literature.” Journal of Economic Literature 54, no. 3: 862–92. Google Scholar WorldCat
+Bates, Robert, and Da-Hsiang Lien. 1985. “A Note on Taxation, Development, and Representative Government.” Politics & Society 14, no. 1: 53–70. Google Scholar WorldCat
+Beramendi, Pablo, Mark Dincecco, and Melissa Rogers. 2019. “Intra-Elite Competition and Long-Run Fiscal Development.” Journal of Politics 81, no. 1: 49–65. Google Scholar WorldCat
+Berwick, Elissa, and Fotini Christia. 2018. “State Capacity Redux: Integrating Classical and Experimental Contributions to an Enduring Debate.” Annual Review of Political Science 21, no. 1: 71–91. Google Scholar WorldCat
+Besley, Timothy, and Torsten Persson. 2009. “The Origins of State Capacity: Property Rights, Taxation, and Politics.” American Economic Review 99, no. 4: 1218–44.
+p. 227
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Google Scholar WorldCat
+Besley, Timothy, and Torsten Persson. 2014. “Why Do Developing Countries Tax So Little?” Journal of Economic Perspectives 28, no. 4: 99–120. Google Scholar WorldCat
+Blaydes, Lisa. 2017. “State Building in the Middle East.” Annual Review of Political Science 20, no. 1: 487–504. Google Scholar WorldCat
+Blaydes, Lisa, and Christopher Paik. 2016. “The Impact of Holy Land Crusades on State Formation: War Mobilization, Trade Integration, and Political Development in Medieval Europe.” International Organization 70, no. 3: 551–86. Google Scholar WorldCat
+Boix, Carles. 2015. Political Order and Inequality. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Boone, Catherine. 1994. “States and Ruling Classes in Postcolonial Africa: The Enduring Contradictions of Power.” In State Power and Social Forces: Domination and Transformation in the Third World, ed. Joel Migdal, Atul Kohli, and Vivienne Shue, 108–39. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Boone, Catherine. 2003. Political Topographies of the African State. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Brambor, Thomas, Agustín Goenaga, Johannes Lindvall, and Jan Teorell. 2020. “The Lay of the Land: Information Capacity and the Modern State.” Comparative Political Studies 53, no. 2: 175–213. Google Scholar WorldCat
+Brautigam, Deborah. 2008. “Introduction: Taxation and State-Building in Developing Countries.” In Taxation and State-Building in Developing Countries: Capacity and Consent, ed. Deborah Brautigam, Odd-Helge Fjeldstad, and Mick Moore, 1–33. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Brewer, John. 1990. The Sinews of Power. Cambridge, MA: Harvard University Press. Google Scholar Google Preview WorldCat COPAC
+Cantoni, Davide, Cathrin Mohr, and Matthias Weigand. 2021. “The Rise of Fiscal Capacity.” Working Paper. Ludwig-MaximiliansUniversität München.
+Cassidy, Traviss. 2019. “The Long-Run E ects of Oil Wealth on Development: Evidence from Petroleum Geology.” Economic Journal 129, no. 623: 2745–78. Google Scholar WorldCat
+Centeno, Miguel Angel. 1997. “Blood and Debt: War and Taxation in Nineteenth-Century Latin America.” American Journal of Sociology 102, no. 6: 1565–605. Google Scholar WorldCat
+Centeno, Miguel Angel. 2002. Blood and Debt: War and the Nation-State in Latin America. Penn State University Press. Google Scholar Google Preview WorldCat COPAC
+Chen, Joy, Eric H. Wang, and Xiaoming Zhang. 2021. “Leviathanʼs O er: State-Building with Elite Compensation in Early Medieval China.” Working Paper. Cheung Kong Graduate School of Business.
+Cox, Gary. 2016. Marketing Sovereign Promises: Monopoly Brokerage and the Growth of the English State. Cambridge University Press.
+p. 228
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Google Scholar Google Preview WorldCat COPAC
+Cox, Gary. 2023. “Historical Political Economy of Legislative Power.” In The Oxford Handbook of Historical Political Economy, ed. Je ery A. Jenkins and Jared Rubin, 329–51. Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Dal Bo, Ernesto, Pablo Hernandez, and Sebastíán Mazzuca. 2022. “The Paradox of Civilization. ́ Pre-Institutional Sources of Security and Prosperity.” American Political Science Review. 116, no. 1: 213–30. Google Scholar WorldCat
+Dell, Melissa, Nathaniel Lane, and Pablo Querubin. 2018. “The Historical State, Local Collective Action, and Economic Development in Vietnam.” Econometrica 86, no. 6: 2083–121. Google Scholar WorldCat
+Dincecco, Mark. 2009. “Fiscal Centralization, Limited Government, and Public Revenues in Europe, 1650–1913.” Journal of Economic History 69, no. 1: 48–103. Google Scholar WorldCat
+Dincecco, Mark. 2011. Political Transformations and Public Finances: Europe, 1650–1913. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Dincecco, Mark, Giovanni Federico, and Andrea Vindigni. 2011. “Warfare, Taxation, and Political Change: Evidence from the Italian Risorgimiento.” Journal of Economic History 71, no. 4: 887–914. Google Scholar WorldCat
+Dincecco, Mark, James Fenske, and Massimiliano Onorato. 2019. “Is Africa Di erent? Historical Conflict and State Development.” Economic History of Developing Regions 34, no. 2: 209–50. Google Scholar WorldCat
+Dincecco, Mark, and Yuhua Wang. 2018a. “Internal Conflict, Elite Action, and State Failure: Evidence from China, 1000–1911.” Working Paper. University of Michigan and Harvard University.
+Dincecco, Mark, and Yuhua Wang. 2018b. “Violent Conflict and Political Development over the Long Run: China versus Europe.” Annual Review of Political Science 21. 341–58 Google Scholar WorldCat
+Dincecco, Mark and Yuhua Wang. 2023. “State Capacity in Historical Political Economy.” In The Oxford Handbook of Historical Political Economy, ed. Je ery A. Jenkins and Jared Rubin, 253–69. Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Dunning, Thad. 2008. Crude Democracy: Natural Resource Wealth and Political Regimes. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Ertman, Thomas. 1997. Birth of the Leviathan: Building States and Regimes in Medieval and Early Modern Europe. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Fearon, James D., and David D. Laitin. 2003. “Ethnicity, Insurgency, and Civil War.” American Political Science Review 97, no. 1: 7590. Google Scholar WorldCat
+Fernandez-Villaverde, Jesús, Mark Koyama, Youhong Lin, and Tuan-Hwee Sng. 2020. “The Fractured-Land Hypothesis.” NBER Working Paper.
+p. 229 Gailmard, Sean. 2021. “Theory, History, and Political Economy.” Journal of Historical Political Economy 1, no. 1: 69–104.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Google Scholar WorldCat
+Garfias, Francisco. 2018. “Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico.” American Political Science Review 112, no. 2: 339–57. Google Scholar WorldCat
+Garfias, Francisco. 2019. “Elite Coalitions, Limited Government, and Fiscal Capacity Development: Evidence from Bourbon Mexico.” Journal of Politics 81, no. 1: 94–111. Google Scholar WorldCat
+Garfias, Francisco, and Emily A. Sellars. 2021. “From Conquest to Centralization: Domestic Conflict and the Transition to Direct Rule.” Journal of Politics 83, no. 3: 992–1009. Google Scholar WorldCat
+Garfias, Francisco, and Emily A. Sellars. 2022a. “Fiscal Legibility and State Development: Theory and Evidence from Colonial Mexico.” Working Paper. University of California, San Diego and Yale University.
+Garfias, Francisco, and Emily A. Sellars. 2022b. “When State Building Backfires: Elite Coordination and Popular Grievance in Rebellion.” American Journal of Political Science 66, no. 4: 977–92. Google Scholar WorldCat
+Gehlbach, Scott. 2008. Representation through Taxation: Revenue, Politics, and Development in Postcommunist States. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Gennaioli, Nicola, and Ilia Rainer. 2007. “The Modern Impact of Pre-Colonial Centralization in Africa.” Journal of Economic Growth 12, no. 3: 185–234. Google Scholar WorldCat
+Gennaioli, Nicola, and Joachim Voth. 2015. “State Capacity and Military Conflict.” Review of Economic Studies 82, no. 4: 1409–48. Google Scholar WorldCat
+Gerring, John, Daniel Ziblatt, Johan Van Gorp, and Julian Arévalo. 2011. “An Institutional Theory of Direct and Indirect Rule.” World Politics 63, no. 3: 377–433. Google Scholar WorldCat
+Goenaga, Agustín, Oriol Sabate, and Jan Teorell. 2018. “The State Does Not Live by Warfare Alone: War and Public Revenue in the Long Nineteenth Century.” STANCE Working Paper.
+Grzymala-Busse, Anna. 2020. “Beyond War and Contracts: The Medieval and Religious Roots of the European State.” Annual Review of Political Science 23: 19–36. Google Scholar WorldCat
+Herbst, Je rey. 2000. States and Power in Africa: Comparative Lessons in Authority and Control. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Hintze, Otto. 1975. Historical Essays. Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Ho man, Philip T. 2012. “Why Was It Europeans Who Conquered the World?” Journal of Economic History 72, no. 3: 601–33. Google Scholar WorldCat
+Ho man, Philip T. 2015. “What Do States Do? Politics and Economic History.” Journal of Economic History 75, no. 2: 303–32. Google Scholar WorldCat
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Ho man, Philip, and Jean-Laurent Rosenthal. 1997. “Divided We Fall: The Political Economy of Warfare and Taxation.” Working Paper. California Institute of Technology.
+Huang, Chin-Hao, and David C. Kang. 2022. “State Formation in Korea and Japan, 400–800 CE: Emulation and Learning, Not Bellicist Competition.” International Organization 76, no. 1: 1–31 Google Scholar WorldCat
+Hui, Victoria. 2015. War and State Formation in Ancient China and Early Modern Europe. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Iyer, Lakshmi. 2010. “Direct versus Indirect Colonial Rule in India: Long-Term Consequences.” Review of Economics and Statistics 92, no. 4: 693–713. Google Scholar WorldCat
+Johnson, Noel D., and Mark Koyama. 2014. “Tax Farming and the Origins of State Capacity in England and France.” Explorations in Economic History 51, no. 1, 1–20. Google Scholar WorldCat
+Johnson, Noel D., and Mark Koyama. 2017. “States and Economic Growth: Capacity and Constraints.” Explorations in Economic History 64: 1–20.
+Google Scholar WorldCat
+Karaman, K. Kivanc, and Şevket Pamuk. 2013. “Di erent Paths to the Modern State in Europe: The Interaction between Warfare, Economic Structure, and Political Regime.” American Political Science Review 107, no. 3: 603–26. Google Scholar WorldCat
+Kiser, Edgar, and Yong Cai. 2003. “War and Bureaucratization in Qin China: Exploring an Anomalous Case.” American Sociological Review 68, no. 4: 511–39. Google Scholar WorldCat
+Ko, Chi Yu, Mark Koyama, and Tuan-Hwee Sng. 2018. “Unified China and Divided Europe.” International Economic Review 59, no. 1: 285–327. Google Scholar WorldCat
+Koyama, Mark, Chiaki Moriguchi, and Tuan-Hwee Sng. 2018. “Geopolitics and Asiaʼs Little Divergence: State-Building in China and Japan a er 1850.” Journal of Economic Behavior & Organization 155: 178–204. Google Scholar WorldCat
+Koyama, Mark. 2023. “Legal Capacity in Historical Political Economy.” In The Oxford Handbook of Historical Political Economy, ed. Je ery A. Jenkins and Jared Rubin, 271–92. Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Kurtz, Marcus. 2013. Latin American State-Building in Comparative Perspective: Social Foundations of Institutional Order. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Lange, Matthew K. 2004. “British Colonial Legacies and Political Development.” World Development 32, no. 6: 905–22. Google Scholar WorldCat
+Lee, Alexander. 2019. “Land, State Capacity, and Colonialism: Evidence from India.” Comparative Political Studies 52, no. 3: 41244. Google Scholar WorldCat
+Levi, Margaret. 1988. Of Rule and Revenue. University of California Press. Google Scholar Google Preview WorldCat COPAC
+p. 230
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Levi, Margaret. 2002. “The State of the Study of the State.” In Political Science: The State of the Discipline, ed. Ira Katznelson and Helen V. Milner, 33–55. W. W. Norton & Company. Google Scholar Google Preview WorldCat COPAC
+Mamdani, Mahmood. 1996. Citizen and Subject: Contemporary Africa and the Legacy of Late Colonialism. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Mares, Isabela, and Didac Queralt. 2015. “The Non-Democratic Origins of Income Taxation.” Comparative Political Studies 48, no. 14: 1974–2009. Google Scholar WorldCat
+Mares, Isabela, and Didac Queralt. 2020. “Fiscal Innovation in Non-Democratic Regimes: Elites and the Adoption of the Prussian Income Tax of the 1890s.” Explorations in Economic History 57, no. 1: 62–76. Google Scholar WorldCat
+Mayshar, Joram, Omer Moav, and Luigi Pascali. 2022. “The Origin of the State: Land Productivity or Appropriability?” Journal of Political Economy 130, no. 4: 1091–144. Google Scholar WorldCat
+Mayshar, Joram, Omer Moav, and Zvika Neeman. 2017. “Geography, Transparency, and Institutions.” American Political Science Review 111, no. 3: 622–36. Google Scholar WorldCat
+Mazzuca, Sebastian. 2021. Latecomer State Formation: Political Geography and Capacity Failure in Latin America. New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Michalopoulos, Stelios, and Elias Papaioannou. 2013. “Pre-colonial Ethnic Institutions and Contemporary African Development.” Econometrica 81, no. 1: 113–52. Google Scholar WorldCat
+Migdal, Joel. 1988. Strong Societies and Weak States: State-Society Relations and State Capabilities in the Third World. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Moore, Barrington. 1966. Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World. Boston: Beacon. Google Scholar Google Preview WorldCat COPAC
+Moriguchi, Chiaki, and Tuan-Hwee Sng. 2023. “The Size of Polities in Historical Political Economy.” In Oxford Handbook of Historical Political Economy, ed. Je ery Jenkins and Jared Rubin, 237–51. Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+North, Douglass, and Barry R. Weingast. 1989. “Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England.” Journal of Economic History 49, no. 4: 803–32. Google Scholar WorldCat
+North, Douglass, John Joseph Wallis, and Barry R. Weingast. 2009. Violence and Social Orders. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Olson, Mancur. 1993. “Dictatorship, Democracy, and Development.” American Political Science Review 87, no. 3: 567–76. Google Scholar WorldCat
+Osafo-Kwaako, Philip, and James Robinson. 2013. “Political Centralization in Pre-Colonial Africa.” Journal of Comparative
+p. 231
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Economics 41, no. 1: 534–64. Google Scholar WorldCat
+Paik, Christopher, and Jessica Vechbanyongratana. 2019. “Path to Centralization and Development: Evidence from Siam.” World Politics 71, no. 2: 289–331. Google Scholar WorldCat
+Pierskalla, Jan, Alexander De Juan, and Max Montgomery. 2017. “The Territorial Expansion of the Colonial State: Evidence from German East Africa 1890–1909.” British Journal Political Science 49, no. 2: 711–37. Google Scholar WorldCat
+Queralt, Didac. 2019. “War, International Finance, and Fiscal Capacity in the Long Run.” International Organization 73, no. 4: 713–53. Google Scholar WorldCat
+Queralt, Didac. 2022. Pawned States: State-Building in the Era of International Finance. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Sánchez-Talanquer, Mariano. 2020. “One-Eyed State: The Politics of Legibility and Property Taxation.” Latin American Politics and Society 63, no. 3: 65–93. Google Scholar WorldCat
+Saylor, Ryan. 2014. State-Building in Boom Times: Commodities and Coalitions in Latin America and Africa. Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Scheve, Kenneth, and David Stasavage. 2010. “Democracy, War, and Wealth: Lessons from Two Centuries of Inheritance Taxation.” American Political Science Review 106, no. 1: 81–102. Google Scholar WorldCat
+Schumpeter, Joseph. 1954. “The Crisis of the Tax State.” International Economics Papers, no. 4: 5–38. Google Scholar WorldCat
+Scott, James C. 1998. Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed. New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Scott, James C. 2009. The Art of Not Being Governed. New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Scott, James C. 2017. Against the Grain: a Deep History of the Earliest States. New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Skocpol, Theda. 1979. States and Social Revolutions: A Comparative Analysis of France, Russia and China. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Slantchev, Branislav L., and Tory A. Kravitz. 2019. “No Taxation without Administration: Wealth Assessment in the Formation of the Fiscal State.” Working Paper, 1–70. University of California, San Diego.
+Slater, Dan. 2010. Ordering Power: Contentious Politics and Authoritarian Leviathans in Southeast Asia. New York: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Soifer, Hillel. 2015. State-Building in Latin America. Cambridge University Press.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Google Scholar Google Preview WorldCat COPAC
+Spruyt, Hendrik. 1996. The Sovereign State and Its Competitors. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Spruyt, Hendrik. 2002. “The Origins, Development, and Possible Decline of the Modern State.” Annual Review of Political Science 5, no. 1: 127–49. Google Scholar WorldCat
+Stasavage, David. 2003. Public Debt and the Birth of the Democratic State: France and Great Britain 1688–1789. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Stasavage, David. 2007. “Partisan Politics and Public Debt: The Importance of the ʻWhig Supremacyʼ for Britainʼs Financial Revolution.” European Journal of Economic History 11, no. 1: 123–53. Google Scholar WorldCat
+Stasavage, David. 2011. States of Credit: Size, Power, and the Development of European Polities. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Stasavage, David. 2020. The Decline and Rise of Democracy: A Global History from Antiquity to Today. Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Suryanarayan, Pavithra. 2021. “Status Politics Hollows Out the State: Evidence from Colonial India.” Working Paper. London School of Economics and Political Science.
+Suryanarayan, Pavithra, and Steven White. 2021. “Slavery, Reconstruction, and Bureaucratic Capacity in the American South.” American Political Science Review 115, no. 2: 568–84. Google Scholar WorldCat
+Tilly, Charles. 1975. “Reflections on the History of European State-Making.” In The Formation of National States in Western Europe, ed. Charles Tilly, 3–83. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Tilly, Charles. 1978. From Mobilization to Revolution. Addison-Wesley. Google Scholar Google Preview WorldCat COPAC
+Tilly, Charles. 1990. Coercion, Capital, and European States, A.D. 990–1990. Cambridge, MA: Blackwell. Google Scholar Google Preview WorldCat COPAC
+Vogler, Jan. 2023. “Bureaucracies in Historical Political Economy.” In The Oxford Handbook of Historical Political Economy, ed. Je ery A. Jenkins and Jared Rubin, 373–99. Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Wang, Yuhua. 2022. “Blood Is Thicker Than Water: Elite Kinship Networks and State Building in Imperial China.” American Political Science Review 1–15. Google Scholar WorldCat
+Weber, Max. 1999. Gesammelte politische Schri en von Max Weber. Potsdamer Internet-Ausgabe. Google Scholar Google Preview WorldCat COPAC
+Wolf, Eric. 1969. Peasant Wars of the Twentieth Century. New York: Harper and Row. Google Scholar Google Preview WorldCat COPAC
+p. 232
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Appendix State-Building in Historical Political Economy
+A.1 Analysis of Ruler Model
+A.2 Analysis of Elite Model
+We solve for the ruler’s optimal level of taxation as a function of the parameters of the model. Using the
+distribution of S, his maximization problem is:
+(A1)
+mTax( f(T +ρ)−(σ−δ)
+2δ )α − cT
+subject to 0 ≤ T ≤ ω. The rst order conditions are given by:
+(A2)
+f ′(T +ρ)α
+2δ = c
+Note that is positive and decreasing in T by the concavity assumption. When this expression
+holds, optimal tax revenue is increasing in the rents from o ce ( ) and decreasing in non-tax revenue ( ),
+in the uncertainty about the threat ( ), and in the cost of taxation ( ).
+f′(T + ρ)
+aρ
+δc
+We additionally consider potential corner solutions. If , the ruler’s optimal choice will be to
+collect no taxes. This is more likely to hold when the expected threat ( ) is very low, non-tax revenue ( ) is
+very high, the technology is very ine cient (i.e., is very small), the cost of taxation ( ) is very
+high, and the bene ts of maintaining power ( ) are very small. Because taxation is costly, the ruler will also
+never tax beyond what is necessary to ensure state survival (i.e., ). At the opposite
+extreme, there are no bene ts to taxation when state failure is inevitable (if ).
+f ′(ρ) < 2δc
+α
+σρ
+f(⋅)
+p. 233 f′(T ) c
+a
+f(T + ρ) = σ + δ
+f(ω + ρ) < σ − δ
+If , the ruler will extract all wealth. This is more likely when societal wealth ( ) and non-tax
+revenue ( ) are small, when the bene ts of maintaining power ( ) are very high, and when the technologies
+of defense ( ) and taxation ( ) are highly e cient.
+f ′(ω + ρ) > 2δc
+αω ρa
+f(⋅) c
+To summarize, the game timing and payo s are:
+1. The authority chooses tax revenue (T) to extract from the elite.
+2. Elite chooses whether to side with the government (e = 1) or to defect (e = 0).
+3. A stochastic shock drawn by Nature (S) determines the extent of the threat and the survival of the
+government.
+• State survives: The authority receives If elites back the authority, they receive
+. If they defect, they receive
+• State collapses: The authority receives . If elites back the authority, they receive . If
+they defect, they receive
+uA = α.
+uE = ω − T + λ − μ uE = ω − T + λ − π
+uA = 0 uE = −μ
+uE = 0
+We solve for the subgame-perfect Nash equilibrium (SPNE) of this game by backwards induction, beginning
+with the elite’s choice to back the government or defect after observing the tax level. Elites back the
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+A.3 Analysis of Commoners Model
+government if the expected bene t of doing so exceeds the expected cost, or if:
+(A3)
+( f(T )−(σ−δ)
+2δ )(ω − T + λ) − μ ≥ ( f(T )−ζ−(σ−δ)
+2δ ) (ω − T + λ − π)
+or if . Elites are more likely to back the government when their
+utility under state survival (wealth and bene t ) and the cost of punishment ( ) are higher and when the
+cost of compliance ( ) and expected level of external threat ( ) are lower. If , elites are more
+likely to back the government as elite power ( ) increases. Otherwise, an increase in will encourage
+defection (see the chapter for a discussion).
+ζT − πf(T ) ≤ ζ(ω + λ) + π(δ − σ − ζ) − 2δμ
+ωλ π
+μ σ ω−T +λ>π
+ζζ
+We are interested in how an increase in taxation in uences the willingness of elites to back the government.
+For some parameter values, elites’ best response does not depend on the level of taxation. We concentrate
+on cases where the elite backs the government under some tax levels but not others. Taking the derivative of
+expression A3 with respect to , we see that whether compliance is increasing or decreasing in T depends
+on the sign of the expression .
+p. 234 T
+ζ − πf ′(T )
+We turn to the rulers’ problem. Let represent the maximum feasible (i.e., between 0 and ω) level of
+taxation under which the elite would back the government. When the elite’s best response does not depend
+on the tax level or when , the ruler sets to maximize the probability of remaining in power,
+with or without elite support. When < ω, the authority’s optimal choice is to either maximize extraction
+subject to retaining elite support ( ) to maximize extraction in general . The authority chooses
+the lower tax level when:
+Tˆ
+Tˆ = ω T = ω
+Tˆ
+T = Tˆ T = ω
+T * = Tˆ < ω
+(A4)
+ζ > f(ω) − f(Tˆ)
+See Figure 11.1 and the chapter discussion.
+The timing of the game is:
+1. The authority chooses amount of tax revenue to extract from the elite’s wealth ( ).
+2. A stochastic shock drawn by Nature reveals the local conditions for the commoners ( ) and
+commoners decide to rebel (c = 1) or not (c = 0)
+3. If commoners rebel, the elites choose whether to restore order (e = 1) or to defect (e = 0). They
+otherwise take no action.
+4. A stochastic shock drawn by Nature (S) determines the magnitude of the threat to the state; it survives
+if S ≥ S and falls otherwise.
+Tω
+η
+Payo s are given by:
+• Central authorities: They receive if the state survives, if it collapses.
+• Elites: If commoners do not rebel, they receive if the state survives and if it
+uA = α uA = 0
+uE = ω − T + λ uE = 0
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025
+
+
+Notes
+falls. If the elite represses rebellion, they receive if the state survives and
+if it falls. If elites defect when facing rebellion, they receive if the state survives
+and if it falls.
+• Commoners: They receive if they do not rebel, if they rebel and the elite does not
+repress, and if they rebel and the elite represses.
+uE = ω − T + λ − μ uE = −μ
+uE = ω − T + λ − π
+uE = 0
+uC = η uC = β
+uC = β − ψ
+We solve for the SPNE by backwards induction, beginning with the elite’s decision to repress if rebellion
+occurs. Note that if elites are faced with this choice, their problem is identical to the one in the previous
+model (see equation A3). We focus our discussion on situations where the elite backs the authority under
+some but not all levels of taxation (i.e., when < ω, where is the maximum taxation that the elite is
+willing to accept without defecting, as above).
+Tˆ Tˆ
+Turning to the commoners stage, note that commoners face no relevant uncertainty because opportunity
+cost ( ) and taxation (T, which determines elite compliance) have been set at the time of their action and
+because their payo s do not depend on state survival. By the assumption that , commoners
+will only rebel when two conditions are met: local conditions are su ciently poor ( ) and elites who
+face rebellion defect ( ).
+η
+η+v<β−ψ
+p. 235 η < β
+T > Tˆ
+The ruler’s problem is analogous to the above: he decides whether to set T = (to count on elite backing) or
+(to maximize the state’s ability to withstand elite defection). Using the distribution of local
+conditions ( ) and the assumption that , the probability of commoner rebellion if T > is
+. Using this expression and rearranging, the authority sets the lower tax level when:
+Tˆ
+T =ω
+η η − v < β < η + v Tˆ
+β−η+ν
+2ν Tˆ
+(A5)
+ζ( β−η+ν
+2ν ) > f(ω) − f(Tˆ)
+As commoners become more likely to rebel (as increases or declines) or as uncontrolled rebellion
+becomes more dangerous (as rises), authorities face more pressure to appease domestic elites with lower
+taxation to maintain control.
+βη
+ζ
+p. 236
+* We are grateful to Alex Debs, Je ery A. Jenkins, Didac Queralt, Jared Rubin, Jan Vogler, Austin Wright, and seminar participants at Yale for their comments and suggestions.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/394003975 by London School of Economics user on 07 February 2025

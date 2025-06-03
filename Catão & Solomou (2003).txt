@@ -1,0 +1,622 @@
+WP/03/41
+IMF Working Paper
+Exchange Rates in the Periphery and
+International Adjustment Under the Gold
+Standard
+Luis Catiio and Solomos Solomou
+INTERNATIONAL MONETARY FUND
+
+
+© 2003 International Monetary Fund WP/03/41
+IMF Working Paper
+Research Department
+Exchange Rates in the Periphery and International Adjustment Under The Gold Standard
+Prepared by Luis Catao and Solomos Solomou1
+Authorized for distribution by Tamim Bayoumi
+February 2003
+Abstract
+The views expressed in this Working Paper are those of the aUlhor(s) and do not necessarily represent those of the IMF or IMF policy. Working Papers describe research in progress by the author(s) and are published to elicit comments and to further debate.
+The role of exchange rate flexibility in the periphery of the gold standard has been grossly overlooked, This paper builds a new dataset on trade-weighed exchange rates for the period 1870-1913 and finds that large currency movements in periphery countries operating inconvertible paper-money and silver-standard regimes induced major fluctuations in effective exchange rates worldwide. We relate the phenomenon to the international trade structure at the time and show that such currency fluctuations had powerful effects on trade flows. We conclude that nominal exchange rate flexibility in the periphery was an important ingredient of international payments adjustment under the gold standard.
+JEL Classification Numbers: F31, F33, NIO
+Keywords: Gold standard, silver standard, exchange rates, international trade
+Authors' E-Mail Addresses: Lcatao@irnf,org; ss19@econ,carn,ac,uk
+1 We thank Tam Bayoumi, Michael Bordo, and Ken Rogoff for comments on an earlier draft and Emily Conover and Laura Leon for assistance with the preparation of this paper. We would also like to thank many colleagues for help with country-specific data, including Katherine Barbieri, Greg Clark, Leandro Prados, Giovanni Federico, Peter Gatrell, Paul Gregory, Stephen Haber, Mark Harrison, Pedro Lains, Juliette Levy, Peter Lindert, Aida Masacchio, Chris Meissner, Boris Mironov, Gabriel Palma, Gerardo della Paolera, Cristiano Ristuccia, Agustin Llona Rodriguez, Giuseppe Tattara, Alan Taylor, Tom Tomlinson, Gianni Toniolo, and Gert Wagner. Solomou gratefully acknowledges the support of the U,K, ESRC scheme on Understanding the Evolving Macroeconomy and the Leverhulme Trust Travel Fellowship scheme. The usual caveats apply.
+
+
+-2
+Contents Page
+I. Introduction..... ..... ....... .............................. ..... ....................... ................................ ....... 3
+II. Nominal Effective Exchange Rates.................................................................................. 6
+III. Real Effective Exchange Rates ........................................................................................ 9
+IV. Trade Effects ................................................................................................................. 12
+V. Conclusions.................................................................................................................. 17
+Appendices
+I. The Methodology of Constructing Effective Exchange Rate Indices ........................ 21 II. Data Sources............................................................................................................ 28
+Tables
+1. The Gold Standard Core: Trade Structure ................................................................. 5 2. Dynamic Estimates of the Effects of Exchange Rate on Trade ................................. 16 3. All Countries' Dynamic Panel Estimates of the Effects of Exchange Rate on Trade ............................................................................................................... 18
+Figures
+1. Nominal Effective Exchange Rates in the Periphery ................................................ 7 2. Nominal Effective Exchange Rates in the Core.......................................................... 8 3. Real Effective Exchange Rates in the Periphery....................................................... 10 4. Real Effective Exchange Rates in the Core .............................................................. 11 5. Trade Balances and the REER .............................................................................. 13
+References .......................................... ..... ....................... ........ ..... ........ ............... ....... .... .. 33
+
+
+-3
+I. INTRODUCTION
+Fuelled by the debate on reforming the "international financial architecture," recent years have witnessed renewed interest in the working of the international monetary system during the classic gold standard, roughly defined as the period from the late 1870s to the onset of the First World War. Interest in the period stems not only from its similarities with the post-I 970 world in terms of tighter international linkages in goods and asset markets, but also from a key dissimilarity-the existence of a de facto fixed exchange rate regime among the core members of the international monetary system at the time (Britain, France, Germany, and the United States), which lasted for over a third of a century and was only interrupted by war related dislocations.
+The literature has highlighted five factors that help explain such long-lasting stability. One was the limited resort to sterilization policies in the pre-1914 era, which allowed the freer working ofthe specie-flow mechanism of balance of payments adjustment" A second factor was the degree of credibility underpinning central bank interventions. Since adherence to gold was widely perceived as a "good housekeeping seal of approval" which facilitated access to capital markets, the system provided a clear incentive for the pursuit of time-consistent policies that helped back the exchange rate peg (Bordo and Rockoff, 1996). With other policy goals being secondary to this task, and with the public being given assurance that any departure from convertibility would only be contemplated in rare emergencies (such as wars) and that the old parity would be restored soon after, the prevailing policy regime exerted a stabilizing influence on asset markets which, in turn, facilitated the task of monetary management (Eichengreen, 1992). Third, strong complementarities between productive structures in the "core" and "periphery" economies also appeared to have been key (Lewis, 1978; Rostow, 1980). Since the periphery specialized in the production of primary commodities, the demand for which was highly sensitive to world income growth and mostly financed by capital imports from the core, income growth in the core had a powerful impact on the periphery; this, in turn, boosted the periphery's demand for industrial exports from core countries, thus mitigating current account imbalances. Fourth, there is evidence that nominal inertia at the time was lower than in the inter war and post war eras, entailing steeper aggregate supply curves and faster macroeconomic adjustment to shocks (Bayoumi and Eichengreen, 1996). Fifth, with labor being freer to move internationally during the period, supply could respond more promptly to international wage
+2 A detailed discussion of the specie-flow adjustment mechanism can be found in the various contributions to the volumes edited by Bordo and Schwartz (1984) and Eichengreen (1985). Eichengreen (1985) notes, in particular, that even though the frequency of sterilization operations may not have been lower before 1914 than during the inter-war years (as suggested by Bloomfield, 1959), their scope was more limited, since before 1914 central banks placed lower weight on internal stabilization goals relative to their statutory obligation of maintaining currency convertibility into gold at the predetermined exchange rate. Indeed, Sawyers (1976) argues that it would be misleading to characterize the Bank ofEngland's behavior during the period as consciously acting as a central bank in the twentieth century sense ofthe word.
+
+
+-4
+differentials, leading to a well-known pattern of transatlantic migration flows which helped stabilize labor markets over the economic cycle (Thomas, 1973; Hatton and Williamson, 1994).
+This paper provides new evidence on a distinct adjustment mechanism !bat has been largely neglected in the gold standard literature-namely, fluctuations in real effective exchange rates (REERs) arising from nominal exchange rate changes in the periphery. As discussed below, this mechanism was operative because, even though core countries had their currencies pegged to gold, much of the periphery operated alternative exchange rate regimes during the late nineteenth century. This includes countries operating a silver-currency standard (as silver prices fluctuated widely relative to those of gold from mid-1870s) as well as those under inconvertible paper money, which could not maintain a pre-specified gold parity. This was the case of the Austrian-Hungarian empire, Greece, Italy, Portugal, Russia, and Spain in Europe, and of several South American economies including Argentina, Brazil, Chile, and Colombia. Silver-standard regimes prevailed in most of Asia (e.g. China, India, Japan, Malaysia, and Thailand) and also in Mexico and Peru.
+Because many of these economies were relatively large and traded extensively from the second half of the nineteenth century onward, their weight in world trade flows was far from negligible. As shown in the top panel of Table 1, transactions with the periphery amounted to about two thirds of the European core total merchandise trade and to more than 40 percent of US foreign trade. Prior to the 1900s, about half of this was conducted with countries under silver or inconvertible paper money standards. And since external trade accounted for a reasonably high share of the core's GDP (see bottom panel of Table 1),3 large exchange rate fluctuations in the periphery must have had an important bearing on international relative prices, given that nominal rigidities were sufficiently important (Lewis, 1978). If so, such real exchange rate movements must also have had a significant bearing on exports, capital flows, and output, with implications for the way the international monetary system adjusted to shocks.
+To evaluate this hypothesis, this paper does three things. First, it constructs multilateral or "effective" exchange rate indices for a reasonably representative group of periphery economies operating inconvertible paper money or silver-based regimes. Focusing on effective exchange rate indices, rather than on bilateral rates as is done in much of the scholarly literature on purchasing power parity (PPP) (Edison and Klovland, 1987; Diebold et aI., 1991; Grilli and Kaminsky, 1991; Rogoff, 1996, Taylor 2002) is clearly more relevant for the purpose of modeling macroeconomic adjustment and, as shown below, can yield a very different picture from that of bilateral rates in a world of substantial cross-currency movements. Second, we use the data to document relative price fluctuations in ilie various countries and identify similar comovements. The third contribution of this paper is to assess the effects on trade flows using panel data regressions. Given the considerable heterogeneity of policy regimes and
+3 Although the United States was clearly much less open to trade than its European counterparts its sheer continental size meant that the US was a main trading partner to much ofthe periphery.
+
+
+-5
+Table I. The Gold Standard Core: Trade Structure
+a. Trade with Other Core Countries
+1875 1885 1895 1905
+United Kingdom 33.3 34.0 34.9 30.7
+France 40.1 35.8 38.3 39.0
+Germany n.a. 35.1 33.3 30.8
+United States 59.3 57.9 53.6 44.6
+b. Trade with Nongold Periphery
+1875 1885 1895 1905
+United Kingdom 65.4 37.5 35.1 17.5
+France 50.1 44.2 41.1 28.9
+Germany n.a. 47.8 42.0 18.0
+United States 34.7 26.9 29.5 24.3
+c. Trade as a Share of GDP
+1875 1885 1895 1905
+United Kingdom 47.7 49.4 47.6 49.0
+France 28.6 30.9 27.6 28.9
+Germany n.a. 32.8 31.8 35.8
+United States 13.2 13.8 12.7 11.9
+Sources: See Appendix ll.
+economic structure among the countries studied, trade effects are modeled using dynamic panel data techniques that not only allow for some heterogeneity in the way trade responds to exchange rate and income shocks across countries but also enable us to measure the speed and the long-term nature ofthis response.
+The main findings are as follows. First, countries under inconvertible paper-currency and silver regimes experienced major swings in their nominal effective exchange rates. Real exchange rate adjustment following those nominal changes was dramatic and of a long-swing nature, entailing large and often protracted deviations from PPP. Second, such swings in peripheral exchange rates were, grosso modo, inversely correlated with effective exchange rate changes in the core. This suggests that nominal exchange rate adjustments in the periphery displayed some common pattern and had a significant bearing on relative price movements worldwide. Finally, we find evidence of a significant and relatively rapid response oftrade
+
+
+- 6
+balances to exchange rate fluctuations in all countries studied, suggesting that exchange rate changes were an effective mechanism of international payments adjustment.
+The remainder ofthe paper is structured as follows. Section II describes the data on nominal effective exchange rates for both our sample of periphery countries and the four core gold standard countries (France, Germany, the United Kingdom, and the United States). Section III does the same for the real exchange rate. Section IV estimates the effects of exchange rate fluctuations on trade balances. Section V concludes. Details of the data construction and sources are provided in the Appendices.
+IL NOMINAL EFFECTIVE EXCHANGE RATES
+Multilateral nominal effective exchange rates have been calculated using trade weights. Whilst it is recognized that other weighting systems, such as output weights, also provide useful information (Edwards, 1989; Lipschitz and McDonald, 1991), a dearth of output data for most periphery countries during this period implies that trade weights are likely to be more reliable. In each case exchange rates are expressed as the foreign price of domestic currency with 1913= I00; thus, a rise in the index describes an appreciation. In the Appendix to this paper we outline in detail the methods and sources used to construct effective exchange rates for each country.
+Our selection of periphery economies is largely a function of data availability. Since many periphery countries during the period lack a reliable national price index preventing the calculation of a real exchange rate index, our sample is limited to those countries for which such an index exists. The selection of countries can be divided into three sub-groups. First, we cover countries operating inconvertible paper currencies for most of the period, although some of these joined the "gold club" at some point in the late nineteenth or early twentieth century. This group includes Argentina and Brazil (Argentina joined the gold standard in 1899 and Brazil in 1906) and Chile (see Appendix I). A second grouping consists of countries that started off on gold or bimetallic standards but operated paper currencies for much of the period (portugal, Italy and Spain), as welI as one country (Russia) that started off on paper and later moved to gold (1897). Third, we have countries operating a silver currency standard through the late 1890s or early 1900s. This includes India (see Appendix I), Japan (which joined in 1897), and Mexico (which joined in 1905). Together these 10 countries accounted for half to two thirds of the core's trade with non-gold periphery.
+Figure 1 plots the nominal effective exchange rate (NEER) indices. Grouping countries by the type of exchange rate regime and region, a striking feature of the data is the large amplitude ofNEER variations. Amongst Latin American paper currency economies and the silver standard bloc, NEER variations often reached 50 percent of the respective mean. For the Southern European paper currencies NEER variations were less dramatic but nevertheless large (lying within a 20 percent band about the mean) whereas Russia experienced a 35 percent depreciation between 1875 and 1878 after which NEER variations were of a similar magnitude as the other European countries. In the case of Latin American paper currencies and silver standard countries, much of the observed NEER variations reflect secular depreciating trends in
+
+
+-7
+Figure 1. Nominal Effective Exchange Rates in the Periphery (19\3=100)
+Latin American Paper-ClUTency Regimes
+500
+4'0 400 350 300 2'0 200 150 100
+'0
+o
+--'
+------_.---_/
+1870 1873 1876 1879 1882 1885 1888 1891 1894 1897 1900 1903 1906 1909 1912
+European Paper-Currency Regimes
+140 .. ~ .. ,
+120 -..
+100 -.. 
+80
+,
+, " 11.- --;;;-. . . ., ., ..: ..... :.....~
+... .;.,-, ,--.-·" ... ",~e g~
+60
+40
+20
+o
+Silver-Standard Regimes
+2'0 ,-------------------------------------------------------,
+200
+150
+100
+'0
+1870 1873 1876 1879 1882 1885 1888 1891 1894 1897 1900 1903 1906 1909 1912
+.. Argentina
+---Brazil
+Chile
+Portugal
+--_••_.' Spain
+- ""y
+- ••••. Russia
+Mexico
+---J,,,..
+II! India
+
+
+-8
+these currencies vis-a-vis gold, although shorter-term fluctuations about trend were also sizeable.
+A key question from a systemic perspective is the extent to which NEER movements in the periphery affected the core countries. If the latter traded exclusively amongst themselves and with economies that also pegged their exchange rate to gold, the core NEER would be flat. However, this was not the case. Figure 2 shows that the NEERs of the core economies displayed non-negligible long-term variations. Britain, for instance, saw an appreciation of20 percent over the period 1870-95, followed by depreciation thereafter. Germany's nominal effective exchange rate saw a trended appreciation of8percent per cent over the period 1870--94, again followed by some depreciation. France joined the gold standard in 1878 (having suspended the bimetallic standard during 1870--78) and during 1878-94 the nominal effective exchange rate saw a trended appreciation amounting to some 9 per cent. The period from the end of the nineteenth century was one of depreciation, but mainly manifested as a step adjustment early on in the period and stability thereafter. The US, in tum, saw its NEER appreciating by 17percent over the period 1870--98-with most the appreciation taking place in the 1890s-then followed by mild trended depreciation in the early twentieth century. In short, it was not until the early twentieth century, when the vast majority of peripheral countries joined the "gold club" that the core's NEER stabilized and behaved as a worldwide system of fixed exchange rates. Until then, nominal effective exchange rates-even among the core countries-displayed "long-swing" trend variations that were clearly outside the range warranted by the gold points.
+Figure 2. Nominal ElTedive Exchange Rates In the Core (1913=100)
+n0r---------------------------~
+. ..
+t ,....~"\...:..:: \.
+, . ,,'.
+... . ...,"
+"
+. . ' , ..
+10' -.
+100
+95
+85
+18101872 1874 1876 1878 1880 18112 1884 1886 1888 1890 1892 18941896 1898 1900 1902 1904 1906 1908 1910 1912
+- - United Kirlgdom ..•... United States ... ... France -Gennany
+
+
+- 9
+III. REAL EFFECTIVE EXCHANGE RATES
+Multilateral real effective exchange rates (REERs) have been calculated using the same trade weights (see Appendix). In a world where prices are not petfectly flexible or arbitrage in goods markets is impetfect, one would expect nominal exchange rate movements to induce shifts in relative prices-both across national borders and between tradable/non-tradable goods within countries. Figure 3 shows that such relative price changes were substantial and relatively persistent, typically displaying 10-to 18-year long swings.
+Of the three silver standard countries Mexico and Japan follow similar movements in real exchange rates, with a real appreciation during 1886--90, a sharp real depreciation in the 1890s and a period oftrended appreciation in the early twentieth century. It is not surprising, therefore, that standard co-integration tests suggest that Japan's and Mexico's REERs shared a common trend during the period 1886--1913, thoup the statistical power of these tests is admittedly low for such a relatively small sample.
+Regarding paper currency regimes, there is clearly great diversity in the data. This is particularly true between the two largest South American economies-Argentina and Brazilwhere the respective REERs trended in opposite directions at times, such as in the early 1880s and the late 1890s. Some diversity within regional groups can also be observed for Europe, with Italy's REER displaying trended appreciation between 1872 and 1889, whereas Spain's REERs trended down through 1874-86, and Portugal's trended down and then up until 1890. Only from 1890 on did long-term fluctuations in those three countries become roughly synchronized.
+That REER fluctuations displayed some degree of non-synchronicity within these regional groups before 1890 is hardly surprising. For one thing, some of these countries had non-negligible trade links with each other already at the time (such as Argentina and Brazil), implying that a real exchange rate depreciation in one of them would translate into appreciation pressures on the other, thus partly offsetting the effect of co-movements relative to third countries in the aggregate index. Second, several of these countries embarked on heterodox monetary experiments during the period, while others faced wars and/or political disruptions with far-reaching fiscal implications-developments that no doubt imparted nation-specific effects on the respective exchange rates (see, e.g., della Paolera and Taylor, 2001, Acena and Reis, 2000, Trinner, 2001 for some relevant case studies). Third, it was not until into the 1880s that world trade and international capital market integration rose to a level capable of exerting a disciplinary effect on country-specific policies; until then, considerable divergence of exchange rate behavior across countries is what one would expect.
+4 Results of these tests are available from the authors upon request.
+
+
+- 10
+Figure 3. Real Effective Excbange Rates in the Periphery (I9I3~IOO)
+Latin American Paper-Currency Regimes
+140 r----------------------------------------------------
+130 120 110 100
+90
+"
+70 60
+.. "
+;
+50
+40~~~~~~~~~~~~~~~~~~~~~~~~~
+1870 1873 1876 1879 1882 1885 1888 1891 1894 1897 1900 1903 1906 1909 1912
+European Paper·Currency Regimes
+70
+60
+'0
+40 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1870 1873 1876 1879 1882 1885 1888 1891 1894 1897 1900 1903 1906 1909 1912
+Silver-Standard Regimes
+120
+110
+100
+90
+"
+~
+70 ~ ..
+60 
+50
+40
+1879 1881 1883 1885 1887 1889 1891 1893 1895 1897 1899 1901 1903 1905 1907 1909 1911 1913
+III Argentina ----Brazil -Chile
+-Portugal ---Spain .. Italy ------Russia
+-Mexico ---Japan
+- India
+
+
+- 11 
+In our view, the especially interesting phenomenon underlying the data is, instead, the growing synchronicity in the long-term REER movements from the late I880s. Periphery countries as diverse as Brazil, Chile, Italy, Portugal, Spain (among the paper currencies), Japan and Mexico (among silver standard regimes) displayed roughly similar swings in their REERs-having all experienced an appreciation in the late 1880s, followed by a marked depreciation in the early to mid-1890s, then by a similar pronounced appreciation through the eve of World War I. The only partial exceptions to this pattern are Argentina in the 1880s (Argentina's REER started depreciating from 1884) and India through the early 1890s. Even then both countries saw their REERs undergoing marked appreciations in the 1900s.
+A corollary of this growing commonality ofREER trends across much of the periphery is their inverse relation to REER trends in the core. As shown in Figure 4, while much of the periphery experienced a real depreciation in the early to mid-1890s, Britain's REER appreciated by 14 percent between 1889 and 1895.
+Figure 4. Real Effective Exchange Rates in the Core (1913=100)
+150,.------------------------------------------________- ,
+140
+130
+'O~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+]8701872 1874 18161878 1880 1882 18841886 188~ 1890 1892 1894 1896 1898 1900 19021904 1906 1908 1910 1912
+---United Kingdom .••••• Unit&!. States .. .. France -Gerrna
+Conversely, the period from the late 1890s was one of trended depreciation, which amounted to 21 percent overthe period through 1913. Similar trends were observed for both France and Germany, albeit ofa much smaller magnitude (France's REER appreciated by 6 percent between 1889 and 1897, from which point it depreciated by 7 percent through 1913; Germany's REER also appreciated by 6 percent between 1890 and 1899 and depreciated by another 6 percent through 1913). U.S. trends differ markedly from the European core, likely
+
+
+- 12
+reflecting both a distinct foreign trade structure (including less reliance on primary commodity imports from the periphery) and lower trade openness overall (see Table 1). Specifically, the trend of the 1870s is dominated by the rapid U.S. deflation following the high Civil War inflation. During the period 1879-1893 the trend is of mild real depreciation (somewhat puzzling given the US's faster productivity growth), which accelerates in the 1890s. Also in contrast with the other economies, the US REER remains essentially flat through 1900-1913.
+IV. TRADE EFFECTS
+The question as to whether exchange rate fluctuations in the periphery provided an important mechanism of international payments adjustment hinges on the presence of real exchange rate effects on trade and capital flows. In this paper we focus on trade effects. Because, as seen above, real exchange rate adjustments displayed considerable persistence and typically took the form of long swings or long-term trend variations, any econometric analysis of the effects of exchange rate movements on trade flows during the period should take into account the relationship(s) between the levels of the variables involved, as first differencing washes away much of the low frequency information contained in the data. This is a critical point because cross-country econometric analyses using standard panel data techniques usually work with (the log of) first differences in an effort to ensure stationarity of the regression residuals, as required by classical statistical inference. Yet, as can be seen from Figure 5, the export to import ratio does display lengthy adjustments following exchange rate changes and it seems essential that these are explained using an appropriate econometric methodology. 5
+Recent developments in dynamic panel data estimation enable us to do that. Pesaran and Smith (1995) and Pesaran, Shin, and Smith (1999) have shown that two methods can yield consistent estimates ofthe relevant parameters in a heterogeneous country panel, relating both current and lagged levels of the relevant variables. One is the so-called mean group (MG) estimator. It consists of estimating separate auto-regressive distributed lag models (ARDL) for each country, where dependent and independent variables enter the right-hand side with lags of order p and q, respectively:
+pq
+TB,., = f.l, + L A,.jTB..,_j +L 1(, X..,_l + 6,., (I)
+j==i 1==0
+5 A main advantage of defining the trade balance as the ratio rather than the difference between exports and imports is to circumvent the unit of measurement problem. This is particularly useful given the lack of a nominal GDP series for several countries in the sample covering the entire period, which prevents us from scaling the trade gap by GDP and using the standard definition (X-M)/GDP.
+
+
+- 13 
+Figure 5. Trade Balances and the REER
+-TB
+250 r-~~~~~--------------------,
+230 Argentina
+210 190 170 150 130 110 ., ...
+18801883188618891892 1895189819011904190719101913
+250 r-~~~------------------------,
+230 Brazil
+210 190 170 150 130 110 90 70
+50 Lu~~u.~~~~~u.~~~~~~
+1870 1874 1878 1882 1886 1890 1894 1898 1902 1906 1910
+130 r-~~~------------------------
+120 110
+100 90 80 70 60 50
+..
+\0 . . .
+.. , '.
+40 Lu~~~u.~~~~u.u.~~~~~
+1870 1874 1878 1882 1886 1890 1894 1898 1902 1906 1910
+120 r-;-;==------------------------,
+110 100 90 80 70 60 50 40
+30
+20 ~~~~~~~~~~~~~~~~
+1880 1883 1886 1889 1892 1895 1898 1901 1904 1907 1910 1913
+-- -- REER
+150 r-~~~---------------------------
+140 Spain
+130 120 110 100 90 80 70
+60
+50 Lu~~~~~~~~~~~~~~~~
+1870 1874 1878 1882 1886 1890 1894 1898 1902 1906 1910
+150 ,-~,....,----------------------------~ 140 130 120 110 100 90 80 70 60
+50 c .. . . .~~~~u_u_~~. . . .~~~~~
+1880 1884 1888 1892 1896 1900 1904 1908 1912
+ISO ,-~----~-------------------------
+140 130 120 110 100 9()
+80 70 60
+50 uo~~~. .~~LU~LU~~~~~LU~~
+1870 1876 1882 1888 1894 1900 1906 1912
+120 r-~------------------------------_,
+110 100 9()
+80 70 60 50 40
+30
+~ UO~~~~LU~LU~LU~LU~LU~LU~~
+1870 1876 1882 1888 1894 1900 1906 1912
+
+
+- 14
+where TE't stands for the log of exports minus the log of imports (i.e. TE=log(X)-log(M) in
+group i at time t; f.l, represents fixed effects; A..I is a scalar, 0'.1 is a (kxl) coefficient vector and
+REER
+X't is a (kxl) vector of explanatory variables which includesREER, i.e., X't = • , and x; t
+, 'x '
+i,t
+is a (k ~ I, I) vector that may comprise other relevant explanatory variables such as the level of
+domestic activity, as in standard trade balance specifications (see, e.g., Goldstein and Khan, 1985). Equation (I) can be re-parameterized and written as:
+(2)
+where the vector 9, = p, defines the long-run or "equilibrium" relationship between the
+¥,
+variables involved, with p, being the elasticity of the export to import ratio with respect to the
+REER and ¥, is a vector of elasticities with respect to other variables (x:.t ), whereas ¢,
+measures the speed of adjustment toward equilibrium.
+Once the ARDL models for each country are estimated, MG estimator then derives the
+full panel estimates 9 and ¢ as simple averages of individual country coefficients (J, and ¢,.
+Pesaran and Smith (1995) shows that this method produces consistent estimates ofthe average of the parameters provided that the group specific parameters are independently distributed and the regressors are exogenous. However, it has also been shown that MG estimates will be
+inefficient if 9, and ¢, are the same across groups, i.e., if the long-run slope homogeneity
+restriction holds. For this case, Pesaran, Shin, and Smith (1999) propose a maximum likelihood-based "pooled mean group" (pMG) estimator which combines pooling and averaging of the individual regression coefficients in (2). This is shown to yield not only consistent but also considerably more efficient estimates than the MGE when the slope homogeneity restriction holds. By allowing the researcher to impose cross-sectional long-run homogeneity
+restrictions of the form of p, = p, ¥, = ¥, \;j i =1,2, ..N, the PMG estimator also has the
+attractive feature of enabling one to test this restriction via standard Hausman-type tests.
+MG and PMG estimators have three attractive features that make them especially taylor-made for the task at hand. First, they can be used in a highly unbalanced panel such as ours, where some of series begin in 1870 whereas others do not start until the 1880s. Second, allowance is made for considerable heterogeneity in the adjustment dynamics across the distinct country groups. This is critical since we are pooling together countries with marked differences in institutions, tariff structure, trade openness, and monetary regimes-factors that are likely to affect the way trade responds to exchange rate changes, thus entailing some degree of
+
+
+- 15 
+heterogeneity across the panel. Third, since the underlying ARDL structure implies that all explanatory variables enter the regression lagged, endogeneity biases associated with contemporaneous feedback effects of the trade balance on the real exchange rate are thereby mitigated 6
+In light of these considerations, Table 2 reports the results ofMG and PMG estimation of (2) together with Hausman h-test on whether the cross-country slope restriction (as required by the PMG estimator) holds7 In addition, and mostly for comparison purposes, we also report estimates of (2) using the more standard dynamic fixed effects (DFE) method, i. e., when the same lag structure (p=q=l) is imposed to all countries across the panel' Estimation spans all periphery countries with the exception Russia (for which trade volume data could not be obtained) and four alternative specifications. The first two correspond to the bivariate regression of the (log of) the export to import ratio on the (log of) REER, with and without including a deterministic trend among the regressors· The other two, reported in panels C and D of Table 2, repeat the exercise including (the log of) an index of aggregate economic activity for each country ("Yreal"). 10
+6 Another advantage of those estimators is to dispense with unit root pre-testing of the variables -a procedure which is marred by the low power of unit root tests and biases arising from the cross equation dependence of residuals in panel-based tests (O'Connell, 1998). Provided that there is a unique vector defining the long-run relationship among the variables involved, MG and PMG estimates of (2) will yield consistent estimates of that vector-no matter whether the variables involved are I (I) or I (O)--{)nce p and q are suitably chosen and the assumption of independently distributed group specific parameters and exogenous regressors hold.
+7 To conserve on degrees of freedom while allowing for reasonably rich dynamics, we limited the number oflags to a maximum of2, i.e.,p,q,; 2.
+8 As is well-known in the econometrics literature on panel data, the DFE method is subject to the lagged dependent variable bias (Nickell, 1981; Sevestre and Trognon, 1996), so its estimates need to be treated with caution. In light of this caveat, results of this more standard approach are reported mostly to serve as a benchmark comparison.
+9 As with the fixed effect term ~, the coefficient on the trend is allowed to differ across units. It can be thought of as possibly capturing cross-country differences in the growth of supply-side factors (such as technological change) that lack a better proxy (given the dearth of relevant data for several of those countries during period) but that might have a significant bearing on trade performance.
+10 A main reason to run separate regressions with and without Yreal is the relatively poor quality of real GDP data for most countries during the period and the short span of some countries' GDP series. Hence, the drop in the number of observations for the last pair of regressions shown in Table 2.
+
+
+- 16
+Table 2. Dynamic Panel Estimates oftbe Effects of Exchange Rate on Trade
+(all variable in logs, t-ratios in brackets)
+DFE MGE PMGE h-test No. ofObs.:
+A. TB on REER (no trend included)
+REER Elasticity -0.85 -1.02 -0.73 1.22 339 (-3.15) (-3.71) (-7.86) [j>=0.27]
+EC Coefficient -0.37 -0.49 -0.46 (-5.00) (-4.99) (-4.79)
+Max. log likelihood 149.46 216.94 200.30
+B. TB on REER (trend included)
+REER Elasticity -0.84 -0.87 -1.03 0.24 339 (-4.99) (-2.56) (-12.01) [p=0.62]
+EC Coefficient -0.37 -0.63 -0.63 (-8.50) (-5.06) (-5.04)
+Max. log likelihood 149.97 227.25 206.78
+C. TB on REER and Yreal (no trend included)
+REER Elasticity -0.95 -0.81 -0.84 0.01 277 (-3.49) (-2.36) (-7.52) [p=0.93]
+Yreal Elasticity -005 0.09 -004 71.07 (-0.48) (1.07) (-0.52) [p=0.00]
+EC Coefficient -0.41 -0.67 -0.52 (-6.63) (-5.95) (-4.59)
+Max. log likelihood 119.8 173.38 147.72
+D. TB on REER and Yreal (trend included)
+REER Elasticity -0.95 -1.21 -0.98 0.83 277 (-3.50) (-4.40) (-9.46) [p=0.36]
+Yreal Elasticity -0.05 0.10 -0.20 110 (-0.48) (0.34) (-2.26) [j>=0.29]
+EC Coefficient -0.41 -0.75 -0.72 (-8.47) (-7.51) (-6.70)
+Max. log likelihood 119.80 186.67 140.74
+
+
+- 17 
+In all cases, the results unanimously indicate that trade flows are significantly sensitive to REER movements, with the estimated elasticities from 0.7 and 1.0 implying that a one-percentage point REER appreciation leading to a 0.7 to 1.0 percentage point contraction in the ratio of exports to imports. This is quite a strong effect, especially when one takes into account the relatively large magnitude ofREER fluctuations in some ofthe periphery economies considered. The respective speed of trade balance adjustment is not particularly slow-the average EC coefficient of 0.5 indicating a half-life of about one year. Also, as the Hausman test on the same REER-trade elasticity restriction across countries cannot be rejected in all of the four models, PMG estimates are more efficient and should thus be preferred. On the other hand, all but one ofthe models or estimators considered suggest that domestic economic activity (current and lagged) is not statistically significant; and even for the specification where Yreal turns out as statistically significant (see the PMGE estimate at the bottom panel of Table 2), the income elasticity is about a fifth lower than the relative price elasticity. II This reinforces the robustness of the bivariate estimates and the finding that trade flows appear to have been highly sensitive to exchange rate fluctuations in the 1870-1913 era.
+Including the gold core countries into the panel does not change this conclusion. As shown in Table 3, the estimates of the real exchange rate elasticity of the trade balance remain statistically significant and strong for the most part, even though there is now greater heterogeneity across DF, MG, and PMG estimators. This is to be expected, however, since the inclusion of the four core countries increases the heterogeneity of the panel, which especially affects DF and MG estimators. 12 Comparing the PMG estimates of the REER elasticity in Table 2 with their counterparts in Table 3, one is led to conclude that, if anything, the inclusion of the core countries in the panel strengthens the finding that international trade adjustment during the period was very responsive to real exchange rate movements.
+V. CONCLUSIONS
+The effective exchange rate indices presented in this paper shed new light on a mechanism of international payments adjustment. The existence of such a mechanism owes to the fact that the pre-1914 gold standard was not a truly international system of fixed exchange
+II While not reported, we also considered the inclusion of Yreal in first differences which does not overturn the results. Considering the first difference ofYreal seems important, despite evidence that the stochastic process driving real income in the pre-1914 period was trendstationary at least for some core countries (Crafts and Mills, 1992; Solomou, 1998).
+12 This is because, being simply the unweighed average of the various individual country ARDL estimates, the MG estimator is particularly sensitive to outliers. In the case of the DF estimator, its sensitivity to outliers stems from imposing the same lag structure across all countries in the panel.
+
+
+- 18 
+Table 3. All Countries' Dynamic Panel Estimates of the Effects of Exchange Rate on Trade
+(all variable in logs, t-ratios in brackets)
+DFE MGE PMGE h-test No.ofObs.:
+A. TB on REER (no trend i!J&luded)
+REER Elasticity -0.02 -0.91 -0.85 0.1 486 (-0.55) (-3.90) (-7.34) [p~.75]
+EC Coefficient -0.31 -0.39 -0.35 (-4.05) (-5.44) (-5.56)
+Max. log likelihood 216.80 405.10 385.70
+B. TB on REER (trend included)
+REER Elasticity -0.86 -0.79 -1.27 3.14 486 (-3.20) (-2.74) (-13.55) [p~0.08]
+EC Coefficient -0.36 -0.54 -0.57 (-6.04) (-5.92) (-6.76)
+Max. log likelihood 259.16 357.03 101.69
+C. TB on REER and Yreal (no trend included)
+REER Elasticity -0.96 -0.81 -1.54 0.12 425 (-3.83) (-2.36) (-9.18) [p~0.73]
+Yreal Elasticity -0.05 0.06 0.05 0.57
+(-0.66) (0.57) (0.98) W O.89]
+EC Coefficient -0.4 -0.3 -0.59 (-8.11) (-6.17) (-2.21)
+Max. log likelihood 228.64 382.05 347.65
+D. TB on REER and Yreal (trend included)
+REER Elasticity -0.96 -1.21 -1.46 0.08 425 (-6.17) (-4.40) (-9.82) [FO.77]
+Yreal Elasticity -0.04 -0.03 -0.25 0.31 (-0.62) (-0.47) (-0.63) [p~0.58]
+EC Coefficient -0.4 -0.6 -0.48 (-8.22) (-8.29) (-5.59)
+Max. log likelihood 228.68 401.86 336.46
+
+
+- 19
+rates: while the core and a few other richer countries during the 1879-1913 period pegged their exchange rates to gold, several peripheral economies operated more flexible monetary regimes and witnessed considerable variation in nominal exchange rates. Since much of world trade during the period was North-South or "core"-"periphery," it is not surprising that this induced significant variations in real exchange rates worldwide.
+As with discrete rate official adjustments and the proliferation of parallel foreign exchange markets in the semi-fixed Bretton Woods system (Reinhart and Rogoff, 2002), our findings suggest that exchange rate flexibility in the periphery was an important source of grease for the wheels ofthe pre-1914 gold standard. From the periphery viewpoint, exchange rate flexibility beyond the gold points allowed countries to accomplish significant adjustments in trade flows during cyclical downswings without the requirement of wage and price deflation, as trade balances were highly elastic to exchange rates. From the perspective of the core, exchange rate flexibility in the periphery facilitated relative price adjustment while maintaining the gold peg, also obviating the need for massive monetary sterilization by central banks often observed in the post-World War II world. Thus, exchange rate flexibility in the periphery seems to help explain a key puzzle ofthe classical gold standard-namely, how significant relative price adjustments were accomplished without jeopardizing the gold peg and in the absence of dramatic reserve accumulation by the core central banks (Sawyers, 1976; Moggridge, 1987).
+Besides highlighting the role of exchange rate flexibility in the gold standard periphery and providing a data set of wider interest to economists and economic historians, the findings above raise some questions that warrant further research. One question is what drove exchange rate fluctuations in the periphery. One view arising from individual country studies is that heterodox policy experiments, and in particular fiscal profligacy, played a major role in triggering large currency depreciations and preventing continuous adherence to gold (see, e.g., Acena and Reis, 2000; della Paolera and Taylor, 2001). The problem with this view is that it does not account for some ofthe observed synchronicity of effective exchange rate movements documented above. At the other extreme, the view that exchange rate adjustments in the periphery reflected changes in monetary conditions in Britain and the interest rate cycle managed by the Bank of England (Furtado, 1960; Ford, 1962) does not fully square with the fact that currency fluctuations across the periphery were far from being perfectly synchronized. Perhaps by relating the exchange rate indices provided in this article to the various external and domestic policy variables in a multivariate panel data framework, future research could come up with a picture that better fits the facts and bridges the gap between those two polar views.
+Two other important and interrelated issues are how capital flows responded to exchange rate changes and whether the welfare gains arising from reliance on exchange rate flexibility as an insulation device offset potential losses in policy credibility and the capital account. More specifically, were depreciations effective in luring foreign investors through more favorable export prices and better insulation of domestic output to external shocks? Or was it that exchange rate uncertainty and possibly lower policy credibility stemming from more flexible monetary regimes tended to put off investors, inducing a negative correlation between foreign investment levels and exchange rate volatility? To the extent that adherence to the gold standard is regarded as a "good housekeeping seal of approval" which encourages foreign
+
+
+- 20
+capital inflows (Bordo and Rockoff, 1996), one is inclined to subscribe to the second hypothesis. Indeed, preliminary supporting evidence in this regard is provided in Bordo and Schwartz (1996), who consider the cases of Argentina and United States and find that the restoration of gold convertibility stimulated capital inflows, while the threat to convertibility (such as during the U.S. silver controversy of the 1890s) resulted in declining capital calls on new security issues in London. However, whether this holds for a broad panel of countries conditioning for differences in per capita income, political stability, and other relevant variables has yet to be established. Hence, whether exchange rate flexibility enhanced or diminished overall welfare in the periphery remains an open question. The findings and dataset presented in this paper provide a starting point for evaluating these hypotheses.
+
+
+- 21 - APPENDIX I
+The Methodology of Constructing Effective Exchange Rate Indices
+In this appendix we outline the methods used to construct the nominal and real effective rates for each country. In each case exchange rates are expressed as the foreign price of domestic currency with 1913=100; thus, a rise in the index describes an appreciation.
+Silver Standard
+Mexico
+For most of the pre-1913 period Mexico remained on the silver standard, joining the gold standard in 1905. For the period 1870-1913 the nominal effective exchange rate (NEER) is calculated as the weighted average for 12 of Mexico's main trading partnersl3 (which in total account for over 80 per cent of Mexico's visible trade) using trade weights for 1893 and 1910 respectively. 14 A geometric average of the series based ion 1893 weights and that based on 1910 weights has been used to derive the Fisher ideal index used in the paper. The real effective exchange rate (REER) has been calculated as a weighted average of nominal bilateral rates adjusted for relative price changes. The country coverage and the weights are the same as were used in the NEER calculations. Where possible we have used consumer prices as deflators. The exceptions to this are China and India where we have had to use wholesale prices. Given the small weight of these countries in Mexico's trade, this data constraint has a limited effect on the magnitude of the annual movements, and does not distort the direction of the short-run or longrun movements of the calculated real EERs. The sample period is limited to 1886-1913 because the consumer price index for Mexico is not available before 1886.
+India
+India remained on a silver standard until 1893. In 1893 the Indian mints were not allowed free coinage of silver and the exchange rate was held at 15 rupees to the pound, which put the value of the rupee above its silver bullion content. In 1898 the decision was taken to use the profits of coinage to build up a gold and sterling reserve in London. By 1903 the rupee was operating on a de facto gold-exchange system. 15 NEER's have been calculated using bilateral trade weights for 8 of India's main trading partnersl6 (accounting for over 80 per cent of visible
+l3 The countries included are Austria-Hungary, Canada, China, France, Germany, India, Italy, Japan, Netherlands, Spain, the United Kingdom, and United States.
+14 A number of weighting systems were investigated, all yielding similar movements over time.
+15 We are grateful to Tom Tomlinson for clarifying these details.
+16 The countries included are Australia, China, Germany, Hong Kong, Japan, Russia, the United Kindgom, and the United States.
+
+
+- 22- APPENDIX I
+trade), and using bilateral trade weights for 1875 and 1913 respectively. '7 A geometric mean was then used to derive the Fisher ideal index over this period. Real effective exchange rate indices for India have been calculated as weighted averages of nominal bilateral rates adjusted for relative price changes. The availability of price data limited us to six of the major trading partners. ,. The limitations of the Indian data forced us to use wholesale prices; to maintain comparability we have used wholesale prices for other countries. '9 For the period 1870-1913 exchange rate indices were constructed using bilateral trade weights for 1875 and 1913 respectively. A geometric mean was then used to derive the Fisher ideal index over this period.
+Japan
+A full outline of the methods used to construct the effective exchange rate series for Japan is outlined in Shimazaki and Solomou (2001). For the period 1879-1913 the nominal effective exchange rate is calculated as the weighted average for 16 ofJapan's main trading partners,20 accounting for over 80 percent ofJapan's visible trade. NEER indices were constructed using weights for 1879 and 1913 respectively." REER indices for Japan have been calculated as weighted averages of nominal bilateral rates adjusted for relative price changes. Where possible Shimazaki and Solomou used consumer prices as deflators. The main exception to this is China where wholesale prices were used. Given the weight of China in Japan's trade (which averaged about 14 per cent during this period) this data constraint has an effect on the magnitude ofthe annual movements, but does not distort the direction of the short-run or longrun movements. Given the available price data for Japan and its main trading partners Shimazaki and Solomou produced a REER series using an II-country selection. 22
+'7 A number of weighting systems were investigated. The movements over time are similar for the different weighting schemes.
+,. Australia, China, Germany, Japan, United Kingdom, and United States. These six accounted for 70 per cent of visible trade.
+'9 Comparing wholesale prices for India and consumer prices for other country does not affect the reported patterns.
+20 The countries included are Australia, Belgium, Canada, China, Dutch-India, Egypt, France, Germany, Hong Kong, India, Italy, Netherlands, Russia, Switzerland, UK, and USA.
+21 A number of weighting systems were investigated. As would be expected the level of the index is affected but the movements over time are similar for the different weighting schemes.
+22 The countries included are Australia, Belgium, Canada, China, France, Germany, India, Italy, Netherlands, United Kingdom and the United States. The coverage amounts to over 75 percent of Japans trade over this period.
+
+
+- 23 - APPENDIX I
+Inconvertible Paper Standard
+Argentina
+For most of the pre-1914 period Argentina remained on an inconvertible paper currency, joining the gold standard in 1899. Argentina's national data sources report bilateral trade flows in "official" values to 1910 (Mitchell, 1993). These are significantly different from market values. As part of a sensitivity analysis we experimented with three alternative ways of deriving trade weights. Using the national trade data we were able to derive weights for Brazil, France, Germany, the United Kingdom and United States. Excluding Brazil we can do this for the whole period 1880-1913; including Brazil we can coverthe period 1901-1913. The second method is to use Argentina's "official" data. Finally, we derive Brazil's share using the "official" data and we then use the national data for France, Germany, United Kingdom and United States to derive a complete set of weights for the period 1880-1913. In fact all the derived exchange rate series are very similar in both annual variation and trend movements irrespective ofwhich set of weights is used. In tenus of data reliability we favor using the weights derived from national data sources. These five countries accounted for a large proportion of trade over the pre-1913 period.23
+For the period 1870-1913 the NEER is calculated as the weighted average for Argentina's 5 main trading partners. Exchange rate indices were constructed using bilateral trade weights for 1880 and 1913 respectively24A geometric mean was then used to derive the Fisher ideal index over this period. Given the available price data for Argentina we were able to
+produce a REER series only for the period after 1880 using consumer prices2' To maintain comparability with the Argentine data, we have used consumer prices as deflators for other countries. REER indices were constructed using trade weights for 1880 and 1913 respectively. A geometric mean was then used to derive the Fisher ideal index over this period.
+Brazil
+For most of the pre-1913 period, Brazil operated an inconvertible paper currency, joining the gold standard in 1906. Nominal Effective exchange rates have been calculated using
+23 In 1913 these 5 countries accounted for approximately 70 percent of visible trade.
+24 A number ofweighting systems were investigated, all yielding similar movements. The use of the Fisher index to represent the movements in the exchange rate means that the improvements in trade coverage is likely to have limited effect on the observed trends.
+2' Although a price index exists for the 1870s this has been derived on the assumption ofPPP theory holding, utilizing data for the exchange rate and British prices. Thus there is no independent evidence on Argentine prices.
+
+
+- 24- APPENDIX I
+bilateral trade weights. Given the lack of data on bilateral trade flows in Brazil's national data sources we derived trade shares using the national trade data from Britain, France, Germany, America and Argentina converted to sterling. These five countries accounted for a large proportion of trade overthe pre-1913 period. Comparing the sum of trade accounted by this group with the total trade as reported in the Brazil data the trade coverage averages 80 percent of visible trade over the period 1880-1913.'6 For the period 1870-1913 the nominal effective exchange rate (EER) is calculated as the weighted average for Brazil's 5 main trading partners using bilateral trade weights for 1880 and 1913 respectively.'7 A geometric mean was then used to derive the Fisher ideal index over this period.
+REER indices were constructed using bilateral trade weights for 1880 and 1913 respectively for the same 5 main trading partners. Where possible we have used GDP deflators as price deflators (with the exception of Argentina).
+Chile
+Chile sustained a bimetallic standard during 1870-78. Following financial crisis in 1878 and the War of the Pacific (1879) the country moved to an inconvertible currency. Convertibility was re-introduced in 1895 but ended abruptly in 1898 (Llona Rodriguez, 2000). For the period 1878-1913 NEER indices were calculated as the weighted average for Chile's 6 main trading partners (Argentina, Belgium, Britain, France, Germany, and the United States),28 andusing bilateral trade weights for 1880 and 1913 respectively. A geometric mean was then used to derive the Fisher ideal index over this period.
+REER indices have been calculated as weighted averages of nominal bilateral rates adjusted for relative price changes. The trade weights and country coverage are the same as for the nominal rate. Since the domestic price index for Chile is wholesale based we have used wholesale prices for all countries.
+Italy
+Italy sustained the gold standard for only a few years between 1861-1913, being on gold over the period 1861-66 and for a short period in 1883 (Tattara and Volpe, 1997). For the
+26 The trade coverage ratio is trended downwards in the 1890s suggesting that further improvements can be made by widening the selection of countries over this period.
+27 A number of weighting systems were investigated. The movements over time are similar for the different weighting schemes. The use of the Fisher index to represent the movements in the exchange rate means that the improvements in trade coverage is likely to have limited effect on the observed trends.
+28 These 6 countries accounted for 75percent of Chile's trade in 1913.
+
+
+- 25 - APPENDIX I
+period 1870-1913 the NEER is calculated as the weighted average for Italy's 7 main trading partners (Argentina, Austria-Hungary, Britain, France, Germany, Switzerland and the United States).29 Nominal effective exchange rate indices were constructed using bilateral trade weights for 1875 and 1905 respectively. A geometric mean was then used to derive the Fisher ideal index over this period.
+REER indices have been calculated as weighted averages of nominal bilateral rates adjusted for relative price changes. The trade weights and country coverage are the same as for the nominal rate. Where possible we have used consumer prices as deflators. The main exception to this is Argentina where we have had to use wholesale prices. Given the small weight of Argentina this does not distort the overall picture.
+Portugal
+Although Portu~al adopted the gold standard in 1854 (Reis, 1996), gold convertibility was suspended in 1891. 0 For the period 1870-1913 the nominal effective exchange rate (EER) is calculated as the weighted average for Portugal's 5 main trading partners (Britain, France, Germany, Spain and USA).'1 Exchange rate indices were constructed using bilateral trade weights for 1870 and 1913 respectively.32 A geometric mean was then used to derive the Fisher ideal index over this period.
+Using consumer price data for Portugal (Mata and Valerio, 1996) and its main trading partners we were able to produce a real effective exchange rate for the period 1870-1913. Real exchange rate indices were constructed using bilateral trade weights for 1870 and 1913 respectively. A geometric mean was then used to derive the Fisher ideal index over this period.
+Russia
+Russia joined the gold standard in 1897 having been on a silver standard during 1870-76 and a paper currency during 1877-96 (Gregory and Sailors, 1976; Meissner, 2002). NEER
+29 These 7 countries accounted for over 75percent ofItaly's trade during the period 1870-1913.
+30 See Mata and Valerio, 1996, pp. 208-9 for a discussion of!be causes of the suspension of gold standard.
+31 These 5 countries accounted for over two thirds of Portugal's trade during the period 1870-1913.
+32 A number of weighting systems were investigated. The movements over time are similar for the different weighting schemes. The use of the Fisher index to represent !be movements in the exchange rate means that the improvements in trade coverage is likely to have limited effect on the observed trends.
+
+
+- 26- APPENDIX I
+indices have been calculated using bilateral trade weights for 12 ofRussia's main trading partners (UK, France, Belgium, Italy, Germany, Netherlands, Denmark, Switzerland, AustriaHungary, Japan, China and Spain). For the period 1870--1913 the indices were calculated using trade weights for 1880 and 1913 respectively.33 A geometric mean was then used to derive the Fisher ideal index over this period.
+REER indices have been calculated as weighted averages of nominal bilateral rates adjusted for relative price changes. The trade weights and country coverage are the same as for the nominal rate. Given the available price data for Russia we were only able to produce real effective rates for the period after 1885 using the price series reported in Gregory (1982). The calculation of the REER is mainly based on GDP deflators (in the case of China and India we had to use wholesale prices).
+Spain
+Data for Spain's effective exchange rate were kindly provided by Leandro Prados de la Escosura. We have used calculations based on Spain's bilateral trade weights for most of its trading partners. The calculation of the real effective exchange rate is based on consumer prices.
+Core Gold Standard
+Solomou and Catao (2000) outline the methods and sources used to construct effective exchange rates for the four major industrial countries (Britain, France, Germany and the United States). In this paper we have extended this data set in two ways: first, the series are extended to cover the whole period 1870-1913; secondly, for the United States we have also extended the country coverage to include a wider selection of countries operating different monetary standards. 34
+33 A number of weighting systems were investigated. The movements over time are similar for the different weighting schemes. The use ofthe Fisher index to represent the movements in the exchange rate means that the improvements in trade coverage is likely to have limited effect on the observed trends.
+34 The countries included are Argentina, Australia, Belgium, Brazil, Canada, Chile, Denmark, France, Germany, India, Italy, Japan, Mexico, Netherlands, Portugal, Russia, Spain and the UK.
+
+
+- 27 - APPENDIX II
+Data Sources
+Mexico
+Trade Weights: Trade Weights have been calculated based on data from Colegio de Mexico (1960), Estadisticas economicas del porjiriato: comercio exterior de Mexico, 1877-1911. [Recopiladas y elaboradas por el Seminario de historia moderna de Mexico], Mexico.
+Consumer Price Index: Aurora GOmez-Galvarriato and Aldo Musacchio, 2000. Un nuevo indice de precios para Mexico,1886-1930", Trimestre Economico, 265, January-March.
+Nominal Exchange Rate: Instituto Nacional de Estadistica, Geografia, e Informatica, 1986, Estadisticas Historicas de Mexico, Vol. 1&2, Mexico, INEGI.
+Trade Volumes: Catiio (1998).
+Real GDP: Solis, Leopoldo, 1985, La Realidad Economica Mexicana: Retrovision y Perspectivas, Mexico.
+India
+Trade Weights: Trade Weights have been calculated from: Mitchell, B.R. (1995), International Historical Statistics: Africa, Asia & Oceania 1750-1988, Second Revised Edition, New York.
+Wholesale Price Index: India, Department of Commercial Intelligence and Statistics, 1933, Index Numbers ofIndian Prices, 1860-1931, Delhi.
+Nominal Exchange Rate: India, Department of Commercial Intelligence and Statistics, 1933, Index Numbers ofIndian Prices, 1860-1931, pp. 18, Delhi.
+Trade Volumes: Kumar D. and M. Desai, The Cambridge Economic History ofIndia, Cambridge, England, pp. 903-4
+Japan
+A full outline of the sources for the trade weights, nominal exchange rates and price series used for calculating the Japanese effective exchange rates can be found in Shimazaki, M and Solomou, S.N. (2001), "Effective Exchange Rates in Japan, 1879-1938", Japan and the World Economy, 13, pp. 161-77. Foreign trade data from: Baba, Masao and Masashiro Tatemoto, "Foreign Trade and Economic Growth in Japan, 1858-1937, in Klein Lawrence and Kazushi
+Ohkawa, Economic Growth: the Japanese Experience Since the Meiji Era, Illinois, pp. 167 and 176. Real GDP data from Maddison (1991).
+
+
+- 28 - APPENDIX II
+Argentina
+Trade Weights: based on 'official values' calculated from Argentina's trade data using Mitchell, B.R. (1993), International Historical Statistics: The Americas 175~J988, Second Edition, New York. Trade Weights based on market values have been calculated from the national trade data ofBrazil, France, Germany, UK and the USA. The data has been converted to a common currency using market exchange rates.
+Exchange rate, Trade Volumes, and real GDP: della Paolera (1992, p.3, p.29, and pA2), Ford (1962, p.142), dellaPaolera and Taylor (2001). During 1882-4 and 1900-1913 Argentina was on gold and so the peso gold exchange rate was fixed at the parity 5.04 gold pesos to the £ (della Paolera, 1992, p.8).
+Consumer Prices: Cortes-Conde, R. (1976): "Trends in Real Wages in Argentina (1880-1910)," Working Paper No. 26, Centre of Latin American Studies, University of Cambridge.
+Brazil
+Trade Weights: Computed based on market values have been calculated from the national trade data of Argentina, France, Germany, UK and the USA. The data has been converted to a common currency using market exchange rates.
+Gross Domestic Product and Price Deflators: Luis Catlio, 1992. "A new wholesale price index for Brazil during the period 1870-1913", Revista Brasileira de Economia, 46, 4, 1992 and
+Raymond Goldsmith, 1984. Brasil 1850-1984: Desenvolvimento Financeiro sobre un seculo de injlacao, Bamerindus.
+Nominal exchange Rate and Trade Volume Data: Instituto Brasileiro de Geografia e Estatistica (IBGE), 1987. Estatistics HistGricas do Brasil, Rio de Janeiro.
+Chile
+Trade Weights: A limited set of trade weights was calculated using Mitchell, B.R. (1993), International Historical Statistics: The Americas 1750-1988, Second Edition, New York. Weights for six countries were calculated using the trade data of Katherine Barbieri, 1996.
+Economic Interdependence andMilitarized Interstate Conjlict, 1870-1985, Ph.D. Dissertation. Binghamton University, Binghamton, NY. Barbieri, Katherine 1998. "Trade and Conflict: Assessing the Impact ofInterdependence on Militarized Conflict." Unpublished manuscript. The data has been posted at http://pss.lapsu.edullRD_DATA.hlm
+Wholesale Prices: Chilean prices are based on urban agricultural product wholesale index as reported in J. Braun, M. Braun, I Briones, J. Diaz, R. Luders and G. Wagner, 2000, "Economia Chilena 1810-1995: Estadisticas Hist6ricas", Documento de Trabajo No. 187, Catholic University of Chile.
+
+
+- 29- APPENDIX II
+Exchange rate: For the period 1878-1913 the peso-dollar exchange rate was taken from the Global Financial Data base http://www.globalfindata.com. The peso-sterling rate for the period 1870--1913 is reported in J. Braun, M. Braun, I Briones, J. Diaz, R. Luders and G. Wagner, 2000, "Economia Chilena 1810--1995: Estadisticas Hist6ricas", Documento de Trabajo No. 187, Catholic University of Chile.
+Trade Volumes and Real GDP: J. Braun, M. Braun, I Briones, J. Diaz, R. Luders and G. Wagner, 2000, "Economia Chilena 1810--1995: Estadisticas Hist6ricas", Documento de Trabajo No. 187, Catholic University of Chile.
+Italy
+Trade Weights: Derived from Istituto Centrale di Statistics, 1958, Sommanio di Statistiche Storiche Italiane, 1861-1955, Roma.
+Exchange rate: Ciocca, P. and Ulizzi, I., (1990, pp. 354-5).
+Consumer Prices: Consumer price level: Maddison (1982, pp. 237).
+Trade Volumes: Rossi, Nicola, Andrea Sorgato, and Gianni Toniolo, 1992, Italian Historical Statistics.
+Real GDP: Maddison (1991).
+Portugal
+Trade Weights: Mitchell, B.R. (1980), European Historical Statistics: 1750--1975, Second Revised Edition, N ew York.
+Exchange rate: Mata, E. and N. Valerio (1996), "Monetary Stability, Fiscal Discipline and Economic Performance-The Experience of Portugal since 1854," in J. Braga de Macedo, B. Eichengreen and J. Reis, Currency Convertibility. The Gold Standard and Beyond, Routledge, London and New York.
+Consumer Prices: Mata, E. and N. Valerio (1996).
+Real GDP: das Neves, Joao Luis Cesar, 1994, The Portuguese Economy: A Picture in Figures, Lisbon.
+Trade Volumes: Lains (1995).
+
+
+- 30- APPENDIX II
+Russia
+Trade Weights: Weights for twelve ofRussia's main trading partners countries were calculated using the trade data of Katherine Barbieri, 1996. Economic Interdependence and Militarized Interstate Conflict, 1870-1985, Ph.D. Dissertation. Binghamton University, Binghamton, NY. Barbieri, Katherine 1998. "Trade and Conflict: Assessing the Impact ofInterdependence on Militarized Conflict." The data has been posted at countries covered are Austria-Hungary, Belgium, Japan, Netherlands, Spain, Sweden, UK, and USA.
+Exchange rate: Foreign exchange section of The Bankers' Gazette, The Economist. An annual exchange rate was calculated as an arithmetic average of 12 monthly observations, sampling over the first/second week for each month.
+Prices: Gross Domestic Product Price Deflator from Gregory (1982).
+Spain
+Real GDP: Prados de la Escosura, Leandro (1998), "Estimates of the Domestic Gross Product for Spain", unpublished, Madrid.
+Trade Volumes: Prados (1988).
+Nominal Exchange Rates of Trading Partners
+Bilateral rates were computed on the assumption of perfect international arbitrage in exchange rate markets based on the following national information.
+France: Mitchell (1988, pp. 703-4).
+Germany: Mitchell (1988, pp. 703-4)
+United States: 1870-1900: Arithmetic average of quarterly observations in Perkins (1978, pp. 413-415); 1901-1913: Mitchell (1988, pp. 703-4).
+Belgium: The same as the pound-franc rate, since Belgium was a member ofthe Latin Monetary Union and its exchange rate was kept fixed vis-it-vis the French franc.
+Canada: Fixed at the gold standard parity of $4. 86/£ throughout the period.
+Sweden: Fixed at the gold standard parity of 18. 16Kr/£. It is assumed that the movements around the gold points were comparable to exchange rate variations ofNorway.
+Denmark: Fixed at the gold standard parity. It is assumed that the movements around the gold points were comparable to exchange rate variations ofNorway.
+
+
+- 31 - APPENDIX II
+Norway: Edison and Klovland (1988, p.36).
+Australia: 1870-1892: Foreign exchange section of The Bankers' Gazette, The Economist. An annual index was produced as an arithmetic average of 12 monthly observations, sampling over the first/second week for each month. 1893-1913: Wilson (1933, pp. 121-2).
+Brazil: IBGE (1941, pp. 63-4).
+Netherlands: Foreign exchange section of The Bankers' Gazette, The Economist. An annual index was produced as an arithmetic average of 12 monthly observations, sampling over the first/second week for each month.
+Austria-Hungary: Foreign exchange section of The Bankers' Gazette, The Economist. An annual index was produced as an arithmetic average of 12 monthly observations, sampling over the first/second week for each month.
+Spain: Carreras (1989, p.390).
+Trade Data Sources For Core Countries
+France Annuaire Statistique de la France (1878-1913)
+Germany Statistiches Jahrbuch fur das Deutsches Reich (1880-1913)
+United Kingdom Annual Statement ofthe Trade of the UK (1870-1913)
+United States
+Annual Abstract of Statistics of the United States Commerce and Navigation ofthe United States
+
+
+- 32
+References
+Acena, P.M., 2000, "The Spanish Monetary Experience, 1848-1914," in Acena, P.M. and Reis, J. (eds.), Monetary Standards in the Periphery. Paper, Silver and Gold, 1854--1933, London.
+- - - , and Reis, J., 2000, Monetary Standards in the Periphery. Paper, Silver and Gold, 1854-1933, Macmillan, London.
+Bayoumi, T., and Eichengreen, B., 1996, "The Stability of the Gold Standard and the Evolution of the International Monetary System," in T. Bayoumi, B. Eichengreen, and M.P. Taylor (eds.), Modern Perspectives on the Gold Standard, Cambridge.
+Bloomfield, A, 1959, Monetary Policy Under the Gold Standard, New York.
+Bordo, M. D., and A J. Schwartz, 1984, A Retrospective on the Gold Standard, 1821-1931, NBER, Chicago.
+- - - , and Hugh Rockoff, 1996, "The Gold Standard as a 'Good Housekeeping Seal of Approval," Journal ofEconomic History, 56(2), pp. 384-428.
+- - - , and A Schwartz, 1996, "The Operation of the Specie Standard: Evidence for Core and Peripheral Countries, 1880-1990," in J. Braga de Macedo, B. Eichengreen, and J. Reis, Currency Convertibility in Historical Perspective, The Gold Standard and Beyond, Routledge, London and New York.
+Carreras, A, 1989, Estadisticas Hist6ricas de Espana: SiglosXIX andxx, Madrid.
+Catiio, LA v., 1992, "A New Wholesale Price Index for Brazil during the period 1870-1913," Revista Brasileira de Economia, Vol. 46, NO.4.
+- - - , 1998, "Mexico and Export-Led Growth: The Porfirian Period Revisited," Cambridge Journal ofEconomics, Vol. 22, No.1, pp. 59-78.
+Ciocca, P. and Ulizzi, I., 1990, "I Tassi di Cambio Nominalli e 'reali' dell'Italia," in Ricerche Per la Storia della Banca d'ltalia, Roma.
+Cortes-Conde, R., 1976, "Trends in Real Wages in Argentina (1880-1910)," Working Paper No. 26, Centre of Latin American Studies, University of Cambridge.
+Crafts, N.F.R. and Mills T.C., 1992, "Economic Fluctuations, 1851-1913: A Perspective Based
+On Growth Theory," in S.N. Broadberry and N.F.R. Crafts (eds.), Britain in the World Economy, 1870-1939, Cambridge.
+
+
+- 33 
+della Paolera, G., 1992, "Monetary and Banking Experiments in Argentina: 1861-1930," Paper presented at the conference, "Economic Growth in the Long-Run: Argentina, Brazil and Mexico, 1870-1950," at the Institute of Latin American Studies, University of London, March, 1992.
+- - - , 1996, Dinero, Intermediacion Financiera y Nivel De Actividad en 110 Atlos de Historia Economica Argentina, Buenos Aires.
+- - - , and A M. Taylor, 2001, Straining at the Anchor: The Argentine Currency Board and the Search for Macroeconomic Stability, 1880-1935, Chicago.
+Diebold, F. X, Husted, S. and Rush, M., 1991, "Real Exchange Rates Under the Gold Standard," Journal ofPolitical Economy, 99, 6, pp. 1252-71.
+Edison, HJ. and Klovland, J.T., 1987, "A Quantitative Reassessment of the Purchasing Power Parity Hypothesis: Evidence from Norway and the United Kingdom," Journal of AppliedEconometrics, 2(4), pp. 309-333.
+Edwards, S., 1989, Real Exchange Rates, Devaluation, andA4Justment: Exchange Rate Policy in Developing Countries, Cambridge, Mass.
+Eichengreen, Barry, 1985, The Gold Standard in Theory and History, New York.
+- - - , 1992, "The Gold Standard Since Alec Ford", in S.N. Broadberry and N.F.R. Crafts (eds.), Britain in the International Economy 1870-1939, Cambridge.
+El Colegio de Mexico, 1960, Estadisticas Economicas del Porfiriato, 1877-1911, Mexico.
+Engel, Charles, 2000, "Long-run PPP May not Hold After All," Journal ofInternational Economics 57, pp. 243-73
+Feinstein, C.H., 1991, "A New Look at the Cost-of-Living, 1870-1914," in Foreman-Peck, J. (ed.), New Perspectives on the Late Victorian Economy: Essay in Quantitative Economic History 1860-1914, Cambridge, pp. 151-79.
+Ford, AG., 1962, The Gold Standard 1880-1914: Britain andArgentina, Oxford. Fritsch, Wand Franco, G.HB. 2000, "Aspects of the Brazilian Experience with the Gold Standard", in Acena, P.M. and Reis, J. (eds.), 2000, Monetary Standards in the Periphery. Paper, Silver and Gold, 1854-1933, Macmillan, London.
+Furtado, Celso, 1963, The Economic Growth ofBrazil: A Surveyfrom Colonial to Modern Times, Westport, Connecticut.
+
+
+- 34
+Goldstein, Morris and Mohsin S. Khan, 1985, "Income and Price Effects in Foreign Trade," in Jones, R. And Kenen, P. (eds.), Handbook ofInternational Economics, Vol. II,
+pp. 1041B105, Amsterdan.
+Gregory, P.R., 1982, Russian National Income, 1885-1913, Cambridge.
+- - - . and Sailors, J. W. 1976. 'Russian Monetary policy and Industrialization, 1861 -1913, Journal ofEconomic History, 36,4, pp. 836-51.
+Grilli, V. and Kaminsky, G., 1991, "Nominal Exchange Rate Regimes and the Real Exchange Rate," Journal ofMonetary Economics, No. 27, pp. 191-212.
+Hatton, T. J. and Williamson. J. G., 1994, Migration and the International Labour Market, London, Routledge.
+- - - , 1997, The Age ofMass Migration. An Economic Analysis, Oxford, Oxford University Press.
+India, Department of Commercial Intelligence and Statistics, 1933, Index Number ofIndian Prices 1860-1931, Delhi.
+Instituto Nacional de Estatistica, Geografia e Informatica (INEGI), 1986, Estadisticas HistGricas de Mexico, Vols. 1 and 2, Mexico.
+Lains, Pedro, 1995, A Economia Portuguesa no S<!culo XIX, Lisbon.
+Lewis, W.A., 1978, Growth and Fluctuations, 1870-1913, London.
+Lipschitz, L and McDonald, D., 1991, "Real Exchange Rates and Competitiveness: A Theoretical and Empirical Assessment," International Monetary Fund, Working Paper No. 91125.
+Llona Rodriguez, A., 1997, "Terms-of-Trade Variability and Adherence to the Gold Standard: The Case of Portugal and Spain," in Marcuzzo, M.C., Officer, L.H. and Rosselli, A. (eds.), Monetary Standards and Exchange Rates, Routledge, New York and London.
+- - - , 2000, "Chile During the Gold Standard: A Successful Paper Money Expeience," in
+Acena, P.M. and Reis, J. (eds.), Monetary Standards in the Periphery: Paper, Silver and Gold, 1854-1933, Macmillan, London.
+Maddison, A., 1982, Phases ofCapitalist Development, Oxford.
+- - - , 1991, Dynamic Forces in Capitalist Development, Oxford.
+
+
+- 35 
+Mata, E. and N. Valerio, 1996, "Monetary Stability, Fiscal Discipline and Economic Performance-The Experience of Portugal since 1854," in J. Braga de Macedo,
+B. Eichengreen and J. Reis, Currency Convertibility. The Gold Standard and Beyond, Routledge, London and New York.
+Meissner, C. M. 2002. 'A New World Order: Explaining the Emergence of the Classical Gold Standard', NBER Working Paper No. 9233
+Mitchell, B.R., 1981, European Historical Statistics. 2nd edition. London.
+---.,1982, International Historical Statistics: Asia and Africa. London.
+- - - . , 1983, International Historical Statistics: The Americas and Australasia. London.
+- - - . , 1988, British Historical Statistics. Cambridge.
+Moggridge, D., 1987, "Problems in the History of the International Economy Since 1870: The Gold Standard," Department ofEconomics, University of Toronto, unpublished manuscript.
+Nickell, Stephen, 1981, "Biases in Dynamic Models with Fixed Effects," Econometrica, No. 49, pp. 1399-416.
+O'Connell, Paul G., 1998, "The Overvaluation of Purchasing Power Parity," Journal of International EconomiCS, No. 44, pp. 1-19.
+Perkins, E.J., 1978, "Foreign Interest Rates in American Financial Markets: A Revised Series of Dollar-Sterling Exchange Rates, 1835-1900," Journal ofEconomic History, No.2, XXXVIII, pp. 392-418.
+Pesaran, M.H. and Smith, R.P., 1995, "Estimating Long-Run Relationships From Dynamic Heterogenous Panels," Journal ofEconometrics, 68, pp. 79-113.
+- - - . , Yongsheol Shin, and Ron P. Smith, 1999, "Pooled Mean Group Estimation of Dynamic Heterogeneous Panels," Journal ofthe American Statistical Association, Vol. 94, pp. 621-33.
+Prados de la Escosura, Leandro, 1988, De Imperio a Nacion. Crescimiento y Atraso Economico en Espana (1780--1930), Madrid.
+Reis, J., 2000, "The Gold Standard in Portugal, 1854-91," in Acena, P.M. and Reis, 1. (eds.), Monetary Standards in the Periphery. Paper, Silver and Gold, 1854-1933, Macmillan, London.
+
+
+- 36
+Reinhart, C. and Kenneth Rogoff, 2002, "The Modern History of Exchange Rate Arrangements: A Reinterpretation," International Monetary Fund, unpublished, May,
+Rogoff, Kenneth, 1996, "The Purchasing Power Parity Puzzle," Journal ofEconomic Literature, 34, 647-68.
+Sawyers, R. S., 1976, The Bank ofEngland, 1891-1944, Cambridge University Press, Cambridge.
+Sevestre, Patrick and Allain Trognon, 1996, "Dynamic Linear Models," in The Econometrics of Panel Data, edited by Matayils, L. and P. Sevestre, Dodretcht.
+Shimazaki, M. and Solomou, S., 2001, "Effective Exchange Rates in Japan 1879-1913", Japan and the World Economy, 13, pp. 161-77.
+Shinjo, H., 1962, History ofthe Yen, Research Institute for Economics and Business Administration, Kobe University.
+Solomou, S.N., 1998, Economic Cycles. Long Cycles and Business Cycles since 1870, Manchester.
+---and Catao, L.AV., 2000, "Effective Exchange Rates 1879-1913," European Review of Economic History, 4, pp. 361-82.
+Sommariva, A and Tullio, G., 1987, "A note on the Real Exchange Rate, Differential Productivity Growth and Protectionism in Gold Standard Germany", Weltwirtschaftliches Archiv, 2 123, pp. 354-62.
+Tattara, G., 2000, "Was Italy Ever on Gold?," in Acena, P.M. and Reis, J. (eds.),Monetary Standards in the Periphery. Paper, Silver and Gold, 1854-1933, Macmillan, London.
+- - - and Volpe, M., 1997, "Italy, The Fiscal-Dominance Model, and The Gold-Standard Age," in Marcuzzo, M.C., Officer, L.H. and Rosselli, A (eds.), Monetary Standards and Exchange Rates, Routledge, New York and London.
+Taylor, A, 2002, "A Century of Purchasing Power Parity", Review ofEconomics and Statistics, 84, pp.139-50.
+Thomas, B., 1973, Migration and Economic Growth, Cambridge.
+Trinner, G., 200 I, "International Capital and the Brazilian Encilharnento, 1889-1891: An Early Example of Contagion Among Emerging Markets?", Rutgers University, Department of History, mimeo.
+Wilson, R., 1933, "Australian Exchange on London," Economic Record, Vol. VII, pp. 121-125.

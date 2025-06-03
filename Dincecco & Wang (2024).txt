@@ -1,0 +1,494 @@
+The Oxford Handbook of Historical Political Economy
+Je ery A. Jenkins (ed.), Jared Rubin (ed.)
+https://doi.org/10.1093/oxfordhb/9780197618608.001.0001
+Published: 2022 Online ISBN: 9780197618639 Print ISBN: 9780197618608
+CHAPTER
+https://doi.org/10.1093/oxfordhb/9780197618608.013.13 Pages C13.P1–C13.N8
+Published: 20 October 2022
+Abstract
+Keywords: political order, public goods, economic development, state-society relations, pluralism,
+despotism, history
+Subject: Political Economy, Political Institutions, Politics
+Series: Oxford Handbooks
+State Capacity in Historical Political Economy 
+Mark Dincecco, Yuhua Wang
+This chapter evaluates state capacity from a long-run historical perspective. We discuss how to de ne
+and measure state capacity. We explain how the establishment of a high-capacity state can enhance
+domestic peace, improve material prosperity, and promote more pluralistic norms. We describe which
+factors have obstructed the historical development of high-capacity states. Finally, we characterize
+ways in which society can harness the various public goods that a capable state can provide, while
+reducing its potential to act despotically.
+The study of the state is both central to the social sciences and of great practical importance. From
+Afghanistan to the Democratic Republic of the Congo to the Northern Triangle (El Salvador, Guatemala, and
+Honduras), states across many parts of the world today struggle to carry out core governance tasks.
+Historically, the establishment of modern states in western Europe was an arduous and protracted process.
+We cannot take well-functioning states for granted.
+This chapter examines state capacity from a long-run historical perspective. We rst discuss how to de ne
+and measure state capacity. We then consider how society can create order even in the absence of a state,
+along with the economic and social costs that these types of arrangements can bring. We explain how the
+establishment of a high-capacity state can overcome such costs and enhance domestic peace, raise material
+prosperity, and promote more pluralistic norms. —We show stylized evidence in support of the view that
+greater state capacity improves development outcomes. If having a capable state is bene cial, then why
+don’t all societies establish one? We address this question next. Further, we describe how a high-capacity
+state can also act despotically. We characterize di erent ways in which society can harness the various
+public goods that a capable state can provide, while mitigating its potential for despotism. The chapter
+concludes by re ecting on lessons from history.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Definitions and Measurements
+To de ne state capacity, we must rst clarify what we mean by the state. Weber’s (1946, 78) classic
+de nition is, “[A] state is a human community that (successfully) claims the monopoly of the legitimate use
+of physical force within a given territory.” The historical process of state development was challenging and
+drawn out (Dincecco 2011; O’Brien 2011; Ho man 2015). Further, a lack of adequate state capacity continues
+to stymie developing nations today (Besley and Persson 2011; 2013). Thus, Weber’s classic de nition is best
+viewed as a (somewhat idealized) endpoint of the state development process, rather than a starting point
+for historical analysis.
+Our preferred de nition of the state instead draws on Bates (2020), due to its historical relevance and
+tractability. We conceive of “the state” as a political hierarchy that contains tax collectors to gather
+revenue, a police force and military to help provide security, and a judiciary to administer legal justice. A
+chief executive (i.e. “the ruler”) presides over this political entity, in conjunction with a noble or
+parliamentary council.
+With this de nition of the state in hand, we can now characterize what we mean by state capacity. Following
+Mann (1986), we de ne “state capacity” as the state’s ability to attain its intended policy goals, whether
+they be economic, scal, or otherwise. A state with high capacity is thus more likely to produce the policy
+outcomes that the government wants than one with low capacity (Brambor, Goenaga, Lindvall, and Teorell
+2020). The basic reason is that a high-capacity state has access to greater scal and informational resources
+that it can exploit to achieve its policy aims.1
+A state does not always exploit its full capacity for action. In this respect, state capacity is a latent feature
+that we do not directly observe (Hanson and Sigman 2021). Scholars can nevertheless employ a range of
+visible indicators from which historical levels of state capacity can be inferred. These include measures of
+the state’s ability to extract scal resources and information from society, as well as the extent of the state’s
+administrative infrastructure. We now discuss each of these types of indicators.
+Fiscal strength is integral to state capacity. As Levi (1988, 2) writes, “One major limitation on rule is
+revenue, the income of the government. The greater the revenue of the state, the more possible it is to
+extend rule.” Further, data on historical budgets are often more widely available than alternative types of
+data. For example, Dincecco (2011) constructs annual scal data on revenue, expenditure, and sovereign
+credit risk for major states in western Europe from the early-modern era to the start of World War I, while
+Karaman and Pamuk (2013) produce complementary revenue data that extend back to the year 1500. Wang
+(2022a) gathers scal data for imperial China from the dawn of the rst millennium (1 CE) to the fall of the
+Qing dynasty in 1911. Beramendi, Dincecco, and Rogers (2019) compile annual scal capacity data for more
+than thirty nations globally since 1870, while Lee and Paine (2022) amass revenue data that include at least
+one yearly observation from the nineteenth century for more than forty non-Western states. Albers, Jerven,
+and Suesse (2020) put together annual tax data for Africa that spans forty-six states since 1900.
+There is a modern policy debate over the government’s ability versus its willingness to engage in revenue
+extraction (Alesina, Glaeser, and Sacerdote 2001). This debate implicitly assumes adequate scal capacity.
+This assumption, however, does not make much sense for historical analysis, as most governments lacked
+such capacity (see, e.g., Dincecco 2011).2
+Revenue collection, military conscription, and the prevention of popular rebellion all require accurate
+information about a polity’s population and territory. Lee and Zhang (2017), for example, produce annual
+data on the “legibility” (Scott 1998) of society by state administrators that measure the accuracy of age data
+in national censuses for a global sample since 1960, while Brambor, Goenaga, Lindvall, and Teorell (2020)
+construct an annual cross-national index of the “information capacity” of states from 1789 onward. This
+index makes use of ve practices that state administrators employ to gather and process information about
+society: introduction of a census, introduction of civil registers, introduction of population registers,
+establishment of a statistical agency, and publication of statistical yearbooks.
+In addition to scal and information capacity, scholars have measured historical state capacity in terms of
+the extent of the state’s administrative infrastructure across space. To evaluate the local reach of the federal
+government in the nineteenth-century United States, for example, Acemoglu, Moscona, and Robinson
+(2016) construct data on the number of post o ces in each county. Similarly, Rogowski, Gerring, Maguire,
+and Cojocaru (2021) produce annual data on the global spread of postal services since 1875. Acemoglu,
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Garcia-Jimeno, and Robinson (2015) assess the local presence of the colonial state in Colombia in terms of
+the number of royal employees and agencies and the distance to the nearest royal road, while Lee (2019)
+collects data on the local presence of village o cials in colonial India. Lu, Luan, and Sng (2020) measure
+di erences in state capacity across mid-twentieth-century Sichuan (China) in terms of the number of
+members of the communist party.
+To gain an accurate picture of a state’s overall capacity, it might be ideal to incorporate capacity measures
+across major government agencies (Fukuyama 2013). This can be di cult in practice, however, particularly
+when attempting to measure state capacity historically. Fortunately, the scal, informational, and
+administrative indicators described earlier should be highly correlated (Hanson and Sigman 2021, 1503).
+Thus, exploiting any one of them will likely provide a meaningful proxy of state capacity overall.3
+Why Society May Want a Capable State
+The classic thinker Thomas Hobbes (1651) argued that chaos and destruction were the only outcomes in a
+society in which the state was absent. Recently, scholars including Bates, Greif, and Singh (2002), Greif
+(2006a), Bates (2010; 2020), Boix (2015), and Acemoglu and Robinson (2019) have explained how society
+can create order even without a state.
+Threats of retaliation are the rst factor that helps society avoid outbreaks of violence in the absence of
+third-party enforcement by the state (Bates 2010; 2020). To deter criminal activity from taking hold,
+individuals must starkly convey their willingness to ght—for example, by publicly bearing weapons.
+Gluckman (1955) labels this phenomenon “peace in the feud.”
+Beliefs facilitate order in the no-state context (Axelrod 1986; Ellickson 1991). Individuals may adhere to a
+code of honor that requires them to take revenge for any criminal o enses. Further, individuals may believe
+in witchcraft, whereby ill health and bad luck befall those who do not seek revenge. The purpose of both
+types of beliefs is to raise the cost of potential criminal activity and thus prevent its outbreak in the rst
+place.
+Cross-cutting ties including marriage outside of clans and dispersed residence are the second factor that
+helps society maintain order in the state’s absence (Gluckman 1955; Henrich 2020; Wang 2022a). For
+example, if female members of clan 1 are the wives of members of clan 2, then they can lobby to prevent a
+cycle of violence from taking hold, even after an initial outbreak of violence between the two clans.
+Similarly, if members of clan 1 live in di erent villages, then that can reduce the chance of collective
+retaliation (or predation) by them. Further, if they live among members of clan 2 in the same village, then
+that can promote quick settlements, as lasting disputes will impede village life.
+While such arrangements can help society avoid outbreaks of violence in the state’s absence, they carry high
+costs (Bates 2010; 2020). The logic of revenge promotes a hair-trigger society. To provide order, individuals
+must publicly bear arms and imply their willingness to use them. Given the importance of honor codes, any
+initial violence can deteriorate into a never-ending cycle. Grosjean (2014), for example, shows that a
+traditional culture of honor helps explain the high historical homicide rates of Whites in the US South.
+More generally, Pinker (2011, 51–53) nds that the average annual death rate in societies that lacked states
+was more than 500 per 100,000 individuals. For comparison, the average annual homicide rate in the United
+States during the turbulent 1970s and 1980s was approximately 10 per 100,000 (i.e., more than fty times
+lower).
+4
+Poverty is one negative outcome that derives from the hair-trigger logic of society in the absence of a state
+(Bates 2010; 2020; Boix 2015). To reduce the incentive of individuals to engage in criminal activity, which
+can devolve into a cycle of violence, members of society may opt to limit material consumption and
+production. Further, technological innovations that do not lend themselves to widespread replication may
+falter in an attempt to prevent resourceful individuals from achieving material success—which can make
+others envious and thus threaten thefragile peace (Boix 2015).
+Another negative outcome is what Acemoglu and Robinson (2019) term the “cage of norms.” “Norms” refer
+to the standards of proper and expected behavior in society, which help create a common understanding of
+morality and justice. In the state’s absence, society must rely wholly on norms both for preventing and
+resolving con icts. While norms are key to order and stability in the state’s absence, they can create an
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+illiberal “cage” that restricts personal freedoms and perpetuates unequal power relations, often subjugating
+women (Acemoglu and Robinson 2019).
+State Capacity and Development
+The preceding discussion indicates that, contra Hobbes’s classic argument, order can in fact be achieved in a
+society in which the state is absent. However, it comes at a high cost in terms of the lack of incentives to
+make investments in physical and human capital, as well as illiberal norms. Thus, society might want to
+establish a state in an attempt to better ensure domestic peace, improve material prosperity, and promote
+more pluralistic norms. Further, society will likely want this state to have a high-enough capacity to reach
+its intended development goals.
+5
+The most basic way in which a capable state can enhance development outcomes is by providing what North
+(1981) calls the “rules of the game”: law and order, private property rights, and external defense. The state’s
+provision of these sorts of public goods speaks directly to the fundamental problems of criminal activity and
+violence in society as described in the previous section. By reducing the chance of expropriation by rival
+individuals or kin groups, the state’s establishment and enforcement of the rules of the game can
+incentivize individuals to make investments in physical capital, education, and technological innovations
+that promote development.
+A high-capacity state may support development in several ways besides the rules of the game (Dincecco
+2017). One way is to provide a competitive market for the exchange of goods and services. For example, the
+elimination of internal customs borders within a polity can promote market exchange by reducing time
+holdups at border frontiers (Epstein 2000). Providing transportation infrastructure (e.g., roads, bridges,
+railways, and airports) and communications networks (e.g., postal service and internet connectivity) is
+another way to support development. This infrastructure can reduce the costs of products as well as
+commuting costs, and can facilitate the spread of new ideas that spark technological innovations and
+change belief systems. A further way is through mass education. Greater human capital can improve
+productivity, make technological innovations more likely, and expose individuals to new ways of thinking.
+Selective incentives for individuals (Olson 1965) and monitoring of society (Scott 1998), both of which can
+help social groups overcome collective action problems, are two additional approaches to encouraging
+development.
+The stylized evidence is consistent with the view that a capable state may improve development outcomes.
+Taking a historical perspective, Figure 1 shows evidence for a strong positive correlation between the state’s
+ability to extract revenue—a basic measure of scal capacity for which historical data are available—and
+economic performance in western Europe from the early-modern era to the start of World War I. Figure 2
+depicts a similar pattern in the modern data. To measure the scal capacity of the modern state, we use the
+share of income tax revenue in total tax revenue, as the collection of an income tax calls for high
+administrative capacity to ensure compliance (Besley and Persson 2013). The modern state’s information
+capacity is another way to gauge state capacity (Lee and Zhang 2017; Brambor, Goenaga, Lindvall, and
+Teorell 2020). Figure 3 plots an index of information capacity averaged between 1789 and 2000 against
+economic performance today. We observe a strong positive correlation between the two variables.
+While the stylized evidence supports the view that high state capacity enhances development outcomes, we
+do not want to mistake correlation with causation, as the correct causal logic may run in the opposite
+direction. Fortunately, a growing body of literature spanning multiple geographical and temporal contexts
+provides causal (or causal-like) evidence for a signi cant positive relationship running from higher state
+capacity to greater development.6
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Figure 1:
+Fiscal Capacity and Development in Western Europe, 1650–1913
+Notes: Average log real per capita GDP is in 1990 international Geary-Khamis dollars. All data are averaged over 1650–1913. For sources, see Dincecco (2017, 54).
+Figure 2:
+Fiscal Capacity and Development Today
+Notes: Log real per capita GDP is in constant 2011 national prices (in millions of 2011 US dollars). Income tax share is the ratio of income tax revenue to total tax revenue. All data are averaged over 2000–2009. Nations with populations of less than one million in 2000 are excluded. For sources, see Dincecco (2017, 5).
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Figure 3:
+Information Capacity and Development Today
+Notes: Log real per capita GDP is in constant 2011 national prices (in millions of 2011 US dollars). The GDP data are averaged over 2000–2009. Information capacity is an aggregate index of information capacity computed via a hybrid two-parameter and graded-item response model according to five component indicators: an index of the stateʼs census ability, an index of the stateʼs statistical yearbook ability, whether there was a civil register in place, whether there was a population register in place, and whether there was a statistical agency in place. The information capacity data are averaged over 1789–2000. Nations with populations of less than one million in 2000 are excluded. For sources, see Brambor, Goenaga, Lindvall, and Teorell (2020) for the information capacity data and Feenstra, Inklaar, and Timmer (2015) for the GDP data.
+Why State Capacity Might Fall Short
+The preceding discussion suggests that having a high-capacity state is bene cial, as it has the potential to
+enhance domestic peace, improve material prosperity, and promote more pluralistic norms. Why, then,
+don’t all societies establish capable states?
+Western Europe is the birthplace of the modern state. However, the historical record indicates that the state
+development process there was arduous and drawn out over several hundred years (Dincecco 2011; O’Brien
+2011; Ho man 2015). There are arguably several reasons for this, including problems of geographic scale in
+governance (Stasavage 2011), resistance by traditional elites to centralizing reforms (Dincecco 2011), and
+economic underdevelopment (Abramson 2017).
+A variety of factors have obstructed the historical development of high-capacity states in the non-European
+parts of the world. In imperial China, the localization of social networks turned elites away from the central
+state, producing a powerful opposition interest group (Wang 2022a). In early-twentieth-century India,
+high-caste elites preemptively weakened the state’s ability to tax, since they feared that the extension of
+voting rights to the lower castes would increase the demand for public goods and thus place a higher tax
+burden on them (Suryanarayan 2021). The sultan in the Ottoman Empire exploited a divide-and-rule
+strategy that pitted di erent elite groups against one another, hindering the ability of elites to act
+collectively (Barkey 1994). In sub-Saharan Africa, central governments have long faced the challenge of
+extending authority over broad swaths of territory, due both to di cult geography and low population
+density (Herbst 2000). Vested elites in Latin America thwarted reform e orts by central governments to
+project greater power (Soifer 2015; Gar as 2018). Rulers themselves have often had weak incentives to
+increase state capacity, due both to the historical availability of international nance and an emphasis on
+trade exports of raw materials (Centeno 2002; Queralt 2019; Mazzuca 2021).
+Further, European colonization has played a signi cant role in impeding the development of high-capacity
+states. In Africa, the Middle East, and elsewhere, European colonizers established arti cial borders that did
+not match well with group identi cations at the ground level (Alesina, Easterly, and Matuszeski 2011;
+Michalopoulos and Papaioannou 2016). This action limited the radius of identi cation to fellow kin
+members or home villages (or regions), making it more di cult to reach consensus on providing national
+public goods. Arbitrary ethnic partitioning by European colonizers across di erent nations, moreover, has
+signi cantly increased political violence (Michalopoulos and Papaioannou 2016).
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+A related factor was patronage appointments by colonial governments, which reduced the incentives of
+bureaucrats to practice good governance. Xu (2018) shows that patronage governors in the British colonial
+administration were associated with signi cantly lower scal investments and greater political turmoil.
+Nations that experienced patronage governance during the colonial era, moreover, continue to have
+signi cantly lower scal capacity today (Xu 2019).
+Beyond patronage, European colonization has in uenced the bureaucratic capacity of modern states in
+other ways. For example, the French retained and enhanced the existing state bureaucracy in Tunisia by
+incorporating local elites (Anderson 2014). This helped promote a relatively strong postindependence
+Tunisian state. By contrast, the Italians replaced the existing state bureaucracy in Libya with one that
+excluded locals (Anderson 2014). Following independence, traditional kin groups captured key government
+roles, weakening the Libyan state’s e cacy.
+Finally, it appears di cult to establish a high-capacity state through brute force only. Even with the
+support of the US military, the Afghan state was generally unable to ful ll key governance functions outside
+the capital of Kabul during the rst two decades of the 2000s (Berman 2010). Henn, Mugaruka, Ortiz,
+Sanchez de la Sierra, and Wu (2021) provide evidence that a major military attempt by the state to establish
+a monopoly over violence in an area of the Democratic Republic of the Congo that was under the control of
+armed nonstate actors not only exacerbated violence against citizens but also created a power vacuum in
+another nearby area.
+The Dark Side of a Capable State
+Thus far, we have focused on the bene ts that derive from a capable state (so long as one can be
+established), including the potential for greater order and stability, material progress, and support for more
+pluralistic belief systems. By virtue of the same authority from which such bene ts can ow, however, a
+high-capacity state can also act despotically (Acemoglu and Robinson 2019). It can ignore, repress, or
+predate on society, or at least on certain parts of it. Obviously, states themselves can propagate illiberal
+belief systems. Further, states—and nondemocratic regimes in particular—can use mass education to instill
+norms of obedience and respect for authority that help sustain the status quo structure of society (Paglayan
+2022).
+Scott (2009) argues that states have historically been unfree. To meet state-organized (or state-sanctioned)
+agricultural goals, “civilization” has meant subordination, drudgery, and immobility for many (e.g., the
+mita in colonial Latin America; slavery in the antebellum US South). Bentzen, Kaarsen, and Wingender
+(2017) show that societies in which states organized large-scale irrigation were more economically unequal
+in history and remain more autocratic today.
+Scott (2009) heralds what he terms “barbarians by design”: individuals who developed speci c political,
+cultural, and economic organizations to ward o incorporation by the state. Such individuals live in remote
+areas (e.g., hills, deserts, and swamps) over which it is di cult for the state to establish authority. Nunn and
+Puga (2012), for example, show that, while rugged terrain is generally an economic disadvantage (e.g.,
+because of high transportation costs), in Africa ruggedness is associated with signi cantly better economic
+outcomes, which they argue is because rugged terrain enabled individuals to escape the devastating e ects
+of the (state-sanctioned) historical slave trades.
+Davenport (2007) focuses on the ways in which state actors (e.g., the executive, the police, the military) can
+repress individuals in society, including violations of one’s personal security; rights to free speech, travel,
+assembly, and boycott; and due process of the law. Davenport (2007) identi es an empirical “law of coercive
+responsiveness” by which states generally respond to challenges to the status quo with repressive actions.
+How to Constrain the State
+On one hand, a high-capacity state can enhance domestic peace, improve material prosperity, and promote
+more pluralistic norms. On the other hand, such a state can act despotically. How, then, to harness the
+various public goods that a capable state can provide, while mitigating its potential to act despotically?
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+First, any state led by a ruler with a long-enough time horizon—what Olson (1993) calls a “stationary
+bandit”—should have an incentive to provide (at least a modicum of) order and limit the overall taxation of
+and violence against subjects, and to enjoy continual revenue ows (e.g., from agricultural production). For
+their part, subjects may appreciate the order that the ruler imposes as it precludes theft by other “roving”
+bandits. Haber (2008), however, casts doubt on the historical and theoretical relevance of stationary
+bandits.
+Beyond this basic level of constraint that stationary banditry might provide to society, scholars including
+North and Weingast (1989) and Cox (2016) have emphasized the importance of parliamentary supremacy
+over the ruler, in particular with respect to budgetary matters. According to this view, parliament must have
+a governance role that is both permanent and independent of the executive. Further, parliament must
+possess the de jure and de facto abilities to oversee the state’s budget. This includes authority over taxation
+and the right to veto new spending and audit previous expenditures. By improving the state’s ability to
+productively use public funds, parliamentary supremacy should enhance revenue collection (Bates and Lien
+1985; Levi 1988; Besley and Persson 2011).
+7
+Acemoglu and Robinson (2019; 2022) conceive of a dynamic process—what they term the “red queen
+e ect”—in which society’s ability to organize collectively and make its demands heard must strengthen in
+response to increases in the state’s ability to enforce the rules of the game, manage the economy, and make
+war. In addition to political innovations such as parliamentary supremacy as described earlier, Acemoglu
+and Robinson highlight the importance of speci c cultural arrangements that support popular sovereignty
+—namely, the cultural notion that society delegates power to the ruler on the understanding that the ruler’s
+actions must align with their policy preferences.
+Is parliamentary supremacy necessary to constrain the executive in a high-capacity state? Besley and
+Kudamatsu (2008) argue that, in the absence of parliamentary authority, government accountability
+depends on the ability of political insiders—what Bueno de Mesquita, Smith, Siverson, and Morrow (2003)
+call the “selectorate”—to remove executives that perform poorly. In Besley and Kudamatsu’s view,
+government accountability can take place so long as the selectorate’s political power does not derive wholly
+from the current executive’s power while in o ce. Besley and Kudamatsu claim that the Politburo in China
+(i.e., the group of twenty- ve that oversees the communist party), for example, has been relatively e ective
+at replacing poor leaders with competent ones over the last several decades.
+Apart from voice, societal actors can threaten what Hirschman (1970) terms “exit” in order to constrain
+rulers. Wang (2015) argues that authoritarian leaders limit predatory actions when they need cooperation
+from organized business groups that, while not politically connected, remain in control of valuable mobile
+assets. Foreign business investors in China, for example, have leveraged exit threats to pressure the
+government to (partially) commit to the rule of law, thereby providing a more level economic playing eld.
+Conclusion
+In the Federalist Papers, James Madison portrayed the basic challenge of governance as follows: “In framing
+a government which is to be administered by men over men, the great di culty lies in this: you must rst
+enable the government to control the governed; and in the next place oblige it to control itself” (Hamilton,
+Madison, and Jay 1788 [2008], 257).
+Like Madison, we view high state capacity and meaningful constraints on rulers as integral—and
+intertwined—components of a well-functioning state. A historical perspective reveals that Madison’s
+governance challenge will only be met if the ruler, elites, and ordinary citizens all nd it in their best
+interests to support a capable state that simultaneously adheres to rules (de jure, de facto, or both) that
+limit the government’s predatory might. To be achieved, therefore, a strong yet constrained state must
+constitute an equilibrium for all the main political actors.
+Our traditional understanding of how the state increases its capacity draws from the historical experience of
+western Europe.Yet a growing literature investigates the development of state capacity beyond this
+traditional case. This newer literature analyzes alternative patterns of state development on their own
+terms. Many developing nations have not established rule based on society’s consent and are still governed
+by authoritarian leaders. The odds may be against the emergence of European-style nation-states in such
+8
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+places. We view the study of alternative paths of the development of state capacity as a promising avenue for
+additional research.
+Acknowledgments
+We thank Je ery Jenkins, Jared Rubin, and Jan Vogler for helpful comments.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+References
+Abramson, S. 2017. “The Economic Origins of the Territorial State.” International Organization 71: 97–130. Google Scholar WorldCat
+Acemoglu, D., D. Cantoni, S. Johnson, and J. Robinson. 2011. “The Consequences of Radical Reform: The French Revolution.” American Economic Review 101: 3286–3307. Google Scholar WorldCat
+Acemoglu, D., C. García-Jimeno, and J. Robinson. 2015. “State Capacity and Economic Development: A Network Approach.” American Economic Review 105: 2364–2409. Google Scholar WorldCat
+Acemoglu, D., J. Moscona, and J. Robinson. 2016. “State Capacity and American Technology: Evidence from the Nineteenth Century.” American Economic Review: Papers and Proceedings 106: 61–67. Google Scholar WorldCat
+Acemoglu, D., and J. Robinson. 2019. The Narrow Corridor. New York: Penguin. Google Scholar Google Preview WorldCat COPAC
+Acemoglu, D., and J. Robinson. 2022. “Non-Modernization: Power-Culture Trajectories and the Dynamics of Political Institutions.” Annual Review of Political Science 25: 323–339. Google Scholar WorldCat
+Acharya, A., and A. Lee. 2018. “Economic Foundations of the Territorial State System.” American Journal of Political Science 62: 954–966. Google Scholar WorldCat
+Albers, T., M. Jerven, and M. Suesse. 2020. “The Fiscal State in Africa: Evidence from a Century of Growth.” African Economic History Working Paper Series 55.
+Alesina, A., E. Glaeser, and B. Sacerdote. 2001. “Why Doesnʼt the United States Have a European-Style Welfare State?” Brookings Paper on Economics Activity: 187–278.
+Alesina, A., W. Easterly, and J. Matuszeski. 2011. “Artificial States.” Journal of the European Economic Association 9: 246–277. Google Scholar WorldCat
+Anderson, L. 2014. The State and Social Transformation in Tunisia and Libya, 1830–1980. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Axelrod, R. 1986. “An Evolutionary Approach to Norms.” American Political Science Review 80: 1095–1111. Google Scholar WorldCat
+Barkey, K. 1994. Bandits and Bureaucrats. Ithaca, NY: Cornell University Press. Google Scholar Google Preview WorldCat COPAC
+Bates, R. 2010. Prosperity and Violence. New York: Norton. Google Scholar Google Preview WorldCat COPAC
+Bates, R. 2020. The Political Economy of Development. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Bates, R., A. Greif, and S. Singh. 2002. “Organizing Violence.” Journal of Conflict Resolution 46: 599–628. Google Scholar WorldCat
+Bates, R., and D. H. Lien. 1985. “A Note on Taxation, Development, and Representative Government.” Politics & Society 14: 53–70. Google Scholar WorldCat
+Becker, S., A. Ferrara, E. Melander, and L. Pascali. 2020. “Wars, Taxation and Representation: Evidence from Five Centuries of German History.” CEPR Discussion Paper 15601.
+Bentzen, J., N. Kaarsen, and A. Wingender. 2017. “Irrigation and Autocracy.” Journal of the European Economic Association 15: 1
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+53. Google Scholar WorldCat
+Beramendi, P., M. Dincecco, and M. Rogers. 2019. “Intra-Elite Competition and Long-Run Fiscal Development.” Journal of Politics 81: 49–65. Google Scholar WorldCat
+Berman, S. 2010. “From the Sun King to Karzai Lessons for State Building in Afghanistan.” Foreign A airs, March 1.
+Berwick, E., and F. Christia. 2018. “State Capacity Redux: Integrating Classical and Experimental Contributions to an Enduring Debate.” Annual Review of Political Science 21: 71–91. Google Scholar WorldCat
+Besley, T., and M. Kudamatsu. 2008. “Making Autocracy Work.” In Institutions and Economic Performance, ed. E. Helpman, 452510. Cambridge, MA: Harvard University Press. Google Scholar Google Preview WorldCat COPAC
+Besley, T., and T. Persson. 2011. The Pillars of Prosperity. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Besley, T., and T. Persson. 2013. “Taxation and Development.” In Handbook of Public Economics, ed. A. Auerbach, R. Chetty, M. Feldstein, and E. Saez, 51–110. Amsterdam: Elsevier. Google Scholar Google Preview WorldCat COPAC
+Blaydes, L., and C. Paik. 2016. “The Impact of Holy Land Crusades on State Formation: War Mobilization, Trade Integration, and Political Development in Medieval Europe.” International Organization 70: 551–586. Google Scholar WorldCat
+Boix, C. 2015. Political Order and Inequality. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Brambor, T., A. Goenaga, J. Lindvall, and J. Teorell. 2020. “The Lay of the Land: Information Capacity and the Modern State.” Comparative Political Studies 53: 175–213. Google Scholar WorldCat
+Bueno de Mesquita, M., A. Smith, R. Siverson, and J. Morrow. 2003. The Logic of Political Survival. Cambridge, MA: MIT Press. Google Scholar Google Preview WorldCat COPAC
+Carneiro, R. 1970. “A Theory of the Origin of the State.” Science 169(3947): 733–738. Google Scholar WorldCat
+Centeno, M. 2002. Blood and Debt. University Park: Pennsylvania State University Press. Google Scholar Google Preview WorldCat COPAC
+Charnysh, V. 2019. “Diversity, Institutions, and Economic Outcomes: Post-WWII Displacement in Poland.” American Political Science Review 113: 423–441. Google Scholar WorldCat
+Cox, G. 2016. Marketing Sovereign Promises. Cambridge, UK: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Dahl, R. 1961. Who Governs? New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Davenport, C. 2007. “State Repression and Political Order.” Annual Review of Political Science 10: 1–23. Google Scholar WorldCat
+Dell, M., N. Lane, and P. Querubin. 2018. “The Historical State, Local Collective Action, and Economic Development in Vietnam.” Econometrica 86: 2083–2121. Google Scholar WorldCat
+Dincecco, M. 2011. Political Transformations and Public Finances. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Dincecco, M. 2017. State Capacity and Economic Development. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Dincecco, M., and G. Katz. 2016. “State Capacity and Long-Run Economic Performance.” Economic Journal 126: 189–218. Google Scholar WorldCat
+Dincecco M., and M. Onorato. 2017. From Warfare to Wealth. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Dincecco, M., J. Fenske, S. Mukherjee, and A. Menon. 2022. “Pre-Colonial Warfare and Long-Run Development in India.” Economic Journal 132: 981–1010. Google Scholar WorldCat
+Dittmar, J., and R. Meisenzahl. 2020. “Public Goods Institutions, Human Capital, and Growth: Evidence from German History.” Review of Economic Studies 87: 959–996. Google Scholar WorldCat
+Ellickson, R. 1991. Order without Law. Cambridge, MA: Harvard University Press. Google Scholar Google Preview WorldCat COPAC
+Epstein, S. 2000. Freedom and Growth. London: Routledge. Google Scholar Google Preview WorldCat COPAC
+Evans, P., D. Rueschemeyer, and T. Skocpol. 1985. Bringing the State Back In. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Feenstra, R., R. Inklaar, and M. Timmer. 2015. “The Next Generation of the Penn World Table.” American Economic Review 105: 3150–3182. Google Scholar WorldCat
+Fukuyama, F. 2013. “What Is Governance?” Governance 26: 347–368.
+Garfias, F. 2018. “Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico.” American Political Science Review 112: 339–357. Google Scholar WorldCat
+Garfias, F., and E. Sellars. 2022. “State Building in Historical Political Economy.” In Oxford Handbook of Historical Political Economy, ed. J. Jenkins and J. Rubin, forthcoming, Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Gluckman, M. 1955. “The Peace in the Feud.” Past & Present 8: 1–14. Google Scholar WorldCat
+Greif, A. 2006a. Institutions and the Path to the Modern Economy. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Greif, A. 2006b. “Family Structure, Institutions, and Growth: The Origins and Implications of Western Corporations.” American Economic Review: Papers and Proceedings 96: 308–312. Google Scholar WorldCat
+Grosjean, P. 2014. “A History of Violence: The Culture of Honor and Homicide in the US South.” Journal of the European Economic Association 12: 1285–1316. Google Scholar WorldCat
+Grzymala-Busse, A. 2020. “Beyond War and Contracts: The Medieval and Religious Roots of the European State.” Annual Review of Political Science 23: 19–36. Google Scholar WorldCat
+Haber, S. 2008. “Authoritarian Government.” In Oxford Handbook of Political Economy, ed. D. Wittman and B. Weingast, 693–707. Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Hamilton, A., J. Madison, and J. Jay. 1788 [2008]. Federalist Papers. Oxford: Oxford University Press.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Google Scholar Google Preview WorldCat COPAC
+Hanson, J., and R. Sigman. 2021. “Leviathanʼs Latent Dimensions: Measuring State Capacity for Comparative Political Research.” Journal of Politics 83: 1495–1510. Google Scholar WorldCat
+Henn, S., C. Mugaruka, M. Ortiz, R. Sanchez de la Sierra, and D. Wu. 2021. “The Perils of Building States by Force: How Attempts to Assert the Stateʼs Monopoly of Violence Create Lasting Incentives for Violent Banditry.” NBER Working Paper 28631.
+Henrich, J. 2020. The WEIRDest People in the World. New York: Farrar, Straus and Giroux. Google Scholar Google Preview WorldCat COPAC
+Herbst, J. 2000. States and Power in Africa. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Hirschman, A. 1970. Exit, Voice, and Loyalty. Cambridge, MA: Harvard University Press. Google Scholar Google Preview WorldCat COPAC
+Hobbes, T. 1651. Leviathan. Project Gutenberg. https://www.gutenberg.org/files/3207/3207-h/3207-h.htm. Google Scholar Google Preview WorldCat COPAC
+Ho man, P. 2015. “What Do States Do? Politics and Economic History.” Journal of Economic History 75: 303–332. Google Scholar WorldCat
+Hui, V. T. B. 2005. War and State Formation in Ancient China and Early Modern Europe. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Johnson, N., and M. Koyama. 2017. “States and Economic Growth: Capacity and Constraints.” Explorations in Economic History 64: 1–20. Google Scholar WorldCat
+Karaman, K., and Ş. Pamuk. 2013. “Di erent Paths to the Modern State in Europe: The Interaction between Domestic Political Economy and Interstate Competition.” American Political Science Review 107: 603–626. Google Scholar WorldCat
+Koyama, M. 2022. “Legal Capacity in Historical Political Economy.” In Oxford Handbook of Historical Political Economy, ed. J. Jenkins and J. Rubin, forthcoming, Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Lee, A. 2019. “Land, State Capacity, and Colonialism: Evidence from India.” Comparative Political Studies 52: 41–44. Google Scholar WorldCat
+Lee, A., and J. Paine. 2022. “The Great Revenue Divergence.” International Organization, Forthcoming. Google Scholar WorldCat
+Lee, M., and N. Zhang. 2017. “Legibility and the Informational Foundations of State Capacity.” Journal of Politics 79: 118–132. Google Scholar WorldCat
+Levi, M. 1988. Of Rule and Revenue. Berkeley: University of California Press. Google Scholar Google Preview WorldCat COPAC
+Lu, Y., M. Luan, and T. H. Sng. 2020. “Did the Communists Contribute to Chinaʼs Rural Growth?” Explorations in Economic History 75: 101–135. Google Scholar WorldCat
+Mann, M. 1986. “The Autonomous Power of the State: Its Origins, Mechanisms, and Results.” In States in History, ed. J. Hall, 109136. Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Mares, I., and D. Queralt. 2015. “The Non-Democratic Origins of Income Taxation.” Comparative Political Studies 48: 1974–2009. Google Scholar WorldCat
+Mayshar, J., O. Moav, and Z. Neeman. 2017. “Geography, Transparency, and Institutions.” American Political Science Review 111: 622–636.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Google Scholar WorldCat
+Mazzuca, S. 2021. Latecomer State Formation. New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Michalopoulos, S., and E. Papaioannou. 2013. “Pre-Colonial Ethnic Institutions and Contemporary African Development.” Econometrica 81: 113–152.
+Google Scholar WorldCat
+Michalopoulos, S., and E. Papaioannou. 2016. “The Long-Run E ects of the Scramble for Africa.” American Economic Review 106: 1802–1848. Google Scholar WorldCat
+Migdal, J. 1988. Strong Societies and Weak States. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Nisbett, R., and D. Cohen. 1996. Culture of Honor. Boulder, CO: Westview Press. Google Scholar Google Preview WorldCat COPAC
+North, D. 1981. Structure and Change in Economic History. New York: Norton. Google Scholar Google Preview WorldCat COPAC
+North, D., and B. Weingast. 1989. “Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England.” Journal of Economic History 49: 803–832. Google Scholar WorldCat
+Nunn, N., and D. Puga. 2012. “Ruggedness: The Blessing of Bad Geography in Africa.” Review of Economics and Statistics 94: 2036. Google Scholar WorldCat
+OʼBrien, P. 2011. “The Nature and Historical Evolution of an Exceptional Fiscal State and Its Possible Significance for the Precocious Commercialization and Industrialization of the British Economy from Cromwell to Nelson.” Economic History Review 64: 408–446. Google Scholar WorldCat
+Olson, M. 1965. The Logic of Collective Action. Cambridge, MA: Harvard University Press. Google Scholar Google Preview WorldCat COPAC
+Olson, M. 1993. “Dictatorship, Democracy, and Development.” American Political Science Review 87: 567–576. Google Scholar WorldCat
+Paglayan, A. 2022. “Education or Indoctrination? The Violent Origins of Public School Systems in an Era of State-Building.” American Political Science Review, Forthcoming.
+Pinker, S. 2011. The Better Angels of Our Nature. New York: Penguin. Google Scholar Google Preview WorldCat COPAC
+Queralt, D. 2019. “War, International Finance, and Fiscal Capacity in the Long Run.” International Organization 73: 713–753. Google Scholar WorldCat
+Rogowski, J., J. Gerring, M. Maguire, and L. Cojocaru. 2021. “Public Infrastructure and Economic Development: Evidence from Postal Systems.” American Journal of Political Science, Forthcoming. Google Scholar WorldCat
+Sanchez de la Sierra, R. 2020. “On the Origins of the State: Stationary Bandits and Taxation in Eastern Congo.” Journal of Political Economy 128: 32–74. Google Scholar WorldCat
+Scheve, K., and D. Stasavage. 2012. “Democracy, War, and Wealth: Lessons from Two Centuries of Inheritance Taxation.” American Political Science Review 107: 81–102. Google Scholar WorldCat
+Scott, J. 1998. Seeing Like a State. New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Scott, J. 2009. The Art of Not Being Governed. New Haven, CT: Yale University Press. Google Scholar Google Preview WorldCat COPAC
+Skocpol, T., and K. Finegold. 1982. “State Capacity and Economic Intervention in the Early New Deal.” Political Science Quarterly 97: 255–278. Google Scholar WorldCat
+Sng, T. H., and C. Moriguchi. 2014. “Asiaʼs Little Divergence: State Capacity in China and Japan before 1850.” Journal of Economic Growth 19: 439–470. Google Scholar WorldCat
+Soifer, H. 2008. “State Infrastructural Power: Approaches to Conceptualization and Measurement.” Studies in Comparative International Development 43: 231–251. Google Scholar WorldCat
+Soifer, H. 2015. State Building in Latin America. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Stasavage, D. 2003. Public Debt and the Birth of the Democratic State. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Stasavage, D. 2010. “When Distance Mattered: Geographic Scale and the Development of European Representative Assemblies.” American Political Science Review 104: 625–643. Google Scholar WorldCat
+Stasavage, D. 2011. States of Credit. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Suryanarayan, P. 2021. “Status Politics Hollows Out the State: Evidence from Colonial India.” Working Paper. Johns Hopkins University.
+Tilly, C. 1992. Coercion, Capital, and European States, 1990–1992. Malden, MA: Blackwell. Google Scholar Google Preview WorldCat COPAC
+Vogler, J. 2022. “Bureaucracies in Historical Political Economy.” In Oxford Handbook of Historical Political Economy, ed. J. Jenkins and J. Rubin, forthcoming. Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Wang, Y. 2015. Tying the Autocratʼs Hands. Cambridge: Cambridge University Press. Google Scholar Google Preview WorldCat COPAC
+Wang, Y. 2021. “State-in-Society 2.0: Toward Fourth-Generation Theories of the State.” Comparative Politics 54: 175–198. Google Scholar WorldCat
+Wang, Y. 2022a. The Rise and Fall of Imperial China. Princeton, NJ: Princeton University Press. Google Scholar Google Preview WorldCat COPAC
+Wang, Y. 2022b. “Blood Is Thicker Than Water: Elite Kinship Networks and State Building in Imperial China.” American Political Science Review, Forthcoming.
+Weber, M. 1946. Essays in Sociology. Oxford: Oxford University Press. Google Scholar Google Preview WorldCat COPAC
+Xu, G. 2018. “The Costs of Patronage: Evidence from the British Empire.” American Economic Review 108: 3170–3198. Google Scholar WorldCat
+Xu, G. 2019. “The Colonial Origins of Fiscal Capacity: Evidence from Patronage Governors.” Journal of Comparative Economics 47: 263–276. Google Scholar WorldCat
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022
+
+
+Notes
+1 The conceptualization and measurement of state capacity is the main topic of the recent review by Berwick and Christia (2018). For this reason, we limit our discussion of this topic here. Berwick and Christia organize their framework around three types of state capacity: extraction, coordination, and compliance. For complementary discussions of conceptualizations and measurements, see Soifer (2008), Johnson and Koyama (2017), and Hanson and Sigman (2021), as well as the chapters in this handbook by Garfias and Sellars (2022) on state building, Koyama (2022) on legal capacity, and Vogler (2022) on bureaucracy. Wang (2021) traces the evolution of the scholarly study of the state, ranging from the society-centered perspective (e.g., Dahl 1961) to the state-centered perspective (e.g., Evans, Rueschemeyer, and Skocpol 1985) to the state-in-society perspective (e.g., Migdal 1988).
+2 Levi (1988) and Berwick and Christia (2018) discuss the enduring revenue imperatives of rulers.
+3 Obviously, this is not always true. In their study of the di erent economic interventions undertaken by the US government in the 1930s, for example, Skocpol and Finegold (1982) show that a state that has high capacity in one policy realm need not have an equivalent level in another. Scholars should therefore remain cognizant of this challenge when evaluating evidence about historical levels of state capacity.
+4 Nisbett and Cohen (1996) trace this violent culture of honor to the eighteenth-century arrival of settlers from the Scottish Highlands and Ulster, two historically pastoral and lawless zones in North Britain.
+5 Scholars have identified several factors that help explain why and how states form, including geography (Carneiro 1970; Stasavage 2010; Sng and Moriguchi 2014; Mayshar, Moav, and Neeman 2017), interstate war (Tilly 1992; Hui 2005; Scheve and Stasavage 2012; Blaydes and Paik 2016; Dincecco and Onorato 2017; Queralt 2019; Becker, Ferrara, Melander, and Pascali 2020), elite competition (Mares and Queralt 2015; Garfias 2018; Beramendi, Dincecco, and Rogers 2019), information (Lee and Zhang 2017; Sanchez de la Sierra 2020), economic development (Abramson 2017; Acharya and Lee 2018), religion (Grzymala-Busse 2020); kin and social structures (Greif 2006b; Wang 2022b), and cultural diversity (Charnysh 2019). Since state-building is the main topic of the chapter by Franciso Garfias and Emily Sellars in this handbook, we do not discuss it at length here.
+6 For European history, see Acemoglu, Cantoni, Johnson, and Robinson (2011); Dincecco and Katz (2016); Charnysh (2019); and Dittmar and Meisenzahl (2020). For the United States, see Acemoglu, Moscona, and Robinson (2016) and Rogowski, Gerring, Maguire, and Cojocaru (2021). For Latin America, see Acemoglu, Garcia-Jimeno, and Robinson (2015). For Africa, see Michalopoulos and Papaioannou (2013). For China, see Lu, Luan, and Sng (2020). For India, see Lee (2019) and Dincecco, Fenske, Mukherjee, and Menon (2022). For Southeast Asia, see Dell, Lane, and Querubin (2018).
+7 Stasavage (2003) makes the point that exerting (de jure) constraints over the executive must actually be in the political interest of influential groups in parliament.
+8 We have cited several such works in previous sections of this chapter.
+Downloaded from https://academic.oup.com/edited-volume/44005/chapter/378271986 by OUP-Reference Gratis Access user on 12 November 2022

@@ -1,0 +1,305 @@
+Public Choice (2009) 141: 305–317 DOI 10.1007/s11127-009-9453-8
+Clientelism and polarized voting: empirical evidence
+Klarita Gërxhani · Arthur Schram
+Received: 24 October 2008 / Accepted: 4 May 2009 / Published online: 16 May 2009 © The Author(s) 2009. This article is published with open access at Springerlink.com
+Abstract One must take country-specific institutional features into account when analyzing former communist countries’ transformation process to new political institutions. We do so for post-communist Albania, where the regional and cultural polarization that has existed for centuries has evolved to clientelism in the new democracy. We show how clientelistic parties give rise to very particular voting patterns. These reveal major differences across regions not only in party choice but also in voters’ responses to government policies. These responses depend on the party in government and on the region concerned. This is in sharp contrast with results obtained when applying the same model to a large number of more advanced democracies with similar electoral institutions. A proper evaluation of democratization in Albania thus requires looking beyond the formal institutions governing elections and taking clientelism and its effect on voter behavior into account.
+Keywords Polarization · Clientelism · Electoral democracy · Vote functions
+1 Introduction
+Over the past two decades, the political and economic development of former-communist countries has been sensational. For scholars interested in democratic processes, it is a challenge to try to understand the nuances of what is happening. Both political scientists and scholars in the discipline of public choice have contributed substantially to our understanding of the transformation process from communism. From a political science perspective,
+K. Gërxhani Faculty of Social and Behavioural Sciences, Amsterdam Institute for Advanced Labour Studies, Faculty of Economics and Econometrics, and Tinbergen Institute, University of Amsterdam, Oudezijds Achterburgwal 185, 1012 DK Amsterdam, The Netherlands e-mail: k.gerxhani@uva.nl
+A. Schram ( ) Center for Research in Experimental Economics and Political Decision Making (CREED), University of Amsterdam, Roetersstraat 11, 1018 WB Amsterdam, The Netherlands e-mail: Schram@uva.nl
+
+
+306 Public Choice (2009) 141: 305–317
+it is important to realize that the road to democracy implies not only free and legitimate elections but also deeper political participation and government accountability. One conclusion often put forward is that many ‘transitional countries’ are currently functioning in a gray zone between authoritarianism and democracy.1 Public choice scholars tend to focus on specific aspects in the political economic development of these countries (such as changes in the popular vote, certain government policies, or trends in the size of government). This literature provides several applications of standard research methods to a cross section of these countries for general insights or to specific countries as case studies.2 The conclusions in this literature are quite diverse, however, and it is not yet possible to distill general implications from it. In this paper, we use techniques inspired by the public choice tradition to study a question that is central in the political science literature in this area. We focus on the development of one country in particular, to wit, Albania. More specifically, we will study how specific features of Albania’s political institutions interact with voter behavior. Our focus on one country is motivated by the belief that it is important for the understanding of many phenomena in post-communist countries that country-specific institutional features are taken into account (North 1990; Carothers 2002; McFaul 2002). In Albania, one of the features that may be important is an alleged clientelism between parties and voters (Klosi 1997) that runs parallel to a strong polarization in the Albanian society. Here we focus on the consequences of this clientelism and provide an empirical analysis showing that it affects voting behavior in a way that is very unlike the patterns observed in very many developed democracies. For our empirical analysis, we estimate so-called vote functions3 and are able to show that (i) clientelism plays an important role in determining how Albanians vote; (ii) neglecting the existence of the polarization caused by clientelism can bias not only the conclusions drawn from the application of standard techniques, but also the policy implications based on ideal institutional frameworks.
+2 Clientelism in Albanian politics
+Albania has hardly ever had a democratic political system. In about four decades of communist dictatorship it was completely isolated. The political regime was dictatorial and the economic system was completely socialized. In the early 1990s, Albania was the last of the Central and Eastern European countries to allow political pluralism and introduce democratic institutions and market mechanisms. Since the break up of communism, there have been two major parties in Albania: the Democratic Party of Albania (DPA, in office 1992–1997 and since 2005) and the Socialist Party of Albania (SPA, in office 1997–2005). In the three elections considered here, the two parties received 70–80% of the votes cast. The remaining votes were spread over more than 25 parties, with no party receiving a share of more than 5%. The fall of the communist regime in 1992 brought the DPA to power. Until 1997, the political regime was characterized by ‘competitive authoritarianism’ (Levitsky and Way 2002), while the economy appeared to be
+1For examples from political science, see Carothers (2002), Diamond (2002), Levitsky and Way (2002), and Schedler (2002).
+2Fine examples of such research may be found in Shleifer (1997) and Fidrmuc (2000). For similar research from a political science perspective see Kostadinova (2003).
+3As mentioned above, this method is commonly used in the field of Public Choice. For overviews, see Paldam (1991) or Mueller (2003).
+
+
+Public Choice (2009) 141: 305–317 307
+growing reasonably well. However, the economic numbers may be biased and moreover the privatization process was used to increase DPA’s popularity through clientelism (Shala 1997; MPEP 1997; UNDP 2000; Gërxhani 2006). In any case, all that was achieved was demolished in 1997, when a collapse of the ‘Pyramid schemes’ led to complete political and economic chaos (Sadiraj 1999; Bezemer 2001). The SPA won the 1997 elections and remained in government until the DPA regained power in 2005. After a slow start, some democratic progress was achieved reflected in a shift from a competitive authoritarian regime to an electoral democracy.4 At the same time, the economy has been growing at a constant rate but unemployment remains at high levels. In this paper, we focus on the DPA-run years 1992–1997 and the SPA-run years 1997–2001. The post-communist political system in Albania is a parliamentary representation, with a mixed first-past-the-post and proportional voting system.5 The parliament elects the president. The president appoints and discharges the prime minister and the cabinet. Because the parties are structured very hierarchically (Sali Berisha of the DPA has been leading the party since the start of transition and Fatos Nano led the SPA until 2005 and still remains very influential today), political power is heavily concentrated in the hands of a few top politicians of the winning party. When a party wins an election, the leader either becomes president or prime minister himself or appoints someone faithful to him. Moreover, important public officials are replaced by the winner’s protégés. In short, since the start of the transformation process the winner of Albanian elections (either the SPA or the DPA) has virtually obtained unchallenged control over public policy. Most scholars agree that there is an important cultural and linguistic polarization in Albania (e.g., Shala 1997; Haefner 1999; La Cava and Nanetti 2000). This polarization is geographically based, dividing the country into a northern and a southern region. Historically, the polarization of society runs parallel to the existence of two main clans in Albania, to wit the Ghegs (northern-based) and the Tosks (southern-based). Doll (2003) argues that they go back far in history. A regional division was first noticeable in 395 AD, and a clan-based polarization may have started as early as 1081, with the introduction of feudalism by the Normans. This polarization continued during the Ottoman occupation in the 16th century, the turbulent years of Albania’s independence in 1912, the monarchy in the late 1920s, and was still detectable during communism. It has an important influence on various aspects of the Albanian society. Politics are one such aspect, the one we focus on. The two main political parties geographic bases match closely the country’s regional polarization: the democrats (DPA) are culturally and politically closely related to the north and the socialists (SPA) to the south (Klosi 1997; Vickers and Pettifer 1997; Gërxhani and Schram 2000; La Cava and Nanetti 2000). The links between the parties and cultural/regional groups are much stronger than the usual representation of interests observed in most democracies (Vickers and Pettifer 1997; Gërxhani and Schram 2000). The relationships between parties and regional groups have many of the characteristics that would make Lauth (2000) classify the DPA and SPA as “clientelistic parties”. Following Schmidt (1992), Lauth describes clientelism in general as “. . . forms of protective relationship of mutual benefit between a person or persons occupying a higher place in the social hierarchy (patron) and a following concerned with protection and the acquisition of certain advantages (clients)” (p. 27). Lauth classifies different types of clientelism along two dimensions: (i) whether the relationship is based on the social or political system; and (ii) whether
+4Diamond (2002); in particular, see Table 2, where the Freedom House score for Albania in 2001 is 3.4.
+5For more details about the Albanian political system, see ICG (2001).
+
+
+308 Public Choice (2009) 141: 305–317
+political participation takes place directly or indirectly. One of the forms of clientelism with direct participation in the political sphere is dubbed “clientelistic parties” (p. 29). This is characterized by (1) openness in participation (as in free elections); (2) competing patronclient relations (as DPA-northern voters vs. SPA-southern voters); (3) most patrons (i.e., Albanian politicians) coming from the political ‘establishment’ (as in the appointment of key political positions in Albania, as described above).6 The patron-client relationship this categorization yields runs two ways. First, parties will bestow ‘gifts’ upon their clients (i.e., the region they are connected to). An example is the way in which the DPA used the privatization process and numerous appointments to key governmental positions to give political and economic favors to the north. For example, in 1994, the unemployment rates were approximately equal in the north and south. Yet, 35.3% of the population in northern regions received social assistance and only 11.2% in southern districts (Gajo 1999). When the SPA came to power in 1997, the reverse occurred: it appointed most individuals from the south and aimed policies towards this region. Gërxhani and Schram (2000) and Case (2001) provide more evidence on the behavior of the patron side of the clientelism. Here, we focus on the second channel, namely the one running from client-voters to patrons. The main expectation is that when their ‘own’ party is in government, voters will support it no matter what. Because of the numerous ways the party helps them and is expected to keep on helping them, their votes are not affected by specific (e.g., economic) outcomes of these policies. In particular, we formulate the following main hypothesis:
+Hypothesis When the DPA (SPA) is in office, voters in the south (north) react negatively to economic swings, which they attribute to the government. Voters in the north (south) have a strong alliance with the governing DPA (SPA) irrespective of its economic policies. In the central region, which is much less affected by clientelism, voters always evaluate the government by its policies.7
+Note that we focus on economic policies. There are two main reasons to do so. First, economic indicators are generally of a quantitative nature and therefore suitable for formal testing of hypotheses. Second, there is a rich literature (to which we refer in the following section) relating economic outcomes to voter behavior. Focusing on economic policies enables a comparison of our results to this literature which, in turn, allows us to distill the effects of clientelism. To the best of our knowledge we are the first to empirically test the consequences of clientelism in this way. We do so in the following section.
+3 Polarized voting behavior
+For our empirical analysis we consider the results for the Albanian general elections in 1996, 1997 and 2001 and categorize the 35 electoral districts into the regions: northern (11),
+6Lauth (2000, p. 33) also argues that systems with clientelistic parties are often observed in environments where there are also “kinship structures” such as clans. This reinforces the idea that Albania is currently characterized by this kind of clientelism.
+7One might be tempted to conclude from the hypothesis that parties should support the ‘other side’ because that is where votes are to be gained. This would mean a collapse of clientelism, however, in the end leading to a loss of votes in the own region.
+
+
+Public Choice (2009) 141: 305–317 309
+Table 1 Election results for DPA relative to SPA
+1996 1997 2001 Result Unemployment Result Unemployment Result Unemployment
+North 66.2 11.0% 48.0 16.5% 59.5 23.9%
+(8.1) (4.2) (12.6) (8.1) (6.8) (8.6)
+Central 62.3 13.3% 26.2 18.4% 40.3 14.8%
+(12.4) (7.1) (16.1) (11.5) (11.4) (8.4)
+South 48.4 9.2% 17.8 13.7% 35.1 15.3%
+(9.6) (4.3) (7.6) (8.0) (9.0) (6.0) Total 59.1 11.3% 30.4 16.3% 44.7 17.8%
+(12.5) (5.6) (17.7) (9.4) (13.9) (8.6)
+Notes. Standard deviations are in parentheses. ‘Result’: votes for DPA as a percentage of votes for DPA and SPA.
+central (13) and southern (11).8 Table 1 summarizes the election results and reports the unemployment rate per region. Detailed information about the data used is available from the authors. Note the tremendous decrease in the popularity of the DPA between 1996 and 1997. The difference across regions is also remarkable. Independent sample t-tests (with unequal variance) show that pair-wise differences are statistically significant at the 1% level except (northern-central) in 1996, (central-southern) in 1997 and (central-southern) in 2001. Support for the DPA is therefore significantly lower in the south than in the north. This reinforces the notion of political polarization between the north and south with the northern voters supporting the DPA and the southern voters supporting the SPA. In order to show that this polarization is founded on clientelism we investigate the hypothesis presented in the previous section, that the response to economic policies is dependent on the governing party in both regions. To test the hypothesis, we need an indicator of economic policies. In the public choice literature, there are numerous examples where the relationship is studied between economic policies and government popularity.9 Various indicators have been used in these studies. Nannestad and Paldam (1994, p. 216) conclude that the two that consistently affect votes are unemployment and inflation. Unfortunately, data on inflation per district in Albania are not available. Moreover, the Phillips curve relates the unemployment rate to inflation. For this reason, some authors choose to exclude inflation from the analysis even if they have the data available. Therefore, we focus on the unemployment rate as a key indicator of government policy.10 Next, we need to describe how a government’s policies (i.e., unemployment) affect its support in elections. To do so, we model the way in which voters determine their choices at an election. The model distinguishes between three types of voters, to wit, clients of the DPA
+8Unfortunately, we have not been able to obtain the economic data needed to do the same analysis for the 2005 elections.
+9For an overview, see Nannestad and Paldam (1994) or Mueller (2003).
+10Fidrmuc (2000) concludes that unemployment is the most acute consequence of economic transition from communism. In addition, Bell (1997) concludes for Poland that unemployment constitutes the most important economic variable for explaining voting patterns. Therefore, we believe that our restriction to unemployment rates as an economic indicator used to evaluate government policies will not seriously bias our results.
+
+
+310 Public Choice (2009) 141: 305–317
+clients of the SPA and non-clients. For the reasons discussed above, we assume that there are no SPA-clients in the north and no DPA clients in the south. In principle, non-clients may live in any part of the country, and there may be SPA as well as DPA clients in the central regions of Albania. To enable the development of an empirically tractable model, we now assume that the number of non-clients in the north and south is negligible compared to the number of clients and that the reverse holds in the center of the country.11 Then, we consider voting behavior in Albania’s 35 voting districts (denoted by i). Each district uniquely lies in one of the three regions r ∈ {north, central, south}. Now define by U il
+g the utility that a voter l in voting district i attributes to government party g ∈ {DPA, SPA}. Similarly, U il
+o denotes the utility that this voter attributes to opposition
+party o ∈ {DPA, SPA}, o = g.12 The utility attributed to the governing and opposition parties is given in (1):
+U il
+g = αrg + βr Drg(Uni − Un∗) + εl
+g,
+U il
+o = αro + εl
+o
+(1)
+where Uni denotes the unemployment level in district i and Un∗ some (unknown) target unemployment that voters compare actual unemployment to. Note that each voter l uniquely lives in some district i. Following the discussion above, the government party is evaluated with respect to the unemployment rate in the district in which the voter lives, whereas the opposition is not. In (1), αrg, αro and βr are unknown parameters, with αrg, αro ≥ 0, describing predispositions that are common to voters of the same type and region and βr (<0) a parameter common to all voters within r that describes how voters respond to unemployment. The error terms εl
+g and εl
+o are assumed to be i.i.d. The term Drg is a dummy variable determining the extent to which a government’s economic policy (with respect to unemployment) enters the voters’ utility functions. This is determined by our assumptions on the behavior of clients. More specifically:
+Dn,g=DPA = Ds,g=SPA = 0;
+Dn,g=SPA = Ds,g=DPA = 1; (2)
+Dc,g=SPA = Dc,g=DPA = 1
+where n = “north”; c = “central”; s = “south”.13 These equations reflect the assumptions that clients do not consider unemployment caused by a government of their patron relevant for their vote (first row), but do hold the government of the other party accountable (second row). The non-clients in the central region hold both parties accountable for unemployment, when in government (third row). Next, consider the predispositions αrg and αro. The assumptions that voters in the north (south) are clients of the DPA (SPA) (and therefore have a positive allegiance to the DPA
+11With data on the fraction of clients in various parts of the country, we would be able to estimate a model where different voter types exist in each part. Obviously, these data do not exist. But the idea that there are mostly clients in the north and south and mostly non-clients in central regions seems a good approximation. The validity of this assumption is supported by our empirical results.
+12For ease of presentation, we start by considering one election only and dropping the time index t .
+13As a slight abuse of notation, we use ‘g = DPA’ and ‘o = SPA’ to indicate which party is in government and opposition, respectively.
+
+
+Public Choice (2009) 141: 305–317 311
+(SPA) irrespective of whether or not this party is in government) and that voters in the center have no predispositions imply:
+αn,g=DPA = αn,o=DPA > 0; αs,g=SPA = αs,o=SPA > 0; αc,g = αc,o = 0. (3)
+A voter will vote for the government party if the utility attributed to g exceeds that of opposition party o. Using (1) this gives for the probability that voter l will vote for g, pl
+g:
+pl
+g = Pr {U il
+g > Uil
+o
+} = Pr{αrg + βr Drg
+(Uni − Un∗) + εl
+g > αro + εl
+o
+}
+= Pr {εl
+o − εl
+g < αrg − αro + βr Drg
+(Uni − Un∗)}
+= F (αrg − αro + βr Drg
+(Uni − Un∗)) , (4)
+where F denotes the cumulative distribution function of εl
+o − εl
+g. If εl
+g and εl
+o are (independently and) exponentially distributed, the difference (F ) is a double exponential distribution. Straightforward calculations (see the Appendix) then give for elections with the DPA in office:
+ln Ei
+DPA
+Ei
+SPA
+= dnan,g=DPA − (1 − dn − dc)as,o=SPA + dcβc(Uni − Un∗)
++ (1 − dn − dc)βs(Uni − Un∗) (5)
+where Ei
+DPA (Ei
+SPA) denotes the expected number of votes for the DPA (SPA) and dn (dc) is a dummy indicating that i ∈ n (c). Similarly, when the SPA is in office:
+ln Ei
+SPA
+Ei
+DPA
+= dsas,g=DPA − (1 − dc − ds)an,o=DPA + dcβc(Uni − Un∗)
++ (1 − ds − dc)βn(Uni − Un∗) (6)
+where ds is a dummy indicating that i ∈ s. Equations (5) and (6) describe the relative number of votes for the governing parties as a function of, respectively, (i) the positive predisposition of their own clients; (ii) the negative predisposition of the opposition party’s clients; (iii) the response of non-clients to the rate of unemployment; and (iv) the response of the opposition party’s clients to the rate of unemployment. For our empirical application, we introduce time (t) and reduce (5) and (6) to the following vote function that can be estimated using electoral data:14
+ln V it
+g Voit
+= βt
+0 + βtj
+1 Unit + βt
+gDt
+g + εit , i = 1, . . . , 35; t = 96, 97, 01; j = n, c, s (7)
+where V it
+g (V it
+o ) denotes the vote share of the governing (opposition) party in district i in t = 1996, 1997, 2001; j denotes the region (n = north, c = central, s = south) that i lies in, Unit is the unemployment rate in district i in t, Dt
+g is a dummy variable indicating the region to which the governing party is linked, and εit is a white noise error term.
+14This derivation is similar to that in Kirchgässner (1985). For more details about the vote function, see Schneider and Frey (1988) or Mueller (2003).
+
+
+312 Public Choice (2009) 141: 305–317
+The Appendix shows how (7) follows from (5) and (6). Most importantly, the parameters
+βtn
+1 , βtc
+1 , and βts
+1 in (7) reflect the way voters in the various regions respond to unemployment and therefore provide estimates of the parameters βn, βc, and βs in (5) and (6). Note that (7) includes unemployment in the region of the governing party as a regressor. This allows us to directly test our assumption that voters in these regions do not respond to unemployment, i.e., βtn
+1 = 0 (βts
+1 = 0) after a DPA (SPA) government. These tests provide support for the assumption. The coefficients βt
+0, βtj
+1 , and βt
+2 in (7) will be estimated with OLS. Formally, the hypothesis presented in the previous subsection yields a test of:
+H0 : 0 > βtn
+1 = βtc
+1 = βts
+1 , t = 1996, 1997, 2001;
+vs. H1 : 0 = βtn
+1 > βtc
+1 > βts
+1 , t = 1996, 1997;
+0 = βts
+1 > βtc
+1 > βtn
+1 , t = 2001.
+Under the null hypothesis, voters in the three regions respond (negatively) to unemployment in a way similar to that observed in very many countries across the world (Mueller 2003). The response does not differ across regions. The alternative states that in 1996 and 1997 voters in the south (i.e., those that oppose the governing DPA) react negatively and most strongly to unemployment during the DPA government. Voters in central regions (without a clientelistic relationship to a party) react negatively but less strongly. Finally, voters in the north (DPA-clients) do not let unemployment affect support for the DPA at all. In other words, because the policies of the clientelistic party DPA favor the north, northern voters are the most forgiving to this government where economic consequences are concerned. The opposite is predicted in 2001. The SPA clientelism favors the south, whose voters are now expected to be the most forgiving. The strongest effect of unemployment is now predicted for the north.15 Note that H1 predicts extreme, opposite effects under the two governments. A traditional application of vote functions does not distinguish between regions (predicting H0). Therefore, we first estimate the model imposing the null that all voters respond to unemployment in the same way. The results are given in the ‘no polarization’ columns of Table 2. The coefficient for unemployment is negative in all three elections (indicating that the governing party has less support in districts where the unemployment is higher), and statistically significant in two of the three cases. The explanatory power of this model (R2) is between 0.24 and 0.51. Taken by themselves, these results would support the traditional public choice finding that a government’s election result is negatively affected by unemployment. The explanatory power increases substantially when we allow the coefficients to vary across regions (‘polarization’ columns of Table 2). These results show important differences across regions and elections. In the north, when the DPA is in government voters do not react statistically significantly to unemployment. In the center and south, negative responses
+15When analyzing the 2001 data, we had to deal with one outlier, the southern mountain district, Skrapar. This is the birthplace and electoral zone of the socialist prime minister in this period, Meta. In line with the clientelism described, his government enacted various policies favoring this district. Aside from “passing out important jobs to supporters from his native district, Skrapar” (ICG 2001), he gave priority to the reconstruction of the main road to this district, decreasing the travel time from Tirana from about 5.5 to 3.5 hours. As a consequence, support for the SPA was extreme, with a 85–15 split between SPA and DPA. Nevertheless, unemployment in this remote district was by far the highest in the south, at 25%. Due to these extreme numbers, we drop this outlier from the analysis below. A note, accompanying Table 2, presents the results including Skrapar.
+
+
+Public Choice (2009) 141: 305–317 313
+Table 2 Estimated vote functions
+DPA Government SPA Government 1996 1997 2001 Variable no polarization polarization no polarization polarization no polarization polarization
+Constant −0.124 0.690 −0.982 −0.693 0.377 0.148
+(β0) (0.791) (3.186)* (4.101)* (2.703)** (1.729) (0.798)
+β north
+1
+β central
+1
+β south
+1
+⎫⎪⎪⎪⎪⎪⎪⎪⎪⎬
+⎪⎪⎪⎪⎪⎪⎪⎪⎭
+−1.068 (0.310) −1.807 (1.165) −7.266 (3.032)*
+⎫⎪⎪⎪⎪⎪⎪⎪⎪⎬
+⎪⎪⎪⎪⎪⎪⎪⎪⎭
+1.081 (0.661) −3.218 (2.460)**
+−5.909 (3.152)*
+⎫⎪⎪⎪⎪⎪⎪⎪⎪⎬
+⎪⎪⎪⎪⎪⎪⎪⎪⎭
+−2.161 (2.615)*
+−3.001 −2.484 −1.746 1.669 (3.336)* (2.048)** (1.714) (1.455) 0.993
+(0.422) β north
+2 0.972 0.124 1.306 0.429 — 
+(5.950)* (0.789) (5.373)* (0.836) β south
+2 — — — — 0.408 0.245 (2.135)** (0.609)
+R2 0.29 0.37 0.51 0.59 0.24 0.58
+Notes. The coefficients β are defined in (7). β1 is the coefficient related to unemployment, β2 is the coefficient related to the district the government party is linked to. For the analysis in 2001, we dropped the outlier district ‘Skrapar’. This is explained in footnote 15. Inclusion of Skrapar increases the coefficient βsouth
+1 to 3.956
+(1.854). Though large, the coefficient is still not significant at the 5%-level. The coefficient βsouth
+2 reduces to
+−0.107 (0.267) and the other coefficients remain unchanged
+*Statistically significant at the 1%-level
+**Statistically significant at the 5%-level
+to the unemployment level are observed. The strongest (negative) response is found in the south. A formal test of H0 versus H1 shows that the equalities in H0 are rejected in favor of the inequalities of H1 (p < 0.01) in both years. It is remarkable how much the results change in 2001, when the SPA is in government. Though the aggregate (‘no polarization’) result resembles the 1996 and 1997 results, the disaggregated results differ substantially, in the predicted direction. The north is no longer forgiving. There is a negative and statistically significant effect of unemployment on support for the government. In contrast, voters in the center and south, who were not forgiving for the DPA government, show no statistically significant effects.16 Once again, a formal test of H0 versus H1 shows that the equalities in H0 are rejected in favor of the inequalities of H1 (p < 0.01). The rejection of H0 means that our results support our main hypothesis, that clientelism causes voters to respond asymmetrically to government policies. The fact that this result is observed in the (opposite) predicted direction for the two distinct governments makes it especially strong. In particular, the notion of a politically polarized country finds support. Note that if we had not taken account of this polarization, we would have concluded that the effect of unemployment on the vote is similar to that found in numerous studies. Finally, the results for the central region are interesting. In 1996, this is closer to that for the north
+16Note from the standard deviations reported in Table 1 that there does not appear to be any relationship between the significance of coefficients in the regression and the variance of unemployment rates in a region. Hence insignificance does not seem to be caused by very small variances.
+
+
+314 Public Choice (2009) 141: 305–317
+Table 3 Estimated vote share of DPA
+DPA Government SPA Government 1996 1997 2001 ab c ab c ab c
+North 67% −2% −3% 46% +3% −10% 52% +5% Central 63% −4% — 27% −6% — 42% −4% South 49% −17% — 22% −8% — 38% −2% +6%
+Notes. We used the coefficients in Table 2 to estimate the (two-party) vote share of the DPA assuming an unemployment rate of 10% (columns a). We then estimated how this share would change (in percentagepoints) if unemployment were to rise to 20% (columns b). Finally, columns c show the effects of dropping the polarization (i.e., setting the coefficients β2 equal to zero). All coefficients (including non-significant ones) were included in the estimations
+than that for the south. This changes in the direction of the results for the south in 1997 and 2001. It may be the case that (changing patterns of) internal migration to Tirana (in the center) is starting to affect the extreme north-south polarization (as suggested by ICG 2001, for example). It is still too early to judge, however. To get a better idea about the quantitative effects of polarization and clientelism, we use the estimated coefficients to simulate the election outcomes in various regions. Table 3 summarizes the outcome of these simulations. The results show large differences across regions in the support for the DPA (columns a). Note however, that these differences could simply be due to regional differences in party support (i.e., polarization caused by predispositions without clientelism). The responses to unemployment (depicted in columns b) provide evidence of clientelistic voting, however. The effect of an increase in unemployment from 10% to 20% in a district strongly depends on the region in which the district falls. In 1996, for example, this would lead to a two percentage points decrease in support (3% of the original support) if the district is in the DPA-supporting north but a 17 percentage points decrease (35% of the original) if it is in the south. Finally, columns c allow us to visualize the effects of ‘pure’ polarization, i.e., the predisposition of voters towards the two parties. Note from (4) that we can estimate only the (net) difference in the ‘government’s region’. The results show that this effect can be up to 10%-points. Hence, even without clientelism, the polarization of voter behavior in Albania is substantial.
+4 Conclusions
+The specific history of any nation—but especially of a nation going through a transformation process from communism—is very important to understand its political development. A key element throughout Albania’s history is a cultural and geographical polarization. This paper argues that after the fall of communism, this divide has continued to exist. It has led to a political environment where clientelistic parties reinforce society’s polarization. We have shown that this clientelism systematically affects voting behavior. Moreover, we have shown that a proper evaluation of democratization in Albania requires looking beyond elections per se and taking this clientelism into account. The fact that the polarization of Albanian politics includes clientelism follows from the differential electoral response to unemployment that we observe. Regional polarization in
+
+
+Public Choice (2009) 141: 305–317 315
+itself would imply distinct voting across regions, for example with northern voters supporting the DPA and southern voters voting for SPA. We observe this in our data. The fact that northern voters are forgiving towards the DPA but not towards the SPA, while the reverse holds for southern voters, cannot be explained by regional polarization per se, however. The observation that the DPA favors the north in a patron-client relationship and the SPA is a clientelistic party supporting the south does provide a rationale for this observation. An interesting question, of course, is why clientelism plays such an important role in Albania. There are two possible explanations. One is related to path dependence, namely the existing regional division, possibly historically founded on the existence of two important clans (Doll 2003), which facilitates the polarization that has existed in Albania for centuries.17 The other explanation is based on the fact that formal governmental institutions are still underdeveloped. It has been argued that rational expectations imply that political candidates must make promises that they can actually fulfill if elected (Myerson 1993). This does not necessarily hold for electoral democracies where government institutions have remained underdeveloped, however.18 This may give rise to serious agency problems, making promises of political candidates more difficult to enforce. In turn, this may lead voters to rely more heavily on other social structures. In other words, as long as formal governmental institutions do not function properly, informal institutions like clientelism will actively fill the vacuum (Gërxhani 2004). A better functioning of government institutions may be the key to overcoming polarization and clientelism. As long as clientelistic parties are able to use the government to serve their clients, it may be expected that voters will behave the way they have been doing. In turn, this gives the parties no reason to change. Only if formal institutions develop that may better guide and control government policies may it be possible to break the centuries old informal institution of clientelism that in the democratic era has taken the form of clientelistic voting.
+Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.
+Appendix
+In this appendix, we start with the probability derived in (4) in the main text, that voter i of type k will vote for the governing party:
+pi
+g = F (αrg − αro + βr Drg
+(Uni − Un∗)) ,
+where F denotes the cumulative distribution function of εl
+o − εl
+g. If εl
+g and εl
+o are (independently and) exponentially distributed, the difference, F , is a double exponential distribution,
+17In a recent study of 27 political systems in postcommunist countries, Armingeon and Careja (2008) conclude that path dependency is an important aspect of the limited institutional change the political systems of these countries have experienced since the early 1990s.
+18Schedler (2002, p. 37) argues that a characteristic of electoral democracies is that though they manage to run fair elections they “fail to institutionalize other vital dimensions of democratic constitutionalism, such as the rule of law, political accountability, bureaucratic integrity, and public deliberation.”
+
+
+316 Public Choice (2009) 141: 305–317
+which gives:
+pi
+g = eαrg −aro+βr Drp (Uni −Un∗)
+1 + eαrg −aro+βr Drp (Uni −Un∗) ,
+pi
+o = 1 − pi
+g= 1
+1 + eαrg −aro+βr Drp(Uni −Un∗) ,
+(8)
+where pi
+o denotes the probability that voter l, in district i will vote for the opposition party.
+Now, let ni denotes the number of voters in district i. The expected number of voters in i voting for g is given by Ei
+g = ni pi
+g. Recall that we assumed in the main text that there are no DPA- (SPA-)clients in the south (north), and that there are only non-clients in central and that the number of non-clients in the north and south is negligible. From this we can derive for election results with the DPA in government:
+⎡
+⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎣
+i ∈ north : Ei
+DPA
+Ei
+SPA
+=
+ni ean,g=DPA−an,o=SPA
+1+ean,g=DPA −an,o=SPA
+ni 1
+1+ean,g=DPA −an,o=SPA
+= ean,g=DPA ,
+i ∈ central : Ei
+DPA
+Ei
+SPA
+=
+ni eβc(Uni −Un∗)
+1+eβc(Uni −Un∗)
+ni 1
+1+eβc(Uni −Un∗)
+= eβc(Uni −Un∗),
+i ∈ south : Ei
+DPA
+Ei
+SPA
+=
+ni eas,g=DPA−as,o=SPA+βs(Uni −Un∗)
+1+eas,g=DPA−as,o=SPA+βs(Uni −Un∗)
+ni 1
+1+eas,g=DPA−as,o=SPA+βs(Uni −Un∗)
+= e−as,o=SPA+βs(Uni −Un∗).
+(9)
+Putting these together, with a DPA government, we have:
+ln Ei
+DPA
+Ei
+SPA
+= dnan,g=DPA − (1 − dn − dc)as,o=SPA + dcβc(Uni − Un∗)
++ (1 − dn − dc)βs(Uni − Un∗), (10)
+which is (5) in the main text. Equation (6) can be derived in a similar way. The regression equation for which we estimate the parameters is given by (7). The relationship with (5) (i.e., (10)) and (6) is as follows. The error term in (7) reflects the difference between the expected (Ei
+g) and observed votes (V i
+GOV) for the government
+(εit = ln Vgit
+Voit − ln Eigt
+Eiot
+). The constant term in the regression equation captures the term in
+Un∗ and allows for a non-zero mean of the error distribution (μ) (e.g., after the DPA governments in 1996 and 1997: βt
+0 = (−dcβc + dsβs)Un∗ + μ). The terms in β2 include clients’
+predispositions (e.g., after a DPA government: an,g=DPA). Finally, the terms in βtj
+1 are discussed in the main text.
+References
+Armingeon, K., & Careja, R. (2008). Institutional change and stability in postcommunist countries. European Journal of Political Research, 47, 436–466.
+Bell, J. (1997). Unemployment matters: voting patterns during the economic transition in Poland, 1990–1995. Europe–Asia Studies, 49(7), 1263–1291.
+
+
+Public Choice (2009) 141: 305–317 317
+Bezemer, D. J. (2001). Post-socialist financial fragility: The case of Albania. Cambridge Journal of Economics, 25(1), 1–23. Carothers, Th. (2002). The end of the transition paradigm. Journal of Democracy, 13, 5–21. Case, A. (2001). Election goals and income redistribution: Recent evidence from Albania. European Economic Review, 45, 405–423.
+Diamond, L. (2002). Thinking about hybrid regimes. Journal of Democracy, 13(2), 21–35. Doll, B. (2003). The relationship between the clan system and other institutions in Northern Albania. Journal of Southeast European and Black Studies, 3(2), 147–162.
+Fidrmuc, J. (2000). Political support for reforms: Economics of voting in transition countries. European Economic Review, 44(8), 1491–1513. Gajo, A. (1999). An assessment of land management and policy in Albania. Master thesis. Institute of Social Studies, Den Haag. Gërxhani, K. (2004). Tax evasion in transition: Outcome of an institutional clash? Testing Feige’s conjecture in Albania. European Economic Review, 48, 729–745.
+Gërxhani, K. (2006). Politico-economic institutions and the informal sector in Albania. In D. J. Bezemer (Ed.), On eagle’s wings. Ten years of market reform in Albania (pp. 81–95). New York: Nova Science. Gërxhani, K., & Schram, A. (2000). Albanian political-economics: Consequences of a clan culture. Journal for Institutional Innovation, Development and Transition, 4, 5–14.
+Haefner, L. (1999). The role of regions in Albania. Newsletter Albanian (Swiss non-profit journal for the cooperation with Albania), 24 December 1999. ICG (International Crisis Group). (2001). Albania’s parliamentary elections 2001. ICG Balkans Briefing Paper, 23 August 2001. Kirchgässner, G. (1985). Rationality, causality and the relation between economic conditions and the popularity of parties. European Economic Review, 28, 243–68. Klosi, A. (1997). Albania: ‘Koha Jone’ journalists analyze crisis. From the Frankfurt/Main Frankfurter Rundschau, 24 April 1997. Kostadinova, T. (2003). Voter turnout dynamics in post-communist Europe. European Journal of Political Research, 42, 741–759.
+La Cava, G., & Nanetti, R. Y. (2000). Albania: filling the vulnerability gap. World Bank technical paper. no. 460. The World Bank. Lauth, H. (2000). Informal institutions and democracy. Democratization, 7, 21–50. Levitsky, S., & Way, L. (2002). The rise of competitive authoritarianism. Journal of Democracy, 13(2), 5165. McFaul, M. (2002). The fourth wave of democracy and dictatorship: Noncooperative transitions in the Postcommunist World. World Politics, 54, 212–244. MPEP (Ministry of Public Economics and Privatization). (1997). The privatization strategy of the companies with state capital in sectors with a special importance for the economy. Ministry of Public Economics and Privatization. Unpublished manuscript. Mueller, D. (2003). Public choice III. Cambridge: Cambridge University Press. Myerson, R. B. (1993). Incentives to cultivate favored minorities under alternative electoral systems. American Political Science Review, 87(4), 856–869.
+Nannestad, P., & Paldam, M. (1994). The VP-function: A survey of literature on vote and popularity functions after 25 years. Public Choice, 79, 213–245.
+North, D. C. (1990). Institutions, institutional change and economic performance. Cambridge: Cambridge University Press. Paldam, M. (1991). How robust is the vote function? A study of seventeen nations over four decades. In H. Norpoth, M. Lewis-Beck, & J.-D. Lafay (Eds.), Economic and politics: The calculus of support (pp. 9–31). Ann Arbor: University of Michigan Press. Sadiraj, K. (1999). Albania: transition to a market economy (Ph.D. thesis). Amsterdam: University of Amsterdam. Schedler, A. (2002). The menu of manipulation. Journal of Democracy, 13(2), 36–50. Schmidt, M. (1992). Die Westlichen Länder. In Lexicon de politik (Vol. 3, pp. 339–346). München: Beck. Schneider, F., & Frey, B. S. (1988). Politico-economic models of macroeconomic policy. In Th. D. Willet (Ed.), Political business cycles (pp. 240–275). Durham: Duke University Press. Shala, A. (1997). The Albanian crisis—A view from within. Den Haag: Transnational Institute. Shleifer, A. (1997). Government in transition. European Economic Review, 41(3–5), 385–410. UNDP (United Nations Development Program). (2000). Albanian human development report 2000. United Nations Development Program, Tirana. Vickers, M., & Pettifer, J. (1997). Albania: from anarchy to a Balkan identity. London: Hurst.

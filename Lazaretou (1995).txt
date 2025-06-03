@@ -1,0 +1,274 @@
+EXPLORATIONS IN ECONOMIC HISTORY 32, 28-50 (1995)
+Government Spending, Monetary Policies, and Exchange Rate Regime Switches: The Drachma in the Gold Standard Period*
+SopH1A LAZARETOU
+Athens University of Economics and Business
+The Greek data from the early 1830s to the outbreak of World War I provide an opportunity for studying the relationship between government spending, monetary policies, and exchange rate regime switches. This paper attempts to explain the historical episodes of inconvertibility as a consequence of the interplay between government spending and seigniorage. The evidence does not seem to contradict this explanation. Empirical findings reveal a significant effect of shocks to government spending on the rate of seigniorage. Furthermore, there is evidence that the connection between inflation and government financing decisions was the basic determinant of the drachma/French franc exchange rate crises in the past century.
+© 1995 Academic Press, Inc.
+1. INTRODUCTION
+The Greek monetary history of the 19th century reveals an alternation of periods of fixed and flexible exchange rates. Periods of high government spending were associated with large seigniorage needs and a large variability of the drachma/French franc (FF) exchange rate. On the contrary, periods of moderate spending were accompanied by low rates of money creation and small exchange rate movements. Using the Greek data from the early 1830s to the outbreak of World War I (WWI), we try to examine how the interplay between government spending and seigniorage affects the choice of exchange rate regime as well as the timing of regime switches. In particular, this paper investigates how fiscal considerations determine the fluctuations in monetary variables. Furthermore, by linking the
+* This paper is based upon a chapter of my Ph.D. dissertation at the Athens University of Economics and Business. I am grateful to George Alogoskoufis for providing me with the idea. An earlier version of this paper benefited greatly from the comments and suggestions of two anonymous referees and the Editor of this journal. I also acknowledge helpful discussions with Nicos Christodoulakis and Panayotis Kapopoulos. Any errors are solely mine.
+28
+0014-4983/95 $6.00
+Copyright © 1995 by Academic Press, Inc. All rights of reproduction in any form reserved.
+
+
+THE DRACHMA AND THE GOLD STANDARD 29
+drachma/French franc exchange rate movements with government financing decisions, we try to explain the switches between fixed and flexible rates as the consequence of radical changes in seigniorage policies. The paper proceeds as follows. Section 2 contains a brief chronology of the different exchange rate regimes and presents some historical perspective on the behavior of Greek fiscal and monetary policies pursued. The historical evidence suggests a positive relationship between monetary growth and government budget problems. Section 3 explains this apparent interplay in the context of the modern theories of revenue smoothing and optimal seigniorage. The main finding of this section is that shocks to spending appear to have a significant positive effect on the rate of seigniorage. Section 4 relates the drachma/French franc exchange rate movements to fiscal policies and investigates the determinants of regime switches. Finally, Section 5 summarizes the main findings of the paper.
+2. FISCAL AND MONETARY POLICIES IN HISTORICAL PERSPECTIVE
+Table 1 contains a brief chronology of the Greek exchange rate events from 1833' to 1914. During the 19th century, Greece experienced four episodes of suspension of the convertibility of note issues.” The first episode was a response to a worldwide financial panic and was very short. That was the only time in the monetary history of Greece that the decision of suspension was not directly related to government budget problems. The subsequent suspensions were a response to wartime emergencies. Governments switched to flexible rates in order to use seigniorage for financing the large increases in spending. Suspensions are either a response to financial panics or a response to wartime emergencies (see Bordo and Redish, 1992). A key difference is that although the initial suspension of convertibility is not known in either case, the date of, and the parity at, resumption are anticipated with certainty in the first case, while they are unknown in the second. By the law of 4 April 1848, the government suspended convertibility and recommended resumption at the original parity in five months (Valaoritis, 1902, p. 21). By contrast, in wartime suspensions not only was the date of resumption unknown, but also there was a disagreement on the parity at resumption.”
+” We choose 1833 as the starting point because this year is the earliest for which a complete data series, at least for the fiscal variables, exists. Moreover, a national monetary system was introduced for the first time in 1828. Until then, money transactions were carried out by Turkish coins. * For a detailed survey of the historical record on the episodes of inconvertibility see Lazaretou (1993). * See, for example, Simantiras (1905), Valaoritis (1911), and Spourgitis (1925) for the debate in both the Parliament and the economist circles of the time on the 1910 resumption at the original parity.
+
+
+30 SOPHIA LAZARETOU
+TABLE 1 Chronology of Exchange Rate Regimes, 1833-1914
+Regime Beginning End Description Comments
+1 Feb. 1833 Mar. 1848 Bimetallism The legal gold-silver ratio was 1:15.5. In January 1842, the National Bank of Greece was established. Although it acted as a commercial bank, it had all the responsibilities and privileges of a central bank.
+2 Apr. 1848 Dec. 1848 Temporary sus- Response to a worldwide pension of financial panic. convertibility 3 Jan. 1849 Dec. 1868 Bimetallism In April 1867, Greece signed the LMU agreement, but she did not adopt it until November 1882. The par exchange rate was defined to 1 FF = 1 Dr.
+4 Jan. 1868 July 1870 Suspension of Response to wartime convertibility emergencies: the revolution in Crete. 5 Aug. 1870 = May 1877 Bimetallism The Franco-Prussian war of 1870-1871 caused the end of bimetallism. In 1876, Greece, following the LMU members, closed her mint to silver.
+6 Jun. 1877 Dec. 1884 Suspension of Response to wartime convertibility emergencies: the RussianTurkish war of 1877-1878. By 1880 Greece freed Thessaly and Epirus from Turkish occupation. In 1882, the new drachma (1 Dr = 0.89 new drachma) was introduced as the new monetary unit in order to adopt the standard of the LMU.
+7 Jan. 1885 Sept. 1885 | Gold standard An unsuccessful attempt to resume specie payments.
+8 Oct. 1886 Mar. 1910 Suspension of Response to an economic convertibility crisis and to wartime emergencies (a crisis in Greek-Turkish relations).
+8a Oct. 1886 Jan. 1898 Inflationary Money creation, excess period foreign borrowing, debt repudiation.
+
+
+THE DRACHMA AND THE GOLD STANDARD 31
+TABLE 1— Continued
+Regime _— Beginning End Description Comments
+8b Feb. 1898 Mar. 1910 _—_—Deflationary Debt compromise. The period government was forced to fiscal prudence. 9 Apr. 1910 Dec. 1914 Gold-exchange The resumption was made at standard the 1:1 old parity. The regime collapsed in August 1919.°
+° The system operated successfully for four years only. From 1915 to 1919 the large increases in wartime spending were paid for by money creation. Exchange rate stability was maintained by massive exchange reserves outflows. In August 1919, the exchange reserves were depleted and Greece switched to flexible rates.
+Tables 2 and 3 present the main features of fiscal and monetary policies pursued. Note that periods of high spending were associated with large seigniorage needs. Note also that during these periods sharp and divergent increases in note circulation were accompanied by sharp and divergent reductions in metallic reserves.
+TABLE 2 Main Features of Fiscal Policies in Greece, 1833-1914
+Government Interest Income Indirect Monetary expenditure payments taxes taxes Seigniorage episodes (%) (%) (%) (%) (%)
+1833-1847 144.6 37.6 55.7 27.4 0.3? 1848 118.3 28.9 49.2 28.6 —4.5 1849-1868 124.0 23.3 45.7 31.5 5.03 1869-1870 126.1 31.6 33.9 39.7 5.3 1871-1876 109.5 26.6 32.7 42.9 4.2 1877-1884 163.1 32.5 24.3 51.7 14.4 1885 206.8 51.8 19.0 55.6 12.3 1886-1897 135.8 34.5 20.1 62.6 5.5 1898-1909 119.3 48.3° 17.2 70.9 0.07 1910-1914 166.7 31.8° 17.3 73.2 18.3
+Notes. The table presents the mean values of the variables in question in selected subperiods. All variables are expressed as percentage of total tax revenues. Government expenditure is central government expenditure inclusive of interest payments. Seigniorage has been measured as the change in bank notes divided by the total tax revenues. Total tax revenues are used as a proxy for GNP. Data for output do not exist for the period under study. For sources see the Data Appendix (end-of-year data). ° 1846-1847. » Data are not available for the years 1907 and 1909. © Data are available only for the years 1912 and 1913.
+
+
+32 SOPHIA LAZARETOU
+TABLE 3 Main Features of Monetary Policies in Greece, 1848-1914
+Bank note circulation Metallic reserves
+Average Standard Average Standard Reserve—bank Monetary growth deviation growth deviation note ratio episodes rate (%) (%) rate (%) (%) (%)
+1848 — 66.2 — — 124.3 — 0.4 1849-1868 14.6 14.2 15.1 21.3 0.6 1869-1870 9.8 5.6 13.0 45.2 0.4 1871-1876 4.9 7.9 3.7 11.8 0.5 1877-1884 11.3 20.5 1.2 39.8 0.2 1885 — 23.7 _ 36.5 - 0.4 1886-1897 5.2 14.0 —5.4 38.9 0.1 1898-1909 -0.1 4.6 9.9 16.2 0.2 1910-1914 14.1 14.6 32.6 24.1 0.8
+Notes. For the period 1848-1876, because of lack of data, we take as metallic reserves (gold plus silver) only those that the Bank used to hold in its Treasury in the form of barren metal. For the period 1877-1914, metallic reserves (mainly gold) are defined as the sum of gold stock that the Bank held in its treasury and interest-bearing deposits denominated in foreign currencies and readily convertible into gold. For sources see the Data Appendix. (The data are year averages).
+Table 2 reveals a striking feature of Greek tax policies. There exists an inverse relation between income taxes and indirect taxes. Income taxes were falling while indirect taxes were rising uniformly during and after periods of excess spending. During the 19th century, governments did not make any attempt to improve the tax collection system and raise revenues from income taxes. Taxes were imposed on income from agriculture, buildings, property, and commercial profits. Incomes from employment were not taxed. However, taxation was not imposed on personal income. Citizens were not taxed according to their ability to bear taxes, but rather according to some ad hoc criteria that the governments set. [For a description of the Greek tax system in the pre-WWI period see Andreades (1916) and Angelopoulos (1933)].* Furthermore, the lack of tax harmonization between Greek regions and the low tax rates caused a high collection cost and a loss in revenues. Thus, the tax collection inefficiency forced governments to rely on indirect taxation. Another key characteristic of Greek economic policies was the excessive reliance of governments on foreign borrowing. Table 4 summarizes the amount and the status of the various foreign debts accumulated by the Greek government over the 19th century. As the table reveals, the year
+* A systematic attempt to reform the tax system was made in 1919 when, for the first time, personal income taxation was introduced.
+
+
+1
+THE DRACHMA AND THE GOLD STANDARD 33
+TABLE 4 Greek Foreign Borrowing during the 19th Century
+. 1824-1825, £2.8 million
+. Jan 1879, 60 million gold FF (40 years at 6%)
+July 1879, £1.2 million (33 years at 5%)
+. Dec. 1880, 120 million gold FF (40 years at 5%)
+4. 1883, 10 million gold FF
+10.
+11.
+. Jan. 1884, 170 million gold FF (37.5 years at 5%)
+. May 1987, 91 million gold FF (75 years at 4%)
+. Feb. and May 1889, 111 million gold FF (at 4%) . May 1890, 53 million gold FF (99 years at 5%) . Dec. 1893, debt repudiation
+Feb. 1898, debt compromise, 150 million gold FF (at 2.5%)
+1910, 110 million gold FF (at 4%) . 1914, 335 million gold FF (at 5%)
+War of Independence. Interest payments were paid for two years only. Thereafter, the government defaulted. It was agreed that the loan was to be used to restore gold convertibility, but the government used it to finance its deficits. In an attempt to rebuild her reputation as a debtor, Greece tried to repay the debt of 1824-1825." The loan helped the reconstruction of the new provinces of Thessaly and Epirus. Tax revenues were used for repaying the debt. It was used for paying interest on foreign debt. The government used the loan to amortize its floating debt to the Bank and to resume specie payments. It was agreed that import duties were to be used for servicing the debt. The loan was used for financing the budget deficit. Government monopolies’ revenues were used for paying off the debt.
+Although the loans were to be used for the completion of the railway, the government relied on foreign borrowing to service the outstanding debt.
+The government reduced the interest payments on its outstanding foreign debt to 30% and refused to amortize it. The debt default destroyed the credibility of the country as a borrower.
+Greece, starting from 1903, should pay for a period of 30 years a fixed amount of 9 million gold FF annually to the creditor countries. Every time the drachma was revalued against the FF, interest payments as well as amortization should increase by 30%. A loan of 150 million gold FF was provided to Greece in order to pay the war indemnity to Turkey. The large increases in wartime spending during the Balkan Wars were paid for by issuing debt. The loan helped the reconstruction of the new
+* A debt compromise between the creditor countries and the Greek government came in 1879. On 1 July 1878, the debt totaled up to £10 million. By the law of 8 December 1878 (Valaoritis, 1902, Vol. 2, pp. 255-266, 275-280), the 1824-1825 debt bonds were exchanged for new bonds amounting to £1.2 million at 5%. It was also agreed that import duties were to be used for a period of 33 years for repaying the debt.
+
+
+34 SOPHIA LAZARETOU
+1879 was the beginning of a period of large-scale foreign borrowing. Governments used the foreign loans for financing the budget deficits and servicing the outstanding foreign debt. Until 1879, foreign borrowing was not possible. Foreign creditor countries seemed reluctant to lend to Greece. The political instability of the time and the underdeveloped financial market reduced the country’s credit-worthiness and prevented the inflow of foreign capitals. More importantly, Greece’s poor reputation as a debtor was due to her inability to pay off the external debt of 18241825. An attempt to rebuild her reputation was made in 1879 when she started to repay the debt. The 1868 revolution in Crete® caused an increase in military expenditures and burdened the budget. Since foreign borrowing was not possible, the government tried to finance the budget deficits by issuing domestic debt. However, the increased pressure on government finance resulted in
+the suspension of convertibility in December. After hostilities ceased in April 1869, the government followed a deflationary policy in order to restore convertibility; it reduced seigniorage and increased taxes. Seigniorage was reduced from 11% in 1869 to 0.02% in 1870. Income taxes were reduced from 38.7% in 1868 to 31% in 1869, while they increased to 37% in 1870. In 1877 military expenditures increased again. Again, the government attempted to finance them by debt issue. In March 1877, the upper limit of issued Treasury Bills was increased by law to 9 million drachmas. The attempt, however, failed, and the government relied entirely on seigniorage taxation. Seigniorage increased dramatically from nearly zero in 1876 to a peak of 41% of total expenditure in 1878. It should be noted that during the suspension period, seigniorage was no more than 10% of spending. After the end of the war in 1879, several attempts were made to resume specie payments. The government reduced seigniorage and raised revenues from indirect taxes. In addition, a large-scale foreign borrowing occurred.® On 31 December 1884, Greece adopted the gold standard. The high interest payments as well as an economic crisis (originating in a trade crisis in the end of 1884) caused large gold outflows. From December 1884 to August 1885 the rate of reduction of the gold reserves was almost 48%. However, the exchange rate was not maintained fixed at the 1:1 parity. The drachma tended to devalue against the French franc. The situation got out of hand in September. New wartime emergencies caused a boom in spending. The government used seigniorage
+taxation and, thus, Greece reverted back to a fiat monetary standard.
+° Crete was under Turkish occupation until 1899. ® From 1879 to 1884 Greece borrowed 360 million gold FF (see Table 4).
+
+
+THE DRACHMA AND THE GOLD STANDARD 35
+However, money creation did not make a large contribution to deficit finance. The increase in seigniorage was quite modest. From 1886 to 1897 seigniorage was only 3% of spending and never rose above 14%. The government relied largely on foreign borrowing to cover the budget deficits. As a consequence, interest payments on national debt increased from a low level of 8 million drachmas in 1877 to 31 million drachmas in 1885 and to a peak of 38 million drachmas in 1891. The excess foreign borrowing’ and the low tax revenues led to a debt default in December 1893. The International Committee for Greek debt management, established in 1898, forced the government to fiscal prudence. The great defeat in the 1897 Greek-Turkish war and the huge war indemnity that Greece was forced to pay to Turkey in funds convertible into gold led to a debt compromise in 1898. By the law of 26 February (Valaoritis, 1902, pp. 177-194), the use of money creation as a financing instrument was strictly prohibited (article 30). By the same article, it was arranged that the government, starting from 1900, should amortize its floating debt to the National Bank by 2 million drachmas worth of bank notes annually until it was reduced to 40 million drachmas. (This was only achieved in 1924). By the Treaty of Peace (September 1897, article 2), it was defined that tax revenues collected by a Debt Service Committee should be used for a period of 30 years for servicing the externa] debt. Finally, a loan of 150 million gold FF was provided to Greece in order to pay the war indemnity to Turkey. Finance ministers cut expenditures, reduced seigniorage, and raised revenues from indirect taxes in an attempt to balance the budget. Income taxes, however, remained stable at a low level. Confidence in the domestic currency was promoted and large gold inflows occurred (capital repatriation, emigrants’ remittances). The monetary authorities, therefore, could switch to a fixed-rate regime. On 19 March 1910, Greece left flexible rates and adopted a gold-exchange standard. By the law of 19 March 1910 (Pharmakidis, 1921, pp. 111-127), the National Bank of Greece was allowed to increase note circulation over and above the statutory limit of 66 million drachmas only if bank notes were freely convertible into gold or foreign exchange. In other words, the Bank would create money in an amount equal to the increase in gold or foreign exchange reserves. Moreover, the Bank was obliged to exchange domestic bank notes into French francs using the parity 1:1 (gold points, +0.05). It was also stated that the Bank could hold as official reserves interest-bearing deposits denominated in foreign currencies (mainly in FF), while only 10% of its reserves could be held as gold stock.
+’ From 1879 to 1891 Greece borrowed 615 million gold FF (see Table 4).
+
+
+36 SOPHIA LAZARETOU
+3. WHAT CAUSED THE SUSPENSIONS OF CONVERTIBILITY IN THE 19TH CENTURY
+The historical evidence suggests a positive relationship between monetary growth and government budget problems. In this section, we try to explain this apparent interplay by drawing upon the modern theories of optimal seigniorage and revenue smoothing. For the government to finance an exogenous and stochastic stream of expenditure, three different financing instruments can be used: income tax, money creation, and debt issue. The objective of the government is to choose the optimal mix of these instruments, so that the expected present value of the social cost of raising revenue from distortionary income taxation and from inflation is minimized (Barro, 1979, 1987). If the government behaves optimally, then the income tax rate and the inflation rate should be smoothed, and therefore these series should be martingales.* Moreover, a positive linear equilibrium relationship exists between the tax rate and the inflation rate (Phelps, 1973; Mankiw, 1987), as well as between the permanent expenditure rate, the tax rate, and the inflation rate (Grilli, 1989a).” Table 5 presents the time-series properties of the variables. It gives the results for an augmented Dickey—Fuller test statistic for a unit root over the sample period. It appears that one cannot reject the hypothesis that the average tax rate, dr, (defined as the ratio of income taxes to total tax revenues at year f), has a unit root. The 95% critical value of the 7, statistic is —3.45 (see Fuller, 1976, Table 8.5.2., block 3, p. 373), which is considerably higher than the observed value of —0.90. However, the existence of a second unit root is rejected. In particular, the 7, statistic (see Fuller, 1976, block 2) for the coefficient of the lagged first difference of the dr, is —7.93, which is higher than its 95% critical value (— 2.89). For what concerns the seigniorage rate, sr,, the rejection of nonstationarity is possible at all confidence levels. Seigniorage has been measured as the change in bank notes divided by the total tax revenues. Total tax revenues are used as a proxy for GNP. The rejection of nonstationarity is also
+® A stochastic process {x,, teT} is called a martingale if E{|x,]} < oe for all ¢ and if E{x,,,, | Xa, ees Xnt = Xen ° There are several empirical tests of the optimal seigniorage theory. Employing standard econometric techniques, Mankiw (1987) provides some evidence for the existence of a positive relationship between the nominal interest rate and the tax rate in the United States. Poterba and Rotemberg (1990), applying Mankiw’s analysis to Japan, Germany, the UK. and France, find evidence only for Japan. Grilli (1989a) employs cointegration techniques to test the theory for 10 European countries; evidence is mixed. Trehan and Walsh (1990) extend the sample period back to 1914 for the United States and find no evidence for the theory. Roubini (1991) tests the theory for a large set of developing countries. The evidence tends to reject the main implications of the tax smoothing and optimal seigniorage model.
+
+
+THE DRACHMA AND THE GOLD STANDARD 37
+TABLE 5 The Time-Series Properties of the Variables, 1833-1914
+I. Augmented Dickey—Fuller test statistic for a unit root"
+x
+sr x?
+dr z (1846-1914) (1877-1914) ir
+a —0.107° — 0.708 — 1.073 — 1.2154 — 0.284
+7, (-0.897) (-6.067) (—6.785) (—4.372) (—3.161)
+F test 5.460 2.570 0.509 4.516 2.269
+_ (2,74) (1,74) (1,61) (1,30) (1,74)
+R? 0.245 0.358 0.439 0.567 0.266 DW 1.969 1.793 2.029 1.982 2.023 Q(12) 12.110 3.280 7.600 8.000 10.580 LQ) 1.289 2.003 0.363 0.002 0.439 L(2) 1.298 2.014 0.798 0.385 2.749
+If. Augmented Dickey-—Fuller test statistic for a second unit root’
+x
+dr ir
+ax; —2.168 —2.125
+Th (—7.929) (—8.022)
+F test 6.164 5.293
+_ (1,74) (1,74)
+R 0.728 0.746
+DW 1.982 2.052
+Q(12) 12.650 6.160 LQ) 1.823 0.996
+L(2) 1.836 0.995
+Notes. F is a test of the exclusion of the variable’s second or a third own lagged value. Q(12) is the Box—Pierce Q statistic for white noise residuals in 12 lags. L(1) and L(2) are the Breusch—Godfrey (1978) L statistics for the existence of first- and second-order residual autocorrelation. They are asymptotically distributed as y’. * Regression: Ax, = constant + a,x,.; + a,Ax,, + a; trend + u,. ° ADF regression without inclusion of a time trend. ° ADF regression with three own lagged values. ¢ ADF regression with two own lagged values. * Regression: A*x, = constant’ + ajAx,_, + ojA’x,., + ui.
+possible for the expenditure rate, g, (defined as the ratio of government expenditures to total revenues), and the inflation rate, z,.'°
+” Data for a price index do not exist. A cost-of-living price index started to be constructed only from 1914. Due to the lack of data for a general price index, we cannot express the variables in question in real terms as the simple optimal seigniorage model states, Instead, they are expressed as percentage of total tax revenues. To get an idea about the inflationary
+
+
+38 SOPHIA LAZARETOU
+The tests suggest that governments had engaged in tax smoothing but not in seigniorage smoothing. The seigniorage rate as well as the inflation rate display no evidence of persistence. Indeed, during the historical episodes of inconvertibility, the first-order serial correlation coefficients are very low and even negative: 0.10 and —0.01, respectively. The negative sign shows some evidence of long-run price reversion. Furthermore, the difference in order of integration indicates that these variables cannot be cointegrated. This means that the Greek data do not verify the positive equilibrium relationship between seigniorage (inflation) and tax rates postulated by the theory. Also, on the basis of the standard¢ statistics, these correlations are either positive or negative but not significant (see Table 6, columns I and II). One reason why the “pure” theory of optimal seigniorage does not hold might be the government’s desire to confirm its commitment to restore convertibility. According to the recent theoretical developments about rules versus discretion (Bordo and Kydland, 1990, 1992), governments may act as following a “contingent gold standard rule.” In peacetime or in periods of low spending, they adhere to convertibility and keep their currencies fixed in terms of gold. During these periods, any moderate shock to spending is financed through taxes. In wartime or in periods of high spending, governments suspend specie payments and create paper money to finance the increased expenditures. The episodes of inconvertibility are viewed by the public as temporary. It is expected that after the war or when spending becomes moderate again, the government will pursue a deflationary policy, so that, at some future date, specie payments will be resumed. Therefore, if the shock to spending is low, seigniorage and tax rates are delinked. On the other hand, if the shock to spending is high, then seigniorage will be correlated positively with government spending. Bordo and White (1991) provide historical evidence that the British experience of the suspension period 1797-1821 was consistent with following a contingent gold standard rule. There is much historical evidence that the Greek government desired to confirm its commitment to revert back to fixed rates once wartime emergencies passed. By the decree of 8 April 1869,'' the government reduced the note circulation when hostilities in Crete ceased. Fifteen months later, bimetallism was restored. In January 1879, it borrowed 60 million gold FF in order to increase the metallic reserves of the Bank and restore convertibility. In April 1880, it announced the date of the
+process in the pre-1914 period, we study the time-series behavior of a food price index (1877-1914). It is constructed as a simple average index of the prices of five traded food goods for which a complete time series is available (1867-1877 = 1). Inflation (7,) has been computed as the first difference of the natural logarithm of the price index. " See Valaoritis (1902, pp. 54-56).
+
+
+THE DRACHMA AND THE GOLD STANDARD 39
+resumption (1 January 1881). However, the attempt stopped in October 1880 when wartime expenditures increased again. A new attempt to pick a date for resumption was made in 1884. In January, the government borrowed 170 million gold FF in order to restore the convertibility of bank notes into specie. On 31 December, Greece adopted the gold standard for nine months only. In 1886, a series of new foreign loans started. Although it was agreed the loans were to be used to resume specie payments, the government used them for servicing its outstanding foreign debt and financing the budget deficits. The fiscal discipline imposed on the Greek government in the very end of the 19th century resulted in a switch to fixed rates by 1910. We turn next to examine whether a positive long-run relationship exists between the expenditure rate and the income tax rate as well as the expenditure rate and the seigniorage rate. According to the optimal seigniorage theory, if government spending follows a random walk, then there will be no government debt creation. All shocks to spending may be perceived as permanent. However, the unit root test (see Table 5) indicates that the government spending rate (g,) is stationary in levels. Thus, current spending does not equal permanent spending; temporary increases are financed by issuing debt. Equation (1) gives the result of the time-series identification and estimation procedure for g,, The government spending ratio is satisfactorily modeled by a unique AR(1) process for the whole sample period; i.e.,
+g, = 79.17 + 0.41g,., + u, R? = 0.15, s = 41.52, (1) (5.34) (3.93) DW = 1.80, Q(12) = 2.51, L(1) = 0.007, L(2) = 1.91.
+We use the fitted (i.e., the anticipated) values of Eq. (1) as a proxy for the permanent component of the government spending (g?). Table 6 (columns III and IV) presents the results of regressing seigniorage and income tax rates on the permanent spending rate. Once again, the different order of integration implies that the variables cannot be cointegrated. However, on the basis of the standard t statistics, there exists a positive and strongly significant correlation between seigniorage and permanent spending,” while there is a lack of relationship between income tax and spending.
+". Regressing the inflation rate on the expenditure rate, we also find a positive but barely significant correlation; i.e., for sample period 1877-1914,
+a = —10.007 + 0.07 g?, + u,, (—1.40) (1.52)
+R’ = 0.03, s = 7.06, DW = 2.13, Q(12) = 10.64, L(1) = 0.19, and L(2) = 1.71. This is because 7, captures only the price movements of a very limited number of goods. Since
+
+
+40 SOPHIA LAZARETOU
+TABLE 6 Seigniorage, Income Tax, and Government Expenditure (OLS Estimates)
+Regression: I Il Ill IV Sample period: 1846-1914 1877-1914 1846-1914 1833-1914 Dependent variable: ST, TT, ST, dr,
+Constant 8.176 ~3.207 — 31.169 19.974 (1.832) (-0.340) (—2.326) (1.461) dr, —0.071 0.174 (—0.520) (0.354)
+Br 0.279 ~0.018
+(2.801) (— 0.808) MA(1) 0.269 (2.272) AR(1) 0.519 (5.178) AR(2) 0.435 (4.363)
+R 0.020 0.004 0.091 0.942 Ss 14.785 7.330 14.320 3.620 DW 2.092 2.029 1.884 2.079 Q(12) 16.380 11.820 14.750 13.320 L(1) 2.012 0.201 0.229 1.544 L(2) 3.659 0.909 4.416 4.313
+Notes. t statistics are in parentheses; s is the standard error of the estimate.
+Finally, it is interesting to examine the time-series properties of indirect taxes. As Table 5 shows, one cannot reject the hypothesis that the average indirect tax rate, ir, (defined as the ratio of indirect taxes to total tax revenues at year f) has a unit root. The 7, statistic for the coefficient of the lagged ir, is —3.16, which is below its 95% critical value (—3.45). It appears that the Greek government had engaged in “indirect tax smoothing.” Indirect tax rates were rising uniformly during and after periods of high spending, instead of being unusually high during large increases in spending. Summarizing, the empirical findings suggest that during the pre-WWI period shocks to government spending hada significant positive effect on the seigniorage rate. However, during the episodes of inconvertibility, seigniorage did not exhibit persistence. This may indicate that the gold standard rule was so strong that, when Greece switched to flexible rates, the commitment to restore convertibility prevented the government from
+the variables sr,, 7,, and g, are stationary in levels, the standard ¢ statistics can be used to test the significance of regression coefficients.
+
+
+THE DRACHMA AND THE GOLD STANDARD 41
+following a seigniorage smoothing policy as it would under a pure fiat standard.
+4. THE DRACHMA/FRENCH FRANC EXCHANGE RATE AND FISCAL POLICIES: 1876-1914'°
+It has been argued that a direct link exists between the choice of exchange rate regime and fiscal policies. Grilli and De Kock (1989) suggest an “endogenous switching mode” that relates shocks to government spending to endogenous regime switches. Grilli (1988, 1989b) presents some evidence that permanent government expenditure can be considered as the fundamental explanatory variable for the type of exchange rate regime. According to the theory of optimal public finance, money creation is used as an optimal financing instrument of the permanent government spending, while temporary deviations from this level are financed by issuing debt. Therefore, permanent spending should have a significant impact on exchange rate behavior. In other words, government financing decisions or announcements of decisions determine the choice of the exchange rate regime as well as the timing of exchange rate regime switches. This approach stresses the role of permanent changes in government expenditure as the main underlying determinant of monetary policy. Periods of relatively moderate levels of government spending, low revenue needs, and, therefore, moderate money creation are associated with small variability of nominal exchange rates. During these periods, the monetary authorities can keep the exchange rate fixed. On the other hand, periods
+of high levels of government spending, high revenue needs, and, therefore,
+high inflation rates are characterized as flexible-rate periods. It becomes apparent that the exchange rate policy imposes a constraint on the use of inflation as an optimal financing instrument. There is a trade-off between exchange rate stability and revenue policies. The government’s decision to finance its budget deficits through seigniorage is fundamentally incompatible in the long run with the viability of a fixedrate regime. Grilli (1988) shows that, historically, this incompatibility has been one of the main causes of the U.S. dollar/pound exchange rate crises.
+Linking the drachma/French franc exchange rate movements” with government financing decisions, we can explore the causes of the suspensions of gold convertibility. We verify that the connection between inflation and government financing decisions was the basic determinant of the drachma exchange rate crises in the last century.
+‘°° The sample period is 1877-1914. Data for the Dr/FF exchange rate are available only from 1876. ‘4 We study the Dr/FF exchange rate movements only, as the drachma was tied to the French franc, the nominal anchor of the Latin Monetary Union to which Greece belonged.
+
+
+42 SOPHIA LAZARETOU
+gov. exp.
+percent
+Or/FF f 225
+percen
+i + 200
+permanent ft
+a gov. expendituret it L175
+’ 4 “7 { \ 4
+PAAR t | /} so
+Or oP VP AMEN fy /
+| Le wt \ / _—- ee | 495 0 <° + 100
+-10 4
+Flexible Inflationary policy Deflationary policy Fixed 20 rates and flexible rates and flexible rates rates
+7880 1885 1890 1895 1900 1905 1910
+Fic. 1. The Dr/FF exchange rate and permanent government expenditure, 1877-1914. In 1885 Greece adopted the gold standard for nine months only. * Ratio of permanent government expenditure [calculated from Eq. (1) in the text] to total tax revenues. *Annual percentage changes.
+Figure 1 plots the rate of change of the drachma/French franc exchange rate with the ratio of permanent government expenditure to total tax revenues; Figure 2 plots the exchange rate movements and the ratio of seigniorage to total tax revenues. Note that high levels of government spending are associated with a large variability of the nominal exchange rate, while moderate spending is associated with small exchange rate movements. Note also that when government spending is high, the drachma falls against the French franc, while the reverse is true when government spending is low. Figure 3 relates the exchange rate movements to movements in the central bank’s gold reserves. It presents further evidence on the long-run incompatibility that exists between the viability of a fixed-rate regime and inflationary monetary policies. The monetization policy pursued until the end of 1890s produced large devaluations associated with speculative runs on the Bank’s reserves and generated a long-lived irredeemable paper currency standard. Similarly, the new policy regime that occurred in 1898 produced large revaluations associated with large gold inflows and resulted in the exchange regime switch of 1910. However, there are two striking exceptions: the periods 1879-1880 and 1891-1898. During these periods, we note a negative rather than a positive correlation between permanent spending and exchange rate behavior. As
+
+
+THE DRACHMA AND THE GOLD STANDARD 43
+percent7
+50 |
+Hh
+25, i \
+} os.
+:4
+po
+iq
+04 Y—
+-254
+Flexible } Inflationary policy Deflationary policy Fixed rates and flexible rates and flexible rates rates —50 oop
+7880 5 90 95 +1900 ©1905 180
+Fic. 2. The Dr/FF exchange rate and seigniorage, 1877-1914. *Annual percentage
+changes. * Seigniorage has been measured as the change in bank notes in circulation divided by total tax revenues.
+gold reserve
+Or/FF percent
+percent 100
+r 4 . A A _ Ps 50
+iN } \f i; ¥ * ¥ gold reserves*
+LY Vv !
+¥ ! -50
+¥
+20 4 ‘ + - 100
+104 } - 150 Dr/FF*
+04 ff
+-10 4 Flexible Inflationary policy Deflationay policy Fixed 20 rates and flexible rates and flexible rates rates
+"g80~685= 9Ds«éBSC(tiéHsisiHSC(ttéOHO
+Fic. 3. The Dr/FF exchange rate and gold reserves, 1877-1914. *Annual percentage change.
+
+
+44 SOPHIA LAZARETOU
+TABLE 7 The Dr/FF Exchange Rate and Permanent Government Expenditure (OLS Estimates, 1877-1914)
+I in Ill
+Constant — 13.635 — 13.920 ~ 16.569
+(—2.297) (2.376) (— 2.822)
+gis 0.099 0.090 0.118
+(2.304) (2.359) (2.801)
+ge 0.104 0.095 0.113
+(2.262) (2.053) (2.503)
+gin 0.019
+(0.817)
+Ww 2.967
+(1.020)
+MA(1) 0.527 0.573 0.607
+(3.480) (3.885) (4.214)
+R 0.212 0.227 0.233 s 5.665 5.610 5.592
+DW 2.001 1.994 2.019
+Q(12) 9,300 9.980 10.350
+LQ) 0.531 0.639 0.259 L(2) 1.055 1.424 1.118
+ARCH(1) 0.172 0.481 0.535
+ARCH(2) 0.387 0.712 0.786
+NOR(2) 0.852 0.918 1.118
+Dr/FF exchange rate; gi is the permanent government expenditure as percentage of total tax revenues. The regression includes three multiplicative dummies: SC, that takes the value 1 in the years of suspensions of convertibility (1877-1884, 1886-1909) and zero elsewhere; G, that takes the value 1 for gold or gold-exchange-based regimes (1885, 1910-1914) and zero elsewhere; and W, that takes the value 1 in the war years (1877-1878, 1897, 19121914), 0.5 in the year 1885, and zero elsewhere. We correct for the autocorrelation in the residuals using a first-order moving-average scheme. ARCH(1) and ARCH{(2) are the Engle (1982) statistics for the existence of first- and second-order autoregressive conditional heteroscedasticity in the residuals. NOR(2) is the Jarque—Bera statistic for testing against nonnormality. They are asymptotically distributed as x’. f statistics are in parentheses.
+can be seen in Fig. 3, despite the large increases in spending, the large gold inflows that occurred in 1879-1880 caused a revaluation of the drachma against the French franc. The second period can be separated into two subperiods: a period of government failure to pay off the external debt, 1891-1893, and a period of negotiations for debt management, 1894-1898. Private agents’ expectations that a government failure would soon occur strengthened the devaluation pressures on the drachma. When failure finally occurred and
+
+
+THE DRACHMA AND THE GOLD STANDARD 45
+negotiations with creditor countries started, private agents adapted their expectations and the drachma started to revalue (1895-1898). Expecting
+a debt compromise, which at last came in 1898, agents acted in such a
+manner that the 1897 wartime expenditures’ did not at all restrain the
+Dr/FF exchange rate revaluation. We can test more formally for the existence of a link between the choice of exchange rate regime and fiscal policies. Assuming that permanent spending is the only exogenous variable that determines exchange rate
+movements, we can regress the rate of change of the nominal Dr/FF
+exchange rate (Ae,) on the ratio of permanent spending to total tax revenues ratio (g?).'° Using multiplicative dummies we take into account the “government spending effect” across different periods. Table 7 presents the OLS estimates. We note that permanent government spending under both floating- and fixed-rate periods has a significant depreciating effect on the exchange rate. The empirical results indicate that during the suspension periods, the government financed its increased spending by money creation.'’ Moreover, under the gold-exchange-based regime of the early 1910s, an increase in permanent spending induced a depreciating effect that would cause an exchange rate regime switch later. In fact, a switch to flexible rates occurred in August 1919. A striking fact is that wartime expenditures do not have any significant effect on exchange rate movements. As mentioned above, the increased military expenditures of the 1897 war did not restrain the revaluation of the exchange rate. Furthermore, the large increases in wartime spending during the Balkan Wars (1912-1914)'* did not endanger the viability of the fixed-exchangerate regime, since they were paid for by increased borrowing.’”
+'S It should be noted that the 1897 wartime expenditures were completely financed through money creation. While in 1896 note circulation decreased by 1.8%, in 1897 it sharply increased by 17.4%. The debt default in 1893 destroyed the credibility of Greece as a borrower. Consequently, money creation was the only option for financing the war, '® As the permanent element of the government expenditure over total tax revenues ratio, we take the anticipated (i.e., the fitted) values of Eq. (1). To test for the cross-period stability of the parameters, we divide the data set into two subsets (1833-1876, 1877-1914) and use the F statistic. The F test is equal to 0.79, while its 95% critical value for (2,77) degrees of freedom is 3.11. Therefore, the test cannot reject the hypothesis that the coefficient vector may be regarded as constant over time. ” For the period 1877-1914, we also find a positive and significant relationship between the seigniorage rate and the permanent spending rate; i.e.,
+sr, = —32.60 + 0.29 gP + u,, (-1.77) (2.20)
+R* = 0.09, s = 18.14, DW = 1.90, Q(12) = 6.41, L(1) = 0.05, and L(2) = 1.69. '® The Greek victory in the First Balkan War of 1912-1914 extended the country’s boundaries to roughly their current limits. '? More than 60% of the war expenditures between 1912 and 1914 was covered by foreign and domestic borrowing (see Zolotas, 1928, pp. 43-48).
+
+
+46 SOPHIA LAZARETOU
+TABLE Al Greek Historical Time Series
+(1) @) @) 4) (5) (6)
+7098 4250 1971 13357 na. na. 9280 5065 2478 28849 na. na. 11563 7464 2447 16085 na. na. 11878 6948 2646 15560 na. na. 12357 6774 3177 17814 na. na. 13012 7264 3644 15290 na n.a. 13814 7878 3472 15424 n.a. Nn.a. 14259 8232 3764 15927 na. n.a. 13243 7600 3718 15972 na n.a. 11779 6548 3611 15871 na na. 10990 5771 3340 14356 n.a n.a. 9271 4910 3116 13717 na n.a. 12505 6530 3366 14672 na n.a. 13012 6481 3658 14395 na. na. 9952 5237 2980 15290 2077 na. 13293 6543 3800 15719 1071 na. 14718 7694 3630 15639 1095 n.a. 13105 6713 3623 16610 1519 na. 12752 6508 3544 15885 1882 n.a. 13955 6247 4237 16267 1762 na. 13632 6477 3844 16183 1800 n.a. 14655 8281 3355 17494 2574 n.a. 16342 8381 4638 19204 2987 na. 15551 7643 4455 19292 4143 n.a. 17031 8470 4559 19667 6145 n.a. 18360 7981 $939 22769 6911 na. 19348 9389 5953 23165 6356 na. 19453 8451 6061 23281 7325 na. 19335 9344 6037 25101 8267 n.a. 22319 10494 6464 25414 10745 n.a. 15526 7167 4796 23397 12941 n.a. 20847 9368 6616 24426 14179 na. 22216 6310 9951 28256 16420 na. 22067 7793 9069 27867 15175 na. 28124 10398 11273 37923 16207 na. 29918 11562 12411 44335 19699 n.a. 29403 9044 11673 37116 22604 na. 28335 10486 11222 35701 23964 n.a. 31817 10794 12970 36744 24130 na. 32309 11456 12588 32847 26586 n.a. 31030 10901 12902 32202 31317 n.a. 33402 12086 13261 45221 34004 na. 27650 6245 15208 27927 32405 na. 34668 11370 14469 34628 32210 1.0320 33148 9953 16088 32547 34475 1.0297 36174 11479 16327 36853 50719 1.1071 38234 9914 19373 95312 50365 1.0476 20067 88063
+37644 8575 1.0254
+
+
+THE DRACHMA AND THE GOLD STANDARD 47
+TABLE A1— Continued
+Year (1) @) @) @) (5) (6)
+1881 41789 8542 22816 101657 77651 1.0476 1882 50983 10819 25811 57375 87782 1.0971 1883 58538 12003 32151 67796 97605 1.1406 1884 60745 13309 33719 91347 80362 1.0475 1885 59375 11283 33038 122798 63383 1.0580 1886 62151 13067 36820 129717 94879 1.2325 1887 82850 17178 43536 107128 97271 1.2633 1888 89551 18860 46848 108051 89015 1.2733 1889 83732 17415 51448 168739 85876 1.2300 1890 79932 14763 51513 141465 91850 1.2350 1891 86112 18347 53055 122836 108841 1.2983 1892 94973 18580 59387 107683 116129 1.4363 1893 92954 20718 $9701 92134 107154 1.6077 1894 99718 19145 64916 85136 103226 1.7492 1895 93828 19107 64059 91642 101692 1.8021 1896 95282 18546 66295 90891 99834 1.7389 1897 86359 14145 60634 137044 118807 1.6757 1898 102685 17416 73978 312057 115594 1.4741 1899 109778 19418 75242 104608 112192 1.5650 1900 111597 19209 75950 109318 125441 1.6439 1901 114746 21589 80425 114131 127038 1.6580 1902 114410 20674 80444 124504 126753 1.6250 1903 114838 19671 82572 116260 129804 1.5650 1904 115883 19080 83753 116150 123170 1.3782 1905 122436 19949 84345 116321 116626 1.2312 1906 125910 20885 92815 121600 113836 1.1000 1907 123032 20794 87868 132123 118528 1.0865 1908 122989 20979 89512 133697 118661 1.0812 1909 117049 20837 84060 136970 116985 1.0296 1910 129574 21642 92935 140547 119353 0.9998 1911 137871 21795 99668 181020 122013 0.9994 1912 131129 20607 96190 207984 149301 0.9993 1913 129059 19338 97541 261973 215253 1.0000 1914 207684 48342 151511 482341 236389 1.0017
+5. CONCLUSION
+The Greek data from the early 1830s to the outbreak of WWI provide an opportunity for studying the relationship between government spending, monetary policies, and exchange rate regime switches. The main findings are as follows. Shocks to government spending hada significant positive effect on the seigniorage rate. However, during the periods of suspension, seigniorage did not exhibit persistence. This may indicate that the commitment to restore convertibility prevented the government from following a seigniorage smoothing policy as it would under a pure fiat standard. The historical evidence does not seem to contradict this expla
+
+
+48 SOPHIA LAZARETOU
+nation. Instead, it suggests that commitment to the gold standard rule was of considerable importance to Greek monetary authorities. Developing countries, such as Greece, viewed adherence to the gold standard as important in improving access to the international capital markets of England and France. According to Bordo and Kydland (1992), ‘“‘exchange in both goods and capital was facilitated if countries adhered to a standard based on a rule anchored by the same commitment mechanism” (p. 14). As far as taxes are concerned, Greek tax rates did not vary considerably during the 19th century. Income tax rates were falling while indirect tax rates were rising uniformly during and after periods of excess spending. Furthermore, the government’s decision of how increases in spending were paid for determined the choice of exchange rate regime as well as the timing of regime switches. In particular, during periods of high spending, the government relied almost entirely on seigniorage taxation. The monetary authorities, therefore, could not maintain the fixed Dr/FF exchange rate and, thus, they switched to a flexible-rate regime. Once government spending became moderate again, the government reduced seigniorage and derived revenues from taxation. The rigidities of the tax system forced reliance primarily on indirect taxation. Thus, the monetary authorities reverted back to a fixed-rate regime.
+DATA APPENDIX
+The historical data for total tax revenues, income tax revenues, indirect tax revenues, total government expenditure, and interest payments (all refer to end of year) are from Greek Government Budget, Annual Report, 1833-1914 (various issues), General Records of the Government. The data for bank note circulation (year averages or end of year) and metallic reserves (year averages) are from National Bank of Greece, Annual Report of the Governor, 1845-1914 (various issues), Historical Records of the National Bank of Greece. The historical data on the drachma/French franc exchange rate (year averages of spot rates) are from Valaoritis (1902) and Simantiras (1905) for the period 1876-1901, from Pharmakidis (1921) for the period 1902-1908, and from National Bank of Greece, Annual Report of the Governor, for 1909-1914. The time series for the prices of five food goods (butter, coffee, oil, rice, and sugar) are taken from Pizanias and Mitrophanis (1991). Table Al presents the historical data for total tax revenues (column 1), income tax revenues (column 2), indirect tax revenues (column 3), central government expenditure [inclusive of interest payments (column 4)], bank note circulation (column 5), and the drachma/French franc nominal exchange rate (column 6). All series are expressed in thousands of new drachmas. The table is a part of a more detailed data bank presented in Lazaretou (1993).
+
+
+THE DRACHMA AND THE GOLD STANDARD 49
+REFERENCES
+Andreades, A. (1916), Lectures on Public Finance and Statistics. Part II: The Greek Tax System. Athens. [In Greek] Angelopoulos, A. (1933), Income Taxation in Greece. Athens: Eleftheroudakis. [In Greek] Barro, J. R. (1979), “On the Determination of the Public Debt.” Journal of Political Economy 87, 940-971. Barro, J. R. (1987), ‘‘Government Spending, Interest Rates, Prices, and Budget Deficits in the United Kingdom, 1701-1918.” Journal of Monetary Economics 20, 221-247. Bordo, M. D., and Kydland, F. (1990), “‘The Gold Standard as a Rule,” NBER Working Paper No. 3367. Bordo, M. D., and Kydland, F. (1992), ““The Gold Standard as a Rule,” Working Paper No. 9205. Cleveland, OH: Federal Reserve Bank of Cleveland. Bordo, M. D., and Redish, A. (1992), ‘“Maximizing Seigniorage Revenue during Temporary Suspensions of Convertibility: A Note,” NBER, Working Paper No. 4024. Bordo, M. D., and White, E. N. (1991), “A Tale of Two Currencies: British and French Finance during the Napoleonic Wars.” The Journal of Economic History §1, 303-316. Breusch, T. (1978), ‘‘Testing for Autocorrelation in Dynamic Linear Models.” Australian Economic Papers 17, 334-355. Dickey, D., and Fuller, W. (1981), ‘Likelihood Ratio Statistics for Autoregressive Time Series with a Unit Root.”” Econometrica 49, 1057-1072. Engle, R. F. (1982), ‘Autoregressive Conditional Heteroskedasticity with Estimates of the Variance of UK Inflation.” Econometrica 50, 987-1007. Fuller, W. A. (1976), Introduction to Statistical Time Series. New York: Wiley. Godfrey, L. (1978), “Testing Against General Autoregressive and Moving Average Error Models when the Regressors Include Lagged Dependent Variables,” Econometrica 46, 1293-1302. Grilli, V. (1988), “Fiscal Policies and the Dollar/Pound Exchange Rate: 1870-1984.” NBER Working Paper No. 2482. Grilli, V. (1989a), ‘Seigniorage in Europe.” In M. De Cecco and A. Giovannini (Eds.), A European Central Bank? New York/London: Cambridge Univ. Press, and Centre for Economic Policy Research. Chap. 3, pp. 53-79. Grilli, V. (1989b), “Exchange Rates and Seigniorage.”” European Economic Review 33, 580-587. Grilli, V., and De Kock, G. (1989), “Endogenous Exchange Rate Regime Switches.” NBER Working Paper No. 3066. Katselidis, G. (1902), The Currency. Athens. [In Greek] Lazaretou, S. (1993), ‘“‘Historical Research on Monetary and Fiscal Policies in Greece: 18331914.” The Journal of European Economic History 22, 285-311. Mankiw, G. (1987), ‘““The Optimal Collection of Seigniorage: Theory and Evidence.” Journal of Monetary Economics 20, 327-341. Pharmakidis, E. (1921), The Exchange Rates during and after the World War I. Athens. {In Greek] Phelps, E. (1973), “Inflation in the Theory of Public Finance.” Swedish Journal of Economics 75, 67-82. Pizanias, P., and Mitrophanis, G. N. (1991), Price Movements in Greece during the 18th and 19th Centuries. Cultural Institute of the National Bank of Greece. [In Greek] Poterba, J. M., and Rotemberg, J. J. (1990), ‘Inflation and Taxation with Optimizing Governments.” Journal of Money, Credit and Banking 22, 1-18. Roubini, N. (1991), “Economic and Political Determinants of Budget Deficits in Developing Countries.” Journal of International Money and Finance 10, S49-S72.
+
+
+50 SOPHIA LAZARETOU
+Simantiras, J. (1905), The Issue Over the Suspension of Convertibility. Athens. [In Greek] Spourgitis, A. N. (1925), “The Fixed Rate Regime of the 1910s and the Exchange Rate Crisis.” Archeion Oekonomikon kae Keinonikon Epistimon (Record of Economic and Social Studies) 5, 25-43. [In Greek] Trehan, B., and Walsh, C. E. (1990), “‘Seigniorage and Tax Smoothing in the United States, 1914—1986.”” Journal of Monetary Economics 25, 97-112. Valaoritis, J. A. (1902), The History of the National Bank of Greece, 1842-1902. Athens. Vols. 1, 2. [In Greek] Valaoritis, J. A. (1911), “Annual Report of the Governor for the Year 1910.” Historical Records of the National Bank of Greece. Zolotas, X. (1928), Monetary and Exchange Rate Phenomena in Greece: 1910-1927. Athens: Greka. [In Greek]

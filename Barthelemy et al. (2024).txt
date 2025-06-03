@@ -1,0 +1,951 @@
+Fiscal Dominance: Implications for Bond Markets and
+Central Banking∗
+Jean Barthe ́lemy Eric Mengus Guillaume Plantin
+October 15, 2024
+Abstract
+Fiscal dominance refers to situations in which fiscal policy imposes restrictions
+on monetary policy. Large shifts in the dynamics of sovereign debts, surpluses,
+and central bank’s balance sheets since the Great Financial Crisis have created
+the perception of a heightened risk of such fiscal dominance in major jurisdictions.
+This paper reviews the theoretical and empirical literature on fiscal dominance. We
+offer a simple theory in which fiscal dominance arises as the outcome of strategic
+interactions between the government, the central bank and the bond markets.
+∗Prepared for the Annual Review of Financial Economics. Barth ́elemy: Banque de France, 31 rue Croix des Petits Champs, 75001 Paris, France. Email: jean.barthelemy@banque-france.fr. Mengus: HEC Paris and CEPR, 1 rue de la Lib ́eration, 78350 Jouy-en-Josas, France. Email: mengus@hec.fr. Plantin: Sciences Po and CEPR, 28 rue des Saints-P`eres, 75007 Paris, France. Email: guillaume.plantin@sciencespo.fr. We thank Antoine Camous, Adam Golinski, and Vittoria Iannotta for helpful comments. Errors are ours. The views expressed in this paper do not necessarily reflect the opinion of the Banque de France or the Eurosystem.
+1
+
+
+1 Introduction
+Public finances in most major economies have experienced a regime shift since the
+Great Financial Crisis. Sustained streaks of large deficits have led to sovereign debt
+levels that are unprecedented in peacetime. In 2020, public debt as a percentage of GDP
+reached 126% in the US and 97% in the euro area. A large fraction of this debt has been
+purchased by central banks,1 together with private securities, leading them to increase
+the size of their balance sheets by nearly an order of magnitude.
+These evolutions have been responses to shocks that were unprecedented too, and so
+whether they have been optimal is still a much debated question. Yet, no matter the
+answer to this question, these evolutions have challenged the validity of the simplification
+according to which price stability and monetary policy could be analyzed in academia
+and implemented in practice as a stand alone topic, largely independently from the other
+dimensions of public finance.
+Many observers in particular argue that the recent high realized inflation—inflation
+peaked at 7.2% in the US and 10.6% in the euro area—is a manifestation of fiscal dom
+inance, vaguely defined at this stage as the influence of fiscal policy on the conduct of
+monetary policy.
+The goal of this paper is to offer a summary of the literature on fiscal dominance
+as well as some novel insights that we would like to make useful to finance scholars.
+We mean by fiscal dominance a situation in which monetary policy is constrained by
+fiscal resources and the need to satisfy the public sector’s budget constraint. Our main
+argument is that fiscal dominance is the outcome of strategic interactions between the
+government and the central bank—even an independent one—in which both authorities
+can take sequential actions to try to impose their views to the other, and in which bond
+markets play a critical role to provide incentives. We especially focus on the implications
+of fiscal dominance for bond markets and central banking. As detailed below, the forays
+of the finance literature into the study of fiscal dominance have taken thus far mostly
+an asset-pricing perspective, focusing on understanding the relationship between largely
+exogenous dynamics of government surpluses with inflation and bond prices. Here we
+adopt an approach that is more familiar to corporate-finance and banking theorists, in
+which we seek to use microeconomic theory to understand in a qualitative sense the
+1In 2020, Federal Reserve Banks (the Eurosystem) held 17% (21% respectively) of public debt.
+2
+
+
+circumstances under which fiscal policy plays an important role in the determination of
+inflation.
+Such an approach has a rich set of implications for central banking and bond markets.
+Regarding central banking, and as expected, prudent central-bank asset management
+with a total balance-sheet size kept sufficiently low and sufficient net wealth reduces the
+risk of fiscal dominance. When fiscal dominance cannot be avoided, the central bank
+can still attenuate the costs of inflation by adjusting the timing of its realization and
+frontloading it—a strategy we deem “preemptive inflation”. Regarding the bond market,
+we stress that actual market conditions—the ones observed by the econometrician—do
+not suffice to predict the degree of influence of fiscal policy on the monetary one. The out
+of-equilibrium responses of bond markets to an attempt by a fiscal authority at influencing
+monetary policy are a crucial determinant of fiscal-monetary interactions. In light of our
+model, we interpret the 2022 “mini-budget” episode in the UK as an instance in which
+the fiscal authority painfully discovered that the bond market was willing to make fiscal
+dominance very costly.
+The paper is organized as follows. Section 2 surveys the theoretical and empirical
+literature on fiscal dominance. Section 3 explores the formal condition under which fiscal
+dominance prevails. Section 4 draws some implications for central banking and elaborates
+on the role of bond markets. Section 5 concludes.
+2 Fiscal dominance in the models and in the data
+In this section, we develop our view of the main messages conveyed by the academic
+literature that addresses fiscal dominance. We do not aim at an exhaustive description
+of this large literature. We seek instead to highlight the body of papers that particularly
+influenced and motivated our theoretical development summarized in Section 3.2
+We first offer a summary of the theories that aim at formalizing fiscal dominance. We
+then describe the three main approaches to fiscal-monetary interactions: jointly optimal
+policies, rules, and games. Finally, we describe the works that empirically document the
+influence of fiscal policy on inflation.
+2See also the reviews of the literature on fiscal-monetary interactions in, among others, Leeper and Leith (2016), Bassetto and Sargent (2020), Kehoe and Nicolini (2021), Cochrane (2023), or, for facts and policy implications for the euro area, Checherita-Westphal et al. (2024).
+3
+
+
+2.1 The theoretical underpinnings of fiscal dominance
+At the core of fiscal dominance is the simple point that the budget constraint of the
+public sector implies that monetary and fiscal policies are interdependent because they
+each affect the value of all public liabilities no matter which specific branch of government
+issues them.3 Bassetto and Sargent (2020) put it in a thought-provoking fashion: “(...)
+institutional arrangements that delegate decisions about bonds and money to people who
+work in different agencies are details. Central bank independence is a convention or a
+fiction.”
+A very simple way of seeing this point follows Cochrane (2005). Suppose that a
+public policy (Bt, Mt, st)t∈N consists in issuing one-date nominal debt Bt, money Mt, and
+collecting a real surplus st at date t. A competitive equilibrium in a representative-agent
+economy with endowment et subject to a cash-in-advance constraint requires that the
+price-level path (Pt)t∈N respectively satisfies a quantity equation of money (assuming a
+velocity of 1) and a debt-valuation equation resulting from individual rationality and
+market clearing:
+Mt = Ptet, (1)
+Bt−1
+Pt
+=
+∑
+j≥0
+mt,t+jst+j, (2)
+where mt,t+j is the discount factor of the representative agent.4
+The date-t price level Pt must therefore satisfy two equations. The first one involves
+policy instruments on which a central bank typically has its hands. The second one
+features only fiscal instruments. This begs two questions:
+1. What is the predictable outcome if no price-level path satisfies (1) and (2)?
+2. What are the organizations of the public sector that guarantee that there exists a
+unique such price-level path?
+The first question does not get much coverage from the macroeconomics literature
+because the Walrasian equilibrium concept is very ill-suited to tackle it. Barth ́elemy,
+3See Sargent and Wallace (1981) or Leeper (1991) among many others. In a monetary union, the link between the different public authorities is less clear and leads to a much more complex environment (see Bassetto and Caracciolo, 2021). 4We assume that any seigniorage revenue (negative or positive) is lump-sum rebated to the private sector for simplicity, and so money holdings do not appear in (2)
+4
+
+
+Mengus, and Plantin (2024b) develop a strategic model of price-level determination in
+which they can derive the predictable outcomes associated with such policies that do not
+generate a Walrasian equilibrium. They find that they have empirically plausible features
+such as financial repression and the coexistence in rationed markets of several prices for
+the same good in terms of money. They also obtain equilibria with sovereign default
+when such policies do not rule it out with money creation by assumption.
+The second question has led the literature to single out two polar cases, monetary
+dominance and fiscal dominance. Monetary dominance corresponds to the case in which
+the monetary authority moves first and selects the price level, using relation (1) in our
+specific example. The fiscal authority then figures out a path of debt and surpluses such
+that real debt is equal to the present value of future surpluses given such price levels.
+Fiscal dominance by contrast corresponds to the situation in which the fiscal authority
+moves first with a plan for its nominal debt and real surpluses. Then the monetary
+authority figures out a monetary policy that delivers a price level such that (2) holds.
+The pioneering model of fiscal dominance is the “unpleasant monetarist arithmetic” in
+Sargent and Wallace (1981). Bassetto, Benzoni, and Hall (2024) offer a version of it
+aimed at analyzing the current inflationary episode.
+“The question is, Which authority moves first, the monetary authority or
+the fiscal authority? In other words, Who imposes discipline on whom?”
+Sargent and Wallace (1981) ask this question at the end of their seminal paper. In
+other words, under which historical, political, economic or else circumstances does a
+state organize itself so that the branch in charge of monetary policy has a free hand at
+pursuing a price-stability target? What makes this branch become instead the servant
+of a spending plan? It is fair to say that the literature has made little progress on this
+question since the unpleasant monetarist arithmetic. Section 3 offers a simplified version
+of the attempt at scratching the surface on this question by Barth ́elemy, Mengus, and
+Plantin (2024c).
+Fiscal theory of the price level Even though fiscal dominance and the fiscal theory of the
+price level are often put in the same bucket, Cochrane (2005) clearly explains that they are
+of different nature.5 The fiscal theory of the price level amounts to assuming a frictionless
+5See also Sims (1994); Woodford (1994); McCallum (2001); Cochrane (2001) among others.
+5
+
+
+economy, thereby getting rid of condition (1), in which case condition (2) pins down the
+price level using only fiscal variables. Two main economic intuitions are put forward in the
+literature to understand this thought-provoking result. First, Sims (1999) and Cochrane
+(2005) adopt an asset-pricing analogy: the price level Pt equals the market price of a
+stock Bt−1 associated with a flow of dividends equal to the future expected surpluses
+(st+j)j∈N. Woodford (2001) adopts a more macroeconomic interpretation arguing that
+at any price level above (below) that defined by equation (2), the representative agent
+feels poorer (richer) due to a wealth effect and optimally decides to consume less (more,
+respectively), thereby bringing the price level back to equilibrium level.
+The role of the debt-valuation equation Since at least Sargent and Wallace (1981),
+there has been a relatively broad consensus that public debt links monetary and fiscal
+policies and creates a game of chicken as described in Sargent (1986) when policies are
+delegated to two distinct authorities. However, the exact form of these interactions is
+hotly debated in the literature and the bond market is at the center of this debate.
+First, the meaning and role of equation (2) in the price-level determination is con
+troversial. In the context of the Fiscal Theory of the Price Level, this equation suffices
+to determine a unique price level assuming a given path of primary surpluses. Buiter
+(2002) and Niepelt (2004) argue that two ingredients are spurious in this theory: (i) It
+relies on the private sector holding initial legacy debt that has not been explicitly priced
+in a rational-expectations equilibrium, (ii) Fiscal policy is allowed to be “non-Ricardian”,
+that is, can be inconsistent with equation (2) in some contingencies. This latter argu
+ment is carefully handled in Bassetto (2002), who shows that in order to properly study
+price-level determination, one needs to depart from Walrasian environments and rely on
+strategic models in which policies are well defined for all (in and out of equilibrium) fea
+sible actions of the private sector. Bassetto (2002) constructs a set of out-of-equilibrium
+fiscal and monetary actions that lead to the equilibrium outcome described by the fis
+cal theory of the price level. Barthe ́lemy, Mengus, and Plantin (2024b) show in a more
+general model of strategic exchange that default or financial repression are more likely
+outcomes when monetary policy puts some weight on something else than the surplus
+and the solvency of the government.
+Second, Bassetto and Cui (2018) show that when the real rate of interest is sufficiently
+6
+
+
+low, the budget constraint of the government does not pin down a unique equilibrium
+price level given debt and primary surpluses, as many Ponzi-schemes levels are sustainable
+and thus price levels. Still, it does provide a lower bound on prices.
+Other authors argue that the public sector should not be consolidated as (it is implic
+itly done) in equation (2) and that the central bank is not liable of the government debt
+leading to emphasize more the role of central bank remittances and financial soundness
+(see Benigno, 2020, among others). These discussions underline the need to be extremely
+cautious when defining the equilibrium concept and policies.
+Finally, notice that equation (2) is only valid if debt is short-term. Cochrane (2001)
+shows that the maturity structure of debt matters for the dynamics of inflation under
+fiscal dominance, as not only current but also future inflation reduces the real value of
+long-term debt.
+2.2 Three approaches to fiscal-monetary interactions
+Fiscal-monetary interactions have been studied in multiple different approaches: jointly
+optimal monetary and fiscal policies, equilibrium outcome as a function of fiscal and mon
+etary rules, and games. In this section, we review each of these approaches and ask how
+and whether each of them can shed light on Sargent and Wallace (1981) question “Who
+imposes discipline on whom?”.
+Optimal joint monetary and fiscal policies This literature which follows Lucas and
+Stokey (1983) connects with the model sketched in Section 3 along two dimensions.
+On the one hand, this literature has emphasized that the public sector may optimally
+use unexpected inflation to deal with budgetary shocks (see Bohn, 1988; Chari, Christiano,
+and Kehoe, 1991; Calvo and Guidotti, 1993, among others). Subsequent research has
+investigated how this result quantitatively depends on the costs of inflation, e.g., due to
+sticky prices (see Siu, 2004; Schmitt-Grohe ́ and Uribe, 2004; Teles and Tristani, 2024,
+among others), or on the level and the maturity structure of public debt (see Lustig,
+Sleet, and  ̧Sevin Yeltekin, 2008; Faraglia, Marcet, Oikonomou, and Scott, 2013; Leeper
+and Zhou, 2021, among others).
+On the other hand, Lucas and Stokey (1983) note that nominal liabilities also make
+the optimal fiscal and monetary policy time-inconsistent, a problem analyzed by Alvarez,
+7
+
+
+Kehoe, and Neumeyer (2004) and Persson, Persson, and Svensson (2006).
+As a result, the public sector may have to choose between state contingent inflation as
+a buffer against negative shocks to finance deficits and the time-consistency of its policy:
+by delegating its monetary policy to an independent central bank, the public sector opts
+for the latter at the expense of the former. Such a delegation creates room for strategic
+interactions that are not studied by this literature.
+Rules Since the seminal paper by Leeper (1991), the macroeconomic literature has
+imported the concepts of monetary and fiscal dominance as monetary or fiscal regimes in
+dynamic models that lend themselves to quantitative exercises. It typically obtains these
+policy regimes as the sustainable outcomes obtained when authorities follow rules under
+commitment. Leeper (1991) defines a monetary rule as active if the interest rate strongly
+reacts to inflation, and as passive otherwise. A fiscal rule is deemed passive when the
+primary surplus reacts to the level of debt, active otherwise. Leeper (1991) finds that
+only two configurations lead to a unique equilibrium, corresponding to one policy being
+active and the other one passive. When monetary policy is passive, inflation reacts to the
+level of debt and primary surpluses are not affected by the level of debt. With passive
+fiscal policy, primary surpluses react to the level of debt and inflation stays on target.
+In particular, this literature has investigated the possibility of random switches across
+regimes (Davig and Leeper, 2007) and this approach was used to confront models of fiscal
+dominance with the data as we discuss in the next section. More recent advances also
+include the analysis of monetary unions (e.g., Mackowiak and Schmidt, forthcoming).
+From our perspective, if the rule-based approach has proven to be fruitful to under
+stand the quantitative implications of fiscal dominance, this approach typically posits
+exogenous random switches across regimes, and thus remains silent on the incentives of
+the fiscal and monetary authorities to chicken out.
+Games The time-inconsistency of monetary policy and its delegation to an independent
+authority has been intensively explored following Barro and Gordon (1983) and Rogoff
+(1985). In particular, a literature has investigated the game resulting from the contribu
+tion of fiscal policy to such time-inconsistency (see Alesina and Tabellini, 1987, among
+others). In particular, Dixit and Lambertini (2003) emphasize the role of the objectives
+of the central bank and the government. Important features are also the ability of the
+8
+
+
+central bank to respond to fiscal policy (Gnocchi, 2013) or the degree of credibility to
+commit to rules (Camous and Matveev, 2022).
+However, these models assume away fiscal dominance and the game of chicken, as
+dubbed by Wallace, which results from the conflict between branches of government that
+are partially liable for government debt. In this latter case, as analyzed in Sargent and
+Wallace (1981), the government’s solvency constrains the set of possible actions of the
+central bank. Such a game of chicken is rarely formally studied. Tabellini (1986) is one
+exception. He considers a reduced-form model in which the government issues debt to
+finance deficits and the central bank issues money that helps to reduce government debt
+in circulation.
+We present a simple theory of the game of chicken in section 3.
+2.3 Fiscal dominance in the data
+We offer a sample of the literature that seeks to build evidence of fiscal dominance.
+We hope this way to showcase the impressive diversity of approaches that this literature
+encompasses.
+Fiscal dominance helps understand recent dynamics in US sovereign bond markets
+A sequence of papers analyzes the valuation of US public debt through the lens of the
+budget constraint of the government, identifying conditions on fiscal policy under which
+this debt is risky or safe in real terms (See Jiang et al., 2024). In particular, Jiang et al.
+(2024) interpret bonds as claims on government surpluses and they note that surpluses
+are procyclical, in the case of the US. Building on this work, Gomez-Cram et al. (2024)
+show that, with nominal default-free debt, fiscal shocks are absorbed by fiscal surpluses
+under monetary dominance, while they are absorbed through inflation and, thus, real
+debt fluctuations under fiscal dominance. From a policy perspective, Gomez-Cram et al.
+(2024) argue that bond markets have recently shifted from monetary dominance with safe
+real debt to fiscal dominance with risky real debt. In this latter regime, bond markets
+require a bond risk premium on public debt, yields react to news about future government
+surpluses as shown in Corhay et al. (2023), and bond yields are positively correlated with
+stock returns.
+9
+
+
+Hilscher, Raviv, and Reis (2022) argue that inflation will only have limited effects on
+the real value of US public debt due to short maturities and low expected persistence of
+inflation.
+Historical examples suggestive of fiscal dominance Sargent (1982) provide historical
+examples of periods of persistently large inflation associated with fiscal deficits. Sargent
+and Velde (1995) describe how unpleasant fiscal arithmetic explain public finances before
+and during the French Revolution. Antipa (2016) shows the connection between fiscal
+policy and the price level in the UK during the period of suspension of the convertibility
+of the pound into gold between 1797-1821 associated with Napoleonic wars. Kehoe and
+Nicolini (2021) provide evidence of fiscal dominance for a large set of Latin America
+countries over multiple decades. For the inter-war period, Barthe ́lemy, Bignon, and Ding
+(2024a) find support for fiscal dominance in France by studying the impact of bad news
+on German war reparations.
+Hall and Sargent (2022) document that the US financed WWI, WWII and Covid-19
+period large fiscal expenditures mainly by issuing bonds and money. In the case of Covid
+19, taxes account for a very small share (3.5% compared with 30.2% for WWII and 20.8%
+for WWI) and money for a substantial share (18.5% against 10.1% for WWII and 7% for
+WWI). Ex post, real returns on these assets were negative due to inflation in the case of
+WWI and WWII.
+Finally, Hall and Sargent (2011) or Acalin and Ball (2023) have analyzed the evolution
+of post-WWII US public debt. They both show that unexpected inflation accounts for a
+substantial share of the decline of US public debt.
+Direct threats to the independence of central banks A recent literature has explored
+potential pressures by the fiscal authority on the monetary one (Binder, 2021; Romelli,
+2022; Drechsel, 2024). Recently, multiple papers (Camous and Matveev, 2021, among
+others) have used tweets by Donald Trump while in office to document that they af
+fected market perceptions of the Fed policy. In particular, via a high-frequency approach,
+Bianchi et al. (2023b) document that these tweets affected the stock market, bond premia
+and, more generally, the economy.
+More generally, the extent to which central banks can emancipate themselves from
+fiscal influence is the outcome of political-economy forces that are described, e.g., by
+10
+
+
+Silber (2012) in the case of Paul Volcker, or by Mee (2019) in the case of the German
+Bundesbank.
+Fiscal dominance risk helps explain business cycle fluctuations Leeper, Traum, and
+Walker (2017) show the importance of fiscal dominance to estimate fiscal multipliers,
+Bianchi and Melosi (2017, 2022) show that the expectation of fiscal dominance may
+explain the absence of deflation during the Great Recession and inflation post Covid (see
+also Bianchi and Ilut, 2017, for the role of agents’ beliefs on monetary/fiscal dominance
+during the Great Inflation period). Bianchi et al. (2023a) show how this setting can be
+extended to account for fiscal inflation—inflation which results from fiscal shocks to which
+the monetary authority does not respond—and they show that such fiscal inflation is key
+to understand inflation dynamics and predict the inflationary effects of fiscal programs
+such as the 2021 US ARPA. Barro and Bianchi (2023) provide cross-country evidence on
+the link between government spending and inflation rate during and after Covid.
+Do households believe in fiscal dominance? Within the literature on household inflation
+expectations, some papers investigate their connection with fiscal variables. Coibion,
+Gorodnichenko, and Weber (2021) show that information treatments about future rising
+debt levels lead households to revise upward their inflation expectations. Building on
+this work, Andrade et al. (2024) provide evidence that at least some households make
+the connection between fiscal variables and inflation following a fiscal-dominance logic:
+Information treatments affecting expected debt levels also affect inflation expectations,
+mainly for households expecting that fiscal capacity cannot be expanded to fully fund the
+increase in debt, consistently with (2).
+3 When does fiscal dominance prevail? A simple theory
+This section offers an elementary model that maps the primitive parameters of an
+economy, including the objectives of the fiscal and monetary authorities, into the preva
+lence of monetary or fiscal dominance, or even possibly of other outcomes detailed below.
+This adds complementary insights to that of the literature that takes fiscal or monetary
+dominance, or possible switches between them, as exogenous.
+11
+
+
+Overview of the model The public sector in this model is comprised of two agents,
+a monetary authority M and a fiscal authority F . The public sector issues two types
+of liabilities, reserves and bonds. Reserves are the unit of account of the economy and
+trade between the monetary authority M and the private sector. The fiscal authority F
+trades real bonds with the private sector. However, F cannot commit to make good on the
+repayment of its bonds. The central ingredient of the model is a divergence between F and
+M ’s objectives. While both authorities incur costs from outright sovereign default, and
+thus seek to some extent to avert it, they each trade off sovereign solvency with different
+goals. M also seeks to keep the price level—the price of the (single) consumption good
+in terms of reserves—at some target. F by contrast balances making good on sovereign
+debt with maximizing government spending. F would thus like M to inflate away legacy
+public liabilities in order to be able to spend more without defaulting, whereas M prefers
+that the public sector averts default with fiscal consolidation holding inflation on target.
+Hence the fiscal and monetary authorities play a game of chicken: They both dread
+sovereign default but want the other to incur the cost of avoiding it. As F has no ability
+to commit to future actions (nor does M ), it contemplates using current debt issuance
+as a costly commitment device to gain the upper hand in such a game of chicken played
+in the future.
+In sum, the key features of our model of such a game of chicken are essentially the
+same as that in Sargent and Wallace (1981), except for one crucial difference. In the
+seminal paper of Sargent and Wallace, F has full commitment power—both on debt
+repayment and future deficits—and acts as a Stackelberg leader, constraining monetary
+policy with credible fiscal plans. By contrast, none of the authorities can commit to policy
+plans in our setup, and so they use their policy instruments as commitment devices. The
+model that we present here is a stripped-down version of the richer description of fiscal
+and monetary interactions studied in Barth ́elemy, Mengus, and Plantin (2024c). We also
+sketch ideas developed in Barthe ́lemy, Mengus, and Plantin (2024b), in which we study
+more generally the extent to which a government has the capacity to determine the value
+at which the money that it issues trades for desirable commodities without resorting to
+any trading bans or price controls.
+12
+
+
+3.1 A two-date model of fiscal-monetary interactions
+Consider a two-date economy in which time is indexed by t ∈ {1, 2}. There is a single
+consumption good. The economy features a private sector comprised of a competitive
+representative agent and a public one that consists in turn of two agents, a fiscal authority
+F and a monetary authority M .
+Endowments The private sector is endowed with a large quantity of the good at each
+date, and with a risk-free storage technology with gross real return ρ > 0. He also inherits
+L > 0 units of reserves from an unmodelled past at the outset of date 1. M receives a
+date-2 real endowment e ≥ 0, e.g., from unmodelled past investments.
+As is standard in game theory, we first describe the extensive form of agents’ interac
+tions, and then their objectives.
+Date 1 At date 1, M decides on a gross nominal rate on reserves R ≥ 0 between 1 and
+2. Then a bond market opens in which F sells to the private sector a promise to repay
+ρb units of the consumption good at date 2 for current goods, where b > 0. F spends the
+proceeds.
+Date 2 A market for reserves opens up at date 2 in which M and the private sector
+participate. We assume for now that this is a market `a la Shapley and Shubik (1977).
+Participants post reserves or/and goods and the price level—the price of goods in terms
+of reserves—clears the market. M bids σ ∈ [0, e] goods in it to buy back reserves. After
+this, M and F take the following actions, simultaneously to fix ideas. F collects an in
+kind tax that has a maximum value τ ≥ 0, and receives a real remittance or dividend
+θ ≥ 0 from M . It decides to default or make good on its debt and on a spending level g2.
+Objectives M targets a price level P ∗ > 0 at each date. It cannot end up with a negative
+endowment of goods at any date.6 F values government spending at each date. Spending
+cannot be negative.7 Both authorities care about default. Formally, denoting by Pt the
+date-t price level and gt government spending at this date, the respective preferences of
+6More formally, it derives an arbitrarily small payoff if this is the case, and will thus find it strictly dominant to avoid it. 7Idem.
+13
+
+
+M and F are:
+UM = −|P1 − P ∗| − β|P2 − P ∗| − αM h; (3)
+UF = g1 + βg2 − αF h, (4)
+where β > 0 and h ∈ {0, 1} is equal to 0 if and only if the government fully repays its
+debt. For simplicity, we assume an infinite aversion to default for F (αF → +∞) and a
+finite one for M αM ≥ 0.8 If M is indifferent between several strategies, we make the
+tie-breaking assumption that it selects the one that maximizes the utility of F .
+The private sector maximizes date-1 consumption.
+We now solve for the (unique) predictable outcome of this game, using subgame
+perfect Nash as our equilibrium concept. We derive the equilibrium backwards. The
+following section starts with deriving the date-2 outcome taking as given date-1 history.
+3.2 Four possible date-2 regimes
+We solve backwards for the date-2 outcome, first analyzing the default decision of
+F given the date-2 reserve-market outcome and then studying optimal date-2 monetary
+policy.
+Default decision Suppose that M invests σ ∈ [0, e] units of goods in the date-2 reserve
+market. It then finds optimal to transfer θ = e − σ to F . F optimally collects maximum
+taxes τ . Given that F is infinitely averse to defaulting, it does so only when it has no
+other options, that is when τ + θ < ρb, where ρb is the value of its debt. Otherwise, F
+spends g2 = τ + θ − ρb.
+Date-2 money market Given that the private sector must carry until date 2 the reserves
+inherited at date 1, and that he finds them worthless at this date 2, he finds it strictly
+dominant to sells his RL units of reserves in the date-2 market for reserves. The date-2
+price level P2 thus satisfies P2σ = RL.
+M thus controls the date-2 price level P2 = RL/σ by setting the amount of real
+backing of reserves σ. It can in particular always reach its target (P2 = P ∗) provided
+8These two costs may also be interpreted as costs of reversing central bank independence. We analyze the case in which αF is finite and possibly below αM in Barth ́elemy, Mengus, and Plantin (2024c).
+14
+
+
+that P ∗ ≥ RL/e, which, we assume, always holds for brevity. But M may not want to do
+so if this leads to default. We have seen that default occurs when τ + θ − ρb < 0. A price
+level on target is thus incompatible with sovereign solvency if τ + e − RL/P ∗ − ρb < 0.
+In this case, M may prefer to implement a higher price level P2 = RL/σ by spending
+smaller resources σ in the money market. This frees up resources for a larger transfer
+e − σ to the government in order to avoid default. Conditionally on avoiding default this
+way, M optimally selects the lowest possible price P2 such that τ + e − RL/P2 − ρb ≥ 0,
+equal to
+P F ≡ RL
+τ + e − ρb , (5)
+when the denominator is strictly positive, which we can assume without loss of generality.
+This implies that when P = P F , the government does not spend at all, g2 = 0.
+M ’s decision regarding the date-2 price level boils down to a comparison of the payoffs
+resulting from its target price level P ∗ and from P F . When P F ≤ P ∗, M implements
+P ∗ and F has enough resources not to default. If P F > P ∗, M inflates reserves away
+to avoid default if and only if the cost P F − P ∗ is smaller than the benefits αM , or
+P F ∈ (P ∗, P M + αM ]. When P F > P ∗ + αM , M prefers to let F default, and sets the
+price level at P ∗. Figure 1 depicts the resulting optimal monetary policy as a function of
+public debt b and money in the hands of the private sector RL.
+Comments on price-level determination Needless to say, our model of price-level de
+termination by M is extremely stylized. It captures very simply the idea that in order to
+be able to curb inflationary dynamics and keep expectations anchored, the central bank
+must have enough net wealth and sufficiently liquid assets. This way, the central bank
+can credibly always buy back enough reserves at current market conditions in order to
+contract the monetary base and keep the price level stable.
+Financial repression In the stylized above model, the money market is settled through a
+specific trading protocol. Agents post quantities of goods and reserves, and an unmodelled
+auctioneer figures out the market-clearing price. This specific rule is arbitrary, and also
+at odds with situations in which M sets a fixed price at which it is willing to trade its
+money, as is for example the case when it defends a currency peg. Suppose thus that
+15
+
+
+b
+P
+P∗
+1 ρ
+(τ + e − RL
+P∗
+)
+1 ρ
+(
+τ + e − RL
+P ∗+αM
+)
+P ∗ + αM
+Default
+Monetary dominance
+Fiscal dominance
+Figure 1: Policy regimes.
+M accepts to sell up to σ consumption units at the targeted price P ∗. In this case, if
+RL > P ∗σ, the private sector is rationed and forced to hold more public liabilities than it
+would like to. This is the common definition of financial repression. In this naive model,
+financial repression looks like a silver bullet that enables M to control the price level
+with any arbitrarily small amount of backing σ. Thus financial repression enables M to
+both control the price level and avert default even when fiscal dominance prevails in our
+baseline model with market-clearing price (b > 1
+ρ
+(τ + e − RL
+P∗
+)). Where is the catch? In
+the richer and more realistic model of price-level determination in Barth ́elemy, Mengus,
+and Plantin (2024b), in which multiple heterogeneous agents are free to create markets
+to trade with each other, financial repression may give rise to unofficial markets in which
+the price level is above P ∗ and, broadly, decreasing in σ. Examples of such unofficial
+money markets with prices above the official price abound, think for example of foreign
+exchange black markets during hyperinflations. We thus show that financial repression
+and such black markets are two sides of the same coin.
+The four policy regimes We have shed light on four date-2 policy regimes: monetary
+dominance, fiscal dominance, financial repression, and default.
+In monetary dominance, the date-2 price level is on target P2 = P ∗ and F spending
+16
+
+
+decreases in response to any change in the legacy debt b:
+g2 = τ + θ − ρb, (6)
+= τ + e − σ − ρb, (7)
+= τ + e − RL
+P ∗ − ρb. (8)
+In fiscal dominance, F spending g2 is at its minimum equal to zero and the price level
+P F adjusts in response to any marginal legacy debt change following equation (5) that
+resembles the fiscal theory of the price level when re-arranged as:
+RL
+P F = τ + e − ρb. (9)
+In our theory, fiscal dominance can occur only in situations in which F has no choice but
+defaulting in the absence of inflation as raising primary surpluses is not an option. This
+absence of any fiscal space prevents the central bank from lowering the price level without
+triggering a costly default. If this were the case that g2 > 0 and P2 > P ∗ simultaneously
+along the equilibrium path, M would indeed strictly benefit from increasing its investment
+σ in the money market to lower the price level and reduce the remittance θ, thereby forcing
+F to reduce spending g2 so as to avert default, a contradiction.
+In case of default, the price level is on target and g2 = τ + e − RL
+P∗ .
+Finally, under financial repression, the price in the official money market may be on
+target but higher unofficial prices may emerge as well, at least in more complete versions of
+this model that allow for a formal treatment of situations of official market disequilibrium
+such as in Barth ́elemy, Mengus, and Plantin (2024b).
+3.3 Date-1 bond issuance selects date-2 policy regime
+As is transparent from Figure 1, the critical variable on which the date-2 policy regime
+depends is the amount of public debt b. We now study how F optimally selects this debt
+level in the date-1 bond market. This showcases that bond markets are critical in this
+choice and thus in the determination of the policy regime.
+F selects b anticipating date-2 optimal monetary policy as described above. Issuing
+a debt level leading to default is not desirable as this would be perfectly anticipated by
+17
+
+
+the private sector and thus yield no proceeds. Hence there are two options left for F .
+The first option is to select a debt level below 1
+ρ (τ +e− RL
+P ∗ ). In this case, F anticipates
+a date- 2 price level pegged at P ∗ and the absence of any financial support by M .
+The second option for the government is to select a higher debt level than 1
+ρ (τ +e− RL
+P ∗ ).
+In this case, F anticipates that M will deviate from its price-level objective and make a
+larger transfer. More precisely, F anticipates no date-2 consumption (g2 = 0) and a price
+level P2 = P F given by (5). To maximize the transfer from M , the optimal debt level
+bF corresponds to the highest possible date-2 price level in the range of fiscal dominance,
+namely, P2 = P F = P ∗ + αM . This implies bF = 1
+ρ (τ + e − RL
+P ∗+αM ).
+In sum, issuing a debt level that induces fiscal dominance comes at the benefit of a
+larger transfer from M at date 2, but requires that F frontloads its entire consumption
+to date 1 by borrowing as much as possible at date 1. The cost to F of such frontloading
+depends on the discount factor β and the real rate ρ.
+If βρ ≤ 1, F is better off borrowing as much as possible against its date-2 resources no
+matter the date-2 price level. Inducing fiscal dominance and the maximum date-2 price
+level P2 = P ∗ + αM then comes at no cost for F .
+When βρ > 1, F faces a tradeoff between fiscal dominance and the cost of frontloading
+consumption. Under monetary dominance, the optimal debt level is b = 0. F chooses
+fiscal dominance if and only if this leaves it better off than date-2 monetary dominance,
+that is, if
+1
+ρ
+(
+τ + e − RL
+P ∗ + αM
+)
+≥β
+(
+τ + e − RL
+P∗
+)
+, (10)
+or
+(βρ − 1)
+(
+τ + e − RL
+P∗
+)
+< αM
+P ∗ + αM
+RL
+P ∗ . (11)
+The right-hand side are the additional resources transferred by M because of higher
+prices: Loosely speaking, a higher price level raises seigniorage revenue. The left-hand
+side is the cost of frontloading resources at date-1, which depends on the degree of patience
+of the government β and the real rate ρ.
+18
+
+
+What triggers fiscal dominance? From inequality (11), fiscal dominance is more likely
+when real interest rates ρ are low, when F is relatively impatient (low β), M has a high
+aversion to default αM /P ∗ so that it stands ready to inflate reserves away significantly.
+Also this happens when fiscal capacity —sometimes called fiscal space—is small. Fiscal
+capacity encompasses both the ressources of M (assets net of reserves: e − RL/P ∗)
+and the tax capacity τ of F . Under such circumstances, F finds that the costs from
+frontloading future resources are more than offset by the gains from inflating by a rate
+αM /(P ∗ + αM ) outstanding reserves RL/P ∗. Beyond the model, these gains extend to
+any public nominal debt issued prior to date 1 like long-term bonds.
+Distortive taxes are also critical for fiscal dominance. Suppose F now faces a convex
+taxation cost: it costs F c(τ ) to raise (real) taxes τ , with c(0) = 0 and c(.) increasing
+and convex. In this case, monetary dominance always prevails provided that F ’s cost of
+default αF is sufficiently large other things being equal. When αF is large, a default is
+credible only if the future marginal cost of increasing taxation is large. Fiscal dominance
+then requires debt levels corresponding to potentially much larger future taxes than under
+monetary dominance. F finds these tax levels too costly ex-ante.
+Does F benefit from inducing fiscal dominance? F does not derive ex-ante gains from
+inducing fiscal dominance even when it finds (ex post) optimal to do so (when (11) holds).
+The main reason is that M sets a higher rate R on reserves anticipating fiscal dominance
+and the higher price level in the future, so that its real remittance is not affected by fiscal
+dominance. On the other hand, fiscal dominance is ex ante costly for F when βF r > 1 as
+it incurs the costs from excessive borrowing. Then, F would be better off availing itself of
+a commitment device to not induce fiscal dominance, such as a credible fiscal requirement
+putting an upper bound on the amount of debt it can issue.
+This result however holds only because the legacy public liabilities are reserves and
+thus have a variable rate. Were legacy liabilities fixed-rate debt due at date 2, there
+would be ex ante gains for F from fiscal dominance as it would contribute to eroding the
+ex ante real value of public debt.9
+9As detailed in Section 4.1, the out-of-equilibrium threat of fiscal dominance can be ex ante profitable to F even with legacy reserves when M optimally enters into a strategy of preemptive inflation.
+19
+
+
+Nominal versus real sovereign debt Assuming that sovereign debt is real is for expo
+sitional simplicity. The results are verbatim if F issues nominal bonds: then, private
+sector anticipates the date-2 price level and prices it in, so that fiscal dominance can
+inflate away only legacy reserves (or any legacy public liabilities including long-term gov
+ernment bonds) but not newly issued debt.
+4 Implications for central banking and bond markets
+This section draws some implications of the simple model developed in Section 3 for
+central banking and for bond markets.
+4.1 Central banking and fiscal dominance
+In this subsection, we emphasize how central bank interest-rate or balance-sheet poli
+cies may affect or attenuate fiscal dominance.
+Central bank asset management The connection between fiscal dominance risk and cen
+tral bank policies such as quantitative easing is the topic of many policy discussions (see
+Jiang et al., 2024, among others) on which our model provides some insights: Standard
+quantitative easing is unlikely to deter fiscal dominance or attenuate its cost. Suppose
+that M also has date-1 resources—for example from selling reserves—that it can use to
+intervene in the bond market and buy some of the bonds issued by F . Holding the volume
+of bonds issued by F fixed, this makes fiscal dominance less costly for M as it reduces
+the share of bonds owed to the private sector at date 2—equal to ρb in the baseline model
+but net of M ’s purchases in this case. F however anticipates such bond purchases by M
+and can induce fiscal dominance by compensating for them with a larger bond issuance.
+In sum, if M can purchase bonds at date 1, then it will do so and F will issue more bonds
+in equilibria with fiscal dominance, but these purchases will not make M better off nor
+F worse off.
+Still, central bank asset management may matter along two lines. First, according to
+equation (11), a higher central bank’s net wealth e−RL/P ∗ results in a larger cost of fiscal
+dominance for F . This shows the importance of large positive central bank net equity.
+Second, since the gains of the fiscal dominance captured by the right-hand-side member
+20
+
+
+of equation (11) depend on the quantity of legacy reserves L, central banks should try to
+keep their balance sheets as small as possible.
+Beyond QE, other central banks’ specific programs may also prevent or incentivize
+fiscal authorities to engage in fiscal dominance. This echoes the discussions around the
+Transmission Protection Instrument introduced by the ECB in July 2022 and its potential
+effects on individual countries’ debt issuance incentives.
+Preemptive inflation At date 1, M selects the interest rate on reserves R. The private
+sector holds reserves when R = ρP2/P1. When condition (11) holds with R = ρ, M
+cannot set the price level on target at date 1 without inducing fiscal dominance at date
+2. In this case, depending on the parameters, M chooses one of two rates. First, M
+surrenders and fiscal dominance leads to P2 = P ∗ + αM and it sets the date-1 price level
+on target P ∗ by announcing R = ρ(P ∗ + αM )/P ∗. Second, M announces a lower rate
+R—so that (11) does not hold: this comes at the cost of a higher date-1 price level but
+discourages F from inducing fiscal dominance in the bond market—preemptive inflation.
+Which fiscal policies may push to fiscal dominance? Our game is clearly a stylized
+representation of fiscal-monetary interactions: we do not argue that governments design
+fiscal expansions with the explicit goal in mind to force the central bank to deviate
+from price stability. Instead, we argue that our model captures situations of “insidious
+fiscal dominance” (Leeper, 2023) where the government “kicks the can down the road” by
+postponing the resolution of policy problems or where the government does not internalize
+the inflationary consequences of large fiscal expansions, for example, in response to crises
+or wars.
+4.2 Bond markets and fiscal dominance
+The risk of fiscal dominance does not depend only on observable factors such as current
+bond-market conditions—like bond prices—and current and future fiscal conditions 
+e.g. fiscal space as usually defined as the distance to the fiscal limit. In this section,
+we illustrate that the expected bond market reaction to a potential out-of-equilibrium
+attempt at forcing fiscal dominance also matters: Fiscal authorities may not impose
+fiscal dominance if they expect this to result in a strong deterioration in bond-market
+21
+
+
+conditions.
+Imperfectly elastic demand for bonds Suppose that the interest rate is increasing in the
+volume of borrowing by the public sector either because private agents expect a higher risk
+of fiscal dominance and hence price an inflation-risk or a credit-risk premium or because
+public debt crowds out private investment.10 In this case, a large debt issuance to force
+date-2 fiscal dominance results into a higher real rate, which may make fiscal dominance
+unpalatable. In this case, monetary dominance can prevail even if the equilibrium interest
+is low.
+Financial dominance with low rates The market reaction is even more important when
+public debt is used as private liquidity. Barthe ́lemy, Mengus, and Plantin (2024c) also
+develop an infinite-horizon version of the model in which infinitely lived fiscal and mon
+etary authorities interact with overlapping generations of savers. Public debt may then
+have a Ponzi scheme component. In this setting, the respective costs of default αM and
+αF can indeed be rationalized as permanent lower investments in reserves and bonds by
+the market following default. Such a jump to a smaller Ponzi scheme for reserves is in
+flationary and that for bonds leads to a cut in spending. Because it collectively controls
+the size of such jumps, it is the private sector that determines the regime and thus the
+price level in this case — a form of financial dominance.
+An application: the UK mini-budget episode The market reactions to fiscal policy deci
+sions were arguably central in the mini-budget episode in the UK in 2022. We argue that
+this episode illustrates the dynamic and strategic nature of monetary-fiscal interactions
+as well as the role of markets as in our model.
+On September 6, two days after her appointment, Liz Truss announced the “energy
+price guarantee” to cap household energy bills. On September 21, the Monetary Policy
+Committee of the Bank of England confirmed the start of its quantitative tightening few
+days later. On the 23th, the announcement of the mini-budget —often described as a
+bold unbacked fiscal policy— led to a strong market reaction both on the forex and on the
+Gilt market (see Figure 2). On September 28, the Bank of England started to intervene
+10Inflation-risk or credit-risk premia cannot be formally modelled in the deterministic game described above, but they presumably act as crowding out by creating a positive link between ρ and b.
+22
+
+
+on the gilt market before announcing on October 10 the end of the market intervention
+on the 14th. This latter day, Kwasi Kwarteng, the chancellor of the exchequer, resigned,
+six days later, Liz Truss resigned as well. Bond yields fell shortly after October 14.
+Interpreting this episode through the lens of our model, the strong market reactions
+helped the central bank win the game of chicken. The rise in real bond rates following the
+mini-budget made apparent for the government that the financial costs of the unbacked
+fiscal expansion and the risk of fiscal dominance dominated the potential gains of the tax
+cuts. In this perspective, the BoE intervention on the gilt market appears to be only
+transitory to restore market functioning (Pinter, 2023) but not to indefinitely support
+the mini-budget. In the language of our model, the Bank of England was not forced to
+chicken out, i.e. could rapidly stop bonds market interventions and did not intervene on
+the Forex market, because it anticipated the withdrawal or the modification of the mini
+budget. The combination of strong reactions by investors leading to higher real rates,
+limited central bank’s interventions on the gilt market and political pressures forced the
+Truss’ government to chicken out and resign.
+2,75
+3,00
+3,25
+3,50
+3,75
+4,00
+4,25
+4,50
+4,75
+5,00
+5,25
+9/1 9/8 9/15 9/22 9/29 10/6 10/13 10/20 10/27
+Nominal yields (in %)
+1 year 10 years 20 years
+Mini-budget Bank of England interventions Kwarteng resigns
+Energy Price Guarantee
+Figure 2: UK Government bond yields – Fall 2022
+23
+
+
+5 Conclusion
+Most economies have incurred large shocks since 2008 that have reshaped the practice
+and analysis of monetary policy. In particular, the old and simple point that the fiscal
+and monetary components of public financial policy are interdependent has come back
+to the foreground. From a research agenda perspective, this begs for a deepening of the
+integration of monetary economics with adjacent fields such as finance and public finance.
+This paper aims at taking stock of some of the progress made in this direction by the
+literature on fiscal and monetary interactions. It also offers suggestions for future research
+towards a better understanding of the determinants of fiscal dominance.
+Another natural research avenue for finance scholars starts from the remark that a
+third component of public policy, the regulation of the private financial sector, also in
+teracts with fiscal and monetary concerns insofar as it affects the consolidated budget
+contraint of the government. While the literature on financial stability has been recently
+increasingly taking public-finance concerns into account, more and deeper points of con
+tact between these literatures seems in order.
+24
+
+
+References
+Acalin, J. and L. M. Ball (2023): “Did the U.S. Really Grow Out of Its World War
+II Debt?” Working Paper 31577, National Bureau of Economic Research.
+Alesina, A. and G. Tabellini (1987): “Rules and discretion with noncoordinated
+monetary and fiscal policies,” Economic Inquiry, 25, 619–630.
+Alvarez, F., P. J. Kehoe, and P. A. Neumeyer (2004): “The Time Consistency of
+Optimal Monetary and Fiscal Policies,” Econometrica, 72, 541–567.
+Andrade, P., E. Gautier, E. Mengus, E. Moench, and T. Schmidt (2024):
+“Households’ Beliefs about Fiscal Dominance,” Mimeo.
+Antipa, P. M. (2016): “How Fiscal Policy Affects Prices: Britain’s First Experience
+with Paper Money,” Journal of Economic History, 76, 1044–1077.
+Barro, R. J. and F. Bianchi (2023): “Fiscal Influences on Inflation in OECD Coun
+tries, 2020-2023,” Working Paper 31838, National Bureau of Economic Research.
+Barro, R. J. and D. B. Gordon (1983): “A positive theory of monetary policy in a
+natural rate model,” Journal of Political Economy, 91, 589–610.
+Barth ́elemy, J., V. Bignon, and A. Ding (2024a): “Lost Illusions: Fiscal Roots of
+French Inflation in the Interwar Period,” Mimeo.
+Barth ́elemy, J., E. Mengus, and G. Plantin (2024b): “A State Theory of Price
+Levels,” Mimeo, Banque de France, HEC and Sciences Po.
+——— (2024c): “The central bank, the treasury, or the market: Which one determines
+the price level?” Journal of Economic Theory, 220.
+Bassetto, M. (2002): “A Game-Theoretic View of the Fiscal Theory of the Price Level,”
+Econometrica, 70, 2167–2195.
+Bassetto, M., L. Benzoni, and J. Hall (2024): “On the Mechanics of Fiscal Infla
+tions,” Quarterly Review, 44.
+Bassetto, M. and G. G. Caracciolo (2021): “Monetary/Fiscal Interactions with
+Forty Budget Constraints,” Working Papers 788, Federal Reserve Bank of Minneapolis.
+25
+
+
+Bassetto, M. and W. Cui (2018): “The fiscal theory of the price level in a world of
+low interest rates,” Journal of Economic Dynamics and Control, 89, 5–22.
+Bassetto, M. and T. J. Sargent (2020): “Shotgun Wedding: Fiscal and Monetary
+Policy,” Working Paper 27004, National Bureau of Economic Research.
+Benigno, P. (2020): “A Central Bank Theory of Price Level Determination,” American
+Economic Journal: Macroeconomics, 12, 258–283.
+Bianchi, F., R. Faccini, and L. Melosi (2023a): “A Fiscal Theory of Persistent
+Inflation*,” Quarterly Journal of Economics, 138, 2127–2179.
+Bianchi, F., R. Gomez-Cram, T. Kind, and H. Kung (2023b): “Threats to central
+bank independence: High-frequency identification with twitter,” Journal of Monetary
+Economics, 135, 37–54.
+Bianchi, F. and C. Ilut (2017): “Monetary/Fiscal Policy Mix and Agent’s Beliefs,”
+Review of Economic Dynamics, 26, 113–139.
+Bianchi, F. and L. Melosi (2017): “Escaping the Great Recession,” American Eco
+nomic Review, 107, 1030–1058.
+——— (2022): “Inflation as a Fiscal Limit,” .
+Binder, C. C. (2021): “Political Pressure on Central Banks,” Journal of Money, Credit
+and Banking, 53, 715–744.
+Bohn, H. (1988): “Why do we have nominal government debt?” Journal of Monetary
+Economics, 21, 127–140.
+Buiter, W. H. (2002): “The Fiscal Theory of the Price Level: A Critique,” Economic
+Journal, 112, 459–480.
+Calvo, G. A. and P. E. Guidotti (1993): “On the Flexibility of Monetary Policy:
+The Case of the Optimal Inflation Tax,” Review of Economic Studies, 60, 667–687.
+Camous, A. and D. Matveev (2021): “Furor over the Fed: A President’s Tweets and
+Central Bank Independence,” CESifo Economic Studies, 67, 106–127.
+26
+
+
+——— (2022): “The Central Bank Strikes Back! Credibility of Monetary Policy under
+Fiscal Influence,” Economic Journal, 133, 1–29.
+Chari, V. V., L. J. Christiano, and P. J. Kehoe (1991): “Optimal Fiscal and
+Monetary Policy: Some Recent Results,” Journal of Money, Credit and Banking, 23,
+519–539.
+Checherita-Westphal, C., A. Rogantini-Picco, S. Schmidt, and J.-D.
+Sigaux (2024): “Monetary and fiscal policy interactions: risks to price stability in
+times of high government debt,” Discussion Paper Series 26, ECB.
+Cochrane, J. H. (2001): “Long-Term Debt and Optimal Policy in the Fiscal Theory
+of the Price Level,” Econometrica, 69, 69–116.
+——— (2005): “Money as Stock,” Journal of Monetary Economics, 52, 501–528.
+——— (2023): The Fiscal Theory of the Price Level, Princeton University Press.
+Coibion, O., Y. Gorodnichenko, and M. Weber (2021): “Fiscal Policy and House
+holds’ Inflation Expectations: Evidence from a Randomized Control Trial,” Working
+Paper 28485, National Bureau of Economic Research.
+Corhay, A., T. Kind, H. Kung, and G. Morales (2023): “Discount Rates, Debt
+Maturity, and the Fiscal Theory,” Journal of Finance, 78, 3561–3620.
+Davig, T. and E. M. Leeper (2007): “Generalizing the Taylor Principle,” American
+Economic Review, 97, 607–635.
+Dixit, A. and L. Lambertini (2003): “Interactions of commitment and discretion in
+monetary and fiscal policies,” American Economic Review, 93, 1522–1542.
+Drechsel, T. (2024): “Estimating the Effects of Political Pressure on the Fed: A
+Narrative Approach with New Data,” NBER Working Papers 32461, National Bureau
+of Economic Research, Inc.
+Faraglia, E., A. Marcet, R. Oikonomou, and A. Scott (2013): “The Impact of
+Debt Levels and Debt Maturity on Inflation,” Economic Journal, 123, F164–F192.
+27
+
+
+Gnocchi, S. (2013): “Monetary Commitment and Fiscal Discretion: The Optimal Policy
+Mix,” American Economic Journal: Macroeconomics, 5, 187–216.
+Gomez-Cram, R., H. Kung, and H. N. Lustig (2024): “Government Debt in Mature
+Economies. Safe or Risky?” .
+Hall, G. J. and T. J. Sargent (2011): “Interest Rate Risk and Other Determinants
+of Post-WWII US Government Debt/GDP Dynamics,” American Economic Journal:
+Macroeconomics, 3, 192–214.
+——— (2022): “Three world wars: Fiscal-monetary consequences,” Proceedings of the
+National Academy of Sciences, 119.
+Hilscher, J., A. Raviv, and R. Reis (2022): “Inflating Away the Public Debt? An
+Empirical Assessment,” Review of Financial Studies, 35, 1553–1595.
+Jiang, Z., H. Lustig, S. V. Nieuwerburgh, and M. Z. Xiaolan (2024): “The
+U.S. Public Debt Valuation Puzzle,” Econometrica, 92, 1309–1347.
+Kehoe, T. J. and J. P. Nicolini, eds. (2021): A Monetary and Fiscal History of
+Latin America, 1960-2017, University of Minnesota Press.
+Leeper, E. and C. Leith (2016): “Understanding Inflation as a Joint Monetary-Fiscal
+Phenomenon,” Elsevier, vol. 2 of Handbook of Macroeconomics, 2305–2415.
+Leeper, E. M. (1991): “Equilibria under ’active’ and ’passive’ monetary and fiscal
+policies,” Journal of Monetary Economics, 27, 129–147.
+——— (2023): “Fiscal Dominance: How Worried Should We Be?” Policy briefs, Mercatus
+Center.
+Leeper, E. M., N. Traum, and T. B. Walker (2017): “Clearing Up the Fiscal
+Multiplier Morass,” American Economic Review, 107, 2409–2454.
+Leeper, E. M. and X. Zhou (2021): “Inflation’s role in optimal monetary-fiscal policy,”
+Journal of Monetary Economics, 124, 1–18.
+Lucas, R. J. and N. L. Stokey (1983): “Optimal fiscal and monetary policy in an
+economy without capital,” Journal of Monetary Economics, 12, 55–93.
+28
+
+
+Lustig, H., C. Sleet, and S ̧evin Yeltekin (2008): “Fiscal hedging with nominal
+assets,” Journal of Monetary Economics, 55, 710–727.
+Mackowiak, B. and S. Schmidt (forthcoming): “Fiscal Backing for Price Stability in
+a Monetary Union,” American Economic Journal: Macroeconomics.
+McCallum, B. T. (2001): “Indeterminacy, bubbles, and the fiscal theory of price level
+determination,” Journal of Monetary Economics, 47, 19–30.
+Mee, S. (2019): Central Bank Independence and the Legacy of the German Past, Cam
+bridge University Press.
+Niepelt, D. (2004): “The Fiscal Myth of the Price Level,” Quarterly Journal of Eco
+nomics, 119, 277–300.
+Persson, M., T. Persson, and L. E. Svensson (2006): “Time consistency of fiscal
+and monetary policy: a solution,” Econometrica, 74, 193–212.
+Pinter, G. (2023): “An anatomy of the 2022 gilt market crisis,” Bank of England
+working papers 1019, Bank of England.
+Rogoff, K. (1985): “The Optimal Degree of Commitment to an Intermediate Monetary
+Target,” Quarterly Journal of Economics, 100, 1169–89.
+Romelli, D. (2022): “The political economy of reforms in Central Bank design: evidence
+from a new dataset,” Economic Policy, 37, 641–688.
+Sargent, T. J. (1982): “The Ends of Four Big Inflations,” in Inflation: Causes and
+Effects, National Bureau of Economic Research, Inc, NBER Chapters, 41–98.
+——— (1986): “Interpreting the Reagan deficits,” Economic Review, 5–12.
+Sargent, T. J. and F. R. Velde (1995): “Macroeconomic Features of the French
+Revolution,” Journal of Political Economy, 103, 474–518.
+Sargent, T. J. and N. Wallace (1981): “Some unpleasant monetarist arithmetic,”
+Quarterly Review.
+Schmitt-Groh ́e, S. and M. Uribe (2004): “Optimal fiscal and monetary policy under
+sticky prices,” Journal of Economic Theory, 114, 198–230.
+29
+
+
+Shapley, L. and M. Shubik (1977): “Trade Using One Commodity as a Means of
+Payment,” Journal of Political Economy, 85, 937–968.
+Silber, W. (2012): Volcker: The Triumph of Persistence, Bloomsbury Publishing.
+Sims, C. A. (1994): “A Simple Model for Study of the Determination of the Price Level
+and the Interaction of Monetary and Fiscal Policy,” Economic Theory, 4, 381–399.
+——— (1999): “Domestic Currency Denominated Government Debt as Equity in the
+Primary Surplus,” Mimeo, Princeton.
+Siu, H. E. (2004): “Optimal fiscal and monetary policy with sticky prices,” Journal of
+Monetary Economics, 51, 575–607.
+Tabellini, G. (1986): “Money, debt and deficits in a dynamic game,” Journal of Eco
+nomic Dynamics and Control, 10, 427–442.
+Teles, P. and O. Tristani (2024): “The monetary financing of a large fiscal shock,”
+Journal of Monetary Economics, 147, 103630.
+Woodford, M. (1994): “Monetary policy and price level determinacy in a cash-in
+advance economy,” Economic theory, 4, 345–380.
+——— (2001): “Fiscal Requirements for Price Stability,” Journal of Money, Credit and
+Banking, 33, 669–728.
+30

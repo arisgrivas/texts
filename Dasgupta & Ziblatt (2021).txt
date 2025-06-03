@@ -1,0 +1,1264 @@
+1
+CAPITAL MEETS DEMOCRACY:
+THE IMPACT OF FRANCHISE EXTENSION ON SOVEREIGN BOND MARKETS1
+Aditya Dasgupta Daniel Ziblatt
+Word Count: 9,991
+Abstract
+By giving political rights to poor voters, do democratic political institutions pose a risk to financial capital? This paper draws lessons from the reaction of sovereign bond markets to franchise extensions between 1800 and 1920. If franchise extension transferred political power from economic and financial elites to workers, as redistributive theories of democratization suggest, then this should have resulted in a fall in the market price (increase in the yield) of a country’s bonds. Exploiting the asynchronous timing of franchise reforms across countries, we provide evidence that franchise extension contributed to large increases in the premium demanded by investors to hold sovereign debt, reflecting an increased risk of default. However, bond markets became less sensitive to franchise extensions over time, a pattern potentially due to the structure of inequality and the strategic adoption of institutions which protected financial interests.
+The data and materials required to verify the computational reproducibility of the results, procedures and analyses in this article are available on the American Journal of Political Science Dataverse within the Harvard Dataverse Network, at: https://doi.org/10.7910/DVN/WR97GH.
+We thank Carles Boix, Gary Cox, Niall Ferguson, Isabela Mares, Bruce Morrison, Thomas Pepinsky, Tesalia Rizzo, James Robinson, David Stasavage, Steven Wilkinson, and seminar participants at Harvard University, the Juan March Institute, Princeton University, and Yale University for valuable feedback. We thank Christian Garcia and Pedro Paulo Weizenmann for valuable research assistance.
+Aditya Dasgupta is Assistant Professor, School of Social Sciences, Humanities, and Arts, University of California, Merced. Email: adasgupta3@ucmerced.edu. Mail: 5200 North Lake Road, Merced, CA, 95342.
+Daniel Ziblatt is Eaton Professor of the Science of Government, Harvard University. Email: dziblatt@gov.harvard.edu. Mail: Center for European Studies, 27 Kirkland Street, Room 123, Cambridge, MA 02138. Phone: 617-495-4303 ext. 216
+
+
+2
+1. Introduction
+By giving political rights to poor voters, do democratic political institutions pose a risk to
+financial capital? This paper draws lessons from the reaction of sovereign bond markets to
+franchise extensions between 1800 and 1920, a period, sometimes called the “first wave of
+democracy,” during which political rights were extended from economic and financial elites to
+workers for the first time in history (Huntington 1991).
+A large share of wealth was held in the form of government bonds during the nineteenth century.2
+Bondholders paid close attention to political events and changes in constitutions, since
+governments could, and often did, default upon their debts.3 As Ferguson (1999) notes,
+fluctuations in the price of a country’s sovereign bonds on secondary markets represented a
+revealed-preference barometer of the confidence that wealthy capitalists placed in the
+willingness and ability of a given regime to repay its debts. 4
+2 For instance, estimates from one study suggest that government bonds comprised
+approximately 15 percent of the wealth of Parisian elites in the late nineteenth century (Piketty,
+Postel-Vinay, and Rosenthal 2014).
+3 Defaults could be partial or complete and could take different forms (for instance total
+repudiation, a delay in repayment, a partial repayment, or restructuring agreement).
+4 Writes Ferguson (1999): “[Bond prices] were...a kind of daily opinion poll, an expression of
+the confidence in a given regime. Of course, they were an opinion poll based on a highly
+unrepresentative sample ... Only the wealthy – the ‘capitalists’ – got to vote.”
+
+
+3
+How did investors react to extensions of voting rights? If franchise extension transferred political
+power from capital to labor, as redistributive theories of democratization suggest (Acemoglu and
+Robinson 2005; Boix 2003), then this contributed to an increase in sovereign risk for three
+plausible reasons. First, poorer voters were more tolerant of default than were economic and
+financial elites, who often possessed a vested interest in debt repayment (see e.g. Dixit and
+Londregan 2000; Andreasen, Sandleris, and Van der Ghote 2019). Second, by expanding political
+participation to the mass electorate, franchise extension opened the door to fiscal and monetary
+“populism” that could be detrimental to bondholders. Third, franchise extension intensified
+political uncertainty and instability, leading drivers of sovereign risk during this period (see e.g.
+Ferguson 2006).
+To empirically assess the risk investors attached to franchise extension, this paper assembles a
+dataset linking estimates of the share of the adult population with voting rights to long-term
+sovereign bond yield data across 26 countries in Europe and the Americas between 1800 and
+1920. The empirical strategy exploits the asynchronous timing of franchise extensions across
+countries in a panel fixed effects framework, to estimate how within-country changes over time
+in the share of the adult population with voting rights impacted the risk premium demanded by
+investors to hold a country’s sovereign debt, while partialing out common time-based trends and
+shocks. We address concerns about endogeneity by utilizing an event study design to examine
+the timing of changes in outcomes relative to the passage of major franchise reforms.
+The empirical analyses reveal that franchise extensions resulted in large increases in sovereign
+bond yields, reflecting an increase in the risk premium investors demanded to hold a country’s
+
+
+4
+debt. Tests of competing channels indicate this was due to an increase in the long-run occurrence
+of default and financial instability. Tests of the time-path of effects suggest that yields were
+stable prior to, but began to increase precisely with the passage of major franchise extensions,
+and to decline with the passage of major franchise reversals. These findings mitigate possible
+concerns about endogeneity and indicate bond markets were reacting not just to the uncertainty
+associated with destabilizing constitutional change but to the direction of changes--expansion or
+contraction--in the size of the electorate.
+Additional semi-parametric regression analyses reveal that investors attached diminishing
+marginal risk to the share of the adult population with the right to vote--early franchise
+extensions produced larger increases in yields than did later franchise extensions. This is
+potentially consistent with two explanations. First, in the unequal societies of the nineteenth
+century, early reforms that enfranchised a relatively small number of voters could nonetheless
+produce large changes in the pivotal voter’s income position. Consistent with this, analyses
+indicate that investors attached greater risk to franchise extension in more unequal societies,
+especially in the early nineteenth century. Second, we provide evidence that elites may have
+strategically adopted institutions which protected financial interests in response to franchise
+extension. This included the gold standard, which, especially from the 1870s onward, came to be
+preferred by financial interests over bimetallism as a way to guard against inflationary policies
+(Gallarotti 1995; Flandreau 1996). Franchise extension also contributed to increases in the level
+of institutionalization of political parties, which in the nineteenth century provided an
+autonomous institutional mechanism of self-defense for economic elites in domestic politics
+(Ziblatt 2017).
+
+
+5
+The findings contribute to the literature on political institutions’ impact on financial markets, also
+disaggregating the impacts of different dimensions of democratization (Stasavage 2016;
+Dincecco 2011; Tomz 2012; Beaulieu, Cox, and Saiegh 2012; Flandreau and Zumer 2004;
+Ballard-Rosa, Mosley, and Wellhausen 2019). Democratization historically occurred along two
+dimensions: first, the deepening of contestation between rival elites (the weakening of absolute
+monarchies and the emergence of parliaments) and, later, the expansion of political participation
+(the extension of the franchise) to mass electorates (Dahl 1971). The canonical work of North
+and Weingast (1989) focused on the first dimension, linked thriving sovereign bond markets to
+the emergence of parliaments which placed limits on arbitrary expropriation by government. Our
+findings suggest that franchise extension, a distinct dimension of democratization that extended
+political rights once elected legislatures were already in place, had different effects, consistent
+with redistributive theories of democratization (Acemoglu and Robinson 2005; Boix 2003). By
+transferring political power of economic and financial elites to poorer voters, franchise
+extensions increased sovereign credit risk. However, we also find that key institutional
+safeguards, including the gold standard as well as institutionalized political parties, may have
+played an important role in making mass democracy increasingly “safe” for financial capital
+during the first wave.
+The remainder of the paper is structured as follows. We first introduce the historical setting and
+the theoretical framework before presenting the empirical strategy and reporting results.
+
+
+6
+2. Capital Markets During the First Wave of Democracy
+Sovereign bond markets thrived during the nineteenth century, representing a deep and
+globalized pool of capital, with investors in major financial centers like London, Paris, and
+Amsterdam trading sovereign bonds from around the world on a daily basis. The total value of
+bonds traded in London was 3 billion pounds in 1875, 20 percent of the value of which derived
+from bond issues by emerging-market countries (Mauro, Sussman, and Yafeh 2002). According
+to some estimates, the level of international capital mobility achieved during the “first age of
+globalization” in the period 1870-1914 was not achieved again until late twentieth century
+(Obstfeld and Taylor 2004).
+For borrowing countries, bond markets represented a valuable source of public finance, enabling
+them to fight wars and to expand the state, with positive consequences for long-run economic
+development (Dincecco 2011). For investors, sovereign lending was potentially lucrative, but
+also fraught with political risk, since governments could, and often did, unilaterally default upon
+debt – with little legal recourse to the investor. In our sample of 26 countries in Europe and the
+Americas observed between 1800 and 1920, according to data from Purcell and Kaufman (1993),
+on average nations were in default 16 percent of the time.
+In this context of pervasive sovereign risk, investors held governments accountable for their
+debts in two ways. The first was through repeated interaction and lending on the basis of
+reputation, facilitated by banks and intermediaries that underwrote sovereign debt as well as a
+thriving financial press industry (Tomz 2012; Eaton and Gersovitz 1981; Flandreau and Flores
+2009). Investors paid close attention to political events in borrowing nations that could portend
+
+
+7
+political and financial instability, especially news of wars, revolutions, as well as constitutional
+change (see e.g. Dasgupta and Ziblatt 2015; Ferguson 2006).
+Another way in which bondholders protected their assets against default was through domestic
+political coalitions which held governments accountable for their debts. North and Weingast
+(1989) highlight how the emergence of parliamentary checks on the executive in England
+credibly committed the government to repaying its debts, leading to falling interest rates on loans
+to the English government. A key element of this credible commitment to the repayment of debts
+was the preponderance of financial interests among members of parliament, many of whom
+themselves were sovereign creditors, elected on the basis of a highly circumscribed franchise
+(Stasavage 2007).
+Did the extension of the franchise from elites to workers affect sovereign credibility in capital
+markets? At the beginning of the nineteenth century, political rights were restricted to economic
+elites on the basis of property, income, literacy, and other requirements. Over the course of the
+nineteenth and early twentieth century, these restrictions were eliminated, giving political rights
+to poor and working-class voters for the first time in history (Flora, Kraus, and Pfenning 1983;
+Engerman and Sokoloff 2005; Przeworski 2009). In our sample, between 1800 and 1920, the
+number of countries granting the franchise to all adult males rose from zero to 16 out of 26.
+Redistributive theories of democratization suggest that franchise extensions, by giving political
+rights to the numerical majority of workers, represented an institutional commitment to pro-poor
+policies, a concession granted by elites only in the face of a threat of revolution (Acemoglu and
+
+
+8
+Robinson 2005; Boix 2003). If franchise extension transferred political power from capital to
+labor, as redistributive theories of democratization suggest, then this should have resulted in a
+fall in the market price (increase in yields) of a country’s bonds for three reasons.
+First, by diluting the political power of economic and financial elites, franchise extensions
+weakened an important veto player against default. In spatial models of distributive conflict over
+debt repayment (Dixit and Londregan 2000) – where some, typically wealthier voters hold
+government bonds while other, typically poorer voters do not – sovereign debt repayment is
+credible only when the pivotal voter is a net sovereign creditor. Extending the right to vote, by
+lowering the income position of the pivotal median voter, makes repayment less politically
+likely, especially in settings characterized by high levels of inequality or a more regressive tax
+structure (Andreasen, Sandleris, and Van der Ghote 2019). The salience of this channel depends
+on the investor base and the share of a country’s debt that is held abroad versus domestically
+(Guembel and Sussman 2009), mattering more in countries where a greater fraction of debt is
+held domestically and where, therefore, there are powerful domestic economic and financial
+elites with a large stake in debt repayment whose political power and financial assets may be
+threatened by franchise extension.5
+However, democratization also affected the credit risk attached to bonds held predominantly by
+5 In the Supporting Information (Table A6, p. 13), we explore heterogenous impacts of franchise
+extension on yields as a function of a proxy (whether the country is capital-rich or capital-poor)
+for the investor base.
+
+
+9
+foreign investors because franchise extension affected macroeconomic policies in ways that
+weakened a government’s macroeconomic stability and fiscal solvency. By expanding political
+participation to a mass electorate, franchise extension opened the doors to fiscal and monetary
+populism and potential macroeconomic instability. Nineteenth-century investors were keenly
+attentive to the sustainability of public debt in the countries whose bonds they purchased
+(Flandreau and Zumer 2004). Cain and Hopkins (2014) argue that whether a country could
+manage peacetime budget surpluses was a key indicator of financial soundness in the eyes of the
+“gentlemanly capitalists” of imperial Britain. Franchise extension challenged these tenets of
+sounds macroeconomic management.. Several studies have found that, consistent with models
+which suggest that a poorer pivotal voter is likely to lead to an expansion in the size of
+government (Meltzer and Richard 1981), franchise extensions led to increases in government
+spending (see e.g. Aidt, Dutta, and Loukoianova 2006; Husted and Kenny 1997; Lindert 2004).
+Threats of macroeconomic “populism” extended to monetary policy. Policies associated with
+“sound money”, notably the gold standard, were viewed as critical signals of “good
+housekeeping” by investors (Gallarotti 1995; Bordo and Rockoff 1996). But as the franchise was
+extended, newly enfranchised groups pushed for looser monetary policy. In the United States, for
+example, the gradual elimination of wealth and literacy requirements in elections contributed to
+the rise of America’s populist political movement, one of the primary aims of which was to end
+the gold standard and replace it with a silver-backed money supply (see e.g. Frieden 1997).
+Monetary populism affected bond markets; the Investor’s Monthly Manual observed in 1896:
+“The [price of bonds related to the] United States loan has declined...owing to the development
+of strength by ‘Silverites’ in the election campaign. In view of the fact that these are coin bonds,
+
+
+10
+the success of the Silver party might possibly constitute a serious danger to bondholders.”6
+Third, in addition to the risk of default and macroeconomic instability, franchise extension also
+contributed to distributive conflict between elites and workers that could result in mass
+radicalism as well as attempts at violent repression by elites – resulting in political uncertainty
+and instability, one of the primary drivers of sovereign credit risk during the nineteenth century
+(Ferguson 2006). Mechanisms connecting political instability to default risk include the fiscal
+costs of conflict, the shortening of time horizons that are critical to reputational incentives to
+repaying debt, as well as the repudiation of debt perceived to be odious once a new party comes
+to power.
+Quintessential examples of political instability leading to default are Spain and Portugal, two
+countries in which franchise extensions precipitated societal conflicts followed by reversals
+under conservative regimes, giving rise to a pattern of unstable democratization inimical to
+financial stability (Collier 1999). As a partial consequence of costly civil conflict, Spain
+defaulted on sovereign debt eight times during the nineteenth century while Portugal defaulted
+six times. In 1908, commenting upon political and financial instability in Portugal, the Times of
+London observed that: “The root of the manifold evils from which Portugal has long suffered
+would undoubtedly seem to be what he [the Lisbon correspondent] declares it to be – namely, the
+Parliamentary system as it has been hitherto applied there...The suffrage is extremely wide. All
+citizens who can read and write, or who pay taxes amounting to 500reis –about 2s. 2 1/2d.– are
+6 Investor’s Monthly Manual (London, England), July 31 1896, p. 388
+
+
+11
+entitled to the vote (Cited in Stasavage 2016).”7
+It is important to distinguish the risk posed by democratization through franchise extension from
+other dimensions of democratization, notably the creation of parliaments, that investors viewed
+as favorable to the protection of property rights. In Dahl’s (1971) well-known formulation,
+democratization can occur along two dimensions. The first is the deepening of political
+contestation between rival elites, as embodied historically in the emergence of elected
+parliaments as a check on the arbitrary exercise of power by monarchs (North and Weingast
+1989). Theories of democratization in the “contractarian” tradition view the creation of
+parliaments as beneficial for the protection of property rights because they place constraints on
+arbitrary expropriation by a monarch. And indeed, British capitalists and investors in sovereign
+debt often looked favorably upon countries with constitutions similar to their own.
+However, investors looked critically upon the second dimension of democratization, the
+extension of political participation to non-elites through franchise reforms. For instance, Walter
+Bagehot, editor of the influential Economist magazine, following the passage of 1867 Reform
+Act in Britain warned of the risk of pandering to newly enfranchised voters: “If the first work of
+the poor voters is to try to create a “poor man’s paradise” ... [t]he wide gift of the elective
+franchise will be a great calamity to the whole nation, and to those who gain it as great a
+calamity as to any. (Bagehot 1872)” Robert Cecil, the future Lord Salisbury and long-time Tory
+British Prime Minister, wrote skeptically of suffrage reform in the 1860s that it was premised on
+the belief in “the inalienable right of eight beggars to govern seven Rothschilds, and, what is
+7 “The Situation in Portugal.” Times of London, 21 March 1908
+
+
+12
+more, to tax them!”8 The British financial press also reacted critically to extensions of the
+franchise in other settings, especially France, which in the minds of the British financial elite
+epitomized the perils of excess democratic radicalism. In an article entitled “The Ultimate Evil of
+French Politics,” the Economist in 1873 commented on the political instability generated by a
+mass franchise: “No educated mind can divine the ideas of the uneducated. The French
+Government is a government by universal suffrage and what the ideas of the possessors of the
+suffrage are no one can say.”9
+Are franchise extensions and changes in sovereign risk linked systematically, according to
+historical data? We provide a preliminary analysis in Figure 1, which depicts changes in the
+natural log of sovereign bond yields against changes in franchise levels over thirty-year periods,
+in our sample of 26 major countries in Europe and the Americas between 1800 and 1920 (the
+source of this data is described in detail in the following section of the paper). The scatter plot
+suggests that extensions of the franchise corresponded to large increases in the premium that
+investors demanded to hold sovereign debt and that franchise contractions corresponded to
+decreases in sovereign risk – a pattern that will be subjected to systematic empirical testing in
+following sections.
+FIGURE 1 ABOUT HERE
+8 Robert Cecil, “The Budget and the Reform Bill” in Lord Salisbury on Politics: A Selection from
+His Articles in the Quarterly Review ed. Paul Smith (Cambridge: Cambridge University Press,
+1972), p. 137.
+9 The Economist (London, England), Saturday, May 31, 1873, Vol. 031, Issue 1553, p.650.
+
+
+13
+3. Empirical Strategy and Data
+The main outcome variable is sovereign risk, measured with data on long-term sovereign bond
+yields. The yield-to-maturity on a bond is the discount rate needed to make future coupon
+payments equivalent to the current market price of a sovereign bond; when prices fall, yields
+increase. Implicitly, the yield on a bond represents the risk-free rate plus a country-specific risk
+premium that investors demand to hold a country’s debt. In an integrated capital market, an
+increase in the yield of bonds issued by one country relative to another reflects an increase in
+country-specific sovereign risk. This lends itself to a generalized difference-in-differences
+empirical strategy, where we exploit the asynchronous timing of franchise reforms to analyze
+whether franchise extensions resulted in increases in country-specific risk with an OLS
+regression equation of the form:
+log Yieldit = βFranchiseit + ∑ γcIic
+c + ∑ τjIt
+j
+j + εit,
+where the variable log Yieldit is the natural log of the yield-to-maturity on sovereign bonds in
+country i averaged over twelve months in year t. The variable Franchiseit represents a
+historical estimate of the share of the adult population with the right to vote. The regression
+equation also includes country (indexed by c) and year (indexed by j) fixed effects, ∑ γcIic
+c and
+∑ τjIt
+j
+j or, in some specifications, region-year fixed effects, where the year dummy variables are
+interacted with indicators of location in Europe or the Americas.
+The coefficient of interest is β, which represents the marginal impact of the share of the adult
+
+
+14
+population with the right to vote on sovereign bond yields. The suffrage frontier or typical
+maximum share of the adult population with the right to vote over the time period in our analysis
+was universal male suffrage, corresponding to a value of half (0.50) of the adult population with
+the right to vote. Because the outcome variable takes the natural log of sovereign bond yields,
+estimated coefficients have a percentage change interpretation, limiting the influence of outliers
+as well as providing comparability across periods when yields were high across countries in
+absolute terms and characterized by high volatility (the first half of the nineteenth century) and
+eras when yields were relatively lower across countries and less volatile (the second half of the
+nineteenth century onward).
+By including country fixed effects, all estimates are identified from within-country variation over
+time, ruling out potentially omitted time-invariant variables. By including year or region-year
+fixed effects, the analysis also absorbs time-based trends and shocks common to all countries on
+the sovereign bond market – including common changes in the risk-free rate. This obviates the
+need to subtract a proxy for the risk-free rate (in the Supporting Information [Table A3, p.8] we
+report specifications looking at the spreads over the British consol as the outcome variable, with
+similar results, as well as compare our results to an important prior study by Flandreau and
+Zumer (2004) [Table A5, p.10]). To account for correlation of errors, all specifications estimate
+cluster-robust standard errors adjusted for two-way clustering both across within countries and
+within years.
+Data on sovereign bond yields are obtained from the Global Financial Database, which
+assembles from previous studies and historical financial press sources data on the yield to
+
+
+15
+maturity of long-term sovereign bonds based on secondary market price quotations from major
+financial centers.10 By utilizing yield data based on secondary market quotations, we are able to
+assemble uninterrupted time series data for the countries in the sample, allowing us to study the
+impact of within-country changes in the franchise on sovereign risk without data gaps which may
+be driven by credit rationing or other sample selection issues. In a small number of cases, to
+extend or complete bond yield series, we rely upon yields on bonds that do not exactly
+correspond to a national issuing entity. For example, for Argentina, some of the yield data are
+based on bonds issued by the province of Buenos Aires. In the case of Italy and Germany, we
+utilize the bonds corresponding to major constituent polities prior to the national unification of
+these countries. All results are robust to specifications which prune these “proxy” bond yield data
+series from the analysis.
+Time series data on the extent of the franchise are obtained from the Varieties of Democracy
+database, a database of political institutions which includes historical estimates of the share of
+the adult population with the right to vote based on a catalog of major franchise reforms as well
+as historical estimates of changes in the franchise corresponding to these reforms (Knutsen et al.
+10 Table A2 (p.6) in the Supporting Information contains information on the securities from which
+the country bond yield series were constructed. The bulk of the yield data we utilize is based on
+bonds issued in London, though in some cases bonds were issued domestically and cross-listed
+in London. Some of the bond yield data are based on bonds issued outside of London and
+denominated in other (non-sterling) currencies, in which case differences in yields may be driven
+by a combination of default and currency risk.
+
+
+16
+2018). This share variable ranges from zero to one. The coding of the franchise reflects de jure
+rules rather than de facto practices. For instance, Argentina is coded as having transitioned to a
+universal male franchise following the electoral law of 1857, which formally granted the right to
+vote to all males above 21, though elections were impacted by irregularities until the Saenz Pena
+law of 1912.11
+Pooled Event Study Design
+The identifying assumption underpinning the empirical strategy is the parallel trends assumption,
+or that countries experiencing change in the franchise were not experiencing trends in sovereign
+bond yields independent of franchise reform. To test for pre-reform trends, we identify all
+“major” franchise extensions (any reform extending the share of the adult population with the
+right to vote by more than 5 percentage points). We then regress the outcome on indicator
+variables representing the twenty years preceding and following franchise extension, pooling
+across all major reforms, with an OLS regression equation of the form:
+log Yieldit = ∑ γkIikt(ΔFranchiseik
+t+19
+k=t−20 ≥ 0.05) + ∑ γcIic
+c + ∑ τjIt
+j
+j + εit,
+where we include 40 indicator variables, ∑ γkIikt(ΔFranchiseik
+t+19
+k=t−20 ≥ 0.05), corresponding to
+each of the 20 years preceding any major franchise extension and to each of the 20 years
+11 Table A1 (p.3) in the Supporting Information contains information on major franchise reforms
+in each country.
+
+
+17
+following any major franchise extension (where the time period relative to franchise reform in
+indexed by k). If the parallel trends assumption is valid, the coefficients on the indicator
+variables preceding franchise extension should be relatively stable and display little to no pre
+existing trend; by contrast, if franchise extension causally preceded increases in sovereign risk,
+the coefficients corresponding to the time periods following franchise extension should display a
+positive and increasing trend.
+Semi-parametric Analysis
+It is possible that investors attached differential risk to franchise extensions at different levels;
+for example, investors may have reacted differently to an initial suffrage expansion relative to
+marginal later ones. To analyze this, we estimate semi-parametric generalized additive models
+(GAMs) which control for country and year fixed effects and allow the functional form, f(⋅),
+relating the share of the adult population with voting rights and outcome variables to take a
+smooth, flexible form based on a penalized spline function:
+log Yieldit = f(Franchiseit) + ∑ γcIic
+c + ∑ τjIt
+j
+j + εit, εit~N(0, σ2).
+TABLE 1 ABOUT HERE
+
+
+18
+4. Results
+Table 2 reports the main OLS regression estimates. Column (1) reports the baseline specification.
+The positive and statistically significant coefficient on the franchise variable indicates that,
+pooling across all countries between 1800 and 1920, franchise extension led on average to a
+large increase in the risk premium investors demanded to hold sovereign debt. How large are
+these impacts? The coefficient estimate implies that a transition from no franchise (0.00) to a
+universal male franchise (0.50) resulted in a 31 percent yield increase.
+TABLE 2 ABOUT HERE
+In practice, however, societies did not transition to universal male franchise in a single reform
+but through several cumulative reforms. In the data, the median share of the adult population
+enfranchised by major franchise reforms was 0.25. The coefficient implies that the typical
+franchise reform contributed to a 16 percent yield increase. To compare this against historical
+benchmarks, this is comparable to yield changes on Danish sovereign bonds before and after its
+1849 implementation of a new constitution, which resulted in a universal franchise for all males
+above the age of 30 and a coinciding yield increase from 3.56 in 1847 to 4.31 in 1849 (a 21
+percent increase). But it is much smaller than the impact of major financial crises, for example
+the Barings Crisis of 1890, which resulted an increase in the yield on Argentine sovereign bonds
+from 5.17 in 1888 to 7.65 in 1891 (a 48 percent increase).
+Were bond markets reacting to the extension of the franchise or to the societal conflict that often
+
+
+19
+triggered reform? To address this, in all specifications we control for a dummy variable
+(Independence) which switches on with the achievement of national sovereignty.12 To address the
+impact of World War I as well as the capital controls imposed afterwards, in column (2) we
+restrict the sample to the 1800-1913 period and find very similar estimates in this subsample. In
+column (4) we control for the incidence of conflict, with a dummy variable that takes a value of
+one in country-years when there is an ongoing civil war or interstate war, based on data from the
+Correlates of War database. The estimated impact of the franchise is essentially unchanged in
+this specification.
+As discussed, a potential concern is the usage of proxy yield data from borrowing entities that do
+not exactly correspond to national issuing entities (e.g. Buenos Aires province in Argentina). In
+column (3) we prune these observations from the dataset and re-estimate our main specification.
+We find very similar estimates in this subsample of the data.
+Other potential confounders include long-term changes in the level of economic development,
+which theory is predictive of the level of democracy. In column (5), we control for this variable
+using historical estimates of country real GDP per capita from Maddison (2007), linearly
+interpolated to account for missing data.
+12 Countries which gained independence during the period under study include: Argentina (1816),
+Brazil (1822), Canada (1867), Chile (1818), Colombia (1819), Cuba (1902), Greece (1829),
+Guatemala (1838), Mexico (1822), Norway (1905), Peru (1821), and Venezuela (1829).
+
+
+20
+We may also be concerned about transitory short-term shocks of an unknown nature that could
+affect franchise extensions as well as sovereign bond yields. To control for transitory shocks, in
+column (6) we include a reform window dummy variable that takes a value of one in the five
+years around (from two years prior to the second year following) any franchise extension.
+In columns (7) – (11) we control for other variables which past research has documented to be
+important determinants of sovereign risk. Column (7) controls for a binary indicator of gold
+standard adherence; consistent with prior research, the coefficient suggests that the gold standard
+was associated with diminished sovereign risk, but controlling for this variable does not
+significantly change our estimates of franchise extension’s impact on sovereign risk.
+Column (8) controls for an indicator of an ongoing default episode, during which yields spiked,
+due to the suspension of coupon payments.13 Controlling for ongoing default episodes helps to
+partial out disproportionately large shifts in yields during these periods. The estimated impact of
+franchise extension on sovereign risk remains largely unchanged in this specification.
+Column (9) controls for a dummy variable for periods during which a country’s finances were
+13 We do not omit these default periods from the analysis, since yield changes during an ongoing
+default episode are due to changes in prices reflecting changing investor forecasts of the
+probability of reaching a restructuring agreement, which may plausibly have been impacted by
+democratization. However, estimates remain large and positive if these periods are dropped from
+the sample.
+
+
+21
+implicitly guaranteed or administered by an external power. Past research has suggested that the
+colonies of the British empire (in our sample, colonial Canada) benefited from an implicit
+imperial guarantee of their debts (Accominotti, Flandreau, and Rezzik 2011), while supervisory
+international financial commissions applied to countries like Greece and Turkey for certain
+periods (Mitchener and Weidenmier 2010). Controlling for these periods of external influence
+does not substantially alter our estimates of franchise extension’s impact on sovereign risk.14
+Column (10) controls for a fiscal solvency measure as proxied by the debt to GDP ratio (in
+percentage points), a variable compiled from various historical sources by Reinhart and Rogoff
+(2009). Though this specification prunes from the sample a large number of county-years for
+which data are missing, controlling for this variable does not substantially change our estimates.
+Finally, column (11) includes all the control variables in the same specifications. Table 3 runs the
+same set of specifications except it additionally controls in all specifications for region-year
+fixed effects. Across all of these specifications, the coefficients on the franchise variable is large
+and relatively stable, suggesting that franchise extension contributed to increases in sovereign
+risk, over time both globally and within Europe and the Americas.15
+TABLE 3 ABOUT HERE
+14 Estimates are substantively unchanged if these periods are dropped from the sample.
+15 The only specification in which the estimate loses statistical significance is column (11) of
+Table 3, which prunes nearly half the sample due to data missingness and also controls for a
+range of covariates, some of them potentially post-treatment, at the same time.
+
+
+22
+Figure 2 explores the time-path of effects from a pooled event study design. It displays the
+coefficients from an analysis regressing the log of sovereign bond yields on indicators
+representing the 20 years preceding and 20 years following every major franchise extension in
+the dataset, controlling for country and time fixed effects as well as national independence. Since
+we are interested trends rather than levels, all coefficients are standardized relative to the
+coefficient on the indicator corresponding to the passage of franchise extension with the dashed
+lines representing 90 percent confidence intervals for the estimated difference in coefficients.
+FIGURE 2 ABOUT HERE
+The analysis demonstrates that yields were on average flat in the 20 years before major franchise
+extensions, but started to increase in the immediate run-up to them, increasing by approximately
+20 percent relative to the pre-reform period after six years. This increase persists over a period of
+20 years, suggesting a permanent rather than transitory increase in sovereign risk resulting from
+the new political equilibrium. This pattern holds when controlling for year fixed effects, as in
+panel A, or for region-year fixed effects, as in panel B, which derives estimates from within
+region comparisons over time.
+One potential concern is the possibility that franchise extension represented a “bundled
+treatment” coinciding with constitutional change, which contributed to political instability and
+uncertainty, driving increases in yields independent of the changes in the size of the electorate.
+To assess this, we conduct a pooled event study of major franchise reversals, examining yield
+
+
+23
+changes around every major franchise reversal in the dataset. If the uncertainty of constitutional
+change alone drove increasing yields, then we should observe a similar pattern of increasing
+yields in the aftermath of franchise reversals. But if it is the size of the electorate that matters for
+sovereign risk, major franchise reversals should lead to falling sovereign risk.
+Figure 3 depicts estimates from this analysis. While the standard errors from this analysis are
+large, it indicates that the direction of change in the electorate sizemattered – with yields
+displaying a flat trend in the 20 years preceding major franchise reversals, and then declining
+steadily after the right to vote was limited. This pattern of results holds when controlling simply
+for year fixed effects, as in panel A, or for region-year fixed effects, as in panel B, which derives
+estimates strictly from within-region comparisons over time.
+FIGURE 3 ABOUT HERE
+Tests of Channels
+Did the increase in sovereign bond yields following franchise extension reflect investor fears or
+did franchise extension contribute to an increased occurrence of default and financial instability?
+We test for different channels in Table 4. Columns (1) and (2) regress indicators of default
+episodes, based on Kaufman and Purcell’s (1993) data, on the extent of the franchise. The
+coefficient in column (1) suggests that franchise extension contributed to a large increase in
+default risk, with a transition from no franchise to universal male franchise estimated to have
+increased default risk by approximately 11 percentage points, a large impact relative to the
+sample’s average annual risk of default 0.16 across countries between 1800 and 1920. Column
+
+
+24
+(2), which controls for region-year fixed effects, suggests a similar impact.
+TABLE 4 ABOUT HERE
+Default episodes are inextricably linked to wider financial crises. In columns (3) and (4) we
+investigate franchise extension’s impact on a variable representing a tally of six different ongoing
+types of financial crisis – currency crisis, inflation crisis, stock crisis, banking crisis, domestic
+default, external default – based on the data collection of Reinhart and Rogoff (2009). Column
+(3) suggests that the transition from no franchise to a universal male franchise led to an increase
+in the average annual financial crisis count by roughly a quarter-point, a large impact relative to
+the sample average of 0.38 across countries between 1800 and 1920. The coefficient remains
+large and positive but loses statistical significance in column (4), which controls for region-year
+fixed effects, suggesting that the estimated impact of franchise extension on financial crises is
+driven partly by comparisons across Europe and the Americas.
+In addition to the risk of default, were populist fiscal and monetary policies to blame for the risk
+that investors attached to franchise extension? In columns (5) and (6) we investigate the impact
+of the extent of the franchise on annual inflation in percentage points, based on data collected by
+Reinhart and Rogoff (2009). Column (5) suggests that transitioning from no franchise to a
+universal male franchise increased the annual inflation rate by 4.5 percentage points, a large
+impact, albeit one is that is noisily estimated and falls short of statistical significance. Column
+(6), based on region-year fixed effects, estimates a coefficient that is also positive.
+
+
+25
+Columns (7) and (8) examine the impact of franchise extension on the debt to GDP ratio in
+percentage points. The coefficients are in the expected direction, indicating an increase in the
+accumulation of public debt following franchise extension, though these coefficients are very
+noisily estimated and are statistically indistinguishable from zero. These set of results provide
+suggestive evidence that franchise extension may have contributed indirectly to sovereign credit
+risk through populist macroeconomic policies that contributed to financial instability, but further
+work and data collection on this topic is needed to reach firm conclusions.
+Finally, in columns (9) and (10) we examine whether franchise extensions contributed to
+sovereign risk by intensifying conflict, as measured with an indicator or ongoing civil or
+interstate war. Column (7) indicates that transitioning from no franchise to a universal male
+franchise increased the annual probability of ongoing conflict by 6.2 percentage points, a large
+impact relative to an average annual conflict incidence rate of 16.3 percent in the sample. This
+estimated effect diminishes considerably when controlling for region-year fixed effects in
+column (8), however.
+Semi-parametric Analyses
+A natural question is whether investors attached differential levels of risk to early versus late
+franchise extensions. Figure 4 provides a graphical depiction of the conditional expectation
+function, f(⋅), relating the natural log of yields to the share of the population with the right to
+vote from a generalized additive model that controls for country and year fixed effects. The
+shaded bands represent 95 percent confidence intervals computed on the basis of a block
+
+
+26
+bootstrap, where countries are the blocks that are sampled with replacement.
+FIGURE 4 ABOUT HERE
+Panel A indicates a pattern of diminishing marginal risk attached by investors to franchise
+extension, with marginal increases in the franchise at low levels leading to large increases in
+yields, with the effect tapering off as the extent of the franchise approaches universal male
+suffrage. In the Supporting Information (Table A4, p.9), we provide OLS-regression-based
+estimates of this pattern, where the franchise variable is divided into quartiles, with the first
+quartile left out of the regressions as the reference category. The results from this analysis
+indicate the same pattern of diminishing marginal risk as the franchise was extended.
+What explains this pattern? One explanation would be habituation, with later franchise
+extensions appearing less threatening once investors had gained some experience with early
+reforms. Yet analysis of potential channels suggests that investors attached risk rationally. Panel
+B indicates that the probability of default followed a pattern of diminishing marginal risk as a
+function of franchise extension. Panels C and D suggest that, similarly, the incidence of financial
+crises and inflation were characterized by a diminishing marginal risk relationship with the
+extent of the franchise.
+The Role of Inequality
+What explains the diminishing sensitivity of bond markets to franchise extensions? One
+
+
+27
+explanation might be investor learning, with bondholders gathering over time that franchise
+extensions were not as threatening as was imagined early in the nineteenth century, especially as
+capital-rich countries like Britain themselves democratized (see e.g. Dasgupta and Ziblatt 2015;
+Gray 2013; Stasavage 2020, p. 272). But why did later franchise extensions turn out to be less
+threatening? We explore two potential explanations. The first is the structure of inequality. In the
+context of the highly unequal societies of the nineteenth century, early reforms that enfranchised
+relatively small numbers of voters could nevertheless result in large changes in the income of the
+pivotal voter as the electorate expanded leftward from the right side of the Lorenz curve. In
+terms of the marginal risk posed by franchise extension, therefore, early reforms could plausibly
+have been more threatening to sovereign bond investors than later ones, especially in more
+unequal societies.
+To test the role of inequality, we interact the franchise variable with a measure of baseline
+societal inequality.16 Inequality is measured with the Gini coefficient, based on historical
+estimates compiled by Van Zanden et al. (2014) for several countries in the sample for the years
+1820 and 1870. The theoretical framework suggests that, overall, franchise extension should
+have been more threatening to sovereign bond investors in more unequal societies, especially so
+in the case of reforms in the early nineteenth century. In Table 5, we divide the sample into an
+“early” (1800-1860) and “late” (1860-1920) period and interact the franchise extension variable
+16 We do not use time-varying measures of inequality because of the potential endogeneity of the
+evolution of inequality to democratization as well as the sparsity of inequality measurements.
+The lower order term on the interaction is absorbed by country fixed effects.
+
+
+28
+with the earliest available measures of “initial” inequality (measured in 1820 and 1870
+respectively) to investigate these propositions.
+TABLE 5 ABOUT HERE
+The estimate from column (1) estimates the impact of franchise extension on sovereign risk in
+the period 1800-1860 while the estimate in column (2) estimates the same specification limited
+to the subsample for which initial inequality estimates are available. The estimate from column
+(3) indicates that the risk that investors attached to franchise extension early in the nineteenth
+century was heavily moderated by inequality. Moving from a country with a low level of
+inequality in 1820 like Norway (Gini coefficient of 0.44) to a country with a high level of
+inequality like France (Gini coefficient of 0.59) increases the estimated marginal impact of going
+from no franchise to a universal male franchise from a 22 percent increase in long-term yields to
+a 51 percent increase in long-term yields. A similar pattern is found in the estimates from the
+“late period” in column (6), though, consistent with expectations, the degree to which inequality
+moderates the impact of franchise extension on sovereign credit risk is smaller and no longer
+statistically significant in the case of later reforms.17
+17 In the Supporting Information in Table A6 (p.13) we explore additional sources of
+heterogeneity suggested by theory, including the possibility that franchise extension was more
+consequential in settings where a greater share of debt was held domestically as well as less
+threatening in countries more exposed to international trade and retaliatory default penalties.
+
+
+29
+The Role of Institutional Safeguards
+A second explanation for sovereign bond markets’ diminishing sensitivity to franchise extension
+is elites’ adoption of institutions that protected financial interests, such as the gold standard.
+Gallarotti (1995) argues that economic elites, who held much of their wealth in the form of
+bonds, favored the gold standard because it preserved price stability. The gold standard also
+facilitated capital mobility, limiting governments’ ability to adopt inflationary fiscal and
+monetary policies without sparking capital flight (see e.g. Eichengreen 2019; Obstfeld and
+Taylor 2004). For these reasons, the gold standard represented a “good housekeeping seal of
+approval” or signal of sound macroeconomic management (Bordo and Rockoff 1996), especially
+from the 1870s onward, when the falling price of silver made gold the anti-inflationary monetary
+standard relative to bimetallism (Flandreau 1996). Therefore, franchise extension could have led
+elites to strategically adopt the gold standard to pre-commit themselves to reassure investors
+(though later, a larger electorate may have also put pressure on governments to leave the gold
+standard, especially after WW1).
+Another institutional safeguard in this period was the development of institutionalized political
+parties, characterized by organizational structures which were partly autonomous from electoral
+pressure and under elite control (Panebianco 1988). At the beginning of the nineteenth century,
+political parties represented little more than fluid parliamentary elite factions. By the end of the
+nineteenth century, in response to the pressure of franchise extensions, political parties developed
+robust leadership structures, including cabinet, seniority, and committee systems that were
+largely autonomous from popular selection (Cox 2005). Especially among mid-19th century
+
+
+30
+conservative and liberal political parties, these new organizations provided elites with the
+organizational apparatus needed to compete for votes and protect their power in an increasingly
+democratic context (Ziblatt 2017).
+The strategic adoption of institutional safeguards could help to explain how sovereign bond
+markets thrived during the first wave of democracy, during which the right to vote steadily
+extended across countries. To test this possibility, we examine franchise extension’s impact on
+adherence to the gold standard and on the level of institutionalization of political parties. Data on
+adherence to the gold standard comes from Reinhart and Rogoff (2009). To measure party
+institutionalization, we draw on an expert-coded composite index annually for each year of the
+19th century ranging between 0 (lowest) to 1 (highest) included in the Varieties of Democracy
+database.18
+TABLE 6 ABOUT HERE
+Columns (1) and (2) of Table 6 investigate the impact of franchise extension on the indicator of
+adherence to the gold standard for the years spanning 1800 to 1914 (when the pre-war gold
+standard ended due to WWI). The coefficient in columns (1) and (2) suggest that a transition
+from no franchise to a universal male franchise improved adherence to the gold standard.
+However, Flandreau (1996) demonstrates that the gold standard was not viewed as an anti
+18 The index is constructed by averaging expert-coded party system-level indicators of the
+strength of party organization, of party branches, of party linkages to the electorate, of the
+distinctiveness of party platforms, and of party cohesion in the legislature.
+
+
+31
+inflationary monetary standard until the 1870s, when the international price of silver plummeted
+relative to gold. Columns (3) and (4) conduct the same analysis limited to the years spanning
+1870 to 1914, when financial interests more plausibly viewed the gold standard as a bulwark
+against monetary and fiscal populism. The coefficients in these specifications are much larger,
+and increase in magnitude when region-year fixed effects are controlled for, supporting the idea
+that economic elites may have strategically adopted the gold standard to protect their interests
+during the early stages of democratization (in the Supporting Information [Figure A1, p.14] we
+explore the timing of these impacts.).
+Columns (5) and (6) investigate the impact of franchise extension on the index of party
+institutionalization. The coefficient in column (5) indicates that a transition from no franchise to
+a universal male franchise is estimated to have improved the level of party institutionalization 17
+percentage points, a large impact relative to a sample average of 0.42. A coefficient about half
+that magnitude is estimated in column (6), which controls for region-year fixed effects,
+suggesting that a similar pattern holds comparing within regions. These results are also
+supportive of the idea that elites may have sought to strategically strengthen and capture the
+leadership institutions of political parties in response to the threat posed by franchise extension,
+thereby protecting financial interests despite the electorate’s expansion.
+An important question is how our results square with prior work on the gold standard
+(Eichengreen 2019; Polanyi 1944), which suggests that there existed an inherent tension between
+the democratic pressure for an autonomous fiscal and monetary policy and the “golden fetters” of
+the gold standard, which ended in its demise in the inter-war years. We think this argument,
+
+
+32
+focused on the inter-war period, is quite consistent with our findings spanning the nineteenth and
+early twentieth century. Our results indicate that in the pre- First World War era, when the voting
+rights were being extended but the political organization of labor was still inchoate, the gold
+standard functioned as a disciplining device on fiscal and monetary policy, providing some
+degree of protection to financial interests in the context of an expanding electorate. In the inter
+war period, with full suffrage nearly everywhere and as trade unions began to play an organized
+role in democratic politics, the gold standard was no longer tenable (see e.g. Simmons 1994).19
+5. Conclusion
+This paper has explored the reaction of the market for sovereign bonds to the extension of
+political rights from elites to working-class voters across countries between 1800 and 1920.
+Statistical analyses exploiting the asynchronous timing of franchise extensions suggest that the
+extension of the right to vote posed important risks to financial capital, with sovereign bond
+investors demanding an increased premium to hold sovereign debt following the passage of
+major franchise reforms.
+However, semi-parametric regressions indicate a pattern of diminishing marginal risk that
+investors attached to franchise extensions. While this could be due to multiple factors, our
+findings indicate that the strategic adoption of protective institutions like the gold standard and
+19 Obstfeld and Taylor (2003) also show that gold standard adherence no longer signaled
+credibility in the inter-war period as it had in the pre-war period.
+
+
+33
+institutionalized political parties may have helped to make mass democracy increasingly “safe”
+for investors over time.
+Our findings reinterpret major historical questions and hold important implications for
+contemporary debates about the compatibility of mass democracy with financial capitalism.
+Throughout history, a central problem for democratizing countries has been to reconcile the
+emergence of mass electoral politics with the security of propertied elites and financial stability.
+The failure to do so, in cases ranging from Weimar Germany to twentieth-century Latin America,
+has frequently resulted in catastrophic political instability and economic collapse.
+Our findings also have broader implications. Today, democracy is associated with a bundle of
+features, combining legislatures, limited government, and checks and balances – which the
+historical literature suggests that investors prefer – with a broad-based franchise and mass
+electoral participation – which our findings suggest may entail certain risks for financial capital.
+These dual tendencies inherent in democracy could explain why some contemporary studies
+identify an elective affinity between democracy and capital markets while others identify an
+inherent tension between democratic pressures and the strictures demanded by mobile financial
+capital (Rodrik 2011; Beaulieu, Cox, and Saiegh 2012).
+Important tasks for future research on contemporary sovereign bond markets suggested by our
+historical research include disaggregating the impact of different dimensions of democracy on
+sovereign bond markets and studying how institutions have evolved over time to limit the risk
+posed by mass electoral participation to financial capital in the twentieth and twenty-first
+
+
+34
+centuries.
+
+
+35
+6. Bibliography
+Accominotti, Olivier, Marc Flandreau, and Riad Rezzik. 2011. “The Spread of Empire: Clio and the Measurement of Colonial Borrowing Costs.” The Economic History Review 64 (2): 385–407. Acemoglu, Daron, and James A. Robinson. 2005. Economic Origins of Dictatorship and Democracy. Cambridge University Press. Aidt, Toke S., Jayasri Dutta, and Elena Loukoianova. 2006. “Democracy Comes to Europe: Franchise Extension and Fiscal Outcomes 1830–1938.” European Economic Review 50 (2): 249–83. Andreasen, Eugenia, Guido Sandleris, and Alejandro Van der Ghote. 2019. “The Political Economy of Sovereign Defaults.” Journal of Monetary Economics 104: 23–36. Bagehot, Walter. 1872. The English Constitution, 2nd Edition. London: H. S. King. Ballard-Rosa, Cameron, Layna Mosley, and Rachel L. Wellhausen. 2019. “Contingent Advantage? Sovereign Borrowing, Democratic Institutions and Global Capital Cycles.” British Journal of Political Science, 1–21.
+Beaulieu, Emily, Gary W. Cox, and Sebastian Saiegh. 2012. “Sovereign Debt and Regime Type: Reconsidering the Democratic Advantage.” International Organization 66 (4): 709–38. Boix, Carles. 2003. Democracy and Redistribution. Cambridge University Press. Bordo, Michael D., and Hugh Rockoff. 1996. “The Gold Standard as a ‘Good Housekeeping Seal of Approval.’” The Journal of Economic History 56 (2): 389–428. Cain, Peter J., and Antony G. Hopkins. 2014. British Imperialism: 1688-2000. Routledge.
+Collier, Ruth Berins. 1999. Paths toward Democracy: The Working Class and Elites in Western Europe and South America. Cambridge University Press.
+Cox, Gary W. 2005. The Efficient Secret: The Cabinet and the Development of Political Parties in Victorian England. Cambridge University Press. Dahl, Robert Alan. 1971. Polyarchy: Participation and Opposition. Yale University Press. Dasgupta, Aditya, and Daniel Ziblatt. 2015. “How Did Britain Democratize? Views from the Sovereign Bond Market.” The Journal of Economic History 75 (1): 1–29.
+Dincecco, Mark. 2011. Political Transformations and Public Finances: Europe, 1650–1913. Cambridge University Press. Dixit, Avinash, and John Londregan. 2000. “Political Power and the Credibility of Government Debt.” Journal of Economic Theory 94 (1): 80–105.
+Eaton, Jonathan, and Mark Gersovitz. 1981. “Debt with Potential Repudiation: Theoretical and Empirical Analysis.” The Review of Economic Studies 48 (2): 289–309.
+Eichengreen, Barry. 2019. Globalizing Capital: A History of the International Monetary System. Princeton University Press. Engerman, Stanley L., and Kenneth L. Sokoloff. 2005. “The Evolution of Suffrage Institutions in the New World.” The Journal of Economic History 65 (4): 891–921.
+Ferguson, Niall. 2006. “Political Risk and the International Bond Market between the 1848 Revolution and the Outbreak of the First World War 1.” The Economic History Review 59 (1): 70–112. Flandreau, Marc. 1996. “The French Crime of 1873: An Essay on the Emergence of the International Gold Standard, 1870–1880.” The Journal of Economic History 56 (4): 86297. Flandreau, Marc, and Juan H. Flores. 2009. “Bonds and Brands: Foundations of Sovereign Debt
+
+
+36
+Markets, 1820–1830.” The Journal of Economic History 69 (3): 646–84. Flandreau, Marc, and Frederic Zumer. 2004. The Making of Global Finance 1880-1913. OECD. Flora, Peter, Franz Kraus, and Winfried Pfenning. 1983. State, Economy, and Society in Western Europe 1815-1975: The Growth of Industrial Societies and Capitalist Economies. Vol. 2. St James Pr. Frieden, Jeffry A. 1997. “Monetary Populism in Nineteenth-Century America: An Open Economy Interpretation.” The Journal of Economic History 57 (2): 367–95.
+Gallarotti, Giulio M. 1995. The Anatomy of an International Monetary Regime: The Classical Gold Standard, 1880-1914. Oxford University Press on Demand.
+Gray, Julia. 2013. The Company States Keep: International Economic Organizations and Investor Perceptions. Cambridge University Press. Guembel, Alexander, and Oren Sussman. 2009. “Sovereign Debt without Default Penalties.” The Review of Economic Studies 76 (4): 1297–1320.
+Huntington, Samuel P. 1991. “Democracy’s Third Wave.” Journal of Democracy 2 (2): 12–34. Husted, Thomas A., and Lawrence W. Kenny. 1997. “The Effect of the Expansion of the Voting Franchise on the Size of Government.” Journal of Political Economy 105 (1): 54–82. Knutsen, Carl Henrik, Jan Teorell, Agnes Cornell, Tore Wig Skaaning, Daniel Ziblatt, L. Kyle, Dan Pemstein Marquardt, and Brigitte Seim. 2018. “Introducing the Historical Varieties of Democracy Dataset: Political Institutions in the Long 19th Century.”
+Lindert, Peter H. 2004. Growing Public: Volume 1, the Story: Social Spending and Economic Growth since the Eighteenth Century. Vol. 1. Cambridge University Press. Maddison, Angus. 2007. The World Economy Volume 1: A Millennial Perspective Volume 2: Historical Statistics. Academic Foundation.
+Mauro, Paolo, Nathan Sussman, and Yishay Yafeh. 2002. “Emerging Market Spreads: Then versus Now.” The Quarterly Journal of Economics 117 (2): 695–733.
+Meltzer, Allan H., and Scott F. Richard. 1981. “A Rational Theory of the Size of Government.” Journal of Political Economy 89 (5): 914–27.
+Mitchener, Kris James, and Marc D. Weidenmier. 2010. “Supersanctions and Sovereign Debt Repayment.” Journal of International Money and Finance 29 (1): 19–36.
+North, Douglass C., and Barry R. Weingast. 1989. “Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England.” The Journal of Economic History 49 (4): 803–32.
+Obstfeld, Maurice, and Alan M. Taylor. 2003. “Sovereign Risk, Credibility and the Gold Standard: 1870–1913 versus 1925–31.” The Economic Journal 113 (487): 241–75.
+———. 2004. Global Capital Markets: Integration, Crisis, and Growth. Cambridge University Press. Panebianco, Angelo. 1988. Political Parties: Organization and Power. Cambridge University Press. Piketty, Thomas, Gilles Postel-Vinay, and Jean-Laurent Rosenthal. 2014. “Inherited vs SelfMade Wealth: Theory & Evidence from a Rentier Society (Paris 1872–1927).” Explorations in Economic History 51: 21–40.
+Polanyi, Karl. 1944. The Great Transformation. New York: Farrar and Rinhart. Przeworski, Adam. 2009. “Conquered or Granted? A History of Suffrage Extensions.” British Journal of Political Science 39 (2): 291–321.
+Purcell, John FH, and Jeffrey A. Kaufman. 1993. The Risks of Sovereign Lending: Lessons from History. New York: Salomon Brothers.
+
+
+37
+Reinhart, Carmen M., and Kenneth S. Rogoff. 2009. This Time Is Different: Eight Centuries of Financial Folly. Princeton University Press.
+Rodrik, Dani. 2011. The Globalization Paradox: Democracy and the Future of the World Economy. WW Norton & Company.
+Simmons, Beth A. 1994. Who Adjusts?: Domestic Sources of Foreign Economic Policy during the Interwar Years. Vol. 175. Princeton University Press. Stasavage, David. 2007. “Partisan Politics and Public Debt: The Importance of the ‘Whig Supremacy’ for Britain’s Financial Revolution.” European Review of Economic History 11 (1): 123–53. ———. 2016. “What We Can Learn from the Early History of Sovereign Debt.” Explorations in Economic History 59: 1–16. ———. 2020. The Decline and Rise of Democracy: A Global History from Antiquity to Today. Vol. 96. Princeton University Press.
+Tomz, Michael. 2012. Reputation and International Cooperation: Sovereign Debt across Three Centuries. Princeton University Press. Van Zanden, Jan Luiten, Joerg Baten, Peter Foldvari, and Bas Van Leeuwen. 2014. “The Changing Shape of Global Inequality 1820–2000; Exploring a New Dataset.” Review of Income and Wealth 60 (2): 279–97. Ziblatt, Daniel. 2017. Conservative Parties and the Birth of Democracy. Cambridge University Press.
+
+
+7. Figures and Tables
+Figure 1. Changes in the Franchise and Sovereign Bond Yields, 1800-1920
+l l
+l
+l
+ll
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+ll
+l
+l
+l
+l
+l
+ll
+l
+l
+ll
+l
+l
+l
+l
+l
+l
+l
+ll
+l
+l
+l l l
+l
+l
+l
+l
+l
+l
+l
+l
+ll
+l
+l
+l
+l
+l
+l
+l
+l l
+l
+−0.5 0.0 0.5 1.0
+−3 −2 −1 0 1
+∆ Franchise
+∆ log Yield
+AUS1800−1830
+DEN1800−1830
+FRN1800−1830
+GMY1800−1830
+NTH1800−1830 RUS1800−1830
+SPN1800−1830
+UKG1800−1830
+USA1800−1830
+ARG1830−1860
+AUS1830−1860
+BRA1830−1860
+CHL1830−1860
+COL1830−1860
+DEN1830−1860
+FRN1830−1860
+GMY1830−1860
+GRC1830−1860
+MEX1830−1860
+NOR1830−1860
+NTH1830−1860
+PER1830−1860
+POR1830−1860
+RUS1830−1860
+SPN1830−1860
+UKG1830−1860
+USA1830−1860
+VEN1830−1860
+ARG1860−1890
+AUS1860−1890
+BEL1860−1890
+BRA1860−1890
+CAN1860−1890
+CHL1860−1890
+COL1860−1890
+DEN1860−1890
+FRN1860−1890 GMY1860−1890
+GRC1860−1890
+MEX1860−1890
+NOR1860−1890
+NTH1860−1890
+PER1860−1890
+POR1860−1890
+RUS1860−1890
+SPN1860−1890
+SWD1860−1890 TUR1860−1890
+UKG1860−1890
+USA1860−18V9E0N1860−1890
+ARG1890−1920
+AUS1890−1920
+BEL1890−1920
+BRA1890−1920
+CAN1890−1920
+CHL1890−1920
+COL1890−1920
+CUB1890−1920
+DEN1890−1920
+FRN1890−1920 GMY1890−1920
+GRC1890−1920
+ITA1890−1920
+MEX1890−1920 NOR1890−1920
+NTH1890−1920
+PER1890−1920
+POR1890−1920
+RUS1890−1920
+SPN1890−1920
+SWD1890−1920
+TUR1890−1920
+UKG1890−1920
+USA1890−1920
+VEN1890−1920
+Notes: Scatter plot depicts changes in the natural log of sovereign bond yields (vertical axis) against changes
+in the share of the adult population with the right to vote in each country-period (30 years) between 1800 and
+1920 (horizontal axis).
+38
+
+
+Table 1. Descriptive Statistics
+Country Mean Yield Mean Franchise Mean Financial Crises Mean Gold Standard Mean Default
+1800-39 1840-79 1880-1920 1800-39 1840-79 1880-1920 1800-39 1840-79 1880-1920 1800-39 1840-79 1880-1920 1800-39 1840-79 1880-1920
+1 Argentina 20.22 11.26 5.6 0.25 0.43 0.5 0.42 0.62 0.46 0 0.25 0.44 0 0 0.1
+2 Austria 5.32 6.73 4.06 0 0.08 0.29 0.92 0.52 0.17 0 0 0.56 0.38 0.08 0.05
+3 Belgium 5.37 4.63 3.45 0.02 0.04 0.34 0.25 0.12 0.12 0 0.05 0.85 0 0 0
+4 Brazil 7.41 5.63 5.53 0.08 0.24 0.09 0.48 0.1 0.85 0 0 0.27 0.1 0 0.46
+5 Canada NaN 5.14 3.41 NaN 0.27 0.38 0.02 0.05 0.1 0 0.65 0.85 0 0 0
+6 Chile 19.27 6.19 5.26 0.13 0.09 0.2 0.35 0.1 0.68 0 0 0.1 0.35 0.08 0.1
+7 Colombia 22.39 17.79 11.94 0.14 0.44 0.27 0.35 0.5 0.78 0 0 0 0.35 0.7 0.61
+8 Cuba 7.17 7.17 6.05 0 0 0.24 NaN NaN NaN NaN NaN NaN 0 0 0
+9 Denmark 5.07 3.86 3.92 0 0.31 0.51 0.08 0.05 0.27 0 0.1 0.93 0 0 0
+10 France 6.29 4.42 3.49 0.15 0.4 0.5 0.18 0.12 0.54 0 0.05 0.85 0 0 0
+11 Germany 6.17 4.33 3.8 0 0.23 0.52 0.38 0.45 0.51 0 0.22 0.85 0 0 0
+12 Greece 19.46 52.86 8.14 0 0.46 0.5 0.35 1.07 0.27 0 0 0.15 0.35 0.98 0.1
+13 Guatemala NaN NaN 12.99 0.12 0.11 0.15 0.3 0.52 0.61 0 0 0 0.3 0.52 0.8
+14 Italy 6.89 6.24 4.8 NaN 0.05 0.21 0.2 0.12 0.54 0 0 0.83 0 0 0
+15 Mexico 16.89 18.39 7.59 0.19 0.48 0.5 0.3 0.85 0.88 0 0 0.22 0.3 0.8 0.32
+16 Netherlands 7.25 4.23 3.49 0.07 0.06 0.26 0.95 0.02 0.15 0 0.12 0.85 0.32 0 0
+17 Norway 4.55 4.51 3.95 0.11 0.14 0.45 0.28 0.02 0.29 0 0.12 0.85 0 0 0
+18 Peru 28.33 14.32 15.85 0.03 0.09 0.1 0.38 0.5 0.24 0 0 0.34 0.35 0.32 0.24
+19 Portugal 6.57 8.3 5.04 0.12 0.19 0.3 0.32 0.4 0.37 0 0.65 0.29 0.15 0.22 0.24
+20 Russia 5.82 5.04 5.23 0 0 0.21 0.2 0.18 0.49 0 0 0.44 0.02 0.12 0.2
+21 Spain 22.93 13.67 6.09 0.08 0.16 0.39 0.62 0.85 0.37 0 0 0 0.25 0.3 0.15
+22 Sweden 9.28 4.79 4.08 0.06 0.11 0.24 0.22 0.1 0.32 0 0.18 0.85 0 0 0
+23 Turkey NaN 7.54 4.87 0 0.01 0.08 0.42 0.18 0.22 0 0 0.83 0 0.1 0.2
+24 United Kingdom 4.1 3.22 3.16 0.04 0.12 0.37 0.22 0.25 0.37 0.48 1 0.85 0 0 0
+25 United States of America 4.49 5.24 3.41 0.34 0.37 0.43 0.22 0.62 0.98 0 0 0.93 0 0 0
+26 Venezuela 22.39 20.36 9.77 0.07 0.33 0.32 0.35 0.8 0.27 0 0 0 0.2 0.82 0.39
+mat2 Full sample 10.08 10.01 5.92 0.09 0.2 0.32 0.35 0.37 0.43 0.02 0.14 0.53 0.13 0.19 0.15
+Notes: Mean Yield is the average of annual yields on long-term sovereign bonds. Mean Franchise is the average estimated share of the adult
+population with the right to vote. Mean Financial crises is the average cumulative tally of ongoing financial crises ranging between zero and six
+based on Reinhart and Rogoff (2009). Mean gold standard is average years adhering to gold standard. Mean party institutionalization is mean level
+of party institutionalization based on expert-coded VDEM index.
+39
+
+
+Table 2. The Impact of Franchise Extension on Sovereign Risk (Comparing Globally)
+Dependent variable: log Yield
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
+Franchise 0.620∗∗∗ 0.534∗∗ 0.657∗∗∗ 0.599∗∗∗ 0.544∗∗∗ 0.636∗∗∗ 0.657∗∗∗ 0.503∗∗∗ 0.634∗∗∗ 0.631∗∗ 0.532∗∗
+(0.200) (0.217) (0.203) (0.217) (0.209) (0.203) (0.203) (0.143) (0.205) (0.321) (0.239)
+Independence −0.086 −0.064 −0.101 −0.081 −0.018 −0.087 −0.049 −0.092 −0.161 −0.014 −0.019
+(0.116) (0.116) (0.118) (0.118) (0.139) (0.115) (0.144) (0.111) (0.153) (0.133) (0.112)
+Conflict 0.001 0.007
+(0.053) (0.049)
+GDP 0.0001 0.0002∗∗∗
+(0.0001) (0.0001)
+Window −0.050 −0.034
+(0.036) (0.060)
+Gold −0.068 −0.095
+(0.076) (0.073)
+Default 0.466∗∗∗ 0.488∗∗∗
+(0.132) (0.173)
+External −0.263∗ −0.262
+(0.137) (0.174)
+Debt/GDP 0.002∗ 0.002
+(0.001) (0.001)
+Country FE Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Year FE Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Specification Main pre-1914 No proxy Control Control Control Control Control Control Control Control
+Observations 2,561 2,385 2,384 2,390 2,219 2,561 2,481 2,561 2,561 1,549 1,336
+Adjusted R2 0.683 0.702 0.685 0.700 0.700 0.684 0.687 0.733 0.686 0.701 0.784
+Notes: Unit of analysis is country-year. Log Yield is the natural log of yield-to-maturity of long-term sovereign bonds. Franchise is share of adult
+population with right to vote. Independence is indicator for national sovereignty. GDP is per capita GDP based on linearly interpolated estimates
+from Angus Maddison. Conflict is indicator for ongoing interstate or civil war. Window is indicator for 5-year window around franchise extensions.
+Gold is indicator for adherence to the gold standard. Default is indicator for ongoing default episode. External is indicator of external guarantee of a
+country’s finances. Debt/GDP is debt to GDP ratio in percentage points. Analysis estimated by OLS. All analyses estimate standard errors adjusted
+for two-way clustering within countries and years. ∗p<0.1; ∗∗p<0.05; ∗∗∗p<0.01
+40
+
+
+Table 3. The Impact of Franchise Extension on Sovereign Risk (Comparing Within-region)
+Dependent variable: log Yield
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
+Franchise 0.509∗∗ 0.466∗ 0.609∗∗∗ 0.464∗ 0.435∗ 0.516∗∗ 0.523∗∗ 0.413∗∗ 0.509∗∗ 0.539∗ 0.239
+(0.243) (0.240) (0.233) (0.260) (0.256) (0.243) (0.241) (0.201) (0.241) (0.317) (0.256)
+Independence −0.069 −0.075 −0.106 −0.057 0.007 −0.069 −0.081 −0.070 −0.123 −0.040 −0.014
+(0.136) (0.155) (0.142) (0.140) (0.162) (0.134) (0.170) (0.127) (0.166) (0.129) (0.115)
+Conflict 0.012 0.015
+(0.050) (0.041)
+GDP 0.0001 0.0002∗∗∗
+(0.0001) (0.0001)
+Window −0.027 −0.031
+(0.035) (0.049)
+Gold −0.036 −0.050
+(0.077) (0.071)
+Default 0.442∗∗∗ 0.445∗∗∗
+(0.126) (0.169)
+External −0.219 −0.345∗∗
+(0.152) (0.162)
+Debt/GDP 0.003∗∗ 0.003∗∗
+(0.001) (0.001)
+Country FE Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Region-Year FE Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Specification Main pre-1914 No proxy Control Control Control Control Control Control Control Control
+Observations 2,561 2,385 2,384 2,390 2,219 2,561 2,481 2,561 2,561 1,549 1,336
+Adjusted R2 0.698 0.716 0.695 0.717 0.707 0.698 0.700 0.743 0.699 0.723 0.802
+Notes: Unit of analysis is country-year. Analysis estimated by OLS. All analyses estimate standard errors adjusted for two-way clustering within
+countries and years. ∗p<0.1; ∗∗p<0.05; ∗∗∗p<0.01
+41
+
+
+Figure 2. Event Study Estimates: Changes in Yields Around Major Franchise Extensions
+llll
+l
+ll
+llll
+l
+llllll
+l
+l
+llll
+l
+l
+lll
+l
+l
+l
+l
+lll
+l
+l
+ll
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+A. Global
+Year Relative to Franchise Extension
+Coefficients
+t−20 t−16 t−12 t−8 t−4 t t+4 t+8 t+12 t+16 t+20
+l
+l
+ll
+l
+ll
+llll
+l
+llllll
+l
+l
+llll
+l
+l
+l
+ll
+l
+l
+l
+l
+l
+ll
+ll
+ll
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+B. Within−region
+Year Relative to Franchise Extension
+Coefficients
+t−20 t−16 t−12 t−8 t−4 t t+4 t+8 t+12 t+16 t+20
+Notes: Plot depicts changes in sovereign risk relative to the passage of franchise extension, controlling for time fixed effects (year dummies in panel
+A and region-year dummies in panel B) and country fixed effects as well as indicator for national sovereignty. Dashed parallel bands represent 90
+percent confidence interval, with standard errors adjusted for two-way clustering within countries and years. Analysis estimated by OLS.
+42
+
+
+Figure 3. Event Study Estimates: Changes in Yields Around Major Franchise Reversals
+lll
+lll
+l
+l
+l
+l
+l
+l
+l
+ll
+l
+l
+ll
+l
+l
+l
+l
+ll
+l
+l
+ll
+l
+l
+l
+lll
+ll
+ll
+l
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+A. Global
+Year Relative to Franchise Reversal
+Coefficients
+t−20 t−16 t−12 t−8 t−4 t t+4 t+8 t+12 t+16 t+20
+llll
+l
+l
+ll
+l
+l
+l
+ll
+ll
+l
+l
+ll
+l
+l
+ll
+l
+l
+l
+l
+ll
+l
+l
+l
+lll
+ll
+ll
+l
+−0.6 −0.4 −0.2 0.0 0.2 0.4 0.6
+B. Within−region
+Year Relative to Franchise Reversal
+Coefficients
+t−20 t−16 t−12 t−8 t−4 t t+4 t+8 t+12 t+16 t+20
+Notes: Plot depicts changes in sovereign risk relative to franchise reversal, controlling for time fixed effects (year dummies in panel A and region-year
+dummies in panel B) and country fixed effects as well as indicator for national sovereignty Analysis estimated by OLS.
+43
+
+
+Table 4. Testing Channels
+Dependent variable:
+Default Financial Crises Inflation Debt/GDP Conflict
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Franchise 0.225∗ 0.193∗ 0.448∗ 0.291 9.029 3.410 8.424 12.565 0.124∗ 0.060
+(0.131) (0.108) (0.251) (0.224) (6.256) (5.153) (36.365) (34.399) (0.072) (0.103)
+Independence 0.260∗∗∗ 0.143∗∗ 0.412∗∗∗ 0.012 1.359 1.777 15.420 9.011 0.015 0.013
+(0.069) (0.061) (0.108) (0.070) (3.582) (2.896) (11.275) (8.046) (0.041) (0.053)
+Time FE Year Region-year Year Region-year Year Region-year Year Region-year Year Region-year
+Country FE Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+Observations 2,980 2,980 2,859 2,859 2,416 2,416 1,584 1,584 2,646 2,646
+Adjusted R2 0.341 0.354 0.186 0.244 0.177 0.215 0.645 0.654 0.372 0.390
+Notes: Unit of analysis is country-year. Default is indicator of ongoing default episode. Financial crises is the tally of ongoing financial crises ranging
+between zero and six. Inflation is indicator of annual inflation rate in percentage points. Debt/GDP is public debt to GDP ratio in percentage points.
+Conflict is indicator for ongoing civil or interstate war. Analysis estimated by OLS. All analyses estimate standard errors adjusted for two-way
+clustering within countries and years. ∗p<0.1; ∗∗p<0.05; ∗∗∗p<0.01
+44
+
+
+Figure 4. The Diminishing Marginal Risk Attached to Franchise Extension
+0.0 0.1 0.2 0.3 0.4 0.5
+−0.4 −0.2 0.0 0.2 0.4
+A. Yields
+Share of Adults with Right to Vote
+log Yield | X
+0.0 0.1 0.2 0.3 0.4 0.5
+−0.2 −0.1 0.0 0.1 0.2
+B. Default Risk
+Share of Adults with Right to Vote
+Default Risk | X
+0.0 0.1 0.2 0.3 0.4 0.5
+−0.3 −0.2 −0.1 0.0 0.1 0.2 0.3
+C. Financial Crises
+Share of Adults with Right to Vote
+Financial Crisis | X
+0.0 0.1 0.2 0.3 0.4 0.5
+−4 −2 0 2 4
+D. Inflation
+Share of Adults with Right to Vote
+Inflation | X
+Notes: Plot depicts semi-parametric estimates of the conditional expectation function relating outcomes to the share of adults with the right to
+vote, based on generalized additive model with estimates of uncertainty based on a 1000 block bootstrap samples, using countries as the blocks.
+45
+
+
+Table 5. The Role of Inequality
+Dependent variable:
+Early Period, 1800-1860 Late Period, 1860-1920
+(1) (2) (3) (4) (5) (6)
+Franchise 1.175∗∗ 0.755∗∗∗ −1.217 0.564∗∗∗ 0.506∗∗∗ −0.503
+(0.457) (0.268) (1.269) (0.208) (0.188) (0.976)
+Franchise×1820 Gini 3.799∗
+(2.262)
+Franchise×1870 Gini 2.059
+(1.772)
+Independence 0.160 −0.155 −0.035 −0.020
+(0.185) (0.000) (0.000) (0.139) (0.125) (0.132)
+Year FE Yes Yes Yes Yes Yes Yes
+Country FE Yes Yes Yes Yes Yes Yes
+Sample Full Gini data Gini data Full Gini data Gini data
+Observations 1,031 777 777 1,553 1,219 1,219
+Adjusted R2 0.732 0.679 0.680 0.699 0.676 0.677
+Notes: Unit of analysis is country-year. Gini is measure of initial inequality from 1820 or from 1870, depending upon specification. Analysis esti
+mated by OLS. All analyses estimate standard errors adjusted for two-way clustering within countries and years. ∗p<0.1; ∗∗p<0.05; ∗∗∗p<0.01
+46
+
+
+Table 6. Adoption of Institutional Safeguards
+Dependent variable:
+Gold Standard, 1800-1914 Gold Standard, 1870-1914 Party Institutionalization
+(1) (2) (3) (4) (5) (6)
+Franchise 0.298∗ 0.154 0.463∗∗ 0.572∗∗ 0.335∗∗ 0.187∗
+(0.164) (0.160) (0.203) (0.286) (0.130) (0.099)
+Independence −0.225∗∗∗ −0.054 −0.235∗∗∗ −0.169∗∗ −0.092∗ −0.066∗
+(0.071) (0.108) (0.071) (0.067) (0.048) (0.036)
+Time FE Year Region-year Year Region-year Year Region-year
+Country FE Yes Yes Yes Yes Yes Yes
+Observations 2,709 2,709 1,125 1,125 2,011 2,011
+Adjusted R2 0.576 0.602 0.607 0.622 0.778 0.806
+Notes: Unit of analysis is country-year. Gold Standard is indicator for adherence to gold standard. Party Institutionalization is level of party in
+stitutionalization ranging between zero and one based on expert-coded index. Analysis estimated by OLS. All analyses estimate standard errors
+adjusted for two-way clustering within countries and years. ∗p<0.1; ∗∗p<0.05; ∗∗∗p<0.01
+47

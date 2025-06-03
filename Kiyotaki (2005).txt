@@ -1,0 +1,1006 @@
+Working Paper No. 90/05
+Ottoman State Finance: A Study Of Fiscal Deficits and Internal Debt in 1859-63
+Keiko Kiyotaki
+© Keiko Kiyotaki Department of Economic History London School of Economics
+April 2005
+
+
+Department of Economic History London School of Economics Houghton Street London, WC2A 2AE
+Tel: +44 (0) 20 7955 7860 Fax: +44 (0) 20 7955 7730
+
+
+Ottoman State Finance: A Study of Fiscal Deficits and Internal Debt in 1859–63
+Keiko Kiyotaki
+This study examines a problem of fiscal deficits based on the
+Ottoman budget of 1275 A.H. (March 1859–February 1860).1 In this
+period, state debt amassed rapidly due to increased market loans abroad.
+In order to evaluate the credibility of the Ottoman government for a new
+loan, Lord Hobart and Mr. Foster, members of the British Board of Trade,
+examined the 1275 budget and the balance of foreign and internal debts
+in 1861.2 They found that a monetary policy of issuing new paper money
+was an immediate problem, rather than fiscal policies causing the fiscal
+deficits and internal debt. Their conclusion was supportive of the new
+foreign loan, which the Ottomans could obtain in 1862 for the withdrawal
+of the paper money from circulation. Ottoman records, however, show
+that Hobart and Foster were not able to measure the effective size of the
+fiscal deficits. The deficits were larger than their estimates, to the extent
+of implying a high risk of the insolvency that actually took place in 1875.
+Their underestimation illustrates an ambiguity of fiscal deficits and debt
+a problem for Ottoman public finance in the Tanzimat (Reformation)
+period in 1839–76. In consideration of the impact of Hobart and Foster’s
+report on Ottoman state finance, it is necessary to elucidate the causes of
+the fiscal deficits that they failed to predict. This work aims to shed light
+on the fiscal problems of deficits and debt by focusing on Hobart and
+1 The year follows the malî (fiscal year) calendar. 2 The National Archives of the UK (TNA): Public Record Office (PRO) FO 424/24, Report on the Financial Condition of Turkey.
+1
+
+
+Foster’s study in comparison with Ottoman records and to estimate their
+approximate extent around the given year of 1275/1859–60.
+An overview of foreign loans may help to understand the
+significance of Hobart and Foster’s report in the history of Ottoman state
+finance. The Ottoman government acquired a foreign market loan of £5
+million for the first time during the Crimean War (1853–6) in 1854, which
+was issued at 80% of the face value with an interest rate of 6%.3 It
+borrowed another loan of £3 million in London in 1855 with a premium of
+2.625% and the interest rate of 4%, i.e. a better effective rate than the
+previous loan. They made a further borrowing of £5 million in 1858,4 and
+yet another of 2 million francs in Paris in 1860.5 The rapid increases of the
+foreign loans acquired by the Ottomans without repayment had raised
+increasing concerns of European creditors regarding Ottoman financial
+conditions. Hobart and Foster’s survey was the first attempt of the
+Europeans to analyse the risk of the Ottoman Empire in international
+finance. Based on their report, the Ottoman government could borrow a
+new loan of £8 million in 1862 at the issue rate of 68% and the interest
+rate of 6%; the largest ever, although the conditions were still adverse to
+the borrower because of the high real interest rate.6 The 1862 loan, used
+for the withdrawal of paper money from the domestic market, further
+increased the balance of foreign debt. The government then placed itself
+into a spiral of market borrowing, mostly in francs, until it finally fell into
+3 The effective rate of interest is not available without the detailed information of an interest payment and maturity structure. Only the crude number of the maximum rate is estimated at 7.5% (=6%/0.8). 4 The market price was at 85% of the face value with the interest rate at 6%. The loan of £2 millions was delivered in 1859 at lower issue price of 62.5%, i.e. with the higher effective interest rate, estimated at the maximum rate of 9.6%. 5 2,037,220 francs. 6 The real interest payment of the 1862 loan was estimated at 8.82% of the face value at the most, which was better than the previous loan delivered in 1859.
+2
+
+
+insolvency. The Ottoman debts were eventually controlled by the Public
+Debts Administration in 1881.
+The loan of 1862 was a turning point in the history of the Ottoman
+foreign loans. Borrowing subsequently became heavy and costly. The
+new trend set by the 1862 loan was accounted for by many factors such
+as the increased money supply, the burden of repayment of existing
+loans, and the subsequent deterioration of the Ottoman financial position.
+Among them was the study of Hobart and Foster itself. Their report,
+received by Earl Russell, the Secretary of Foreign Affairs on 20
+December 1861, strongly indicated the higher credibility of the Ottoman
+Empire based on expectation of future economic development. It certainly
+had an impact on the contract of the 1862 loan as the authoritative report
+on Ottoman financial conditions. Blaisdell suggested in his book that the
+report ‘set for a favourable reception to the proposal of the Imperial
+Government for another loan’.7 In reality, state revenues had not
+increased enough to finance large interest payments and amortisation.
+Debt positions of the Ottoman Empire deteriorated rapidly thereafter.
+Problems of Ottoman foreign loans have been an issue of
+international politics in most academic works in this area.8 In their
+framework, the Ottoman’s reneging on repayment obligations was not an
+economic consequence but evidence of imperialism in which the Great
+Powers aimed to expand political control over economic resources in the
+Empire. If it were true, the fiscal deficits and debt would have been of little
+7 Donald C. Blaisdell, European Financial Control in the Ottoman Empire (New York, 1966), 35.
+8 For example, A. Du Velay, Essai sur l’histoire financière de la Turquie (Paris, 1903),
+183–5; Rafii-Şukru Suvla, ‘The Ottoman Debt, 1850–1939’, in Charles Issawi (ed.), The Economic History of the Middle East 1800-1914 (Chicago, 1966), 95–106; Seyfettin Gürsel, ‘Osmanlı Dış Borçları’ Tanzimat’tan Cumhuriyet’e Türkiye Ansiklopedisi (Istanbul, 1985), Vol. III, 672–80; Jacques Thobie, ‘Osmanlı Devleti’nde Yabancı Sermaye’, Türkiye Ansiklopedisi (Istanbul, 1985), Vol. III, 724–30; Christopher Clay, Gold for the Sultan (London, 2000), 47–59.
+3
+
+
+matter for Hobart and Foster in their survey. Their report, indeed, shows
+that politics was not a pivotal factor of initiating the survey. It clearly
+reflects that the British government had a keen concern on Ottoman
+financial conditions, to say nothing of the size of fiscal deficits in the
+budget and internal debt. In consideration of their chief concerns about
+Ottoman economic performance, it is necessary to examine the start of
+surging foreign market loans of the Ottomans from an economic point of
+view.
+I will first examine the report of Hobart and Foster, and then the
+causes of the fiscal deficits and internal debt. Since the report is inclusive
+of the estimated deficits in 1276–7/1860–2, I provide the budgets of
+1276–8/1860–3 as well. I consulted the budgets recorded in European
+sources so as to be consistent with the statement of the 1275 budget in
+the report. The 1276 budget was recorded in the report of Falconnet—the
+manager of the Ottoman Bank, while the 1277–8 budgets were provided
+to the British government by the Ottoman grand vizier in hand-written
+form.9 With regard to the study of budgets, pre-nineteenth century
+budgets were well surveyed by Yavuz Cezar, Halil Sahillioğlu, and Ahmet
+Tabakoğlu.10 Sahillioğlu in particular pointed out a direct cause of the
+fiscal deficits by analysing the two-calendar system of public finance
+solar year for revenue collecting and lunar year for spending, but he
+claimed that it was no longer in operation in the Tanzimat period. Tevfik
+Güran exploited new fiscal records on the budgets in the period between
+9 TNA: PRO FO 424/20; PRO FO 78/1790.
+10 Yavuz Cezar, Osmanlı Maliyesinde Bunalım ve Değişim Dönemi (Istanbul, 1986), 20–2; Halil Sahillioğlu, ‘Sıvış Year Crises in the Ottoman Empire’, in M.A. Cook (ed.), Studies in the Economic History of the Middle East (London, 1970), 230–52; Ahmet Tabakoğlu, Gerileme Dönemine Girerken Osmanlı Maliyesi (Istanbul, 1985), 77–113, 178–81.
+4
+
+
+1257/1841–2 and 1277/1861–2.11 His statistics include the 1275–6
+budgets, but not those of the 1277–8 years. They help in revealing
+changes in the fiscal position in this period, but are not detailed enough to
+provide a critical view on the report of Hobart and Foster without the
+budgets of these years. Since budget deficits are the crux of the matter, I
+will look into Sahillioğlu’s study and Güran’s statistics in examining
+Ottoman fiscal structure and the causes of fiscal deficits and internal debt.
+In addition to the state budgets, I will examine local data which are
+available at Başbakanlık Osmanlı Arşivi (Prime Ministry’s Ottoman
+Archive) in Turkey. This record shows the significance of the provinces for
+state revenues since most direct taxes belonged to the local accounts. It
+also suggests a need for an examination of the local causes of the fiscal
+deficits and debt. In order to evaluate Hobart and Foster’s report from the
+aspect of local public finance, I will use the province of Baghdad as an
+example. The province had the characteristics of the fiscal structure that
+Sahillioğlu pointed out. Its financial data are sufficient to give crude
+estimates of internal debt in the province as evidence of the shortcomings
+of the report. Concerning exchange rates, the official rate of Ottoman
+currency to the pound sterling was 110 kuruş (piastre).12 Hobart and
+Foster used in their report the depreciated rate of 125 kuruş to £1. In this
+text, I use their rates, because the market rate of the kuruş had
+depreciated before the survey.
+11 Tevfik Güran, Tanzimat Döneminde Osmanlı Maliyesi: Bütçeler ve Hazine Hesapları, 1841-1861 (Ankara, 1988).
+12 Charles Issawi, The Economic History of Turkey 1800–1914 (Chicago, 1980), 32631.
+5
+
+
+Financial Conditions—the Survey of Hobart and Foster
+State revenues in the 1275 budget are summarised in Table 1.
+They are classified into three categories according to the sources of the
+revenues; direct taxes, indirect taxes, and profits of the state’s economic
+activities. The direct taxes were levied on agricultural produce, personal
+income, and non-Muslim subjects for exemption from military service. The
+largest amount, 29.3% of the total, was collected as dîme, or tithe on
+grain and commercial produce. The tax rate was one-tenth or one-fifth of
+the grain produce, depending on the source of agricultural water. The tax
+was higher for commercial crops. The tax of verghi in the report (verği in
+Ottoman Turkish) was an income tax imposed on an individual,
+theoretically in proportion to his actual income. The amount of the tax was
+determined annually according to the estimated financial capacity of the
+taxpayer, or the productivity of land held, assessed by the authorities of
+the village or town to which the taxpayer belonged. The income from fixed
+assets, such as rent of a house, mill, or shop was also taxed by the
+verghi. It yielded the second largest revenue for the government after the
+tithe, at 23% of the total. Another main source of direct taxes was sheep
+tax (agnâm) charged per capita, yielding the fourth largest share of the
+revenues. The rachat militaire (bedel-i askeriyye) was charged on non
+Muslims for exemption from military service. It used to yield a larger
+portion of revenues second only to the tithe, but lost its significance after
+equal conscription among Ottoman nationals was introduced.
+The revenues from indirect taxes were no less important than the
+revenues from direct taxes. Custom duties occupied 14.3% of the total as
+the third largest revenue source. Most of these custom duties were
+collected by the tax farmer except for those in Istanbul and certain ports,
+as described in the report, in the Sea of Marmara, the Dardanelles, and
+on the Asiatic coasts of the Black Sea. Excise duties on tobacco, spirits,
+and stamp duty had not been significant but were becoming increasingly
+6
+
+
+important as reliable sources of revenues. Besides these, the government
+profited from various economic activities and state enterprises such as
+the production of salt, and sales from mines, forests, and fisheries. Their
+revenues amounted to 7.9% of the total. Rent of public houses, shops,
+and other commercial facilities entered into the revenues as well. Tapou
+(tapu) in the list of revenue sources was the title on state land registered
+with the land registry. Sale of the tapu title began to take place, benefiting
+the government. Their revenues were not remarkable, only 0.6%, but
+soon increased as a result of development of the land market.
+Table 2 presents a breakdown of state expenditure according to the
+function of governmental departments and agencies. The Ministry of War
+was the largest consumer of revenues, with 30.7% of total expenditure.
+Adding in the Navy, defence expenditure comprised nearly 40% of the
+total. The Ministry of the Interior at 13.7% and the civil list or the sultan’s
+private account at 11.3% followed these. Another important item, which
+had not yet become burdensome, was interest payments and the
+amortisation of foreign and internal debts. This accounted for 14.2% of
+total expenditure in 1275/1859–60, or 16.2% of total revenue. Spending
+on public works, infrastructure, and education was extremely low,
+although their budgets increased in later years.
+Table 3 presents the stock variables, debt and liabilities, that
+Hobart and Foster estimated for the survey year. The total debt in
+1276/1860–1 was estimated at £36.5 million, and these figures are
+inclusive of the estimated deficits in flow variables; the exchange loss at
+4.6% of the total in 1276–7/1860–2 and the budget deficits at 8.6% in
+1274–7/1858–62. The share of foreign debt was 40%, the largest item in
+the total debt. The debt of the Ministry of Finance and the sundry liabilities
+of the various other departments, such as the War Departments, civil
+services, and the civil list amounted to £8.16 million, nearly as much as
+the annual revenue of £9.7 million in 1275/1860–1. Internal debt in stock
+7
+
+
+and bonds was 24.4% of the total, the debt of the Ministry of Finance
+12.2%, and the sundry liabilities 10.2%. Internal debt was largely incurred
+from an issue of ‘consolidé’ and payment obligations of each ministry
+called ‘serghis’ (‘sergi’), which shared 9.2% and 8.4% of the total debts
+respectively.13
+In addition to the analysis of the state budget, Hobart and Foster
+gave rough estimates of money supply. The government issued new
+paper money (kaime) at the rate of £10 million (1,250 million kuruş) a
+year before the survey. £5.2 million (650 million kuruş) was used for the
+repayment of short-term borrowing. The remaining £4.8 million (600
+million kuruş) was allocated to the Exchange Bank (i.e. the Ottoman
+Bank), to replace the old paper money, and for the fund of public work.14
+The new paper money, however, depreciated rapidly against the pound
+sterling and even against the old paper money in the domestic money
+market.
+The issue of the new paper money caused problems in the local
+money market. In the provinces, hard currencies, usually silver coins
+(beslik in the report) were actually used, while the paper money was not
+permitted to circulate. In spite of this restriction, paper money had been
+used for payments of salaries to officials and for commercial transactions.
+The official rate of the paper money was kept at the same value with
+current coins. But its value depreciated dramatically. The silver coins
+were debased at a rate of 8 to 10%, and the paper money was devalued
+13 TNA: PRO FO 424/24, Report, 22-8. According to the report, each minister had the power of issuing ‘serghis’ in order to pay for spending over the budgetary expenditure of his ministry that was allotted by the council of Tanzimat. It made the limitation of the expenditure ineffective. 14 Paper money was called variously kâğıt para, kavâim nakdiye, and kaime. Ali Akyıldız, Kâğıt Para ve Sosyo-ekonomik Etkileri (Istanbul, 1996), 41–51; Mine Erol, Osmanlı İmparatorluğunda Kâğıt Para (Kaime) (Ankara, 1970), 38–59; Zafer Toprak, ‘Osmanlı Devleti’nde Para ve Bankacılık’, Türkiye Ansiklopedisi, Vol. III, 760–70.
+8
+
+
+at larger discounts, 50% lower than the coins. Paper money was used for
+payments of taxes by the tax farmers, as a medium of transaction and
+commercial transfer between the capital and the regions. It was often
+made without discount, thereby causing a large exchange loss to the
+government in the capital.15
+The report was also concerned with a failure of monetary policy.
+The government had issued large quantities of interest-bearing paper
+money (also called kaime), incurring high interest payments due from the
+government. The report explains, ‘For instance, the “consolidés” bearing
+6 per cent. interest are now quoted at about 75, purchasable in paper,
+which is itself at a discount of nearly 140 per cent., so that 100 piastres
+“consolidé” can be purchased for about 31 piastres gold, showing a rate
+of interest of about 19 per cent’.16 At the time of the survey, the market
+value of the 100-kuruş ‘consolidé’ bearing 6% interest dropped by 25%,
+reaching the price of 75 kuruş. The real interest rate could not be more
+than 8%, for the value of the paper money to be unchanged. But the price
+of the paper money itself dropped by 69% against the official price.17
+Thus, the real interest rate of the 100-kuruş ‘consolidé’ became much
+higher at 19.4% annually. The new issue of ‘consolidé’ came to a halt
+because of this heavy devaluation of paper money and the high effective
+interest rates.
+In spite of a high debt ratio to the revenue, the report considered
+that ‘the debt of Turkey is comparatively speaking so small, and the
+resources of the country so great, that when once the public confidence is
+gained there will no longer be any difficulty in obtaining a loan on fair
+15 TNA: PRO FO 424/24, Report, 39. The problems of paper money are recorded in numerous Ottoman archival sources. For example, Turkey, Başbakanlık Arşiv (BA), İrade (İ), Meclis-i Mahsus 596, 29 Receb 1275; Meclis-i Vâlâ 21066, Sulh Şevvel 1278; Meclis-i Mahsus 1099, 17 Muharrem 1279. 16TNA: PRO FO 424/24, Report, 39.
+9
+
+
+terms, or in consolidating the outstanding liabilities into Government
+stock’.18 Looking into the data of revenues and expenditures, Hobart and
+Foster did not project any serious financial problems that forecast the
+possible default of Ottoman finance in the future. Indeed, the budgets of
+1276–8/1860–3 after the 1275 budget do not show substantial decreases
+in revenues (Table 1), although the expenditures increased somewhat in
+1277–8/1861–3 (Table 2). The estimates of the primary balance, that is
+the balance of expenditures and revenues after deduction of the
+payments of interests and sinking funds, were surplus, at 2.1% of the total
+revenue in 1275/1859–60 and higher in the other years (Table 4).
+The report was rather concerned about problems resulting from the
+increased money supply that the Ottoman government had created since
+the War. It recommended the immediate withdrawal of paper money from
+the domestic market, which indeed occasioned the new 1862 loan. The
+foreign debt would not be so large as to interfere with economic growth,
+as Hobart and Foster concluded:
+It only remains for us to express our confident hope that the Porte would without further delay, by a prompt, systematic, and comprehensive measure of reform, avail itself of the ample means at its disposal for the re-establishment of its credit and the permanent improvement of its financial condition. The case with which it has to deal is not the hopeless one of a taximposing power stretched to its utmost limit, and yet inadequate to meet the demands of a large and inevitable expenditure; but simply of financial disorder, caused chiefly by inattention to the ordinary rules of political economy and fiscal administration. With a taxation, if it were duly adjusted, extremely light; a system of government which, even if made thoroughly efficient in all its branches, would be comparatively inexpensive; and a national debt (including under the term
+17 The report inaccurately estimated the discount rate at 140%. 18TNA: PRO FO 424/24, Report, 39.
+10
+
+
+every kind of liability) which is less than 42,000,000l. sterling, we cannot believe that the Empire will be permitted any longer to remain in a condition bordering upon insolvency. We have no sufficient reason to suppose that the promise of the new reign will be unfulfilled, or that the Turkish government, rather than adopt a few simple, obvious, and with ordinary firmness and prudence, easily feasible reforms, will quietly allow the prevalent prediction as of national disaster, and decadence to be accomplished.19
+Hobart and Foster thought that internal debt was not so serious as
+to endanger the credibility of the government in the international money
+market. They predicted large increases in tax revenues once on-going
+reforms were implemented. They also expected great improvements in
+agricultural production, marketing, and transport. Indeed, the government
+pursued the fiscal reforms which Hobart and Foster recommended in the
+report, even in such a remote province as Baghdad. Ottoman financial
+data at the time of their survey, on the other hand, show that state finance
+had already deteriorated. One piece of evidence is the fiscal deficits that
+did not appear explicitly on the statement of the state budget. Such
+deficits accumulated as liabilities in the long run, with impacts that Hobart
+and Foster underestimated in their report.
+A Cause of Fiscal Deficits and Internal Debt
+One of the causes of the fiscal deficits was examined by Sahillioğlu
+in his study on the skip (sıvış) year. The skip year occurred as a result of
+the traditional use of two calendars for public finance. In the two-calendar
+system, the government had to skip one fiscal year every thirty-three
+fiscal years because of a lack of resources of revenue to finance
+19 Ibid. 41–2.
+11
+
+
+expenditure.20 The year to be disregarded was called a skip year. The
+skip years in the Tanzimat period were 1255 A.H. (March 1839–February
+1840 on the hicrî (lunar) calendar) and 1288 A.H. (March 1871–February
+1872 on the hicrî calendar; March 1872–February 1873 on the malî
+(solar) calendar). The year 1255 was skipped, while 1288 was not.
+Although its impact has not yet been studied with regard to the year of
+1288/1872–3, the principle of the skip year might have affected the
+system of tax prepayment and spending arrears. Sahillioğlu scrutinised
+Ottoman financial records in the skip years in the period between 1640
+and 1740, to study why financial crises and uprisings of the military
+occurred in the skip years, and what counter-measures the government
+undertook. His study not only shows the political and economic
+significance of the skip year, but also provides a clue to the cause of
+implicit fiscal deficits and debt in the Tanzimat period.
+The problem of the two-calendar system was caused by the
+government’s use of two fiscal years, a solar year (365 days) for revenue
+collecting and a lunar year (354 days) for spending. As an example, with
+regard to tax farming for revenue collecting the tax farmer paid the tax in
+March and August, because the assessment of harvests was
+straightforward by the solar calendar. Expenditures, on the other hand,
+did not correspond with the intervals of the revenue collection. They were
+made according to the lunar calendar, as illustrated by quarterly
+payments of payrolls. The solar calendar was eleven days longer than the
+lunar calendar. Accordingly, the period of thirty-four fiscal years in the
+lunar calendar used for the account of expenditures was equal to the
+period of thirty-three fiscal years in the solar calendar used for the
+account of revenues. Assuming that the revenue in the solar fiscal year
+20 Sahillioğlu, ‘Sıvış Year Crises’, 230–52; Tabakoğlu, Osmanlı Maliyesi, 241–6.
+12
+
+
+was used for spending in the lunar fiscal year, there occurred one lunar
+year in every thirty-four when the government had no revenue to finance
+spending. This year was called the skip year, periodically causing various
+political and economic problems to the government.
+Sahillioğlu considered that the two-calendar system functioned as a
+built-in measure of public finance in favour of the government. He defined
+the revenue deficiencies in the skip year as fiscal deficits, and examined
+measures of deficit finance.21 The government simply made up for the
+shortfall of revenues by aids (iâne; forced donation), confiscation of
+private property on default of inheritance and as a penalty, or by use of
+other fiscal policies to redress the deficiencies. The fiscal measures in
+those days were a pre-arrangement of a saving fund for spending in the
+skip year, the imposition of extraordinary taxes, expansion of the tax base
+on new land through conquest, or simply to default on payments. In
+addition to these fiscal policies, short-term borrowing and monetary
+policies were other possible measures. Particularly in the provinces,
+where fiscal policies had been less effective without centralised fiscal
+administration, the government often resorted to monetary policies of
+debasing currencies and their use for payments of payrolls. From 1710
+on, the government split the revenues into two in preparation of spending
+in the skip year. At the same time, the government resorted to
+widespread use of a new form of tax farming, in which the contract was
+longer and based on larger initial payments. After the financial crisis of
+the 1770s, tax farming for the farmer’s lifetime became predominant, but
+this was rescinded in the 1830s. The government resumed the original
+21 Political turmoil occurred in the skip years of 1448, 1481, 1513, 1546, 1578, 1612, 1644, 1677, and 1710. Sahillioğlu, ‘Sıvış Year Crises’, 237–47.
+13
+
+
+practice of tax farming in which tax-collecting right was auctioned off for
+the term of one to five years.22
+Sahillioğlu’s study allows a rough measurement of the scale of
+implicit deficits as a consequence of the two-calendar system. It is
+assumed that the government collected the extra revenues for thirty-three
+years, equivalent to the expenditures of one lunar year. In the skip year,
+consequently, the revenues collected in advance became 0% of the
+expenditure. From this point, another period of advanced collection of
+revenues would begin and continue until the next skip year. The mean
+prepaid amount of revenues was estimated to be the average of 0% and
+100%, i.e., 50% of the total annual revenues. Although this is a crude
+calculation, the estimated percentage closely corresponds with the
+number that I could obtain from the statistics of Güran’s23 study.
+Table 5 shows the amounts of revenue collected in advance for ten
+years around the survey period of Hobart and Foster. Columns are the
+breakdown of the annual revenues paid in advance equivalent to pounds
+sterling. For example, as for the year of 1275/1859–60, £5,817,386, or
+62.6% of the total revenue was collected in the current fiscal year. The
+remaining £3,470,370, or 37.4% of the total was collected in the years
+prior to the 1275 fiscal year. £2,345,449 in 1274/1858–9 belonged to the
+revenues of 1275/1859–60 but it was actually collected a year before.
+Prepaid revenues were 49.7% of the total in 1276/1860–1 and 32% in
+1277/1861–2.
+With regard to the prepayment for the future fiscal years, the data
+up to 1277 show that £5,312,073 was collected in 1275/1859–60 as the
+prepayment of revenues in the 1276–7 years. Adding the cash flows of
+22 Mehmet Genç, ‘Osmanlı Maliyesinde Malikane Sistemi’, in Ünal Nalbantoğlu and Osman Okyar (eds.), Türkiye Iktisat Semineri (Ankara, 1975), 231–96. 23 Güran,Osmanli Maliyesi, 281-97
+14
+
+
+the prepayment from the 1278 year on, the total sum would be larger than
+this figure. Together with the current revenues of £5,817,386, the
+government would receive more than £11,129,459 in 1275/1859–60, a
+much larger amount than the revenues in the budget of £9,291,008. The
+data in the other fiscal years may provide the same result. They suggest
+that the government collected the prepayments of taxes due in future
+fiscal years, whose sum with the receipts of the current revenues were
+always larger than the revenues in the budget.
+Güran’s statistics imply fiscal deficits and internal debt as a result of
+tax prepayments. The prepayments might be the government’s borrowing
+from taxpayers. The principal amount of the prepayment in the past years
+was cleared off in the current fiscal year in which the tax was due.
+However, it was necessary for the government to grant a deduction on
+the prepaid tax as a sort of interest paid to the taxpayers. There were
+various kinds of tax privileges such as tax deduction and even tax
+exemptions for certain years as an incentive for prepayment. The
+decrease of tax revenues as a result of tax reduction was a deficit in the
+flow variables of the current year. On the other hand, the government
+received the prepayments of taxes belonging to future fiscal years, whose
+sum was added to the stock variable in the current year. This appears to
+be a built-in system of fiscal deficits and debt, which was logically the
+same as the system of public finance based on the two-calendar years.
+Fiscal Problems in the Province of Baghdad
+Another cause of fiscal deficits and debt arose from the
+decentralised fiscal structure and administration in the regions. The
+revenues in 1278/1862–3, for example, show a remarkable distinction
+between the capital (Der-saâdet; Istanbul) and provincial governments.
+72% of the total revenue was collected in the provinces, and 28%
+15
+
+
+belonged to the account of the central government in Istanbul. The
+breakdown of the revenues furthermore exemplifies a wide difference in
+their resources. The provincial governments collected all direct taxes, the
+profits of sales of state properties and forest products, and fees of land
+registration. They shared with the central government the revenues from
+the tax for exemption from military service, custom duties, contracts,
+stamp duty, and the other miscellaneous taxes. The revenues from the
+postal service, mines, police, quarantines, trade and commerce all
+belonged to the centre. In consideration of the largest shares of tithe and
+verghi (30.7% and 22.5% in the total revenues), the budget of the
+provincial government was more significant to Ottoman state finance than
+Hobart and Foster envisaged24 (Table 7).
+To give an illustrative case of the fiscal deficits and debt in local
+public finance, I examine the fiscal system in the province of Baghdad.
+The province of Baghdad, one of thirty-one provinces on the list, was the
+sixth largest of all the provinces in terms of the sum of the current
+revenues in 1278/1862–3. Its revenues fell to ninth in 1284/1868–9, but
+recovered to the fourth largest in 1286/1870–1 and 1287/1871–2. Table 6
+presents the breakdown of the current revenues in the province in 1278
+87/1862-72. In the 1278 fiscal year, in the first column in the table, the
+tithe revenue was the largest, £312,312 (68.1% of the total revenue),
+followed by miscellaneous fees (12.8%), verghi (10.7%), and sheep tax
+(4.8%) respectively. The tax for exemption from military service was not
+large, due to the low population of non-Muslim subjects in the province.
+The revenues were consumed locally according to the local
+scheme of spending, but they were not sufficient to pay for everything.
+Fiscal records - precise statistics on spending are not available – show
+24 Revenues were remitted to the central treasury twice a year on 11 March (Nevruz)
+16
+
+
+that deficits had existed explicitly and implicitly in the local budget. One
+reason for this was the government’s heavy use of tax farming for
+revenue collection on most tax resources. The practice of tax farming
+enabled the government to receive prepayment in return for giving up a
+portion of the tax as a discount for early payment. The government could
+theoretically avoid fiscal deficits, if it could keep its expenditures within the
+cash flow in the fiscal year. In reality, however, both investment and
+current expenditures had increased rapidly since the Crimean War, at a
+faster pace than revenue. The accumulation of fiscal deficits had never
+ceased in this province.
+This change corresponded with the progress of modernisation
+projects and the expansion of the public sector in the province. The
+province of Baghdad was full of documentary evidence. Reşit Pasha
+(1852–6) purchased two steamboats from France at the price of 82,936
+francs for the use of commercial navigation on the Tigris River from
+Baghdad to Basra.25 Soon after, the government had to rebuild the port of
+Basra (Fao) to accommodate the new boats, whose projects had actually
+begun earlier during Necip Pasha (1842–7).26 Renovations of port
+facilities, the customhouse, and the quarantine areas were necessary, as
+well. Concurrently, the project of constructing telegraph lines set out to
+connect Baghdad and Basra.27 The expenditures of public work had been
+charged to the account of the province, except for the construction of
+telegraph lines to Baghdad, which the central government reimbursed.28
+On top of the investment expenditures for the on-going projects,
+there was another local need for budgetary expansion in the province.
+and in the beginning of August. See Sahillioğlu, ‘Sıvış Year Crises’, 233. 25 BA. İ, Meclis-i Vâlâ 16755, 6 Rabiyülâhir, 1274. 26 Stephen Hemsley Longrigg, Four Centuries of Modern Iraq (Oxford, 1925), 280–4. 27 Mustafa Kaçar, ‘Osmanlı Telegraf İşletmesi’, in Ekmeleddin İhsanoğlu and Mustafa Kaçar (eds.), Çağını Yakalayan Osmanlı (Istanbul, 1995), 48–51.
+17
+
+
+This was the administrative reorganisation of the province which occurred
+in Baghdad at the time of Hobart and Foster’s survey between
+1275/1859–60 and 1278/1862–3. The government re-established the
+provincial and district administration in Baghdad, in which the Baghdad
+governor was empowered to appoint the local officials in the province and
+districts. They were paid from the local treasury in Baghdad according to
+their rank and post. Even official appointees of the central government
+were listed on the rolls of the provincial government. The reforms
+equipped the government for better civil and fiscal administration but
+needed a larger expenditure programme than before.29 The increase in
+current expenditures was another important cause of the fiscal deficits of
+the local budget.
+The funds for new projects and reforms were various and local. The
+government had found it rather easy to finance increased capital
+expenditures in the expectation of high returns from the investment. For
+purchasing the steamboats, for example, Reşit Pasha arranged payment
+by instalments from the profits of grain exports to Jeddah and Yemen for
+consumption by Egyptian troops. Increased portions of custom duties also
+served as a source of off-budget expenditures on the transportation
+projects. To complete the telegraph lines, the government used loans
+from the British India Office with lower interest payments under an
+arrangement by the central government.30 Local finance of current
+expenditures was more complicated and diversified than project finance.
+As analysed in the previous section, the government received tax
+prepayments from tax farmers. It borrowed short-term from local
+28 BA: İ. Meclis-i Vâlâ 5500, 22 Zilkâde 1266. 29 For example, the governor Ahmet Tevfik Pasha reorganized the tribal domain of the Albu Muhammad as a sub-district of the Kut al-Amara district. See BA. İ, Meclis-i Vâlâ 18472, 6 Safer 1276; 18497, 16 Safer 1276; 19924, 17 Şaban, 1277; Dahiliye 30706, 13 Muharrem 1277.
+18
+
+
+financiers, the governor and other high officials, foreign residents, tax
+farmers, and even from the treasuries of other provinces. The
+government also took new tax revenues from tribesmen who had not
+been obedient, at the risk of tribal disturbance against the government.31
+Tax increases and short-term borrowing were not sufficient to cover the
+current expenditures. The government trimmed the payrolls and the other
+off-budget payments as much as possible. However, large portions of
+military and administration expenses fell into arrears and implicitly turned
+into internal debt.
+Implicit Debt in the Province of Baghdad
+The arrears of payments indicate the existence of internal debt
+accrued implicitly in the province. Table 8 shows the payment arrears
+recorded on Zimmet Defteri (Book of Liabilities) in the fiscal year of
+1278/1862–3. Entries are broadly demarcated as military expenses,
+administrative expenses, purchase of grains for exports, and direct
+receipt of revenues by the local treasury. The expenditure of £806,739
+was 176% over the current revenues of £458,819 in 1278. Payment
+arrears most often involved the recipients of military expenses and
+payrolls in administration. For example, the arrears were £474,127 for
+military expenses and £312,842 for administrative expenses, which
+together comprised 97.5% of the arrears. Most payments were made
+within a few years but in some cases were much-delayed because of
+shortages in repayment funds.
+30 Meclis-i Vâlâ 16755.
+19
+
+
+Simple aggregates of the arrears suggest that Hobart and Foster’s
+figures for the domestic liabilities of the entire government in Table 3 were
+not accurate. The arrears of payments on administrative expenses in
+Baghdad (£312,842) were far larger than the liabilities estimated by
+Hobart and Foster (£51,808) in the table. The arrears of the military
+expenses (£474,127) alone accounted for 88% of the £535,760 of the
+War Department. It is unknown why Hobart and Foster gave a figure so
+much lower than the numbers in the Ottoman local records. It is possible
+that the Baghdad government made the amounts of liabilities appear
+higher by including interest payments in the obligation. Even if the figures
+allowed a discount, they would still have been large, probably above
+Hobart and Foster’s estimates.
+In order to assess the financial burdens of the arrears on the
+Baghdad treasury, I looked into the weighted values of outstanding
+payments in Table 8. They were calculated by multiplying the amount of
+arrears by the number of years for which the payments were deferred. My
+crude estimates clearly show that the longer the arrears, the heavier the
+burden of payments on the local government. For example, £284,094 in
+military expenses due on the fiscal year of 1278/1862–3 was actually paid
+with a three-year delay in the fiscal year of 1281/1865–6. The
+accumulated amount of the arrears was £852,282, reached by multiplying
+the arrears by three. It indicates that the government put it on the account
+of debt each year until repayment, while adding up the arrears that
+occurred in the other fiscal years. It serves as a useful indicator of implicit
+debt that the government owed. Let me consider as an example the ratio
+of accumulated arrears to expenditures on the purchase of grain and the
+31 Reşit Pasha claimed the tax arrears on Arab tribesmen at the amount of £52,794 in Hindiya, £18,145 in Diwaniya, £14,362 in Hilla, and £25,098 in Samawa. BA. İ, Dahiliye 27211, 28 Muharrem 1275.
+20
+
+
+treasury, where data are available for the 1278 fiscal year. The total
+expenditures were £27,645 and £4,948, respectively. The arrears were
+put on the outstanding account yearly, aggregating to £26,020 and
+£7,652, respectively. Dividing the total accumulated arrears by the total
+expenditures, the ratios become 94.1% and 155% respectively. The
+percentage would be considerably higher on military and administrative
+expenses, since their payment arrears were far larger and longer than the
+other two entries. The numbers show the approximate ratio of the debt
+from the payment arrears to the expenditure. The government would have
+incurred larger payment obligations than the original amount, if the
+government had been obliged to offer compensation for the arrears.
+Payment arrears, including the arrears of other fiscal years, placed heavy
+financial pressure on the provincial government in Baghdad.
+In sum, an obvious cause of internal debt in the province of
+Baghdad was that current expenditures grew faster than revenue.
+Temporary decreases in tax revenues also occurred in this province for
+reasons of drought, epidemics, flooding of rivers, attacks of locusts, and
+tribal disturbance. In these cases, the primary balance of the local budget
+might have deteriorated, not yielding a surplus as estimated, but running
+in deficit. Fiscal deficits easily accumulated as debt to the government. In
+addition to this, the government was indebted to tax farmers by receiving
+the tax prepayments of future years, and to recipients of expenditures as
+a result of payment arrears. The government was burdened with heavy
+internal debt, which was a main characteristic of local fiscal structure in
+the province.
+Conclusion
+This paper has examined the report of Hobart and Foster and
+focused on their analysis of the 1275 budget and the domestic liabilities
+21
+
+
+as of the survey year. They pointed out that a failure of monetary policy
+was a serious detriment to the Ottoman economy. Another foreign loan
+was necessary to withdraw the paper money from the domestic market
+and stabilise the economy. Their survey, however, had the drawbacks of
+incomplete statistics and lack of knowledge of the public finance of the
+Ottoman government. They understated the size of the fiscal deficits and
+internal debt, which turned out to be the key factors in subsequent
+financial troubles.
+The work of Sahillioğlu based on the contemporary governmental
+records suggested the fiscal structure of deficits that Hobart and Foster
+overlooked. He proved that the use of solar and lunar years for public
+finance was a built-in system of tax prepayments which created fiscal
+deficits in the pre-Tanzimat period. Güran’s data showed that this
+proposition still applied even after the Tanzimat. Tax prepayments caused
+a huge drop in cash revenues in the current tax year, at the amount of
+nearly half of the revenue. In order to make up for this shortage, the
+government received the prepayments of the taxes which would be due in
+the following years. It was the government’s borrowing, or the internal
+debt, from the taxpayers, which would be paid off on the account in the
+future tax year. Hobart and Foster took into consideration problems of
+fiscal administration in their report but were unable to account for the
+fiscal structure running in deficit and creating internal debt explicitly and
+implicitly as a result of tax prepayments.
+Another problem of the report was observed from my analysis of
+the archival records of local public finance. A record of the state revenues
+showed that the budget of the provincial governments was much larger
+than that of the central government. Hobart and Foster were unaware of
+the importance of the provincial government in state finance, and so they
+undervalued the fiscal deficits and internal debt accrued locally. I looked
+into the fiscal position in the province of Baghdad, as an example. The
+22
+
+
+size of the local budget in this province expanded drastically along with
+the progress of modernising projects and the centralisation of provincial
+administration after the Crimean War. Both the investment expenditures
+for project finance and the current expenditures increased more rapidly
+than current revenues. The Baghdad government used various measures
+of deficit finance, such as local borrowing, tax prepayments, and simply
+making the payments in arrears. Above all, the arrears were the most
+functional measure of coping with the increases in current expenditures.
+Looking into the local records of liabilities, the government recorded large
+amounts of payments in arrears as debt. However, the longer the period
+of arrears, the heavier the financial burden on the provincial government.
+Hobart and Foster registered estimates of the arrears as domestic
+liabilities, but their figures were much lower than the estimates of the
+arrears in Baghdad.
+Hobart and Foster did not give full consideration to the built-in
+structure of fiscal deficits and debt, and the rapid increases in the size of
+deficit-financed local budgets in the provinces. This may be a reason for
+the Ottoman financial troubles of the 1860s, which eventually resulted in
+default on foreign debt in 1875 and the Public Debts Administration of
+1881.
+23
+
+
+Table 1. Ottoman Budgets in 1275-8/1859-63: Revenues
+Hobart and Foster Falconnet Grand Vezier
+1275/1859-60 1276/1860-1 1277/1861-2 1278/1862-3
+Description Piastres % Pounds Pounds Pounds Pounds
+Direct 1 Verghi income tax 278,040,021 22.9 2,224,320 2,207,717 2,251,972 2,533,221
+Tax 2 Rachat militaire tax for exemption
+from military service
+59,609,119 4.9 476,873 476,873 483,179 483,178
+3 Dîmes tithe 355,564,374 29.3 2,844,515 2,843,011 3,127,802 3,474,327
+4 Moutons sheep 88,291,531 8.1 706,332 661,812 677,344 681,344
+5 Porcs animals 10,452,473 0.9 83,620 83,620 18,919 18,919 Indirect
+Tax
+6 Douanes de
+marchandises
+customs/excise duties 173,179,783 14.3 1,385,438 1,410,582 1,263,993 2,263,993
+7 ” de tabac duty on tobacco 25,727,718 2.1 205,822 225,822 273,962 740,000
+8 Pêche duty on fish/hunting 8,487,253 0.7 67,899 68,939 58,869 58,868
+9 Contrats contracts 2,350,924 0.2 18,809 18,808 13,620 33,620
+10 Papier timbré stamp duty 3,113,620 0.3 24,909 24,908 19,973 179,973
+11 Boissons excise on spirits 4,690,874 0.4 37,527 297,527 119,072 119,071
+12 Tapou tapu 6,924,908 0.6 55,400 115,399 88,670 168,670
+13 Droits divers miscellaneous duties 101,657,297 8.4 813,258 814,652 846,494 1,067,282
+Others 14 Poste post office 6,267,736 0.5 50,142 50,142 72,622 72,622
+15 Imprimerie printing office 916,286 - 7,330 7,330 8,886 8,886
+16 Divers immeubles
+du Gouvernement
+real property of
+the government
+3,457,318 0.3 27,658 27,667 27,944 27,944
+17 Pêcherie fisheries 2,003,097 0.2 16,020 16,020 16,581 16,581
+18 Forêts forests 660,972 - 5,288 5,272 6,659 26,659
+19 Fermes Impériales state farms 7,810,745 0.6 62,486 62,486 65,697 65,697
+20 Salines salt 10,692,175 0.9 85,537 85,537 116,364 596,365
+21 Mines mines 1,143,809 0.1 9,150 9,150 74,645 94,645
+22 Montant des
+immeubles vendus
+sale of real property 505,000 - 4,040 4,040 584 584
+23 Revenus fixes fixed revenues 46,787,000 3.9 374,296 374,296 374,296 374,296
+24 Revenu de l’Arsenal revenues of Arsenal 14,839,888 1.2 118,719 118,718 75,354 49,117
+25 Revenu du Tidjaret trade and commerce 777,062 0.1 6,216 6,217 7,591 8,470
+(vakıf endowment) 120,000
+Total 1,213,950,983 100 9,711,608 10,016,545 10,091,092 13,284,332
+Source: The National Archives of the UK (TNA): Public Record Office (PRO) FO 424/20, 1-2; FO 424/24, 1-2; FO 78/1790.
+24
+
+
+Table 2. Ottoman Budgets in 1275-8/1859-63: Expenditures
+Hobart and Foster Falconnet Grand Vezier
+1275/1859-60 1276/1860-1 1277/1861-2 1278/1862-3
+Description Piastres % Pounds Pounds Pounds Pounds
+1 Foreign debt, interest, and sinking fund 111,377,890 8.0 891,023 737,845 841,860 1,405,060
+2 Home debt, ” , ” 85,850,009 6.2 686,800 1,055,731 1,120,621 1546660
+3 Pilgrimage to Mecca and expenses
+for Sacred Places
+48,031,553 3.5 384,252 401,917 322,876 562,876
+4 Civil List 156,734,871 11.3 1,253,878 1,219,363 990,910 1,007,906
+5 Superannuations and charities 26,913,008 1.9 215,304 143,262 233,621 261,664
+6 Grand Council and Tanzimat 14,920,646 1.1 119,365 103,635 92,830 74,893
+7 Ministry of War 425,152,500 30.7 3,401,220 3,931,094 3,931,094 3,837,824
+8 ” Artillery 18,191,270 1.3 145,530 256,668 162,020 172,178
+9 ” Marine 98,850,205 7.1 790,810 786,040 731,513 983,570
+10 ” Tribunals 10,655,500 0.8 84,244 85,244 85,312 85,374
+11 ” Evkaff (Vakıf) 19,042,666 1.4 152,341 151,855 164,800 160,800
+12 ” Interior 190,541,749 13.7 1,524,333 1,433,186 1,462,376 1,418,865
+13 ” Foreign Affairs 25,676,586 1.9 205,412 129,751 108,277 108,011
+14 ” Commerce and Public Works 9,742,504 0.7 77,940 57,799 37,871 35,661
+15 ” Public Instruction 2,802,478 0.2 22,419 20,055 19,127 19,668
+16 ” Police 13,796,664 1 110,373 111,332 184,388 168,604
+17 ” Finance 127,793,579 9.2 1,022,348 847,845 777,940 629,721
+18 Loss incurred on retiring
+metallic currency
+261,336 251,388 251,388
+Sub-total 11,733,958
+(refund form Civil List, & etc.) -1,453,692
+Total 1,386,073,678 100 11,088,583 10,280,266 11,518,824 12,730,723
+Source: TNA: PRO FO 424/20; FO 424/24, 17; FO 78/1790.
+25
+
+
+Table 3. Abstract of Debts and Liabilities in 1276/1860-1
+(Hobart and Foster’s Report)
+Piastres Pounds %
+Foreign Debt (less sinking funds) 14,613,059 40.0
+Home Debt: consolidés 417,750,000 3,342,000 9.2
+Stock and bonds hasne tahvilis1 237,500,000 1,900,000 5.2
+sehims2 75,000,000 600,000 1.6
+serghis3 382,104,500 3,056,836 8.4
+Debt due by Finance
+Ministry
+borrowed on
+assignment of revenue
+478,902,000 3,831,216 10.5
+” without assignment 41,465,000 331,720 0.9
+miscellaneous debts 36,148,995 289,192 0.8
+Sundry liabilities War Department 66,970,000 535,760 1.5
+Artillery 13,853,500 110,828 0.3
+Rediff 84,087,000 672,696 1.8
+Herzegovine 80,611,500 644,892 1.8
+Syria 76,289,704 610,318 1.7
+Admiralty 80,939,248 647,514 1.8
+civil service 6,476,000 51,808 0.1
+civil list 54,117,000 432,936 1.2
+Exchange loss in 1276 59,864,000 478,912 1.3
+(estimated) in 1277 152,346,500 1,218,772 3.3
+Deficits on budgets 1274 and 1275 29,043,000 232,344 0.6
+1276 150,277,065 1,202,217 3.3
+1277 (estimated) 212,223,375 1,697,787 4.7
+Total4 36,500,807 100
+1 treasury bill
+2 note or cheque payable at the public-pay office
+3 life-interest share of capital in the canonical public debt
+4£36,488,843 in the Hobart and Foster report
+Source: TNA: PRO FO 424/24, Report, 37-8.
+26
+
+
+Table 4. Indicators of Revenues and Expenditures (in pounds)
+1275/
+1859–60
+1276/
+1860–1
+1277/
+1861–2
+1278/
+1862–3
+(1) Revenues 9,711,608 10,016,545 10,091,092 13,284,332
+(2) Expenditures 11,088,583 10,280,266 11,518,824 12,730,723
+(3) Interest payments 1,577,823 1,793,576 1,962,481 2,951,720
+(% of Revenues) (16.2%) (17.9%) (19.4%) (22.2%)
+(4) Expenditures deducted
+interest payments
+9,510,760 8,486,690 9,556,343 9,779,003
+(5) Primary balance [(1)–(4)] 200,848 1,529,855 534,749 3,505,329
+% of Revenues 2.1% 15.3% 5.3% 26.4%
+Source: Tables 1 and 2.
+27
+
+
+Table 5. Tax Prepayments in 1268-77/1852-62 (in pounds)
+1268
+/1852-3
+1269
+/1853-4
+1270
+/1854-5
+1271
+/1855-6
+1272
+/1856-7
+1273
+/1857-8
+1274
+/1858-9
+1275
+/1859-60
+1276
+/1860-1
+1277
+/1861-2
+--1262/1846 90,518 65,589 13,225 10,869 13,883 25,841 140,723 35,251 6,691 23,692
+1262/1846-7 24,234 92,807 4,520 1,504 1,434 13,923 45,289 26,484 10,405 3,102
+1263/1847-8 79,948 94,276 6,210 12,634 3,468 28,918 49,563 21,026 2,176 3,575
+1264/1848-9 173,452 137,684 30,181 8,926 3,856 69,329 119,849 45,912 5,498 12,062
+1265/1849-50 238,737 229,938 86,209 30,336 22,156 89,801 48,033 12,338 3,363 15,178
+1266/1850-1 932,281 319,976 117,554 67,503 20,691 143,261 124,176 13,288 4,306 34,505
+1267/1851-2 2,261,987 588,165 190,459 153,180 87,265 159,438 145,872 25,857 8,934 31,052
+1268/1852-3 2,384,590 2,498,088 499,525 218,349 137,453 225,000 156,328 41,673 59,925 38,256
+1269/1853-4 3,563,635 1,417,118 403,074 209,891 384,001 286,443 32,977 27,949 68,526
+1270/1854-5 4,838,914 2,081,017 767,637 618,118 748,735 58,026 29,786 67,324
+1271/1855-6 5,986,218 4,648,180 1,815,976 436,061 158,889 259,260 136,112
+1272/1856-7 2,668,496 2,565,653 779,870 208,817 101,726 129,150
+1273/1857-8 5,546,010 4,400,899 444,383 200,393 217,233
+1274/1858-9 6,235,825 2,345,449 392,834 486,825
+1275/1859-60 5,817,386 3,758,184 1,553,889
+1276/1860-1 4,820,589 1,456,590
+1277/1861-2 9,074,723
+Revenues (past & current years) 6,185,746 7,590,159 7,203,915 8,973,610 8,584,410 11,685,269 13,717,666 9,287,756 9,692,019 13,351,794
+Revenues (Budget) 6,183,773 6,059,677 7,104,428 8,343,520 9,066,412 9,291,008 9,600,540 9,769,473
+“ (Past years) 3,801,156 4,026,523 2,365,001 2,987,393 5,915,914 6,139,260 7,481,841 3,470,370 4,871,430 4,277,071
+“ (Current year) 2,384,590 3,563,635 4,838,914 5,986,218 2,668,496 5,546,010 6,235,825 5,817,386 4,820,589 9,074,723
+“ (After current year until 1277) 3,874,596 2,829,980 4,370,643 7,454,478 3,785,216 5,262,907 3,225,108 5,312,073 1,456,590
+Source: Tevfik Güran, Tanzimat Döneminde Osmanlı Maliyesi:Bütçeler ve Hazine Hesapları, 1841-1861 (Ankara,1988), 281-97
+28
+
+
+Table 6. State Revenues in the Capital and Provinces in 1278/1862-3
+Provinces Capital (Der-saâde)
+Piastres Pounds % Piastres Pounds %
+1 income tax 297,833,202 2,382,666 22.5
+2 tax for exemption
+from military service
+56,830,739 454,646 4.3 56,250 450
+3 tithe 405,935,932 3,247,487 30.7
+4 sheep tax 88,486,933 707,895 6.7
+5 animal tax 1,209,713 9,678 0.1
+6 customs/excise 18,799,747 150,398 1.4 9,539,903 76,319 0.7
+duties
+7 duty on tobacco
+8 duty on fish/hunting
+9 contracts 811,440 6,492 0.1 968,608 7,749 0.1
+10 stamp duty 10,359,068 82,873 0.8 655,732 5,246 0.1
+11 excise on spirits
+12 tapu 8,786,568 70,293 0.7 45,808 366 
+13 miscellaneous duties 60,899,214 487,194 4.6 4,127,600 33,021 0.3
+(other tax) 27,716 222
+14 post office 9,077,765 72,622 0.7
+15 printing office
+16 real properties of the
+government
+1,128,980 9,032 0.1
+17 fisheries
+18 forests 61,038 488
+19 state farms
+20 salt
+21 mines 9.330,661 74,645 0.7
+22 sales of real property
+23 fixed revenues
+24 revenues of Arsenal 6,139,631 49,117 0.5
+
+
+25 trade and commerce 1,536,830 12,295 0.1
+police 404,776 3,238 
+quarantine 402,579 3,221 
+administrative fees 281,080,389 2,248,643 21.3
+other state activities 46,787,000 374,296 3.5
+Total1 951,170,290 7,609,364 72 370,153,527 2,961,228 28
+1 Grand total: £10,570,592
+Source: BA, Maliye Defterleri (ML), Vâridât Muhasebesi (VRD), 3483.
+30
+
+
+Table 7. Revenues in the Province of Baghdad in 1278-87/1862-72 (in pounds)
+1278/
+1862-3
+1279/
+1863-4
+1280/
+1864-5
+1281/
+1865-6
+1282/
+1866-7
+1283/
+1867-8
+1284/
+1868-9
+1285/
+1869-70
+1286/
+1870-1
+1287/
+1871-2
+Verği income tax 49,222 49,463 46,494 51,504 29,610 46,327 45,245 46,077 49,874 46,897
+Bedel-i asker exemption from
+military service
+2,305 2,313 3,361 3,265 3,417 3,266 3,266 4,097 4,116 4,152
+Öşür tithe 312,312 329,669 309,959 221,314 35,410 306,662 222,867 303,261 411,255 526,306
+Ağnâm sheep tax 21,911 17,724 17,960 22,033 10,268 23,404 21,900 24,324 32,690 35,912
+Rüsûm fees, etc. 58,641 59,951 89,572 93,874 50,729 103,736 80,055 65,358 60,458 58,212
+Tapu land title deeds 286 829 105 553 423 235 350 844 3,470 1,824
+Varaka sahihe stamp duty 4,029 4,289 4,586 6,401 2,969 6,215 4,864 5,382 5,045 3,672
+Kontratu contracts 715 822 676 1,225 386 49 37 478 4,578 302
+Harac vasaik official deeds 4,525 4,578 4,873
+Emlak miri state estates 1,055 190 874 17,279 60,000 46,222
+Orman forests 584 1,290 1,346
+Hasılat misc. income 9,398 13,753 18,894 7,611 5,060 11,687 17,293 9,840 7,000 5,132
+Total 458,819 479,868 491,799 407,781 138,272 501,582 396,750 482,048 644,354 734,849
+Source: BA, Maliye Defterleri (ML), Vâridât Muhasebesi (VRD), 3483.
+31
+
+
+Table 8. Payments in Arrears in Baghdad for the Fiscal Year of 1278/1862-3 (in pounds)
+Military Expenses Administrative Expenses Purchase of Grains Treasury
+Arrears Weighted
+by year
+Arrears Weighted
+by year
+Arrears Weighted
+by year
+Arrears Weighted
+by year
+1278/1862-3 (11,266) (1,557)
+1279/1863-4 1,494 1,494 5,858 5,858 6,738 6,738 1,014 1,014
+1280/1864-5 146,110 292,220 7,677 15,354 9,641 19,282 1,381 2,762
+1281/1865-6 284,094 852,282 264 792 108 324
+1282/1866-7 16,168 64,672 35 140 888 3,552
+1283/1867-8 9,954 49,770
+1284/1868-9 62 372 1,249 7,494
+1285/1869-70 156 1,092
+1286/1870-1 3,404 27,232 526 4,208
+1287/1871-2 10 90
+1288/1872-3 12,133 121,330 21,112 211,120
+1289/1873-4 542 5,962 276,121 3,037,331
+Total 474,127 1,416,516 312,842 3,282,297 16,379 26,020 3,391 7,652
+(27,645) (4,948)
+Source: BA. Maliyeden Müdevver Defterler Tasnifi, 10953.
+32
+
+
+LONDON SCHOOL OF ECONOMICS ECONOMIC HISTORY DEPARTMENT WORKING PAPERS (from 2002 onwards) For a full list of titles visit our webpage at http://www.lse.ac.uk/
+2002
+WP67 Precocious British Industrialization: A General Equilibrium Perspective
+N. F. R. Crafts and C. Knick Harley
+WP68 Social Insurance Regimes: crises and ‘reform’ in the Argentine and Brazil, since c. 1900
+Colin M. Lewis and Peter Lloyd-Sherlock
+WP69 Can profitable arbitrage opportunities in the raw cotton market explain Britain’s continued preference for mule spinning? Timothy Leunig
+2003
+WP70 The Decline and Fall of the European Film Industry: Sunk Costs, Market Size and Market Structure, 1890-1927 Gerben Bakker
+WP71 The globalisation of codfish and wool: Spanish-English-North American triangular trade in the early modern period Regina Grafe
+WP72 Piece rates and learning: understanding work and production in the New England textile industry a century ago Timothy Leunig
+WP73 Workers and ‘Subalterns’. A comparative study of labour in Africa, Asia and Latin America Colin M. Lewis (editor)
+WP74 Was the Bundesbank’s credibility undermined during the process of German reunification? Matthias Morys
+
+
+WP75 Steam as a General Purpose Technology: A Growth Accounting Perspective
+Nicholas F. R. Crafts
+WP76 Fact or Fiction? Re-examination of Chinese Premodern Population Statistics Kent G. Deng
+WP77 Autarkic Policy and Efficiency in Spanish Industrial Sector. An Estimation of the Domestic Resource Cost in 1958. Elena Martínez Ruiz
+WP78 The Post-War Rise of World Trade: Does the Bretton Woods System Deserve Credit? Andrew G. Terborgh
+WP79 Quantifying the Contribution of Technological Change to Economic Growth in Different Eras: A Review of the Evidence Nicholas F. R. Crafts
+WP80 Bureau Competition and Economic Policies in Nazi Germany, 1933-39
+Oliver Volckart
+2004
+WP81 At the origins of increased productivity growth in services. Productivity, social savings and the consumer surplus of the film industry, 1900-1938 Gerben Bakker
+WP82 The Effects of the 1925 Portuguese Bank Note Crisis Henry Wigan
+WP83 Trade, Convergence and Globalisation: the dynamics of change in the international income distribution, 1950-1998
+Philip Epstein, Peter Howlett & Max-Stephan Schulze
+WP84 Reconstructing the Industrial Revolution: Analyses, Perceptions and Conceptions of Britain’s Precocious Transition to Europe’s First Industrial Society
+Giorgio Riello & Patrick K. O’Brien
+
+
+WP85 The Canton of Berne as an Investor on the London Capital Market in the 18th Century Stefan Altorfer
+WP86 News from London: Greek Government Bonds on the London Stock Exchange, 1914-1929
+Olga Christodoulaki & Jeremy Penzer
+WP87 The World Economy in the 1990s: A Long Run Perspective Nicholas F.R. Crafts
+2005
+WP88 Labour Market Adjustment to Economic Downturns in the Catalan textile industry, 1880-1910. Did Employers Breach Implicit Contracts? Jordi Domenech
+WP89 Business Culture and Entrepreneurship in the Ionian Islands under British Rule, 1815-1864 Sakis Gekas
+WP90 Ottoman State Finance: A Study of Fiscal Deficits and Internal Debt in 1859-63 Keiko Kiyotaki

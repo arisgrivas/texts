@@ -1,0 +1,1169 @@
+BANK OF GREECE
+EUROSYSTEM
+Working Paper
+7
+Government bankruptcy of Balkan nations and their consequences for money and inflation before 1914: a comparative analysis
+Peter Bernholz
+4
+JUNE 2008
+WORKINKPAPER WORKINKPAPERWORKINKPAPERWORKINKPAPER WO
+SEEMHN
+ps://ssrn.com/abstract=4165367
+
+
+BANK OF GREECE Economic Research Department – Special Studies Division 21, Ε. Venizelos Avenue GR-102 50 Αthens Τel: +30210-320 3610 Fax: +30210-320 2432
+www.bankofgreece.gr
+Printed in Athens, Greece at the Bank of Greece Printing Works. All rights reserved. Reproduction for educational and non-commercial purposes is permitted provided that the source is acknowledged.
+ISSN 1109-6691
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+Editorial
+The South-Eastern European Monetary History Network (SEEMHN) is a
+community of financial historians, economists and statisticians, established in April
+2006 at the initiation of the Bulgarian National Bank and the Bank of Greece. Its
+objective is to spread knowledge on the economic history of the region in the context
+of European experience with a specific focus on financial, monetary and banking
+history. The First and the Second Annual Conferences were held in Sofia (BNB) in
+2006 and in Vienna (OeNB) in 2007. Additionally, the SEEMHN Data Collection
+Task Force aims at establishing a historical data base with 19th and 20th century
+financial and monetary data for countries in the region. A set of data has already been
+published as an annex to the 2007 conference proceedings, released by the OeNB
+(2008, Workshops, no 13).
+On 13-14 March 2008, the Third Annual Conference was held in Athens,
+hosted by the Bank of Greece. The conference was dedicated to Banking and Finance
+in South-Eastern Europe: Lessons of Historical Experience. It was attended by
+representatives of the Albanian, Austrian, Belgian, Bulgarian, German, Greek,
+Romanian, Russian, Serbian and Turkish central banks, as well as participants from a
+number of universities and research institutions. Professor Michael Bordo delivered
+the key note speech on Growing up to Financial Stability. The participants presented,
+reviewed and assessed the experience of SE Europe with financial development,
+banking and central banking from a comparative and historical perspective.
+The 4th Annual SEEMHN Conference will be hosted by the National Serbian
+Bank on 27th March 2009 in Belgrade. The topic of the Conference will be Economic
+and Financial Stability in SE Europe in a Historical and Comparative Perspective.
+The papers presented at the 2008 SEEMHN Conference are being made
+available to a wider audience in the Working Paper Series of the Bank of Greece.
+Here we present the first of these papers, by Peter Bernholz.
+June, 2008
+Sophia Lazaretou
+SEEMHN Coordinator Member of the Scientific and Organizing Committee
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+GOVERNMENT BANKRUPTCY OF BALKAN NATIONS AND THEIR CONSEQUENCES FOR MONEY AND INFLATION BEFORE 1914: A COMPARATIVE ANALYSIS
+Peter Bernholz Univeristy of Basel
+ABSTRACT
+A difference is made between open and hidden or veiled government bankruptcies. The latter are happening if budget deficits are covered by substantial money creation leading to inflation. In this case non-indexed government debt loses its value and is inflated away. This path is not open, if the debt is not denominated in the national but in a stable foreign currency or in units of gold or silver. This is usually the case for debt owed to foreigners. But sometimes both kinds of government bankruptcies are occurring together. In the present paper several general qualitative hypotheses are tested for the Balkan countries and the Ottoman Empire
+JEL classification: F340; G330; N230.
+Keywords: Government bankruptcies; Foreign debt; Fixed exchange rates.
+Acknowledgements: I am grateful to Alina Blejan, Kalina Dimitrova, Dragana Gnjatovic, Martin Ivanov, Sophia Lazaretou and Sevket Pamuk for their help, especially in getting data on government budgets, prices and exchange rates.
+Correspondence:
+Prof. em Dr. Dr. h. c. Peter Bernholz Postfach CH-4003 Basel Switzerland e-mail: Peter.Bernholz@unibas.ch
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+7
+1. Introduction
+Where the payment of interest and the repayment of debts in self-inflicted devalued or ruined currency brings about an improvement of the fiscal situation, not an open but a veiled government bankruptcy takes place. Veiled government bankruptcy is the modern method of national bankruptcy.
+(Terhalle 1931, my translation)
+If a government becomes unable to meet its obligations, there exist several
+methods how to escape them. Either the debt or the interest on it is reduced more or
+less openly by government decree, or by raising the taxes on interest payments.
+Another method is to lower its real value by inflation. This is all related by a
+tautological unpleasant financial and monetary relationship (Sargent and Wallace
+1981). Historically, whereas a ruler like Philip II. of Spain declared three open
+bankruptcies during the second half of the sixteenth century, the method of veiled
+bankruptcy has become more and more widespread during the last century. Philip did
+not touch the value of the Spanish currency, the piece of eight (peso de ocho) which
+had established itself as a leading international currency and became the precursor of
+the dollar.
+Still, veiled government bankruptcies reducing the nominal value of debts by
+inflation were certainly not unknown even before the last century of inflation
+following the demise of the gold standard. Thus a well-known German encyclopaedia
+explained already before 1914 (Meyers Konversationslexikon 1907) that government
+bankruptcies may occur as follows:
+1) Repudiation of government debts that is an announcement that the state would not pay back the total or parts of its debt or pay interest on them. Such a refusal happened in earlier times often when the government changed. The new government declared the debts incurred earlier to be illegal (some US states 1841, Denmark 1850, ... France during the revolution); 2) Discontinuation of payments for an indefinite period; 3) A unilateral reduction of interest ... that is without the creditors agreeing; 4) A unilaterally introduced higher taxation of interest amounting to a hidden reduction of the interest rate, which can also occur by interest payments in debased coins or paper money; 5) Issue of an excessive amount of paper money turned into compulsory legal tender.
+(Vol 18, p. 807 f., my translation)
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+8
+Point 5 obviously refers to veiled bankruptcy. The article goes on to mention as
+recent examples of government bankruptcies that of Turkey 1875, of several countries
+in Central and South America (here Argentina 1890 should be mentioned), Portugal
+1892 and Greece 1893. But other Balkan states faced the same problem in the decades
+before 1914: Serbia went bankrupt, too, and Bulgaria came near to bankruptcy. Only
+the situation of Romania proved to be more stable.
+In the following we will undertake a comparative study of “open” and “veiled”
+government bankruptcies of Balkan countries before 1914, and of the relationship
+between national bankruptcy, inflation and devaluation. In doing so we have to
+differentiate between government debt expressed in national currencies and that
+denominated in foreign currencies, where the latter is mostly held by foreign
+creditors. For whereas the former debt can be reduced in real terms by inflation as
+long as the respective state has control of its currency, this is not true for the debt
+denominated in foreign money. Before 1914 most of this debt was expressed in terms
+of stable gold and silver currencies, like the French franc, the British pound and the
+German mark, which also scarcely fluctuated because of the gold standard among
+each other. This was different for Russia and Austria Hungary until the 1890s, which
+were for long periods on paper money standards during the 19th century.
+2. Developments in the Ottoman Empire until 1914
+We begin our comparative analysis by looking at the developments in the
+Ottoman Empire until 1844 that is before most Balkan states reached their full
+independence. As already shown by Pamuk (2004), the empire suffered from a
+substantial budget deficit during the first half of the 19th century, which was mainly
+covered by incurring domestic debt and money creation. The latter led to substantial
+inflation and thus to a fall of the exchange rate (Figure 3.1). According to our
+definition the period is thus characterized by veiled bankruptcy.
+Unfortunately, no figures for government budget and the money supply are
+available. But we know that a substantial debasement of the Kurush took place. A
+look at our figure also reveals that one of the hypotheses we want to test is clearly
+supported by the empirical evidence. With the flexible exchange rate to the pound as a
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+9
+result of the debasement, a substantial undervaluation of the Ottoman currency
+develops: The exchange rate moves up more quickly and more strongly than the price
+level.
+Sources: The development of prices and of some data for exchange rates has been provided by Sevket Pamuk in personal communication to the author, January 2, 2008). See also Pamuk (1999) and (2004). Most data for Sources: The development of prices and of some data for exchange rates have been provided by Sevket Pamuk in personal communication to the author, January 2, 2008). See also Pamuk (1999) and (2004). Most data for exchange rates are from Schneider, Jürgen, Schwarzer, Oskar and Denzel, Markus A. (1994): Währungen der Welt, Vol. VIII, pp. 108-112. Stuttgart: Franz Steiner.
+In 1843-44 the situation changed dramatically. The government took reforms
+to stop the debasement of the currency and to balance the budget. Its efforts to stop
+the decline of the exchange rate proved to be successful, for the new parity with the
+pound could be maintained until the First World War (Figure 2.3). However, after two
+years the budget again turned into deficit (Figure 2.2). This meant, of course, that the
+deficit had now to be covered by rising credit, mainly by borrowing abroad, since the
+inflation tax was no longer available. But foreign loans were necessarily denominated
+in stable foreign money, given the British gold standard. This meant that with ever
+increasing government debt open bankruptcy of the Ottoman state could not be
+avoided in the long run. We will return to this event later, when we analyze the open
+bankruptcies threatening all Balkan governments except Romania in the decades
+preceding the First World War.
+1
+7
+9
+9
+1
+8
+0
+4
+1
+8
+0
+9
+1
+8
+1
+4
+1
+8
+1
+9
+1
+8
+2
+4
+1
+8
+2
+9
+1
+8
+3
+4
+1
+8
+3
+9
+1
+8
+4
+4
+90
+190
+290
+390
+490
+590
+690
+790
+890
+990
+1090
+1190
+1290
+1390
+1490
+Figure 2.1: Development of Prices and of Exchange Rate for Pound in Istanbul, 1799-1844
+CPI Kurush/Pound
+Year
+%, 1799 = 100
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+10
+Source: See Figure 2.1
+Source: personal communication to the author by Sefket Pamuk, December 2007.
+We now turn to the development of prices and exchange rate as a consequence of
+these fiscal and monetary policies. According to our hypotheses we would now expect
+at least a removal of the undervaluation of the kurush compared to the British pound,
+and perhaps even an overvaluation since the Ottoman Empire suffered from a stronger
+increase of prices than the United Kingdom. And indeed, the price level is strongly
+moving ahead of the stabilized exchange rate in the years soon after the reforms. This
+is quite in tune with other historical experiences. Subsequently we see a tendency of
+the price level to move towards the exchange rate which seems to suggest a return to
+18 41
+18 46
+18 49
+18 52
+18 56
+18 60
+18 64
+18 68
+18 72
+18 76
+18 80
+18 84
+18 88
+18 92
+18 96
+19 00
+19 04
+19 08
+19 10
+19 12
+19 14
+-2.5
+0
+2.5
+5
+7.5
+10
+12.5
+15
+17.5
+20
+22.5
+25
+27.5
+Figure 2.2: Ottoman Budget Deficit/Expenditures, 1841-1914
+Deficit/Expenditures
+Year
+D eficits as % of Expenditures
+1
+8
+4
+3
+1
+8
+5
+1
+1
+8
+5
+9
+1
+8
+6
+7
+1
+8
+7
+5
+1
+8
+8
+3
+1
+8
+9
+1
+1
+8
+9
+9
+1
+9
+0
+7
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+Figure 2.3: Development of Prices and Exchange Rate for Pound in Ottoman Empire, 1843-1914
+CPI Kurush/Pound
+Year
+%, 1843 = 100
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+11
+purchasing power parity. With the beginning of the new century, however, another
+rise of the price level can be observed. Does this mean that an overvaluation of the
+kurush was still present in 1913?
+To answer this question we have to take up two points. First, the developments
+sketched in Figure 2.3 do not take into account that a substantial undervaluation was
+present in 1843, so that the stronger rise of the price level might just have removed
+this. Looking at the data we find that until 1913 the price level rose to 1291.89 and the
+exchange rate to 1376.63, with the base set equal to 100 for 1799. Given the empirical
+problems with the cost of living index and the selected base year, the small remaining
+„undervaluation“of about 6% may be just an artifact.
+The second point refers to the development of price levels in the stable countries of
+the center. For they have to be taken into account for problems of purchasing power
+parities. I have looked up the figures for the cost of living index for Switzerland. And
+indeed, the above picture does not change. For the Swiss index remained stable for all
+practical purposes in the long run. If we set the earliest figure for 1811 equal to 100,
+the index reached 100.58 in 1913.
+So, we can draw the cautious conclusion that either purchasing power parity
+was restored for the kurush before the First World War, or a slight undervaluation
+remained.
+3. Fiscal and Monetary Developments in Four Balkan Countries
+We turn now to developments in Romania, Bulgaria, Serbia and Greece and have
+first a look at the development of government budgets. We learn several facts from
+Figure 3.1. First, Greece and Serbia showed the most critical budgetary situations.
+Second, times of severe financial distress seem to occur for Greece around the 1880s
+and the late 1890s and for Serbia around the early 1880s and around 1900. Third,
+Greece was experiencing the strongest budget fluctuations among the four countries.
+Fourth, the Bulgarian financial situation looks precarious around the late 1890s and
+the first years of the new century, but seems to be better than that of Greece and
+Serbia. Finally, Romanian government finances became never dangerous, since
+budget deficits were soon compensated by surpluses. Neither an open nor a veiled
+government bankruptcy ever threatened.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+12
+Source: Lampe and Jackson (1982), pp. 212 and 234.
+3.1 Romanian Developments
+As a consequence of its sound government finances Romania was never
+motivated to manipulate its currency by debasement; its exchange rate could always
+maintain its parity (Fig. 3.2). At first look it seems also that an undervaluation of the
+leu occurred, which should only happen according to our hypothesis if the Swiss rate
+of inflation were higher than the Romanian.1
+1 To take the Swiss cost of living index for the comparison seemed to be adequate, since both currencies were fixed one to one to the French franc (Latin Monetary Union).
+1
+8
+6
+4
+1
+8
+8
+1
+1
+8
+8
+5
+1
+8
+8
+9
+1
+8
+9
+3
+1
+8
+9
+7
+1
+9
+0
+1
+1
+9
+0
+5
+1
+9
+0
+9
+-70
+-60
+-50
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+Figure 3.1: Development of Government Deficits/Expenditures in Four Balkan Countries, 1864-1912
+Romania Bulgaria Serbia Greece
+Year
+%, Deficit/Expenditures
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+13
+Sources: For prices: See Figure 3.3. For exchange rates: National Bank of Romania, Reports of the Board of Directors to the General Shareholders Meeting, 1893-1915.
+Sources: For Romanian prices: Postolache, Tudor (Coordinateur Scientifique)(after2000): L'Economie de la Roumanie, Le XXe Siecle. Academie Roumaine, Institut National de Recherches Economiques. Les editions Expert, 319-330. For Swiss Cost of Living Index: Swiss National Bank: Historical Time Series, CD, 2007. Note: An unweighed arithmetic average of 27 items has been used to calculate the Romanian inflation.
+1
+8
+7
+8
+1
+8
+8
+3
+1
+8
+8
+8
+1
+8
+9
+3
+1
+8
+9
+8
+1
+9
+0
+3
+1
+9
+0
+8
+1
+9
+1
+3
+-15
+-12.5
+-10
+-7.5
+-5
+-2.5
+0
+2.5
+5
+7.5
+10
+12.5
+15
+17.5
+20
+22.5
+Figure 3.3: Romanian and Swiss Rates of Inflation, 1878-1913
+Swiss Inflation Romanian Inflation
+Year
+%, Annual Rate of Inflation
+1
+8
+7
+7
+1
+8
+8
+2
+1
+8
+8
+7
+1
+8
+9
+2
+1
+8
+9
+7
+1
+9
+0
+2
+1
+9
+0
+7
+1
+9
+1
+2
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+Figure 3.2: Development of Purchasing Power Parity and Exchange Rate of Romania, 1877-1916
+Leu/Franc PIRo/CPIS
+Year
+%, 1887 = 100
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+14
+This seems, however, not to have been the case (Figure 3.3). Now it may
+probably have been wrong to take 1887 as the base year. But we did so since no data
+were available for the exchange rates of the years before. With an assumed earlier
+stability of the rate2 and taking 1877 as a base year, the red line would shift up
+strongly, suggesting an overvaluation of the leu, which diminished in time.
+This would be in tune with our hypothesis, since the average annual rate of
+inflation in Romania was 1.4% compared to -0.54% for Switzerland. So we might
+again, like in the case of the Ottoman Empire, either have in the end some remaining
+overvaluation or an approach towards purchasing power parity, which would
+correspond to our hypothesis. We cannot be too certain about the result, since some
+deviations have to be expected, given the fact that for Romania we have only an
+unweighed arithmetic average of fourteen goods, mostly victuals. We see also greater
+fluctuations of the Romanian price index than of the Swiss CPI, which are probably
+caused by the higher volatility of food prices because of bad harvests altering with
+good ones.
+3.2 Greek Developments
+Greek developments have been well described by Lazaretou (1995). She
+describes several switches of exchange rate regimes as a consequence of budgetary
+problems leading on the one hand to veiled government bankruptcy and on the other
+to stabilization policies moving the exchange rate back to the old fixed parity. The
+periods of financial distress can be clearly seen by looking at the figures for the
+accumulated deficits in terms of annual revenues (figure 3.1). These are the years after
+1833, the 1880s and early 1890s and the late 1890s. Later financial stress is again
+developing with the two Balkan wars and the First World War.
+Given the work of Sophia Lazaretou (1995) our paper can limit its analysis to the
+validity of the hypotheses for under- and overvaluation. As she reports, Greece
+suspended the convertibility of its currency four times from 1833 to 1914, but
+returned always to convertibility with an exchange exchange rate fixed to the French
+2 14.4 guilders of Austrian currency were paid for 100 Lei (equal to Walachian piasters) in Vienna in 1842 and 15 in 1863 (Schneider et al. 1991, p. 412). This suggests a long-term stability of the Lei.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+15
+franc at a parity of one to one before the First World War (Table 1, p. 30). All
+suspensions of convertibility were caused by the financing of excessive government
+deficits by money creation. The government reverted several times to open
+bankruptcy but also used extensively money creation to finance its deficits and thus
+presumably also to reduce its domestic debt by inflation. The tendency of politicians
+and governments to incur deficits and to finance parts of them by money creation or
+debasement is a well known historical fact explained by public choice theory
+(Bernholz 2003, Chapter 2). Inflation and the abolishment of fixed exchange rates can
+thus only be prevented, if the hands of governments are bound by strong institutional
+safeguards. But given the international gold standard, it can be observed that weaker
+peripheral countries, not only the Balkan countries, but for instance also Argentina
+and Brazil always strove to return to a fixed parity. This has been explained as caused
+by the aim of politicians either to follow the example of the more developed countries
+of the centre (Bernholz 1987) or (and) to be able to restore their creditworthiness to
+foreign creditors (Lazaretou 1995, p.48).
+1
+8
+3
+3
+1
+8
+4
+1
+1
+8
+4
+9
+1
+8
+5
+7
+1
+8
+6
+5
+1
+8
+7
+3
+1
+8
+8
+1
+1
+8
+8
+9
+1
+8
+9
+7
+1
+9
+0
+5
+1
+9
+1
+3
+-25
+25
+75
+125
+175
+225
+275
+Figuree 3.4: Greek Government Accumulated Deficits Since 1833
+Accumulated Deficit/Current Revenue
+Year
+Accum ulated D eficits/ C urrent R evenue
+Source: Lazaretou (1995), Table A1.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+16
+In testing the hypotheses for under- and overvaluation of the Greek currency we
+have unfortunately to limit ourselves to the period after 1877. For data concerning the
+development of food prices and of the exchange rate are only available from 1877, so
+that the earlier periods of distress, namely in the years after 1833 cannot be examined.
+But the remaining period from 1877 to 1914 casts at least some light on the validity of
+our hypotheses.
+Source: Lazaretou (1995), Table 3.4. Note: Unweighed arithmetic average of food prices.
+We have seen (Figures 3.4) that fiscal distress developed in the 1880s, stayed
+until the early 1890s and returned in the late 1890s. This corresponds with the
+development of the exchange rate (Figure 3.5). Until the mid-eighties it remained
+relatively stable near its parity. But afterwards the parity could not be maintained and
+the exchange rate became flexible and moved up strongly by about seventy percent.
+The price level followed more slowly, so that a substantial undervaluation developed.
+With stabilization policies setting in around 1900 the exchange rate fell more
+drastically than the price level and purchasing power parity was restored when the old
+fixed parity was reached. This corresponds to the hypotheses to be tested.
+By contrast, the development from 1877 to 1887 seems to contradict the
+hypothesis that with a higher domestic than foreign rate of inflation an overvaluation
+1
+8
+7
+6
+1
+8
+8
+1
+1
+8
+8
+6
+1
+8
+9
+1
+1
+8
+9
+6
+1
+9
+0
+1
+1
+9
+0
+6
+1
+9
+1
+1
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+Figure 3.5: Development of Exchange Rate and Food Price Level in Greece, 1877-1914
+Exchange Rate Food Prices
+Year
+%, 1877 = 100
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+17
+of the drachma should have developed. For since the price level fell, whereas the
+exchange rate remained relatively stable, this looks like an undervaluation. But this
+impression may be deceptive, since this development could be the removal of an
+earlier overvaluation. We cannot know as long we do not have figures for prices and
+exchange rates for the years since 1833.
+Source: Lampe and Jackson (1982), pp. 212 and 234.
+3.3 Bulgarian Developments
+The Bulgarian fiscal developments were less favourable than those of
+Romania but better than those in Greece and Serbia (Figures 3.1 and 3.4). Periods of
+financial distress were limited to the late 1890s and the beginning of the first decade
+of the 20th century and again to the times of the Balkan wars. They were also by far
+less severe than those of Greece (compare Figures 3.4 and 3.6). This is reflected in the
+development of the exchange rate since 1879 (Figure 3.7). In fact, the parity could be
+maintained until 1914. With the price level falling in the early 1880s an
+undervaluation developed. When it began to rise since 1902, the undervaluation was
+first reduced and then turned into an overvaluation. Both events are quite in tune with
+our hypotheses. We will discuss later (Section 4) whether the financial distress
+1
+8
+7
+9
+1
+8
+8
+4
+1
+8
+8
+9
+1
+8
+9
+4
+1
+8
+9
+9
+1
+9
+0
+4
+1
+9
+0
+9
+1
+9
+1
+4
+-70
+-40
+-10
+20
+50
+Figure 3.6 Accumulated Government Deficits in Bulgaria Since 1879
+Accumulated De ficit/Revenues
+Year
+Accumulated Deficits/Current Revenue, %
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+18
+beginning in the late 1890s led to problems with international creditors and whether it
+had something to do with an expansionary monetary policy.
+Source: personal communications to the author by Kalina Dimitrova and Martin Ivanov of the Bulgarian National Bank and the Bulgarian Academy of Sciences in 2007/08. For exchange rates see also Trifonoff (1930). Note: Retail price index is based on 97 commodities.
+Source: Lampe and Jackson (1982), pp. 212 and 234.
+1
+8
+8
+1
+1
+8
+8
+6
+1
+8
+9
+1
+1
+8
+9
+6
+1
+9
+0
+1
+1
+9
+0
+6
+1
+9
+1
+1
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+Figure 3.8: Serbian Accumulated Deficit/ Current Annual Expenditures, 1881-1911
+Accumulated Deficit/Current Annual Expenditures
+Year
+% of Current Annual Expenditures 1
+8
+7
+9
+1
+8
+8
+3
+1
+8
+8
+7
+1
+8
+9
+1
+1
+8
+9
+5
+1
+8
+9
+9
+1
+9
+0
+3
+1
+9
+0
+7
+1
+9
+1
+1
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+135
+140
+Figure 3.7: Bulgarian Retail Price Index and Exchange Rate, 1879-1914
+Retail Prices Leva/FrenchFrancs
+Year
+%, 1879 = 100
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+19
+3.4 Developments in Serbia
+As can be seen from Figure 3.8 there occurred three periods of fiscal stress in
+Serbia since 1881. Worst in the 1880s, then around the turn of the century and finally
+from 1909. Beginning in about 1901 we have a rigorous consolidation which even led
+to an accumulated surplus in the following years.
+Unfortunately, exchange rates were only available to me since 1886. If we
+look at food prices, we cannot find evidence of an inflationary development in the
+1880s (Figure 3.9), a fact which may be, however, a consequence of the earlier rise by
+about 40 to 50 % in 1869 and the 1870s, which was maintained later. Around 1889 a
+reduction of the price level can be observed which may be a consequence of the
+strong reduction of the accumulated deficit during that time. After that period, but at
+least since the late 1890s an inflationary trend can be observed again.
+Source: personal communication by Dragana Gnjatovic to the author of data provided by Mr. Sojic of the National Bank of Serbia.
+Note: Unweighed arithmetic average.
+For the years from 1886 and 1896, respectively, exchange rates for French franc
+and the Austrian guilder are available (Figure 3.10). They show that the exchange rate
+for the franc and the guilder, presumably expressed in paper dinars, since the agio or
+premium on the twenty dinar gold coin diminished even more, fell from 1894 until
+1
+8
+6
+9
+1
+8
+7
+4
+1
+8
+7
+9
+1
+8
+8
+4
+1
+8
+8
+9
+1
+8
+9
+4
+1
+8
+9
+9
+1
+9
+0
+4
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+Figure 3.9:Development of Food Prices in Serbia, 1869-1908 (Arithmetic Average of 14 Food Prices)
+Food Prices
+Year
+%, 1869 = 100
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+20
+1908. This probably reflects a move towards the parity for the gold dinar, which is
+towards full convertibility. In this sense a stabilization effort for the Serbian currency
+was undertaken. Together with the rising level of food prices this led probably to an
+overvaluation of the dinar, quite in line with the hypothesis to be tested. But at least
+part of the divergence may be just a correction of an earlier undervaluation, though I
+believe that only a part of the divergence can be explained by such a correction, since
+in 1908 a premium of 20.26 % on the twenty dinar gold coin remained. It had fallen to
+this value from 23.1% in 1894. This is a reduction by 12.3%. By contrast the
+divergence of the development of food prices and exchange rate from 1896 to 1908
+amounted to more that 50% in 1908. But still, these are just speculative judgments as
+long as we have no figures for earlier exchange rates.
+Sources: For exchange rates for Austrian guilder: Statistical Yearbook for the Kingdom of Serbia, various issues; for agio on metallic dinar: Gnjatovich (1991), Table 6, p. 198. For prices: see Figure 3.9. Notes: The exchange rates for the French franc have been calculated by using the agio on metallic dinar. The exchange rate of dinars per Austrian guilder was set equal for 1896 to that of the French franc.
+18
+86
+18
+88
+18
+90
+18
+92
+18
+94
+18
+96
+18
+98
+19
+00
+19
+02
+19
+04
+19
+06
+19
+08
+19
+10
+19
+12
+90
+95
+100
+105
+110
+115
+120
+125
+130
+135
+140
+145
+150
+155
+Figure 3.10: Development of Price Level and of Exchange Rates in Serbia, 1886-1913
+Dinar/Guilder Price Index Dinar/French Fr.
+Year
+%, 1886 = 100
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+21
+4. Open Bankruptcies of Balkan Countries
+With a stable monetary policy and fixed exchange rates veiled government
+bankruptcy becomes impossible. The same is true if the debt or great parts of it are
+denominated not in the national but in stable foreign currencies. But foreign
+currencies were stable under the then prevailing gold standard. Given these
+conditions, an accumulation of debt at a rate higher than that of GDP must necessarily
+lead in time to open government bankruptcy. We have, therefore, to look into the
+respective experiences of the Ottoman Empire, Greece, Serbia and Bulgaria which all
+showed fiscal distress during periods in which they were striving for stable monetary
+policies and had reached or were attempting to move towards fixed exchange rates.
+As shown above the Ottoman Empire introduced stable monetary policies and
+a fixed exchange rate already beginning in 1844 (Figure 2.2). But at the same time
+government deficits remained sizable, so that the international indebtedness rose. As
+had to be expected, open government bankruptcy followed on April 13, 1876. After
+several years of negotiations the international debt was reduced from 250 to 106
+million British pounds, and the interest rate to at least 1%, but with an annual
+amortization of 1/3 % of this remaining debt (Meyers Konversationslexikon, vol.
+19,1908, p.829). An international commission, the Conseil d'Administration de la
+Dette Publique Ottoman was created. It consisted of one private member from each of
+the following countries: Britain, Italy, France, Austria-Hungary and Germany. Several
+public revenues were pledged to serve the remaining debt and were administered and
+controlled by this commission (Meyers Konversationslexikon, vol. 6, 1904, p. 570).
+But in spite of these developments public finances did not improve much and, as we
+have seen, new fiscal distress arose in1888, 1896 and from 1908 to 1912. In 1906 the
+international debt amounted to 129.1 million British pounds (Meyers
+Konversationslexikon, vol. 19,1908, p.822). These developments pointed to a
+renewed government bankruptcy, even if the First World War had not occurred.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+22
+Table 4.1: Long-Term European Loans to Balkan Governments, 1864-1911 (Million French Francs)
+Nominal Effective Nominal Effective Amount Amount Interest Interest %% 1864-1889
+Ottoman Empire (1876) 6182.5 Romania (1864) 722.7 518.9 5.6 7.8 Bulgaria (1888) 76.8 71.4 6.0 6.5 Serbia (1876) 63.5 46.6 3.8 5.2 Greece (1833) 690.9 514.0 4.8 6.1
+1890-1900
+Romania 1009.4 779.2 4.4 5.7 Bulgaria 150.0 131.2 5.8 6.6 Serbia 367.8 258.1 4.0 5.7 Greece (1893) 689.5
+1901-1911
+Romania 951.8 880.0 4.9 5.3 Bulgaria 522.0 564.0 4.7 5.5 Serbia 555.0 476.0 4.8 5.6 Greece 55.3 44.2 4.0 5.0
+Sources: Lampe and Jackson (1982), Table 7.7, p.233. The 1876 figure for the Ottoman Empire and the 1893 figure for Greece are from Meyers Konversationslexikon, vol. 19, 1908, p. 829 and vol. 8, 1914, p. 310, respectively.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+23
+Table 4.2: Open Government Bankruptcies of Balkan Countries
+Country Year Reduction of Debt Reduction of Interest Foreign Control
+Ottoman 1876 From 250 to 160 To at least 1% Yes Empire million pound
+Greece 1893 By two-thirds Yes
+Serbia 1893 First no interest, Limited then 4 %
+Bulgaria Near bankruptcy New loan saved around 1900 situation
+We have already seen that Greece suffered from similar problems from the
+beginning of its new existence in 1832, as well described by Lazaretou (1995).
+Convertibility at par was already abolished in 1848 because of an overissue of
+banknotes. From 1895 a stabilization of monetary policies began which ended with a
+return to the old one to one parity with the French franc. Before this time Greece had
+not only reduced its real debt denominated in the national currency and increased its
+revenues by an inflation tax, but also accumulated increasing debts denominated in
+foreign currencies. This led to open government bankruptcy in 1893. At this time the
+government debt had risen to 598 million French franc and to 152 million devalued
+paper drachmas. The government reduced the interest rate on the foreign debt one
+sidedly to one third during the next years . But when the fiscal situation worsened
+even farther because of the defeat by the Turks in 1897, the Greek government agreed
+to a European Financial Commission similar to that instituted for the Ottoman Empire
+(Meyers Konversationslexikon, vol. 8, 1904, p. 310). Its members were mandated by
+the governments of Germany, France, Britain, Italy, Russia and Austria-Hungary.
+This commission had the right to control and to administer certain government
+revenues pledged for serving and amortizing the international debt (Meyers
+Konversationslexikon, vol. 6, 1904, p. 571). It also imposed a moratorium on the
+issue of new banknotes and mandated the withdrawal of two million drachmas a year
+from dirculation until the exchange rate reached par. These and other reforms led to
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+24
+more healthy monetary policies and to an increase of the exchange rate of the
+drachma until it had reached its original parity with the French franc in 1909. And
+during this process the National Bank of Greece, led by the able Stephen Streit, was
+able to establish its independence from the government, whereas the government had
+still forced the Bank in 1891 to lend it most of her gold reserves (Lampe and Jackson
+1982, pp. 214 and 218 f.).
+If we turn to Serbian developments a similar pattern emerges. We observe
+periods of financial distress in the 1880s, around 1900 and around 1910 (Figure 3.8).
+The situation became so difficult in 1893 that neither public officials nor the interest
+on government debt could be paid (Meyers Konversationslexikon, vol. 18, 1907, p.
+362).. As a consequence the debts were consolidated into a new loan with an interest
+of 4 % and a Serbian Autonomous Monopoly Administration created in 1895. It
+controlled and administered several government revenues including those of the state
+monopolies with the purpose to serve the interest and amortization payments on the
+international debt (Meyers Konversationslexikon, vol. 6, 1904, p. 570 f.). The Serbian
+National Bank was able to reassert herself against the government, and in this process
+the money supply was reduced by three million dinars and further note issues frozen
+until 1900 (Lampe and Jackson 1982, pp. 213 f. ) . As a consequence the exchange
+rate of the dinar rose substantially during the following years (Figure 3.10).
+Let us finally consider the Bulgarian financial situation. It has already been
+shown that the exchange rate could be kept at par from 1890 to the outbreak of the
+First World War (Figure 3.7). Financial distress developed before 1914 only around
+the turn of the century. A new loan agreed on by parliament and prince in 1899 could
+first not be obtained in Vienna and then in France. Thus the salaries of the officers of
+the army and of the bureaucrats were cut by 7% in 1899, and 20-30% of them paid for
+two years in treasury bonds. The prince agreed to forego 50% of the payments he
+received by the state, and the government was entitled to issue an amount of 40
+million lev in treasury bonds. But the budgetary situation remained precarious, and
+led to additional insufficient savings by reducing the number of districts in 1901 and
+of the number of recruits in 1902. Thus it became necessary to convert government
+debts with the help of a new loan in the amount of 260 million lev in 1902. Only this
+new loan could help to bridge the remaining deficit (Meyers Konversationslexikon,
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+25
+vol. 3, 1903, p. 588 f.). But the budgetary situation improved afterwards and no open
+government bankruptcy occurred.
+5. Conclusions
+Simple arithmetic relationships exist between government deficits, their financing
+in capital markets and through central banks and the money supply. High inflations
+have usually been caused by financing excessive government deficits which were
+financed by creating money. All inflations in Balkan countries before 1914 and that of
+the Ottoman Empire as well as the abolishment of their fixed exchange rates
+corresponding to monetary regimes based on gold or silver standards were caused by
+veiled government bankruptcies. They usually led to an undervaluation of the
+respective currencies. If, however, fixed exchange rates were maintained or restored, a
+tendency towards overvaluation of the currency or a removal of the earlier
+undervaluation took place.
+Open bankruptcies also occurred several times because of excessive deficits
+financed by incurring foreign debt denominated in stable currencies. In several cases
+they were combined with fixed exchange rates or motivated their restoration.
+Unfortunately a lack of data prevented in a couple of cases to come to a
+definite conclusion concerning the hypotheses tested.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+26
+References
+Bernholz, Peter (1987): The Implementation and Maintenance of a Monetary Constitution. In: Dorn, James A. and Schwartz, Anna J. (eds.): The Search for Stable Money. Chicago and London: The University of Chicago Press, 83-117.
+Bernholz, Peter (2003): Monetary Regimes and Inflation. History, Economic and Political Relationships. Cheltenham, UK, and Northhampton, MA, USA: Edward Elgar. Paperback edition 2006.
+Gnjatovic, Dragana (1991): Stari Drzavni Dugovi. Prilo ekonomskoj istoriji Srbije i Jugoslavije, 1862-1941. Beograd: Ekonomiski Institut, Jugoslovenski Pregled.
+Lampe, John R. and Jackson, Marvin R. (1982): Balkan Economic History, 15501950. Bloomington, Indiana: Indiana University Press.
+Lazaretou, Sophia (1995): Government Spending, Monetary Policies, and Exchange Rate Regime Switches: The Drachma in the Gold Standard Period. Explorations in Economic History 32, 28-50.
+Meyers Grosses Konversationslexikon (1903-1908): Vol. 3: Bulgarien, vol. 6: Finanzkontrolle, vol. 8: Griechenland, vol. 18: Serbien and vol. 19: Türkei. Meyers Grosses Konversationslexikon, Leipzig und Wien: Bibliographisches Institut, 807 f.
+Pamuk, Sevket (1999): A Monetary History of the Ottoman Empire. Cambridge: Cambridge University Press.
+Pamuk, Sevket (2004): Prices in the Ottoman Empire, 1469-1914. International Journal of Middle East Studies 36, 451-468.
+Postolace, Tudorel (Coordonator)(1991): Economia Romaniei-Secolul XX- Bucuresti: Editura Academiei Romane.
+Sargent, Thomas and Wallace, Neil (1981): Some Unpleasant Monetarist Arithmetic. Federal Reserve Bank of Minneapolis Quarterly Review 5 (3), Fall, 1-17.
+Schneider, Jürgen, Schwarzer, Oskar and Zellweger, Friedrich (1991): Währungern der Welt I, Europäische und Nordamerikanische Devisenkurse, 1777-1914, Teilband III: Europäische Devisenkurse (2nd Part). Stuttgart: Franz Steiner.
+Terhalle, Fritz (1931): Staatsbankrott. Staatslexikon, vol. 4, Freiburg im Breisgau: Herder, 1855 ff.
+Trifonoff, P. I. (1930): La Banque Nationale de Bulgarie et l'histoire de sa politique monetaire. Lyon: Imprimerie BOSC Freres & Riou.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+27
+BANK OF GREECE WORKING PAPERS
+51. Brissimis, S. N. and T. S. Kosma, “Market Conduct, Price Interdependence and Exchange Rate Pass-Through”, December 2006.
+52. Anastasatos, T. G. and I. R. Davidson, “How Homogenous are Currency Crises? A Panel Study Using Multiple Response Models”, December, 2006.
+53. Angelopoulou, E. and H. D. Gibson, “The Balance Sheet Channel of Monetary Policy Transmission: Evidence from the UK”, January, 2007.
+54. Brissimis, S. N. and M. D. Delis, “Identification of a Loan Supply Function: A Cross-Country Test for the Existence of a Bank Lending Channel”, January, 2007.
+55. Angelopoulou, E., “The Narrative Approach for the Identification of Monetary Policy Shocks in a Small Open Economy”, February, 2007.
+56. Sideris, D. A., “Foreign Exchange Intervention and Equilibrium Real Exchange Rates”, February 2007.
+57. Hondroyiannis, G., P.A.V.B. Swamy and G. S. Tavlas, “The New Keynesian Phillips Curve and Lagged Inflation: A Case of Spurious Correlation?”, March 2007.
+58. Brissimis, S. N. and T. Vlassopoulos, “The Interaction between Mortgage Financing and Housing Prices in Greece”, March 2007.
+59. Mylonidis, N. and D. Sideris, “Home Bias and Purchasing Power Parity: Evidence from the G-7 Countries”, April 2007.
+60. Petroulas, P., “Short-Term Capital Flows and Growth in Developed and Emerging Markets”, May 2007.
+61. Hall, S. G., G. Hondroyiannis, P.A.V.B. Swamy and G. S. Tavlas, “A Portfolio Balance Approach to Euro-area Money Demand in a Time-Varying Environment”, October 2007.
+62. Brissimis, S. N. and I. Skotida, “Optimal Monetary Policy in the Euro Area in the Presence of Heterogeneity”, November 2007.
+63. Gibson, H. D. and J. Malley, “The Contribution of Sector Productivity Differentials to Inflation in Greece”, November 2007.
+64. Sideris, D., “Wagner’s Law in 19th Century Greece: A Cointegration and Causality Analysis”, November 2007.
+65. Kalyvitis, S. and I. Skotida, “Some Empirical Evidence on the Effects of U.S. Monetary Policy Shocks on Cross Exchange Rates”, January 2008.
+Electronic copy available at: https://ssrn.com/abstract=4165367
+
+
+28
+66. Sideris, D., “Real Exchange Rates over a Century: The Case of Drachma/Sterling Rate”, January 2008.
+67. Petroulas, P. and S. G. Hall, “Spatial Interdependencies of FDI Locations: A Lessening of the Tyranny of Distance?”, February 2008.
+68. Matsaganis, M., T. Mitrakos and P. Tsakloglou, “Modelling Household Expenditure on Health Care in Greece”, March 2008.
+69. Athanasoglou, P. P. and I. C. Bardaka, “Price and Non-Price Competitiveness of Exports of Manufactures”, April 2008.
+70. Tavlas, G., “The Benefits and Costs of Monetary Union in Southern Africa: A Critical Survey of the Literature”, April 2008.
+71. Chronis, P. and A. Strantzalou, “Monetary and Fiscal Policy Interaction: What is the Role of the Transaction Cost of the Tax System in Stabilisation Policies?, May 2008.
+72. Balfoussia, H., “An Affine Factor Model of the Greek Term Structure”, May 2008.
+73. Brissimis, S. N., D. D. Delis and N. I Papanikolaou “Exploring the Nexus between Banking Sector Reform and Performance: Evidence from Newly Acceded EU Countries”, June 2008.
+Electronic copy available at: https://ssrn.com/abstract=4165367

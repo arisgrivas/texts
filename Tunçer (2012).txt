@@ -1,0 +1,846 @@
+Working Papers No. 165/12
+Monetary sovereignty during the classical gold standard
+era: the Ottoman Empire and Europe, 1880-1913
+.
+Coşkun Tunçer
+© Coşkun Tunçer
+July 2012
+
+
+2
+Department of Economic History
+London School of Economics
+Houghton Street
+London, WC2A 2AE
+Tel: +44 (0) 20 7955 7860
+Fax: +44 (0) 20 7955 7730
+
+
+3
+Monetary sovereignty during the classical gold standard era: the Ottoman Empire and Europe, 1880-1913*
+Coşkun Tunçer**
+ABSTRACT
+The classical gold standard, which prevailed from the 1870s to the First World
+War, was characterised by fixed exchange rates, free convertibility and perfect capital
+mobility and was considered the dominant international monetary system of the time.
+As trilemma hypothesis suggests, the Ottoman Empire enjoyed fixed exchange rates and
+foreign capital flows under the golden rule, but lost its monetary sovereignty. However,
+the extent of this loss was far more apparent than in other core and peripheral
+countries. As a result, the gold standard in the Ottoman Empire was characterised by a
+set of “anomalies” such as the existence of competing monetary authorities, persistence
+of territorial exchange rates and monetary zones and widely circulating multiple
+standard and sub-standard coins. This paper analyses these unique features as changing
+degrees of monetary sovereignty under the golden rule and revisits the evidence. By
+relying on a new dataset, it compares the Ottoman case with major core and peripheral
+countries of Europe in 1880-1913. It explores the hypothesis that ability of the gold
+standard countries to determine the composition and size of the monetary base was not
+homogenous. The paper suggests that the differences in monetary sovereignty for the
+period can best be explained by differences in monetary institutions regulating the
+relationship between governments and central issue banks. This in return offers a
+framework explaining the wide variations across peripheries.
+* This paper is an extension of the second chapter of my PhD thesis submitted to LSE, Economic History Department in 2011. I gratefully acknowledge the valuable comments of my examiners Larry Neal and Şevket Pamuk and my supervisors Colin Lewis and Max-Stephan Schulze during the preparation of this paper. All mistakes, of course, remain mine. ** PhD, Economic History. Contact: a.c.tuncer@lse.ac.uk
+
+
+4
+Anomaly appears only against the background provided by the paradigm. T. Kuhn, The Structure of Scientific Revolutions, 1962.
+This study explores the question of whether membership to a fixed-exchange rate club
+implies differences in monetary sovereignty, which has once again raised extensive debate
+among economists and policy-makers in light of the recent crisis. The literature has often
+underlined the well-known advantages of being a member of a fixed-exchange rate club or a
+monetary union (i.e. the extreme case of fixed-exchange rate systems). However, each
+member’s inability to determine the size and composition of its monetary base in response to
+macroeconomic imbalances and other shocks (i.e. its monetary sovereignty) remain a recurrent
+disadvantage. This reflects the macroeconomic trilemma hypothesis that a nation can maintain
+no more than two of three conditions: fixed exchange rate; free capital flows (i.e. unlimited
+convertibility of its currency and foreign currencies); and monetary sovereignty. This argument
+has been studied extensively in pre-1914 gold standard context, where free capital mobility and
+fixed exchange rates prevailed but monetary sovereignty had to be sacrificed.1
+Although many have written case studies on the gold standard experiences of major
+core and peripheral countries of the time, few are concerned with the way in which the pre
+1914 gold standard functioned in the Ottoman Empire. The following sections aim to fill this
+gap by bringing together wide-ranging quantitative and qualitative evidence on Ottoman
+monetary activities. This scrutiny of the way that the monetary system in the Ottoman Empire
+worked is relevant not only because of its important role in the region’s economy but also as
+one of the biggest capital importers of the time, which makes it interesting to explore in terms
+of trilemma hypothesis.2 More importantly, the “anomalies” of the Ottoman gold standard may
+help us to revise our understanding of European gold standard. Therefore, the second
+contribution of the paper is the quantitative analysis, with a new dataset, of the monetary
+activities of major European countries and the Ottoman Empire, which broadens our
+understanding of differing degrees of monetary sovereignty before the First World War.
+1 M. Obstfeld et al., “The trilemma in history: trade-offs among exchange rates, monetary policies and capital mobility”, Review of Economics and Statistics, Vol. 87, No. 3, 2005, pp.423-438. 2 The Ottoman Empire contracted its first foreign loan in 1854 and declared a moratorium in 1876 on an outstanding debt of £200 million. As a result, in 1881, the government had to abandon a significant portion of its revenues to an international financial commission administered by foreign creditors. Therefore an analysis of the Ottoman gold standard is also helpful for revisiting the argument that the gold standard facilitated the access of peripheral countries to international capital markets. This question is explored in detail in A.C. Tuncer, Fiscal autonomy, monetary regime and sovereign risk: foreign borrowing and international financial control in the Ottoman Empire, Greece and Egypt during the classical gold standard era, PhD thesis, LSE, 2011.
+
+
+5
+The paper is organised as follows. The first section briefly reviews the broader literature
+on the pre-1914 gold standard. More specifically, it discusses conventional and revisionist
+perspectives on the “rules of the game” with reference to monetary sovereignty. Section 2
+provides a brief monetary history of the Ottoman Empire during the classical gold standard
+period, moving from the orthodox classifications of the Ottoman Empire as a “gold standard”
+country to the “unique” features of its monetary institutions. Section 3 puts the Ottoman case
+into the European context by introducing a new time series-cross section (TSCS) dataset on
+monetary activities in the major core and peripheral countries of the time. The purpose of the
+quantitative analysis is to determine and explain the varying degrees of monetary sovereignty
+between 1880 and 1913 across countries with a panel corrected standard errors (PCSE) model.
+Finally, section 4 summarises the main argument and identifies the broader implications of the
+findings.
+1. Gold standard, peripheries and monetary sovereignty
+Standard interpretations of the pre-1914 gold standard suggest that major countries on
+gold committed themselves to follow the “rules of the game”, enabling the system to work
+“automatically” and ensuring the stability of prices and balance in international payments.3
+However, this stereotype of the gold standard’s functioning is questioned in the literature. For
+instance, as early as the 1960s, Bloomfield emphasised that the “structure of the pre-1914 gold
+standard was far from simple” and showed significant differences in the institutions and
+working of the system between countries.4 To address these differences, given the relative ease
+of finding parallels in such core countries as Britain, Germany and France, revisionist writers
+prefer the ex-post term “periphery” for remaining/outlier countries, where different
+combinations of limping standard, gold-exchange standard, bimetallism, convertible and
+inconvertible paper standards and even silver standard prevailed in the period. Such writers
+underline the asymmetry of the adjustment in core and periphery and its tendency to work pro
+cyclically. Moreover, core and periphery took different routes to the gold standard, put different
+policy instruments at the disposal of monetary authorities and were not equally able to apply (or
+violate) the rules of the game. Other characteristics, such as credibility and easy access to
+3 The origin of this account can be extended back to David Hume, “Of the balance of trade” in The Gold Standard in Theory and History, ed.by B. Eichengreen and M. Flandreau (New York, 1997). B. Eichengreen, Golden Fetters – The Gold Standard and the Great Depression 1919-1939 (New York, 1992).
+4 A. I. Bloomfield, Short-Term Capital Movements under the Pre-1914 Gold Standard (Princeton, N.J., 1963), p.10 and see also A. I. Bloomfield, Monetary Policy under the International Gold Standard: 18801914 (New York, 1959).
+
+
+6
+international capital markets are also noted as distinguishing factors.5
+Although core-periphery framework proved useful for indicating asymmetries in the pre
+1914 monetary order, increasing numbers of case studies also point out that the periphery of
+the gold standard showed marked variation in their linkages with the core of the system, their
+openness and accessibility to international capital markets and other monetary aspects. In
+response to this increasing empirical counter-evidence, some studies underline the importance
+of transcending such frameworks. Eichengreen and Flandreau explain distinct transition routes
+to the gold standard before the First World War, where several cores –London, Paris and Berlin
+correspond to several peripheries.6 Cohen, however, seeking to construct the “monetary
+geography” from a political economy perspective, suggests that currency domains are defined
+by the extent of their effectiveness. His analysis shifts the focus from political units of analysis
+(i.e. countries) to monetary borders and supply-demand behaviours by global actors.7 Similarly,
+Flandreau and Jobst have recently proposed variation in the international circulation of national
+currencies as a criterion in mapping the geography of the international monetary order before
+1914.8
+This paper emphasises another dimension of peripheries by drawing on the anomalies of
+the Ottoman case and the trilemma hypothesis. Although it is generally accepted that the pre
+1914 gold standard implied losing monetary sovereignty because of free capital flows and fixed
+exchange rates, few studies analyse the extent of this loss. Moreover, one may argue that the
+varying degrees of monetary sovereignty under the gold standard regime indicate differences
+among peripheries and in the hierarchy of the international monetary order.
+The question then is what may best indicate the varying degrees of monetary
+sovereignty across countries. In this paper, the commodity-fiat currency composition of money
+stock is a suggested measure for quantifying this relationship, assuming that a faster transition
+5 P. M. Aceña and J. Reis, Monetary Standards in the Periphery – Paper, Silver and Gold 1854-1933 (New York, 2000); B. J. Eichengreen and M. Flandreau, The Gold Standard in Theory and History, (New York, 1997); L. Catao and S. Solomou, “Exchange rates in the periphery and international adjustment under the gold standard”, IMF Working Paper, WP/03/41, 2003; M. Morys, “Adjustment under the classical gold standard (1870s-1914): how costly did the external constraint come to the European periphery?”, Oxford University, Department of Economics Discussion Paper Series, No. 353, 2007. B. Eichengreen and M. Flandreau, “The geography of the gold standard”, CEPR Discussion Paper, No. 1050, 1994, p.2. Aceña and Reis, 2000; R. P. Esteves, J. Reis and F. Ferramosca “Market Integration in the Golden Periphery. The Lisbon/London Exchange, 1854-1891”, Explorations in Economic History 46, no. 3 (2009), pp. 324-345. M. Flandreau and J. Komlos “Core or Periphery? The Credibility of the Austro-Hungarian Currency 1867-1913”, Journal of European Economic History 31, no. 2 (2002), pp. 293-320. 6 Eichengreen and Flandreau, 1994, p.12. 7 B. J. Cohen, The Geography of Money (New York, 1998), p.21-22. 8 M. Flandreau and C. Jobst, “The Ties That Divide: A Network Analysis of the International Monetary System, 1890-1910” Journal of Economic History, Vol. 65, No. 4 (Dec., 2005), pp. 977-1007.
+
+
+7
+to “fiat money”9 gave governments more flexibility to manipulate money supply; contrastingly,
+in countries dominated by commodity money, the money supply was driven more by the money
+demand of economic actors. Earlier writers were also more inclined to emphasise that
+differences amongst peripheries were closely linked with the different types of currency in
+circulation. Triffin argued that the central banks of issue in peripheral countries suffered extra
+pressure because much of the domestic monetary circulation was itself in the form of
+commodity money and not credit money.10 Expansionary monetary policies were thus
+accompanied by outflows of gold and silver from banks’ reserves to internal circulation. This
+movement of specie to internal circulation was all the more pronounced, because the lowest
+denomination of paper currency was usually much too high –often several times greater than a
+month’s wages –to be usable in household and wage payments. Note expansion was therefore
+limited not only by foreign deficits and gold losses, but also by internal gold and silver losses,
+given that banks of issue did not have access to gold or silver “lenders of resort”.11
+Therefore the pre-1914 gold standard can be interpreted as the emergence of fiat
+money and declining importance of commodity monies, which did not take place to the same
+extent across core and peripheries. Besides macroeconomic conditions, the ability of a country
+to introduce fiat money and its “forced circulation”12 (cours forcé) was also determined by its
+monetary institutions regulating the relationship between governments and central banks of
+issue.13 Some states relied exclusively on private banks of issue, while others monopolised this
+power. Some issue banks were state organisations and others were private banks. For some
+private banks, issuing notes was a minor activity, whereas others were designed primarily to do
+so. In many countries state notes and private bank notes circulated together. The following
+sections, inter alia, therefore, aim to quantify and explain the varying degrees of commodity-fiat
+money across the major European gold standard countries. However, to begin the discussion
+first, we first introduce the Ottoman case in detail.
+9 By “fiat/credit money” we mean bank notes or state notes either backed or unbacked by the issuing authority.
+10 R. Triffin, The Evolution of the International Monetary System: Historical Reappraisal and Future Perspectives (Princeton, N.J., 1964). 11 “One might well wonder, indeed, whether the unprecedented stability of major currencies in terms of gold –and exchange rates- in the nineteenth century was not due to the spectacular growth of bank money or “credit money” –in the form of paper currency and bank deposits –rather than to the residual and fast declining, role of gold and silver commodity money”. Triffin, 1964, p.14. 12 Here we rely on the conceptual difference between legal tender (cours légal) and forced tender (cours forcé) as suggested by the contemporary literature. The former refers to the legal receivability of a currency for taxes and public dues, the latter to the forced circulation of irredeemable paper money. M. Rollins, Money and Investment (London, 1907). 13 In the paper, the terms “central bank”, “central bank of issue” and “the bank of issue” are used interchangeably. These terms refer the monopoly power of a private bank to issue notes and are not linked to the modern meaning of the term “central bank”.
+
+
+8
+2. The Ottoman monetary system and institutions, 1880-1913
+In many ways the nineteenth-century evolution of Ottoman monetary institutions
+broadly followed that of the international monetary system, although the implementation of
+international rules and practices occurred in a relatively distinct way. As early as 1844, the
+Ottoman Empire established a new bimetallic system and abandoned debasements (see Table
+1).14 During this period, although no private banks of issue existed, the government started
+experimenting with paper currency. In 1863, British and French capital founded the Imperial
+Ottoman Bank (IOB) to which the government granted the privilege of issuing paper currency.
+During the Russo-Turkish War of 1877-8, this privilege was suspended and the government
+issued its own unbacked state notes. In 1880, the privileges of the IOB were restored, and state
+notes were withdrawn from circulation. Moreover, the government recognized the gold lira as
+legal tender and limited the minting of silver coinage, thus adopting the “limping standard”.15
+Below, we look more closely at these major turning-points in nineteenth century Ottoman
+monetary history from the perspective of evolving monetary institutions or more specifically of
+currency-issuing authorities.
+2.1. Commodity money: from bimetallism to limping standard
+Starting with “coinage adjustment” reform (tashih-i sikke) of 1844, the Ottoman
+government formally declared bimetallism with a fixed gold-silver ratio and abandoned raising
+fiscal revenue through debasements. However, from 1876 onwards, as the depreciation of silver
+in the world markets accelerated, it became increasingly difficult to sustain this gold-silver ratio,
+and the government, like many other European governments, moved away from bimetallism.
+According to the new regulation, from March 1880, the empire’s monetary standard was to be
+the gold lira of 100 kuruş. However, unlike a “full” gold standard country, the mint steadfastly
+accepted the silver at reduced rates. The mint ratio, with a 5 per cent increase over the previous
+bimetallic ratio of 15.09, now stood at 15.88 (see Table 2).16 In other words, the Ottoman
+government moved towards a limping standard by maintaining a gold-silver ratio. As in the
+other limping standard countries, this led to a duality: the Ottoman economy continued to rely
+heavily on silver for most daily domestic transactions and gold was mostly used for international
+14 Ş. Pamuk, A Monetary History of the Ottoman Empire (Cambridge, 2000).
+15 Ş. Pamuk, “From bimetallism to the ‘limping standard’: the Ottoman monetary system in the nineteenth century”, in P. L. Cotrell (ed.) East Meets West – Banking, Commerce and Investment in the Ottoman Empire, 2008; K. Dimitrova, L. Fantacci and A. C. Tunçer, “Monetary policy in Southeast Europe in transition from bimetallism to limping gold standard”, paper presented at the 5th Conference of SEEMHN (Istanbul, 2010) 16 H. A. Kuyucak, Para ve Banka, (Istanbul, 1947); G. Young, Corps De Droit Ottoman, Vol. 5 (Oxford, 1905); J. Schneider, O. Schwarzer and F. Zellfelder, Wahrungen der Welt 8 – Afrikanische und Levantinische Devisenkurse im 19. Und 20. Jahrhundert, (Stuttgart, 1994).
+
+
+9
+transactions.17 In Istanbul, the financial and commercial centre of the empire, the value of the
+British pound generally fluctuated between 1.09 and 1.11 liras and the exchange rates of most
+other major currencies remained stable until 1914. Similarly, the gold-silver price ratio hovered
+around the official rate, despite the heavy depreciation of silver in international markets.18
+However, in its stability the capital city was an exception rather than the rule, unlike
+conditions elsewhere in the empire. Table 3 summarises the average market exchange rate
+between silver kuruş and gold lira in selected years from 1883 to 1914 for major Ottoman
+provinces. It could be argued that the premium for gold over silver usually increased with the
+distance from Istanbul, depending on transportation costs.19 However, there were also extreme
+exchange rate differences between and within provinces, which are hard to explain by distance
+alone.20 The Ottoman government and local authorities were aware of these extreme
+differences. For instance, specifically for Baghdad in 1888, the Ottoman government to give an
+impetus to the import trade devalued the coins in circulation by about one-third. In August
+1889, the Porte proposed a similar devaluation to the local administration of Basra. However,
+Basra refused to comply to avoid negative impact on local trade. The Porte generally admitted
+such exceptions to satisfy the local authorities, given that international trade opportunities and
+linkages varied across provinces. Finally, the common media of exchange differed widely
+between provinces. Gold coins were not circulated in Beirut and Izmir, where silver mecidiye
+dominated. In Syria and Palestine, the coins in widest circulation were the undervalued silver
+beşlik and altılık; in Basra, the Persian keran was the principal coin in use; in Hejaz and Yemen,
+Austrian thaler (Maria Theresa thaler); in Trabzon, Russian roubles; while in Jerusalem, Antalya,
+Inebolu and Zonguldak, French francs and British pounds had replaced Ottoman currency.21
+These different territorial currency zones and exchange rate idiosyncrasies were the
+“anomalies” of the Ottoman gold standard. They survived for several reasons. To start with,
+widespread counterfeiting, beyond government control, affected the differences in exchange
+rates.22 Moreover, the scarcity of fractional coins and small change determined local demand for
+standard and sub-standard silver coins. This shortage made low-denomination silver coins
+circulate at a premium, regardless of the international price of silver. This was why the
+17 H. P. Willis, A History of the Latin Monetary Union, (Chicago, 1901); L. Einaudi, Money and Politics European Monetary Unification and the International Gold Standard (1865-1873), (Oxford, 2001). 18 Tuncer, 2011; Dimitrova, Fantacci and Tuncer, 2010. 19 Pamuk 2008, p.21. 20 For instance, in Izmir the value of the Ottoman lira varied between 102 and 178 kuruş, depending on the type of transaction. For the payment of taxes, salaries and other operations of the administration 1 lira accounted for 102 kuruş, whereas for bills of exchange it was 125 kuruş and finally in the spot market it was rated at 178 kuruş. Young, 1905, p.2.
+21 V. Eldem, Osmanlı İmparatorluğunun İktisadi Şartları Hakkında Bir Tetkik, Türkiye İş Bankası Kültür Yayınları (1970, Istanbul); Kuyucak, 1947, p.202; Tuncer 2011; Young, 1905. 22 Pamuk, 2008.
+
+
+10
+government increased the amount of low-denomination silver coinage, in particular after 1895
+(see Chart 1).
+Moreover, the broad transactional network also determined the demand for a specific
+currency. As in Beirut, the region’s international trade conditions conditioned the choice of
+currency and exchange rate disparity. In Yemen and Hejaz the predominance of the Maria
+Theresa thaler can be explained by the path dependency of currency usage. This currency had
+been pre-eminent so long that even government efforts could not dislodge it.23 Finally, as seen
+in more detail below, the failure to establish fiat money as a medium of exchange reinforced
+the dominance of diverse silver currencies throughout Ottoman lands.
+2.2. Fiat money: from state notes to bank notes
+So far the discussion has covered only the coinage system and policy. However, the
+extent of commodity money cannot be assessed without considering fiat money. After the
+monetary reform of 1844 had ruled out debasements, the government unprecedentedly issued
+a state note (kaime). The earliest examples of these notes were handwritten documents issued
+in denominations of 500 kuruş (circa £4.5). As they carried an interest rate and had a maturity
+term, they were not “fiat currency” in the strict sense. However, the government declared
+repeatedly that the kaime was issued only in order to facilitate commerce and that it should be
+accepted as legal tender, exactly like gold and silver coins. It also announced that these notes
+would be accepted by tax collectors in the provinces and by the Treasury in Istanbul. Later,
+smaller denominations followed so as to increase their use in daily transactions and, with their
+limited volume, these notes performed reasonably well until 1852.24 From 1853 to 1862,
+however, government issued large quantities of non-interest bearing and unbacked notes to
+finance extraordinary state expenditures, which eventually led to heavy depreciation and
+inflation.25 In order to solve the problem in 1863 the government decided to withdraw all the
+23 In 1888 a commission was assembled to consider a method of freeing Yemen of Maria Theresa thalers and supplanting them with silver mecidiyes. However, in practice it was not possible to refuse the MariaTheresa thalers in payment of taxes, since the local population had been accustomed for many years to employ these coins as their only medium of exchange. As a contemporary observer puts it, “the head of Maria Theresa impressed on the coin represents some sacred and mystic sign, conferring special value on the silver stamped with it” (Tuncer 2011, p.103). For detailed discussions of the case of Maria Theresa thaler, see A. Kuroda, “The Maria Theresa Dollar in the Early Twentieth-Century Red Sea Region: A Complementary Interface between Multiple Markets”, Financial History Review 14, no. 01 (2007); A. E. Tschoegl, “Maria Theresa's Thaler: A Case of International Money”, Eastern Economic Journal 27, no. 4 (2001).
+24 A. Akyıldız, Osmanlı finans sisteminde dönüm noktası - Kağıt para ve sosyo-ekonomik etkileri (Istanbul, 1996) and Pamuk, 2000, p.209-210. 25 In the meantime, in 1854, the Ottoman government contracted its first foreign loan. This development reduced the dependency on domestic markets for financing its expenditures. Therefore, it was no coincidence that the government took the “paper money” experience to the next level.
+
+
+11
+current kaimes in circulation with the help of short-term loans from the Imperial Ottoman Bank
+(IOB).
+This was the beginning of a new era in the history of credit money in the Ottoman
+Empire. Henceforward, the IOB would act as the “central bank of issue” in addition to its
+commercial operations.26 It handled most of the transactions of the state treasury and had to
+provide short-term advances to the state. In return, the IOB had the exclusive privilege of issuing
+gold-convertible banknotes; and the government promised to maintain this exclusivity and not
+to issue state notes. The decree foresaw that the payment for the IOB notes would be
+demandable only in Istanbul, the place of issue. It also imposed a one-third reserve requirement
+on their issue.27
+Once all state notes were withdrawn from circulation, however, the IOB could not
+easily increase its circulation. Before 1876, the total notes issued did not exceed 350,000 liras
+and the cover ratio never fell below 100 per cent. One reason for the low level of circulation
+was previous unsuccessful kaime experiments, which discouraged people from holding fiat
+money. Moreover, in transferring the monopoly of issue to a foreign commercial bank, the
+government found it harder to implement “forced circulation”. Given that the IOB was the
+major intermediary between international capital markets and the Ottoman government, the
+government’s unilateral suspension of privileges could have led to disruptions in foreign capital
+flows.
+The financial crisis of 1873 was a watershed, after which overseas lending declined. In
+consequence, the Ottoman government, together with a few other heavily indebted peripheral
+countries, declared in 1876 a moratorium on their outstanding debt. Meanwhile, with the
+sudden collapse of Ottoman credit in the European financial markets and the effect of war with
+Russia, the government abolished its previous engagement with the IOB on the issuing of its
+own notes. The new silver-backed state notes bore the seals of both the Treasury and the IOB
+and could thus be easily differentiated from the gold-backed notes of the IOB.28 Being already in
+default and on the point of war with Russia, the government could more easily take the risk of
+suspending the privileges of the IOB and issuing its own notes. From August 1876 to May 1878,
+the state notes in circulation reached a nominal value of 16 million liras and lost much value
+against all other exchanges. In February 1879, the government started negotiating a foreign
+26 It should be noted that, unlike many other members of the core and peripheries of the time, there were no other private issue banks in the empire before (or even after) the foundation of the IOB. 27 E. Eldem, A History of the Ottoman Bank, (Istanbul, 1999), p.463-466; A. Autheman, The Imperial Ottoman Bank (Istanbul, 2002); The Concession: ‘Reglement’ and Statutes of the Imperial Ottoman Bank, 1875, Guildhall Library, MS-23963; Eldem, 1999, pp.463-466. 28 Akyıldız, 1996, pp.96-98; Eldem, 1999, p.465.
+
+
+12
+loan to allow its notes to be withdrawn and promised to redeem them at 1 gold lira for 400
+kuruş kaime – as opposed to the initial rate of 1 gold lira for 100 kuruş kaime.
+After the monetary reform of 1880, the IOB resumed its monopoly on issuing gold
+backed banknotes. Until 1914, IOB notes remained the only legal tender fiat money, circulating
+together with the gold and silver coins. After the reform, the amount of IOB notes in circulation
+increased steadily. Although the cover ratio was still much above the required rate of 30 per
+cent, in 1893 the government imposed an upper limit on the banknote issue of 1,5 million liras.
+The following year the bank gradually increased the circulation of its notes, which reached 1.4
+million liras by 1905. In 1908, following lengthy negotiations with the government, the IOB was
+finally authorised to increase the issue limit to 2 million liras. However, the total in circulation
+stabilised at around 1 million liras until August 1914. Perhaps more remarkably, throughout the
+period the cover ratio remained much above the officially required rate, suggesting that the
+bank could not increase the circulation of its notes even if it met all the legal requirements (see
+Chart 2).
+2.3. The Ottoman monetary system from 1880 to 1914
+From 1880 to 1914, the Ottoman Empire successfully adopted the gold standard and
+the monetary authority sustained the full convertibility of its gold-backed banknotes. However,
+closer scrutiny of the prevailing monetary activities and regulations reveals peculiarities in the
+functioning of this monetary standard.
+Regarding commodity money, the domestic circulation of gold coins was considerably
+limited. In fact, although the mint output of gold was fairly high, according to contemporaries,
+gold was never circulated. Any gold brought into the country, or struck by the mint, would
+“rapidly disappear”.29 In accordance with “Gresham’s law”, this resulted from past reductions
+in the legal value of the currencies to their intrinsic value and the government’s refusal to
+recognise its own paper money. As a result, gold was considered the only medium of exchange
+that still maintained its reputation as a store of value. In Istanbul, exchange rates were stable
+between the Ottoman currency and the currencies of other gold standard countries, but in the
+provinces of the empire, territorial exchange rates and currency zones survived throughout the
+period. Since domestic transactions used many different types of silver coins, the state in its
+operations had still to accept unlimited amounts of silver. Most of the silver in circulation carried
+29 Quinquennial report of the Ottoman Public Debt Administration, (1882-1887), 1888, London, pp.33.
+
+
+13
+high nominal value, which in the end led the fractional coinage to circulate at par, despite
+heavy depreciation in the international price of silver.30
+Regarding fiat money, the most distinguishing characteristic of the Ottoman monetary
+system was the limited circulation of gold-convertible banknotes. A closer look at the
+composition of the empire’s money stock for the period reveals that on average the share of
+gold-backed banknotes issued by the IOB was below 3 per cent of the total. In this respect, the
+Ottoman Empire was clearly an outlier compared to the other European gold standard countries
+(see Chart 3). Besides the legal restrictions on issuing banknotes, other factors explain their
+limited circulation. First and most important, the IOB was not a “national” but a commercial
+bank established by foreign capital and privileged to issue bank notes. This fact alone prevented
+the IOB (and the government) from implementing “forced circulation”; instead, all banknotes
+circulated on a “voluntary” basis and their volume was determined by demand. Second, the IOB
+started its operations inauspiciously. The previous fiat money issued by the government had
+already lost credibility, for the public preferred coins to notes. Another limitation was the policy
+of the IOB to redeem and convert its notes into gold only in Istanbul. In the provinces, the
+holders of these banknotes would use them like bills of exchange and send to Istanbul to
+convert them, which increased transaction costs. Moreover, the high denominations of the
+banknotes contributed to their limited circulation. Although a small volume of 2 lira banknotes
+were circulated in 1869, most of the IOB notes were nominally for 5 liras (around £4.5) making
+them inconvenient be used widely except for large transactions. Thus, because of both the
+unique characteristics of Ottoman monetary institutions and the reasons cited above, the notes
+circulated mostly in Istanbul, forming only a fraction of the total money stock.
+Overall, as the monetary base of the country continued to rely on silver rather than gold
+or gold convertible bank notes, the silver currency may fairly be said to have served as fiduciary
+money, with only a limited connection to its intrinsic value. From the government’s perspective,
+this monetary system, despite enforcement problems and defects in the monetary legislation,
+can be characterised by flexibility and pragmatism. As one contemporary observer puts it, the
+Ottoman monetary regime represented “an object-lesson of a silver-using country on a gold
+basis”.31 Indeed, from 1873 to 1881 when the Ottoman government faced insolvency, the
+minting of silver relative to gold soon increased, but this reversed after 1881 with conditions in
+international financial markets favouring the Ottoman government.32 Hence, the duality of the
+30 This phenomenon is in line with the arguments of T. J. Sargent and F. R. Velde The Big Problem of Small Change, (Princeton, 2003).
+31 Annual Report of the Ottoman Public Debt Administration, 1894, London, No. 12, pp.62-65.
+32 These favourable conditions were mostly due to surrendering certain tax revenues to creditors, i.e. establishing the Ottoman Public Debt Administration. See Tuncer, 2011.
+
+
+14
+Ottoman monetary system (i.e. silver for domestic transactions and gold for international
+transactions) and its accessibility to international financial markets were major determinants of
+commodity money’s dominance throughout the period.
+To conclude, the extraordinary aspects of the monetary system had important
+implications for monetary sovereignty. Unlike most of the major gold standard countries, the
+Ottoman Empire did not enjoy the “contingency clause” of the gold standard, which, by
+suspending gold convertibility and issuing notes, would have given the government some
+flexibility in financing budget deficits in cases of emergency, such as war.33 In this regard, its
+privileges gave the IOB independence in reaching decisions and the government gave up its
+access to a major monetary policy instrument. In the next section the consistency and
+applicability of these findings are checked in the European context.
+3. Measuring monetary sovereignty: data and analysis
+In this section we go beyond single-country analysis and compare the Ottoman Empire
+with the major players in the European gold standard. The main purpose is to see whether
+monetary sovereignty between countries differed and whether the Ottoman Empire was
+exceptional in this regard. First, a TSCS dataset consisting of 16 European countries over the
+period 1880-1913 is introduced, with hypotheses. In the second section, we move to
+econometric analysis based on a PCSE model and discuss the findings.
+3.1. Data and hypotheses
+In order to establish changing levels of monetary sovereignty and its determinants across
+Europe, a large new data set for 16 countries from 1880-1913 is gathered. In compiling it we
+relied on various primary and secondary sources. First, estimates of commodity money stocks
+and annual gross/net coinages of major European mints for relevant period were constructed by
+using annual mint, currency and treasury reports published by the UK and US. This primary
+dataset is combined with the Ottoman and Greek macroeconomic and monetary statistics in
+33 M.D. Bordo and F. E. Kydland “The Gold Standard as a Rule: An Essay in Exploration”, Exploration in Economic History, v.32, (1995) p.423-464, M.D. Bordo and Schwartz, A. J. “The Specie Standard as a Contingent Rule: Some Evidence for Core and Peripheral Countries, 1880-1990”, NBER Working Papers (1997). M.D. Bordo, M. D. and Rockoff, H. “The Gold Standard as a 'Good Housekeeping Seal of Approval'”, The Journal of Economic History 56, no. 02 (1996), pp. 389-428.
+
+
+15
+Tuncer (2011) and with those for other European countries published in Flandreau and Zumer
+(2004) and Banks (2011).34
+The country sample consists of Austria-Hungary, Belgium, Denmark, France, Germany,
+Greece, Italy, Netherlands, Norway, the Ottoman Empire, Portugal, Russia, Spain, Sweden,
+Switzerland and the UK. The choice of countries is largely determined by two factors: the
+research question and the data availability. Regarding the latter, it would be ideal to include
+more peripheral countries in order to draw parallels with the Ottoman case. However, given
+data quality, this exclusion does not lead to a major problem, since European countries provide
+a more intuitive and contrasting framework for understanding the Ottoman gold standard and
+its anomalies.
+The commodity-fiat currency composition of the money stock is used as the main
+indicator of changing degrees of monetary sovereignty, assuming that a higher share of fiat
+currency represents greater flexibility for the government in determining the size and
+composition of the total money stock. This interpretation accords with the extensive literature
+on the determinants of seigniorage and competitive seigniorage within monetary unions, where
+monetary sovereignty is usually approximated by the ability of a government to change the size
+and composition of its monetary base.35 Therefore, in the data analysis, the share of fiat money
+in the total money stock becomes a dependent variable, i.e. a measure of varying degrees of
+monetary sovereignty. In estimating the total commodity money stock, first total annual net
+coinages for each country are calculated and then these figures are combined with existing
+estimates of total commodity money stock figures for gold, silver and notes issued by monetary
+authorities across Europe (see Charts 4a and 4b).
+34 Unless otherwise indicated any data regarding the Ottoman Empire and Greece are from Tuncer (2011). For the remaining countries gold and silver stock is calculated by using the UK Annual Report of the Deputy Master and Comptroller of the Mint (1880-1914), London; US Annual Report of the Secretary of the Treasury on the State of the Finances (1880-1914), Washington; and Annual Report of the Comptroller of the Currency (1880-1914), Washington. All other indicators are from M. Flandreau and F. Zumer, The Making of Global Finance, 1880–1913 (Paris, 2004) see http://eh.net/databases/Finance/ (accessed on 25/05/2012) Banks, Arthur S. 2011. Cross-National Time-Series Data Archive, Databanks International, Jerusalem, Israel; see http://www.databanksinternational.com (accessed on 25/05/2012). 35 S. Fischer, (1982) “Seigniorage and the Case for a National Money,” Journal of Political Economy 90, 295-313; R. Click, “Seigniorage in a Cross-Section of Countries”, Journal of Money, Credit and Banking (1998), pp. 154-171; M. Bordo and A. Redish, “Maximizing Seigniorage Revenue during Temporary Suspensions of Convertibility: A Note” Oxford Economic Papers, New Series, Vol. 45, No. 1 (Jan., 1993), pp. 157-168; M. Bordo and L. Jonung, “The Future of Emu: What Does the History of Monetary Unions Tell Us?”, NBER Working Papers (1999); R. A. Mundell “Monetary Unions and the Problem of Sovereignty”. The Annals of the American Academy of Political and Social Science 579, no. 1 (2002), pp. 123-152; N. G. Mankiw, “The Optimal Collection of Seigniorage: Theory and Evidence”, Journal of Monetary Economics 20, no. 2 (1987), pp. 327-341.
+
+
+16
+Regarding the control variables, the first point to explore is the effect of macroeconomic
+indicators, more specifically of central government’s ability to tax, the fiscal burden of foreign
+public debt, volume of international trade and bank reserves and finally gold and silver
+production. As the preceding section shows, for the Ottoman Empire the monetary system
+featured the use of fiat and commodity monies in different sectors. Therefore one of the
+hypotheses to test is the impact of international trade volume on the share of notes in
+circulation. We expect the coefficient of this variable to be positive as an indication of increasing
+money demand, thus leading to a positive change in the share of notes. The inclusion of central
+government revenue and public debt service into the model is justified by a parallel literature on
+fiscal dominance, i.e. whether or not the budget deficits condition the relative share of notes in
+total circulation.36 Although our analysis does not directly address questions from this literature,
+by controlling for government revenue and the important component of government
+expenditure, it is expected to take into account the fiscal pressure on note issue. In addition to
+fiscal indicators, we also include the reserves of the central issue bank as a positive determinant
+of bank note issue. Production figures of gold and silver are included in order to control for
+countries with extensive mining industries. It is expected that increased gold production for a
+specific country will have a positive impact on note circulation, due to cover restrictions.
+However, silver, in line with our arguments in the Ottoman case where silver became a fiduciary
+currency under the conditions of limited note circulation, is expected to have a negative
+relationship as long as the country is on the gold standard.37 Finally, in order to eliminate any
+omitted variable bias and collinearity, all above-mentioned macroeconomic variables enter the
+model in log-transformed per capita and British pounds terms.
+In addition to these macroeconomic indicators, an important factor to control is the
+difference between monetary institutions, more specifically the rules, which regulate the
+relationship between governments and issue banks. In Section 3 this is underlined as a major
+point in explaining the limited circulation of bank notes in the Ottoman Empire, where the
+relatively “independent” status of the Imperial Ottoman Bank from government eliminated the
+pressure on the bank, thus restricting the note issue. However, it is problematic to test this
+hypothesis for 16 different countries by simply including institutional dummy variables into our
+econometric model, given that the government control over issue banks varied across countries
+and involved different components. Therefore, a score-based measure of de jure control of each
+36 M. Fratianni, “Fiscal Dominance and Money Growth in Italy: The Long Record”, Explorations in Economic History 38, no. 2 (2001), pp. 252-272; M. D. Gadea and et al., “Beating Fiscal Dominance. The Case of Spain, 1874-1998”, University of Zaragoza Working Paper (2008). O. J. Blanchard “Fiscal Dominance and Inflation Targeting: Lessons from Brazil”, NBER Working Paper, 2004. 37 R. H. Ridgway, “Summarized Data of Gold Production”, US Department of Commerce Bureau of Mines Economic Paper, No.6, 1929; and C. W. Merrill, “Summarized Data of Silver Production”, US Department of Commerce Bureau of Mines Economic Paper, No.8, 1930.
+
+
+17
+government over issue banks is calculated, ranging from 0 to 1, where higher values indicate
+stronger government control over the issue bank. This index, inspired by Flandreau et al (1998),
+incorporates a set of regulatory indicators including the legal status of the issue bank,
+government’s control over the appointment of its head and managing council, the bank’s
+obligations to provide statutory advances to the government or statutory issues on government
+securities, ownership of the bank’s profits, existence of a monopoly on issue and finally the role
+of the bank as a state’s treasurer.38 For a given country, each of these components is assigned a
+stepwise score between 0 and 1, which then are averaged to reach the final number. Moreover,
+any change in these indicators throughout the period is taken into account; however, with a
+few exceptions, the “issue bank independence index” (hereafter BANK index) does not show
+variation for a given country between 1880 and 1913. Evidently, quantifying a complex political
+economy relationship between governments and issue banks is not straightforward and cannot
+be reduced to a single number, but the results summarized in Chart 5 represent convenient
+averages for the econometric analysis and do not contradict the prevailing understanding of
+issue banks of the time. With the dataset and main hypotheses in place, the next section
+presents the econometric model and its findings.
+3.2. Analysis and results
+A TSCS dataset with these characteristics presents challenges for modelling the research
+question. The time period in question is long enough to show unit-root, trending and
+autoregressive characteristics, but is not long enough to implement a comprehensive time series
+analysis. Moreover, it would be against the nature of the research questions of this paper to
+implement 16 different time series analyses and compare the results in pursuit of an answer. As
+regards the panel data methods, having a relatively small number of units (countries) makes it
+hard to employ conventional analytical methods. A panel data regression with country fixed
+effects would pose problems since major explanatory variables such as BANK index and annual
+mining figures show little variation across time but greater variation across countries. Finally,
+besides these methodological issues, in purely econometric terms a simple random effects
+model shows serial and contemporaneous correlation of errors (errors in country i at time t
+being correlated with errors in country j at time t) and groupwise heteroskedasticity, according
+38 M. Flandreau et al., “Stability without a Pact? Lessons from the European Gold Standard, 1880-1914”, Economic Policy 13, no. 26 (1998), pp. 117-162. For information on individual issue banks, see G. François Les Banques D’Emission (Paris, 1896); E. Servais Banques D’Emission – Banques Etrangères, Banque de France, Banques Coloniales (Paris, 1911); R. G. Levy, Banques D’Emission et Tresors Publics (Paris, 1911); C. Conant, A History of the Modern Banks of Issue (New York, 1927). For the Ottoman Empire and Greece, we rely on Tuncer (2011).
+
+
+18
+to the results of a Wooldridge test, Breusch-Pagan test and modified Wald test in turn, thus
+violating the basic assumptions of an OLS regression.39
+Therefore, following the convention in the literature, in the analysis below, to address
+these characteristics of our TSCS dataset, we use a Prais-Winsten regression with a panel
+specific autoregressive disturbance structure of AR(1).40 This approach, also known as the panel
+corrected standard errors (PCSE) model, retains OLS parameter estimators, but replaces OLS
+standard errors by panel-corrected standard errors (PCSEs), which take into account the
+contemporaneous correlation of the errors and groupwise heteroskedasticity, though not serial
+correlation. Given that the Wooldridge test against the null hypothesis of no serial correlation
+indicates that the data have first-order autocorrelation, we must consider alternative solutions
+to this problem. One way of tackling it is to include lagged dependent variable in the right
+hand side of the equation, but the literature suggests that this method, despite its superiority in
+terms of consistency, may absorb large parts of the trend and may be biased upwards, while
+the coefficients of the other independent variables are likely to be biased downwards. If a
+lagged dependent variable is not included, however, the serial correlation of the residuals
+increases with less weight on the autoregressive process and OLS estimates become inefficient.
+To address this problem and eliminate the serial correlation of errors, we combine panel
+corrected standard errors with a Prais-Winsten regression of AR(1) process for each unit. Finally,
+it is still essential to question the need to include time and/or unit dummies. Given that the
+question and hypotheses of the paper primarily address variation across countries for a given
+39 N. Beck and J. Katz, “What to do (and not to do) with time series cross-section data”, American Political Science Review 89(3): 634–647, 1995; N. Beck and J. Katz, “Nuisance versus substance: Specifying and estimating time-series cross-section models”, Political Analysis 6(1): 1–36, 1996; N. Beck, “Time-series cross-section data: What have we learned in the past few years?”, Annual Review of Political Science 4: 271–293, 2001. 40 Beck 2001; T. Plümper et al. “Panel Data Analysis in Comparative Politics: Linking Method to Theory”, European Journal of Political Research 44, no. 2 (2005), pp. 327-354; B. Kittel and H. Winner, “How Reliable Is Pooled Analysis in Political Economy? The Globalization & Welfare State Nexus Revisited”, European Journal of Political Research 44, no. 2 (2005), pp. 269-293; J. Wooldridge (2010) Econometric Analysis of Cross Section and Panel Data”, MIT Press Books (2010). In order to address these characteristics of our data set, we also considered employing a fixed effect vector decomposition model. However, given the on-going discussion on the reliability of this approach in the case of time invariant variables, we preferred not to include the results here. See T. Plümper and V. E. Troeger, “Efficient Estimation of Time-Invariant and Rarely Changing Variables in Finite Sample Panel Analyses with Unit Fixed Effects”, Political Analysis 15, no. 2 (2007), pp. 124-139. W. Greene “Fixed Effects Vector Decomposition: A Magical Solution to the Problem of Time-Invariant Variables in Fixed Effects Models?”, Political Analysis 19, no. 2 (2011), pp. 135-146. T. Breusch, M. B. Ward, H. T. M. Nguyen and T. Kompas, “On the Fixed-Effects Vector Decomposition”, Political Analysis 19, no. 2 (2011), pp. 123-134. N. Beck, “Of Fixed-Effects and Time-Invariant Variables”, Political Analysis 19, no. 2 (2011), pp. 119-122.
+
+
+19
+period and not variation over time for a given country, we also run our model with time fixed
+effects.41
+The results of these regressions are presented in Table 4, where we run our baseline
+PCSE-AR (1) regression in standardized beta coefficients with time fixed effects (model 1-3) and
+without (model 4-6). The inclusion of these effects, however, does not seem to improve the
+results significantly. Overall, perhaps the most striking finding is the highly significant and
+relatively high coefficient of the BANK index, which suggests that the differences in monetary
+sovereignty and the extent of notes in circulation in the total stock of money are largely
+determined by regulations related to the issue banks in any given country.
+In addition to institutional factors, trade volume and reserves are positively linked with
+the dependent variable, suggesting that countries with higher reserves enjoyed greater flexibility
+in introducing fiat money. Moreover, any increase in trade volume on average meant an
+increase in the share of total fiat money in circulation. As far as the fiscal indicators go, state
+revenues and debt service have correct signs and significance. These results suggest that central
+governments which were able to extract on average more tax per capita did not apply forced
+circulation, whereas higher burdens of interest service on public debt meant greater upward
+pressure on bank note issue. Finally, although the coefficients of gold and silver production
+seem to have the correct signs, they do not seem to be significant. This may be explained by the
+fact that no country in our sample was a major producer of gold and silver to the extent of
+noticeable differences in circulation levels. Overall results are useful for putting the major
+anomalies of the Ottoman gold standard into the European context, suggesting that the extent
+of fiat money in circulation was largely determined by government control over issue banks.
+The final section discusses the implications of these finding.
+4. Conclusion
+The main emphasis of this study is that the transition to fiat currency did not take place
+in all Europe similarly. Some countries relied relatively more heavily on commodity money and
+others more on fiat money. It has been suggested that under a fixed exchange rate regime and
+free capital flows, these differences in the components of monetary stock could imply changing
+degrees of monetary sovereignty, i.e. the ability to determine the size and composition of
+monetary stock in response to shocks and imbalances.
+41 However, including country fixed effects would make the whole exercise redundant, as it would be impossible to test the significance of the institutional independent variable BANK index, which does not vary across time.
+
+
+20
+In pursuing this argument, our methodology was to move from a case study which
+challenges our conventional interpretation of the gold standard, to a broader set of countries.
+We showed that in the Ottoman Empire the domestic circulation of gold coins and bank notes
+were severely limited despite being on the gold standard. We also argued that the reasons
+behind the limited circulation of bank notes were mostly institutional, preventing the
+government from implementing “forced circulation”. Consequently, unlike most of the gold
+standard countries, the Ottoman Empire did not enjoy the “contingency clause” of the gold
+standard, which would have given the government some flexibility to finance budget deficits in
+an emergency, say, war, by suspending gold convertibility and issuing fiat currency. As a result,
+a multitude of silver coins circulating with limited connection to their intrinsic value, leading
+territorial exchange rates and currency zones replaced the absent fiat currency.
+The econometric analysis strengthens these results by suggesting that institutional
+framework, strong reserve position and trade volume may be important determinants of the
+extent of reliance on fiat money. Moreover, a strong central government, which can collect
+higher per capita tax revenue, faced less fiscal pressure to increase its share of notes in total
+circulation. Conversely, governments with heavy debts to service were more inclined to apply
+note issue. Thus, monetary sovereignty or extensive issuance of fiat money in the context of the
+gold standard could indicate both macroeconomic weakness and strength. Central
+governments facing less fiscal pressure did not have to apply “forced circulation”. However,
+increased money demand could result in a “voluntary” increase in note circulation. Besides
+these macroeconomic factors, perhaps the greatest determinant of differences between
+countries in monetary sovereignty was the institutions regulating the relationship between issue
+banks and governments.
+Overall in this paper the focus has been on explaining the reasons behind the variation
+in monetary sovereignty rather than discussing its consequences, which may be the subject of
+future research. By relying on the existing literature, however, it would not be wrong to
+speculate that those countries, which relied on notes more extensively, enjoyed greater
+flexibility in dealing with budgetary difficulties -leaving aside the negative consequences. Yet
+being unable to issue notes helped to reduce the credit risk but also access to capital markets,
+thus increasing foreign debt levels, as in the case of the Ottoman Empire.
+
+
+21
+Bibliography
+Primary sources
+Annual Report of the Deputy Master and Comptroller of the Mint (1880-1914), London.
+Annual Report of the Secretary of the Treasury on the State of the Finances (1880-1914), Washington, US.
+Annual Report of the Comptroller of the Currency (1880-1914), Washington, US.
+Annual and Quinquennial Reports of the Council of Ottoman Public Debt Administration (18821914), London.
+Annual Series of Diplomatic and Consular Reports of Turkey, Foreign Office, (1876-1914) London.
+The Balance Sheets and Reports of the Ottoman Bank, No.23977, (1863-1914), Guildhall Library Manuscripts Section, London.
+The Concession: ‘Règlement’ and Statutes of the Imperial Ottoman Bank, No. 23963, 1875, Guildhall Library Manuscripts Section, London.
+Secondary sources
+Aceña, P. M. and REIS, J. (2000) Monetary Standards in the Periphery – Paper, Silver and Gold 1854–1933, St. Martin’s Press: New York.
+Akyildiz, A. (1996) Osmanlı finans sisteminde dönüm noktası - Kağıt para ve sosyo-ekonomik etkileri, Istanbul.
+Autheman, A. (2002) The Imperial Ottoman Bank, Ottoman Bank Archives and Research Centre, Istanbul.
+Banks, A. S. (2011) Cross-National Time-Series Data Archive, Databanks International, Jerusalem, Israel, url: http://www.databanksinternational.com.
+Beck, N. and J. Katz (1995) “What to do (and not to do) with time series cross-section data” American Political Science Review, 89(3): 634–647.
+Beck, N. and J. KATZ (1996) “Nuisance versus substance: Specifying and estimating time-series cross-section models” Political Analysis, 6(1): 1–36.
+Beck, N. (2001) “Time-series cross-section data: What have we learned in the past few years?” Annual Review of Political Science, 4: 271–293.
+Beck, N. (2011) “Of Fixed-Effects and Time-Invariant Variables”, Political Analysis 19, no. 2 (2011), pp. 119-122.
+Blanchard, O. J. (2004) “Fiscal Dominance and Inflation Targeting: Lessons from Brazil”, NBER Working Paper, No.10389.
+Bloomfield, A. I. (1959) Monetary Policy under the International Gold Standard: 1880-1914, New York.
+
+
+22
+Bloomfield, A. I. (1963) Short-Term Capital Movements under the Pre-1914 Gold Standard, Princeton, N.J.
+Bordo, M. D. and F. E. Kydland (1995) “The Gold Standard as a Rule: An Essay in Exploration”, Explorations in Economic History, v.32, p.423-464
+Bordo, M. D. and L. Jonung (1999) “The Future of Emu: What Does the History of Monetary Unions Tell Us?”, NBER Working Papers.
+Bordo, M. D. and A. Redish (1993) “Maximizing Seigniorage Revenue during Temporary Suspensions of Convertibility: A Note” Oxford Economic Papers, New Series, Vol. 45, No. 1 (Jan., 1993), pp. 157-168.
+Bordo, M. D. and H. Rockoff (1996) “The gold standard as a ‘good housekeeping seal of approval’”, Journal of Economic History, Vol. 56, No. 2, pp.389–428.
+Bordo, M. D. and A. J. Schwartz (1997) “The Specie Standard as a Contingent Rule: Some Evidence for Core and Peripheral Countries, 1880-1990” NBER Working Papers.
+Breusch, T., Ward, M. B., Nguyen, H. T. M. and Kompas, T. (2011) “On the Fixed-Effects Vector Decomposition”, Political Analysis 19, no. 2 (2011), pp. 123-134.
+Catao, L. and Solomou, S. (2003) “Exchange rates in the periphery and international adjustment under the gold standard”, IMF Working Paper, WP/03/41.
+Click, R. W. (1998) “Seigniorage in a Cross-Section of Countries”, Journal of Money, Credit and Banking, pp. 154-171.
+Cohen, B. J. (1998) The Geography of Money, Cornell University Press: New York.
+Conant, C. (1927) A History of the Modern Banks of Issue, New York.
+Dimitrova, K., Fantacci, L. and Tunçer, C. (2010) “Monetary policy in Southeast Europe in transition from bimetallism to limping gold standard”, paper presented at the 5th Conference of SEEMHN, Istanbul.
+Eichengreen, B. (1992) Golden Fetters – The Gold Standard and the Great Depression 19191939, Oxford University Press: New York.
+Eichengreen, B. and Flandreau, M. (1994) “The geography of the gold standard”, CEPR Discussion Paper, No. 1050.
+Eichengreen, B. and Flandreau, M. (1997) The Gold Standard in Theory and History, Routledge: New York.
+Einaudi, L. (2001) Money and Politics – European Monetary Unification and the International Gold Standard (1865-1873), Oxford University Press: Oxford.
+Eldem, E. (1999) A History of the Ottoman Bank, Ottoman Bank Historical Research Centre: Istanbul.
+Eldem, V. (1970) Osmanlı İmparatorluğunun İktisadi Şartları Hakkında Bir Tetkik, Türkiye İş Bankası Kültür Yayınları: Istanbul.
+Esteves, R. P., J. Reis and F. Ferramosca (2009) “Market Integration in the Golden Periphery. The Lisbon/London Exchange, 1854-1891”, Explorations in Economic History 46, no. 3, pp. 324-345.
+
+
+23
+Ferid, H. (1914) Osmanlıda Para ve Finansal Kredi. Başbakanlık Hazine Müsteşarlığı ve Darphane Genel Müdürlüğü, Istanbul.
+Fischer, S. (1982) “Seigniorage and the Case for a National Money,” Journal of Political Economy 90, 295-313.
+Flandreau, M. and C. Jobst (2005) “The ties that divide: a network analysis of international monetary system, 1890-1910” The Journal of Economic History, Vol. 65, No. 4.
+Flandreau, M. and J. Komlos (2002) “Core or Periphery? The Credibility of the AustroHungarian Currency 1867-1913”, Journal of European Economic History 31, no. 2, pp. 293-320
+Flandreau, M. and Zumer R. (2004) The Making of Global Finance, 1880–1913, Organization for Economic Cooperation and Development: Paris.
+Flandreau, M. and et al (1998) “Stability without a Pact? Lessons from the European Gold Standard, 1880-1914”, Economic Policy 13, no. 26, pp. 117-162.
+Françoıs, G. (1896) Les Banques D’Emission, Paris.
+Fratianni, M. (2001) “Fiscal Dominance and Money Growth in Italy: The Long Record”, Explorations in Economic History 38, no. 2, pp. 252-272.
+Gadea, M. D. and et al (2008) “Beating Fiscal Dominance. The Case of Spain, 1874-1998”, University of Zaragoza Working Paper.
+Greene, W. (2011) “Fixed Effects Vector Decomposition: A Magical Solution to the Problem of Time-Invariant Variables in Fixed Effects Models?”, Political Analysis 19, no. 2 (2011), pp. 135-146.
+Kittel, B. and H. Winner, H. (2005) “How Reliable Is Pooled Analysis in Political Economy? The Globalization & Welfare State Nexus Revisited”, European Journal of Political Research 44, no. 2, pp. 269-293.
+Kuroda, A. (2007) “The Maria Theresa Dollar in the Early Twentieth-Century Red Sea Region: A Complementary Interface between Multiple Markets”, Financial History Review 14, no. 01, pp. 89-110;
+Kuyucak, H. A. (1947) Para ve Banka, Istanbul.
+Levy, R. G. (1911) Banques D’Emission et Trésors Publics, Paris.
+Mankiw, N. G. (1987) “The Optimal Collection of Seigniorage: Theory and Evidence”, Journal of Monetary Economics 20, no. 2, pp. 327-341.
+Merrill, C. W. (1930) “Summarized Data of Silver Production”, US Department of Commerce Bureau of Mines Economic Paper, No.8.
+Morys, M. (2007) “Adjustment under the classical gold standard (1870s–1914): how costly did the external constraint come to the European periphery?”, Oxford University, Department of Economics Discussion Paper Series, No. 353.
+Mundell, R. A. (2002) “Monetary Unions and the Problem of Sovereignty”, The Annals of the American Academy of Political and Social Science 579, no. 1, pp. 123-152.
+
+
+24
+Obstfeld, M. Shambaugh, J. C. and Taylor, A. M. (2005) “The trilemma in history: tradeoffs among exchange rates, monetary policies and capital mobility”, Review of Economics and Statistics, Vol. 87, No. 3, pp.423–438.
+Pamuk, Ş. (1998) “From bimetallism to the ‘limping standard’: the Ottoman monetary system in the nineteenth century”, in COTRELL, P. L. (ed.) (2008) East Meets West – Banking, Commerce and Investment in the Ottoman Empire, Ashgate: Burlington.
+Pamuk, Ş. (2000) A Monetary History of the Ottoman Empire, Cambridge University Press: Cambridge.
+Plümper T., V. E. Troeger and P. Manow (2005) “Panel Data Analysis in Comparative Politics: Linking Method to Theory”, European Journal of Political Research 44, no. 2 (2005), pp. 327-354.
+Plümper T. and V. E. Troeger (2007) “Efficient Estimation of Time-Invariant and Rarely Changing Variables in Finite Sample Panel Analyses with Unit Fixed Effects”, Political Analysis 15, pp. 124-139.
+Ridgway, R. H. (1929) “Summarized Data of Gold Production”, US Department of Commerce Bureau of Mines Economic Paper, No.6.
+Rollins, M. (1907) Money and Investment, London.
+Sargent, T. J. and F. R. Velde (2003) The Big Problem of Small Change, Princeton University Press.
+Schneider, J., Schwarzer, O. and Zellfelder, F. (1994) Wahrungen der Welt 8 – Afrikanische und Levantinische Devisenkurse im 19. Und 20. Jahrhundert, Stuttgart.
+Servais, E. (1911) Banques D’Emission – Banques Etrangères, Banque de France, Banques Coloniales, Paris.
+Triffin, R. (1964) The Evolution of the International Monetary System: Historical Reappraisal and Future Perspectives; Princeton, N.J.
+Tschoegl, A. E. (2001) “Maria Theresa's Thaler: A Case of International Money”, Eastern Economic Journal 27, no. 4 (2001), pp. 443-462.
+Tunçer, A. C. (2011) Fiscal autonomy, monetary regime and sovereign risk: foreign borrowing and international financial control in the Ottoman Empire, Greece and Egypt during the classical gold standard era, PhD thesis, LSE.
+Willis, H. P. (1901) A History of the Latin Monetary Union, Chicago
+Wooldridge, J. (2010) Econometric Analysis of Cross Section and Panel Data, MIT Press Books.
+Young, G. (1905) Corps De Droit Ottoman, Clarendon Press: Oxford.
+
+
+25
+Chart 1: Coins struck at the Ottoman Mint
+Sources: H. Ferid, Osmanlıda Para ve Finansal Kredi. Başbakanlık Hazine Müsteşarlığı ve Darphane Genel Müdürlüğü, (Istanbul, 1914).
+
+
+26
+Chart 2: Bank notes in circulation and cover ratio
+Sources: The Balance Sheets and Reports of the Ottoman Bank (1863-1914); E. Eldem, A History of the Ottoman Bank, (Istanbul, 1999).
+
+
+27
+Chart 3: Money stock and its components 1880-1913
+Average stock of gold, silver and notes for 1880-1913. For a detailed description of the sources see Footnote 36.
+
+
+28
+Chart 4a: Total coinage and note issue
+Sources and notes: The re-coinages are eliminated from the gross coinage figures. During this period, mints of the core countries also provided the service of minting for various other peripheral countries, which are also eliminated from these figures. See Footnote 36 for references.
+
+
+29
+Chart 4b: Note circulation as a % of total money stock 18801913
+Sources: See Footnote 36.
+
+
+30
+Chart 5: Government legal control over issue bank 1880-1913
+Sources: See Footnote 40.
+
+
+31
+Table 1: Summary of monetary systems and currency in circulation, 1844-1914
+Year Monetary system Type of currency in circulation
+Monetary authorities 1844 Bimetallism Gold coins Silver coins State notes
+Mint Treasury
+1863 Bimetallism Gold coins Silver coins Bank notes
+Mint IOB
+1876 Bimetallism Gold coins Silver coins State notes Bank notes
+Mint Treasury IOB
+1880 Limping standard Gold coins Silver coins Bank notes
+Mint IOB
+1914 Paper standard Gold coins Silver coins State notes
+Mint Treasury
+
+
+32
+Table 2: Coins struck: 1844-1914
+Year Weight (gr.) Fineness (%) Metallic Content (gr.) Mint Ratio
+1844 15.09
+Silver kuruş 1.2027 83 0.998
+Gold lira 7.216 91.67 6.614
+1880 15.88
+Silver kuruş 1.2027 83 0.998
+Gold lira 7.216 91.67 6.614
+1909 16.30
+Silver kuruş 1.2027 83 0.998
+Gold lira 7.216 91.67 6.614
+Sources: Tuncer, 2011; Kuyucak, 1947; Young, 1905; Eldem, 1999; Schneider, 1994.
+
+
+33
+Table 3: Exchange rates of lira and kuruş in several provinces, 1883-1914
+Province 1883 1888 1889 1893 1905 1907 1914
+Adana 124
+Aleppo 125 127
+Beirut 123 124 124.6 124.6
+Baghdad 103.5 103
+Basra 148 153
+Damascus 130.8
+Edirne 123
+Homs 123
+Istanbul 108.3 109.1 109 108.6 108.4 108.2 108.7
+Izmir 178 125-178
+Jaffa 142
+Salonika 124 102.5
+Sidon 125
+Tripoli 124
+Sources: Tuncer, 2011; Schneider et al., 1994.
+
+
+34
+Table 4. Results: Prais-Winsten regressions, correlated PCSEs with panel-specific AR(1)
+Notes: In all cases the dependent variable is note circulation as a percentage of total money stock. All variables are log-transformed and the results are reported in standardised coefficients. Issue bank reserves (RES.PC), government revenue (REV.PC), interest service (IS.PC), trade volume (exports plus imports) (TRADE.PC) value of gold production (GOLD.PC) and value of silver production (SILVER.PC) are per capita figures in British pounds. Models (1) to (3) include time-fixed effects. Multicollinearity among the independent variables is checked by VIFs (variance inflation factors), which were less than 7 in all cases. Sources: see section 3.
+(1) (2) (3) (4) (5) (6)
+BANK 0.279*** 0.335*** 0.283*** 0.218*** 0.219*** 0.272*** (0.0411) (0.0433) (0.0396) (0.0320) (0.0354) (0.0383) RES.PC 0.157*** 0.170*** 0.130*** 0.169*** 0.131*** 0.159*** (0.0304) (0.0320) (0.0304) (0.0291) (0.0284) (0.0301) TRADE.PC 0.157*** 0.192*** 0.179*** 0.127*** 0.143*** 0.167*** (0.0433) (0.0456) (0.0410) (0.0381) (0.0430) (0.0341) REV.PC -0.0541** -0.0621*** -0.0388* -0.0455** -0.0566*** -0.0560*** (0.0225) (0.0234) (0.0231) (0.0205) (0.0200) (0.0211) IS.PC 0.0443 0.0974** 0.0984*** 0.0314 0.0992*** 0.148*** (0.0347) (0.0385) (0.0351) (0.0337) (0.0318) (0.0369) GOLD.PC 0.00777 -0.0160 -0.0212 (0.0296) (0.0282) (0.0271) SILVER.PC -0.000112 -0.0233 -0.0374 (0.0476) (0.0395) (0.0454)
+D.YEAR Y Y Y N N N
+Constant -0.343*** -0.416*** -0.334*** -0.0433 0.0361 -0.0720* (0.0488) (0.0489) (0.0458) (0.0356) (0.0375) (0.0398)
+Observations 530 530 530 530 530 530 R-squared 0.249 0.307 0.281 0.160 0.160 0.222 Number of countries 16 16 16 16 16 16 N 530 530 530 530 530 530 Standard errors in parentheses *** p<0.01, ** p<0.05, * p<0.1
+
+
+35
+LONDON SCHOOL OF ECONOMICS
+ECONOMIC HISTORY DEPARTMENT WORKING PAPERS
+(from 2009 onwards) For a full list of titles visit our webpage at http://www.lse.ac.uk/
+2009
+WP114 War and Wealth: Economic Opportunity Before and After the Civil War, 1850-1870
+Taylor Jaworski
+WP115 Business Cycles and Economic Policy, 1914-1945: A Survey Albrecht Ritschl and Tobias Straumann
+WP116 The Impact of School Provision on Pupil Attendance: Evidence From the Early 20th Century
+Mary MacKinnon and Chris Minns
+WP117 Why Easter Island Collapsed: An Answer for an Enduring Question Barzin Pakandam
+WP118 Rules and Reality: Quantifying the Practice of Apprenticeship in Early Modern Europe
+Chris Minns and Patrick Wallis
+WP119 Time and Productivity Growth in Services: How Motion Pictures Industrialized Entertainment Gerben Bakker
+WP120 The Pattern of Trade in Seventeenth-Century Mughal India: Towards An Economic Explanation Jagjeet Lally
+WP121 Bairoch Revisited. Tariff Structure and Growth in the Late 19th Century Antonio Tena-Junguito
+WP122 Evolution of Living Standards and Human Capital in China in 18-20th Centuries: Evidences from Real Wage and Anthropometrics Joerg Baten, Debin Ma, Stephen Morgan and Qing Wang
+WP123 Wages, Prices, and Living Standards in China, 1738-1925: in Comparison with Europe, Japan, and India
+Robert C. Allen, Jean-Pascal Bassino, Debin Ma, Christine Moll-Murata, Jan Luiten van Zanden
+
+
+36
+WP124 Law and Economic Change in Traditional China: A Comparative Perspective Debin Ma
+WP125 Leaving Home and Entering Service: The Age of Apprenticeship in Early Modern London
+Patrick Wallis, Cliff Webb and Chris Minns
+WP126 After the Great Debasement, 1544-51: Did Gresham’s Law Apply? Ling-Fan Li
+WP127 Did Globalization Aid Industrial Development in Colonial India? A Study of Knowledge Transfer in the Iron Industry Tirthankar Roy
+WP128 The Education and Training of Gentry Sons in Early-Modern England Patrick Wallis and Cliff Webb
+WP129 Does Trade Explain Europe’s Rise? Geography, Market Size and Economic Development Roman Studer
+WP130 Depression Econometrics: A FAVAR Model of Monetary Policy During the Great Depression
+Pooyan Amir Ahmadi and Albrecht Ritschl
+WP131 The Economic Legacies of the ‘Thin White Line’: Indirect Rule and the Comparative Development of Sub-Saharan Africa Peter Richens
+WP132 Money, States and Empire: Financial Integration Cycles and Institutional Change in Central Europe, 1400-1520 David Chilosi and Oliver Volckart
+WP133 Regional Market Integration in Italy During the Unification (1832-1882) Anna Missiaia
+2010
+WP134 Total Factor Productivity for the Royal Navy from Victory at Texal (1653) to Triumph at Trafalgar (1805)
+Patrick Karl O’Brien FBA and Xavier Duran
+WP135 From Sickness to Death: The Financial Viability of the English Friendly Societies and Coming of the Old Age Pensions Act, 1875-1908 Nicholas Broten
+
+
+37
+WP136 Pirates, Polities and Companies: Global Politics on the Konkan Littoral, c. 1690-1756
+Derek L. Elliott
+WP137 Were British Railway Companies Well-Managed in the Early Twentieth Century?
+Nicholas Crafts, Timothy Leunig and Abay Mulatu
+WP138 Merchant Networks, the Baltic and the Expansion of European LongDistance Trade: Re-evaluating the Role of Voluntary Organisations Esther Sahle
+WP139 The Amazing Synchronicity of the Global Development (the 1300s-1450s). An Institutional Approach to the Globalization of the Late Middle Ages Lucy Badalian and Victor Krivorotov
+WP140 Good or Bad Money? Debasement, Society and the State in the Late Middle Ages
+David Chilosi and Oliver Volckart
+WP141 Becoming a London Goldsmith in the Seventeenth Century: Social Capital and Mobility of Apprentices and Masters of the Guild Raphaelle Schwarzberg
+WP142 Rethinking the Origins of British India: State Formation and Military-Fiscal Undertakings in an Eighteenth Century World Region Tirthankar Roy
+WP143 Exotic Drugs and English Medicine: England’s Drug Trade, c.1550-c.1800 Patrick Wallis
+WP144 Books or Bullion? Printing, Mining and Financial Integration in Central Europe from the 1460s
+David Chilosi and Oliver Volckart
+WP145 ‘Deep’ Integration of 19th Century Grain Markets: Coordination and Standardisation in a Global Value Chain Aashish Velkar
+WP146 The Utility of a Common Coinage: Currency Unions and the Integration of Money Markets in Late Medieval Central Europe Lars Boerner and Oliver Volckart
+WP147 The Cost of Living in London, 1740-1837 Ralph Turvey
+
+
+38
+WP148 Labour Market Dynamics in Canada, 1891-1911: A First Look From New Census Samples
+Kris Inwood, Mary MacKinnon and Chris Minns
+WP149 Economic Effects of Vertical Disintegration: The American Motion Picture Industry, 1945 to 1955 Gregory Mead Silver
+2011
+WP150 The Contributions of Warfare with Revolutionary and Napoleonic France to the Consolidation and Progress of the British Industrial Revolution Patrick Karl O’Brien
+WP151 From a “Normal Recession” to the “Great Depression”: Finding the Turning Point in Chicago Bank Portfolios, 1923-1933 Natacha Postel-Vinay
+WP152 Rock, Scissors, Paper: the Problem of Incentives and Information in Traditional Chinese State and the Origin of Great Divergence Debin Ma
+WP153 The Finances of the East India Company in India, c.1766-1859 John F. Richards
+WP154 Labour, law and training in early modern London: apprenticeship and the city’s institutions Patrick Wallis
+WP155 Why did (pre‐industrial) firms train? Premiums and apprenticeship contracts in 18th century England Chris Minns, Patrick Wallis
+WP156 Merchantilist institutions for a first but precocious industrial revolution; The Bank of England, the Treasury and the money supply, 1694-1797 Patrick O’Brien
+2012
+WP157 Hand Looms, Power Looms, and Changing Production Organizations: The Case of the Kiryu Weaving District in the Early 20th Century Japan Tomoko Hashino, Keijuro Otsuka
+
+
+39
+WP158 From Divergence to Convergence: Re-evaluating the History Behind China’s Economic Boom
+Loren Brandt, Debin Ma, Thomas G. Rawski
+WP159 Money and Monetary System in China in the 19th-20th Century: An Overview
+Debin Ma
+WP160 Contesting the Indigenous Development of"Chinese Double-entry
+Bookkeeping" and its Significance in China's Economic Institutions and
+Business Organization before c.1850
+Keith Hoskin, Richard Macve
+WP161 Steel, Style and Status: The Economics of the Cantilever Chair, 1929
+1936
+Tobias Vogelgsang
+WP162 The Seven Mechanisms for Achieving Sovereign Debt Sustainability
+Garrick Hileman
+WP163 Reparations, Deficits, and Debt Default: The Great Depression in Germany
+Albrecht Ritschl
+WP164 Bounded Leviathan: or why North and Weingast are only right on the
+right half
+Alejandra Irigoin, Regina Grafe

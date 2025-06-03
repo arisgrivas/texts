@@ -1,0 +1,478 @@
+The drachma, foreign creditors, and the international monetary system: tales of a currency during the 19th and the early 20th centuriesq
+Sophia Lazaretou*
+Bank of Greece, Economic Research Department, Special Studies Division, 21 E. Venizelos Street, 102 50, Athens, Greece
+Received 29 October 2003 Available online 30 November 2004
+Abstract
+Fixed exchange rate regimes can be regarded as a ‘‘rule with escape clauses,’’ allowing the monetary authorities to temporarily suspend convertibility and enact a discretionary policy only under well-understood contingencies, such as wartime emergencies and financial panics. Seen from this perspective, adherence to the specie convertibility rule enables peripheral countries to establish credibility of the nationÕs economic policy and, thus, to obtain access to the core countriesÕ capital markets. An example of a peripheral country is Greece during the 19th
+0014-4983/$ - see front matter Ó 2004 Elsevier Inc. All rights reserved. doi:10.1016/j.eeh.2004.06.002
+q An earlier version of this paper benefited greatly from the comments and suggestions of two anonymous referees. I am grateful to Alan Taylor for kindly providing the time series for Greek bond spreads, as well as to Panayiotis Kapopoulos, George Kostelenos, Nicos Pantelakis, and the participants in the series of seminars held in the Cultural Institute of the National Bank of Greece for helpful comments and suggestions on previous versions of the paper. Finally, I would like also to thank the Historical Archives of the National Bank of Greece and the Bank of Greece. However, the responsibility of any remaining errors or omissions is mine alone. The views expressed herein are those of the author and not those of the Bank of Greece. This paper is an extended version of an article by the author entitled ‘‘The drachma on the metallic monetary standards: lessons from the past’’ published by the Bank of Greece in its Economic Bulletin in 1999. * Fax: +30-210-323-3025. E-mail address: slazaretou@bankofgreece.gr.
+Explorations in Economic History 42 (2005) 202–236
+www.elsevier.com/locate/eeh
+Explorations in Economic History
+
+
+and early 20th centuries. The evidence assembled in the paper suggests that Greece tried very hard to adhere to ‘‘good housekeeping rules.’’ Ó 2004 Elsevier Inc. All rights reserved.
+JEL classification: F33; N23
+Keywords: Specie standards; Foreign borrowing; Peripheral country
+1. Introduction
+During the 1990s Greece had made substantial efforts to meet the Maastricht Criteria so as to join the euro zone by 2001.1 Greek economic policy was dominated by the principles of fiscal prudence and monetary discipline in an attempt to achieve price and exchange rate stability. After making these efforts, Greece met the Maastricht Criteria and the drachma successfully entered the euro zone as of January 2001. The attempt to enter the euro zone is not the only example in recent Greek history to join a monetary ‘‘stability club.’’ The countryÕs monetary history has been marked by experiments with silver in the very early years of the Greek State, bimetallism in the middle of the 19th century, the classical gold standard in the last quarter of the century and the gold-exchange standard in the interwar period, or even to participate in monetary unions such as the Latin monetary union in the 1860s. Bordo and Kydland (1995) have considered metallic monetary regimes as a ‘‘contingent rule’’ or a ‘‘rule with escape clauses’’ allowing the monetary authorities to temporarily suspend convertibility of the domestic currency into metallic or foreign exchange and enact a discretionary policy only under well-understood contingencies, such as wartime emergencies and financial panics. The strict adherence to the specie convertibility rule enables peripheral countries to establish credibility of the nationÕs economic policy and, thus, to obtain access to international capital markets, and to reduce the costs of borrowing. Bordo and Rockoff (1996 see also Bordo et al., 1999) find that adherence to gold standard rules acted as a ‘‘seal of approval’’ for sovereign debt. The papers by Eichengreen and Flandreau (1998), Sussman and Yafeh (2000), and more recently, by Meissner (2002) and Obstfeld and Taylor (2003) present relevant cross-country evidence. Countries with poor records of adherence were charged considerable more for borrowing (see Einaudi, 2000; Gallarotti, 1995). In addition, adherence to the gold standard might facilitate trade since monetary uniformity reduces considerably the transaction costs of trade. The papers by Flandreau (1996), Eichengreen (1996), Lopez-Cordova and Meissner (2003), Flandreau
+1 The entry into the European monetary union (EMU) is made conditional on achieving sufficient convergence requirements in a number of macro-economic variables, namely inflation rates, interest rates, exchange rates, and fiscal variables (budget deficits and government debt). Those countries that satisfied these convergence criteria—spelled out in the Maastricht Treaty—were admitted to the EMU. Twelve countries entered in the EMU in 2001 and the euro became the common currency.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 203
+
+
+and Maurel (2001), and Obstfeld and Rogoff (2001) find substantial evidence that countries with substantial trade links with other gold countries enjoyed higher levels of bilateral trade due to low costs of trade and network externalities exhibited by the use of a common standard of value. I consider Greece during the 19th and early 20th centuries to be a typical example of a peripheral country. The story of the Greek drachma is a case rich with defaults, multiple switches on and off metallic standards, and political or military events. This paper attempts to see whether Greece can be considered as an example of a country that followed a fixed exchange rate regime with the accepted ‘‘escape clauses’’ for war and financial emergencies. The following questions are addressed. First, under what circumstances did the government chose to ‘‘escape’’? Second, how aggressively did the Greek government try to return to a fixed exchange rate regime? In the light of the gold standard contingent rule literature, I look for suggestive evidence on the factors that led the country to adopt the metallic monetary regimes, and explain the timing of the transition.2 By using the hypothesis that the gold standard served as a ‘‘seal of approval’’ for sovereign debt, I explore the history of Greek borrowing and provide evidence that might shed light on why a peripheral, developing, and inflation-prone economy, like Greece of the time, was intended by the government to adhere, even temporarily, to the specie convertibility rule. Would adherence to the rule enable the country to derive important benefits in the form of long-term foreign borrowing? The existence of a time series for market yields on Greek bonds gives us the opportunity to corroborate previous evidence based on case studies.
+2. The specie standard rule as a contingent rule
+By the term ‘‘metallic monetary regimes’’ I mean regimes in which some precious metal, such as gold or silver, is used as a numeraire; that is, as a standard by which the values of all other currencies are determined. Specie standards could be viewed as a credible commitment mechanism to prevent governments from following time inconsistent fiscal and monetary policies. In other words, the monetary authorities of the country on gold should pursue a ‘‘gold standard contingent rule’’ or a ‘‘rule with escape clauses’’—a policy rule that was adjusted depending on time contingencies. Specifically, when faced with a monetary equivalent of an ‘‘emergency,’’ the monetary authorities could suspend convertibility and issue paper currency to meet excess borrowing requirements. Such emergencies are considered to be only well-understood contingencies, such as war, threat of war or financial and bank panics (due to feared suspensions). However, the convertibility rule can be suspended only temporarily. Once the reasons for suspension are gone, the authorities should enact a
+2 Various hypotheses regard the determinants of the cost of foreign capital, namely institutions (see North, 1991), the monetary regime or political and military instability (see Sussman and Yafeh, 2000). In this paper, special interest is placed upon the monetary regime.
+204 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+dis-inflationary policy so that, at some future date, convertibility at the initial parity could be restored. Under fixed exchange rates, the government can finance increased spending via an income tax or debt issue, and, in that case, it will maintain its reputation as a debtor in the domestic or foreign capital markets. Since there is no mechanism pre-committing the governmentÕs actions, the government might try at some future time to erode an ever-increasing percentage of the debt value, by causing an inflation surprise.3 In this way, the need to impose an income tax in future periods is considerably reduced. At the same time, however, it strengthens public expectations that such a policy will be repeated in the future, negatively affecting the price of government securities. The time inconsistency problem may be resolved by establishing rules or laws imposing a commitment mechanism on the government. In wartime emergency, the government suspends specie payments, committing to revert to convertibility once the war is over. The temporary suspension of convertibility provides the government with the opportunity to finance wartime spending by paper money creation or debt issue (Bordo and Schwartz, 1994; Lucas and Stokey, 1983). Private agents are willing to hold government bonds in their portfolio because they expect that the suspension of convertibility will last just as long as the war, and after the war or when spending becomes moderate again, the government will adopt measures of fiscal consolidation and monetary restraint that could allow metallic flows to be resumed and the debt to be paid off either in metallic or domestic currency at the initial parity. If the government does not adhere to the rule, public behavior will be totally different in the case of a future war. They are bound to consider the government unreliable in its promise for a resumption of gold convertibility once the war is over, and consequently, they are likely to be reluctant to hold government bonds in their portfolio, thus making the financing of new wartime spending more difficult. For a peripheral country adherence to gold would enhance market credibility. This was because the link of a weak currency with the prevailing international monetary system might be regarded by foreign creditors as a credible signal that the countries promised to maintain stable exchange rates and not to pursue a policy of persistent inflation. A sound fiscal and monetary policy enforced by a gold standard contingent rule could ensure that the debt would be ultimately paid back and the country would not default. Thus, such countries could gain cheaper capital market access. It is clear that participating countries are divided into ‘‘core’’ and ‘‘peripheral’’ according to their faithfulness to specie rules. The core countries almost always adhered strictly to the convertibility rule. They set the tune for the rest of the world; they were leading financial centers and world bankers and their national currencies
+3 This occurs, however, only in the case of a nominal debt issue and an inflation surprise and when the debt is long-term and not short-term. The expected inflation rate is incorporated in the interest rate of government bonds, increasing the real value of expenditure on the servicing of debt.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 205
+
+
+were used as the ‘‘monetary anchor’’ for the other currencies.4 By contrast, the peripheral countries only temporarily maintained fixed exchange rates. Whenever they faced pressing financial needs or imbalances in the external sector, they abandoned the rule.5 Historically speaking, this is the case of nominal debt issue. Core countries were able to issue paper bonds, denominated in their own currency. Thus, paper bonds might entail some exchange rate risk even for countries with credible gold standard commitment. By contrast, peripheral countries suffered from ‘‘original sin’’ (see Eichengreen and Hausman, 1991). As they had poor reputations as borrowers, they were unable to issue debt denominated in their domestic currency. They usually issued bonds in specie or in hard currency that were supposedly payable in the currency of denomination, regardless the regime du jour (Bordo and Frandreau, 2001). Furthermore, even when they issued bonds payable in domestic paper, there were gold or exchange clauses that would protect creditors if the debtor devalued, since the yields of the bonds were payable in specie or in hard currency. However, depreciation actually increased governmentÕs liabilities compared to its assets, and made balance sheet problems worse. Consequently, default risk was higher and creditors lent at a higher rate.
+2.1. Greece as a peripheral country: typical features
+Table 1 reviews briefly the historical episodes of adherence to and suspension of specie convertibility by Greece.6 There are three typical features placing Greece of the 19th and the early 20th centuries among peripheral countries. First, I note the exceptionally large number of alternations of periods of fixed and flexible exchange rates. From 1828, when for the first time, a national monetary system was introduced
+4 Great Britain with the pound sterling in the gold standard, France with the franc in the Latin Monetary Union, and the USA with the dollar in Bretton Woods. See, Giovannini (1989), Eichengreen (1990), Kindlerberger (1993), and Bordo and Kydland (1995). The core countries were the United Kingdom, France, Germany, and the United States (after the turn of the 19th century). However, small economies, such as Belgium, Denmark, Switzerland, Netherlands, Sweden, Norway, Australia, New Zealand, and Canada followed the gold standard rules much more rigorously than other countries (for example, Iberia or the Latin American countries). The peripheral countries were the developing European and non-European world, such as Spain, Portugal, Italy, Austria–Hungary, Finland, Greece, Argentina, Brazil, Chile, Mexico, South Africa, Egypt, Ottoman Empire (Turkey), Japan, India, and Uruguay. 5 There is abundant historical and empirical evidence on the operation of metallic monetary regimes in the 19th and the early 20th centuries as a specie standard contingent rule. Bordo and White (1991) provide historical evidence that Britain, unlike France, pursued a gold standard contingent rule during the Napoleonic Wars. It seems that such a policy was pursued not only by the core countries but also by the countries on the periphery of the system (see Bordo and Schwartz, 1994; Giovannini, 1993). For a discussion on the national stories, see, for example, Flandreau et al. (1998), Della Paolera and Taylor (2001) on Argentina, Fratianni and Spinelli (1997) on Italy, Reis (2000) on Portugal, Acena (2000) on Spain, Fritsch and Franco (2000) on Brazil, and Lazaretou (1995a) on Greece. 6 Lazaretou (1993, 1996) and Alogoskoufis and Lazaretou (2002) offer a detailed discussion on the monetary history of modern Greece.
+206 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+Table 1
+A chronology of episodes of adherence to and suspension of specie convertibility by Greece
+Dates of convertibility resumption Dates of
+suspension
+Reasons for
+suspension
+Change in the exchange rate
+1. 1828 (silver monometallism) June 1831 Government failure.
+Budget deficit difficulties
+2. February 1833 (bimetallsim) April 1848 Response to a world-wide
+financial panic
+The drachma replaced the phoenix,
+silver:gold ratio, 15.5:1
+3. December 1848 (bimetallism) December 1868 War: the Crete Revolution The resumption was made at the
+original parity
+4. July 1870 (bimettalism) June 1877 The Russo-Turkish War The resumption was made at the
+original parity
+5. January 1885 (gold standard) September 1885 Economic crisis, government failure,
+war threat
+The resumption was made at the
+bimetallic drachma/French franc
+parity (1:1)
+6. March 1910
+(Latin Monetary Union,
+gold-French franc standard)
+August 1919 Asia Minor Expedition The resumption was made at the
+original parity (1:1)
+7. April 1928
+(gold-exchange standard)
+April 1932 World-wide monetary instability,
+debt repudiation
+DrachmaÕs devaluation
+8. June 1933 (Gold Bloc) September 1936 Gold Bloc dissolution,
+balance of payments deficits
+DrachmaÕs devaluation
+9. October 1936 (‘‘Sterling Area’’) December 1939 Imminence of World War II DrachmaÕs devaluation
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 207
+
+
+(silver standard),7 to 1936, when the country entered the ‘‘Sterling Area,’’ the Greek economy experienced eight episodes of suspension of gold or foreign exchange convertibility. Second, the frequent alternations between metallic and paper currency standards as well as the adoption of the prevailing international monetary system for a very short period of time reveal the governmentsÕ inability to maintain fixed exchange rates. The causes of the suspension of convertibility were not only the emergence of some sudden event, such as war, but governmentÕs failure to pursue fiscal and monetary policies compatible with its commitment to ensure fixed rates. According to Meissner (2002, p. 14) ‘‘under the gold standard, spendthrift governments [or] poorly designed, badly regulated banking systems could thwart convertibility or bring on a costly financial crisis if convertibility was enacted.’’ Greece had a weak governmental financial system, namely persistent budget deficits and a high debt to GDP ratio, throughout the last quarter of the 19th century. Hence, she would have to effect, before joining, major institutional changes concerning public finances. These changes concern the power, the credibility and the bureaucratic capacity to tax sufficiently to cover the governmentÕs expenditures and to undertake a budget reform, i.e., the ‘‘. . .manufacture of a politically difficult reform to eliminate fiscal excess. . .’’ (Meissner, 2002, p. 15 see also Bordo and Vegh, 1998; Eichengreen, 1999). The necessity to establish a sound financial system and the difficulty to find and maintain gold reserves as well as to restore public confidence in the convertibility rule might delay the adoption of gold by a fiat currency country. Greece credibly adopted gold in 1910, after a 12-year period of financial austerity and debt re-scheduling had passed. As seen in the following section, the establishment of the International Committee for Greek debt management in 1898 provided the legal framework so that the country could enjoy fiscal responsible governments. Specifically, under the law of February 1898, the debt monetization was prevented and strict constraints were imposed on the annual increase of banknote circulation, whereas an increase in tax revenues were demanded so as foreign loans to be completely repaid. Third, the periodic abandonment of and return to metallic standards reveal the various Greek governmentsÕ strong commitment to the specie standard rule. Indeed, as seen in the following section, throughout the period under study the monetary authorities regarded the suspension of the drachmaÕs convertibility into gold or foreign exchange as a reaction to an emergency, such as war. Once hostilities ceased, they made efforts to return to the ‘‘natural state’’.8
+7 The modern Greek State was created in 1827, and as an independent state it was recognised in 1830 with the London Protocol. 8 This perception is illustrated in the announcement of the then Governor of the National Bank of Greece, Efthimios Kehayias, to the General Meeting of Shareholders in 1883, at which time the country was trying to enter the LMU: ‘‘The paper currency standard is a temporary and extraordinary measure, deemed necessary by the government only in exceptional political and economic circumstances, having, however, undesirable effects on transactions, particularly when banknote circulation increases above foreign exchange reserves, since this will cause a devaluation of the domestic currency’’ (National Bank of Greece, Annual Report of the Governor for the year 1883, 1884, p. 9).
+208 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+Nineteenth century Greece suffered from economic stagnation. Greece was a poor agricultural economy, with low levels of economic efficiency, lack of private investment capital, money scarcity, few banking transactions, underdeveloped financial system and poor government finances. None of the 19th century Greek governments dared to undertake a budget reform, namely to improve the tax collection system and raise revenues from income taxes. Taxes were imposed on income from agriculture, building, property, and commercial profits. Incomes from employment were not taxed. However, taxation was not imposed on personal income. Citizens were taxed according to some ad hoc criteria set by the government, and not according to the ability to bear taxes. The principle of progressive taxation was not employed and the tax system was characterized by a lack of uniformity and generality.9 Therefore, great inequalities in income taxation caused social unrest. A systematic attempt to reform the tax system was made in 1919 when, for the first time, personal income taxation was introduced. Furthermore, the lack of tax harmonization between Greek regions and the low tax rates caused high collection costs and a loss in revenues. The tax collection inefficiency forced reliance primarily on indirect taxation. Indeed, indirect taxes amounted to more than 60% of the total tax revenues in the turn of the century. Income from shipping and the settlement of rich Greek expatriates and philhellenes in Greece were the only sources of capital inflows. Public expenditures—overwhelming government consumption—were financed by domestic borrowing contracted on poor terms, resulting in an excessive burdening of the budget during the second half of the 1870s (see Fig. 1). The international capital markets of London and Paris were closed to Greece, since the countryÕs reputation as a borrower was destroyed following her inability to repay the Independence loans of 1824–1825 and the default in 1843 on the loan
+Fig. 1. Budget deficits (1833–1936).
+9 For example, 17 different taxes were imposed on incomes from agriculture. For a detailed presentation of the tax system in the pre-WWI Greece and its deficiencies, see Andreades (1916) and Angelopoulos (1933).
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 209
+
+
+of 1832. Despite protracted efforts to settle the debt and the establishment of an international committee for Greek debt management and the conduct of national economic policy, the final compromise with foreign creditors came only in 1879. Meanwhile, the government asked the National Bank10 to cover the pressing finance requirements. The Bank lent to the government short-term capital, setting very high risk premiums (an interest rate of 7–8% compared with interest rates in the international capital market of 2.5–4.5%). From the last quarter of the century, the Greek governments started to adopt ambitious programs for the countryÕs economic restructure and development. Trade with the gold standard countries began to increase, an urban-creditor class appeared,11 large public works were implemented and investment capital (usually from rich Greek emigrants) started to inflow. The development of the railway and canal network, the construction of new harbors and the repair of the existing ones, road construction and the development of mail were all factors that improved the countryÕs transport system and communications network, and affected favorably economic production and trade. The increase in population and the expansion of the cultivated land were also another determinant of the countryÕs economic progress. The production of agricultural goods rose, mainly those that were exportable (wine, olive oil, currants, and tobacco). Industry was also promoted (clothing, food, footwear, mining, and quarrying) and imports of raw materials and cereals increased.12 However, the underdeveloped domestic financial market, the scarcity of savings and the poor public finances demonstrated the urgent need for the governments to find cheap money relying almost exclusively on foreign borrowing.
+3. The drachma, foreign creditors, and the international monetary system
+Treating membership in the gold standard as a ‘‘good housekeeping seal of approval,’’ I attempt: (1) to explain Greek governmentsÕ insistence on tying the drachma to the international monetary system and (2) to interpret the timing of the transition from floating to fixed exchange rates. The exploration of the history of Greek foreign loans provides useful information for this purpose. There are four suggestive cases where Greek governments made spirited efforts to pursue consistently a contingent gold standard rule. Preliminary empirical findings corroborate evidence relied on case studies.
+10 The National Bank was created as a universal bank, while at the same time it had the exclusive privilege of note issue. In other words, it combined the role of a commercial bank with those of a ‘‘bank of the state’’ and a ‘‘lender of last resort.’’ 11 According to DeCecco (1974) regime choice would be probably a political power struggle between two groups with competing interests and preferences; an urban-creditor class and a ruler-debtor class. Inflation harms creditors and benefits debtors. 12 According to Svoronos (1976), per capita export trade rose from 69.9 gold drachmas in the period 1861–1870 to 95.0 gold drachmas in the period 1901–1910.
+210 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+3.1. Four suggestive cases
+3.1.1. Case #1
+In December 1868 the government, in the face of the Crete Revolution, was forced to suspend bimetallic convertibility and issued paper money13 to cover increased military spending. Inflation became the ultimate option for financing the war since international capital markets were closed to Greece and the country was unable to draw funds from the domestic capital market. When hostilities ceased in April 1869, the government announced its commitment to pursue an anti-inflationary policy so as to restrain liquidity in the economy (see the decree of 8 April). Besides, by the law of July 1869, it tried, however, without success, to issue debt denominated in hard currency.14 There were two reasons of the debt issue failure: the scarcity of private savings and, second, the poor reputation of the government as a debtor in the domestic capital market. In fact, from mid-1869 the growth rate of money circulation started to fall. As can be seen in Fig. 2, seigniorage revenues fell, from 5.7 and 8.3% in 1868 and 1869,
+Fig. 2. Seigniorage (1842–1939). Note. Seigniorage revenues have computed as the change in banknotes in circulation divided by total tax revenues or total government spending. Total tax revenues are the total revenues from direct and indirect taxation, while government spending concerns the expenditure of the central government, including interest payments. Banknotes in circulation were issued solely by the National Bank of Greece until 1927 and the Bank of Greece from 1928 and afterwards. All the data refer to end-of-year.
+13 In effect, the government borrowed from the National Bank of Greece in metallic and banknotes at an interest rate of 6 and 11
+2%, respectively. The interest rate on banknotes was low enough, to cover only the issuance expenses of fiat money. 14 Until 1876, the Bank used to hold metallic reserves (gold plus silver) in its Treasury in the form of barren metal. From 1877 onward the Bank held gold reserves in its Treasury and gold-convertible interest bearing deposits denominated in foreign currencies. Specie came mainly from trade and a small portion came from direct investment in residential and commercial property as well as portfolio investments.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 211
+
+
+respectively, of total government expenditure, to just 0.01% in 1870, whereas income tax revenues rose from 31% in 1869, of total tax revenues, to 37% in 1870. In March 1870, the government attempted at last to issue a bond loan of 9 million French francs. The National Bank was the sole purchaser of the government bonds. In order to cover the loan to the State, the Bank increased its equity capital and avoided expanding its loan activities to private agents, in an attempt to restrain liquidity in the economy.15 Efforts aimed at fiscal and monetary adjustment lasted 15 months and met with success. In July 1870, the drachma reverted back to bimetallism.16 Two key factors urged the government to take anti-inflationary measures necessary to restore bimetallism. The first was its insistence on entering the drachma to the LMU, to which it had formally belonged since 1867. The second was its intention to make reliable efforts for a final compromise with foreign creditors on outstanding external debt, and its motivation to save on the costs of borrowing. The government expected that by joining the LMU the country could enjoy monetary stability and increase financial linkages with Paris.17 First, Greece would no longer face money scarcity since domestic transactions would also be carried out in French francs. Second, tying the drachma to the French franc at a fixed rate would reduce exchange rate fluctuations and, third, Greece would rebuild her credit-worthiness in the international capital market of Paris. This was because the credible adop
+15 The value of new equity derived from the domestic capital market amounted to 2 million drachmas. The monthly average rate of increase in banknote circulation was nearly zero in 1870 (0.002%) and 0.53% in 1871, compared with 1.17% in 1869. In 1871, the BankÕs short- and long-term lending to the economy remained constant; in 1872 short-term lending rose by 28.9%, while long-term lending was constant. 16 It is quite interesting to note that the decision of the suspension of the drachmaÕs convertibility was the result of a conflict between two actors with competing preferences: the National Bank of Greece and the government. The government faced a wartime emergency and was interested in covering via inflation its urgent finance requirements, while banking interests were strong advocates of bimetallism. In his Annual Report for the year 1868 (1869) the Governor of the Bank was extremely unwilling to finance the high budget deficits. He mentioned (p. 27) that fiat money would adversely affect the confidence in the BankÕs note. The excess borrowing needs, however, forced the government to threaten the Bank with suspension of its exclusive privilege of note issue. By a decree of December 1868 the government announced that it was going to issue paper money. Soon, an attack on the BankÕs metallic reserves occurred as people rushed to redeem their banknotes in metallic. Thus, the Bank was forced to suspend convertibility and create money. 17 The need to reform the Greek monetary system became urgent in the mid-1860s when Spain abandoned the monetary system that was based on the distilo and to which the Greek drachma was linked. At that time international trade transactions were made in currency directly convertible into precious metals at a fixed rate and, therefore, Greece had to adopt a monetary system that would be acceptable by other countries. Given the limited amount of drachmas in circulation, foreign currencies were allowed by law to circulate freely in the domestic money market. However, the majority of these were tarnished, with a face value much higher than their market value. As a result, Greek silver and gold coins quickly outflowed since holders of foreign debased coins exchanged them for drachmas, which they then melted to obtain precious metal. Thus, the drachma soon became an ‘‘ideal currency’’ that used as ‘‘an accounting unit for foreign currencies and things of value’’ (Kehayias, 1875, p. 8). Under the Law on Currency (April 1867), Greece signed the LMU agreement, accepting the principle of bimetallism and the equivalence of the gold drachma with the gold French franc (parity 1:1). The minting of new drachmas was permitted immediately after the publication of the law. The new system was to become effective as from 1 January 1869.
+212 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+tion of convertibility might send a signal to lenders that the government promised to pursue fiscal and monetary policies compatible with the maintenance of the exchange rate stability. In particular, this ensured that the liabilities should not be inflated away, if they were denominated in domestic currency, or, if they were denominated in hard currency or specie (see Table 2), fiscal discipline imposed by the convertibility rule should improve the debt to GDP ratio, so default risk would be reduced. Ultimately, the risk premium would be lowered and the cost of borrowing, too.
+3.1.2. Case #2
+Bimetallism lasted almost 7 years. During this period, the government was able to derive funds only from the domestic market. Domestic investors seemed willing to hold Greek bonds denominated in the countryÕs own currency.18 However, domestic borrowing contracted on unfavorable terms to the government—short-term capital, high interest rates. The domestic money market punished the government by setting a lending rate higher than the international rate. From the mid-1870s, political instability in Greece led to an increase of fiscal deficits. The segmentation of the Parliament into many small political parties and the short-lived governments caused a loss in revenues due to the laxity in tax collection and an increase in expenditure due to the numerous dismissals and transfers of civil servants that accompanied each government change. The Russo-Turkish War of 1877–1878 caused new wartime emergencies and aggravated the position of the budget even further. Considering the rise of its defense expenses as temporary and with the intention to maintain the specie convertibility rule during the war, the government tried to finance them by domestic debt issuance. Indeed, in December 1876 the government issued a national loan and in March 1877 short-term securities in the form of Treasury bills. However, loans were covered only partly, mainly because of the inadequacy of domestic savings. Ultimately, the government relied on inflation to finance its borrowing requirements. The political instability of the time, the underdeveloped financial market and the countryÕs default on her past loans prevented the inflow of foreign capital. At a time when there was a loss of reserves in parallel with a need to finance the high fiscal deficits, the governmentÕs effort to pursue a specie convertibility rule was not credible. Fiscal disturbances led to the abandonment of anti-inflationary monetary regimes. Seigniorage sharply increased from near zero in 1876 to 42% of total tax revenues in 1878. For the whole period of the fiat money standard (1877–1884), seigniorage was on average 11% of total government spending, compared with only 4% in the previous period of bimetallism (1869–1876). Nevertheless, after the end of the war in 1878, the government tried to bring the drachma back to the ‘‘natural state,’’ namely bimetallism. To this end, it took antiinflationary policy measures and it attempted to contract a loan, however unsuccess
+18 In 1872, the government successfully issued Treasury bills at the attractive interest rate of 8%, causing competition between commercial banks and the Public (the interest rate on time deposits was 6–6.5%). In 1874, it signed a contract with the National Bank for a bond loan issue at the interest rate of 9.6% for the repayment of all its previous debts to the Bank.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 213
+
+
+Table 2
+GreeceÕs domestic and foreign loans during the 19th century and at the beginning of the 20th century
+Year Loan Interest rate,
+maturity
+Comments
+Domestic loans
+1870 9 million FF 9 years at 9.5% A bond loan was issued for the restoration of
+convertibility. The loan was repaid in metallic
+1872 Treasury bills issue 8% The National Bank of Greece was the main
+purchaser. Treasury bills were discounted at
+commercial discount rates
+1874 26 million drachmas 9.5% A bond loan was issued for the repayment of
+previous government debts to the National Bank
+of Greece. In 1880 the government suspended
+amortization payments and reduced the interest
+rate to 5%. Bonds were issued at par value in
+drachmas but they were repaid in devalued
+drachmas
+1876 10 million drachmas 8% A national loan was used for financing excess
+defence spending (partially covered). In 1888 the
+government suspended amortization payments
+and reduced the interest rate to 5%. The loan was
+repaid in devalued drachmas
+1877 9 million drachmas 8% Treasury bills issue. Failure
+1882 17.8 million drachmas 6.75% Road construction loan. In 1889 the government
+suspended amortization payments and cut the
+interest rate to 5.5%
+1884 9 million drachmas 7% In 1889 the government suspended amortization
+payments and reduced the interest rate to 5.5%
+1885 3 million drachmas Discounting of Treasury bills by the National
+Bank
+214 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+1886 19 million gold FF 2 years A loan in gold contracted with a consortium of
+banks (the National Bank of Greece, the Bank of
+Epirus and Thessaly, the Bank of Industrial Credit
+and the Bank of Konstantinolpe) for interest and
+amortization payments on the outstanding foreign
+debt
+1887 15 million drachmas 4% A loan contracted with the National Bank for the
+repayment of various temporary loans. It was
+repaid in devalued drachmas
+10.2 million gold FF A loan contracted in gold with a consortium of
+banks (the National Bank of Greece, the Bank of
+Epirus and Thessaly, the Bank of Industrial Credit
+and the Bank of Konstantinople) for interest and
+amortization payments on the outstanding foreign
+debt
+1892 16.5 million drachmas 18 months, at 4% In 1893 the government converted the gold loan
+(interest and amortization payments) into bonds
+at the then valid parity and thus interest rates and
+capital were reduced by 40%. As a consequence,
+the bond price fell to 313 FF from 500 FF
+1898 76.3 million drachmas 80 years, at 5% Issuance of a new bond loan for the repayment of
+previous debts. Bonds of previous loans were
+converted into new ones and could be purchased
+in the domestic money market
+1900 11.7 million drachmas 5% Amortization bond loan. Success
+1906 18 million drachmas 1% Bond loan. The bonds were sold on the Athens
+Stock Exchange at par value
+1907 10 million drachmas 30 years, at 5% Thessalian agricultural bond loan. The loan was
+contracted with a consortium of banks for the
+purchase of land and the housing of refugees
+1909 5 million drachmas 5% Bond loan
+1912 40 million drachmas 6 months Temporary loan
+1913 50 million gold 5 years, at 6%, New temporary loan
+drachmas 5 months, at 5% Bond loan
+40 million drachmas
+(continued on next page)
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 215
+
+
+Table 2 (continued)
+Year Loan Interest rate,
+maturity
+Comments
+1914 65 million drachmas The loan was paid off in 1915, by means of bonds
+of a foreign loan, amounted to 335 million gold
+FF
+1915 40 million drachmas 5 years, at 6% Temporary loan
+15 million gold FF 15 years, at 6% Long-term bond loan
+1917 100 million drachmas 20 years, at 6% Long-term requisition loan
+25 million drachmas 5.5% Temporary loans
+10 million drachmas 6%
+5 million drachmas 6%
+1918 83.7 million drachmas 3 months, at 4% 6 months, at 5% 1 year, at 5.5% Treasury bills of ‘‘National Defence.’’ Foreign
+markets were reluctant to lend to Greece
+75 million drachmas 30 years at 6% Long-term loan for financing previous budget
+deficits
+1919 300 million drachmas 5% Lottery loan
+338.2 million drachmas Treasury bills of ‘‘National Defence’’
+1920 41 million drachmas 6% Treasury bills of ‘‘National Defence’’
+$200 million 5.5% Temporary loan by the National Bank of Greece
+12 million drachmas 6% New temporary loan
+300 million drachmas 5% Domestic lottery loan
+1921 119 million drachmas 6% Treasury bills of ‘‘National Defence’’
+125 million drachmas 5 years, at 6% Temporary loans by the National Bank of Greece
+150 million drachmas 1 years, at 6%
+75 million drachmas 5 years, at 6%
+40 million FF 6%
+1922 21 million drachmas 6% Treasury bills of ‘‘National Defence’’
+1.3 billion drachmas 20 years, at 6.5% Forced loan. 50% of the value of the banknote
+was exchanged for government treasury bills of
+equal value
+1923 603 million drachmas 6% Treasury bills of ‘‘National Defence.’’ The regular
+repayment of Treasury bills by the National Bank
+of Greece improved the countryÕs reputation,
+thereby attracting inactive provincial capital
+216 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+1924 50 million drachmas 10 years, at 6%
+648 million drachmas 10 years, at 6% A loan for consolidating previous temporary
+loans by the National Bank and the repayment of
+short-term treasury bills
+1926 1.25 billion drachmas 20 years, at 6% Forced loan. 25% of the value of the banknote
+was exchanged for government Treasury bills of
+equal value
+750 million drachmas 10 years, at 8% A loan for the conversion of 50% of the
+outstanding Treasury bills of ‘‘National Defence’’
+1927 800 million drachmas 8% Loan of Greek citizens
+1928 1.65 billion 6% Loan for the exchange of populations
+drachmas 6% Loan for Greek-Bulgarian migration
+800 million drachmas
+1929 700 million drachmas 6% Loan for war victims
+Foreign loans
+1824 £0.8 million 36 years, at 5% Success. Sign of sympathy to Greece
+1825 £2 million 6% Bond speculation on the London Stock Exchange
+market
+1826 Debt repudiation Unilateral suspension of loan servicing payments
+1832 60 million drachmas 36 years, at 5% ‘‘Gesture of goodwill’’ by the Protecting Forces in
+view of the advent of the monarchy
+1843 Debt repudiation Unilateral suspension of servicing the 1832 loan
+1856 Imposition of
+international financial
+control
+Non-recognition of the loan by the Greek
+monarchy
+1864 Debt compromise Final settlement of the 1832 loan
+1879 60 million gold FF 40 years, at 6% The government contracted the loan to restore
+bimetallism
+£1.2 million 33 years, at 5% Final settlement of the 1824–1825 loans. The
+outstanding foreign debt was 10 million. By the
+law of 8th December 1878, the bonds of the
+Independence loans were converted into bonds of
+a new loan of £1.2 million
+(continued on next page)
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 217
+
+
+Table 2 (continued)
+Year Loan Interest rate,
+maturity
+Comments
+1880 60 million gold FF 6% The National Bank of Greece contracted a foreign
+lottery loan in metallic at a high interest rate, on
+behalf of the Greek State
+1881 120 million gold FF 40 years, at 5% Bond loan. The revenues from public monopolies
+(tobacco) and import duties were used for the loan
+repayment. The bond were issued in Athens,
+London and Paris and they were sold at a
+discount. The price of issue was 75.6%
+1883 10 million gold FF
+1884 170 million gold FF 37.5 years, at 5% Bond loan. The bonds were issued in Paris and
+sold at a discount: 69.3%
+1887 135 million gold FF 75 years, at 4% ‘‘Monopoly’’ bond loan. It was used for financing
+the budget deficits. The revenues from public
+monopolies were used for the loan repayment.
+The loan was partially covered (91 million) and
+the bonds were sold at a discount: 78.5%
+1889 30 million gold FF 4% The government used the loans to repay its
+floating debt to the Bank. The loans were partially
+covered (100 million) and the bonds were sold at a
+discount: 68% and 73%, respectively
+125 million gold FF 4%
+1890 90 million gold FF 99 years, at 5% International monetary turmoil. Failure. The loan
+was issued to expand the railway network; it was
+partially covered (53 million) and the bonds were
+sold at a discount : 45 million FF at 89% and 15
+million FF at 86%
+1892 Foreign marketsÕ distrust
+of the Greek government
+Mr. Law (economic attache of the English
+embassy) and Mr. Roux (economic attache of the
+French embassy) made a report on the current
+Greek economic situation. They were fully
+supported by the Greek government, which
+envisaged the agreement on a new foreign loan
+218 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+1893 100 million gold FF 5% Funding Loan. Failure. The government derived
+only 9.7 million
+Debt repudiation The Law report, which depicted favourably the
+Greek economy, was published, whereas the Roux
+report, which pointed out to the loss of the
+countryÕs credibility, was never published. The
+government was unable to contract a new foreign
+loan. Unilateral refusal to pay amortisation.
+Repayment in gold of only 30% of the interest on
+due foreign loans, as well as repayment in paper
+money of 50% of payable interest
+1894 Negotiations Deadlock. Unsuccessful effort to issue a
+capitalisation loan (interest coupons falling due
+would be paid off by means of bonds)
+1895–1896 New negotiations
+1898 Debt compromise Tax collection and management system was
+audited by foreign creditors
+150 million gold FF 2.5% Success. A bond loan was issued under the
+guarantee of the Protecting Forces (the UK,
+France and Russia) at a low interest rate for
+paying the huge war indemnity to Turkey. The
+price of issue was 100.5%
+1902 56.3 million gold FF 98 years, at 4% A bond loan was issued to complete the countryÕs
+railway network. The price of issue was 84%
+1907 20 million gold FF 36 years, at 5% Bond loan. The price of issue was 97%
+1910 40 million gold FF 5 years, at 5% Temporary loan. The price of issue was 99%
+1910–1911 110 million gold FF 50 years, at 4% A bond loan in gold was contracted to finance the
+huge military expenditures in the face of the
+Balkan Wars. The price of issue was 86.5%
+1914 335 million gold FF 50 years, at 5% A bond loan was contacted to cover expenses
+regarding the re-organisation and modernisation
+of the annexed regions. The majority of the bonds
+were sold at 92.25% and a small part at par value
+(continued on next page)
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 219
+
+
+Table 2 (continued)
+Year Loan Interest rate,
+maturity
+Comments
+1918 850 million gold FF Foreign loans in the form of money credits that
+the Allied Powers guaranteed, ought to be paid
+after the end of the war. In the meantime, the
+country should issue paper money of equal value.
+However, these credits were not actually released,
+and thus severe exchange rate fluctuations
+occurred
+1924 £10 million 40 years, at 7% Refugee loan. The bond loan was issued in
+London and New York at 88%
+1925 $10 million 27 years, at 8% A bond loan was contracted for financing the
+construction of the countryÕs water-supply
+network. The price of issue was 85%
+1927 £9 million 40 years, at 6% Stabilisation loan. The bond loan was issued in
+New York and London at 91%
+1928 £4 million 40 years, at 6% Public works loan. The price of issue was 89%
+1932 Debt repudiation Unilateral suspension of amortisation payments
+for the external debt
+1935 Debt compromise WWII suspended all payments
+Note. The domestic debt was granted almost entirely by the National Bank of Greece. Private creditors, such as universities, pension funds and charities held
+only a small fraction of the debt. The low credit-worthiness of the country, the risk implied by the long-lasting exchange rate volatility and the small size of the
+domestic money market (the only market in which bonds could be traded, as they could not be cashed in metallic currency) prevented the trading of bonds on
+the Stock Exchange for a long period of time. Almost all bonds remained immobilised in the portfolio of the National Bank of Greece. However, from the
+early 1900s the government bonds were traded on the Athens Stock Exchange.
+Source. Katselidis (1902); Valaoritis (1902); Andreades (1904); Simantiras (1905); National Bank of Greece, Annual Report (various issues) and Bank of
+Greece, Monthly Statistical Bulletin (various issues) and Pantelakis (1995).
+220 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+fully, with foreign creditors to increase the BankÕs reserves. Seigniorage was reduced to 21% of total tax revenues, while revenues from indirect taxation increased to 45% in 1878 and 51% in 1879. The governmentÕs decision was prompted mainly by its interest in successfully concluding its negotiations with foreign creditors for the Independence loans, which had been going on since 1878. Effective fiscal and monetary adjustment was translated into a successful debt settlement. From June 1879, Greek government bonds were accepted again on the London Stock Exchange market and large gold inflows occurred (see Table 2). The government successfully contracted foreign loans to increase metallic reserves and restore bimetallism. In 1879 it contracted a bond loan of 60 million gold French francs at 6% interest rate and at 76% bond issue price. In 1881 and 1884 new bond loans payable in gold were issued in London and Paris. The interest rate was lower by 1% point (5%). However, the bonds were sold at a discount; the bond price at the time of issue was 75.6 and 69.3%, respectively. As evidenced by Fig. 3, which plots the money multiplier, public confidence in the domestic currency was promoted. In a state of euphoria, in May 1880, the government announced the precise date for specie payments resumption (1st January 1881). However, reversion to bimetallism on the specified date failed. The anti-inflationary policy efforts stopped in October 1880 when a new crisis broke out in GreekTurkish relations, resulting in increased wartime expenditures. Once the crisis passed, the government, enforced by its intention to return back to fixed exchange rates, took, for a second time, anti-inflationary policy measures. The fiscal deficit was largely reduced in 1882 and remained at low levels until 1884. Moreover, in November 1882 it devalued the drachma so that the drachma:French franc parity came to 1:1, as laid down in the LMU agreement. This time the effort was successful.
+Fig. 3. Money multiplier (1842–1939). Note. Money multiplier is defined as the ratio of money supply to the monetary base. It is an index reflecting the confidence of the public in the domestic banking system. High values indicate an increased confidence of the public in the banking system, as a larger proportion of money balances is kept with banks.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 221
+
+
+In January 1885, the drachma joined the gold standard at the statutory par, after a 7-year delay period had passed.19 It should be noted that the timing of the transition from an irredeemable paper currency standard to the gold standard could be interpreted by two factors. First, from the 1860s the use of gold as an international currency had increased in Europe while bimetallism—due to its inflationary bias—favored monetary instability (Einaudi, 2000). Moreover, the economically advanced countries had large average values of transaction and, thus, gold coinage was more convenient due to lower carrying costs implied, compared to silver. From the beginning of the 1880s, all the developed world of the time was already on gold, and Britain, an important commercial and financial power, had been effectively on gold for almost a century already. Second, following the debt compromise on her foreign debt, which came at last in 1879, Greece could again draw funds from the capital markets of the core countries. However, this could be done only to the degree that foreign lenders ascertained that governments actually pursued prudent monetary and fiscal policies, aimed at linking the drachma to the international gold standard. By this way, the possibility of either a unilateral suspension of servicing the debt or servicing it in a devalued currency would be averted.
+3.1.3. Case #3
+A substantial government deficit, due to a recession since the end of 1884, forced the government in September 1885 to suspend the drachmaÕs convertibility, in view of a new war threat. Banknote circulation was reduced by 23.7% in 1885 whereas government spending was more than two times as large as the tax revenues. High interest payments, due to heavy borrowing, as well as an economic crisis at the end of 1884 caused large gold outflows. In addition, the long-lived fiat standard that the country experienced prior to 1885 caused a lack of confidence in the domestic currency, which resulted in a massive de-hoarding of banknotes immediately after the restoration of the specie standard. Beginning in 1886, the government relied on large-scale foreign borrowing for financing the budget deficits. During this period, Greek governments were able to raise foreign loans for the implementation of infrastructure projects. As can be seen in Fig. 2, seigniorage never rose above 14% of total expenditure while, on average, it was only 3% from 1886 to 1897, compared with 11% in the period 1877–1884. After averting the economic crisis of 1884–1885 and contracting a large foreign loan in
+19 It is worth mentioning the governmentÕs intention to restore convertibility. In his speech in April 1880 before the Greek Parliament, the then Prime Minister, Harilaos Trikoupis, supported the need to rebuild the countryÕs reputation in foreign capital markets and named the benefits for the national economy (see the Gazette of the Greek Parliament Conference of the 12th April 1880, p.1211). Two years later, in autumn 1882, when the government made hard efforts to resume specie payments, the then Minister of Finance, Efthimios Kehayias, stressed the necessity of linking the drachma to the French franc: ‘‘. . . which currency does facilitate money transactions with Europe, the completely unknown drachma or the common currency in Europe, i.e., the French franc?’’ (the Gazette of the Greek Parliament Conference of the 4th November 1882, p. 63).
+222 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+1887, the countryÕs credit-worthiness in the international capital markets was enhanced. From 1887 onwards, foreign creditors willingly provided the government with loans with small or no pledges and at a low interest rate. This happened because they considered that the suspension of the drachmaÕs convertibility in September 1885 was temporary and was attributed to an emergency. It was expected that the government would soon adopt anti-inflationary policy measures, as it had done in the past, in an effort to resume specie payments, once the effects of the urgent contingency had passed. Indeed, as can be seen in Fig. 1, the ratio of government spending to total tax revenues was sharply reduced to 129 and 121% in 1887 and 1888, respectively, compared with 209% in 1886 and 207% in 1885. The credit-worthiness of a country should be assessed by using both the interest rate and the market bond prices. For example, the loans of 1887 and 1889 indeed bore 4% interest rate, which was low enough, compared with the previous foreign loans, but the bonds were sold at a discount. The bond price of issue was 78.5, 68, and 73%, respectively. Nevertheless, higher government expenditures and its financing through foreign borrowing caused higher interest payments,20 thus contributing to persistent budget deficits that prevented the return to the gold standard. In 1890 the countryÕs reputation as a borrower began to suffer. The forthcoming debt default of Portugal in Europe and the dollar crisis on the other side of the Atlantic as well as the Baring crisis worried foreign creditors who, until then, were generously supplying loans to developing countries at low interest rates. In June 1893 the government tried, without however, meeting with success, to contract a new foreign loan, while in December it unilaterally suspended payments on servicing the external debt. The countryÕs credibility had been destroyed and foreign investors, in an effort to re-negotiate the debt, demanded the presence of foreign experts for the monitoring of the economic policy pursued, and especially, of the tax collection and management systems. Establishment of the ‘‘International Committee’’ for Greek debt management was regarded by foreign creditors as a sufficient condition for the government to make credible efforts to achieve fiscal and monetary discipline.21 By a law adopted on 26 February 1898, the use of money creation as a financing instrument was strictly prohibited and a statutory limit (66 million drachmas) in note circulation was set. The National Bank was not allowed to increase ‘‘uncovered’’ note circulation over and above this limit. It was also announced that the govern
+20 In 1891 interest payments were five times higher as in 1877. 21 The government started negotiations with foreign creditors in 1894 that came to a dead-end in 1896. The 1897 Greco–Turkish War was completely financed through inflation. Debt compromise came at last in 1898. Foreign creditors demanded that a large part of the interest payments on foreign loans (43% on the Monopoly Loan and 32% on all other loans) should be repaid in gold and the rest in drachmas. They also demanded to gain from the drachmaÕs revaluation. Starting from 1903 Greece should pay to foreign creditors a fixed amount of 15 million drachmas (or 9 million gold French francs). However, every time the drachma was revalued, interest payments should increase by 30% of the currencyÕs revaluation rate. For a detailed description of the negotiations, see Andreades (1925), Part II, pp.274–300.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 223
+
+
+ment should amortize its floating debt to the National Bank by 2 million drachmas annually and note circulation should be reduced by the same amount.22 For the Greek economy, the first decade of the 20th century was generally characterized as a period of rapid growth. Exports were promoted and domestic growth accelerated.23 The shipping industry experienced considerable progress, expanding its activities to the transit trade of third countries. After the debt compromise in 1898, the countryÕs international credit standing was gradually rebuilt, resulting in a foreign capital inflow and the trading of government bonds on the domestic money market. The foreign loan of 1898 was successfully issued: the interest rate was low (2.5%) and the bonds were sold with a premium (100.5%). In 1902 a new foreign loan was issued at 84%, while the bonds of the 1907 loan were sold at near par value (97%). Excess money demand, in conjunction with the monetary stringency (due to the annual reduction in the monetary base imposed by the International Committee), caused a liquidity restraint in the economy that was reflected in the strong revaluation of the drachma. Revaluation benefited foreign creditors but harmed trade. To avoid deflationary pressures and to curb any revaluation of the drachma above its statutory par, the government restored convertibility in March 1910. The resumption was made at the initial parity of 1:1. The countryÕs credit-standing was improved further, resulting in the successful coverage (about 60%) of the huge military expenditures in the face of the Balkan Wars I and II by foreign borrowing, without disturbing the fixed exchange rate of the drachma against the French franc.24 A sign of the countryÕs international credibility was also the fact that the price of government bonds traded on the London Stock Exchange market started to rise after 1910, climbing at a high of 60–70 pounds sterling, the highest price ever recorded. After the debt compromise in 1898 and for almost a decade the London price of government bonds fluctuated between a minimum of 37 to a maximum of 45 (on each face value = 100). From 1910, the price started to increase gradually, reaching a peak of 53 in the beginning of 1915.25
+3.1.4. Case #4
+After a long wartime period (1917–1922) marked by unprecedented political and social upheavals, monetary expansion, high inflation, and wide fluctuations in drach
+22 One representative by those European countries that intervened suspending hostilities between Greece and Turkey in the war of 1897 (the UK, France, Germany, Italy, Russia, and Austria–Hungary), was appointed to the committee. Members were E. Fg. Law, L. Bodio, W. Kaufmann, Suzzara, Testa, Dubois de lÕEstang, and A. Smirnow. The committee was active until the outbreak of WWII. See Valaoritis (1902, pp. 177–194) and Andreades (1925, pp. 305–337). 23 Greek exports primarily consisted of high income-elasticity main agricultural products, such as olive oil, currants, sultanas, wine, and tobacco. Exports of skins and silk also rose. 24 In 1910–1911 and in 1914 the government issued, with success, two large loans in gold. The bonds were issued at a small discount: 86.5 and 92.25%, respectively. 25 These figures are derived from a chart that shows the price of Greek government bonds traded on the London Stock Exchange market for the period 1898–1923. See the Annual Report of the Governor for the Year 1922 (1923). The complete time series is still missing.
+224 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+ma exchange rates, Greece tried anew to follow international monetary developments from the mid-1920s. In the Annual Report for the year 1926, the then Governor of the National Bank of Greece, Alexandros Diomides, regarded monetary consolidation—pursued not through a revaluation but by bringing the value of the domestic currency to the market level—as a prerequisite for foreign capital inflow. Diomides pointed out the benefits of monetary stability stipulated by law, as follows:
+‘‘Restored. . .confidence in the domestic currency will not only repatriate capital from abroad allowing to be invested in drachma-denominated securities, subdued today, but also will remove all psychological barriers to the smooth transfer of capital across markets, thereby automatically restoring a balance. Such capital will be attracted to where there will be a more profitable use, temporary or permanent, it will cover budget deficits, it will greatly contribute to the decrease in the interest rate, bringing it down to lower levels, close to those prevailing abroad. In this way, business activity, slackening today as it lacks cheap capital, will easily find the means to be promoted and perform in terms advantageous for the entire economy. . .’’ (National Bank of Greece, 1927, pp. xxv–xxvi).
+When hostilities with Turkey ended with the ratification of the Treaty of Lausanne (July 1923), the government attempted to make appropriate adjustments in fiscal and monetary policy. It avoided using inflation as a financial instrument, but tried to cover spending through indirect taxation. Indirect taxes increased to 50.1% of total tax revenues in 1923 and 53.2% in 1924, compared with 38.3% in the period 1915–1919, whereas direct taxes remained close to 20%. In addition, it successfully sought to contract a foreign loan (the 1924 Refugee Loan). In the aftermath of the Asia Minor Disaster, the country had lost her credibility in the international capital markets. The price of Greek bonds traded on the London Stock Exchange market had approached the very low level of 20–21 pounds sterling and the interest rate had soared to 25%. However, from 1923, the countryÕs credit-worthiness started to recover. The price of government bonds gradually increased, reaching 50–55 pounds in 1923 and 65 pounds in 1924 implying remuneration at a rate approaching the yields on foreign securities (8.5–9%). With the countryÕs involvement in WWI, the price of government bonds traded on the London Stock Exchange market started to fall, touching a minimum of 44 (on each face value = 100) in the first half of 1919. Since then, it rose, reaching a peak of 127 when the Greek Army disembarked at Asia Minor and the Greek State extended its northeast boundaries to include the Greek minority in Turkey. In the aftermath of the great defeat and the Smyrna disaster in September 1922, the price of government bonds was sharply reduced to 89. From 1923, prices started to rise again.26 In 1926, the government turned again to international capital markets of Western Europe and America to draw the requisite resources to meet pressing needs for the
+26 See the Annual Report of the Governor for the year 1924 (1925), National Bank of Greece.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 225
+
+
+relief of refugees and the countryÕs rearmament.27 In December 1926 a coalition government was established that undertook the difficult task of economic stabilization. It also embarked on negotiations with the League of Nations aimed at encouraging the inflow of foreign capital. A financial commission of four experts, chaired by the LeagueÕs General Secretary, Joseph Avenol, visited Greece in April 1927 to study the countryÕs economic conditions. Special interest was placed upon the public finances. Creditor countries agreed to provide, in 1927, a tripartite loan of 9 million pounds sterling. The loan was successfully issued (at 91%). However, they demanded the restoration of convertibility as a pre-condition for lending and as a signal of fiscal prudence and monetary discipline (see the League of Nations, 1927a). In particular, to ensure fiscal consolidation, and thus, debt repayment, they imposed a clear-cut ‘‘fiscal rule’’: government expenditures should not increase over and above a statutory limit of 9 billion drachmas in the year 1929 and 1930 and the budget should be in balance afterwards. As Obstfeld and Taylor (2003) remark, due to the high degree of economic globilization ‘‘. . .adherence to gold, in and of itself, was sufficient to enhance market credibility before 1914.’’ By contrast, in the interwar period public debt levels were a crucial determinant of a countryÕs market credibility: ‘‘. . .now creditors also wanted to see the books’’ (p. 31). They also demanded the foundation of an independent central bank (the Bank of Greece) that would have the sole privilege of note issue and operate as an official body in the conduct of monetary policy, according to the central banking orthodoxy of the time (see the League of Nations, 1927b). The loan was used first, to increase the central bankÕs foreign reserves and help stabilise the drachma, second, to finance the accumulated budget deficits, and third, to help with resettling the refugees. The stabilization period lasted 18 months and was completed successfully. The drachma was de jure stabilised close to its market rate. On 14 May 1928, Greece joined the interwar gold-exchange standard. The structure of the domestic debt by type of security at various times as well as the fluctuations in the countryÕs credit-worthiness (namely, the access to or the exclusion from international money markets, the changes in interest rates and the maturity of the loan, and the provision of guarantees) may provide some evidence on the development of the countryÕs reputation as a debtor. Fig. 4 depicts debt composition at four different points in time (public liabilities to the National Bank are used as a proxy for domestic debt): in 1865, when the drachma belonged to bimetallism; in 1893, when Greece was in default in her foreign debt; in 1910, when the drachma was linked to the LMU; and in 1928, when the drachma joined the interwar gold standard. We notice that whenever the government made successful anti-inflationary efforts, aiming at the restoration of the convertibility rule, a percentage equal to or
+27 Some 1.2 million refugees were settled in Greece after the great defeat of the Greek Army and Smyrna disaster in September 1922. During the period 1914–1922 the country experienced important territorial and demographic changes. On the eve of the Balkan Wars 1912–1913, the country covered an area of some 65,000 km2 with a population of about 2.8 million. After victory in the Balkan Wars and the population transfers after WWI and the massive influx of refugees followed the defeat in the Greco-Turkish War (1919–1922), the Greek population rose sharply to about 6 million and the area administered by the Greek State increased to 130.000 km2.
+226 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+larger than 50% of total debt corresponded to long-term borrowing. It is also worthnoting that government bonds corresponded to 46 and 65% in 1910 and in 1928, respectively, while short-term debt (Treasury bills and temporary loans) corresponded only to 2% in 1910 and 27% in 1928.
+Fig. 4. Structure (by type of security) of Greek Public Debt to the National Bank of Greece.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 227
+
+
+Peripheral countries were unable to issue paper bonds, i.e., bonds denominated in the domestic currency but only bonds with gold or exchange clauses. This way, the exchange risk was eliminated since lenders could be repaid in the currency of denomination (specie or hard currency) regardless of the governmentÕs monetary circumstances. Country risk, however, remained high. Refusing to repay the debt or to repay in deflated currency would be possible. The history of Greek foreign loans could provide some useful information concerning the constraints that faced Greek governments. As seen in Table 2, foreign debt was gold indexed or denominated either in French francs or sterling. Due to many defaults in the past, the country risk was high and, thus, the risk premium was large. However, the credible adherence to a gold standard contingent rule acted as a seal of approval. Each time the government announced its intention to maintain a fixed rate regime the country could draw funds with lower borrowing cost in the sense both of the interest rate and the bond price of issue (see Table 3).
+Table 3 An assessment of GreeceÕs credit-worthiness
+Before 1879 Greece was unable to have access to international capital markets. A short-term domestic debt was issued at a very high rate (8%) 1879 Greece rebuilt her reputation in the international capital markets after a debt compromise was reached for outstanding foreign loans 1880–1884 Efforts for the drachma to join the Latin Monetary Union. Long-term foreign borrowing from the money markets of Western Europe on favourable terms (5%). The bonds, however, were issued at a discount. Improvement of borrowing terms in the domestic money market: the interest rate was cut to 6–7% and loan maturities were extended 1886–1889 Foreign investorsÕ expectations that the drachma would return to the gold standard. Borrowing from abroad at a low interest rate (4%) and at a higher bond price at the time of issue, with a small or no guarantee 1890–1897 GreeceÕs credit-worthiness tottered. Foreign creditors were unwilling to lend to the country 1898 Debt compromise. Successful implementation of a long-term stabilisation programme with the assistance of foreign creditors 1899–1909 Borrowing from abroad at a low interest rate (4%) and at a low discount rate or near par value. Bonds of domestic loans became tradable on the domestic market. Bond lottery loan at par value 1910–1914 GreeceÕs credit-worthiness improved further. Possibility to borrow from abroad, due to a war emergency, at a low interest rate (4–5%). The bond price at the time of issue increased further 1915–1922 International capital markets were unwilling to lend to Greece, owing to the wartime turmoil, the post-war political and monetary instability in the country, and the countryÕs outstanding national defence debt. As of 1920, unwillingness of the domestic market as well, to grant loans to the Greek government. Continuous issuance of short-term Treasury bills (at 6%), short-term loans from the National Bank of Greece and money creation 1923–1925 End of the war. Fiscal adjustment and short-term domestic debt stabilisation efforts. The countryÕs credit-worthiness improved. Provision of a new foreign loan (at 7% interest rate and at 88% price of issue) 1926–1927 Stabilisation programme. The country rebuilt her international reputation as a debtor. Provision of a new foreign loan at a low interest rate (6%) and at a low discount (91%), conditional, however, upon the drachmaÕs entry in the international monetary system and the imposition of clear-cut fiscal rules
+228 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+Fig. 5 plots the market yield data on government bonds of long maturity payable in gold or in French francs, measured typically by the coupon-price ratio, for the period 1901–1928. The bonds quoted are the ‘‘old’’ loans of 1881, 1884, 1887, 1889, and 1890, contracted before the 1893 debt default and traded in Paris and London. Note that the ratio follows a downward trend in the 1900s when the country made credible efforts to discipline its fiscal and monetary policies, to join the gold standard. Disciplined fiscal policies implied lower public debt and, thus, lower default risk. The market price of the Greek bonds was higher since the central capital markets treated them more favorably. Fig. 6 plots the coupon-price ratio of the ‘‘new’’ foreign loans of 1902, 1907, 1910–1911, and 1914, contracted after the establishment of the International Monitoring Committee that helped the government to impose fiscal and monetary discipline. The yield data refer to long-term bond loans in gold or in French francs traded mainly in Paris. As seen in Figs. 5 and 6, the coupon-price ratio started to rise with the outbreak of WWI implying a higher country risk and declining market bond prices. In 1920–1921, in a state of euphoria due to the belief that the countryÕs irredentism dreams could be fulfilled, the coupon-price ratio was reduced, whereas in the aftermath of the Smyrna disaster it sharply rose. As the government made efforts to stabilise the economy and join the gold-exchange standard, the ratio started to decline again.
+3.2. Empirical results
+Fig. 7 shows the path over time of the Greek government bond spreads over London for the period 1870–1925. The bond spread is measured as the difference
+Fig. 5. The Coupon price ratio, 1901–1928 (ÔoldÕ government bond loans in gold or in French francs). Note. The loans had a coupon price of 500 French francs. The data for the market bond price (in French francs) refer only to the maximum bond price and the minimum bond price in a year. Hence, (max + min)/ 2 is used as a proxy for the mean market bond price. Data exist only for the period 1901–1928.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 229
+
+
+between the Greek bond yields and the British consol yield. It is a measure of the countryÕs risk; high rates imply large country risk. Pre-1880, Greece had a spread as large as 50, 30 or 20% points. With the debt compromise in 1879 and the deflationary policy that the government was embarked upon in 1881, the external borrowing spread was sharply reduced to 3% points and remained at these low levels until the end of the decade. From 1890 it started to increase again, since the attempt
+Fig. 6. The Coupon price ratio, 1903–1928 (ÔnewÕ government bond loans in gold or in French francs). Note. The loans of 1902, 1910–11, and 1914 had a coupon price of 500 French francs. The loan of 1907 had a coupon price of 100 French francs. The data refer only to the maximum bond price and the minimum bond price in a year. Hence, (max + min)/2 is used as a proxy for the mean market bond price. The sample period is 1903–1928 for the 1902 loan, 1908–1928 for the 1907 loan, 1911–1928 for the 1910–1911 loan, and 1914–1928 for the 1914 loan.
+Fig. 7. Greek bond spread and the nominal exchange rate, 1870–1925. Note. Spread = Greek gold bond yield minus British consol yield, 1870–1925, percent per annum. Nominal exchange rate of the drachma against sterling (spot rates), 1885–1925, year averages.
+230 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+to restore specie flows failed and the countryÕs reputation as a borrower began to suffer. In 1896 it reached a peak of 10% points. With the debt compromise in 1898 and the shift towards more disciplined monetary and fiscal polices, the spread gradually fell to rates close to 4% points in the years after 1910, when Greece joined gold. Low spreads imply small country risk and, thus, better access to the London capital market, that is, cheaper credit. The figure also shows how the external borrowing spread and the nominal exchange rate (drachmas per sterling) co-varied. Expectations of resumption and lower borrowing costs were strongly interrelated. For example, in the 1890s, the drachma depreciated against sterling and borrowing costs rose, whereas in the post-1898 deflationary period, the drachmaÕs appreciation was closely related with lower borrowing costs. Also, the strong devaluation pressures in the currency appeared in the late 1910s and the early 1920s were accompanied by a higher bond spread. An econometric analysis is required to control, in a more formal way, for the determinants of the bond spreads. Selected macroeconomic variables of the country risk would be the inflation rate, the debt to GDP ratio, gold standard adherence, the exports to GDP ratio or the real income per capita (see Obstfeld and Taylor, 2003). Missing data for some of the determinants are a problem.28 Nevertheless, some tentative results emerge from a regression of the bond spread on the key policy regime variable, which is the adoption or the suspension of the gold or foreign exchange convertibility. Not surprisingly, the spread is highly auto-correlated, since bond spreads are a function of the countryÕs reputation in capital markets, which is slow to change (Frieden et al., 2000; Obstfeld and Taylor, 2003). To deal with this problem I adopt an AR(1) specification for the dependent variable and by using dummies I take into account the ‘‘policy regime effect.’’ Table 4 presents the estimates on persistence and the sample mean in the form of a univar
+Table 4 Country risk and the gold standard in Greece, 1870–1925 (OLS-estimates of AR representation of bond spreads)
+Spreadt = 3.844 GS (2.160) + 11.518 GSUSP (7.030) Adj-R2 = 0.057, SE = 10.990, DW = 0.129
+Spreadt 1⁄4 0:811ð1:366Þ þ 0:663 spreadGS
+t 1 ð2:927Þ þ 0:845 spreadGSUSP
+t 1 ð23:828Þ
+Adj-R2 = 0.919, SE = 2.866, DW = 1.543, L(1) = 2.821, L(2) = 1.769, ARCH(1) = 0.472, ARCH(2) = 0.539
+Note. Annual data. GS takes the value of one for gold or gold-exchange regimes (1885, 1910–1919) and zero elsewhere. GSUSP takes the value of one in the years Greece was off gold (1870–1884, 1886–1909, and 1920–1925) and zero elsewhere. SE is the standard deviation of the dependent variable. LM(1) and LM(2) are the Breusch–Godfrey L statistic for the presence of first- and second-order residual autocorrelation, and ARCH(1) and ARCH(2) are Engle LM statistic for autoregressive conditional heteroskedasticity. T statistics are in parentheses.
+28 A complete time series for Greek public debt does not exist for the period under study, while a time series for CPI inflation starts as late as in 1915.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 231
+
+
+iate representation of the spread series. The regression on a constant produces estimates of the sample mean. By using the dummy variables GS and GSUSP, we can split the sample mean into two different means; i.e., the mean for the years that the country was on gold (GS) and off gold (GSUSP). Country risk was substantially lower in the years of the countryÕs gold adherence (3.8% points versus 11.5% points). Both dummies are strongly statistically significant. Moreover, spread persistence has shown a remarkable difference across regimes. It rose from 0.66 in the years that Greece adhered to gold or foreign exchange convertibility, to 0.84 in the years of flexible rates.
+4. Conclusions
+By using the hypothesis that the gold standard served as a ‘‘good housekeeping seal of approval,’’ I have tried to explain why Greek governments of the 19th and early 20th centuries strongly insisted on the participation of the drachma in the prevailing international monetary system. Greek governments seemed to have followed a ‘‘contingent gold standard rule.’’ In case of an emergency, such as war, the government temporarily relied upon inflation to cover excess spending. Once the hostilities ceased, it pursued an anti-inflationary policy so as to revert to the ‘‘natural state,’’ namely the convertibility of the drachma into a precious metal or foreign exchange, at some future date. Second, better access to international capital markets might also have motivated Greece to enter a monetary zone with strong economies, since the gold standard countries enjoyed credibility and had a lower country risk. Each time Greek governments needed foreign capital to finance their excess spending, they made credible efforts to achieve fiscal consolidation and monetary discipline, with a view to enhancing the countryÕs reputation in the international capital markets. On the other hand, foreign investors were willing to lend to the government only in the case in which the latter credibly committed itself to the drachmaÕs participation in the international monetary system. Credible adherence to the convertibility rule would ensure that the country should have more disciplined fiscal and monetary policies and a lower public debt, and thus, more favorable treatment by the capital markets. A sound fiscal system could send a signal to lenders that the country would not default. By this way, the country faced lower credit risk and, consequently, lending rates were largely reduced.29 Two caveats are in order. First, case studies are only suggestive and not definitive. Second, other hypotheses have been put forward as to why a country joined gold, involving changing trade patterns, financial needs and domestic constraints, or political and military conflicts. Moreover, as Clemens and Williamson (2000) have showed, international capital market failure did not solely determine capital flows
+29 Adhering to the gold standard might not be a necessary condition to repay debt in gold. For example, Italy did so to its international creditors (Tattara, 2000) and the US had episodes of inconvertibility and still paid in gold.
+232 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+from rich to poor countries in the gold standard period. Funds flowed to capital-import countries where investment opportunities were most profitable. Other factors played an important role. Schooling, natural resources and demographic features (migrants and youth) were the fundamentals driving capital exports. Finally, institutional measures of political or military conflict, such as democracy, property rights and so on, may affect country risk. Which of these factors had a significant effect on why Greece adopted gold, when she did so, would be very interesting questions for further quantitative research.30
+Appendix A. Data appendix: sources and definitions
+The data for the market bond price in Paris (in French francs) for the loans of 1881, 1884, 1887, 1889, 1890, 1902, 1907, 1910–1911, and 1914 are from the Athens Stock Exchange, Yearbook, (various issues). They refer only to the maximum price and the minimum price in a year. The time periods are 1901–1928 for the ‘‘old’’ loans (1881, 1884, 1887, 1889, and 1890) and 1903–1928 for the 1902 loan, 1908–1928 for the 1907 loan, 1911–1928 for the 1910–1911, and 1914–1928 for the 1914 loan. The time series for Greek bond spreads are form Obstfeld and Taylor (2003). The bonds quoted from Global Financial Database are the 5s of 1824 and 1879 (1870–1886) and the Monopoly 4s bond loan of 1887 (1887–1925). The data for the nominal exchange rate of the drachma against sterling (spot rates, year averages) are from the Greek National Statistical Service, Monthly Bulletin, 1885–1925 (various issues). The historical data for total government expenditure, revenues from direct and indirect taxation and interest payments are from Greek Government Budget, Annual Report, 1833–1936 (various issues), General Records of the Government. The data for banknote circulation are from the National Bank of Greece, Annual Report of the Governor, 1841–1927 (various issues), Historical Records of the National Bank, and from the Bank of Greece, Monthly Statistical Bulletin, 1928–1939 (various issues). Money supply is measured as the sum of banknotes in circulation (outside the monetary system) and total private deposits with commercial banks (sight, time, savings, and bank bonds). Therefore, it is a measure of the liquidity in the economy (M3). Monetary base is measured as the sum of banknote circulation, cash and the balances of the commercial banknotes with the central bank (reserve requirements). Commercial banks were not used to keep deposits with the National Bank. Data are available from 1928 and refer to deposits of all other banks and the National Bank with the Bank of Greece. In 1931 an institutional set-up was initiated concerning the function and the supervision of the domestic banking system. According to the law of 7 July 1931, all commercial banks were obliged to keep deposits with the central bank. Total private deposits (denominated in specie, foreign exchange, and drachmas) refer
+30 In an earlier work (Lazaretou, 1995b), the cross-regime time-series properties of Greek nominal and real variables were examined. Empirical findings suggest that fiat monetary standards were mainly characterised by higher inflation surprises, inflation persistence as well as a higher short-run volatility in unanticipated relative price changes.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 233
+
+
+mainly to deposits with the National Bank of Greece until 1911 and with all other banks and the National Bank from 1912 and afterwards. The data are from the National Bank of Greece, Annual Report of the Governor for the period 1841–1911 (various issues) and the Bank of Greece, Monthly Statistical Bulletin, for the period 1912–1939 (various issues). The data for cash are from the Balance Sheets of the National Bank and the Bank of Greece, Monthly Statistical Bulletin. The data for the deposits with the central bank are from the Bank of Greece, Monthly Statistical Bulletin. Finally, the data for the public liabilities to the National Bank (interest payments and amortization) are from the Balance Sheets of the National Bank, Historical Records of the National Bank of Greece. All the data refer to end-of-year.
+References
+Acena, P.M., 2000. The Spanish monetary experience, 1848–1914. In: Acena, P.M., Reis, J. (Eds.), Monetary Standards in the Periphery: Paper, Silver and Gold, 1854–1933. St. MartinÕs Press, New York, pp. 112–151. Alogoskoufis, G., Lazaretou, S., 2002. The Drachma. From the Phoenix to the Euro (in Greek), Livanis Editions. Andreades, A., 1904. The History of the National Loans. Library of Historical Studies, Athens (in Greek). Andreades, A., 1916. Lectures on Public Finance and Statistics. Part II: The Greek Tax System, Athens (in Greek). Andreades, A., 1925. Lectures on Public Finances: National Loans and Greek Public Economics. Part I and II, Athens (in Greek). Angelopoulos, A., 1933. Income Taxation in Greece. Athens, Eleftheroudakis (in Greek). Bordo, M., Kydland, F., 1995. The gold standard as a rule: an essay in exploration. Explorations in Economic History 32, 423–464. Bordo, M., Rockoff, H., 1996. The gold standard as a good housekeeping seal of approval. Journal of Economic History 56, 389–428. Bordo, M., Frandreau, M., 2001. Core, Periphery, Exchange Rate Regimes and Globalisation. Paper prepared for the NBER Globalisation in Historical Perspective Conference. Bordo, M., Schwartz, A., 1994. The Specie Standard as a Contingent Rule: Some Evidence for Core and Peripheral Countries, 1880-1914. NBER Working Paper No. 4860. Bordo, M., Vegh, C.A., 1998. What if Alexander Hamilton Had Been Argentinean? A Comparison of the Early Monetary Experiences of Argentina and the United States. NBER Working Paper No. 6862. Bordo, M., White, E., 1991. A tale of two currencies: British and French finance during the napoleonic wars. Journal of Economic History 51, 303–316. Bordo, M., Edelstein, M., Rockoff, H., 1999. Was Adherence to the Gold Standard a ‘‘Good Housekeeping Seal of Approval’’ during the interwar period? NBER Working Paper No. 7186. Clemens, M., Williamson, J., 2000. Where Did British Foreign Capital Go? Fundamentals, Failures and the Lucas Paradox, 1870-1913. NBER Working Paper No. 8028. DeCecco, M., 1974. Money and Empire: The International Gold Standard, 1890–1914. Basil Blackwell, Oxford. Della Paolera, G., Taylor, G., 2001. Straining the Anchor: the Argentine Currency Board and the Search for Macroeconomic Stability, 1880–1935. University of Chicago Press, Chicago. Eichengreen, B., 1990. Hegemonic Stability Theories of the International Monetary System. In: Elusive Stability, Essays in the History of International Finance, 1919–1939. Cambridge University Press 11, pp. 271–311. Eichengreen, B., 1996. Globalising Capital: A History of the International Monetary System. Princeton University Press, Princeton, NJ.
+234 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
+
+
+Eichengreen, B., 1999. The baring crisis in a Mexican mirror. International Political Science Review 20, 249–270. Eichengreen, B., Flandreau, M., 1998. The geography of the gold standard. In: Braga deMacedo, J., Eichengreen, B., Reis, J. (Eds.), Currency Convertibility: The Gold Standard and Beyond. Routledge, London, pp. 113–143. Eichengreen, B., Hausman, R., 1991. Exchange Rates and Financial Fragility. Federal Reserve of Kansas City, New Challenges for Monetary Policy. A Symposium sponsored by the Federal Reserve of Kansas City, pp. 329–368. Einaudi, L., 2000. From the Franc to ‘‘Europe’’: the attempted transformation of the Latin monetary union into a European monetary union, 1865–1873. Economic History Review 53, 284–308. Flandreau, M., 1996. The French crime of 1873: an essay in the emergence of the international gold standards, 1870–1880. Journal of Economic History 56, 862–897. Flandreau, M., Maurel, M., 2001. Monetary Union, Trade Integration and Business Fluctuations in 19th Century Europe: Just Do It. CEPR Working Paper No. 3087. Flandreau, M., Le-Cacheux, J., Zumer, F., 1998. Stability without a pact? Lessons from the European gold standard, 1880–1914. Economic Policy 26, 115–149. Fratianni, M., Spinelli, F., 1997. A Monetary History of Italy. Cambridge University Press, New York. Frieden, J., Pastor, M. Jr., Tomz, M. (Eds.), 2000. Modern Political Economy and Latin America: Theory and Policy. Westview Press, Boulder and Oxford. Fritsch, W., Franco, G.H., 2000. Brazilian experience with the gold standard. In: Acena, P.M., Reis, J. (Eds.), Monetary Standards in the Periphery. St. MartinÕs Press, New York. Gallarotti, G.M., 1995. The Anatomy of an International Monetary Regime. Oxford University Press, New York. Giovannini, A., 1993. Bretton woods and its precursors: rules versus discretion in the history of international monetary regime. In: Bordo, M., Eichengreen, B. (Eds.), A Retrospective on the Bretton Woods System. University of Chicago Press, pp. 109–153. Giovannini, A., 1989. How do fixed exchange rate regimes work? Evidence from the gold standard, Bretton Woods and the EMS. In: Miller, M.H., Eichengreen, B., Portes, R. (Eds.), Blueprints for Exchange Rate Management. Academic Press 2, pp. 13–41. Katselidis, G., 1902. The Currency. Athens (in Greek). Kehayias, E., 1875. The New Monetary System. National Bank of Greece 1927 (in Greek). Kindlerberger, C., 1993. A Financial History of Western Europe (new edition). Oxford University Press, Oxford. Lazaretou, S., 1993. Monetary and fiscal policies in Greece, 1833–1914. Journal of European Economic History 22, 285–311. Lazaretou, S., 1995a. Government spending, monetary policies and exchange rate regime switches: the drachma in the gold standard period. Explorations in Economic History 32, 28–50. Lazaretou, S., 1995b. Inflation and real exchange rate behaviour under alternative nominal exchange rate regimes: the Greek experience of 1877–1936. Greek Economic Review 17, 1–22. Lazaretou, S., 1996. Macroeconomic policies and nominal exchange rate regimes: Greece in the interwar period. Journal of European Economic History 25, 647–670. League of Nations, 1927a. Report to the Financial Committee of the League of Nations on GreeceÕs Public Finances, Bank of Greece. League of Nations, 1927b. Report to the Financial Committee of the League of Nations on the role of the National Bank of Greece, Bank of Greece. Lopez-Cordova, J.E., Meissner, C., 2003. Exchange rate regimes and international trade: evidence from the classical gold standard era. American Economic Review 93, 344–353. Lucas, R., Stokey, N.L., 1983. Optimal fiscal and monetary policy in an economy without capital. Journal of Monetary Economics 12, 55–93. Meissner, C.M., 2002. A New World Order: Explaining the Emergence of the Classical Gold Standard. NBER Working Paper No. 9233. North, D.C., 1991. Institutions, Institutional Change and Economic Performance. Cambridge University Press, Cambridge.
+S. Lazaretou / Explorations in Economic 42 (2005) 202–236 235
+
+
+Obstfeld, M., Rogoff, K., 2001. The six major puzzles in international macroeconomics: is there a common cause? In: Bernanke, B.S., Rogoff, K. (Eds), NBER Macroeconomics Annual. MIT Press, Cambridge, MA. Obstfeld, M., Taylor, A.M., 2003. Sovereign risk, credibility and the gold standard: 1870–1913 versus 1925–1931. Economic Journal 113, 1–35. Pantelakis, N., 1995. Greek Government Borrowing. Cultural Institute of the National Bank of Greece (in Greek). Reis, J., 2000. The gold standard in Portugal, 1854–1891. In: Acena, P.M., Reis, J. (Eds.), Monetary Standards in the Periphery. St. MartinÕs Press, New York, pp. 69–111. Simantiras, J., 1905. The Issue Over the Suspension of Convertibility. Athens (in Greek). Sussman, N., Yafeh, Y., 2000. Institutions, reforms and country risk: lessons from Japanese Government Debt in the Meiji Era. Journal of Economic History 60, 442–467. Svoronos, N., 1976. A Review of the Modern Greek History. Athens (in Greek). Tattara, G., 2000. Was Italy ever on gold?. In: Acena, P.M., Reis, J. (Eds.), Monetary Standards in the Periphery. St. MartinÕs Press, New York, pp. 18–68. Valaoritis, J.A., 1902. The History of the National Bank of Greece, 1842–1902. Athens, vols. 1 and 2 (in Greek).
+236 S. Lazaretou / Explorations in Economic 42 (2005) 202–236
